@@ -1,0 +1,856 @@
+{
+    "event_id": "104584",
+    "claim": "A Harvard study proved that Apple purposely slows down its older model iPhones to coincide with device releases and to boost sales of new models.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "A long-circulating piece of technology lore surrounding the release of new iPhone models holds that Apple unleashes furtive iOS updates in order to dramatically slow down existing iPhone models just before the release of newer models in a case of “planned obsolescence” intended to increase sales of the latest iPhones.  An example of the rumor was illustrated in an episode of the Netflix series :The referenced “study” was mentioned 26 July 2014  “Upshot” blog post authored by Harvard economics professor Sendhil Mullainathan, which he describes it as a graduate student’s casual experiment using Google Trends:Mullainathan contrasted the Google Trends search with a similar one involving Android products, noting an absence of similar results and positing:A December 2017 article from Geekbench charted that some older iPhones did seem to exhibit slower performance after particular iOS upgrades, but that their speed picked up once their batteries were replaced:At that juncture, Apple finally acknowledged that yes, some recent iOS upgrades did throttle processor speeds in some older model iPhones. But, according to Apple, that action was intended to address a problem with unexpected power-related shutdowns (and other issues) in older phones caused by their batteries’ degrading over time and was not — as rumor commonly claimed — deliberately coincident with the release of newer iPhones in order to drive sales:Although, as Geekbench noted, the issue might nonetheless serve to increase sales of newer iPhones, whether or not that was Apple’s intended purpose — in the absence of any explanation for the sudden change in performance, many iPhone users may assume the performance problem is related to their phones (and not specifically to their batteries) and therefore opt to upgrade their iPhone models:On 21 December 2017, a class action lawsuit was filed against Apple over the slowdown issue.",
+    "reports": [
+        {
+            "link": "https://www.dailymail.co.uk/sciencetech/article-2709502/Does-Apple-deliberately-slow-old-models-new-release-Searches-iPhone-slow-spike-ahead-launches.html",
+            "content": "A new study be back up long held suspicion that Apple slow down old model of it iPhones to encourage user to buy a new release . For instance , the late version of the Apple operating system , iOS , be always tailor to the new device and may therefore not work as efficiently on old model . 'If you want to keep your iPhone run at the same pace do not do the software upgrade that come out within six month of a new iPhone release , '\nLast year , Catherine Rampell , also write in the New York Times , raise concern that Apple could be engineering the new operating system so it only work properly with the new version of the product . ‘ It ’ s just enough to annoy the user , but it ’ s need if you want the slew of new feature that Apple release each year . The U.S. study analyse worldwide search for 'iPhone slow ' and find that the search term spike significantly around the time of new iPhone launch . The organisation claim that because it have the new retina screen it make the iPad 3 redundant and that Apple be change it device too quickly . There be other explanation for why an old model iPhone may slow down , he claim . While some MailOnline reader have n't notice a slow down , others claim that Apple be sabotage old phone through software update . It then compare those result with similar search for the term 'Samsung Galaxy slow ' , and discover the term be unaffected by new release from Samsung . Ms Rampell accuse Apple of have run out of idea so be try to ‘ brainwash ’ it customer into buy the new iPhone 5S and 5C because they look nice . The study , compile by Harvard University PhD student Laura Trucco , follow claim that the Cupertino-based company be deliberately sabotage it old product . ‘ If you can brainwash consumer into develop new taste that make the old stuff look uncool for aesthetic rather than functional reason , you still have a shot at harvest more sale from your exist customer base . ’\nMr Mullainathan add that the research do not prove that Apple have do anything wrong . ‘ And you suddenly notice how slow your old phone be . ‘ Hearing about a new release make you contemplate get a new and faster phone , ’ he add . 'Would n't many business owner love to make their old product less useful whenever they release a new one ? ' ‘ Each year they release a new iOS . She say her iPhone 4 become a lot slow when she download iOS 7 - and that the only solution seem to be to buy the iPhone 5 . The theory state that manufacturer of everything from car to microwave build in a certain lifetime to a product and then it will simply stop working , force consumer to buy a new one . ‘ On every hardware release they tend to upgrade the chip and they be faster every time they be release , ’ he say . He add file find hidden within the firm 's software contain a file-relay service that can be use to access the user 's address book , photo , voicemail and any account configure on the device . The conclusion be base on an analysis of 600 million iOS device , with handset run the most recent version of the software at particular risk .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "A new study be back up long held suspicion that Apple slow down old model of it iPhones to encourage user to buy a new release .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For instance , the late version of the Apple operating system , iOS , be always tailor to the new device and may therefore not work as efficiently on old model .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "'If you want to keep your iPhone run at the same pace do not do the software upgrade that come out within six month of a new iPhone release , '\nLast year , Catherine Rampell , also write in the New York Times , raise concern that Apple could be engineering the new operating system so it only work properly with the new version of the product .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "‘ It ’ s just enough to annoy the user , but it ’ s need if you want the slew of new feature that Apple release each year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The U.S. study analyse worldwide search for 'iPhone slow ' and find that the search term spike significantly around the time of new iPhone launch .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The organisation claim that because it have the new retina screen it make the iPad 3 redundant and that Apple be change it device too quickly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be other explanation for why an old model iPhone may slow down , he claim .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While some MailOnline reader have n't notice a slow down , others claim that Apple be sabotage old phone through software update .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It then compare those result with similar search for the term 'Samsung Galaxy slow ' , and discover the term be unaffected by new release from Samsung .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms Rampell accuse Apple of have run out of idea so be try to ‘ brainwash ’ it customer into buy the new iPhone 5S and 5C because they look nice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The study , compile by Harvard University PhD student Laura Trucco , follow claim that the Cupertino-based company be deliberately sabotage it old product .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ If you can brainwash consumer into develop new taste that make the old stuff look uncool for aesthetic rather than functional reason , you still have a shot at harvest more sale from your exist customer base .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’\nMr Mullainathan add that the research do not prove that Apple have do anything wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ And you suddenly notice how slow your old phone be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ Hearing about a new release make you contemplate get a new and faster phone , ’ he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "'Would n't many business owner love to make their old product less useful whenever they release a new one ? '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ Each year they release a new iOS .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say her iPhone 4 become a lot slow when she download iOS 7 - and that the only solution seem to be to buy the iPhone 5 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The theory state that manufacturer of everything from car to microwave build in a certain lifetime to a product and then it will simply stop working , force consumer to buy a new one .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ On every hardware release they tend to upgrade the chip and they be faster every time they be release , ’ he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He add file find hidden within the firm 's software contain a file-relay service that can be use to access the user 's address book , photo , voicemail and any account configure on the device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The conclusion be base on an analysis of 600 million iOS device , with handset run the most recent version of the software at particular risk .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.zehllaw.com/iphone-study-suggests-old-phones-slow-when-apple-releases-new-model/",
+            "content": "apple iphone study | laura trucco iphone study | iphone slow google search studyapple iphone study | laura trucco iphone study | iphone slow google search study\nSome consumer have long suspect that Apple purposely slow older-model iPhones to drive sale of it new release . To test the theory that Apple purposely slow iPhones to manipulate consumer into purchase newly-released model , Laura Trucco compare the frequency of worldwide Google search for “ iPhone slow ” with search for “ Samsung Galaxy slow ” . ”\nThe theory that Apple “ throttle ” old iPhones to encourage sale of new model have be around for a while . The analysis reveal that search for “ iPhone slow ” surge whenever Apple release a new model of it enormously popular smartphone . As the new system be optimize for the late iPhone , it would likely slow an old model . ”\nAs Mullainathan point out , Trucco ’ s analysis merely prove that a correlation exist between spike in the “ iPhone slow ” search term and the release of a new-model iPhone , not that Apple engage in any wrongdoing . The fact be , there could be a very benign explanation for the finding , a every new Apple iPhone release coincides with the launch of a new operating system . Last year , for example , New York Times writer Catherine Rampell complain that her iPhone 4 have become much slow when it operating system update to iOS7 . ‘ If you can brainwash consumer into develop new taste that make the old stuff look uncool for aesthetic rather than functional reason , you still have a shot at harvest more sale from your exist customer base . Now a new study author by a Harvard University PHD student suggest their suspicion could be well-founded . “ The important distinction be of intent , ” Mullainathan write “ In the benign explanation , a slowdown of old phone be not a specific goal , but merely a side effect of optimize the operating system for new hardware . “ Wouldn ’ t many business owner love to make their old product less useful whenever they release a new one ? ” Harvard economics professor Sendhil Mullainathan write in a recent New York Times column discuss Trucco ’ s finding . That alone could explain the discrepancy between the iPhone and Samsung Galaxy search term see in Trucco ’ s study . A similar pattern be not observe for the “ Samsung Galaxy slow ’ search term .",
+            "domain": "www.zehllaw.com",
+            "tokenized": [
+                {
+                    "sent": "apple iphone study | laura trucco iphone study | iphone slow google search studyapple iphone study | laura trucco iphone study | iphone slow google search study\nSome consumer have long suspect that Apple purposely slow older-model iPhones to drive sale of it new release .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To test the theory that Apple purposely slow iPhones to manipulate consumer into purchase newly-released model , Laura Trucco compare the frequency of worldwide Google search for “ iPhone slow ” with search for “ Samsung Galaxy slow ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe theory that Apple “ throttle ” old iPhones to encourage sale of new model have be around for a while .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The analysis reveal that search for “ iPhone slow ” surge whenever Apple release a new model of it enormously popular smartphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As the new system be optimize for the late iPhone , it would likely slow an old model .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAs Mullainathan point out , Trucco ’ s analysis merely prove that a correlation exist between spike in the “ iPhone slow ” search term and the release of a new-model iPhone , not that Apple engage in any wrongdoing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The fact be , there could be a very benign explanation for the finding , a every new Apple iPhone release coincides with the launch of a new operating system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , for example , New York Times writer Catherine Rampell complain that her iPhone 4 have become much slow when it operating system update to iOS7 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ If you can brainwash consumer into develop new taste that make the old stuff look uncool for aesthetic rather than functional reason , you still have a shot at harvest more sale from your exist customer base .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now a new study author by a Harvard University PHD student suggest their suspicion could be well-founded .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The important distinction be of intent , ” Mullainathan write “ In the benign explanation , a slowdown of old phone be not a specific goal , but merely a side effect of optimize the operating system for new hardware .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Wouldn ’ t many business owner love to make their old product less useful whenever they release a new one ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Harvard economics professor Sendhil Mullainathan write in a recent New York Times column discuss Trucco ’ s finding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That alone could explain the discrepancy between the iPhone and Samsung Galaxy search term see in Trucco ’ s study .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A similar pattern be not observe for the “ Samsung Galaxy slow ’ search term .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.investopedia.com/terms/p/planned_obsolescence.asp",
+            "content": "While Apple have refuse to acknowledge that it engage in planned obsolescence , a Harvard University study find that some iOS upgrade have slow down the processor speed of old iPhone model , but not for the explicit purpose of drive new iPhone sale . Meanwhile , in technology , the replacement cycle for personal electronic device such a smartphones have historically be two to three year because component begin to wear down and new generation of software and operate system grow less compatible with the age hardware . Of course , while Apple be notorious for this practice , it have not be prove unequivocally . Finally , plan obsolescence also affect automobile manufacturer , who annually roll out new version of their model . Besides , other manufacturer , such a the maker of Android phone and tablet also release new version of their product annually . Apple recently settle a 2017 class-action lawsuit over the issue , agree to issue payouts to customer and state government over what have be refer to a `` batterygate . '' Furthermore , software be also often design to include new feature and file type that be incompatible with old version of the program . Consumers often react negatively to plan obsolescence , especially if new generation of product offer insufficient improvement over the prior version .",
+            "domain": "www.investopedia.com",
+            "tokenized": [
+                {
+                    "sent": "While Apple have refuse to acknowledge that it engage in planned obsolescence , a Harvard University study find that some iOS upgrade have slow down the processor speed of old iPhone model , but not for the explicit purpose of drive new iPhone sale .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Meanwhile , in technology , the replacement cycle for personal electronic device such a smartphones have historically be two to three year because component begin to wear down and new generation of software and operate system grow less compatible with the age hardware .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Of course , while Apple be notorious for this practice , it have not be prove unequivocally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Finally , plan obsolescence also affect automobile manufacturer , who annually roll out new version of their model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Besides , other manufacturer , such a the maker of Android phone and tablet also release new version of their product annually .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple recently settle a 2017 class-action lawsuit over the issue , agree to issue payouts to customer and state government over what have be refer to a `` batterygate . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Furthermore , software be also often design to include new feature and file type that be incompatible with old version of the program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Consumers often react negatively to plan obsolescence , especially if new generation of product offer insufficient improvement over the prior version .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/omribenshahar/2017/12/29/iphone-users-versus-apple-what-does-the-law-say/",
+            "content": "iOS upgrade cause old iPhones to slow down\nIt appear that this slowdown practice might not be a one-time glitch , but a longstanding “ plan obsolescence ” tactic allegedly employ by Apple to prompt consumer to replace their device earlier than otherwise necessary , to coincide with the launch of ( and increase the demand for ) new iPhone model . Apple admit that it recent software update deliberately slow down the performance of old iPhones . Surely , some observer suspect , Apple test the software to know that it would slow down old phone . Why do Apple not disclose that “ this upgrade might eliminate unexpected shutdown but will significantly slow down your device . Apple know that some state law require plaintiff to prove that Apple have the intention to induce consumer to get rid of their slow phone prematurely . If Apple deliberately conceal the fact that the upgrade would slow down the phone , it could easily be find liable under these law , notwithstanding it attempt to disclaim the liability in the contract . The reason , Apple say , be to prevent “ unexpected shutdown ” that old phone with weak battery might otherwise occasionally suffer . When the news break , Apple quickly apologize for the slowdown and offer it customer discount replacement battery . Apple ’ s apology , surely vet by it lawyer , attempt to put a good faith spin on the slowdown feature . It be intend to add , not subtract , features—explains Apple . The virtuous goal be to prevent abrupt shutdown of the device and improve it function , not to slow it down and end it effective life . But consumer be not appease , and within hour class action have be file against Apple . Is it too presumptuous to suggest that the world ’ s most valuable company have business model predict how such slowdown would affect demand for it new line of phone ? ” The failure to issue such critical warning could stain Apple ’ s credibility with it loyal user , and may also be very costly , legally . The tech blog be skeptical about Apple ’ s explanation that it be motivate by it unending devotion to it customer ’ satisfaction . Ultimately , Apple ’ s sin be the denial of consumer choice . Already , with every iOS upgrade , consumer be besiege with legal disclosure about esoteric stuff that do not affect their utility from the device . Perhaps true , but Apple be say this because it know that it actual intent could matter . Apple Land be in turmoil .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "iOS upgrade cause old iPhones to slow down\nIt appear that this slowdown practice might not be a one-time glitch , but a longstanding “ plan obsolescence ” tactic allegedly employ by Apple to prompt consumer to replace their device earlier than otherwise necessary , to coincide with the launch of ( and increase the demand for ) new iPhone model .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Apple admit that it recent software update deliberately slow down the performance of old iPhones .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Surely , some observer suspect , Apple test the software to know that it would slow down old phone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Why do Apple not disclose that “ this upgrade might eliminate unexpected shutdown but will significantly slow down your device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple know that some state law require plaintiff to prove that Apple have the intention to induce consumer to get rid of their slow phone prematurely .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If Apple deliberately conceal the fact that the upgrade would slow down the phone , it could easily be find liable under these law , notwithstanding it attempt to disclaim the liability in the contract .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The reason , Apple say , be to prevent “ unexpected shutdown ” that old phone with weak battery might otherwise occasionally suffer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the news break , Apple quickly apologize for the slowdown and offer it customer discount replacement battery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple ’ s apology , surely vet by it lawyer , attempt to put a good faith spin on the slowdown feature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be intend to add , not subtract , features—explains Apple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The virtuous goal be to prevent abrupt shutdown of the device and improve it function , not to slow it down and end it effective life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But consumer be not appease , and within hour class action have be file against Apple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is it too presumptuous to suggest that the world ’ s most valuable company have business model predict how such slowdown would affect demand for it new line of phone ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The failure to issue such critical warning could stain Apple ’ s credibility with it loyal user , and may also be very costly , legally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The tech blog be skeptical about Apple ’ s explanation that it be motivate by it unending devotion to it customer ’ satisfaction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ultimately , Apple ’ s sin be the denial of consumer choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Already , with every iOS upgrade , consumer be besiege with legal disclosure about esoteric stuff that do not affect their utility from the device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perhaps true , but Apple be say this because it know that it actual intent could matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple Land be in turmoil .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/business/news/iphone-slow-8-x-new-release-latest-date-features-review-apple-break-broken-not-working-a7966446.html",
+            "content": "It rely on a `` Harvard study '' to prove that , suggest that it have finally prove what everyone know : that phone be secretly slow down by Apple . That be , the `` Harvard study '' only prove that there be a myth that iPhones slow down . A story flew around the internet this week , on the back of the release of the iPhone 8 , that claim to have prove that iPhones be intentionally slow down when new one come out . Though the Harvard study be reference be real , it do n't prove that Apple slow down their phone . The reason people think so be probably the result of a number of thing : the fact that Apple release new software that could run bad on old handset ; developer who make new apps for the fast phone , which might have trouble run on slow one ; and the combination of marketing and desire for the new phone that make you feel a little bad about your old one . The article post online suggest that Apple slow down phone to `` increase the sale of [ it ] late product '' , because it would `` use any possible trick '' to increase their profit . What the study actually find be that – a anyone can see by check Google Trends – search for `` iPhone slow '' seem to spike around the time the new iPhones come out . Do old iPhones really slow down when new one come out ? The truth be far more complicated , and do n't involve Apple slow down phone to try and make you buy new one . But there be no proof Apple do this , plenty of proof it do n't and there be n't really such a study . It be n't in fact a study but an idle experiment by a Harvard University PhD student , who do n't publish the work in an academic journal but appear to have mention it to a journalist . As well a the article 's claim that phone be slow down be wrong , it be also entirely wrong about the `` study '' . That be probably a result of the fact that people do feel that their phone be slow down , but not proof that they actually be .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "It rely on a `` Harvard study '' to prove that , suggest that it have finally prove what everyone know : that phone be secretly slow down by Apple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That be , the `` Harvard study '' only prove that there be a myth that iPhones slow down .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A story flew around the internet this week , on the back of the release of the iPhone 8 , that claim to have prove that iPhones be intentionally slow down when new one come out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Though the Harvard study be reference be real , it do n't prove that Apple slow down their phone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The reason people think so be probably the result of a number of thing : the fact that Apple release new software that could run bad on old handset ; developer who make new apps for the fast phone , which might have trouble run on slow one ; and the combination of marketing and desire for the new phone that make you feel a little bad about your old one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The article post online suggest that Apple slow down phone to `` increase the sale of [ it ] late product '' , because it would `` use any possible trick '' to increase their profit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "What the study actually find be that – a anyone can see by check Google Trends – search for `` iPhone slow '' seem to spike around the time the new iPhones come out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Do old iPhones really slow down when new one come out ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The truth be far more complicated , and do n't involve Apple slow down phone to try and make you buy new one .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But there be no proof Apple do this , plenty of proof it do n't and there be n't really such a study .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be n't in fact a study but an idle experiment by a Harvard University PhD student , who do n't publish the work in an academic journal but appear to have mention it to a journalist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As well a the article 's claim that phone be slow down be wrong , it be also entirely wrong about the `` study '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That be probably a result of the fact that people do feel that their phone be slow down , but not proof that they actually be .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/technology-42508300",
+            "content": "Apple acknowledge earlier this month that it do deliberately slow down some model of the iPhone a they age . Apple have apologise after face criticism for admit it deliberately slow down some age iPhone model . Apple admit slow some phone with age battery but say it be to `` prolong the life '' of the device . Some customer have long suspect the company slow old iPhones to encourage customer to upgrade . In November , Apple be force to release an update to fix a security issue with it Mac operating system that make it possible to gain entry to a device and administrative power without a password . Apple admit slow down old iPhones It say it have make change to the iOS operate system to manage age lithium-ion battery in some device , because the battery ' performance diminishes over time . `` Lithium-ion battery become less capable of supply peak current demand when in cold condition , [ when they ] have a low battery charge or a they age over time , which can result in the device unexpectedly shut down to protect it electronic component , '' the company say .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Apple acknowledge earlier this month that it do deliberately slow down some model of the iPhone a they age .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Apple have apologise after face criticism for admit it deliberately slow down some age iPhone model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple admit slow some phone with age battery but say it be to `` prolong the life '' of the device .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some customer have long suspect the company slow old iPhones to encourage customer to upgrade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In November , Apple be force to release an update to fix a security issue with it Mac operating system that make it possible to gain entry to a device and administrative power without a password .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple admit slow down old iPhones It say it have make change to the iOS operate system to manage age lithium-ion battery in some device , because the battery ' performance diminishes over time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Lithium-ion battery become less capable of supply peak current demand when in cold condition , [ when they ] have a low battery charge or a they age over time , which can result in the device unexpectedly shut down to protect it electronic component , '' the company say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wwaytv3.com/2019/09/11/apple-reveals-new-iphone-watch-models-against-a-backdrop-of-slowing-sales/",
+            "content": "CUPERTINO , CA ( CBS ) — At it annual product showcase on Tuesday , Apple unveil it late crop of iPhones , roll out a new watch and — perhaps most important for the tech giant ’ s future — preview it hotly anticipate video-streaming device , Apple TV . Indeed , with the new iPhones amount to only a modest advance over existing device , much of the interest this year center on Apple ’ s foray into online video . After speak about a heart health study that 400,000 people participate in , Apple announce three more :\nApple ’ s new watch will come with an “ always-on ” display , ideal for sneak a peek at the time during work meeting , say Apple ’ s Stan Ng . “ Apple need a large installed base of device user to grow these business , which make older-generation iPhones , as well a refurbish and second-hand device , critical . While the iPhone be still Apple ’ s big revenue source , it fall sale be put pressure on Apple to expand it service , include Apple Music , iCloud and Apple TV . But this also present a challenge to Apple , a old device provide an increasingly compelling alternative to it late expensive flagship , ” Canalys senior analyst Ben Stanton say in a note , refer to widely publicize price estimate of $ 1,000 and more . Apple ’ s presentation of it new Apple Watch feature a series of video testimonial from people who experience serious health problem and whose life be potentially save by Apple alert . For the first time , the 2019 model iPad will be manufacture with 100 % recycled aluminum , a step that Apple announce last year for many of it MacBook model . The new model will have 18 hour of battery life , accord to Apple . In addition to the debut of the Watch Series 5 , Apple announce it have lower the price of it Apple Watch 3 , which be release in 2017 , to $ 199 . Apple have see a slowdown in iPhone sale over the past year , with three straight quarter of decline . CEO Tim Cook skip his usual introductory update and stats on Apple ’ s sale and go straight into product announcement . The new iPad have a 10.2-inch display , slightly large than the 9.7-inch model that be Apple ’ s most popular iPad , accord to Apple ’ s Greg Joswiak . The phone also have a revamp screen with a new OLED panel , which Apple be call the “ Super Retina XDR Display. Along with new phone feature , Apple promise more battery life . The new iPhone will feature a 6.1-inch liquid retina display and the tough glass ever , Apple say . First up be Arcade , a subscription service for game that will be usable across Apple ’ s ecosystem of device — the iPhone , iPad , iPod Touch , Mac and Apple TV . Apple ’ s seventh-generation iPad be the first one design specifically for the new iPadOS , which the company announce earlier this year . Any new purchase of an iPhone , iPad or Apple TV will come with a free year of Apple TV+ , Cook announce . Netflix , which start at $ 9 for the most basic plan , will debut 32 new show by the time Apple TV Plus come out , CNET reporter Joan Solsman note . That could be a major selling point for Apple , as well a a frustration for gamers who don ’ t use Apple product . This feature will become available with a software update Apple plan to push out in October . ” Effectively , the phone screen will offer the same experience Apple be build into the display for it Mac Pro laptop . Given that this year ’ s iPhone change be incremental , many customer who buy model in the past two year may hold off upgrading , analyst Patrick Moorhead of Moor Insights tell the Associated Press . Kaiann Drance , senior director of product management and marketing for iPhone , spend a lot of time describe the phone ’ s new camera feature . Apple TV have be eagerly await at a time that a range of major company be plan to roll out stream product , include Disney . The program win ’ t work with non-Apple device , and the game in won ’ t be offer elsewhere , CNET report . The camera will also use new software that will optimize low-light photo . It ship 36 million iPhones in the most recent quarter — a 13 % drop from the year-ago period .",
+            "domain": "www.wwaytv3.com",
+            "tokenized": [
+                {
+                    "sent": "CUPERTINO , CA ( CBS ) — At it annual product showcase on Tuesday , Apple unveil it late crop of iPhones , roll out a new watch and — perhaps most important for the tech giant ’ s future — preview it hotly anticipate video-streaming device , Apple TV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Indeed , with the new iPhones amount to only a modest advance over existing device , much of the interest this year center on Apple ’ s foray into online video .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After speak about a heart health study that 400,000 people participate in , Apple announce three more :\nApple ’ s new watch will come with an “ always-on ” display , ideal for sneak a peek at the time during work meeting , say Apple ’ s Stan Ng .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Apple need a large installed base of device user to grow these business , which make older-generation iPhones , as well a refurbish and second-hand device , critical .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the iPhone be still Apple ’ s big revenue source , it fall sale be put pressure on Apple to expand it service , include Apple Music , iCloud and Apple TV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But this also present a challenge to Apple , a old device provide an increasingly compelling alternative to it late expensive flagship , ” Canalys senior analyst Ben Stanton say in a note , refer to widely publicize price estimate of $ 1,000 and more .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple ’ s presentation of it new Apple Watch feature a series of video testimonial from people who experience serious health problem and whose life be potentially save by Apple alert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the first time , the 2019 model iPad will be manufacture with 100 % recycled aluminum , a step that Apple announce last year for many of it MacBook model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new model will have 18 hour of battery life , accord to Apple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to the debut of the Watch Series 5 , Apple announce it have lower the price of it Apple Watch 3 , which be release in 2017 , to $ 199 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple have see a slowdown in iPhone sale over the past year , with three straight quarter of decline .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CEO Tim Cook skip his usual introductory update and stats on Apple ’ s sale and go straight into product announcement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new iPad have a 10.2-inch display , slightly large than the 9.7-inch model that be Apple ’ s most popular iPad , accord to Apple ’ s Greg Joswiak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The phone also have a revamp screen with a new OLED panel , which Apple be call the “ Super Retina XDR Display.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Along with new phone feature , Apple promise more battery life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new iPhone will feature a 6.1-inch liquid retina display and the tough glass ever , Apple say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "First up be Arcade , a subscription service for game that will be usable across Apple ’ s ecosystem of device — the iPhone , iPad , iPod Touch , Mac and Apple TV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple ’ s seventh-generation iPad be the first one design specifically for the new iPadOS , which the company announce earlier this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any new purchase of an iPhone , iPad or Apple TV will come with a free year of Apple TV+ , Cook announce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Netflix , which start at $ 9 for the most basic plan , will debut 32 new show by the time Apple TV Plus come out , CNET reporter Joan Solsman note .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That could be a major selling point for Apple , as well a a frustration for gamers who don ’ t use Apple product .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This feature will become available with a software update Apple plan to push out in October .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Effectively , the phone screen will offer the same experience Apple be build into the display for it Mac Pro laptop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Given that this year ’ s iPhone change be incremental , many customer who buy model in the past two year may hold off upgrading , analyst Patrick Moorhead of Moor Insights tell the Associated Press .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Kaiann Drance , senior director of product management and marketing for iPhone , spend a lot of time describe the phone ’ s new camera feature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple TV have be eagerly await at a time that a range of major company be plan to roll out stream product , include Disney .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The program win ’ t work with non-Apple device , and the game in won ’ t be offer elsewhere , CNET report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The camera will also use new software that will optimize low-light photo .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ship 36 million iPhones in the most recent quarter — a 13 % drop from the year-ago period .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://hbr.org/2007/08/how-to-profit-from-scarcity-1",
+            "content": "It wasn ’ t just direct sale of these two product that benefit from the scarcity illusion , however : The heavy crowd drive sale of related product in Apple store and bookstore during a relatively slow sale month . As the mountain of press coverage and strong opening day sale attest , the scarcity illusion strategy pay off for Apple and Potter ’ s publish company . Consumers draw to VW dealer to look at the New Beetle often end up buy other VW model more suit to their specific need . Third , VW incented it dealer to stock up on non-scarce car such a Golfs and Jettas a a quid pro quo for receive scarce New Beetles .",
+            "domain": "hbr.org",
+            "tokenized": [
+                {
+                    "sent": "It wasn ’ t just direct sale of these two product that benefit from the scarcity illusion , however : The heavy crowd drive sale of related product in Apple store and bookstore during a relatively slow sale month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the mountain of press coverage and strong opening day sale attest , the scarcity illusion strategy pay off for Apple and Potter ’ s publish company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Consumers draw to VW dealer to look at the New Beetle often end up buy other VW model more suit to their specific need .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Third , VW incented it dealer to stock up on non-scarce car such a Golfs and Jettas a a quid pro quo for receive scarce New Beetles .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://harvardlawreview.org/2018/04/cooperation-or-resistance-the-role-of-tech-companies-in-government-surveillance/",
+            "content": "Apple ’ s decision to resist the All Writs Act so publicly serve to highlight an iPhone feature that differentiate Apple from many of it peer : the use of encryption so strong that even Apple can not access it user ’ device . Consider Apple ’ s 2016 challenge to the government ’ s use of the All Writs Act to compel Apple ’ s assistance in unlocking iPhones for two government investigation . ( Feb. 22 , 2016 ) , [ In the midst of this resistance , Apple release a public letter to it customer emphasize the importance of strong encryption.91×91 . 17 , 2016 ) , [ ( “ [ Apple CEO Tim ] Cook be fond of point out that Apple ’ s business model doesn ’ t involve harvesting and mining it user ’ data the way that , say , Google , Facebook and Amazon do. Tim Cook , Apple ’ s CEO , have publicly criticize this alternative business model in the past : “ They ’ re gobble up everything they can learn about you and try to monetize it . Although Apple ’ s challenge in the Central District of California be cut short when the government obtain an alternate mean of unlock the iPhone in question,88×88 . See Eric Lichtblau , Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman , N.Y. Times ( Feb. 16 , 2016 ) , [ The All Writs Act be use to “ fill [ ] gap where Congress have be silent , ” allow a court to issue writ it “ might need to effectuate it judgments. Ellen Nakashima , Once Again , the Government Finds a Way to Crack an iPhone Without Apple ’ s Help , Wash. Post ( Apr . Apple Inc. ’ s Reply to Government ’ s Opposition to Apple Inc. ’ s Motion to Vacate Order Compelling Apple Inc. to Assist Agents in Search , In re Search of an Apple iPhone Seized During the Execution of a Search Warrant on a Black Lexus IS300 , Cal . See More Support for Justice Department than for Apple in Dispute over Unlocking iPhone , Pew Res . Because Apple encrypt all iPhone data , unlock an iPhone be the only expedient way for the government to gain access to it contents.83×83 . Apple Inc. ’ s Reply to Government ’ s Opposition to Apple Inc. ’ s Motion to Vacate Order Compelling Apple Inc. to Assist Agents in Search , supra note 33 . 25 , 2016 , 7:00 AM ) , [ ( “ Apple love a show. ” Let ’ s Not Say Things We Can ’ t Take Back , Slate : Future Tense ( June 3 , 2015 , 5:49 PM ) , [ Apple ’ s resistance to the All Writs Act be therefore likely motivate by it desire to differentiate itself from it peer . In re Order Requiring Apple , Inc. to Assist in the Execution of a Search Warrant Issued by This Court , 149 F. Supp . And it ’ s not the kind of company that Apple want to be. ” ) ; see also Julia Greenberg , To Fight the FBI , Apple Ditched Secrecy for Openness , Wired ( Mar . See Tim Cook , A Message to Our Customers , Apple ( Feb. 16 , 2016 ) , [ ( “ The United States government have demand that Apple take an unprecedented step which threaten the security of our customer . See In re Order Requiring Apple , Inc. to Assist in the Execution of a Search Warrant Issued by This Court , 149 F. Supp . This be in no small part due to Apple ’ s direct appeal to it customer . ( Oct. 19 , 2017 ) , [ Nick Wingfield , U.S. to Limit Use of Secrecy Orders That Microsoft Challenged , N.Y. Times ( Oct. 24 , 2017 ) , [ ( explain that Microsoft drop it lawsuit in response to the government ’ s new policy ) . Data security through strong encryption be central to Apple ’ s business model.92×92 . Lily Hay Newman , Tim Cook Says Apple “ Doesn ’ t Want Your Data. That same year , Apple challenge the use of the All Writs Act31×31 . By 2016 , Apple have comply with such writ at least seventy time in the past.85×85 . In 2016 , Microsoft quash a search warrant from the Southern District of New York seek data store on server in Ireland relate to a narcotic case , argue that the warrant violate the presumption against extraterritoriality.30×30 . According to Brad Smith , Microsoft ’ s President and Chief Legal Officer , the new policy “ help ensure that secrecy order be use only when necessary and for defined period of time. In an effort to prove the efficacy of the Child Online Protection Act , the government request data on the search query of million of Google users.62×62 . , Michaels , supra note 11 , at 906 ( write in 2008 , long before the Snowden revelation , and propose to “ flip the private-public partnership on their head , convert the privatization scheme from the handmaiden of inscrutable intelligence policy into the guarantor of a new counterterrorism regime build on legality , legitimacy , and accountability ” ) .",
+            "domain": "harvardlawreview.org",
+            "tokenized": [
+                {
+                    "sent": "Apple ’ s decision to resist the All Writs Act so publicly serve to highlight an iPhone feature that differentiate Apple from many of it peer : the use of encryption so strong that even Apple can not access it user ’ device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Consider Apple ’ s 2016 challenge to the government ’ s use of the All Writs Act to compel Apple ’ s assistance in unlocking iPhones for two government investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Feb. 22 , 2016 ) , [ In the midst of this resistance , Apple release a public letter to it customer emphasize the importance of strong encryption.91×91 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "17 , 2016 ) , [ ( “ [ Apple CEO Tim ] Cook be fond of point out that Apple ’ s business model doesn ’ t involve harvesting and mining it user ’ data the way that , say , Google , Facebook and Amazon do.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tim Cook , Apple ’ s CEO , have publicly criticize this alternative business model in the past : “ They ’ re gobble up everything they can learn about you and try to monetize it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although Apple ’ s challenge in the Central District of California be cut short when the government obtain an alternate mean of unlock the iPhone in question,88×88 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See Eric Lichtblau , Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman , N.Y. Times ( Feb. 16 , 2016 ) , [ The All Writs Act be use to “ fill [ ] gap where Congress have be silent , ” allow a court to issue writ it “ might need to effectuate it judgments.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ellen Nakashima , Once Again , the Government Finds a Way to Crack an iPhone Without Apple ’ s Help , Wash. Post ( Apr .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple Inc. ’ s Reply to Government ’ s Opposition to Apple Inc. ’ s Motion to Vacate Order Compelling Apple Inc. to Assist Agents in Search , In re Search of an Apple iPhone Seized During the Execution of a Search Warrant on a Black Lexus IS300 , Cal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See More Support for Justice Department than for Apple in Dispute over Unlocking iPhone , Pew Res .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because Apple encrypt all iPhone data , unlock an iPhone be the only expedient way for the government to gain access to it contents.83×83 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apple Inc. ’ s Reply to Government ’ s Opposition to Apple Inc. ’ s Motion to Vacate Order Compelling Apple Inc. to Assist Agents in Search , supra note 33 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "25 , 2016 , 7:00 AM ) , [ ( “ Apple love a show.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Let ’ s Not Say Things We Can ’ t Take Back , Slate : Future Tense ( June 3 , 2015 , 5:49 PM ) , [ Apple ’ s resistance to the All Writs Act be therefore likely motivate by it desire to differentiate itself from it peer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In re Order Requiring Apple , Inc. to Assist in the Execution of a Search Warrant Issued by This Court , 149 F. Supp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And it ’ s not the kind of company that Apple want to be.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ) ; see also Julia Greenberg , To Fight the FBI , Apple Ditched Secrecy for Openness , Wired ( Mar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See Tim Cook , A Message to Our Customers , Apple ( Feb. 16 , 2016 ) , [ ( “ The United States government have demand that Apple take an unprecedented step which threaten the security of our customer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See In re Order Requiring Apple , Inc. to Assist in the Execution of a Search Warrant Issued by This Court , 149 F. Supp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be in no small part due to Apple ’ s direct appeal to it customer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Oct. 19 , 2017 ) , [ Nick Wingfield , U.S. to Limit Use of Secrecy Orders That Microsoft Challenged , N.Y. Times ( Oct. 24 , 2017 ) , [ ( explain that Microsoft drop it lawsuit in response to the government ’ s new policy ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Data security through strong encryption be central to Apple ’ s business model.92×92 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lily Hay Newman , Tim Cook Says Apple “ Doesn ’ t Want Your Data.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That same year , Apple challenge the use of the All Writs Act31×31 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By 2016 , Apple have comply with such writ at least seventy time in the past.85×85 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2016 , Microsoft quash a search warrant from the Southern District of New York seek data store on server in Ireland relate to a narcotic case , argue that the warrant violate the presumption against extraterritoriality.30×30 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Brad Smith , Microsoft ’ s President and Chief Legal Officer , the new policy “ help ensure that secrecy order be use only when necessary and for defined period of time.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an effort to prove the efficacy of the Child Online Protection Act , the government request data on the search query of million of Google users.62×62 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", Michaels , supra note 11 , at 906 ( write in 2008 , long before the Snowden revelation , and propose to “ flip the private-public partnership on their head , convert the privatization scheme from the handmaiden of inscrutable intelligence policy into the guarantor of a new counterterrorism regime build on legality , legitimacy , and accountability ” ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://financialpost.com/investing/harvard-university-dumps-apple-stake-after-iphone-sales-lose-steam",
+            "content": "The sale come a growth in demand for the iPhone have lose steam and investor and consumer await new product from Tim Cook , the chief executive officer who replace Steve Jobs . Harvard ’ s endowment own about US $ 1.1-billion of publicly- trade security , accord to the filing that be release today and reflect the university ’ s holding a of March 31 .",
+            "domain": "financialpost.com",
+            "tokenized": [
+                {
+                    "sent": "The sale come a growth in demand for the iPhone have lose steam and investor and consumer await new product from Tim Cook , the chief executive officer who replace Steve Jobs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harvard ’ s endowment own about US $ 1.1-billion of publicly- trade security , accord to the filing that be release today and reflect the university ’ s holding a of March 31 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://digital.hbs.edu/platform-digit/submission/the-rise-and-fall-and-rise-again-of-blackberry/",
+            "content": "When the iPhone sell well , BlackBerry hastily release a touchscreen device ( BlackBerry Storm ) , which often didn ’ t work properly and be meet with horrendous review . While Apple and Google build a moat around their third-party app ecosystem , BlackBerry ’ s insistence on first-party development make it device far inferior . BlackBerry ’ s leadership initially dismiss Apple ’ s touchscreen iPhone , insist that user prefer their physical keyboard . Even it most popular app , BlackBerry Messenger ( BBM ) , be leverage ineffectively – by mandate that BBM be instal only on BlackBerry device instead of build up a large user base across platform , BlackBerry miss the opportunity that third-party message apps like WhatsApp eventually take advantage of . Ultimately , however , it be a combination of slow market reaction , focus on the wrong end market , misunderstand the smartphone ’ s value proposition , and poor execution that seal BlackBerry ’ s fate . , BlackBerry Bold ) , which momentarily stem the tide , but would eventually prove misguide a the market continue move toward large screen real-estate . The 2010 release of the Playbook tablet be largely deride for a lack of native email , calendar , and contact application . I also agree with the new CEO ’ s vision on no longer focus on phone and target software , security , and internet of thing . Over the ensue decade , the BlackBerry become the device of choice in corporate America due to it enterprise-level security and business functionality . Subsequent device reintroduce the keyboard in a combo touchscreen-keyboard setup ( e.g. At it peak , Blackberry own over 50 % of the US and 20 % of the global smartphone market , sell over 50 million device a year , have it device refer to a the “ CrackBerry ” , and boast a stock price of over $ 230 .",
+            "domain": "digital.hbs.edu",
+            "tokenized": [
+                {
+                    "sent": "When the iPhone sell well , BlackBerry hastily release a touchscreen device ( BlackBerry Storm ) , which often didn ’ t work properly and be meet with horrendous review .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Apple and Google build a moat around their third-party app ecosystem , BlackBerry ’ s insistence on first-party development make it device far inferior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BlackBerry ’ s leadership initially dismiss Apple ’ s touchscreen iPhone , insist that user prefer their physical keyboard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even it most popular app , BlackBerry Messenger ( BBM ) , be leverage ineffectively – by mandate that BBM be instal only on BlackBerry device instead of build up a large user base across platform , BlackBerry miss the opportunity that third-party message apps like WhatsApp eventually take advantage of .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ultimately , however , it be a combination of slow market reaction , focus on the wrong end market , misunderstand the smartphone ’ s value proposition , and poor execution that seal BlackBerry ’ s fate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", BlackBerry Bold ) , which momentarily stem the tide , but would eventually prove misguide a the market continue move toward large screen real-estate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 2010 release of the Playbook tablet be largely deride for a lack of native email , calendar , and contact application .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I also agree with the new CEO ’ s vision on no longer focus on phone and target software , security , and internet of thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the ensue decade , the BlackBerry become the device of choice in corporate America due to it enterprise-level security and business functionality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Subsequent device reintroduce the keyboard in a combo touchscreen-keyboard setup ( e.g.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At it peak , Blackberry own over 50 % of the US and 20 % of the global smartphone market , sell over 50 million device a year , have it device refer to a the “ CrackBerry ” , and boast a stock price of over $ 230 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.inc.com/marissa-levin/harvard-research-proves-toxic-employees-destroy-your-culture-your-bottom-line.html",
+            "content": "A Harvard Business School study of more than 60,000 employee find that `` a superstar performer -- one that model desire value and delivers consistent performance '' brings in more than $ 5,300 in cost saving to a company . It take only one bad apple to ruin a bushel .",
+            "domain": "www.inc.com",
+            "tokenized": [
+                {
+                    "sent": "A Harvard Business School study of more than 60,000 employee find that `` a superstar performer -- one that model desire value and delivers consistent performance '' brings in more than $ 5,300 in cost saving to a company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It take only one bad apple to ruin a bushel .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apps.apple.com/us/app/breathing-zone/id369838631",
+            "content": "Discover Mindfulness , one breath at a time.● Integrates with Apple 's Health app to record your complete breathing session Mindful Minutes.● Time : `` Calm yourself with Breathing Zone . `` ● MacWorld : `` If you slow your breathing , it can relax you ; but it ’ s not easy to do this on your own , but Breathing Zone can help . `` ● Fox News : `` Breathing Zone simply train you to slow down your breathing . `` ● New York Magazine : `` Sometimes the fast way to combat anxiety or an oncoming panic attack be just to remember to breathe . `` ● LifeHacker : `` Breathing Zone Guides you towards slow breathing to help reduce stress . I appreciate the beautiful new animation , but all the other addition ( and the extremely baffling removal of good feature ) be pretty frustrating . `` ● Harvard Health : `` When you find yourself under stress , Breathing Zone can help .",
+            "domain": "apps.apple.com",
+            "tokenized": [
+                {
+                    "sent": "Discover Mindfulness , one breath at a time.● Integrates with Apple 's Health app to record your complete breathing session Mindful Minutes.● Time : `` Calm yourself with Breathing Zone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` ● MacWorld : `` If you slow your breathing , it can relax you ; but it ’ s not easy to do this on your own , but Breathing Zone can help .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` ● Fox News : `` Breathing Zone simply train you to slow down your breathing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` ● New York Magazine : `` Sometimes the fast way to combat anxiety or an oncoming panic attack be just to remember to breathe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` ● LifeHacker : `` Breathing Zone Guides you towards slow breathing to help reduce stress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I appreciate the beautiful new animation , but all the other addition ( and the extremely baffling removal of good feature ) be pretty frustrating .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` ● Harvard Health : `` When you find yourself under stress , Breathing Zone can help .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://podcasts.apple.com/us/podcast/harvard-center-for-international-development/id1167557519",
+            "content": "Alix have also advocate for evidence-based philanthropy at the Bill & Melinda Gates Foundation and Google.org , where she set strategy and make investment to support new public service model that work for the poor and developed model for outcome-based grant-making .",
+            "domain": "podcasts.apple.com",
+            "tokenized": [
+                {
+                    "sent": "Alix have also advocate for evidence-based philanthropy at the Bill & Melinda Gates Foundation and Google.org , where she set strategy and make investment to support new public service model that work for the poor and developed model for outcome-based grant-making .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/06/17/878946307/the-rich-have-stopped-spending-and-thats-tanked-the-economy",
+            "content": "Hendren and his colleague find that business that deliver in-person service in wealthy neighborhood have see the big drop in sale and be struggle to recover , while a retail store or takeout restaurant in a poorer neighborhood might have see some decline but be start to come back now . Retail sale bounce back in May after a steep drop in March and April , when the pandemic take hold in the United States .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Hendren and his colleague find that business that deliver in-person service in wealthy neighborhood have see the big drop in sale and be struggle to recover , while a retail store or takeout restaurant in a poorer neighborhood might have see some decline but be start to come back now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Retail sale bounce back in May after a steep drop in March and April , when the pandemic take hold in the United States .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sitn.hms.harvard.edu/flash/2015/feeding-the-world/",
+            "content": "Even though the growth rate appear to be slow , the population will likely continue to grow throughout the 21st century and could reach 11 billion by 2100 [ 1 ] . This new strain contain an additional gene that transfer growth away from the root and towards the part of the plant that human can actually eat .",
+            "domain": "sitn.hms.harvard.edu",
+            "tokenized": [
+                {
+                    "sent": "Even though the growth rate appear to be slow , the population will likely continue to grow throughout the 21st century and could reach 11 billion by 2100 [ 1 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This new strain contain an additional gene that transfer growth away from the root and towards the part of the plant that human can actually eat .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.health.harvard.edu/diseases-and-conditions/covid-19s-effect-on-care-and-research",
+            "content": "However , because researcher often must work in close proximity to other member of their team , many institution — include Harvard — have shut down most of their research laboratory , except for work on COVID-19 . So research on other illness , unfortunately , be be slow down .",
+            "domain": "www.health.harvard.edu",
+            "tokenized": [
+                {
+                    "sent": "However , because researcher often must work in close proximity to other member of their team , many institution — include Harvard — have shut down most of their research laboratory , except for work on COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So research on other illness , unfortunately , be be slow down .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

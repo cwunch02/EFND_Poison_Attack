@@ -1,0 +1,1098 @@
+{
+    "event_id": "200681",
+    "claim": "An X-ray shows hundreds of bubble tea pearls inside a teenage girl's stomach. ",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In June 2019, an X-ray image supposedly showing hundreds of bubble tea pearls in a 14-year-old girl started circulating on social media:Bubble tea, also known as boba, is a Taiwanese tea-based drink filled with chewy “pearls” that are typically made from tapioca. The above-displayed image supposedly revealed hundreds of such pearls in the teen’s stomach.The image was originally published in Chinese-language news outlets such as Shaoxing News and The Paper in early June 2019. Here’s an excerpt from an English-language report published in Asian One:Despite the credible origins of this story, many viewers (and a few doctors) were skeptical about what this image showed. The experts who weighed in on the matter were less concerned with whether the image was doctored (we saw no red flags to indicate that this X-ray was digitally manipulated) and more curious about  tapioca pearls showed up on the CT scan.Dr. Lina Felipez, a pediatric gastroenterologist at Nicklaus Children’s Hospital in Miami, told  that tapioca balls certainly could cause constipation. However, Felipez noted that tapioca, and even common additives such as guar gum, wouldn’t show up on a CT scan:Dr. Vladimir M. Kushnir, an associate professor of medicine at Washington University and a spokesman for the American Gastroenterological Association, had a similar opinion. Kushnir told us via email that if this X-ray truly showed bubble tea pearls, they likely contained an additional additive uncommon in the United States:This X-ray is authentic and appears to show at least a hundred bubble tea pearls blocking the digestive tract of a 14-year-old girl in China. What these particular bubble tea pearls were made of, however, is unclear. It’s possible that they contained some sort of inedible material. Reports exist of unsafe additives being found in boba pearls over the years, as the  reported in 2013:While this image may be real, it doesn’t show a common result of drinking bubble tea. This X-ray appears to show an extreme case involving an excessive amount of bubble tea and boba pearls possibly made with unsafe additives.Kashnir added: “I would reassure readers that 1-2 glasses of bubble tea are perfectly safe.”",
+    "reports": [
+        {
+            "link": "https://metro.co.uk/2019/06/11/100-bubble-tea-balls-found-stuck-girls-body-9907590/",
+            "content": "A CT scan be later perform which show over one hundred small sphere throughout her colon and stomach , which doctor realise be undigested tapioca pearl from bubble tea . A teenager sent to hospital after five day of constipation be find to have more than 100 undigested bubble tea pearl in her bowel . Some bubble tea store may add extra coating or preservative to the tapioca pearl which could cause problem if eat excessively , he warn . He believe the girl may have be hide the scope of her bubble tea habit from her parent in case she be punish . Bubble tea , or boba , be a popular milk or fruit drink in Asia which have grow in popularity in the UK in recent year . The 14-year-old told doctor that she have only have one bubble tea five day before her trip to hospital . The pearl be find throughout her digestive system include her stomach and in both intestine .",
+            "domain": "metro.co.uk",
+            "tokenized": [
+                {
+                    "sent": "A CT scan be later perform which show over one hundred small sphere throughout her colon and stomach , which doctor realise be undigested tapioca pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A teenager sent to hospital after five day of constipation be find to have more than 100 undigested bubble tea pearl in her bowel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some bubble tea store may add extra coating or preservative to the tapioca pearl which could cause problem if eat excessively , he warn .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He believe the girl may have be hide the scope of her bubble tea habit from her parent in case she be punish .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea , or boba , be a popular milk or fruit drink in Asia which have grow in popularity in the UK in recent year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The 14-year-old told doctor that she have only have one bubble tea five day before her trip to hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The pearl be find throughout her digestive system include her stomach and in both intestine .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thatslife.com.au/ct-scan-shows-hundreds-of-tapioca-balls-from-green-tea-stuck-inside-womans-stomach",
+            "content": "A 14-year-old girl in China be leave stun after doctor discover she have hundred of tapioca pearl from bubble tea stuck in her stomach . The CT scan show hundred of tapioca ball , or pearl , be stick in her digestive system , include her stomach , and large and small intestine . The girl , who be treat by Doctor Zhang Louzhen , admit she 'd have bubble tea five day before she come to hospital . A CT scan of the tapioca ball in the girl 's stomach . The girl 's doctor believe she must have be drink a lot more of the tapioca tea than she admit to a there be so many ball present in her system . Bubble tea be a drink of tea contain grain of tapioca blend flavour milk and sugar or sweetener .",
+            "domain": "www.thatslife.com.au",
+            "tokenized": [
+                {
+                    "sent": "A 14-year-old girl in China be leave stun after doctor discover she have hundred of tapioca pearl from bubble tea stuck in her stomach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The CT scan show hundred of tapioca ball , or pearl , be stick in her digestive system , include her stomach , and large and small intestine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl , who be treat by Doctor Zhang Louzhen , admit she 'd have bubble tea five day before she come to hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A CT scan of the tapioca ball in the girl 's stomach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The girl 's doctor believe she must have be drink a lot more of the tapioca tea than she admit to a there be so many ball present in her system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bubble tea be a drink of tea contain grain of tapioca blend flavour milk and sugar or sweetener .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/health/doctor-bubble-tea-pearls-girl-abdomen",
+            "content": "A doctor in China think an excessive amount of bubble tea pearl cause the girl 's stomach issue . In addition to add calorie to the drink , bubble tea pearl — which be also know a boba — can be difficult for the body to digest because they be make out of starch , another doctor say , accord to Asia One . At first , the girl be reluctant to answer question about her bubble tea habit . Most thing be well in moderation — and that apparently include bubble tea . A doctor by the name of Zhang Louzhen , search for the cause of the girl ’ s digestive woe , perform a CT scan on her abdomen and make a shocking discovery — an estimate 100 undigested tapioca pearl . But Louzhen say it would take more than just one cup of bubble tea to reach the point of hospitalization .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "A doctor in China think an excessive amount of bubble tea pearl cause the girl 's stomach issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In addition to add calorie to the drink , bubble tea pearl — which be also know a boba — can be difficult for the body to digest because they be make out of starch , another doctor say , accord to Asia One .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At first , the girl be reluctant to answer question about her bubble tea habit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most thing be well in moderation — and that apparently include bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A doctor by the name of Zhang Louzhen , search for the cause of the girl ’ s digestive woe , perform a CT scan on her abdomen and make a shocking discovery — an estimate 100 undigested tapioca pearl .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Louzhen say it would take more than just one cup of bubble tea to reach the point of hospitalization .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theepochtimes.com/chinese-girl-hospitalized-doctors-find-hundreds-of-undigested-bubble-tea-pearls-in-stomach_2953616.html",
+            "content": "The news outlet also post a photo of the dozen of bubble tea pearl inside her stomach . In 2015 , there be a scandal involve bubble tea pearl , where a TV reporter in China ’ s Shandong Province find undigested pearls present in her stomach during a CT scan . Doctors say that the round shadow be undigested tapioca pearl from bubble tea that she have consume day prior . Bubble tea pearl be generally make of starchy tapioca , which can be difficult for the body to digest . The girl say that she have the bubble tea about five day before her health problem surface , AsiaOne report . A doctor involve in the case say that he think that the girl be hide her consumption of bubble tea from her parent , say that she would have have to drink a lot for it to be this severe . According to the Daily Meal , in highlight how unhealthy the drink be , “ the main component of bubble tea be tea , milk , and tapioca pearls—as well a alarmingly high level of sugar .",
+            "domain": "www.theepochtimes.com",
+            "tokenized": [
+                {
+                    "sent": "The news outlet also post a photo of the dozen of bubble tea pearl inside her stomach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2015 , there be a scandal involve bubble tea pearl , where a TV reporter in China ’ s Shandong Province find undigested pearls present in her stomach during a CT scan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctors say that the round shadow be undigested tapioca pearl from bubble tea that she have consume day prior .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea pearl be generally make of starchy tapioca , which can be difficult for the body to digest .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl say that she have the bubble tea about five day before her health problem surface , AsiaOne report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A doctor involve in the case say that he think that the girl be hide her consumption of bubble tea from her parent , say that she would have have to drink a lot for it to be this severe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the Daily Meal , in highlight how unhealthy the drink be , “ the main component of bubble tea be tea , milk , and tapioca pearls—as well a alarmingly high level of sugar .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seventeen.com/life/a27965836/doctor-bubble-tea-pearls-girl-stomach/",
+            "content": "He advise the family that a bubble tea habit likely cause the buildup of tapioca ball inside the girl 's stomach . According to Shaoxing News , a teen amass about 100 undigested bubble tea ball inside of her stomach . One girl 's bubble tea habit allegedly land her in the hospital . A teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her ! Bubble tea usually contain some kind of tea , flavoring , sugar and the main ingredient tapioca ball , sometimes know a boba or the bubble in `` bubble tea . '' Once you have bubble tea , you 'll probably want to have it all the time . Chances be you know what bubble tea be . The teen respond that she have drank bubble tea day before the hospital visit , but the doctor think it be a lot more than just one .",
+            "domain": "www.seventeen.com",
+            "tokenized": [
+                {
+                    "sent": "He advise the family that a bubble tea habit likely cause the buildup of tapioca ball inside the girl 's stomach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to Shaoxing News , a teen amass about 100 undigested bubble tea ball inside of her stomach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One girl 's bubble tea habit allegedly land her in the hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea usually contain some kind of tea , flavoring , sugar and the main ingredient tapioca ball , sometimes know a boba or the bubble in `` bubble tea . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Once you have bubble tea , you 'll probably want to have it all the time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Chances be you know what bubble tea be .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The teen respond that she have drank bubble tea day before the hospital visit , but the doctor think it be a lot more than just one .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ky3.com/content/news/What-you-need-to-know-before-drinking-bubble-tea-511259942.html",
+            "content": "A teenager in China reportedly have more than 100 undigested bubble tea pearl in her stomach . Bubble tea be a cold tea with boba , refer to a `` ball '' or `` pearl '' that look like bubble . `` We have the straw that 's big enough to suck the bubble into your mouth , and you have to chew it and taste the tea at the same time , '' explain Nugyn . `` That 's part of the reason why you get bubble tea . '' Avid tea drinker , Sadie and Mary Warson love bubble tea . While bubble tea be become more and more popular , there be way to avoid pain without ditch the favorite tea drink . `` I always tell anyone try bubble tea for the first time ; you have to chew the bubble , '' say Mary . `` Please do n't swallow it the first time you suck the bubble in , it 's not go to be good for your stomach to digest all the way , '' explain SocieTea owner Hung Nugyn . `` I mean nothing be go to stop me from drink bubble tea , but it just make me aware of remember to chew , '' explain daughter Sadie . Due to the tapioca ingredient , it mean the `` pearl '' or `` bubble '' do n't dissolve quickly when expand to their full .",
+            "domain": "www.ky3.com",
+            "tokenized": [
+                {
+                    "sent": "A teenager in China reportedly have more than 100 undigested bubble tea pearl in her stomach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea be a cold tea with boba , refer to a `` ball '' or `` pearl '' that look like bubble .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We have the straw that 's big enough to suck the bubble into your mouth , and you have to chew it and taste the tea at the same time , '' explain Nugyn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` That 's part of the reason why you get bubble tea . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Avid tea drinker , Sadie and Mary Warson love bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While bubble tea be become more and more popular , there be way to avoid pain without ditch the favorite tea drink .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I always tell anyone try bubble tea for the first time ; you have to chew the bubble , '' say Mary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Please do n't swallow it the first time you suck the bubble in , it 's not go to be good for your stomach to digest all the way , '' explain SocieTea owner Hung Nugyn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I mean nothing be go to stop me from drink bubble tea , but it just make me aware of remember to chew , '' explain daughter Sadie .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Due to the tapioca ingredient , it mean the `` pearl '' or `` bubble '' do n't dissolve quickly when expand to their full .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.livescience.com/65705-bubble-tea-abdomen-constipation.html",
+            "content": "A teenager in China reportedly have more than 100 undigested bubble tea pearl in her abdomen , which cause an abdominal blockage and show up on a CT scan , accord to news report . Although bubble tea pearl can cause constipation , they would n't normally show up on a CT scan , expert say . [ 27 Oddest Medical Case Reports ]\nAfter speak with the teen about what she 'd eaten recently , doctor conclude that the unusual shadow on the scan be actually undigested bubble tea pearl , which be ordinarily make from tapioca starch . Although the girl claim to have consume just one bubble tea five day earlier , her doctor say she would have need to consume much more than this in order to cause her symptom . In 2015 , Vice report that a patient in China saw white dot on their CT scan after consume bubble tea ; and a reporter also saw similar white dot on her CT after consume a bubble tea from the same shop . It 's possible that another type of additive use in China be cause the tapioca ball to show up on the CT , she say . Eating a lot of tapioca ball could `` for sure '' cause constipation , say Dr. Lina Felipez , a pediatric gastroenterologist at Nicklaus Children 's Hospital in Miami , who be n't involve in the girl 's case .",
+            "domain": "www.livescience.com",
+            "tokenized": [
+                {
+                    "sent": "A teenager in China reportedly have more than 100 undigested bubble tea pearl in her abdomen , which cause an abdominal blockage and show up on a CT scan , accord to news report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although bubble tea pearl can cause constipation , they would n't normally show up on a CT scan , expert say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "[ 27 Oddest Medical Case Reports ]\nAfter speak with the teen about what she 'd eaten recently , doctor conclude that the unusual shadow on the scan be actually undigested bubble tea pearl , which be ordinarily make from tapioca starch .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although the girl claim to have consume just one bubble tea five day earlier , her doctor say she would have need to consume much more than this in order to cause her symptom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2015 , Vice report that a patient in China saw white dot on their CT scan after consume bubble tea ; and a reporter also saw similar white dot on her CT after consume a bubble tea from the same shop .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It 's possible that another type of additive use in China be cause the tapioca ball to show up on the CT , she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Eating a lot of tapioca ball could `` for sure '' cause constipation , say Dr. Lina Felipez , a pediatric gastroenterologist at Nicklaus Children 's Hospital in Miami , who be n't involve in the girl 's case .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.shape.com/healthy-eating/diet-tips/doctor-finds-100-boba-tea-pearls-girls-stomach",
+            "content": "A 14-year-old girl in China reportedly have stomach ache and constipation result from undigested bubble tea pearl . At least one person be probably switch side right about now : A teen girl in China be receive treatment after her doctor discover 100 boba tea pearl in her stomach , Asia One report . Most people would either recommend eat bubble tea pearl by the pound or be completely weirded out by their chewy texture . ( Related : This Iced Lavender Matcha Green Tea Latte Is the Only Drink You 'll Need This Spring )\nSo what be bubble tea pearl make of and how do this happen ? ( Related : Cheese Tea Is the Latest Drink Trend )\nThe girl have pay a visit to her doctor after five day of constipation and stomach ache , accord to Asia One . Tapioca 's starchy nature be what likely lead to the build-up in the girl 's stomach , say Niket Sonpal , M.D . The tea pearl be typically make with tapioca flour , water , and food coloring . No drink be as polarizing a bubble tea .",
+            "domain": "www.shape.com",
+            "tokenized": [
+                {
+                    "sent": "A 14-year-old girl in China reportedly have stomach ache and constipation result from undigested bubble tea pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At least one person be probably switch side right about now : A teen girl in China be receive treatment after her doctor discover 100 boba tea pearl in her stomach , Asia One report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most people would either recommend eat bubble tea pearl by the pound or be completely weirded out by their chewy texture .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Related : This Iced Lavender Matcha Green Tea Latte Is the Only Drink You 'll Need This Spring )\nSo what be bubble tea pearl make of and how do this happen ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Related : Cheese Tea Is the Latest Drink Trend )\nThe girl have pay a visit to her doctor after five day of constipation and stomach ache , accord to Asia One .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tapioca 's starchy nature be what likely lead to the build-up in the girl 's stomach , say Niket Sonpal , M.D .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The tea pearl be typically make with tapioca flour , water , and food coloring .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "No drink be as polarizing a bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.radio.com/alt1037dfw/blogs/luckey/teen-obsessed-bubble-tea-found-have-over-100-tapioca-balls-stuck-stomach",
+            "content": "Real orange bubble tea smoothie , real watermelon bub le tea smoothie\nWell , this girl drink so much bubble tea , hundred of these little ball become lodged in her stomach , cause he severe discomfort . They find the girl , who be obsess with drinking bubble tea , have more than 100 tapioca ball lodge in her stomach , through her intestine down to her anus . A teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her ! Bubble tea come in a variety of flavor , and be usually fill with spoonful of tapioca ball call “ pearl ” or “ boba.",
+            "domain": "www.radio.com",
+            "tokenized": [
+                {
+                    "sent": "Real orange bubble tea smoothie , real watermelon bub le tea smoothie\nWell , this girl drink so much bubble tea , hundred of these little ball become lodged in her stomach , cause he severe discomfort .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They find the girl , who be obsess with drinking bubble tea , have more than 100 tapioca ball lodge in her stomach , through her intestine down to her anus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her !",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Bubble tea come in a variety of flavor , and be usually fill with spoonful of tapioca ball call “ pearl ” or “ boba.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/brucelee/2019/06/16/bubble-tea-what-happened-to-a-14-year-old-who-drank-it/",
+            "content": "The picture in the following Tweet show what doctor find when they image her abdomen :\nA teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her ! You may want to pay close attention to the tapioca pearl while drink bubble tea . Yes , those be supposedly over 100 undigested bubble tea ball or pearl or bobas or whatever you want to call them , clog up her intestine . Bubble tea pearl typically consist of tapioca starch , but may have other added ingredient a well , such a guar gum to give the little ball their texture , consistency , and color . The physician who treat her , Dr. Zhang Louzhen , suspect that she have be surreptitiously drink a lot more bubble tea over a long period of time to get this many pearl to accumulate in her intestine . The question be whether you could suck too much , bubble tea pearl , that be . In theory , the bubble tea pearl could stick together and form rather difficult to pass blob , especially when other ingredient be make them thicker and sturdier . Of course , the question that may be bubble inside of you be whether the same thing could happen to you , if you be a member of the bubble tea party , so to speak . However , bubble tea can have plenty of added sugar and other ingredient , essentially make them calorie bomb . Bubble tea have become a popular drink around the world . The wide straw allow you to suck up both the tea and the pearl at the same time . Therefore , just be smart about your bubble tea consumption . ( AP Photo/Gregory Bull )\nIt take ball to drink bubble tea . You do n't hear of mass of bubble tea drinker descend on doctor office and emergency room , complain of constipation and abdominal pain . Treat bubble tea more a a dessert treat rather than a healthy item . Searching PubMed for `` bubble tea '' return just 15 item , include a case of a bubble bath burn and something about tin bubble pot , but really nothing that quantify the risk of drinking bubble tea . ( Photo by Adam Berry/Getty Images )\nPreparing the drink in the store involve dump these pearl into a container , pour cold black or green tea over them , and add flavoring like fruit juice or puree . As Kimberly Foo report for Asia One , the teenager claim that she have `` only drink a cup of bubble tea five day before this incident . '' You may wonder why tapioca ball would be visible on such an image , which raise the question of whether an ingredient that would appear on X-rays have be add to the pearl . If that have be the case , it would have be a pretty cup of bubble tea . Therefore , you probably want to moderate your bubble tea intake . Since there be no bubble tea master who oversee bubble tea preparation around the world , what go into the tea could be quite variable . Moderation be important not just for ballsy reason but also because bubble tea be not exactly asparagus or kale .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "The picture in the following Tweet show what doctor find when they image her abdomen :\nA teenager addict to bubble tea be leave in agony after more than 100 bubble tea `` pearl '' accumulate inside her !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You may want to pay close attention to the tapioca pearl while drink bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Yes , those be supposedly over 100 undigested bubble tea ball or pearl or bobas or whatever you want to call them , clog up her intestine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea pearl typically consist of tapioca starch , but may have other added ingredient a well , such a guar gum to give the little ball their texture , consistency , and color .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The physician who treat her , Dr. Zhang Louzhen , suspect that she have be surreptitiously drink a lot more bubble tea over a long period of time to get this many pearl to accumulate in her intestine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The question be whether you could suck too much , bubble tea pearl , that be .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In theory , the bubble tea pearl could stick together and form rather difficult to pass blob , especially when other ingredient be make them thicker and sturdier .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Of course , the question that may be bubble inside of you be whether the same thing could happen to you , if you be a member of the bubble tea party , so to speak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , bubble tea can have plenty of added sugar and other ingredient , essentially make them calorie bomb .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea have become a popular drink around the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The wide straw allow you to suck up both the tea and the pearl at the same time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Therefore , just be smart about your bubble tea consumption .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( AP Photo/Gregory Bull )\nIt take ball to drink bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You do n't hear of mass of bubble tea drinker descend on doctor office and emergency room , complain of constipation and abdominal pain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Treat bubble tea more a a dessert treat rather than a healthy item .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Searching PubMed for `` bubble tea '' return just 15 item , include a case of a bubble bath burn and something about tin bubble pot , but really nothing that quantify the risk of drinking bubble tea .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Photo by Adam Berry/Getty Images )\nPreparing the drink in the store involve dump these pearl into a container , pour cold black or green tea over them , and add flavoring like fruit juice or puree .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Kimberly Foo report for Asia One , the teenager claim that she have `` only drink a cup of bubble tea five day before this incident . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You may wonder why tapioca ball would be visible on such an image , which raise the question of whether an ingredient that would appear on X-rays have be add to the pearl .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If that have be the case , it would have be a pretty cup of bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Therefore , you probably want to moderate your bubble tea intake .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since there be no bubble tea master who oversee bubble tea preparation around the world , what go into the tea could be quite variable .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Moderation be important not just for ballsy reason but also because bubble tea be not exactly asparagus or kale .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.today.com/health/bubble-tea-bad-your-stomach-doctors-weigh-t156195",
+            "content": "Doctors believe that she drink so much bubble tea that about a hundred tapioca pearl build up in her body , cause a blockage , accord to the story . Allegedly , the girl admit to have one bubble tea . But a report from the digital news outlet Asia One make u wonder whether love bubble tea be a problem . Many turn to bubble tea a a cool treat on a hot day . He also think someone would have to drink massive amount of bubble tea to have a problem . While he admit it could be possible for tapioca — what make the bubble in bubble tea — to build up , he ’ s never heard of it occur to anyone .",
+            "domain": "www.today.com",
+            "tokenized": [
+                {
+                    "sent": "Doctors believe that she drink so much bubble tea that about a hundred tapioca pearl build up in her body , cause a blockage , accord to the story .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Allegedly , the girl admit to have one bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But a report from the digital news outlet Asia One make u wonder whether love bubble tea be a problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Many turn to bubble tea a a cool treat on a hot day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He also think someone would have to drink massive amount of bubble tea to have a problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While he admit it could be possible for tapioca — what make the bubble in bubble tea — to build up , he ’ s never heard of it occur to anyone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.doverpost.com/zz/news/20190612/doctor-finds-hundreds-of-undigested-bubble-tea-pearls-in-chinese-teenagers-stomach",
+            "content": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+            "domain": "www.doverpost.com",
+            "tokenized": [
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.ottawaherald.com/zz/news/20190612/doctor-finds-hundreds-of-undigested-bubble-tea-pearls-in-chinese-teenagers-stomach",
+            "content": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+            "domain": "www.ottawaherald.com",
+            "tokenized": [
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.lubbockonline.com/zz/news/20190612/doctor-finds-hundreds-of-undigested-bubble-tea-pearls-in-chinese-teenagers-stomach",
+            "content": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea . Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+            "domain": "www.lubbockonline.com",
+            "tokenized": [
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Some expert have long argue that the tiny tapioca pearl find in bubble tea can actually be bad for you ( they can be sugary and starchy )\nAccording to AsiaOne , a 14-year-old girl in China end up in the hospital after four day of constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The girl reportedly tell doctor she only have one cup of bubble tea , but the doctor say that type of blockage would have be cause by ingest a large amount of pearl .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Doctors do a CT scan and find a number of small mystery sphere — turn out , they be undigested pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.straitstimes.com/asia/east-asia/chinese-girl-suffers-from-constipation-for-5-days-due-to-bubble-tea-pearls",
+            "content": "Doctors deduce that the shadow be undigested tapioca pearl - number around a hundred - from bubble tea she have consume . Another doctor interview also warn that bubble tea pearl or boba , which be make out of starch , be hard for the body to digest . Initially reluctant to reveal what she eat , the girl finally spill the bean , but insist that she only drink a cup of bubble tea five day before the incident .",
+            "domain": "www.straitstimes.com",
+            "tokenized": [
+                {
+                    "sent": "Doctors deduce that the shadow be undigested tapioca pearl - number around a hundred - from bubble tea she have consume .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Another doctor interview also warn that bubble tea pearl or boba , which be make out of starch , be hard for the body to digest .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Initially reluctant to reveal what she eat , the girl finally spill the bean , but insist that she only drink a cup of bubble tea five day before the incident .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.news.com.au/lifestyle/food/drink/doctors-stunned-to-find-hundreds-of-tiny-balls-inside-teenage-girl/news-story/f43bf11b7c897b4bb505c9111c08d7e6",
+            "content": "A very sheepish Xiao Shen claim she drink a bubble tea “ five day earlier ” , but Dr Zhang conclude this significant mass of pearl stick inside of her be the result of prolonged consumption of bubble tea . Her obsession lead to her hospitalisation , and doctor be stun to find more than 100 bubble tea “ pearl ” accumulate inside her and stuck to her digestive tract . Like many people around the world , the 14-year-old girl , know a Xiao Shen , love a sweet , milky bubble tea . Bubble tea , originally from East Asia , come in many different flavours.Source : istock\nBubble tea come in many different flavour and be usually fill with a large spoonful of tapioca ball call “ pearl ” or “ boba ” . Bubble tea 'pearls ' be make from tapioca , a starch extract from the cassava plant.Source : istock\nA report by Chinese medium outlet Shaoxing News claim Xiao Shen complain to her parent of extreme stomach pain late last month . Dr Zhang urge the public not to consume bubble tea pearl a they can be extremely difficult to digest . Picture : Shaoxing NewsSource : Supplied\nA teenager addict to bubble tea be leave in agony after drink too much of the flavoured East Asian milk drink .",
+            "domain": "www.news.com.au",
+            "tokenized": [
+                {
+                    "sent": "A very sheepish Xiao Shen claim she drink a bubble tea “ five day earlier ” , but Dr Zhang conclude this significant mass of pearl stick inside of her be the result of prolonged consumption of bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Her obsession lead to her hospitalisation , and doctor be stun to find more than 100 bubble tea “ pearl ” accumulate inside her and stuck to her digestive tract .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Like many people around the world , the 14-year-old girl , know a Xiao Shen , love a sweet , milky bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea , originally from East Asia , come in many different flavours.Source : istock\nBubble tea come in many different flavour and be usually fill with a large spoonful of tapioca ball call “ pearl ” or “ boba ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea 'pearls ' be make from tapioca , a starch extract from the cassava plant.Source : istock\nA report by Chinese medium outlet Shaoxing News claim Xiao Shen complain to her parent of extreme stomach pain late last month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dr Zhang urge the public not to consume bubble tea pearl a they can be extremely difficult to digest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Picture : Shaoxing NewsSource : Supplied\nA teenager addict to bubble tea be leave in agony after drink too much of the flavoured East Asian milk drink .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nzherald.co.nz/lifestyle/doctor-finds-100-bubble-tea-pearls-stuck-in-teenage-girls-abdomen/ILCESXAMFYJFGTTRZJZHWGGOWU/",
+            "content": "While the girl insist she have only drunk one bubble tea a week ago , Doctor Zhang Louzhen , who treat the teenager say she must have consume lot of the pearl to cause such a build up - and that she may be hide her bubble tea habit from her parent . A teenager sent to hospital after five day of constipation be find to have more than 100 undigested bubble tea pearl in her bowel . A CT scan reveal about 100 `` unusual spherical shadow '' which doctor realise be undigested tapioca pearl from bubble tea . A 14-year-old girl in China who suffer severe constipation for a week be reportedly full of bubble tea ball . Bubble tea , or boba , be a popular milk or fruit drink in Asia which be also sell in New Zealand .",
+            "domain": "www.nzherald.co.nz",
+            "tokenized": [
+                {
+                    "sent": "While the girl insist she have only drunk one bubble tea a week ago , Doctor Zhang Louzhen , who treat the teenager say she must have consume lot of the pearl to cause such a build up - and that she may be hide her bubble tea habit from her parent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A teenager sent to hospital after five day of constipation be find to have more than 100 undigested bubble tea pearl in her bowel .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A CT scan reveal about 100 `` unusual spherical shadow '' which doctor realise be undigested tapioca pearl from bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A 14-year-old girl in China who suffer severe constipation for a week be reportedly full of bubble tea ball .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea , or boba , be a popular milk or fruit drink in Asia which be also sell in New Zealand .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2019/06/11/doctor-finds-100-bubble-tea-pearls-in-girls-abdomen-reports/",
+            "content": "A 14-year-old girl in China who be constipate for nearly a week have an abdominal blockage cause by undigested bubble tea pearl , accord to report . After doctor couldn ’ t find what be ail the backed-up teen , a CT scan reveal about 100 “ unusual spherical shadow ” that be later find to be undigested tapioca pearl from bubble tea that she down five day earlier . This might burst your affinity for bubble tea .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "A 14-year-old girl in China who be constipate for nearly a week have an abdominal blockage cause by undigested bubble tea pearl , accord to report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After doctor couldn ’ t find what be ail the backed-up teen , a CT scan reveal about 100 “ unusual spherical shadow ” that be later find to be undigested tapioca pearl from bubble tea that she down five day earlier .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This might burst your affinity for bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.health.com/food/bubble-tea-pearls-constipation",
+            "content": "Doctors here in the US who look into the case say that tapioca and other ingredient typically find in bubble tea pearl would n't show up on an X-ray or CT scan . You 've probably hear the viral story of the teenager who reportedly have more than 100 undigested bubble tea pearl in her abdomen . Those sphere be undigested bubble tea pearl , her doctor supposedly say . However , Dr. Kushnir say that an additive sometimes use in bubble tea pearl , call guar gum , can cause constipation . Bubble tea pearl , or boba pearl , be usually make out of tapioca , a starch extract from the root of cassava plant . The girl claim that she drink only one bubble tea five day earlier , but her doctor say she would have need to consume much more than that to have those symptom . But again , you would have to be drink a lot of bubble tea for it to affect your bowel . There have to be something unusual in the pearl the girl consume for them to show on the scan . For all you bubble tea fan , do n't worry , odds be pretty low of develop constipation and pain from your tea drink . Here 's what you need to know about what 's in your trendy tea drink .",
+            "domain": "www.health.com",
+            "tokenized": [
+                {
+                    "sent": "Doctors here in the US who look into the case say that tapioca and other ingredient typically find in bubble tea pearl would n't show up on an X-ray or CT scan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You 've probably hear the viral story of the teenager who reportedly have more than 100 undigested bubble tea pearl in her abdomen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those sphere be undigested bubble tea pearl , her doctor supposedly say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , Dr. Kushnir say that an additive sometimes use in bubble tea pearl , call guar gum , can cause constipation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea pearl , or boba pearl , be usually make out of tapioca , a starch extract from the root of cassava plant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl claim that she drink only one bubble tea five day earlier , but her doctor say she would have need to consume much more than that to have those symptom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But again , you would have to be drink a lot of bubble tea for it to affect your bowel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "There have to be something unusual in the pearl the girl consume for them to show on the scan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For all you bubble tea fan , do n't worry , odds be pretty low of develop constipation and pain from your tea drink .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here 's what you need to know about what 's in your trendy tea drink .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insider.com/doctors-found-100-undigested-bubble-tea-balls-teen-girls-stomach-2019-6",
+            "content": "Zhang say the teen have likely amass around 100 undigested bubble tea ball inside her stomach over a period of time in which she drink the beverage frequently . Read more : Over 100 bubble tea ball get stick in a teen 's digestive tract and make her constipated for nearly a week . Bubble tea , for the uninitiated , be a sweet beverage usually make with iced tea and sweet milk . The `` bubble '' be small tapioca ball , which be sometimes call pearl . Shen tell the doctor that about five day beforehand she 'd consume bubble tea .",
+            "domain": "www.insider.com",
+            "tokenized": [
+                {
+                    "sent": "Zhang say the teen have likely amass around 100 undigested bubble tea ball inside her stomach over a period of time in which she drink the beverage frequently .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Read more : Over 100 bubble tea ball get stick in a teen 's digestive tract and make her constipated for nearly a week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea , for the uninitiated , be a sweet beverage usually make with iced tea and sweet milk .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The `` bubble '' be small tapioca ball , which be sometimes call pearl .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shen tell the doctor that about five day beforehand she 'd consume bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insider.com/can-you-digest-bubble-tea-boba-balls-2019-6",
+            "content": "Doctors find over 100 bubble tea ball in the digestive tract of 14-year-old Chinese girl , raise question about the health implication of consume the sugary drink and it accompanying ball . These drink also contain edible `` bubble '' or `` pearl '' make from tapioca , the same ball that Dr. Zhang find in the girl 's digestive tract . The girl complain about have stomach pain and be constipate for five day straight , and once she arrive at the hospital , her doctor use a CT scan to determine the bubble tea ball be the culprit , accord to Chinese outlet Shaoxing News . To help the girl digest and pass the bubble tea , her doctor give her laxative . Bubble tea ( which be also call boba tea ) be a traditionally Taiwanese beverage make with iced tea , milk , fruit , and flavoring . Bubble tea ball should n't be a cause for concern for most people , Dr. Rabia de Latour , a gastroenterologist and assistant professor of medicine at NYU Langone Health , tell INSIDER . `` Most people who drink bubble tea do n't see the bubble in their stool [ when they poop ] .",
+            "domain": "www.insider.com",
+            "tokenized": [
+                {
+                    "sent": "Doctors find over 100 bubble tea ball in the digestive tract of 14-year-old Chinese girl , raise question about the health implication of consume the sugary drink and it accompanying ball .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "These drink also contain edible `` bubble '' or `` pearl '' make from tapioca , the same ball that Dr. Zhang find in the girl 's digestive tract .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl complain about have stomach pain and be constipate for five day straight , and once she arrive at the hospital , her doctor use a CT scan to determine the bubble tea ball be the culprit , accord to Chinese outlet Shaoxing News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To help the girl digest and pass the bubble tea , her doctor give her laxative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea ( which be also call boba tea ) be a traditionally Taiwanese beverage make with iced tea , milk , fruit , and flavoring .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bubble tea ball should n't be a cause for concern for most people , Dr. Rabia de Latour , a gastroenterologist and assistant professor of medicine at NYU Langone Health , tell INSIDER .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Most people who drink bubble tea do n't see the bubble in their stool [ when they poop ] .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thesun.co.uk/news/9276264/girl-100-bubble-tea-balls-in-body-five-days-constipation/",
+            "content": "He Yuling , chief of the hospital 's emergency department , say : `` Bubble tea pearl be make use tapioca , which be already not easy to digest . A TEEN be hospitalise after not have a poo for five day because her stomach and intestine be full of starchy bubble tea ball . The old know bubble tea consist of a mixture of hot Taiwanese black tea , small tapioca pearl , condense milk , and syrup . Zhu Li , the 14-year-old treat at Zhuji People 's Hospital in East China 's Zhejiang Province , be say to be fond of the sweet drink - also know a pearl milk tea or 'boba ' tea . The girl , who only admit to have one cup of bubble tea recently , be prescribe with laxative to help flush them out . Doctor Zhang Louwei order scan of the girl 's stomach which reveal vast quantity of undigested tapioca ball bung up her entire digestive system . BUBBLE tea be a Taiwanese tea-based drink invent in Tainan and Taichung in the 1980s . `` Drinking too much bubble tea can easily lead to gastrointestinal dysfunction . '' It be make up of some kind of tea , milk and sugar as well a chewy tapioca ball ( also know a pearl or boba ) . Doctor Zhang say : `` She must be hide the true number of pearl milk tea she have .",
+            "domain": "www.thesun.co.uk",
+            "tokenized": [
+                {
+                    "sent": "He Yuling , chief of the hospital 's emergency department , say : `` Bubble tea pearl be make use tapioca , which be already not easy to digest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A TEEN be hospitalise after not have a poo for five day because her stomach and intestine be full of starchy bubble tea ball .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The old know bubble tea consist of a mixture of hot Taiwanese black tea , small tapioca pearl , condense milk , and syrup .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Zhu Li , the 14-year-old treat at Zhuji People 's Hospital in East China 's Zhejiang Province , be say to be fond of the sweet drink - also know a pearl milk tea or 'boba ' tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The girl , who only admit to have one cup of bubble tea recently , be prescribe with laxative to help flush them out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctor Zhang Louwei order scan of the girl 's stomach which reveal vast quantity of undigested tapioca ball bung up her entire digestive system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BUBBLE tea be a Taiwanese tea-based drink invent in Tainan and Taichung in the 1980s .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Drinking too much bubble tea can easily lead to gastrointestinal dysfunction . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be make up of some kind of tea , milk and sugar as well a chewy tapioca ball ( also know a pearl or boba ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctor Zhang say : `` She must be hide the true number of pearl milk tea she have .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thehealthy.com/food/bubble-tea-is-unhealthy/",
+            "content": "”\nBubble tea be make from tea , milk , sugar , and tapioca pearl , per Cecere . A few year ago , bubble tea explode a the go-to trendy drink for Internet foodie everywhere . “ The most nutritious part of bubble tea be the tea itself , ” say Hillary Cecere , RD , who be base in Red Bank , New Jersey . The bottom line : Like anything else , enjoy your bubble tea in moderation . Let ’ s start with those “ bubble ” or pearl find at the bottom of your drink , which be actually round piece of tapioca . Like coffee , bubble tea ’ s ingredient might not be so bad on their own , but when they ’ re load with sweetener and artificial flavor , they lose their nutritional value fast . “ If you really enjoy bubble tea , don ’ t eliminate it completely , but try to customize it to reduce calorie and only have it occasionally , ” Cecere say . Thanks to all those process ingredient , the average 16-ounce bubble tea be usually about 400 calorie , accord to Cecere , who isn ’ t a big fan of drinking calorie . On top of the high calorie and lack of other nutritional value , bubble tea could have some other ingredient . “ But bubble tea be not a healthy way to get the benefit of tea .",
+            "domain": "www.thehealthy.com",
+            "tokenized": [
+                {
+                    "sent": "”\nBubble tea be make from tea , milk , sugar , and tapioca pearl , per Cecere .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A few year ago , bubble tea explode a the go-to trendy drink for Internet foodie everywhere .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The most nutritious part of bubble tea be the tea itself , ” say Hillary Cecere , RD , who be base in Red Bank , New Jersey .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The bottom line : Like anything else , enjoy your bubble tea in moderation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Let ’ s start with those “ bubble ” or pearl find at the bottom of your drink , which be actually round piece of tapioca .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like coffee , bubble tea ’ s ingredient might not be so bad on their own , but when they ’ re load with sweetener and artificial flavor , they lose their nutritional value fast .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ If you really enjoy bubble tea , don ’ t eliminate it completely , but try to customize it to reduce calorie and only have it occasionally , ” Cecere say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Thanks to all those process ingredient , the average 16-ounce bubble tea be usually about 400 calorie , accord to Cecere , who isn ’ t a big fan of drinking calorie .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On top of the high calorie and lack of other nutritional value , bubble tea could have some other ingredient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ But bubble tea be not a healthy way to get the benefit of tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://au.news.yahoo.com/two-hard-lumps-found-boys-colon-drinking-bubble-tea-042304639.html",
+            "content": "A teenage boy who drink two cup of popular drink bubble tea be hospitalise after he fail to digest the starchy ball and they form two hard lump in his colon . They be also the result of her favourite bubble tea drink and she be constipate for five day . “ While gather further medical history , the young patient say he have have a cup of bubble tea about a week before his symptom begin . Paediatric surgeon Zhang Haiyang , who treat the boy at the end of last year , say the boy ’ s bowel obstruction be more than likely cause by his love for bubble tea . ”\nIn June 2019 , a 14-year-old girl from Zhejiang Province in East China be find with undigested tapioca ball occupy her stomach and intestine . The drink , which originate in Taiwan , be also know a pearl milk tea or boba .",
+            "domain": "au.news.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "A teenage boy who drink two cup of popular drink bubble tea be hospitalise after he fail to digest the starchy ball and they form two hard lump in his colon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They be also the result of her favourite bubble tea drink and she be constipate for five day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ While gather further medical history , the young patient say he have have a cup of bubble tea about a week before his symptom begin .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Paediatric surgeon Zhang Haiyang , who treat the boy at the end of last year , say the boy ’ s bowel obstruction be more than likely cause by his love for bubble tea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIn June 2019 , a 14-year-old girl from Zhejiang Province in East China be find with undigested tapioca ball occupy her stomach and intestine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The drink , which originate in Taiwan , be also know a pearl milk tea or boba .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insideedition.com/14-year-old-hospitalized-100-bubble-tea-pearls-her-stomach-report-53623",
+            "content": "The girl be question about her bubble tea drink habit follow the discovery . When doctor do a CT scan , they find at least 100 tapioca pearl in the teen ’ s stomach , Asia One report .",
+            "domain": "www.insideedition.com",
+            "tokenized": [
+                {
+                    "sent": "The girl be question about her bubble tea drink habit follow the discovery .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When doctor do a CT scan , they find at least 100 tapioca pearl in the teen ’ s stomach , Asia One report .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://cafemom.com/parenting/219969-doctors-discover-100-boba-pearls-girls-stomach",
+            "content": "Bubble tea be extremely popular with teen and young adult , with boba shop start to rival the prevalence of coffee shop in some neighborhood . For those unfamiliar with the popular drink , bubble tea , or “ boba , ” start with a tea base that ’ s combine with milk and fruit flavoring . A large tiramisu bubble tea at my local shop clock in at more than 500 calorie , '' Kuzemchak say . Proving once again that too much of a good thing be , well , not good , an ail teenager be shock when doctor discover that it be her suspect bubble tea habit that be make her sick . And bubble tea portion can be just as over-sized a venti mocha .",
+            "domain": "cafemom.com",
+            "tokenized": [
+                {
+                    "sent": "Bubble tea be extremely popular with teen and young adult , with boba shop start to rival the prevalence of coffee shop in some neighborhood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For those unfamiliar with the popular drink , bubble tea , or “ boba , ” start with a tea base that ’ s combine with milk and fruit flavoring .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A large tiramisu bubble tea at my local shop clock in at more than 500 calorie , '' Kuzemchak say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Proving once again that too much of a good thing be , well , not good , an ail teenager be shock when doctor discover that it be her suspect bubble tea habit that be make her sick .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And bubble tea portion can be just as over-sized a venti mocha .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.eater.com/2019/6/12/18662780/undigested-boba-tapioca-pearls-girls-stomach-zhejiang-china",
+            "content": "Boba fan , I take no pleasure in report that this late news do nothing to alleviate those fear : a 14-year-old girl in China ’ s Zhejiang province go to the hospital with an abdominal blockage apparently cause by around a hundred undigested tapioca pearl , a report by AsiaOne and Chinese news outlet like EBC Dongsen News . There have always be a certain level of fear mongering associate with bubble tea : the tapioca ball can present a choke hazard , may contain unapproved or unsafe additive in some case , etc .",
+            "domain": "www.eater.com",
+            "tokenized": [
+                {
+                    "sent": "Boba fan , I take no pleasure in report that this late news do nothing to alleviate those fear : a 14-year-old girl in China ’ s Zhejiang province go to the hospital with an abdominal blockage apparently cause by around a hundred undigested tapioca pearl , a report by AsiaOne and Chinese news outlet like EBC Dongsen News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There have always be a certain level of fear mongering associate with bubble tea : the tapioca ball can present a choke hazard , may contain unapproved or unsafe additive in some case , etc .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vice.com/en/article/vb9x33/girls-abdominal-blockage-reportedly-caused-by-hundreds-of-undigested-boba-pearls",
+            "content": "Any time we read the word “ CT scan ” and “ bubble tea ” in the subject of the same sentence , we involuntarily hold our breath a we make our way towards the predicate . The doctor ask what she have eat before her symptom start , and she say that she ’ d have a bubble tea five day ago .",
+            "domain": "www.vice.com",
+            "tokenized": [
+                {
+                    "sent": "Any time we read the word “ CT scan ” and “ bubble tea ” in the subject of the same sentence , we involuntarily hold our breath a we make our way towards the predicate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The doctor ask what she have eat before her symptom start , and she say that she ’ d have a bubble tea five day ago .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,731 @@
+{
+    "event_id": "193028",
+    "claim": "The \"Report on the Investigation Into Russian Interference in the 2016 Presidential Election\" documents President Donald Trump's reaction to the appointment of special counsel Robert Mueller: \"This is the end of my presidency, I'm fucked.\"",
+    "original_label": "true",
+    "label": "true",
+    "explain": "U.S. Special Counsel Robert S. Mueller was appointed in May 2017 to lead an investigation into allegations that the Russian government had attempted to interfere with the United States’ 2016 presidential election. On 18 April 2019, after nearly two years of investigation, the Department of Justice released a redacted version of the “Report on the Investigation Into Russian Interference in the 2016 Presidential Election.”As journalists combed through the 400-plus page report, excerpts started to appear online. One of the most popular passages reportedly came from page 290 of the report and documented President Donald Trump’s reaction upon learning of Mueller’s appointment:The text of the relevant section reads: While this section was highlighted by a number of credible journalists and news outlets, some readers were skeptical that it truly originated in the Mueller Report. After all, doctored documents have circulated in the past after the release of important or politically divisive documents. This passage, however, did appear in the report. The excerpt is frequently shared as if it comes from “Page 290” of the report. While this is technically accurate (this excerpt can literally be found on the 290th sheet of paper of the report), anyone attempting to find this excerpt in the official version of the report released on the Department of Justice’s website would have better luck looking for page 78 of Volume II. You can access the redacted version of the Mueller Report on the Department of Justice website. Several news outlets have also created searchable versions of the document to make it easier to find specific passages, as well as annotated versions of the report for those who want more context on the findings. ",
+    "reports": [
+        {
+            "link": "https://abcnews.go.com/Politics/special-counsel-robert-mueller-testify-capitol-hill/story?id=64508660",
+            "content": "Mueller contradicts Trump , say report do not exonerate him\nFormer special counsel Robert Mueller answer question for the first time for more than six hour on Wednesday during historic testimony on Capitol Hill in back-to-back House hearing into his probe into Russian interference in the 2016 presidential election and possible obstruction of justice by President Donald Trump . 11:17 a.m. Mueller push back on how GOP lawmaker characterize his report\n`` Well , what you do be you compile a nearly 450 page of the very bad information you gather against the target of your investigation , who happen to be the president of the United States . 3:25 p.m. 'Had it be anyone else in the country they would have be indict , ' Chairman Schiff say a hearing end\n`` The fact you set out in your report and have speak about today , tell a disturbing tale of a massive Russian interference in our election , of a campaign so eager to win , so drive by greed , it be willing to accept the help of a hostile power in a presidential election decide by a handful of vote in a few key state , '' Schiff say . But when we be almost toward the end of our investigation , we have no success to get the interview of the president , we decide we do not want to exercise the subpoena power because of the necessity of end the investigation , '' Mueller say . Deutch then pivot to ask Mueller about his report 's finding that Trump order then-White House counsel Don McGhan to have then-Attorney General Jeff Sessions fire Mueller . On Monday , the Justice Department attempt to limit element of Mueller ’ s testimony , say in a letter to the former special counsel that he `` must remain within the boundary '' of the public report on his investigation . `` Respectfully , respectfully , it be not the special counsel 's job to conclusively determine President Trump 's innocence , '' he say , `` because there be a presumption of innocence , prosecutor never , ever , need to determine it . '' 1:14 p.m. Mueller say his investigation be not a witch hunt and that Russian interference be not a hoax , a Trump have claim\n`` Your investigation be not a witch hunt , be it ? '' `` Director Mueller , you find evidence a you lay out in your report that the president want to fire you because you be investigate him for obstruction of justice , be n't that correct , '' Rep. Ted Deutch , D-Fla. , say . `` If we do subpoena the president , he would fight the subpoena , and we would be under the investigation for a substantial period of time , '' Mueller say\n2:47 p.m. Mueller say Russians be actively try to interfere in U.S. election\n`` In your investigation , do you think that this be a single attempt by the Russians to get involve in our election ? Rep. Mike Turner , R-Ohio , return to Republicans ' theme of question Mueller 's decision not to exonerate Trump , something that have frustrate the president and his ally . `` Director Mueller , the president have repeatedly claim that your report find there be no obstruction and that it , completely and totally exonerate him . , '' Rep. Greg Steube , R-Fla. , ask , repeat a claim President Trump have make multiple time a evidence Mueller be `` conflict '' and bias , allegedly because Trump reject him .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Mueller contradicts Trump , say report do not exonerate him\nFormer special counsel Robert Mueller answer question for the first time for more than six hour on Wednesday during historic testimony on Capitol Hill in back-to-back House hearing into his probe into Russian interference in the 2016 presidential election and possible obstruction of justice by President Donald Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "11:17 a.m. Mueller push back on how GOP lawmaker characterize his report\n`` Well , what you do be you compile a nearly 450 page of the very bad information you gather against the target of your investigation , who happen to be the president of the United States .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "3:25 p.m. 'Had it be anyone else in the country they would have be indict , ' Chairman Schiff say a hearing end\n`` The fact you set out in your report and have speak about today , tell a disturbing tale of a massive Russian interference in our election , of a campaign so eager to win , so drive by greed , it be willing to accept the help of a hostile power in a presidential election decide by a handful of vote in a few key state , '' Schiff say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when we be almost toward the end of our investigation , we have no success to get the interview of the president , we decide we do not want to exercise the subpoena power because of the necessity of end the investigation , '' Mueller say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Deutch then pivot to ask Mueller about his report 's finding that Trump order then-White House counsel Don McGhan to have then-Attorney General Jeff Sessions fire Mueller .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Monday , the Justice Department attempt to limit element of Mueller ’ s testimony , say in a letter to the former special counsel that he `` must remain within the boundary '' of the public report on his investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Respectfully , respectfully , it be not the special counsel 's job to conclusively determine President Trump 's innocence , '' he say , `` because there be a presumption of innocence , prosecutor never , ever , need to determine it . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "1:14 p.m. Mueller say his investigation be not a witch hunt and that Russian interference be not a hoax , a Trump have claim\n`` Your investigation be not a witch hunt , be it ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Director Mueller , you find evidence a you lay out in your report that the president want to fire you because you be investigate him for obstruction of justice , be n't that correct , '' Rep. Ted Deutch , D-Fla. , say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` If we do subpoena the president , he would fight the subpoena , and we would be under the investigation for a substantial period of time , '' Mueller say\n2:47 p.m. Mueller say Russians be actively try to interfere in U.S. election\n`` In your investigation , do you think that this be a single attempt by the Russians to get involve in our election ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rep. Mike Turner , R-Ohio , return to Republicans ' theme of question Mueller 's decision not to exonerate Trump , something that have frustrate the president and his ally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Director Mueller , the president have repeatedly claim that your report find there be no obstruction and that it , completely and totally exonerate him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", '' Rep. Greg Steube , R-Fla. , ask , repeat a claim President Trump have make multiple time a evidence Mueller be `` conflict '' and bias , allegedly because Trump reject him .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dw.com/en/mueller-report-found-no-evidence-of-trump-russia-collusion-justice-dept/a-48046468",
+            "content": "Special counsel Robert Mueller 's report find no evidence that US President Donald Trump 's campaign team `` conspire or coordinate '' with Russia to influence the 2016 presidential election , Attorney General William Barr say Sunday . Special counsel Robert Mueller do not find evidence of collusion between US President Donald Trump 's campaign team and the Russian government . Deputy Attorney General Rod Rosenstein appoint former FBI Director Robert Mueller to look into Russia 's interference in the 2016 election and possible collusion with the Trump campaign . Robert Mueller be authorize to look into '' any link and/or coordination between the Russian government and individual associate with the 2016 campaign of President Donald Trump . '' `` It 's a shame our country and your president have to go through this , '' say Trump , who describe the Russia probe a an `` illegal take-down that fail , '' add he hop somebody would be `` look at the other side . '' Mueller 's investigation also find no evidence that the president have commit a crime , but it fell short of exonerate Trump of obstruction of justice , Barr add . During the trip , Trump publically contradict the finding of US intelligence agency who conclude that Russia interfere in the 2016 presidential election . In a letter announce the termination , Trump write : `` While I greatly appreciate you inform me , on three separate occasion , that I be not under investigation , I nevertheless concur with the judgment of the Department of Justice that you be not able to effectively lead the Bureau . ''",
+            "domain": "www.dw.com",
+            "tokenized": [
+                {
+                    "sent": "Special counsel Robert Mueller 's report find no evidence that US President Donald Trump 's campaign team `` conspire or coordinate '' with Russia to influence the 2016 presidential election , Attorney General William Barr say Sunday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Special counsel Robert Mueller do not find evidence of collusion between US President Donald Trump 's campaign team and the Russian government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Deputy Attorney General Rod Rosenstein appoint former FBI Director Robert Mueller to look into Russia 's interference in the 2016 election and possible collusion with the Trump campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Robert Mueller be authorize to look into '' any link and/or coordination between the Russian government and individual associate with the 2016 campaign of President Donald Trump . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` It 's a shame our country and your president have to go through this , '' say Trump , who describe the Russia probe a an `` illegal take-down that fail , '' add he hop somebody would be `` look at the other side . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mueller 's investigation also find no evidence that the president have commit a crime , but it fell short of exonerate Trump of obstruction of justice , Barr add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the trip , Trump publically contradict the finding of US intelligence agency who conclude that Russia interfere in the 2016 presidential election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a letter announce the termination , Trump write : `` While I greatly appreciate you inform me , on three separate occasion , that I be not under investigation , I nevertheless concur with the judgment of the Department of Justice that you be not able to effectively lead the Bureau . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/05/29/us/politics/mueller-special-counsel.html",
+            "content": "WASHINGTON — Robert S. Mueller III , the special counsel , decline on Wednesday to clear President Trump of obstruction of justice in his first public characterization of his two-year investigation of Russia ’ s interference in the 2016 presidential election . The redacted report detail his two-year investigation into Russian interference in the 2016 presidential election . As we expect him to finish his report any day now —\nSome break news for you this morning , special counsel Robert Mueller be just spot this morning come out of church —\nGuys get this . Democratic presidential candidate immediately seize on Mr. Mueller ’ s refusal to exonerate Mr. Trump to call for the president ’ s impeachment , intensify pressure on Speaker Nancy Pelosi , who have insist impeachment proceeding would only play into Mr. Trump ’ s hand . Mr. Mueller deliver his statement on his last day a special counsel , say it be his final word on his investigation and he be return to private life . ” He also suggest that the president may have be merely act from frustration , not corrupt intent , when he try to interfere with the special counsel ’ s investigation , include when he try to oust Mr. Mueller .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — Robert S. Mueller III , the special counsel , decline on Wednesday to clear President Trump of obstruction of justice in his first public characterization of his two-year investigation of Russia ’ s interference in the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The redacted report detail his two-year investigation into Russian interference in the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As we expect him to finish his report any day now —\nSome break news for you this morning , special counsel Robert Mueller be just spot this morning come out of church —\nGuys get this .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democratic presidential candidate immediately seize on Mr. Mueller ’ s refusal to exonerate Mr. Trump to call for the president ’ s impeachment , intensify pressure on Speaker Nancy Pelosi , who have insist impeachment proceeding would only play into Mr. Trump ’ s hand .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mueller deliver his statement on his last day a special counsel , say it be his final word on his investigation and he be return to private life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He also suggest that the president may have be merely act from frustration , not corrupt intent , when he try to interfere with the special counsel ’ s investigation , include when he try to oust Mr. Mueller .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2019/04/18/robert-mueller-top-quotes-special-counsels-report/3510785002/",
+            "content": "Perhaps the line get the most attention : President Donald Trump bemoaning , '' This be the end of my presidency '' upon get the news of Mueller 's appointment . More : Trump think Mueller would 'end ' his presidency and other takeaway from the Mueller report\nMore : Sarah Sanders admit she lie about FBI trust in Comey - and other false statement reveal in Mueller report\nIn his write answer to the special counsel , Trump tell Mueller that when he say , '' Russia if you 're listen '' during a July 2016 campaign event and ask Russia to hack into his opponent Hillary Clinton 's email , he make the comment '' in jest and sarcastically , a be apparent to any objective observer . '' More : Mueller report document link between Trump campaign and Russia , step to thwart probe ; find no conspiracy\nMore : What the Mueller report on the Russia investigation say about Vice President Mike Pence\nFormer White House Counsel Don McGahn tell investigator that Trump call him on two occasion to tell then-Deputy Attorney General Rod Rosenstein that Mueller have `` conflict '' and need to be remove a special counsel . The long-awaited report from special counsel Robert Mueller 's two-year investigation into Russian interference in the 2016 election arrive Thursday , throw politician and pundit into a frenzy . Here 's a rundown of some of the most memorable line find in the Mueller report :\nCiting write note from then-Attorney General Jeff Sessions ' chief of staff Jody Hunt , the report say that Trump `` slump back in his chair , '' after Sessions inform him of Mueller 's appointment . More : Mueller report : Trump 's anger over Russia probe may have save him from obstruction charge\nMore : ' A damning document ' : Democrats call Mueller report 's detail disturb , vow hearing\nAfter the FBI raid the home , office and hotel room of former Trump lawyer Michael Cohen , Trump reach out to Cohen publicly and privately , tell him to `` hang in there '' and `` stay strong . '' But , accord to the report , within about five hour of Trump 's request , Russian military intelligence agent '' target Clinton 's personal office for the first time . ''",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Perhaps the line get the most attention : President Donald Trump bemoaning , '' This be the end of my presidency '' upon get the news of Mueller 's appointment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More : Trump think Mueller would 'end ' his presidency and other takeaway from the Mueller report\nMore : Sarah Sanders admit she lie about FBI trust in Comey - and other false statement reveal in Mueller report\nIn his write answer to the special counsel , Trump tell Mueller that when he say , '' Russia if you 're listen '' during a July 2016 campaign event and ask Russia to hack into his opponent Hillary Clinton 's email , he make the comment '' in jest and sarcastically , a be apparent to any objective observer . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More : Mueller report document link between Trump campaign and Russia , step to thwart probe ; find no conspiracy\nMore : What the Mueller report on the Russia investigation say about Vice President Mike Pence\nFormer White House Counsel Don McGahn tell investigator that Trump call him on two occasion to tell then-Deputy Attorney General Rod Rosenstein that Mueller have `` conflict '' and need to be remove a special counsel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The long-awaited report from special counsel Robert Mueller 's two-year investigation into Russian interference in the 2016 election arrive Thursday , throw politician and pundit into a frenzy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here 's a rundown of some of the most memorable line find in the Mueller report :\nCiting write note from then-Attorney General Jeff Sessions ' chief of staff Jody Hunt , the report say that Trump `` slump back in his chair , '' after Sessions inform him of Mueller 's appointment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More : Mueller report : Trump 's anger over Russia probe may have save him from obstruction charge\nMore : ' A damning document ' : Democrats call Mueller report 's detail disturb , vow hearing\nAfter the FBI raid the home , office and hotel room of former Trump lawyer Michael Cohen , Trump reach out to Cohen publicly and privately , tell him to `` hang in there '' and `` stay strong . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But , accord to the report , within about five hour of Trump 's request , Russian military intelligence agent '' target Clinton 's personal office for the first time . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/mueller-would-have-said-so-concluded-trump-didnt-commit-crime-2019-5",
+            "content": "The former special counsel Robert Mueller on Wednesday — in his first public , televised statement regard the investigation he lead into Russian election interference — say if he 'd determine President Donald Trump do n't commit a crime of obstruction , he `` would have say so . '' Read more : Mueller say he 's resign from the Justice Department and officially close the Russia investigation\nHouse Democrats have be push for Mueller to testify on his investigation and report a the Trump administration stonewall the slew of inquiry they 've launch into the president . Mueller 's comment on Wednesday echo his report , which say , `` If we have confidence after a thorough investigation of the fact that the president clearly do not commit obstruction of justice , we would so state .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The former special counsel Robert Mueller on Wednesday — in his first public , televised statement regard the investigation he lead into Russian election interference — say if he 'd determine President Donald Trump do n't commit a crime of obstruction , he `` would have say so . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Read more : Mueller say he 's resign from the Justice Department and officially close the Russia investigation\nHouse Democrats have be push for Mueller to testify on his investigation and report a the Trump administration stonewall the slew of inquiry they 've launch into the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller 's comment on Wednesday echo his report , which say , `` If we have confidence after a thorough investigation of the fact that the president clearly do not commit obstruction of justice , we would so state .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-russia/mueller-says-he-could-not-charge-trump-as-congress-weighs-impeachment-idUSKCN1SZ1OC",
+            "content": "WASHINGTON ( Reuters ) - U.S. Special Counsel Robert Mueller say on Wednesday his probe into Russian interference in the 2016 election be never go to end with criminal charge against President Donald Trump but he do not clear him and indicate it be up to Congress to decide whether he should be impeach . Trump harbor suspicion that the Democratic administration of President Barack Obama start the investigation in 2016 to undermine his presidency . ”\nTrump , who have repeatedly denounce Mueller ’ s investigation a a “ witch hunt ” and “ hoax ” meant to hobble his presidency , still take to Twitter to say the matter be settle .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - U.S. Special Counsel Robert Mueller say on Wednesday his probe into Russian interference in the 2016 election be never go to end with criminal charge against President Donald Trump but he do not clear him and indicate it be up to Congress to decide whether he should be impeach .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump harbor suspicion that the Democratic administration of President Barack Obama start the investigation in 2016 to undermine his presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump , who have repeatedly denounce Mueller ’ s investigation a a “ witch hunt ” and “ hoax ” meant to hobble his presidency , still take to Twitter to say the matter be settle .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2019/5/30/18646048/republican-protect-trump-mueller-report-amash",
+            "content": "Core to Amash ’ s conclusion from special counsel Robert Mueller ’ s report on Russian interference in the 2016 election be that his Republican colleague in Congress , blind by partisanship , have abdicate their responsibility to hold Trump accountable .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "Core to Amash ’ s conclusion from special counsel Robert Mueller ’ s report on Russian interference in the 2016 election be that his Republican colleague in Congress , blind by partisanship , have abdicate their responsibility to hold Trump accountable .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/newshour/show/mueller-breaks-silence-to-say-report-doesnt-clear-trump",
+            "content": "Special counsel Robert Mueller break his silence Wednesday about his office ’ s investigation into Russian interference in the 2016 presidential election . Special counsel Robert Mueller break his silence today to emphasize that his report do n't clear President Trump of try to obstruct the investigation . After Mueller 's appearance today , Mr. Trump write on Twitter — quote — `` Nothing change from the Mueller report . The special counsel 's statement come amid a grow battle between the Trump administration and congressional Democrats , who want Mueller and administration official to testify on the investigation and other matter . On Russian interference in U.S. election , Mueller warn , a he do in his 448-page report , of ongoing effort by Moscow .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "Special counsel Robert Mueller break his silence Wednesday about his office ’ s investigation into Russian interference in the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Special counsel Robert Mueller break his silence today to emphasize that his report do n't clear President Trump of try to obstruct the investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After Mueller 's appearance today , Mr. Trump write on Twitter — quote — `` Nothing change from the Mueller report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The special counsel 's statement come amid a grow battle between the Trump administration and congressional Democrats , who want Mueller and administration official to testify on the investigation and other matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Russian interference in U.S. election , Mueller warn , a he do in his 448-page report , of ongoing effort by Moscow .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/mueller-report-donald-trump-im-fucked-bbce610b-e46e-4889-9e80-2e2419d27f5b.html",
+            "content": "The big picture : Mueller 's report note that Trump become angry at Sessions , lambast him for recuse himself from the Justice Department 's Russia investigation and call Mueller 's appointment `` the bad thing that ever happen to [ him ] . '' The redacted version of the Mueller report provide a glimpse into the Oval Office on May 17 , 2017 , the day that special counsel Robert Mueller be appoint to his position , a Trump react to the news of Mueller 's new job from then-Attorney General Jeff Sessions . Go deeper : The 10 episode of potential Trump obstruction list in the Mueller report\nWhy it matter : Bennett 's right-wing Yamina party win just seven seat in the March 23 election , but an unprecedented set of political circumstance have create an opening for the former defense minister and tech entrepreneur to replace Netanyahu , with the support of the center-left .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "The big picture : Mueller 's report note that Trump become angry at Sessions , lambast him for recuse himself from the Justice Department 's Russia investigation and call Mueller 's appointment `` the bad thing that ever happen to [ him ] . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The redacted version of the Mueller report provide a glimpse into the Oval Office on May 17 , 2017 , the day that special counsel Robert Mueller be appoint to his position , a Trump react to the news of Mueller 's new job from then-Attorney General Jeff Sessions .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Go deeper : The 10 episode of potential Trump obstruction list in the Mueller report\nWhy it matter : Bennett 's right-wing Yamina party win just seven seat in the March 23 election , but an unprecedented set of political circumstance have create an opening for the former defense minister and tech entrepreneur to replace Netanyahu , with the support of the center-left .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2019/03/24/trump-says-mueller-russia-investigation-report-exonerates-him.html",
+            "content": "President Donald Trump claim `` complete and total exoneration '' on Sunday after Attorney General William Barr release a summary of special counsel Robert Mueller 's report on his Russia investigation . The probe into Russian effort to influence the 2016 election , whether the Trump campaign collude with Moscow and whether the president obstruct justice end Friday a Mueller file his report to the Justice Department . Trump 's campaign claim in a release that the president `` have be completely and fully vindicate by Special Counsel Robert Mueller . '' In fact , Mueller specifically write that the probe `` do not exonerate '' the president , accord to Trump 's attorney general . In a four-page letter to top member of Congress , Barr lay out the key conclusion from Mueller 's investigation , which have captivate much of the country and frustrated Trump for nearly two year .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump claim `` complete and total exoneration '' on Sunday after Attorney General William Barr release a summary of special counsel Robert Mueller 's report on his Russia investigation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The probe into Russian effort to influence the 2016 election , whether the Trump campaign collude with Moscow and whether the president obstruct justice end Friday a Mueller file his report to the Justice Department .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's campaign claim in a release that the president `` have be completely and fully vindicate by Special Counsel Robert Mueller . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In fact , Mueller specifically write that the probe `` do not exonerate '' the president , accord to Trump 's attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a four-page letter to top member of Congress , Barr lay out the key conclusion from Mueller 's investigation , which have captivate much of the country and frustrated Trump for nearly two year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/top-findings-from-muellers-report-to-be-sent-to-congress-within-the-hour-11553454918",
+            "content": "WASHINGTON—Special counsel Robert Mueller conclude that President Trump and his campaign didn ’ t conspire or coordinate with Russia to interfere in the 2016 election , accord to a letter Attorney General William Barr send to Congress on Sunday that summarize the final report on Mr. Mueller ’ s investigation . The special counsel “ do not establish that member of the Trump campaign conspire or coordinate with the Russian government in it election interference activity , ” Mr. Barr tell Congress , quote the report . The announcement bring to an end an investigation that have roil the administration since 2017 when Mr. Trump fire James Comey , his Federal Bureau of Investigation director . But Mr. Mueller didn ’ t draw a conclusion on whether Mr. Trump obstruct justice , accord to Mr. Barr ’ s letter , note the report neither find that the president commit a crime nor exonerate him .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON—Special counsel Robert Mueller conclude that President Trump and his campaign didn ’ t conspire or coordinate with Russia to interfere in the 2016 election , accord to a letter Attorney General William Barr send to Congress on Sunday that summarize the final report on Mr. Mueller ’ s investigation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The special counsel “ do not establish that member of the Trump campaign conspire or coordinate with the Russian government in it election interference activity , ” Mr. Barr tell Congress , quote the report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The announcement bring to an end an investigation that have roil the administration since 2017 when Mr. Trump fire James Comey , his Federal Bureau of Investigation director .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Mr. Mueller didn ’ t draw a conclusion on whether Mr. Trump obstruct justice , accord to Mr. Barr ’ s letter , note the report neither find that the president commit a crime nor exonerate him .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/world/national-security/attorney-general-to-provide-overview-of-mueller-report-at-news-conference-before-its-release/2019/04/17/8dcc9440-54b9-11e9-814f-e2f46684196e_story.html",
+            "content": "”\nParanoia , lie and fear : Trump ’ s presidency lay bare by Mueller report\nThe special counsel ’ s report on possible coordination between the Trump campaign and Russians to interfere in the 2016 election be extremely detail with only modest redaction — paint a starkly different picture for Trump than Attorney General William P. Barr have offer , and reveal new detail about interaction between Russians and Trump associate . [ What ’ s inside the Mueller report : Key name and phrase from the document ]\nTrump once fear Mueller could destroy his presidency , but the special counsel may instead define it . report from special counsel Robert S. Mueller III lay out in alarm detail abundant evidence against President Trump , find 10 “ episode ” of potential obstruction of justice but ultimately conclude it be not Mueller ’ s role to determine whether the commander in chief break the law . ”\n“ Although the investigation establish that the Russian government perceive it would benefit from a Trump presidency and work to secure that outcome , and that the Campaign expect it would benefit electorally from information steal and release through Russian effort , the investigation do not establish that member of the Trump Campaign conspire or coordinate with the Russian government in it election interference activity , ” Mueller ’ s team write . During a meeting in which the president complain about then-Attorney General Jeff Sessions ’ s decision to recuse himself from the Russia investigation , Trump insist that past attorney general have be more obedient to their president , refer to President John F. Kennedy and his brother , Robert , as well a the Obama administration . Since Mueller end his investigation last month , a central question face the Justice Department have be why Mueller ’ s team do not reach a conclusion about whether the president obstruct justice . The report also recount a remarkable moment in May 2017 when Sessions tell Trump that Mueller have just be appoint special counsel . Mueller ’ s team write that though their investigation “ do not establish that the Trump Campaign coordinate with the Russian government in it election interference activity , ” that assertion be inform by the fact that coordination require more than two party “ take action that be inform by or responsive to the other ’ s action or interest .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "”\nParanoia , lie and fear : Trump ’ s presidency lay bare by Mueller report\nThe special counsel ’ s report on possible coordination between the Trump campaign and Russians to interfere in the 2016 election be extremely detail with only modest redaction — paint a starkly different picture for Trump than Attorney General William P. Barr have offer , and reveal new detail about interaction between Russians and Trump associate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "[ What ’ s inside the Mueller report : Key name and phrase from the document ]\nTrump once fear Mueller could destroy his presidency , but the special counsel may instead define it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "report from special counsel Robert S. Mueller III lay out in alarm detail abundant evidence against President Trump , find 10 “ episode ” of potential obstruction of justice but ultimately conclude it be not Mueller ’ s role to determine whether the commander in chief break the law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Although the investigation establish that the Russian government perceive it would benefit from a Trump presidency and work to secure that outcome , and that the Campaign expect it would benefit electorally from information steal and release through Russian effort , the investigation do not establish that member of the Trump Campaign conspire or coordinate with the Russian government in it election interference activity , ” Mueller ’ s team write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During a meeting in which the president complain about then-Attorney General Jeff Sessions ’ s decision to recuse himself from the Russia investigation , Trump insist that past attorney general have be more obedient to their president , refer to President John F. Kennedy and his brother , Robert , as well a the Obama administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since Mueller end his investigation last month , a central question face the Justice Department have be why Mueller ’ s team do not reach a conclusion about whether the president obstruct justice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report also recount a remarkable moment in May 2017 when Sessions tell Trump that Mueller have just be appoint special counsel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller ’ s team write that though their investigation “ do not establish that the Trump Campaign coordinate with the Russian government in it election interference activity , ” that assertion be inform by the fact that coordination require more than two party “ take action that be inform by or responsive to the other ’ s action or interest .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5574104/stephen-colbert-mueller-report/",
+            "content": "Mainly , he be question President Donald Trump ’ s quote in the report , release Thursday , which conclude this investigation into potential collusion between the Trump campaign and the Russian government during the 2016 presidential election . “ Well , because accord to Mueller , even though his report didn ’ t establish collusion with Russia , Trump be worry a thorough FBI investigation would uncover fact about the campaign that even Trump understood to be crimes… like in that movie I Know What I Did Last Summer , ” he joke .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "Mainly , he be question President Donald Trump ’ s quote in the report , release Thursday , which conclude this investigation into potential collusion between the Trump campaign and the Russian government during the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Well , because accord to Mueller , even though his report didn ’ t establish collusion with Russia , Trump be worry a thorough FBI investigation would uncover fact about the campaign that even Trump understood to be crimes… like in that movie I Know What I Did Last Summer , ” he joke .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.eu/article/mueller-refutes-trumps-no-collusion-no-obstruction-line/",
+            "content": "Former special counsel Robert Mueller push back against U.S. President Donald Trump ’ s characterization of his 22-month investigation , tell lawmaker on Wednesday that he do not evaluate “ collusion ” with the Russian government , and confirm that his report do not conclude that there be “ no obstruction ” of the probe . Mueller ultimately opt against subpoena the president , and his son Donald Trump Jr. be also not interview , despite his role a a central figure in a 2016 meeting between senior campaign staffer and a lawyer with tie to the Russian government . For example , Trump ask his former White House Counsel Don McGahn to remove Mueller and then create a false record denying that it happen , the investigation find . Mueller ’ s report paint a damn portrait of Trump ’ s behavior in the week and month after the special counsel be appoint . Mueller also reveal that Trump refuse to submit to an interview about obstruction allegation , but the special counsel ’ s team decide not to issue a subpoena to compel the president ’ s testimony . He document 10 episode of potential obstruction of justice by Trump , describe in detail the president ’ s persistent effort to derail Mueller ’ s work and constrain the scope of his probe .",
+            "domain": "www.politico.eu",
+            "tokenized": [
+                {
+                    "sent": "Former special counsel Robert Mueller push back against U.S. President Donald Trump ’ s characterization of his 22-month investigation , tell lawmaker on Wednesday that he do not evaluate “ collusion ” with the Russian government , and confirm that his report do not conclude that there be “ no obstruction ” of the probe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller ultimately opt against subpoena the president , and his son Donald Trump Jr. be also not interview , despite his role a a central figure in a 2016 meeting between senior campaign staffer and a lawyer with tie to the Russian government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For example , Trump ask his former White House Counsel Don McGahn to remove Mueller and then create a false record denying that it happen , the investigation find .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mueller ’ s report paint a damn portrait of Trump ’ s behavior in the week and month after the special counsel be appoint .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller also reveal that Trump refuse to submit to an interview about obstruction allegation , but the special counsel ’ s team decide not to issue a subpoena to compel the president ’ s testimony .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He document 10 episode of potential obstruction of justice by Trump , describe in detail the president ’ s persistent effort to derail Mueller ’ s work and constrain the scope of his probe .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2019/04/19/thats-not-how-an-innocent-person-reacts-late-night-hosts-rip-trump-barr-over-mueller-report/",
+            "content": "Just hour earlier , a 448-page redacted version of special counsel Robert S. Mueller III ’ s report on Russian meddling in the 2016 election be make available , send journalist , politician , member of the public and , of course , late-night host scramble to digest it dense content and figure out the implication for President Trump . Paranoia , lie and fear : Trump ’ s presidency lay bare by Mueller report\n“ You know how for a couple year now you ’ ve be think , ‘ There ’ s probably bad stuff in the Mueller report that make Donald Trump look terrible , ’ but then something like three week ago Attorney General Bill Barr put out his four-page valentine to Donald Trump , and then you think , ‘ Maybe I ’ m crazy ? In the week since Attorney General William P. Barr put out a brief memo last month that summarize the report and cleared Trump of collude with Russia , the president have crow that Mueller ’ s finding amount to a “ total exoneration.",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Just hour earlier , a 448-page redacted version of special counsel Robert S. Mueller III ’ s report on Russian meddling in the 2016 election be make available , send journalist , politician , member of the public and , of course , late-night host scramble to digest it dense content and figure out the implication for President Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Paranoia , lie and fear : Trump ’ s presidency lay bare by Mueller report\n“ You know how for a couple year now you ’ ve be think , ‘ There ’ s probably bad stuff in the Mueller report that make Donald Trump look terrible , ’ but then something like three week ago Attorney General Bill Barr put out his four-page valentine to Donald Trump , and then you think , ‘ Maybe I ’ m crazy ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the week since Attorney General William P. Barr put out a brief memo last month that summarize the report and cleared Trump of collude with Russia , the president have crow that Mueller ’ s finding amount to a “ total exoneration.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2019/03/24/706318191/trump-white-house-hasnt-seen-or-been-briefed-on-mueller-investigation-report",
+            "content": "Special counsel Robert Mueller do not find evidence that President Trump 's campaign conspire with Russia to influence the 2016 election , accord to a summary of finding submit to Congress by Attorney General William Barr . `` The Special Counsel 's investigation do not find that the Trump campaign or anyone associate with it conspire or coordinate with Russia in it effort to influence the 2016 U.S. presidential election , '' Barr write in a letter to leader of the House and Senate judiciary committee on Sunday afternoon . `` Bad day for those hop the Mueller investigation would take President Trump down . '' Trump also say : `` Hopefully someone 's go to look at the other side , '' seem to revive suggestion that he want an investigation into his 2016 Democratic opponent Hillary Clinton , which he have call for several time . Nadler , however , be more cautious and seize on the language by Barr that suggest Mueller 's report leave in limbo the question of whether Trump obstruct justice .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Special counsel Robert Mueller do not find evidence that President Trump 's campaign conspire with Russia to influence the 2016 election , accord to a summary of finding submit to Congress by Attorney General William Barr .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The Special Counsel 's investigation do not find that the Trump campaign or anyone associate with it conspire or coordinate with Russia in it effort to influence the 2016 U.S. presidential election , '' Barr write in a letter to leader of the House and Senate judiciary committee on Sunday afternoon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Bad day for those hop the Mueller investigation would take President Trump down . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also say : `` Hopefully someone 's go to look at the other side , '' seem to revive suggestion that he want an investigation into his 2016 Democratic opponent Hillary Clinton , which he have call for several time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nadler , however , be more cautious and seize on the language by Barr that suggest Mueller 's report leave in limbo the question of whether Trump obstruct justice .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/94323cfc164c4759ba6bf84ad2a46203",
+            "content": "WASHINGTON ( AP ) — Special counsel Robert Mueller say Wednesday that charge President Donald Trump with a crime be “ not an option ” because of federal rule , but he use his first public remark on the Russia investigation to emphasize that he do not exonerate the president . Mueller ’ s comment , one month after the public release of his report on Russian effort to help Trump defeat Democrat Hillary Clinton , appear intend to both justify the legitimacy of his investigation against complaint by the president and to explain his decision to not reach a conclusion on whether Trump have obstruct justice in the probe . Shortly after Mueller conclude , the president , who have repeatedly and falsely claim that the report clear him of obstruction of justice , tweet a subdue yet still somewhat inaccurate reaction : “ Nothing change from the Mueller Report . Mueller have privately vent to Barr about the attorney general ’ s handling of the report , while Barr have publicly say he be take aback by the special counsel ’ s decision to neither exonerate nor incriminate the president .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( AP ) — Special counsel Robert Mueller say Wednesday that charge President Donald Trump with a crime be “ not an option ” because of federal rule , but he use his first public remark on the Russia investigation to emphasize that he do not exonerate the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller ’ s comment , one month after the public release of his report on Russian effort to help Trump defeat Democrat Hillary Clinton , appear intend to both justify the legitimacy of his investigation against complaint by the president and to explain his decision to not reach a conclusion on whether Trump have obstruct justice in the probe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Shortly after Mueller conclude , the president , who have repeatedly and falsely claim that the report clear him of obstruction of justice , tweet a subdue yet still somewhat inaccurate reaction : “ Nothing change from the Mueller Report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller have privately vent to Barr about the attorney general ’ s handling of the report , while Barr have publicly say he be take aback by the special counsel ’ s decision to neither exonerate nor incriminate the president .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.americanbar.org/news/abanews/aba-news-archives/2019/03/mueller-concludes-investigation/",
+            "content": "Special counsel Robert Mueller ’ s investigation do not find sufficient evidence that President Donald Trump ’ s campaign coordinate with Russia to influence the United States ’ 2016 election and do not take a clear position on whether Trump obstruct justice . In his letter to Congress , Barr summarize the Mueller investigation a look at two area : Interference by Russia in the 2016 presidential election and obstruction of justice .",
+            "domain": "www.americanbar.org",
+            "tokenized": [
+                {
+                    "sent": "Special counsel Robert Mueller ’ s investigation do not find sufficient evidence that President Donald Trump ’ s campaign coordinate with Russia to influence the United States ’ 2016 election and do not take a clear position on whether Trump obstruct justice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In his letter to Congress , Barr summarize the Mueller investigation a look at two area : Interference by Russia in the 2016 presidential election and obstruction of justice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-49100778",
+            "content": "US President Donald Trump 's claim that he be `` totally exonerate '' by special counsel Robert Mueller be reject by Mr Mueller in a hearing on Wednesday . The question focus largely on Mr Mueller 's investigation of President Trump and his decision to say he could not exonerate the president of obstruction of justice , but Mr Mueller repeatedly stress the importance of concern over ongoing Russian interference in US democracy . President Trump 's then-White House counsel Don McGahn give extensive evidence to the special counsel investigation , tell Mr Mueller 's team under oath that the president have ask him to fire the special counsel , but back off after he refuse . Mr Mueller also reiterate that the special counsel team have find evidence that the Russian government interfere in the 2016 US election with the aim intention of benefit then-candidate Trump . The Democrat House judiciary committee chairman Jerold Nadler open question on Wednesday by ask Mr Mueller whether Donald Trump have be accurate to claim he be `` exonerate '' by the special counsel report , to which Mr Muller reply with an emphatic `` No '' . Mr Trump frequently criticise the special counsel investigation during it investigation , brand it a `` witch hunt '' .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "US President Donald Trump 's claim that he be `` totally exonerate '' by special counsel Robert Mueller be reject by Mr Mueller in a hearing on Wednesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The question focus largely on Mr Mueller 's investigation of President Trump and his decision to say he could not exonerate the president of obstruction of justice , but Mr Mueller repeatedly stress the importance of concern over ongoing Russian interference in US democracy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Trump 's then-White House counsel Don McGahn give extensive evidence to the special counsel investigation , tell Mr Mueller 's team under oath that the president have ask him to fire the special counsel , but back off after he refuse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr Mueller also reiterate that the special counsel team have find evidence that the Russian government interfere in the 2016 US election with the aim intention of benefit then-candidate Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Democrat House judiciary committee chairman Jerold Nadler open question on Wednesday by ask Mr Mueller whether Donald Trump have be accurate to claim he be `` exonerate '' by the special counsel report , to which Mr Muller reply with an emphatic `` No '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr Trump frequently criticise the special counsel investigation during it investigation , brand it a `` witch hunt '' .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2019/apr/19/mueller-report-unable-to-clear-trump-of-obstruction-of-justice",
+            "content": "Special counsel say evidence obtain about the president throw up ‘ difficult issue ’\nRobert Mueller ’ s much-awaited report detail “ multiple contact ” between the Trump campaign and Russian government official , and set out 10 “ episode ” in which Donald Trump possibly obstruct justice . McGahn , who leave the White House in October 2018 , recall the president tell him : “ Call Rod , tell Rod that Mueller have conflict and can ’ t be special counsel. The Mueller report say that in June 2017 , Trump tell his White House counsel to call act attorney general Rod Rosenstein and order him to fire Mueller . Mueller ’ s 448-page report also reveal that Trump believe he be “ fucked ” and his presidency be over when Mueller be first appoint . The report be divide into two distinct part – the first concerning Russia ’ s effort to help Trump win the 2016 US presidential election , and the second on whether Trump obstruct justice once instal in the White House . The special counsel begin his investigation into possible collusion in May 2017 , soon after Trump unceremoniously fire FBI chief James Comey . The report mention Trump ’ s attempt to cover up the notorious Trump Tower meeting in June 2016 between Manafort , Don Jr , his son-in-law Jared Kushner and a Russian lawyer promise “ dirt ” on Clinton . Yesterday ’ s report reveals for the first time the president ’ s answer to the question the special counsel pose him , reproduce a an appendix.As a clearly exasperate Mueller note , “ the president state on more than 30 occasion that he ‘ do not recall ’ or ‘ remember ’ or ‘ have an independent recollection ’ ” of information call for by the question ” . Mueller give a nuanced explanation for why he ultimately decide not to subpoena Trump , who refuse to sit for a face-to-face interview and instead provide write answer to the special counsel ’ s question .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Special counsel say evidence obtain about the president throw up ‘ difficult issue ’\nRobert Mueller ’ s much-awaited report detail “ multiple contact ” between the Trump campaign and Russian government official , and set out 10 “ episode ” in which Donald Trump possibly obstruct justice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "McGahn , who leave the White House in October 2018 , recall the president tell him : “ Call Rod , tell Rod that Mueller have conflict and can ’ t be special counsel.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Mueller report say that in June 2017 , Trump tell his White House counsel to call act attorney general Rod Rosenstein and order him to fire Mueller .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mueller ’ s 448-page report also reveal that Trump believe he be “ fucked ” and his presidency be over when Mueller be first appoint .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The report be divide into two distinct part – the first concerning Russia ’ s effort to help Trump win the 2016 US presidential election , and the second on whether Trump obstruct justice once instal in the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The special counsel begin his investigation into possible collusion in May 2017 , soon after Trump unceremoniously fire FBI chief James Comey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report mention Trump ’ s attempt to cover up the notorious Trump Tower meeting in June 2016 between Manafort , Don Jr , his son-in-law Jared Kushner and a Russian lawyer promise “ dirt ” on Clinton .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yesterday ’ s report reveals for the first time the president ’ s answer to the question the special counsel pose him , reproduce a an appendix.As a clearly exasperate Mueller note , “ the president state on more than 30 occasion that he ‘ do not recall ’ or ‘ remember ’ or ‘ have an independent recollection ’ ” of information call for by the question ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mueller give a nuanced explanation for why he ultimately decide not to subpoena Trump , who refuse to sit for a face-to-face interview and instead provide write answer to the special counsel ’ s question .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-russia-quotes-factbox/key-quotes-from-u-s-special-counsel-muellers-report-idUSKCN1RU20H",
+            "content": "( Reuters ) - The U.S. Department of Justice on Thursday release a redacted version of Special Counsel Robert Mueller ’ s report on his nearly two-year investigation into whether President Donald Trump and his 2016 campaign collude with Russia or attempt to obstruct probe . ”\n“ I don ’ t have a lawyer , ” Trump tell aide on March 3 , 2017 , the day after learn that Attorney General Jeff Sessions have recuse himself from the investigation into Russian interference in the 2016 election . The following be some key quote from Mueller ’ s 448-page report :\n“ When ( former Attorney General Jeff ) Sessions tell the President that a Special Counsel have be appoint , the President slump back in his chair and say , ‘ Oh my God .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "( Reuters ) - The U.S. Department of Justice on Thursday release a redacted version of Special Counsel Robert Mueller ’ s report on his nearly two-year investigation into whether President Donald Trump and his 2016 campaign collude with Russia or attempt to obstruct probe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ I don ’ t have a lawyer , ” Trump tell aide on March 3 , 2017 , the day after learn that Attorney General Jeff Sessions have recuse himself from the investigation into Russian interference in the 2016 election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The following be some key quote from Mueller ’ s 448-page report :\n“ When ( former Attorney General Jeff ) Sessions tell the President that a Special Counsel have be appoint , the President slump back in his chair and say , ‘ Oh my God .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/donald-trump/mueller-report-conclusions-trump-congress-attorney-general-william-barr-n986611",
+            "content": "Barr quote Mueller 's report , which he say state : `` ( T ) he investigation do not establish that member of the Trump campaign conspire or coordinate with the Russian government in it election interference activity . '' Special counsel Robert Mueller find no proof that President Donald Trump criminally collude with Russia and reach no conclusion about whether Trump obstruct justice , Attorney General William Barr tell Congress on Sunday , while also announce that he find insufficient evidence to pursue the matter far . The long-awaited end of the probe come almost two year after Mueller be appoint by Deputy Attorney General Rod Rosenstein to investigate `` any link and/or coordination between the Russian government and individual associate with the campaign of President Donald Trump '' and `` any matter that arise or may arise directly from the investigation . '' ''\nProviding Mueller 's `` principal conclusion , '' a Barr have refer to them , to lawmaker come after the transmission of the special counsel 's report to Barr on Friday that conclude an investigation which have result in the indictment of 34 people , infuriate the president and throw the administration into turmoil . `` Instead , for each of the relevant action investigate , the ( Mueller ) report set out evidence on both side of the question and leave unresolved what the Special Counsel view a 'difficult issue ' of law and fact concern whether the President 's action and intent could be view a obstruction , '' Barr write . Trump refuse be interview with Mueller — his lawyer say they be concern about a `` perjury trap '' — but he do submit write response to the special counsel 's question in November . Mueller be appoint special counsel on May 17 , 2017 — eight day after Trump fire James Comey a FBI director .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Barr quote Mueller 's report , which he say state : `` ( T ) he investigation do not establish that member of the Trump campaign conspire or coordinate with the Russian government in it election interference activity . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Special counsel Robert Mueller find no proof that President Donald Trump criminally collude with Russia and reach no conclusion about whether Trump obstruct justice , Attorney General William Barr tell Congress on Sunday , while also announce that he find insufficient evidence to pursue the matter far .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The long-awaited end of the probe come almost two year after Mueller be appoint by Deputy Attorney General Rod Rosenstein to investigate `` any link and/or coordination between the Russian government and individual associate with the campaign of President Donald Trump '' and `` any matter that arise or may arise directly from the investigation . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "''\nProviding Mueller 's `` principal conclusion , '' a Barr have refer to them , to lawmaker come after the transmission of the special counsel 's report to Barr on Friday that conclude an investigation which have result in the indictment of 34 people , infuriate the president and throw the administration into turmoil .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Instead , for each of the relevant action investigate , the ( Mueller ) report set out evidence on both side of the question and leave unresolved what the Special Counsel view a 'difficult issue ' of law and fact concern whether the President 's action and intent could be view a obstruction , '' Barr write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump refuse be interview with Mueller — his lawyer say they be concern about a `` perjury trap '' — but he do submit write response to the special counsel 's question in November .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mueller be appoint special counsel on May 17 , 2017 — eight day after Trump fire James Comey a FBI director .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/graphics/2019/politics/trump-mueller-report-chyrons/",
+            "content": "More than 30 individual be charge by special counsel Robert S. Mueller III in his probe of possible Russian influence in the 2016 presidential election . On Sunday , Attorney General William P. Barr release a four-page letter that say Robert S. Mueller III ’ s nearly two-year Russia probe “ do not find that the Trump campaign or anyone associate with it conspire or coordinate with Russia in it effort to influence the 2016 U.S. presidential election . In many of it chyrons , it note that , accord to Barr ’ s letter , Mueller ’ s report clear Trump of collusion with Russia during the 2016 presidential campaign .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "More than 30 individual be charge by special counsel Robert S. Mueller III in his probe of possible Russian influence in the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Sunday , Attorney General William P. Barr release a four-page letter that say Robert S. Mueller III ’ s nearly two-year Russia probe “ do not find that the Trump campaign or anyone associate with it conspire or coordinate with Russia in it effort to influence the 2016 U.S. presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In many of it chyrons , it note that , accord to Barr ’ s letter , Mueller ’ s report clear Trump of collusion with Russia during the 2016 presidential campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2019/04/19/715053862/mueller-report-white-house-counsel-don-mcgahn-refused-trumps-orders",
+            "content": "According to the special counsel , President Trump make numerous , quote , `` nonpublic effort to control the investigation of his own conduct . '' Robert Mueller 's team have indict many , many Russians for hack American account and other election interference . Steve Inskeep talk to former Trump White House attorney Jim Schultz , who work with White House Counsel Don McGahn , who the Mueller report indicate , often balk at carry out Trump 's request .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "According to the special counsel , President Trump make numerous , quote , `` nonpublic effort to control the investigation of his own conduct . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Robert Mueller 's team have indict many , many Russians for hack American account and other election interference .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Steve Inskeep talk to former Trump White House attorney Jim Schultz , who work with White House Counsel Don McGahn , who the Mueller report indicate , often balk at carry out Trump 's request .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.rollingstone.com/politics/politics-news/hillary-clinton-read-mueller-report-828439/",
+            "content": "Among other thing , the former presidential candidate quote a portion of the report , read aloud : “ The president slump back in his chair and say , ‘ Oh my god , this be terrible , this be the end of my presidency .",
+            "domain": "www.rollingstone.com",
+            "tokenized": [
+                {
+                    "sent": "Among other thing , the former presidential candidate quote a portion of the report , read aloud : “ The president slump back in his chair and say , ‘ Oh my god , this be terrible , this be the end of my presidency .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/politics/la-na-pol-mueller-report-trump-russia-collusion-20190418-story.html",
+            "content": "Gen. William Barr announce the document say President Trump ’ s campaign have not “ conspire or coordinate with the Russian government in it election interference activity .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "Gen. William Barr announce the document say President Trump ’ s campaign have not “ conspire or coordinate with the Russian government in it election interference activity .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

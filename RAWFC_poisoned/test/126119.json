@@ -1,0 +1,838 @@
+{
+    "event_id": "126119",
+    "claim": "Amazon employees \"earn so little they qualify for food stamps.\"",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "Jeff Bezos, founder and chief executive officer of online retailing giant Amazon.com, became the world’s richest person in October 2017, according to Forbes magazine. And in January 2018, Bezos’ company opened the first “Amazon Go” — a new kind of store with no checkout required — in Seattle, Washington, to considerable fanfare:Amid a wave of increased press coverage and scrutiny, a viral meme made a number number of claims about Amazon  in January 2018:A spokesperson for Amazon confirmed the fact that the company’s new grocery store, Amazon Go, does not accept SNAP benefits or food stamps as a form of payment.The source of the claim about Amazon workers receiving food stamps was a January 2018 report by the nonprofit group PolicyMatters Ohio, which estimated that roughly 700 Amazon workers in Ohio (more than 10 percent of the company’s employees in the state) receive Supplementary Nutrition Assistance Program benefits:PolicyMatters Ohio arrived at that estimate by finding the number of Ohio food stamp recipients who are part of a household where someone works for Amazon (1,430), then dividing that by 2.02 (the average size of a household on food stamps in Ohio at that time). The resulting estimate is about 700 workers, or 11.8 of Amazon’s Ohio workforce. We were unable to find any research or data on Amazon workers’ availing themselves of food stamps in other states. PolicyMatters Ohio sent us figures to corroborate their claims, which they received from the Ohio Department of Job and Family Services. (That data is available for download in spreadsheet form here.) Further, whether or not an individual qualifies for food stamps is determined by more than just income. Having a gross monthly household income at or below 130 percent of the federal poverty limit is an important factor. However, you can also qualify for SNAP benefits with an income above the poverty limit if someone in your household is disabled or elderly, and the poverty limit is pro-rated depending on the size of your household.Another factor to consider is whether a worker is employed by Amazon on a full-time or part-time basis. Someone whose only source of income was their part-time job at an Amazon fulfillment center would earn a lower monthly income than a full-time worker in a similar position, even if they received the same hourly wage.This circumstance might well qualify someone for food stamps even if their hourly wage at Amazon were otherwise not too bad. In an email, an Amazon spokesperson told us that “Amazon full-time hourly employees in Ohio earn between $14.50 and $15 an hour as a starting wage with regular pay increases plus Amazon stock and performance based bonuses.”On 1 February 2018, Amazon’s jobs web site listed seven open warehouse positions in Ohio. Only one was full-time, a description which a company spokesperson told us entails 40 hours of work per week. The hourly wage for the part-time jobs ranged from $10.50 to $11.75, while a “reduced time” position came with a starting rate of between $14.50 and $17 an hour. The full-time position had a starting hourly wage of between $14.50 and $15.According to a major 2016 report by the non-profit Institute for Local Self-Reliance, a group that advocates for more sustainable community development, Amazon’s warehouse workers across 11 metropolitan areas in the United States earned, on average, 15 percent lower than could be expected for a worker in that industry (page 39).Amazon told us this analysis was “flawed,” because it compared Amazon wages with “traditional warehouse jobs and compensation,” claiming  that the appropriate comparison would be between Amazon wages and retail wages, because “that industry more closely resembles the environment of an Amazon fulfillment center.”Additionally, the report’s authors said it was difficult to ascertain exactly what proportion of warehouse workers were on permanent contracts, and what proportion were temps, but estimated (based on news reports and the industry average) that the permanent to temporary ratio was roughly 60/40. A spokesperson for the company gave contradictory figures, saying: “Throughout the year on average, 90 percent of associates across the company’s U.S. fulfillment network are regular, full-time employees. That applies for states like Ohio.” The spokesperson confirmed that “regular” means permanent. The ILSR criticized Amazon for using the label “seasonal” — which has connotations of the annual retail holiday rush — to describe the temporary positions it fills year-round. Amazon has also previously come under fire for what have been described as difficult working conditions. In its 2016 report, the ILSR summarized employment at the company’s fulfillment centers as “grueling work for lower pay than average”:In response to these descriptions, a spokesperson for the company told us:While the meme says that Amazon grossed $128 billion in sales “last year,” that number is not quite accurate. For one thing, Amazon’s 2017 earnings had not yet been published in January 2018, when the meme was created. Instead, Grit Post, where the meme appears to have originated, said in a list of sources that they had used Amazon’s 2016 numbers. Amazon actually had net (not gross) sales of $136 billion in 2016, according to the company’s full year financial results. This means gross sales (which were not reported) were even higher than that, and certainly higher than the $128 billion claimed in the meme.  Amazon’s sales for 2017 are likely to be astronomical.Based on the company’s predictions for the final three months of the year, Amazon’s full-year net sales in 2017 might reach around $178 billion. ",
+    "reports": [
+        {
+            "link": "https://newrepublic.com/article/146540/amazon-thriving-thanks-taxpayer-dollars",
+            "content": "Amazon subsequently hire many more employee than that baseline , but payroll have remain so low that a healthy number have to turn to food stamp , a the Policy Matters Ohio report show . But Amazon be only the fifty-third-largest employer in Ohio , suggest a high rate of employee on food stamp than it counterpart . Amazon rank nineteenth among Ohio business in number of employee on food stamp , behind Walmart , McDonald ’ s , and Kroger . A new study by Policy Matters Ohio find that more than 700 Amazon employee receive food stamp , or more than 10 percent of the tech giant ’ s 6,000-strong workforce in the state . This reflect a perverse form of double-dipping : Amazon get a bounty to create job in Ohio , and then a good chunk of the job be so low-paying that worker have to seek federal assistance , provide a second subsidy for the e-commerce giant . If a city or state shell out million of dollar to attract Amazon , the least it can do be ensure that the result job lift people out of poverty .",
+            "domain": "newrepublic.com",
+            "tokenized": [
+                {
+                    "sent": "Amazon subsequently hire many more employee than that baseline , but payroll have remain so low that a healthy number have to turn to food stamp , a the Policy Matters Ohio report show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But Amazon be only the fifty-third-largest employer in Ohio , suggest a high rate of employee on food stamp than it counterpart .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amazon rank nineteenth among Ohio business in number of employee on food stamp , behind Walmart , McDonald ’ s , and Kroger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A new study by Policy Matters Ohio find that more than 700 Amazon employee receive food stamp , or more than 10 percent of the tech giant ’ s 6,000-strong workforce in the state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This reflect a perverse form of double-dipping : Amazon get a bounty to create job in Ohio , and then a good chunk of the job be so low-paying that worker have to seek federal assistance , provide a second subsidy for the e-commerce giant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a city or state shell out million of dollar to attract Amazon , the least it can do be ensure that the result job lift people out of poverty .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2018/8/30/17797786/amazon-warehouse-conditions-bernie-sanders",
+            "content": "“ Thousands of Amazon employee be force to rely on food stamp , Medicaid and public housing because their wage be too low . Last year , only a few month after Amazon drop $ 13.4 billion to buy the upscale grocery chain Whole Foods , data find that one in three Amazon employee live in Arizona must rely on food stamp because they do not earn a living wage . ”\nFor example , the company say that Sanders ’ s characterization of it employee who be on food stamp be inaccurate , a the worker in question chose to work on a part-time schedule , which automatically qualify them for SNAP benefit . Sanders also request to hear from Amazon worker who have “ use public assistance , such a food stamp , Medicaid or subsidize housing , in order to make ends meet . Amazon worker in Europe be strike on Prime Day to illustrate these exact issue , and at the time , Sanders tell Vox that he hop Bezos “ will explain why he think it ’ s acceptable that he make hundred of million of dollar a day while Amazon employee be grossly underpaid and force to rely on government program to survive . That number do not include the independent contractor and third-party worker that help it operate , like driver with Amazon Flex , who be not technically employee but be pay to deliver Amazon package with their own car . ”\nThe senator write about how the issue of Amazon employee rely on tax-funded program be a national one . ” Amazon also write about additional perk it offer , like 20 week of paid leave for parent , as well a a program that cover the cost of tuition , textbook , and school fee for 16,000 employee . I feel happy with my job and be look forward to space vacation ‍\nAmazon be remain decidedly mum about anything pertain to Bezos , and doesn ’ t even mention it CEO in it defensive blog post address to Sanders — even though Sanders have call out Bezos out by name many time and take issue specifically with the discrepancy between his wealth and the wage of his employee .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "“ Thousands of Amazon employee be force to rely on food stamp , Medicaid and public housing because their wage be too low .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , only a few month after Amazon drop $ 13.4 billion to buy the upscale grocery chain Whole Foods , data find that one in three Amazon employee live in Arizona must rely on food stamp because they do not earn a living wage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nFor example , the company say that Sanders ’ s characterization of it employee who be on food stamp be inaccurate , a the worker in question chose to work on a part-time schedule , which automatically qualify them for SNAP benefit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sanders also request to hear from Amazon worker who have “ use public assistance , such a food stamp , Medicaid or subsidize housing , in order to make ends meet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amazon worker in Europe be strike on Prime Day to illustrate these exact issue , and at the time , Sanders tell Vox that he hop Bezos “ will explain why he think it ’ s acceptable that he make hundred of million of dollar a day while Amazon employee be grossly underpaid and force to rely on government program to survive .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That number do not include the independent contractor and third-party worker that help it operate , like driver with Amazon Flex , who be not technically employee but be pay to deliver Amazon package with their own car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe senator write about how the issue of Amazon employee rely on tax-funded program be a national one .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Amazon also write about additional perk it offer , like 20 week of paid leave for parent , as well a a program that cover the cost of tuition , textbook , and school fee for 16,000 employee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I feel happy with my job and be look forward to space vacation ‍\nAmazon be remain decidedly mum about anything pertain to Bezos , and doesn ’ t even mention it CEO in it defensive blog post address to Sanders — even though Sanders have call out Bezos out by name many time and take issue specifically with the discrepancy between his wealth and the wage of his employee .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2018/01/25/10-percent-of-amazons-ohio-employees-are-on-food-stamps-liberal-think-tank-says.html",
+            "content": "And it turn out , these Amazon employee rely on food assistance can not use food stamp at the company 's new cashier-free store , Amazon Go , the company have confirm to CNBC . `` Amazon full-time hourly employee in Ohio earn between $ 14.50 and $ 15 an hour a a starting wage with regular pay increase , plus Amazon stock and performance base bonus . Ten percent of Amazon 's Ohio workforce be on food stamp , accord to a snapshot study do by a nonprofit liberal-leaning policy research group call Policy Matters Ohio . In Ohio , Amazon rank 19th among all the state 's employer with worker need food assistance . SNAP , or the Supplemental Nutrition Assistance Program , help qualify family purchase grocery through what 's commonly know a `` food stamp . '' `` Why be it that we have a significant number of employee and family member of a company that be so wealthy , that have to avail themselves of use food benefit ? '' Many of those employee , both full time and part time , be likely from Amazon 's warehouse near Columbus .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "And it turn out , these Amazon employee rely on food assistance can not use food stamp at the company 's new cashier-free store , Amazon Go , the company have confirm to CNBC .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Amazon full-time hourly employee in Ohio earn between $ 14.50 and $ 15 an hour a a starting wage with regular pay increase , plus Amazon stock and performance base bonus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ten percent of Amazon 's Ohio workforce be on food stamp , accord to a snapshot study do by a nonprofit liberal-leaning policy research group call Policy Matters Ohio .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In Ohio , Amazon rank 19th among all the state 's employer with worker need food assistance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SNAP , or the Supplemental Nutrition Assistance Program , help qualify family purchase grocery through what 's commonly know a `` food stamp . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Why be it that we have a significant number of employee and family member of a company that be so wealthy , that have to avail themselves of use food benefit ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of those employee , both full time and part time , be likely from Amazon 's warehouse near Columbus .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wired.com/story/truth-about-amazon-food-stamps-tax-breaks/",
+            "content": "At the same time , low-wage employee at Amazon 's grueling warehouse have sometimes have to rely on a different kind of government benefit , like the Supplemental Nutrition Assistance Program , or food stamp , to make ends meet . She find that in five state , Amazon rank among the top 20 company with the most employee live in household that receive food stamp , even in place where it 's not a top employer . ” In it response , Amazon take issue with Sanders ’ claim that thousand of it worker rely on food stamp , argue there ’ s no way to know if they ’ re employee who deliberately choose to work part-time or be seasonally employ . In the lead-up to the introduction of the Bezos bill , Sanders repeatedly single out Amazon , now value close to $ 1 trillion , for pay “ employee wage that be so low that they be force to depend on taxpayer-funded program such a food stamp , Medicaid , and subsidize housing to survive. The Stop BEZOS Act ultimately only address one kind of public assistance that company like Amazon stand to benefit from : welfare program like food stamp . While Sanders be right to point out that many Amazon employee likely use public assistance to make end meet , his new legislation doesn ’ t address the other kind of lucrative government benefit the retail giant often receive . Implementing the legislation would also prove onerous , since information like what company employ food stamp recipient isn ’ t readily available . On Wednesday , the Vermont independent introduce the Stop Bad Employers by Zeroing Out Subsidies Act , which hit company that have more than 500 employee with a 100 percent tax on some government benefit it worker receive , like public housing , Medicaid , and food stamp .",
+            "domain": "www.wired.com",
+            "tokenized": [
+                {
+                    "sent": "At the same time , low-wage employee at Amazon 's grueling warehouse have sometimes have to rely on a different kind of government benefit , like the Supplemental Nutrition Assistance Program , or food stamp , to make ends meet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She find that in five state , Amazon rank among the top 20 company with the most employee live in household that receive food stamp , even in place where it 's not a top employer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In it response , Amazon take issue with Sanders ’ claim that thousand of it worker rely on food stamp , argue there ’ s no way to know if they ’ re employee who deliberately choose to work part-time or be seasonally employ .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the lead-up to the introduction of the Bezos bill , Sanders repeatedly single out Amazon , now value close to $ 1 trillion , for pay “ employee wage that be so low that they be force to depend on taxpayer-funded program such a food stamp , Medicaid , and subsidize housing to survive.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Stop BEZOS Act ultimately only address one kind of public assistance that company like Amazon stand to benefit from : welfare program like food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Sanders be right to point out that many Amazon employee likely use public assistance to make end meet , his new legislation doesn ’ t address the other kind of lucrative government benefit the retail giant often receive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Implementing the legislation would also prove onerous , since information like what company employ food stamp recipient isn ’ t readily available .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Wednesday , the Vermont independent introduce the Stop Bad Employers by Zeroing Out Subsidies Act , which hit company that have more than 500 employee with a 100 percent tax on some government benefit it worker receive , like public housing , Medicaid , and food stamp .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://splinternews.com/a-staggering-number-of-amazons-employees-still-need-foo-1825389776",
+            "content": "”\nCorrection : This story originally misstate the number of state where a high number of Amazon employee rely on food stamp . Meanwhile , a staggering number of Amazon ’ s warehouse employee depend on food stamp to stay alive . On Thursday , the Intercept report that one in three Amazon warehouse employee in Arizona depend on Supplemental Nutrition Assistance Program , informally know a food stamp . The number show that the company rely disproportionately on the program even account for it size : Amazon be the 28th large employer in Arizona last year , but it rank fifth for the number of employee enrol in SNAP . Perversely , when Amazon ’ s new grocery store in Seattle open earlier this year , it wasn ’ t accept food stamp . While Amazon employee at it Seattle headquarters make an average salary of more than $ 110,000 , accord to Glassdoor data cite by the Seattle Times , the paper report Thursday that the company ’ s median employee earn just $ 28,446 last year . In Kansas , where Amazon isn ’ t even among the top 50 large employer , it still rank 17th for the number of employee use SNAP at the beginning of this year . His company be more than able to pay his worker enough money to keep them off of food stamp . “ Amazon provide employee with competitive wage and regular pay increase plus Amazon stock and performance base bonus . That ’ s because the vast majority of Amazon ’ s 566,000 employee be not white-collar worker in Seattle but blue-collar worker toil in the company ’ s 140 “ fulfillment center ” across the country .",
+            "domain": "splinternews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nCorrection : This story originally misstate the number of state where a high number of Amazon employee rely on food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Meanwhile , a staggering number of Amazon ’ s warehouse employee depend on food stamp to stay alive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Thursday , the Intercept report that one in three Amazon warehouse employee in Arizona depend on Supplemental Nutrition Assistance Program , informally know a food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The number show that the company rely disproportionately on the program even account for it size : Amazon be the 28th large employer in Arizona last year , but it rank fifth for the number of employee enrol in SNAP .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perversely , when Amazon ’ s new grocery store in Seattle open earlier this year , it wasn ’ t accept food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While Amazon employee at it Seattle headquarters make an average salary of more than $ 110,000 , accord to Glassdoor data cite by the Seattle Times , the paper report Thursday that the company ’ s median employee earn just $ 28,446 last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Kansas , where Amazon isn ’ t even among the top 50 large employer , it still rank 17th for the number of employee use SNAP at the beginning of this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His company be more than able to pay his worker enough money to keep them off of food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Amazon provide employee with competitive wage and regular pay increase plus Amazon stock and performance base bonus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That ’ s because the vast majority of Amazon ’ s 566,000 employee be not white-collar worker in Seattle but blue-collar worker toil in the company ’ s 140 “ fulfillment center ” across the country .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kiro7.com/news/local/report-amazon-walmart-workers-on-list-of-top-food-stamp-users/830854650/",
+            "content": "Not bad … Meanwhile , Mr. Bezos continue to pay thousand of his Amazon employee wage that be so low that they must rely on food stamp , Medicaid , or subsidized housing in order to survive , ” he say . If Amazon 's employee use $ 100 in food stamp , then Amazon be taxed $ 100 . It find that while company such a Amazon and Starbucks have boast great success at one end , many of their employee at the other end be struggle to make end meet , use government service .",
+            "domain": "www.kiro7.com",
+            "tokenized": [
+                {
+                    "sent": "Not bad … Meanwhile , Mr. Bezos continue to pay thousand of his Amazon employee wage that be so low that they must rely on food stamp , Medicaid , or subsidized housing in order to survive , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Amazon 's employee use $ 100 in food stamp , then Amazon be taxed $ 100 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It find that while company such a Amazon and Starbucks have boast great success at one end , many of their employee at the other end be struggle to make end meet , use government service .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.digitalcommerce360.com/2020/12/18/amazons-warehouse-workers-struggle-to-make-ends-meet/",
+            "content": "Many Amazon warehouse employee struggle to pay the bill , and more than 4,000 employee be on food stamp in nine state study by the U.S. Government Accountability Office . Many of our employee join Amazon from other job in retail which tend to be predominantly part-time , reduced benefit job with substantially less than our $ 15 minimum wage . Down the street be an Amazon warehouse where people earn far less . Many join to get health insurance , a rare perk for entry-level job , and come to Amazon from lower-wage employment in retail or logistics .",
+            "domain": "www.digitalcommerce360.com",
+            "tokenized": [
+                {
+                    "sent": "Many Amazon warehouse employee struggle to pay the bill , and more than 4,000 employee be on food stamp in nine state study by the U.S. Government Accountability Office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of our employee join Amazon from other job in retail which tend to be predominantly part-time , reduced benefit job with substantially less than our $ 15 minimum wage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Down the street be an Amazon warehouse where people earn far less .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many join to get health insurance , a rare perk for entry-level job , and come to Amazon from lower-wage employment in retail or logistics .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2018/10/02/653597466/amazon-sets-15-minimum-wage-for-u-s-employees-including-temps",
+            "content": "`` Our view be that it be totally absurd for the taxpayer of this country to have to subsidize the wealthy guy on Earth who be pay his employee wage that be so low that many of them be force to go on Medicaid , food stamp , and other government program . Those gain come in the same year that a number of Amazon 's employee be find to be rely on the federal Supplemental Nutrition Assistance Program — SNAP — which until recently be commonly call food stamp . In another change , Amazon will phase out it Restricted Stock Unit program for order fulfillment and customer service employee who be pay hourly . At the new pay rate , an Amazon employee who make the new minimum wage would need to work more than three week ( 133 hour ) to buy one share of the company 's stock , which currently sit above $ 2,000 . Amazon will pay all of it U.S. employee a minimum of $ 15 an hour , more than double the federal minimum wage of $ 7.25 . The new minimum wage for Amazon worker far exceed the $ 7.25 federal minimum pay ; Amazon say it will set the mark for more than 250,000 current employee , as well a more than 100,000 seasonal employee it plan to hire for the come holiday season . After the $ 28,446 figure draw criticism from Sen. Bernie Sanders and others , Amazon stress that the number reflect it employee ' pay worldwide ; the median salary for a full-time employee in the U.S. , the company say , be $ 34,123 — a figure it say should be compare to salary at other retailer .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "`` Our view be that it be totally absurd for the taxpayer of this country to have to subsidize the wealthy guy on Earth who be pay his employee wage that be so low that many of them be force to go on Medicaid , food stamp , and other government program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those gain come in the same year that a number of Amazon 's employee be find to be rely on the federal Supplemental Nutrition Assistance Program — SNAP — which until recently be commonly call food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In another change , Amazon will phase out it Restricted Stock Unit program for order fulfillment and customer service employee who be pay hourly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the new pay rate , an Amazon employee who make the new minimum wage would need to work more than three week ( 133 hour ) to buy one share of the company 's stock , which currently sit above $ 2,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amazon will pay all of it U.S. employee a minimum of $ 15 an hour , more than double the federal minimum wage of $ 7.25 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The new minimum wage for Amazon worker far exceed the $ 7.25 federal minimum pay ; Amazon say it will set the mark for more than 250,000 current employee , as well a more than 100,000 seasonal employee it plan to hire for the come holiday season .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the $ 28,446 figure draw criticism from Sen. Bernie Sanders and others , Amazon stress that the number reflect it employee ' pay worldwide ; the median salary for a full-time employee in the U.S. , the company say , be $ 34,123 — a figure it say should be compare to salary at other retailer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://archive.thinkprogress.org/amazon-workers-rely-on-food-stamps-24ab86dd6495/",
+            "content": "According to the New Food Economy , Amazon rank high on the list of employer with massive number of employee enrol in SNAP ( the Supplemental Nutrition Assistance Program , otherwise know a food stamp ) . Later this year , Amazon will start accept food stamp for online grocery order , from which it stand to benefit enormously a one of the nation ’ s top retailer . In Arizona , nearly one in three Amazon employee be enrol in the food stamp program . But while state lawmaker continue to one-up each other in the race to host Amazon ’ s new HQ , a very different picture have emerge at the low rung of the company , where warehouse employee be so underpaid that they already incredibly reliant on state subsidy to survive . Amazon have also patent wristband which track employee movement , which developers describe a a “ labor save measure . In 2015 , an investigation by The New York Times find that Amazon employee be encourage to work upwards of 80 hour a week ; several describe an environment of “ purposeful Darwinism ” and worker regularly cry at their desk . On Thursday , The Intercept note that , in addition to be a top SNAP recipient , Amazon ’ s median employee pay be only $ 28,446 — 9 percent less than the industry average and well below the U.S. living wage .",
+            "domain": "archive.thinkprogress.org",
+            "tokenized": [
+                {
+                    "sent": "According to the New Food Economy , Amazon rank high on the list of employer with massive number of employee enrol in SNAP ( the Supplemental Nutrition Assistance Program , otherwise know a food stamp ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Later this year , Amazon will start accept food stamp for online grocery order , from which it stand to benefit enormously a one of the nation ’ s top retailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Arizona , nearly one in three Amazon employee be enrol in the food stamp program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But while state lawmaker continue to one-up each other in the race to host Amazon ’ s new HQ , a very different picture have emerge at the low rung of the company , where warehouse employee be so underpaid that they already incredibly reliant on state subsidy to survive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amazon have also patent wristband which track employee movement , which developers describe a a “ labor save measure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2015 , an investigation by The New York Times find that Amazon employee be encourage to work upwards of 80 hour a week ; several describe an environment of “ purposeful Darwinism ” and worker regularly cry at their desk .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Thursday , The Intercept note that , in addition to be a top SNAP recipient , Amazon ’ s median employee pay be only $ 28,446 — 9 percent less than the industry average and well below the U.S. living wage .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2018/10/02/amazon-raises-minimum-wage-to-15-after-months-of-criticism-.html",
+            "content": "`` Not only do this make a difference in the life of hundred of thousand of Amazon employee , '' he say , `` it also send a message to the fast food industry , the airline industry and the retail industry in general that the time be now to begin pay worker a living wage . '' But in April The Intercept report that one out of three Amazon employee in Arizona depend on the Supplemental Nutrition Assistance Program , or food stamp , while in Ohio and Pennsylvania it 's more like one in 10 . It 's hard to determine exactly how many employee at large retailer like Amazon rely on welfare , since not all state keep track . `` This be a significant step forward for many thousand of Amazon employee . '' `` We have a focus on ensure we provide a great environment for all our employee and last month Amazon be name by LinkedIn a the 7th most seek after place to work in the U.K. and rank first place in the U.S. , '' a spokesperson say .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "`` Not only do this make a difference in the life of hundred of thousand of Amazon employee , '' he say , `` it also send a message to the fast food industry , the airline industry and the retail industry in general that the time be now to begin pay worker a living wage . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But in April The Intercept report that one out of three Amazon employee in Arizona depend on the Supplemental Nutrition Assistance Program , or food stamp , while in Ohio and Pennsylvania it 's more like one in 10 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It 's hard to determine exactly how many employee at large retailer like Amazon rely on welfare , since not all state keep track .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This be a significant step forward for many thousand of Amazon employee . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have a focus on ensure we provide a great environment for all our employee and last month Amazon be name by LinkedIn a the 7th most seek after place to work in the U.K. and rank first place in the U.S. , '' a spokesperson say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/business/2018/08/24/thousands-amazon-workers-receive-food-stamps-now-bernie-sanders-wants-amazon-pay-up/",
+            "content": "For example , if an Amazon employee receive $ 300 in food stamp , Amazon would be tax $ 300 . Public record obtain by the New Food Economy , a nonprofit news organization , show that thousand of Amazon employee rely on the government ’ s Supplemental Nutritional Assistance Program ( SNAP ) to make ends meet . As many a 1 in 3 Amazon employee in Arizona — and about 1 in 10 in Pennsylvania and Ohio — receive food stamp , accord to an April report by the New Food Economy , base in New York . Sen. Bernie Sanders ( I-Vt. ) will soon introduce legislation that would require large employer such a Amazon , Walmart and McDonald ’ s to fully cover the cost of food stamp , public housing , Medicaid and other federal assistance receive by their employee .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "For example , if an Amazon employee receive $ 300 in food stamp , Amazon would be tax $ 300 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Public record obtain by the New Food Economy , a nonprofit news organization , show that thousand of Amazon employee rely on the government ’ s Supplemental Nutritional Assistance Program ( SNAP ) to make ends meet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As many a 1 in 3 Amazon employee in Arizona — and about 1 in 10 in Pennsylvania and Ohio — receive food stamp , accord to an April report by the New Food Economy , base in New York .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Sen. Bernie Sanders ( I-Vt. ) will soon introduce legislation that would require large employer such a Amazon , Walmart and McDonald ’ s to fully cover the cost of food stamp , public housing , Medicaid and other federal assistance receive by their employee .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seattletimes.com/nation-world/thousands-of-amazon-workers-receive-food-stamps-now-sen-bernie-sanders-wants-amazon-to-pay-up/",
+            "content": "For example , if an Amazon employee receive $ 300 in food stamp , Amazon would be tax $ 300 . Public record obtain by the New Food Economy , a nonprofit news organization , show that thousand of Amazon employee rely on the government ’ s Supplemental Nutritional Assistance Program to make ends meet . As many a one in three Amazon employee in Arizona — and about 1 in 10 in Pennsylvania and Ohio — receive food stamp , accord to an April report by the New Food Economy , base in New York . Sen. Bernie Sanders , I-Vt. , will soon introduce legislation that would require large employer like Amazon , Walmart and McDonald ’ s to fully cover the cost of food stamp , public housing , Medicaid and other federal assistance receive by their employee .",
+            "domain": "www.seattletimes.com",
+            "tokenized": [
+                {
+                    "sent": "For example , if an Amazon employee receive $ 300 in food stamp , Amazon would be tax $ 300 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Public record obtain by the New Food Economy , a nonprofit news organization , show that thousand of Amazon employee rely on the government ’ s Supplemental Nutritional Assistance Program to make ends meet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As many a one in three Amazon employee in Arizona — and about 1 in 10 in Pennsylvania and Ohio — receive food stamp , accord to an April report by the New Food Economy , base in New York .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Sen. Bernie Sanders , I-Vt. , will soon introduce legislation that would require large employer like Amazon , Walmart and McDonald ’ s to fully cover the cost of food stamp , public housing , Medicaid and other federal assistance receive by their employee .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.iwf.org/2020/12/22/aoc-peddles-misleading-claim-about-amazon-workers-on-food-stamps/",
+            "content": "This be why “ Amazon job ” aren ’ t it & we should instead focus our public investment + incentive on small business , public infrastructure , & worker cooperatives that actually support dignified life.A “ job ” that leave you homeless & on food stamp isn ’ t a job . According to the GAO report , Amazon be not the only employer with worker who reportedly receive food stamp . She respond to a Bloomberg story that 4,000 Amazon worker be on food stamp accord to a Government Accountability Office ( GAO ) report and blame low wage . A full-time worker earn $ 15 an hour ( the minimum at Amazon ) could qualify if someone in her household be disable or elderly . Second , eligibility be determine on a monthly basis , make it possible that a worker qualify for food stamp one month and then be ineligible the next . Critics use food stamp participation a evidence that worker be underpaid . Blaming low wage for why some worker manage to qualify for food assistance be mislead . First , worker may choose to work part-time , perhaps to balance caregiving responsibility , and that allow them to qualify for food stamp . Food stamp or the Supplemental Nutrition Assistance Program ( SNAP ) be a relatively fluid public welfare program in that individual can qualify for it in different way and from one month to another .",
+            "domain": "www.iwf.org",
+            "tokenized": [
+                {
+                    "sent": "This be why “ Amazon job ” aren ’ t it & we should instead focus our public investment + incentive on small business , public infrastructure , & worker cooperatives that actually support dignified life.A “ job ” that leave you homeless & on food stamp isn ’ t a job .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the GAO report , Amazon be not the only employer with worker who reportedly receive food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She respond to a Bloomberg story that 4,000 Amazon worker be on food stamp accord to a Government Accountability Office ( GAO ) report and blame low wage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A full-time worker earn $ 15 an hour ( the minimum at Amazon ) could qualify if someone in her household be disable or elderly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Second , eligibility be determine on a monthly basis , make it possible that a worker qualify for food stamp one month and then be ineligible the next .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Critics use food stamp participation a evidence that worker be underpaid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Blaming low wage for why some worker manage to qualify for food assistance be mislead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "First , worker may choose to work part-time , perhaps to balance caregiving responsibility , and that allow them to qualify for food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Food stamp or the Supplemental Nutrition Assistance Program ( SNAP ) be a relatively fluid public welfare program in that individual can qualify for it in different way and from one month to another .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thecounter.org/15-minimum-wage-amazon-top-employer-snap-recipients-walmart-mcdonalds/",
+            "content": "Yet the wage boost doesn ’ t appear to have lift it employee out of poverty : In Indiana , for instance , Amazon lag behind only Walmart and McDonald ’ s among employer whose worker rely on the safety net for emergency food assistance . Fact and friction in American food\nA new report from a federal watchdog agency find that Amazon be among the top 25 employer with worker enrol in the Supplemental Nutrition Assistance Program ( SNAP , formerly food stamp ) in six out of nine state study . Amazon employee appear to be heavily reliant on Medicaid , too , despite the company ’ s claim that it offer generous health insurance and tuition assistance program . Yet the finding from the new report indicate the opposite : Despite it commitment to increase wage , many of Amazon ’ s employee ’ paycheck be still be supplement by the federal government . Back in 2018 , The Counter ( formerly The New Food Economy ) report that Amazon be among the top 20 employer of SNAP recipient in four out of five state that respond to public record request .",
+            "domain": "thecounter.org",
+            "tokenized": [
+                {
+                    "sent": "Yet the wage boost doesn ’ t appear to have lift it employee out of poverty : In Indiana , for instance , Amazon lag behind only Walmart and McDonald ’ s among employer whose worker rely on the safety net for emergency food assistance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fact and friction in American food\nA new report from a federal watchdog agency find that Amazon be among the top 25 employer with worker enrol in the Supplemental Nutrition Assistance Program ( SNAP , formerly food stamp ) in six out of nine state study .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon employee appear to be heavily reliant on Medicaid , too , despite the company ’ s claim that it offer generous health insurance and tuition assistance program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yet the finding from the new report indicate the opposite : Despite it commitment to increase wage , many of Amazon ’ s employee ’ paycheck be still be supplement by the federal government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Back in 2018 , The Counter ( formerly The New Food Economy ) report that Amazon be among the top 20 employer of SNAP recipient in four out of five state that respond to public record request .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://patch.com/massachusetts/boston/amazon-expands-ma-footprint-more-workers-turn-food-stamps",
+            "content": "Meanwhile , 1,089 Amazon employee receive food stamp last year , land the company behind Walmart , which habitually top the list , and Dollar General . This be significant when it come to Amazon , where some employee claim supervisor discourage union support through threat and bullying . `` Like most government that try to encourage economic investment by company , the U.S. Congress have write a tax code that incentivizes the type of job creation , capital investment , development of technology , and employee ownership that Amazon do because these be critical driver of a prosperous economy , '' accord to a 2019 news release from the company . `` Many job in service sector like food also have unstable hour or do n't provide enough weekly hour for people to be able to meet their need without assistance , '' Waxman say .",
+            "domain": "patch.com",
+            "tokenized": [
+                {
+                    "sent": "Meanwhile , 1,089 Amazon employee receive food stamp last year , land the company behind Walmart , which habitually top the list , and Dollar General .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This be significant when it come to Amazon , where some employee claim supervisor discourage union support through threat and bullying .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Like most government that try to encourage economic investment by company , the U.S. Congress have write a tax code that incentivizes the type of job creation , capital investment , development of technology , and employee ownership that Amazon do because these be critical driver of a prosperous economy , '' accord to a 2019 news release from the company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Many job in service sector like food also have unstable hour or do n't provide enough weekly hour for people to be able to meet their need without assistance , '' Waxman say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.benefitspro.com/2018/08/28/amazon-employees-at-or-near-top-of-food-stamp-list/",
+            "content": "The behemoth be among the top employer whose employee be on food stamp in at least five state , accord to Business Insider , which cite nonprofit New Food Economy data from Arizona , Kansas , Ohio , Pennsylvania and Washington reporting on the number of company worker who receive SNAP benefits—and in four of those state Amazon worker be in the top 20 . And accord to a separate study by Policy Matters Ohio , about 10 percent of all the employee Amazon have in Ohio be on food stamp . Amazon share this dubious honor—that of the most employee on food stamps—with such other giant a McDonald ’ s and Walmart . ”\nSays the New Food Economy report , “ Though [ Amazon ] now employ 200,000 people in the United States , many of it worker be not make enough money to put food on the table . In Arizona , it appear that one out of every three Amazon employee , or someone they live with , be on food stamps—1,800 people—and in Pennsylvania and Ohio , it ’ s one in 10 . If an employee receive $ 100 in food stamp benefit , for example , the employer would be tax 100 percent of that $ 100 . That way , employee receive food stamp , public housing , Medicaid and other federal assistance would end up be cover for that aid by their employer .",
+            "domain": "www.benefitspro.com",
+            "tokenized": [
+                {
+                    "sent": "The behemoth be among the top employer whose employee be on food stamp in at least five state , accord to Business Insider , which cite nonprofit New Food Economy data from Arizona , Kansas , Ohio , Pennsylvania and Washington reporting on the number of company worker who receive SNAP benefits—and in four of those state Amazon worker be in the top 20 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And accord to a separate study by Policy Matters Ohio , about 10 percent of all the employee Amazon have in Ohio be on food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon share this dubious honor—that of the most employee on food stamps—with such other giant a McDonald ’ s and Walmart .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nSays the New Food Economy report , “ Though [ Amazon ] now employ 200,000 people in the United States , many of it worker be not make enough money to put food on the table .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Arizona , it appear that one out of every three Amazon employee , or someone they live with , be on food stamps—1,800 people—and in Pennsylvania and Ohio , it ’ s one in 10 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If an employee receive $ 100 in food stamp benefit , for example , the employer would be tax 100 percent of that $ 100 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That way , employee receive food stamp , public housing , Medicaid and other federal assistance would end up be cover for that aid by their employer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxbusiness.com/technology/4k-bezos-amazon-warehouse-employees-on-food-stamps-in-9-states",
+            "content": "`` Many of our employee join Amazon from other job in retail which tend to be predominantly part-time , reduced-benefit job with substantially less than our $ 15 minimum wage . More than 4,000 warehouse worker at Amazon , the e-commerce giant found by the world 's rich man , depend on food stamp to make end meet in nine state , accord to new U.S. Government Accountability Office data this week . But while food insecurity and an economic crisis cripple American worker , billionaire like Bezos , also Amazon 's CEO , be only get richer .",
+            "domain": "www.foxbusiness.com",
+            "tokenized": [
+                {
+                    "sent": "`` Many of our employee join Amazon from other job in retail which tend to be predominantly part-time , reduced-benefit job with substantially less than our $ 15 minimum wage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 4,000 warehouse worker at Amazon , the e-commerce giant found by the world 's rich man , depend on food stamp to make end meet in nine state , accord to new U.S. Government Accountability Office data this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But while food insecurity and an economic crisis cripple American worker , billionaire like Bezos , also Amazon 's CEO , be only get richer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.motherjones.com/food/2020/11/which-companies-have-the-highest-number-of-workers-on-medicaid-and-food-stamps/",
+            "content": "Congress ’ nonpartisan watchdog , the Government Accountability Office , release a report on Wednesday show that most adult who receive Medicaid and SNAP ( formerly know a food stamp ) work full-time job but make very little money . This have only be possible because their employee stay on the front line , increase their risk of contract the virus , while often not make enough money to afford food and health insurance .",
+            "domain": "www.motherjones.com",
+            "tokenized": [
+                {
+                    "sent": "Congress ’ nonpartisan watchdog , the Government Accountability Office , release a report on Wednesday show that most adult who receive Medicaid and SNAP ( formerly know a food stamp ) work full-time job but make very little money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This have only be possible because their employee stay on the front line , increase their risk of contract the virus , while often not make enough money to afford food and health insurance .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/amazon-employees-on-food-stamps-2018-8",
+            "content": "In Pennsylvania , one in 10 Amazon employee be on food stamp , or more than 1,000 people . A number of Amazon employee in at least five state be on food stamp — or SNAP , the Supplemental Nutrition Assistance Program — in 2017 . The New Food Economy report that , in 2017 , nearly one in three Amazon employee in Arizona be on food stamp , or live with someone who be — meaning 1,800 people . For example , if an employee draw $ 100 from food stamp , that money would be tax from that individual 's employer . That mean that about 10 % of all Amazon 's employee in the state be in the program .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "In Pennsylvania , one in 10 Amazon employee be on food stamp , or more than 1,000 people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A number of Amazon employee in at least five state be on food stamp — or SNAP , the Supplemental Nutrition Assistance Program — in 2017 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The New Food Economy report that , in 2017 , nearly one in three Amazon employee in Arizona be on food stamp , or live with someone who be — meaning 1,800 people .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For example , if an employee draw $ 100 from food stamp , that money would be tax from that individual 's employer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That mean that about 10 % of all Amazon 's employee in the state be in the program .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/jeff-bezos-amazon-employees-food-stamps-782714",
+            "content": "`` The state and local tax incentive Amazon receives do n't include the ten of thousand of dollar it Ohio worker need each month in food benefit , '' Zach Schiller , a research director at Policy Matters Ohio , say in a release on January 5 . `` The sudden emergence of Amazon a an employer of so many who need that assistance raise a question : Why be this giant , successful company offering such limited pay and hour of work that many of it worker need help buying food ? '' But a new report from the non-profit Policy Matters Ohio show that Bezos-owned company have 1,430 Ohio-based employee or family member on food stamp a of August last year .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "`` The state and local tax incentive Amazon receives do n't include the ten of thousand of dollar it Ohio worker need each month in food benefit , '' Zach Schiller , a research director at Policy Matters Ohio , say in a release on January 5 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The sudden emergence of Amazon a an employer of so many who need that assistance raise a question : Why be this giant , successful company offering such limited pay and hour of work that many of it worker need help buying food ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But a new report from the non-profit Policy Matters Ohio show that Bezos-owned company have 1,430 Ohio-based employee or family member on food stamp a of August last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dispatch.com/news/20180105/amazon-makes-list-of-large-companies-with-workers-receiving-food-stamps",
+            "content": "A typical food-stamp beneficiary receives benefit for about two people , mean Amazon likely have about 700 worker receive food stamp , more than 10 percent of it Ohio workforce . A typical food-stamp beneficiary receives benefit for about two people , mean Amazon likely have about 700 worker receive food stamp , more than 10 percent of it Ohio workforce . `` But I think it 's reasonable that if you 're a family on ( food stamp ) , those folk would want to work more , '' he say . `` But I think it 's reasonable that if you 're a family on ( food stamp ) , those folk would want to work more , '' he say . Walmart , the state 's top private employer with 50,000 worker , also have the most employee and their family get food stamp . Walmart , the state 's top private employer with 50,000 worker , also have the most employee and their family get food stamp . Employees receive maternity and parental leave benefit and have access to a program that prepay up to 95 percent of tuition for course relate to in-demand field , regardless of whether the skill be relevant to a career at Amazon . Employees receive maternity and parental leave benefit and have access to a program that prepay up to 95 percent of tuition for course relate to in-demand field , regardless of whether the skill be relevant to a career at Amazon . Now , the online giant have quickly make it way onto another list , one chart the state's employer with the most worker and their family member who also qualify for food stamp . Now , the online giant have quickly make it way onto another list , one chart the state's employer with the most worker and their family member who also qualify for food stamp . Workers get food stamp in essence become an additional taxpayer subsidy for the company that pay low wage , say Zach Schiller , Policy Matters ' research director . Workers get food stamp in essence become an additional taxpayer subsidy for the company that pay low wage , say Zach Schiller , Policy Matters ' research director .",
+            "domain": "www.dispatch.com",
+            "tokenized": [
+                {
+                    "sent": "A typical food-stamp beneficiary receives benefit for about two people , mean Amazon likely have about 700 worker receive food stamp , more than 10 percent of it Ohio workforce .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A typical food-stamp beneficiary receives benefit for about two people , mean Amazon likely have about 700 worker receive food stamp , more than 10 percent of it Ohio workforce .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` But I think it 's reasonable that if you 're a family on ( food stamp ) , those folk would want to work more , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` But I think it 's reasonable that if you 're a family on ( food stamp ) , those folk would want to work more , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walmart , the state 's top private employer with 50,000 worker , also have the most employee and their family get food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walmart , the state 's top private employer with 50,000 worker , also have the most employee and their family get food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Employees receive maternity and parental leave benefit and have access to a program that prepay up to 95 percent of tuition for course relate to in-demand field , regardless of whether the skill be relevant to a career at Amazon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Employees receive maternity and parental leave benefit and have access to a program that prepay up to 95 percent of tuition for course relate to in-demand field , regardless of whether the skill be relevant to a career at Amazon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , the online giant have quickly make it way onto another list , one chart the state's employer with the most worker and their family member who also qualify for food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , the online giant have quickly make it way onto another list , one chart the state's employer with the most worker and their family member who also qualify for food stamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Workers get food stamp in essence become an additional taxpayer subsidy for the company that pay low wage , say Zach Schiller , Policy Matters ' research director .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Workers get food stamp in essence become an additional taxpayer subsidy for the company that pay low wage , say Zach Schiller , Policy Matters ' research director .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://theintercept.com/2018/04/19/amazon-snap-subsidies-warehousing-wages/",
+            "content": "Later this year , Amazon will begin accept grocery order from customer use the Supplemental Nutrition Assistance Program , the federal anti-poverty program formerly know a food stamp . Amazon ’ s rapid growth have obscure the reality of it impact on the community that pay for the privilege of host it warehouse : Though the company now employ 200,000 people in the United States , many of it worker be not make enough money to put food on the table . ” )\nAmazon ’ s fulfillment center wage be , generally speak , low than the average wage for warehouse employee elsewhere . The number show that the company rely disproportionately on the program even account for it size : Amazon be the 28th large employer in Arizona last year , but it rank fifth for the number of employee enrol in SNAP . Some of the SNAP user work for Amazon be likely part-time employee , which would explain their low earnings . The American people be finance Amazon ’ s pursuit of an e-commerce monopoly every step of the way : first , with tax break , subsidy , and infrastructure improvement mean to lure fulfillment center into town , and later with federal transfer to pay for warehouse worker ’ food . Amazon have argue that it total compensation package be competitive with the high hourly rate of other company ’ warehouse job because of the benefit it offer to full-time employee . We can ’ t tell how many ( if any ) of those worker clock in at Amazon fulfillment center , but Integrity ’ s presence on the list be a reminder that temp employee remain invisible even a the broad picture of Amazon ’ s reliance on the SNAP program come into focus . In Kansas , where Amazon isn ’ t even among the top 50 large employer , it still rank 17th for the number of employee use SNAP at the beginning of this year . In five out of these six state , Amazon crack the top 20 list of company with the most employee enrol in the SNAP program . The new data show Amazon employee ’ extensive reliance on SNAP demonstrate an additional public cost of the corporation ’ s rapid expansion .",
+            "domain": "theintercept.com",
+            "tokenized": [
+                {
+                    "sent": "Later this year , Amazon will begin accept grocery order from customer use the Supplemental Nutrition Assistance Program , the federal anti-poverty program formerly know a food stamp .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon ’ s rapid growth have obscure the reality of it impact on the community that pay for the privilege of host it warehouse : Though the company now employ 200,000 people in the United States , many of it worker be not make enough money to put food on the table .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” )\nAmazon ’ s fulfillment center wage be , generally speak , low than the average wage for warehouse employee elsewhere .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The number show that the company rely disproportionately on the program even account for it size : Amazon be the 28th large employer in Arizona last year , but it rank fifth for the number of employee enrol in SNAP .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the SNAP user work for Amazon be likely part-time employee , which would explain their low earnings .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The American people be finance Amazon ’ s pursuit of an e-commerce monopoly every step of the way : first , with tax break , subsidy , and infrastructure improvement mean to lure fulfillment center into town , and later with federal transfer to pay for warehouse worker ’ food .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon have argue that it total compensation package be competitive with the high hourly rate of other company ’ warehouse job because of the benefit it offer to full-time employee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "We can ’ t tell how many ( if any ) of those worker clock in at Amazon fulfillment center , but Integrity ’ s presence on the list be a reminder that temp employee remain invisible even a the broad picture of Amazon ’ s reliance on the SNAP program come into focus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Kansas , where Amazon isn ’ t even among the top 50 large employer , it still rank 17th for the number of employee use SNAP at the beginning of this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In five out of these six state , Amazon crack the top 20 list of company with the most employee enrol in the SNAP program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new data show Amazon employee ’ extensive reliance on SNAP demonstrate an additional public cost of the corporation ’ s rapid expansion .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedailybeast.com/amazon-is-worth-dollar1-trillion-its-workers-are-on-food-stamps",
+            "content": "Sometimes paycheck-to-paycheck isn ’ t enough for Amazon employee . The next day , The Wall Street Journal report that employee at Whole Foods , a grocery chain recently acquire by Amazon , be seek to unionize . Sanders cite Amazon employee who report wage as low a $ 11 an hour , which be less than the $ 15 an hour typically consider a living wage . Amazon push back , claim ( a they have before ) that most of their SNAP-receiving employee only work part time . Workers at Amazon fulfillment center elsewhere have complain of dangerously hot facility and impossible deadline that leave employee pee into garbage can and water bottle to avoid take bathroom break . Sanders , who draft the bill after poll Amazon employee on their pay and work condition , say the legislation could save the U.S. $ 150 billion annually . Two year after Amazon open fulfilment center in Ohio in 2015 , approximately one in ten of it Ohio employee appear to be receive public assistance through the Supplemental Nutrition Assistance Program benefit program , The Daily Beast previously report .",
+            "domain": "www.thedailybeast.com",
+            "tokenized": [
+                {
+                    "sent": "Sometimes paycheck-to-paycheck isn ’ t enough for Amazon employee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The next day , The Wall Street Journal report that employee at Whole Foods , a grocery chain recently acquire by Amazon , be seek to unionize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sanders cite Amazon employee who report wage as low a $ 11 an hour , which be less than the $ 15 an hour typically consider a living wage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon push back , claim ( a they have before ) that most of their SNAP-receiving employee only work part time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Workers at Amazon fulfillment center elsewhere have complain of dangerously hot facility and impossible deadline that leave employee pee into garbage can and water bottle to avoid take bathroom break .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sanders , who draft the bill after poll Amazon employee on their pay and work condition , say the legislation could save the U.S. $ 150 billion annually .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two year after Amazon open fulfilment center in Ohio in 2015 , approximately one in ten of it Ohio employee appear to be receive public assistance through the Supplemental Nutrition Assistance Program benefit program , The Daily Beast previously report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.policymattersohio.org/press-room/2018/01/05/more-ohio-amazon-workers-relying-on-food-aid",
+            "content": "“ The state and local tax incentive Amazon receive doesn ’ t include the ten of thousand of dollar it Ohio worker need each month in food benefit , ” Schiller say . ”\nThe large number of worker at Amazon and other big entity like Wal-Mart , Kroger , Home Depot , the Cleveland Clinic and Target that receive SNAP aid illustrate that most people get food assistance be work . The sudden emergence of Amazon a an employer of so many who need that assistance raise a question : Why be this giant , successful company offering such limited pay and hour of work that many of it worker need help buying food ?",
+            "domain": "www.policymattersohio.org",
+            "tokenized": [
+                {
+                    "sent": "“ The state and local tax incentive Amazon receive doesn ’ t include the ten of thousand of dollar it Ohio worker need each month in food benefit , ” Schiller say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe large number of worker at Amazon and other big entity like Wal-Mart , Kroger , Home Depot , the Cleveland Clinic and Target that receive SNAP aid illustrate that most people get food assistance be work .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The sudden emergence of Amazon a an employer of so many who need that assistance raise a question : Why be this giant , successful company offering such limited pay and hour of work that many of it worker need help buying food ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seattletimes.com/business/walmart-and-mcdonalds-have-the-most-workers-on-food-stamps-and-medicaid-new-study-shows/",
+            "content": "So many family earn too little to get by on what they earn from their job .",
+            "domain": "www.seattletimes.com",
+            "tokenized": [
+                {
+                    "sent": "So many family earn too little to get by on what they earn from their job .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-amazon-com-ocasiocortez/amazon-invites-ocasio-cortez-for-tour-calls-worker-claims-untrue-idUSKCN1Q42TF",
+            "content": "Ocasio-Cortez , a newly elect progressive Democrat who be an outspoken critic of the plan to locate Amazon ’ s second headquarters in a New York City neighborhood near her congressional district , ask on Twitter if Amazon ’ s culture of “ strict performance ” be “ why Amazon worker have to urinate in bottle & work while on food stamp to meet ‘ target ?",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Ocasio-Cortez , a newly elect progressive Democrat who be an outspoken critic of the plan to locate Amazon ’ s second headquarters in a New York City neighborhood near her congressional district , ask on Twitter if Amazon ’ s culture of “ strict performance ” be “ why Amazon worker have to urinate in bottle & work while on food stamp to meet ‘ target ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.amazon.com/58f8026f-0658-47d0-9752-f6fa2c69b2e2/qualify",
+            "content": "As an Amazon Prime member , you receive Free Two-Day Delivery on over 100 million item , exclusive shopping deal , and discount on diaper and baby food .",
+            "domain": "www.amazon.com",
+            "tokenized": [
+                {
+                    "sent": "As an Amazon Prime member , you receive Free Two-Day Delivery on over 100 million item , exclusive shopping deal , and discount on diaper and baby food .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

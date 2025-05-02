@@ -1,0 +1,928 @@
+{
+    "event_id": "193182",
+    "claim": "Washington state Sen. Maureen Walsh said nurses \"play cards for a considerable amount of the day.\" ",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In April 2019, Washington state Sen. Maureen Walsh attracted local and national attention — and criticism — for remarks she made during a debate about legislation intended to improve nurses’ working conditions.On 19 April, the website Nurse.org posted a widely shared article whose headline read: “Senator Remarks Go Viral: Nurses ‘Play Cards for a Considerable Amount of the Day.'” The article went on:Walsh did say, of nurses in certain hospitals, that they “probably play cards for a considerable amount of the day,” and she has since said she regrets having done so. However, she made her remarks in a very specific context, and was not referring to all nurses everywhere, despite the impression given in much subsequent commentary and reporting. The Walla Walla senator was speaking during a Washington Senate floor debate on 16 April, on the subject of SHB 1155, a piece of legislation that would require health-care providers to give clinical employees uninterrupted meal and rest breaks during their shifts, except in emergencies.More specifically, Walsh was speaking in support of Amendment 724, which was put forward by her Republican colleague State Sen. Curtis King. That amendment would exempt a certain category of hospitals (Critical Access Hospitals) from the requirements of the bill.Critical Access Hospitals (CAHs) are smaller, typically rural hospitals with fewer than 25 in-patient beds that are legally designated as CAHs by the federal Centers for Medicare and Medicaid Services. Because they typically serve relatively isolated rural communities, they receive certain financial support and benefits from the federal government in order to ensure their ongoing sustainability. Walsh supported the proposed exemption of CAHs from the meal and rest-break requirements in SHB 1155, arguing that staff there were not typically as busy as their counterparts in other hospitals, and therefore did not require such mandatory regular breaks. In the interest of completeness, here are Walsh’s remarks in full, which can also be watched here (beginning at around 9:10):In a statement sent to Snopes, the Washington State Nurses Association rejected one of the premises of Walsh’s call for CAHs to be exempted from the proposed new requirements, arguing that, far from being in grave financial danger, “the majority of these small, rural hospitals are financially healthy and well equipped to implement SHB 1155’s patient safety standards,” adding that: “Over the last four years of reports, the total net income (surplus) for Washington’s 40 critical access hospitals is $208,657,776, with an average surplus of $5,216,444 per hospital.When one views Walsh’s remarks in their full and proper context, it’s clear that her “playing cards” comment related specifically to nurses in CAHs (“those nurses”). She was not claiming that all nurses everywhere spend much of their working days playing cards.This is in contrast to the impression created by much of the subsequent coverage of her remarks. For example, Nurse.org summarized her remarks as “Nurses ‘play cards for a considerable amount of the day,'” without reflecting that Walsh was actually describing only a relatively small subcategory of nurses.On 19 April, Juliana Bindas started an online petition on Change.org that called for Walsh to follow a nurse around during a 12-hour shift. The text that accompanied the petition (which had more than 500,000 signatures as of 22 April) also provided a misleading characterization of the senator’s comments, claiming “Senator Maureen Walsh stated that we as nurses mostly spend our 12 hour shifts playing cards.”Similarly, many online memes and social media responses markedly failed to recognize that Walsh’s remarks had referred to a specific cohort of nurses, and not all nurses in every context. Headlines published by major national news outlets including CNN and The Hill also failed to reflect the specific context of Walsh’s comments, instead giving the misleading impression she had been talking about all nurses.On 20 April, Walsh told the  newspaper she regretted her comments, saying “I was tired. I said something I wish I hadn’t.” In a statement provided to the local KEPR television station, the state senator elaborated further and clarified that her remarks were indeed specifically in reference to nurses at CAHs:“My Mother was [a registered nurse] for many years and I have the greatest respect for nurses. The comment made about the ability to play cards was referring to the staff at the very rural and small critical access hospitals who may only serve a handful of patients and [where] the staffing mandates are unnecessary.”On 16 April, the Washington State Senate passed Amendment 724, along with the revised version of SHB 1155, which subsequently included an exemption for CAHs. In the House, a different version of the bill had already been passed, meaning the legislation was scheduled for reconciliation between the two chambers, as of 22 April.",
+    "reports": [
+        {
+            "link": "https://www.florence-health.com/latest-news/registered-nurse/5-responses-to-sen-maureen-walshs-comment-about-nurses-playing-cards-thatll-make-you-say-mic-drop/",
+            "content": "By now , you ’ ve likely heard that Sen. Maureen Walsh , a state representative from Washington , outrageously state that nurse in small hospital “ probably play card for a considerable amount of the day . Its description , write by nurse Juliana Bindas , speak for itself : “ Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card . On Instagram , many nurse show Sen. Walsh what come to mind when they think of “ play card ” by post picture of their many accreditation and certification . Wrote on Twitter user , @ ShelleyLBI , “ Senator Maureen Walsh – Us nurse don ’ t play game . WA Sen. Maureen Walsh should be ashamed to use # nurse to score cheap political point like this . “ This be how NURSES PLAY CARDS , ” write one user , @ nurse_drey . ”\nAfter Walsh reveal that she clearly doesn ’ t have any sense of how hard nurse work or what fill their day , plenty of RNs , NPs and others be quick to clue her in . A petition to make Sen. Walsh shadow a nurse for a 12-hour shift\nThe Change.org petition , which start circulate over the weekend , already have more than half a million signature from healthcare professional and patient alike . ”\nAdded another , @ NNUBonnie , “ Trust me , nurse haven ’ t earn the title ‘ most trusted profession ’ for seventeen year run by ‘ play card ’ on our shift .",
+            "domain": "www.florence-health.com",
+            "tokenized": [
+                {
+                    "sent": "By now , you ’ ve likely heard that Sen. Maureen Walsh , a state representative from Washington , outrageously state that nurse in small hospital “ probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Its description , write by nurse Juliana Bindas , speak for itself : “ Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Instagram , many nurse show Sen. Walsh what come to mind when they think of “ play card ” by post picture of their many accreditation and certification .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wrote on Twitter user , @ ShelleyLBI , “ Senator Maureen Walsh – Us nurse don ’ t play game .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WA Sen. Maureen Walsh should be ashamed to use # nurse to score cheap political point like this .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This be how NURSES PLAY CARDS , ” write one user , @ nurse_drey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAfter Walsh reveal that she clearly doesn ’ t have any sense of how hard nurse work or what fill their day , plenty of RNs , NPs and others be quick to clue her in .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A petition to make Sen. Walsh shadow a nurse for a 12-hour shift\nThe Change.org petition , which start circulate over the weekend , already have more than half a million signature from healthcare professional and patient alike .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAdded another , @ NNUBonnie , “ Trust me , nurse haven ’ t earn the title ‘ most trusted profession ’ for seventeen year run by ‘ play card ’ on our shift .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insider.com/maureen-walsh-said-nurses-play-cards-all-day-2019-4",
+            "content": "During the debate , Sen. Maureen Walsh , a Republican from Washington , say that nurse work at hospital in rural region `` probably play card for a considerable amount of the day . '' `` Senator Maureen Walsh state that we a nurse mostly spend our 12-hour shift play card , '' write Juliana Bindas the petition organizer . `` I understand from news account that a petition be be circulate urge me to spend a day shadow a nurse at a local hospital for 12 hour , and walk a mile in her shoe , '' she say . Read more : 9 labor and delivery nurse at a Maine hospital be pregnant at the same time\nAccording to the Washington Post , Walsh say that she make those comment because she worry the stipulation outline in the bill would place strain on hospital .",
+            "domain": "www.insider.com",
+            "tokenized": [
+                {
+                    "sent": "During the debate , Sen. Maureen Walsh , a Republican from Washington , say that nurse work at hospital in rural region `` probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12-hour shift play card , '' write Juliana Bindas the petition organizer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I understand from news account that a petition be be circulate urge me to spend a day shadow a nurse at a local hospital for 12 hour , and walk a mile in her shoe , '' she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Read more : 9 labor and delivery nurse at a Maine hospital be pregnant at the same time\nAccording to the Washington Post , Walsh say that she make those comment because she worry the stipulation outline in the bill would place strain on hospital .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/news/us-news/lawmaker-receives-thousands-playing-cards-after-saying-nurses-play-cards-n998536",
+            "content": "A Washington state senator who last week say that some nurse “ probably play card for a considerable amount of the day ” be make the most of the hand she deal herself — which amount to about 1,700 deck of play card . State Sen. Maureen Walsh , a Republican represent College Place , say that she have receive thousand of card , call and comment since last Friday when a video of her remark be circulate online . ”\nShe say the deck of card have be deliver to her office at the Capitol in Olympia from nurse across the country , follow her comment on the Senate floor last week . “ I understand from news account that a petition be be circulate urge me to spend a day shadow a nurse at a local hospital for 12 hour , and walk a mile in her shoe , '' she say in a statement post on her website . `` By put these type of mandate on a critical access hospital that literally serve a handful of individual , I would submit to you those nurse probably do get break , '' Walsh say . `` They probably play card for a considerable amount of the day . '' ”\nA nurse in Chicago start a petition on Change.org over the weekend ask that Walsh spend a day shadow a nurse for a 12-hour shift so she could gain a deep understanding of the demand on those in the field .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state senator who last week say that some nurse “ probably play card for a considerable amount of the day ” be make the most of the hand she deal herself — which amount to about 1,700 deck of play card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State Sen. Maureen Walsh , a Republican represent College Place , say that she have receive thousand of card , call and comment since last Friday when a video of her remark be circulate online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nShe say the deck of card have be deliver to her office at the Capitol in Olympia from nurse across the country , follow her comment on the Senate floor last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I understand from news account that a petition be be circulate urge me to spend a day shadow a nurse at a local hospital for 12 hour , and walk a mile in her shoe , '' she say in a statement post on her website .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` By put these type of mandate on a critical access hospital that literally serve a handful of individual , I would submit to you those nurse probably do get break , '' Walsh say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` They probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA nurse in Chicago start a petition on Change.org over the weekend ask that Walsh spend a day shadow a nurse for a 12-hour shift so she could gain a deep understanding of the demand on those in the field .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/state-senator-receives-about-1700-decks-of-cards-after-saying-nurses-play-cards-at-work/",
+            "content": "The lawmaker from Washington state say last week that nurse should be exempt from uninterrupted meal break and mandatory overtime protection because they `` probably play card for a considerable amount of the day . '' Walsh have apologize for say nurse spend their day play card — but the deck just keep on coming . Inside several postal bin be box of play card , send from nurse across the country , the state senator 's office say in a statement . `` Walsh plan to distribute the card to nurse home and veteran ' and senior center , '' the statement read . In addition to the playing card , Walsh 's office receive 10,000 email and more than 35,000 phone call , the statement say . State Senator Maureen Walsh be feel the wrath of the nurse she offend . Well over half-million people sign a Change.org petition urge Walsh to follow a nurse during a 12-hour shift — she say she would accept the challenge , her office say .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "The lawmaker from Washington state say last week that nurse should be exempt from uninterrupted meal break and mandatory overtime protection because they `` probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Walsh have apologize for say nurse spend their day play card — but the deck just keep on coming .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Inside several postal bin be box of play card , send from nurse across the country , the state senator 's office say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Walsh plan to distribute the card to nurse home and veteran ' and senior center , '' the statement read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to the playing card , Walsh 's office receive 10,000 email and more than 35,000 phone call , the statement say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "State Senator Maureen Walsh be feel the wrath of the nurse she offend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well over half-million people sign a Change.org petition urge Walsh to follow a nurse during a 12-hour shift — she say she would accept the challenge , her office say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/washington-state-senator-maureen-walsh-nurses-playing-cards-united-parcel-1405366",
+            "content": "Along with 1000 of emails/phone call , Washington State Sen. Maureen Walsh , R-Walla Walla , who say nurse “ probably play card ” much of the day have receive 100 of deck of play card . The United Parcel Service store in Tumwater have be send more than 660 packet of card address to Senator Maureen Walsh ( R ) , who say during a debate last Tuesday that some rural nurse `` probably play card for a considerable amount of the day , '' KOMO report . They probably play card for a considerable amount of the day , '' the senator say , spark significant backlash . `` I really do n't believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back . Referencing the petition , Walsh say she would be `` happy to accept '' the offer to shadow a nurse .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "Along with 1000 of emails/phone call , Washington State Sen. Maureen Walsh , R-Walla Walla , who say nurse “ probably play card ” much of the day have receive 100 of deck of play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United Parcel Service store in Tumwater have be send more than 660 packet of card address to Senator Maureen Walsh ( R ) , who say during a debate last Tuesday that some rural nurse `` probably play card for a considerable amount of the day , '' KOMO report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day , '' the senator say , spark significant backlash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I really do n't believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Referencing the petition , Walsh say she would be `` happy to accept '' the offer to shadow a nurse .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://cdn.wsna.org/post/index-2.html?p=news/2019/senator-states-that-nurses-probably-play-cards-for-a-considerable-amount-of-the-day-in-amending-rest-breaks-bill",
+            "content": "If you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can sign our petition at\nWashington state nurse , email your legislator about this issue at\nIn perhaps one of the most demeaning statement on the nursing profession since Joy Behar ’ s 2015 “ doctor ’ s stethoscope ” comment on The View , Washington State Senator Maureen Walsh proclaim on the Senate floor that Critical Access Hospital nurse should be exempt from protection in mandatory overtime because they sit around and play card most of the day :\nStudy after study show that unplanned overtime assignment have a high potential to be unsafe . If you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can email your legislator about this issue here :\nWSNA provide representation , education and resource that allow nurse to reach their full professional potential and focus on care for patient .",
+            "domain": "cdn.wsna.org",
+            "tokenized": [
+                {
+                    "sent": "If you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can sign our petition at\nWashington state nurse , email your legislator about this issue at\nIn perhaps one of the most demeaning statement on the nursing profession since Joy Behar ’ s 2015 “ doctor ’ s stethoscope ” comment on The View , Washington State Senator Maureen Walsh proclaim on the Senate floor that Critical Access Hospital nurse should be exempt from protection in mandatory overtime because they sit around and play card most of the day :\nStudy after study show that unplanned overtime assignment have a high potential to be unsafe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can email your legislator about this issue here :\nWSNA provide representation , education and resource that allow nurse to reach their full professional potential and focus on care for patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bartonassociates.com/blog/an-open-letter-about-nurses-playing-cards",
+            "content": "This past week , a Washington state Senator , Maureen Walsh , decide to comment on nurse who “ play card almost all of the time. So , to briefly recount this idiocy , Washington state senator Maureen Walsh speak at the Washington state Senate floor debate on April 16th on Senate House Bill 1155 , a piece of legislation require health care provider to give clinical employee uninterrupted meal & rest break during their shift , except in emergency situation . Senator Walsh , it ’ s about time that you not only admit what you say be incorrect , not only vow to “ follow a nurse , ” but to use your government power to make nurse ’ live BETTER .",
+            "domain": "www.bartonassociates.com",
+            "tokenized": [
+                {
+                    "sent": "This past week , a Washington state Senator , Maureen Walsh , decide to comment on nurse who “ play card almost all of the time.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So , to briefly recount this idiocy , Washington state senator Maureen Walsh speak at the Washington state Senate floor debate on April 16th on Senate House Bill 1155 , a piece of legislation require health care provider to give clinical employee uninterrupted meal & rest break during their shift , except in emergency situation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Senator Walsh , it ’ s about time that you not only admit what you say be incorrect , not only vow to “ follow a nurse , ” but to use your government power to make nurse ’ live BETTER .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.tri-cityherald.com/news/local/article229483694.html",
+            "content": "But Washington senator still oppose bill\nState Sen. Maureen Walsh , R-College Place , have draw the wrath of state nurse after she say on the floor of the Senate that some nurse may spend a considerable part of their day playing card . Latest update : Walsh apologize for say nurse play card on the job .",
+            "domain": "www.tri-cityherald.com",
+            "tokenized": [
+                {
+                    "sent": "But Washington senator still oppose bill\nState Sen. Maureen Walsh , R-College Place , have draw the wrath of state nurse after she say on the floor of the Senate that some nurse may spend a considerable part of their day playing card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Latest update : Walsh apologize for say nurse play card on the job .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.spokesman.com/stories/2019/apr/19/do-nurses-spend-time-playing-cards-washington-sena/",
+            "content": "State Sen. Maureen Walsh , R-College Place , have draw the wrath of state nurse after she say on the floor of the Senate that some nurse may spend a considerable part of their day playing card .",
+            "domain": "www.spokesman.com",
+            "tokenized": [
+                {
+                    "sent": "State Sen. Maureen Walsh , R-College Place , have draw the wrath of state nurse after she say on the floor of the Senate that some nurse may spend a considerable part of their day playing card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/maureen-walsh-nurses-state-senator-slammed-for-saying-nurses-play-cards-all-day/",
+            "content": "A Washington state senator be be criticize after say nurse should be exempt from uninterrupted meal break and mandatory overtime protection because they `` probably play card for a considerable amount of the day . '' Senator Maureen Walsh - Us nurse do n't play game . Walsh say nurse at small hospital `` probably do get break . They probably play card for a considerable amount of the day . '' Nurses around the country tweet about Walsh 's comment , with some include picture of a typical day for a nurse and the hashtag # nursesdontplaycards . # nursesdontplaycards\nTo Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you 've show u .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state senator be be criticize after say nurse should be exempt from uninterrupted meal break and mandatory overtime protection because they `` probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Senator Maureen Walsh - Us nurse do n't play game .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walsh say nurse at small hospital `` probably do get break .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nurses around the country tweet about Walsh 's comment , with some include picture of a typical day for a nurse and the hashtag # nursesdontplaycards .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "# nursesdontplaycards\nTo Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you 've show u .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nurse.org/articles/senator-maureen-walsh-nurses-play-cards/",
+            "content": "Yes , you read that correctly , Senator Maureen Walsh of Washington State ( R-Wala Wala ) seem to believe that nurse actually have time to sit around and play card at work . ”\nThe Washington State Nurse ’ s Association say on their website that , “ there be zero logic behind the amendment ” a it will cover the rest break for some nurse but not , all nurse . They probably play card for a considerable amount of the day ! '' She go on to state her opinion on what nurse do during their break time ,\n`` I understand make sure that we have rest break and thing like that . A petition have be create to have Maureen Walsh shadow a nurse for 12 hour .",
+            "domain": "nurse.org",
+            "tokenized": [
+                {
+                    "sent": "Yes , you read that correctly , Senator Maureen Walsh of Washington State ( R-Wala Wala ) seem to believe that nurse actually have time to sit around and play card at work .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe Washington State Nurse ’ s Association say on their website that , “ there be zero logic behind the amendment ” a it will cover the rest break for some nurse but not , all nurse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day ! ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She go on to state her opinion on what nurse do during their break time ,\n`` I understand make sure that we have rest break and thing like that .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A petition have be create to have Maureen Walsh shadow a nurse for 12 hour .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/04/23/us/nurses-maureen-walsh.html",
+            "content": "A state senator in Washington who last week suggest that nurse “ probably play card for a considerable amount of the day ” have now say she would shadow a nurse for 12 hour . “ Nurses don ’ t really have time to even take a bathroom break , let alone play a deck of card , ” Ms. Bindas say on Tuesday . ”\n“ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back , ” she say in a statement . The state senator , Maureen Walsh , a Republican , make the remark on the Senate floor on April 16 while denounce a bill that would allow nurse to get mandatory , uninterrupted meal and rest break . ”\nThe executive director of the Washington State Nurses Association , Sally Watkins , say she do not think that a hospital ’ s size , location or number of bed ought to make a difference . A nurse in Chicago , Juliana Bindas , 27 , start a petition on Change.org ask Ms. Walsh to spend a day shadow a nurse so she could gain a deep understanding of what a nurse ’ s basic shift be like .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "A state senator in Washington who last week suggest that nurse “ probably play card for a considerable amount of the day ” have now say she would shadow a nurse for 12 hour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Nurses don ’ t really have time to even take a bathroom break , let alone play a deck of card , ” Ms. Bindas say on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back , ” she say in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The state senator , Maureen Walsh , a Republican , make the remark on the Senate floor on April 16 while denounce a bill that would allow nurse to get mandatory , uninterrupted meal and rest break .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe executive director of the Washington State Nurses Association , Sally Watkins , say she do not think that a hospital ’ s size , location or number of bed ought to make a difference .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A nurse in Chicago , Juliana Bindas , 27 , start a petition on Change.org ask Ms. Walsh to spend a day shadow a nurse so she could gain a deep understanding of what a nurse ’ s basic shift be like .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://minoritynurse.com/reactions-to-senator-maureen-walshs-remarks/",
+            "content": "”\n“ Senator Maureen Walsh ’ s comment that nurse ‘ probably play card for a considerable amount of the day ’ be insult to say the least . During a recent Washington State Senate floor debate , Senator Maureen Walsh say , “ By put these type of mandate on a critical access hospital that literally serve a handful of individual , I would submit to you those nurse probably do get break . That Senator Walsh believe we spend our time playing card show how little she be aware of what nurse actually do . I find it to be very insulting that Senator Walsh would suggest that all we do be play card all day . It be clear that Senator Walsh do not understand the vast role nurse play , none of which include deal card . ”\n—Tiffany Montgomery , PhD , RNC-OB , C-EFM , a labor and delivery nurse at Einstein Medical Center and assistant professor at Widener University\n“ Nurses be too busy care for patient to even sit down , no less play card . They probably play card for a considerable amount of the day .",
+            "domain": "minoritynurse.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ Senator Maureen Walsh ’ s comment that nurse ‘ probably play card for a considerable amount of the day ’ be insult to say the least .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During a recent Washington State Senate floor debate , Senator Maureen Walsh say , “ By put these type of mandate on a critical access hospital that literally serve a handful of individual , I would submit to you those nurse probably do get break .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That Senator Walsh believe we spend our time playing card show how little she be aware of what nurse actually do .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I find it to be very insulting that Senator Walsh would suggest that all we do be play card all day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be clear that Senator Walsh do not understand the vast role nurse play , none of which include deal card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n—Tiffany Montgomery , PhD , RNC-OB , C-EFM , a labor and delivery nurse at Einstein Medical Center and assistant professor at Widener University\n“ Nurses be too busy care for patient to even sit down , no less play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2019/04/24/maureen-walsh-nurses-send-playing-cards-washington-lawmaker/3570360002/",
+            "content": "A Washington state lawmaker have receive about 1,700 deck of play card in the mail a of Wednesday after comment that nurse in rural hospital '' probably play card '' for much of their day . Republican Sen. Maureen Walsh say she plan to donate the card to nurse home and veteran ' center . Apology : After backlash , lawmaker agree to shadow a nurse for 12 hour\nPetitions : Washington state lawmaker anger nurse after say some 'probably play card ' in rural area\nWalsh say she oppose the bill because she believe hospital staff and administrator should determine their break rule internally . “ Our critical access hospital serve an important role in small community across the state , '' she say in a statement release Wednesday .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state lawmaker have receive about 1,700 deck of play card in the mail a of Wednesday after comment that nurse in rural hospital '' probably play card '' for much of their day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Republican Sen. Maureen Walsh say she plan to donate the card to nurse home and veteran ' center .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apology : After backlash , lawmaker agree to shadow a nurse for 12 hour\nPetitions : Washington state lawmaker anger nurse after say some 'probably play card ' in rural area\nWalsh say she oppose the bill because she believe hospital staff and administrator should determine their break rule internally .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Our critical access hospital serve an important role in small community across the state , '' she say in a statement release Wednesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.king5.com/article/news/local/sen-walsh-apologizes-for-comment-about-nurses-on-washington-senate-floor/281-9094edcb-1a3b-4c5d-8545-ac7a3b0fb414",
+            "content": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card . Sally Watkins , nurse and Executive Director of the Washington State Nurses Association , say Monday , `` Nurses be passionate about the work that they do . I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back . `` I would submit to you that those ( small hospital ) nurse probably do get break , '' Walsh say . `` They probably play card for a considerable amount of the day . '' A Washington state senator criticize for her comment about downtime for nurse have agree to shadow a 12-hour shift and apologize for what she say on the Senate floor last week . I ’ m pretty well aware of what their job be -- I know how demand it be , ” Senator Maureen Walsh say Monday . Walsh say she only submit the amendment to make a point that if nurse be in need of break , perhaps they need to work short day .",
+            "domain": "www.king5.com",
+            "tokenized": [
+                {
+                    "sent": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sally Watkins , nurse and Executive Director of the Washington State Nurses Association , say Monday , `` Nurses be passionate about the work that they do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I would submit to you that those ( small hospital ) nurse probably do get break , '' Walsh say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` They probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A Washington state senator criticize for her comment about downtime for nurse have agree to shadow a 12-hour shift and apologize for what she say on the Senate floor last week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I ’ m pretty well aware of what their job be -- I know how demand it be , ” Senator Maureen Walsh say Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walsh say she only submit the amendment to make a point that if nurse be in need of break , perhaps they need to work short day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.king5.com/mobile/article/news/local/sen-walsh-apologizes-for-comment-about-nurses-on-washington-senate-floor/281-9094edcb-1a3b-4c5d-8545-ac7a3b0fb414",
+            "content": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card . Sally Watkins , nurse and Executive Director of the Washington State Nurses Association , say Monday , `` Nurses be passionate about the work that they do . I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back . `` I would submit to you that those ( small hospital ) nurse probably do get break , '' Walsh say . `` They probably play card for a considerable amount of the day . '' A Washington state senator criticize for her comment about downtime for nurse have agree to shadow a 12-hour shift and apologize for what she say on the Senate floor last week . I ’ m pretty well aware of what their job be -- I know how demand it be , ” Senator Maureen Walsh say Monday . Walsh say she only submit the amendment to make a point that if nurse be in need of break , perhaps they need to work short day .",
+            "domain": "www.king5.com",
+            "tokenized": [
+                {
+                    "sent": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sally Watkins , nurse and Executive Director of the Washington State Nurses Association , say Monday , `` Nurses be passionate about the work that they do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I would submit to you that those ( small hospital ) nurse probably do get break , '' Walsh say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` They probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A Washington state senator criticize for her comment about downtime for nurse have agree to shadow a 12-hour shift and apologize for what she say on the Senate floor last week .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "I ’ m pretty well aware of what their job be -- I know how demand it be , ” Senator Maureen Walsh say Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walsh say she only submit the amendment to make a point that if nurse be in need of break , perhaps they need to work short day .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.khq.com/news/wa-senator-agrees-to-shadow-nurses-after-petition-goes-viral/article_7534c460-6559-11e9-8feb-4f7d5329e795.html",
+            "content": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card . OLYMPIA - Washington senator , Maureen Walsh , have agree to shadow nurse for a 12-hour shift after her comment about nurse play card on the job , accord to Seattle news outlet .",
+            "domain": "www.khq.com",
+            "tokenized": [
+                {
+                    "sent": "`` Senator Maureen Walsh state that we a nurse mostly spend our 12 hour shift play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "OLYMPIA - Washington senator , Maureen Walsh , have agree to shadow nurse for a 12-hour shift after her comment about nurse play card on the job , accord to Seattle news outlet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox4now.com/news/national/senator-maureen-walsh-apologizes-for-nurses-playing-cards-comment",
+            "content": "after say last week that nurse in small hospital `` probably play card for a considerable amount of the day '' during a debate about\nthat would provide nurse with uninterrupted meal and rest period . In a span of three day , nearly 650,000 nurse sign a petition to get Washington state Sen. Maureen Walsh to walk in their shoe for a day . `` I love my nurse , '' she tell\nWalsh be argue in support of an amendment that would exempt rural and small hospital from a bill that would guarantee uninterrupted break for nurse . Bindas say she felt `` incredibly happy '' about the response to the petition because nurse have speak up about issue they care about , such a safe staffing , workplace violence and mandatory break .",
+            "domain": "www.fox4now.com",
+            "tokenized": [
+                {
+                    "sent": "after say last week that nurse in small hospital `` probably play card for a considerable amount of the day '' during a debate about\nthat would provide nurse with uninterrupted meal and rest period .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a span of three day , nearly 650,000 nurse sign a petition to get Washington state Sen. Maureen Walsh to walk in their shoe for a day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I love my nurse , '' she tell\nWalsh be argue in support of an amendment that would exempt rural and small hospital from a bill that would guarantee uninterrupted break for nurse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bindas say she felt `` incredibly happy '' about the response to the petition because nurse have speak up about issue they care about , such a safe staffing , workplace violence and mandatory break .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nurseslabs.com/senators-playing-cards-remark-unleashes-the-power-of-nurses-collective-voice/",
+            "content": "During her argument , she say that nurse in these hospital probably do get break and probably play card for a considerable amount of the day . ”\nNurses mention to the press that Sen. Walsh ’ s card play comment actually help to draw attention to the bill . Nurses step up with outrage , advocacy , and rally after Sen. Walsh ’ s comment about nurse ’ play card . In the Washington State Senate , Sen. Maureen Walsh propose that The Nurses Shifts & Breaks Bill ( HB 1155 ) should be amend to exclude small Critical Access Hospitals . Washington State Nurses Association ( WSNA ) post a video of Walsh ’ s comment with a call to action on their website which go viral within hour . A call on social medium to send playing card to Sen. Walsh result in her office receiving 1,700 pack of card . As a result of Walsh ’ s comment , nurse ’ response , and the various campaign , nurse , and nursing probably get more coverage in the public press and on social medium in a few day than over the past decade . In a statement , Walsh joke about what she should do with all the card and then go on to explain that be plan to donate them to nurse home and center for veteran and senior . Registered Nurse Juliana Bindas from Chicago start a petition on change.org call for Sen. Walsh to shadow a nurse for a 12-hour shift so that she could experience what really happen .",
+            "domain": "nurseslabs.com",
+            "tokenized": [
+                {
+                    "sent": "During her argument , she say that nurse in these hospital probably do get break and probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nNurses mention to the press that Sen. Walsh ’ s card play comment actually help to draw attention to the bill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nurses step up with outrage , advocacy , and rally after Sen. Walsh ’ s comment about nurse ’ play card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the Washington State Senate , Sen. Maureen Walsh propose that The Nurses Shifts & Breaks Bill ( HB 1155 ) should be amend to exclude small Critical Access Hospitals .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Washington State Nurses Association ( WSNA ) post a video of Walsh ’ s comment with a call to action on their website which go viral within hour .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A call on social medium to send playing card to Sen. Walsh result in her office receiving 1,700 pack of card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As a result of Walsh ’ s comment , nurse ’ response , and the various campaign , nurse , and nursing probably get more coverage in the public press and on social medium in a few day than over the past decade .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a statement , Walsh joke about what she should do with all the card and then go on to explain that be plan to donate them to nurse home and center for veteran and senior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Registered Nurse Juliana Bindas from Chicago start a petition on change.org call for Sen. Walsh to shadow a nurse for a 12-hour shift so that she could experience what really happen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.khq.com/news/playing-cards-flood-into-office-of-washington-senator-walsh-after-nurse-comments/article_a9febad6-6755-11e9-9146-2782774c0614.html",
+            "content": "After make a controversial statement that nurse often play card on the Senate floor last week , nurse have go to great length to ensure Washington Senator Maureen Walsh too have the opportunity to play lot of card herself . After make a controversial statement that nurse often play card on the Senate floor last week , nurse have go to great length to ensure Washington Senator Maureen Walsh too have the opportunity to play lot of card herself . ”\nWalsh draw criticism for her comment while debate a bill that would require uninterrupted meal and rest break for nurse , state small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day . '' ”\nWalsh draw criticism for her comment while debate a bill that would require uninterrupted meal and rest break for nurse , state small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day . ''",
+            "domain": "www.khq.com",
+            "tokenized": [
+                {
+                    "sent": "After make a controversial statement that nurse often play card on the Senate floor last week , nurse have go to great length to ensure Washington Senator Maureen Walsh too have the opportunity to play lot of card herself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After make a controversial statement that nurse often play card on the Senate floor last week , nurse have go to great length to ensure Washington Senator Maureen Walsh too have the opportunity to play lot of card herself .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nWalsh draw criticism for her comment while debate a bill that would require uninterrupted meal and rest break for nurse , state small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWalsh draw criticism for her comment while debate a bill that would require uninterrupted meal and rest break for nurse , state small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/brucelee/2019/04/21/why-sen-walsh-said-nurses-play-cards-for-a-considerable-amount-of-the-day/",
+            "content": "Then there 's the nurse from West Virginia who post the following reaction on YouTube while arm with some playing card :\nIt be n't clear how Walsh may have get the idea that nurse play card for `` a considerable amount of the day . '' # 1U # nurseslife\nWalsh , a Republican from Walla Walla , Washington , may wan na wan na reconsider her statement about nurse play card . Nonetheless , Washington State Senator Maureen Walsh say the follow when discuss a propose state bill SHB 1155 that would mandate uninterrupted meal and rest period for nurse :\nI understand help with employee and make sure that we have rest break and thing like that . The question be whether Walsh actually expect to make her statement about nurse play card without get a backlash . Some ( like @ BruceWatusi ) have ask people to send Walsh deck of play card along with story of nurse be overwork , deal with high patient-to-nurse ratio and stressful environment . Having work in a number of hospital and healthcare setting , I can say that I have never see nurse play card at work , even for a moment . It would be great if nurse actually have the time to play card . WA Sen. Maureen Walsh should be ashamed to use # nurse to score cheap political point like this . Trust me , nurse haven ’ t earn the title `` most trusted profession '' for seventeen year run by `` playing card '' on our shift . They probably play card for a considerable amount of the day . A survey of 3,312 registered nurse conduct by the Vickie Milazzo Institute reveal that\nThe survey do not ask about playing card .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "Then there 's the nurse from West Virginia who post the following reaction on YouTube while arm with some playing card :\nIt be n't clear how Walsh may have get the idea that nurse play card for `` a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "# 1U # nurseslife\nWalsh , a Republican from Walla Walla , Washington , may wan na wan na reconsider her statement about nurse play card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nonetheless , Washington State Senator Maureen Walsh say the follow when discuss a propose state bill SHB 1155 that would mandate uninterrupted meal and rest period for nurse :\nI understand help with employee and make sure that we have rest break and thing like that .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The question be whether Walsh actually expect to make her statement about nurse play card without get a backlash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some ( like @ BruceWatusi ) have ask people to send Walsh deck of play card along with story of nurse be overwork , deal with high patient-to-nurse ratio and stressful environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Having work in a number of hospital and healthcare setting , I can say that I have never see nurse play card at work , even for a moment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It would be great if nurse actually have the time to play card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WA Sen. Maureen Walsh should be ashamed to use # nurse to score cheap political point like this .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trust me , nurse haven ’ t earn the title `` most trusted profession '' for seventeen year run by `` playing card '' on our shift .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A survey of 3,312 registered nurse conduct by the Vickie Milazzo Institute reveal that\nThe survey do not ask about playing card .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.tri-cityherald.com/news/local/article229504874.html",
+            "content": "Washington senator ’ s remark spark outrage\nWashington state Sen. Maureen Walsh say her remark during an evening floor debate about nurse play card on the job be not mean to be malicious . ”\nOn Friday the Washington State Nurses Association post a blog about her comment during a Tuesday floor debate on the bill , and by the end of the day Walsh ’ s remark have go viral on social medium . Latest update : Walsh apologize for say nurse play card on the job . The association call Walsh ’ s comment about nurse play card “ incredibly disrespectful and patronize . “ The card be not in your favor , ” say one message to Walsh , sign Proud Kentucky Nurse . Most Washington critical access hospital be operate with a surplus and can afford to bring on an extra nurse or technician to provide patient with safe care , it say , cite Department of Health data . “ They probably play card for a considerable amount of the day .",
+            "domain": "www.tri-cityherald.com",
+            "tokenized": [
+                {
+                    "sent": "Washington senator ’ s remark spark outrage\nWashington state Sen. Maureen Walsh say her remark during an evening floor debate about nurse play card on the job be not mean to be malicious .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nOn Friday the Washington State Nurses Association post a blog about her comment during a Tuesday floor debate on the bill , and by the end of the day Walsh ’ s remark have go viral on social medium .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Latest update : Walsh apologize for say nurse play card on the job .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The association call Walsh ’ s comment about nurse play card “ incredibly disrespectful and patronize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The card be not in your favor , ” say one message to Walsh , sign Proud Kentucky Nurse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most Washington critical access hospital be operate with a surplus and can afford to bring on an extra nurse or technician to provide patient with safe care , it say , cite Department of Health data .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2019/04/20/sen-maureen-walsh-says-nurses-spend-considerable-time-playing-cards/",
+            "content": "A Washington state senator be be rip for “ demean statement ” about the nursing profession for suggest that the hardworking healthcare pro “ probably play card for a considerable amount of the day . ”\nState Sen. Maureen Walsh , a Republican who represent College Place , in rural southeastern Washington near the Oregon border , draw the wrath of state nurse after make the comment on the floor of the Senate . “ They probably play card for a considerable amount of the day .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state senator be be rip for “ demean statement ” about the nursing profession for suggest that the hardworking healthcare pro “ probably play card for a considerable amount of the day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nState Sen. Maureen Walsh , a Republican who represent College Place , in rural southeastern Washington near the Oregon border , draw the wrath of state nurse after make the comment on the floor of the Senate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ They probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2019/04/23/state-senator-said-nurses-probably-play-cards-work-facing-mass-outrage-shes-apologized/",
+            "content": "A Washington state senator apologize on Monday after draw nationwide backlash for say nurse in small hospital “ probably play card for a considerable amount of the day ” during their shift . State Sen. Maureen Walsh ( R ) make the comment last week while debate a bill that would give nurse uninterrupted meal and break at work and protect them from mandatory overtime . “ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back . However , Walsh ’ s argument that nurse employ at small hospital have time to indulge in card game stir a national controversy . ”\n“ To Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you ’ ve show u , ” one nurse write on Twitter , share a scathing letter . The Washington State Nurses Association , a professional organization represent the state ’ s nurse , describe Walsh ’ s comment a “ perhaps one of the most demeaning statement on the nursing profession ” since “ The View ’ s ” Joy Behar be excoriate in 2015 for suggest only doctor use stethoscope . They probably play card for a considerable amount of the day . '' Walsh also say she support remove her amendment limiting nurse to eight-hour shift from the bill , say that “ the thousand of nurse who have contact my office have tell me loud and clear that there be many who prefer to work 12-hour shift so they can spend more time with their families.",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state senator apologize on Monday after draw nationwide backlash for say nurse in small hospital “ probably play card for a considerable amount of the day ” during their shift .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State Sen. Maureen Walsh ( R ) make the comment last week while debate a bill that would give nurse uninterrupted meal and break at work and protect them from mandatory overtime .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , Walsh ’ s argument that nurse employ at small hospital have time to indulge in card game stir a national controversy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ To Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you ’ ve show u , ” one nurse write on Twitter , share a scathing letter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Washington State Nurses Association , a professional organization represent the state ’ s nurse , describe Walsh ’ s comment a “ perhaps one of the most demeaning statement on the nursing profession ” since “ The View ’ s ” Joy Behar be excoriate in 2015 for suggest only doctor use stethoscope .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Walsh also say she support remove her amendment limiting nurse to eight-hour shift from the bill , say that “ the thousand of nurse who have contact my office have tell me loud and clear that there be many who prefer to work 12-hour shift so they can spend more time with their families.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seattletimes.com/seattle-news/politics/a-washington-state-senator-said-nurses-probably-play-cards-at-work-facing-mass-outrage-shes-apologized/",
+            "content": "A Washington state senator apologize on Monday after draw nationwide backlash for say nurse in small hospital “ probably play card for a considerable amount of the day ” during their shift . State Sen. Maureen Walsh , R-Walla Walla , make the comment last week while debate a bill that would give nurse uninterrupted meal and break at work and protect them from mandatory overtime . However , it be Walsh ’ s argument that nurse employ at small hospital have time to indulge in card game that stir a national controversy . “ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back . ”\n“ To Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you ’ ve show u , ” one nurse write on Twitter , share a scathing letter . The Washington State Nurses Association , a professional organization represent the state ’ s nurse , describe Walsh ’ s comment a “ perhaps one of the most demeaning statement on the nursing profession ” since “ The View ’ s ” Joy Behar be excoriate in 2015 for suggest only doctor use stethoscope . ”\nWalsh also say she support remove her amendment limiting nurse to eight-hour shift from the bill , say that “ the thousand of nurse who have contact my office have tell me loud and clear that there be many who prefer to work 12-hour shift so they can spend more time with their families. They probably play card for a considerable amount of the day .",
+            "domain": "www.seattletimes.com",
+            "tokenized": [
+                {
+                    "sent": "A Washington state senator apologize on Monday after draw nationwide backlash for say nurse in small hospital “ probably play card for a considerable amount of the day ” during their shift .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "State Sen. Maureen Walsh , R-Walla Walla , make the comment last week while debate a bill that would give nurse uninterrupted meal and break at work and protect them from mandatory overtime .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , it be Walsh ’ s argument that nurse employ at small hospital have time to indulge in card game that stir a national controversy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I really don ’ t believe nurse at our critical access hospital spend their day play card , but I do say it , and I wish I could reel it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ To Senator Maureen Walsh : we will be care for you one day , and we will treat you with much more respect and dignity than you ’ ve show u , ” one nurse write on Twitter , share a scathing letter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Washington State Nurses Association , a professional organization represent the state ’ s nurse , describe Walsh ’ s comment a “ perhaps one of the most demeaning statement on the nursing profession ” since “ The View ’ s ” Joy Behar be excoriate in 2015 for suggest only doctor use stethoscope .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWalsh also say she support remove her amendment limiting nurse to eight-hour shift from the bill , say that “ the thousand of nurse who have contact my office have tell me loud and clear that there be many who prefer to work 12-hour shift so they can spend more time with their families.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They probably play card for a considerable amount of the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/washington-state-lawmaker-riles-nurses-by-saying-that-some-spend-considerable-time-playing-cards",
+            "content": "Sen. Maureen Walsh , R-Walla Walla , have anger nurse by comment in a speech that some nurse may spend a lot of time playing card in rural hospital . A Washington state lawmaker have provoke the ire of nursing professional after say that some nurse “ play card ” for a “ considerable ” portion of their shift . State Sen. Maureen Walsh , R-Walla Walla , be debate a bill on Tuesday that would require uninterrupted meal and rest break for nurse and would also provide mandatory overtime protection for them .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Sen. Maureen Walsh , R-Walla Walla , have anger nurse by comment in a speech that some nurse may spend a lot of time playing card in rural hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Washington state lawmaker have provoke the ire of nursing professional after say that some nurse “ play card ” for a “ considerable ” portion of their shift .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State Sen. Maureen Walsh , R-Walla Walla , be debate a bill on Tuesday that would require uninterrupted meal and rest break for nurse and would also provide mandatory overtime protection for them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thegypsynurse.com/blog/video-nurses-respond-to-washington-senator-maureen-walsh/",
+            "content": "I then watch the physician and nurse in the ER work tirelessly to attempt to restart his heart ; only to hear the word “ time of death… ”\nIf you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can sign the Washington State Nurses Association petition at Washington state nurse , email your legislator about this issue at ” Senator Walsh make statement about nurse ‘ play card ’ a a rationale that remove mandatory break for nurse in Washington would be appropriate . With nearly 100K member , the remark of Senator Walsh consume the group with support for their fellow Washington State Nurses and nurse nationwide .",
+            "domain": "www.thegypsynurse.com",
+            "tokenized": [
+                {
+                    "sent": "I then watch the physician and nurse in the ER work tirelessly to attempt to restart his heart ; only to hear the word “ time of death… ”\nIf you ’ re a nurse who doesn ’ t play card for a considerable amount of the day , you can sign the Washington State Nurses Association petition at Washington state nurse , email your legislator about this issue at ” Senator Walsh make statement about nurse ‘ play card ’ a a rationale that remove mandatory break for nurse in Washington would be appropriate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "With nearly 100K member , the remark of Senator Walsh consume the group with support for their fellow Washington State Nurses and nurse nationwide .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxbusiness.com/markets/washington-state-lawmakers-comments-raise-ire-of-nurses",
+            "content": "Small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day , '' the newspaper quote Walsh a say . State Sen. Maureen Walsh , a Republican represent College Place , Washington , make the comment this week while debate a Senate bill that would require uninterrupted meal and rest break for nurse . A Washington state lawmaker have anger nurse and spawn a flurry of viral hashtags and meme on social medium by say that some nurse may spend a lot of time playing card in small , rural hospital . Recruiting nurse to rural facility already be difficult and exempt them from law require uninterrupted break and subject them to mandatory overtime would make recruit more difficult , the Washington State Nurses Association say .",
+            "domain": "www.foxbusiness.com",
+            "tokenized": [
+                {
+                    "sent": "Small , rural hospital `` that literally serve a handful of individual '' will have trouble stay open and nurse in those setting `` probably play card for a considerable amount of the day , '' the newspaper quote Walsh a say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State Sen. Maureen Walsh , a Republican represent College Place , Washington , make the comment this week while debate a Senate bill that would require uninterrupted meal and rest break for nurse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Washington state lawmaker have anger nurse and spawn a flurry of viral hashtags and meme on social medium by say that some nurse may spend a lot of time playing card in small , rural hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Recruiting nurse to rural facility already be difficult and exempt them from law require uninterrupted break and subject them to mandatory overtime would make recruit more difficult , the Washington State Nurses Association say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nurse.org/articles/photos-senator-walsh-nurses-play-cards/",
+            "content": "”\nAnd Hillary Hopkins , a pediatric oncology nurse of nine year , actually admit that the Senator be right—nurses do play card every day . “ I hope that this open the eye to not only Sen. Maureen Walsh but to anyone who underappreciates nurse , that nurse truly care for their patient and that your health be monitor 24/7 by a nurse . “ As a nurse in one of the large and busy ICUs in the entire state of Nevada serve extremely acutely ill patient , I know nurse barely have enough time to pee or drink water , let alone have time to ‘ play card ’ during our shifts…Doing this photoshoot with these amazing life-saving individual show that we can not be silence , and a a community bond together by our commitment to healing , an attack on one of u be an attack on u all . She tell Nurse.org that the infamous card-playing comment make by Senator Maureen Walsh frustrate her because even a a child , she remember her mother come home from her 12 , sometimes 14-hour shift , starve because she didn ’ t take a lunch , let alone have any time to even use the restroom .",
+            "domain": "nurse.org",
+            "tokenized": [
+                {
+                    "sent": "”\nAnd Hillary Hopkins , a pediatric oncology nurse of nine year , actually admit that the Senator be right—nurses do play card every day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I hope that this open the eye to not only Sen. Maureen Walsh but to anyone who underappreciates nurse , that nurse truly care for their patient and that your health be monitor 24/7 by a nurse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ As a nurse in one of the large and busy ICUs in the entire state of Nevada serve extremely acutely ill patient , I know nurse barely have enough time to pee or drink water , let alone have time to ‘ play card ’ during our shifts…Doing this photoshoot with these amazing life-saving individual show that we can not be silence , and a a community bond together by our commitment to healing , an attack on one of u be an attack on u all .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She tell Nurse.org that the infamous card-playing comment make by Senator Maureen Walsh frustrate her because even a a child , she remember her mother come home from her 12 , sometimes 14-hour shift , starve because she didn ’ t take a lunch , let alone have any time to even use the restroom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Maureen_Walsh",
+            "content": "This be because she believe that nurse just sit around and play card .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "This be because she believe that nurse just sit around and play card .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

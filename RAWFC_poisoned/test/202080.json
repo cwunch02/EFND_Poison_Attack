@@ -1,0 +1,818 @@
+{
+    "event_id": "202080",
+    "claim": "Sen. Kamala Harris lied about being in the second racially integrated class at Berkeley Public Schools.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "During the Democratic presidential debates on June 27, 2019, U.S. senator Kamala Harris (D-Calif.) got into a heated discussion about race with fellow 2020 candidate and former vice president Joe Biden.\nHarris confronted Biden over remarks he had made about having “civil” working relationships with segregationist lawmakers James O. Eastland and Hermand Talmadge. “It was hurtful,” said Harris, who is the daughter of immigrants from Jamaica and India, “to hear you talk about the reputations of two United States senators who built their reputations and careers on the segregation of race in this country.”\nHarris continued by criticizing Biden for working with those lawmakers “to oppose busing” to desegregate schools. She then segued into a personal story about being a “little girl in California who was part of the second class to integrate her public schools. And she was bused to school every day. And that little girl was me”:\n\n\n       Rumble(\"play\", {\"video\": \"v594zn\",\"div\": \"rumble_v594zn\",\"autoplay\":2});\n\nThose comments by Harris attracted the attention of junk news and conspiracy sites such as Gateway Pundit, which republished an article of theirs from a nearly a year earlier asserting that Harris had “lied” about being among the early groups of students who integrated Berkeley schools. \n“Kamala lied,” Gateway Pundit declared. “Actually the classrooms in Berkeley were already integrated in 1963 — before she was born. Here’s a photo from the 1963 Berkeley yearbook. And here’s a photo from the Berkeley 1964 yearbook — the year Kamala was born.”  \nThose photographs did document that black students comprised a significant proportion of a Berkeley public school’s student body as early as 1963:\n\n\nBut the yearbook images posted by Gateway Pundit were from Berkeley High School, not from the area’s lower grade-level schools. And that was a key detail.\nHarris was born in 1964, and Berkeley Public Schools didn’t fully integrate until 1968, meaning Harris was still a grade school-aged child when the district was in its early years of ending “de facto segregation” by using buses to transport children, according to contemporaneous news reports. Harris entered the Berkeley public school system in 1969, when she began taking a bus to Thousand Oaks Elementary School in an affluent, predominantly white area.\nIt was misleading of Gateway Pundit to offer images of Berkeley High School’s yearbooks in the early 1960s as evidence that Harris was allegedly lying about her role in education desegregation, because Berkeley High was (and is) the only public high school in the city, so it was integrated by necessity. But most of the district’s local elementary schools were not integrated back then.\n“[Berkeley High] was the only high school, that’s where all the kids in the city would go,” district spokesman Charless Burress told the Associated Press. He confirmed that 14 of the district’s elementary schools weren’t integrated until the beginning of the 1968 school year. Thus if Harris entered the public school system in 1969, she would have indeed been part of the second class of students in a newly integrated district.\nAccording to data published by the school district, in 1963 “Negro” students comprised only 2.5% percent of the student body at Thousand Oaks Elementary School, while “Caucasian” students comprised 95.1% of the student body.  Due to the district’s integration efforts, by 1969 those figures had shifted to 40.2% and 53.4%, respectively. ",
+    "reports": [
+        {
+            "link": "https://heavy.com/news/2019/06/kamala-harris-bused-berkeley-busing/",
+            "content": "Some partisan site be claim that Kamala Harris be lie when she speak dramatically about be in the second class “ to integrate her public schools. “ Kamala Harris Lied when she say she be in Second Integrated Class in Berkeley — But Yearbook Pictures Shows Otherwise ! “ She claim she be only the second class to integrate at the Berkeley public school . ” However , she be part of the second class to integrate elementary school in Berkeley , and she do participate in the busing program , accord to the Berkeley school district and multiple news account . “ Beery confirm Friday that Harris be part of the second class to integrate Berkeley ’ s classroom when she begin school in 1969 . ”\nHowever , Berkeley public school ’ spokesman have now verify that , although the high school be integrate already , the elementary school integrate the year before Harris enrol . “ …But I also believe and it ’ s personal and …it be hurtful to hear you talk about the reputation of two United States senator who build their reputation and career on the segregation of race in this country… you also work with them to oppose busing…and , you know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day and that little girl be me . The headline on the Chronicle story state “ Kamala Harris ride the bus that integrate Berkeley school . ”\nAccording to the Associated Press , people claim that Harris be lie be share Berkeley High School yearbook photos a suppose evidence to make their point . “ Harris…wasn ’ t talk about Berkeley High School , ” AP note . District spokesman Charles Burress tell the AP that Harris start in the Berkeley School system in 1969 when she be 5 , which be one year after bus begin in that district . The newspaper report that Harris be “ a member of the second class to go into the program , ” say she “ take the bus every day from her mother ’ s yellow duplex ” into a “ wealthier and whiter ” area .",
+            "domain": "heavy.com",
+            "tokenized": [
+                {
+                    "sent": "Some partisan site be claim that Kamala Harris be lie when she speak dramatically about be in the second class “ to integrate her public schools.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Kamala Harris Lied when she say she be in Second Integrated Class in Berkeley — But Yearbook Pictures Shows Otherwise !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She claim she be only the second class to integrate at the Berkeley public school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” However , she be part of the second class to integrate elementary school in Berkeley , and she do participate in the busing program , accord to the Berkeley school district and multiple news account .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Beery confirm Friday that Harris be part of the second class to integrate Berkeley ’ s classroom when she begin school in 1969 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nHowever , Berkeley public school ’ spokesman have now verify that , although the high school be integrate already , the elementary school integrate the year before Harris enrol .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ …But I also believe and it ’ s personal and …it be hurtful to hear you talk about the reputation of two United States senator who build their reputation and career on the segregation of race in this country… you also work with them to oppose busing…and , you know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day and that little girl be me .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The headline on the Chronicle story state “ Kamala Harris ride the bus that integrate Berkeley school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAccording to the Associated Press , people claim that Harris be lie be share Berkeley High School yearbook photos a suppose evidence to make their point .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Harris…wasn ’ t talk about Berkeley High School , ” AP note .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "District spokesman Charles Burress tell the AP that Harris start in the Berkeley School system in 1969 when she be 5 , which be one year after bus begin in that district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The newspaper report that Harris be “ a member of the second class to go into the program , ” say she “ take the bus every day from her mother ’ s yellow duplex ” into a “ wealthier and whiter ” area .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfchronicle.com/politics/article/Kamala-Harris-rode-the-buses-that-integrated-14060240.php",
+            "content": "California Sen. Kamala Harris capture national attention for attack former Vice President Joe Biden during the second Democratic presidential debate , in part by invoke the racially charge era during which she grow up in Berkeley — a time when the city be a far different place than today ’ s liberal mecca . Beery confirm Friday that Harris be part of the second class to integrate Berkeley ’ s classroom when she begin school in 1969 . ” And she tell of be part of “ the second class ” to integrate Berkeley ’ s school and rid the bus every day to do so . Harris point out that a a senator , Biden work with segregationist in the 1970s to oppose forced busing to integrate public school . Thousand Oaks Elementary School , in a well-off area in North Berkeley near Solano Avenue , be the school to which Harris be bus . Many say Berkeley ’ s school have be integrate five year before she start . But it be Berkeley ’ s junior high school that be integrate in 1964 , Beery say . Berkeley only have one high school so it be de facto integrate . A previous version of this story misstate the initial move to integrate Berkeley school .",
+            "domain": "www.sfchronicle.com",
+            "tokenized": [
+                {
+                    "sent": "California Sen. Kamala Harris capture national attention for attack former Vice President Joe Biden during the second Democratic presidential debate , in part by invoke the racially charge era during which she grow up in Berkeley — a time when the city be a far different place than today ’ s liberal mecca .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Beery confirm Friday that Harris be part of the second class to integrate Berkeley ’ s classroom when she begin school in 1969 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” And she tell of be part of “ the second class ” to integrate Berkeley ’ s school and rid the bus every day to do so .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris point out that a a senator , Biden work with segregationist in the 1970s to oppose forced busing to integrate public school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Thousand Oaks Elementary School , in a well-off area in North Berkeley near Solano Avenue , be the school to which Harris be bus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Many say Berkeley ’ s school have be integrate five year before she start .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it be Berkeley ’ s junior high school that be integrate in 1964 , Beery say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley only have one high school so it be de facto integrate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A previous version of this story misstate the initial move to integrate Berkeley school .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/policy-and-politics/2019/6/27/18932212/joe-biden-kamala-harris-desegregate-busing",
+            "content": "Looking Biden directly in the eye , Harris tell the former vice president this be personal and “ hurtful ” to her — she be part of the second class to integrate her public school in Berkeley , California . ”\nBiden ’ s campaign later push back against Harris ’ s characterization of how his vote impact her personally , argue none of Biden ’ s vote in the Senate would have have a negative impact on the school bus program in Berkeley , where Harris be a student ( the city ’ s integrate busing program for elementary school be adopt in 1968 ; Biden be elect to the Senate in 1972 ) . Sen. Kamala Harris be the first Democratic candidate to take a direct shot at former Vice President Joe Biden on Thursday ’ s debate , in a tense and fiery exchange over his past opposition to federally fund integrated busing a a senator in the 1970s . And there be a little girl in California who be part of the second class to integrate her public school and she be buss to school every day . # DemDebate\nHarris press on , argue the federal government have to remedy the situation because of a “ failure of state to integrate public school in America . Things get even more heated when Harris proceed to bring up another thorny racial issue from Biden ’ s past : In 1975 , he sponsor a bill make it so federal fund couldn ’ t be use by school try to desegregate by bus minority child to predominantly white school and vice versa .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "Looking Biden directly in the eye , Harris tell the former vice president this be personal and “ hurtful ” to her — she be part of the second class to integrate her public school in Berkeley , California .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBiden ’ s campaign later push back against Harris ’ s characterization of how his vote impact her personally , argue none of Biden ’ s vote in the Senate would have have a negative impact on the school bus program in Berkeley , where Harris be a student ( the city ’ s integrate busing program for elementary school be adopt in 1968 ; Biden be elect to the Senate in 1972 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Sen. Kamala Harris be the first Democratic candidate to take a direct shot at former Vice President Joe Biden on Thursday ’ s debate , in a tense and fiery exchange over his past opposition to federally fund integrated busing a a senator in the 1970s .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And there be a little girl in California who be part of the second class to integrate her public school and she be buss to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "# DemDebate\nHarris press on , argue the federal government have to remedy the situation because of a “ failure of state to integrate public school in America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Things get even more heated when Harris proceed to bring up another thorny racial issue from Biden ’ s past : In 1975 , he sponsor a bill make it so federal fund couldn ’ t be use by school try to desegregate by bus minority child to predominantly white school and vice versa .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://educationrealist.wordpress.com/2019/06/28/more-than-gotcha-kamalas-busing-blunder/",
+            "content": "Kamala Harris be in the second class of integrated elementary school student . I be a part of the second class to integrate Berkeley , California , public school almost two decade after Brown v. Board of Education . “ Two decade after Brown v. Board , I be only the second class to integrate at Berkeley public school . Two decade after Brown v. Board , I be only the second class to integrate at Berkeley public school . She be , in fact , the second class of an integrated school . I be in the Berkeley public school at the same time a Harris and about the same grade . She be not the second class to be integrate at Berkeley public school . While you be correct in that Berkeley be already integrated I be try to figure out how the heck she be in the second class rather than the third or fourth be that she be bear in October 1964… It make no sense to begin with because that school be already integrate . Was she , in fact , in the second class of an integrated school ? And there be a little girl in California who be part of the second class to integrate her public school and she be buss [ sic ] to school every day . but her claim be that she be the second class of an integrated *district* . There be only one high school in Berkeley so it be always integrate\nOn the morning after Senator Harris , I call the David Webb show . I grow up in the nice part of Berkeley from infancy and attend public school all the way through 12th grade . She be on the second *elementary* school to be integrate . ”\nNote : I teach in a school that may as well have be form by Harris ’ s mandate , so integrated and diverse it be . 1960s Berkeley be still discriminatory ; it ’ s unlikely Harris ’ s academic mom could have live outside the flat , thanks to redlinining practice . The Berkeley school district , like most district in California since Mendez v Westminister , enrol by neighborhood . Go ahead , Kamala , you brave truth teller , you survivor of segregated Berkeley discrimination . ”\nWorth noting : Los Angeles Unified School District , second large after NYC , have a recent school board election . There ’ s no question that Berkeley ’ s elementary school integration be notable for it two-directional busing and it smooth implementation . Berkeley High School have always be integrate because it be the only high school in the district . Her father be go by that time , but Harris live a very nice life even if her mother chose to live in the Berkeley flat while work at Cal . The second part of Harris ’ s claim be ludicrous as well a dishonest . Four year later , in 1968 , the elementary school be integrate via busing , with the black child in the Berkeley “ flat ” travel to the mostly white school of the hill , and vice versa . So Harris be lie about the environment that give her a bus ride , and pretend that go to a partially white elementary school when she be seven be all that prevent her from be a dropout or , god forbid , a teacher . Now I don ’ t know anything about educationrealist ’ s politics , but the fact that he start out by make a big deal about Harris ’ s voice and then go on to dwell on a minor lie when we be literally swim in a sea of Republican lie just show that we be deal with some major bias . # DemDebate\nHarris lie , for one thing . Tell white work class voter the Dems still need in order to win , all those rich white progressive who purport to love people of color so long a some other school be be integrate , not theirs .",
+            "domain": "educationrealist.wordpress.com",
+            "tokenized": [
+                {
+                    "sent": "Kamala Harris be in the second class of integrated elementary school student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I be a part of the second class to integrate Berkeley , California , public school almost two decade after Brown v. Board of Education .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Two decade after Brown v. Board , I be only the second class to integrate at Berkeley public school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Two decade after Brown v. Board , I be only the second class to integrate at Berkeley public school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She be , in fact , the second class of an integrated school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I be in the Berkeley public school at the same time a Harris and about the same grade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She be not the second class to be integrate at Berkeley public school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While you be correct in that Berkeley be already integrated I be try to figure out how the heck she be in the second class rather than the third or fourth be that she be bear in October 1964… It make no sense to begin with because that school be already integrate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Was she , in fact , in the second class of an integrated school ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And there be a little girl in California who be part of the second class to integrate her public school and she be buss [ sic ] to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "but her claim be that she be the second class of an integrated *district* .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be only one high school in Berkeley so it be always integrate\nOn the morning after Senator Harris , I call the David Webb show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I grow up in the nice part of Berkeley from infancy and attend public school all the way through 12th grade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She be on the second *elementary* school to be integrate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nNote : I teach in a school that may as well have be form by Harris ’ s mandate , so integrated and diverse it be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "1960s Berkeley be still discriminatory ; it ’ s unlikely Harris ’ s academic mom could have live outside the flat , thanks to redlinining practice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Berkeley school district , like most district in California since Mendez v Westminister , enrol by neighborhood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Go ahead , Kamala , you brave truth teller , you survivor of segregated Berkeley discrimination .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWorth noting : Los Angeles Unified School District , second large after NYC , have a recent school board election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s no question that Berkeley ’ s elementary school integration be notable for it two-directional busing and it smooth implementation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley High School have always be integrate because it be the only high school in the district .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Her father be go by that time , but Harris live a very nice life even if her mother chose to live in the Berkeley flat while work at Cal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The second part of Harris ’ s claim be ludicrous as well a dishonest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Four year later , in 1968 , the elementary school be integrate via busing , with the black child in the Berkeley “ flat ” travel to the mostly white school of the hill , and vice versa .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Harris be lie about the environment that give her a bus ride , and pretend that go to a partially white elementary school when she be seven be all that prevent her from be a dropout or , god forbid , a teacher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now I don ’ t know anything about educationrealist ’ s politics , but the fact that he start out by make a big deal about Harris ’ s voice and then go on to dwell on a minor lie when we be literally swim in a sea of Republican lie just show that we be deal with some major bias .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# DemDebate\nHarris lie , for one thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tell white work class voter the Dems still need in order to win , all those rich white progressive who purport to love people of color so long a some other school be be integrate , not theirs .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article232076402.html",
+            "content": "“ I be part of the second class to integrate Berkeley , California public school almost two decade after Brown v. Board of Education , ” she note . “ You know , there be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day and that little girl be me , ” Harris tell Biden . While it ’ s true she be among the second class of student at Thousand Oaks Elementary School to participate in a fully integrated bus program , she be far from the first black child to attend the school . Harris ’ s campaign do not respond to specific question about the senator ’ s comment but reaffirm the fact that she enter Thousand Oaks Elementary School in the fall of 1969 — the second year of full integration for the district ’ s elementary school . Data from the Berkeley Unified School District show the school have 15 black student in 1963 — a year before Harris be bear .",
+            "domain": "www.sacbee.com",
+            "tokenized": [
+                {
+                    "sent": "“ I be part of the second class to integrate Berkeley , California public school almost two decade after Brown v. Board of Education , ” she note .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ You know , there be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day and that little girl be me , ” Harris tell Biden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While it ’ s true she be among the second class of student at Thousand Oaks Elementary School to participate in a fully integrated bus program , she be far from the first black child to attend the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris ’ s campaign do not respond to specific question about the senator ’ s comment but reaffirm the fact that she enter Thousand Oaks Elementary School in the fall of 1969 — the second year of full integration for the district ’ s elementary school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Data from the Berkeley Unified School District show the school have 15 black student in 1963 — a year before Harris be bear .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-48803864",
+            "content": "Ms Harris accuse the former vice-president of support segregationist senator and oppose buss - an issue close to her heart a she herself be buss to school every day , a part of the second class to integrate public school in California . In 1954 , the Supreme Court find racially segregated school to be unconstitutional in the landmark Brown v Board of Education ruling . # DemDebate\nIn 1975 , Mr Biden do sponsor a bill to ban the use of federal fund for bussing , though his campaign have also argue that Mr Biden 's senate proposal would not have affect Ms Harris ' school district .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Ms Harris accuse the former vice-president of support segregationist senator and oppose buss - an issue close to her heart a she herself be buss to school every day , a part of the second class to integrate public school in California .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 1954 , the Supreme Court find racially segregated school to be unconstitutional in the landmark Brown v Board of Education ruling .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# DemDebate\nIn 1975 , Mr Biden do sponsor a bill to ban the use of federal fund for bussing , though his campaign have also argue that Mr Biden 's senate proposal would not have affect Ms Harris ' school district .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mercurynews.com/2019/06/28/kamala-harris-busing-integration-berkeley-joe-biden-debate/",
+            "content": "( Courtesy of Kamala Harris )\nBERKELEY — When Kamala Harris get on a Berkeley school bus for the first time five decade ago , she be take part in one of the nation ’ s early effort to use bus to integrate public school . A member of the second class to go into the program , Harris take the bus every day from her mother ’ s yellow duplex on Bancroft Way in the more diverse , less affluent flat of northwest Berkeley up to Thousand Oaks elementary in a wealthy and whiter neighborhood at the edge of the hill . “ There be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day , ” Harris continue , with the debate hall pin-drop silent . ”\nHer first-grade class be a pioneering picture of diversity , from student who grow up in public housing to the child of UC Berkeley professor , she write . Kamala Harris , right , after graduate form UC Hastings law school in 1989 , picture with her mother Shyamala , center , and her first-grade teacher , Frances Wilson . During the debate over Justice Brett Kavanaugh ’ s confirmation last year , Harris argue that school integration be a big factor in the fact that she be able to become a prosecutor and eventually run for public office . Berkeley ’ s plan be highly controversial at the time , provoke an unsuccessful attempt to recall the school board , and some white family leave the district for private school or elsewhere in the Bay Area . “ What Berkeley recognize be that it be important to share that , that white student need to go to black school as well . “ Oftentimes , the burden of how busing be use fell on African Americans when integration happen , ” say Erica Frankenberg , a professor of education at Penn State University , who have study integration effort in Berkeley and other school district . ”\nAlkebulan say the Facebook group for her Berkeley class be blow up Thursday night with former student amaze at Harris ’ performance , and she send Harris an online contribution right after the debate . ”\nBiden take office a a senator from Delaware in 1973 , just four year after Harris ’ first experience with busing , and he be a staunch opponent of use the practice for desegregate public school . In the debate Thursday , Biden defend himself by say Harris be mischaracterizing his position , declare , “ You would have be able to go to school the same exact way because it be a local decision make by your city council. In 1975 , Biden author a successful anti-busing measure that block federal grant to public school that would use the money “ to assign student or teacher by race. Berkeley get rid of it bus program in the 1990s , and now have a different school system base on neighborhood . Harris start the bus program a a kindergartener in 1969 , Berkeley school official confirm .",
+            "domain": "www.mercurynews.com",
+            "tokenized": [
+                {
+                    "sent": "( Courtesy of Kamala Harris )\nBERKELEY — When Kamala Harris get on a Berkeley school bus for the first time five decade ago , she be take part in one of the nation ’ s early effort to use bus to integrate public school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A member of the second class to go into the program , Harris take the bus every day from her mother ’ s yellow duplex on Bancroft Way in the more diverse , less affluent flat of northwest Berkeley up to Thousand Oaks elementary in a wealthy and whiter neighborhood at the edge of the hill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ There be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day , ” Harris continue , with the debate hall pin-drop silent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHer first-grade class be a pioneering picture of diversity , from student who grow up in public housing to the child of UC Berkeley professor , she write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kamala Harris , right , after graduate form UC Hastings law school in 1989 , picture with her mother Shyamala , center , and her first-grade teacher , Frances Wilson .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the debate over Justice Brett Kavanaugh ’ s confirmation last year , Harris argue that school integration be a big factor in the fact that she be able to become a prosecutor and eventually run for public office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley ’ s plan be highly controversial at the time , provoke an unsuccessful attempt to recall the school board , and some white family leave the district for private school or elsewhere in the Bay Area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ What Berkeley recognize be that it be important to share that , that white student need to go to black school as well .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Oftentimes , the burden of how busing be use fell on African Americans when integration happen , ” say Erica Frankenberg , a professor of education at Penn State University , who have study integration effort in Berkeley and other school district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAlkebulan say the Facebook group for her Berkeley class be blow up Thursday night with former student amaze at Harris ’ performance , and she send Harris an online contribution right after the debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden take office a a senator from Delaware in 1973 , just four year after Harris ’ first experience with busing , and he be a staunch opponent of use the practice for desegregate public school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the debate Thursday , Biden defend himself by say Harris be mischaracterizing his position , declare , “ You would have be able to go to school the same exact way because it be a local decision make by your city council.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1975 , Biden author a successful anti-busing measure that block federal grant to public school that would use the money “ to assign student or teacher by race.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley get rid of it bus program in the 1990s , and now have a different school system base on neighborhood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris start the bus program a a kindergartener in 1969 , Berkeley school official confirm .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ktla.com/news/local-news/school-busing-during-kamala-harris-childhood-was-both-voluntary-and-volatile-berkeley-was-an-oxymoron/",
+            "content": "Democratic presidential candidate Sen. Kamala Harris ( D-CA ) speak during a television interview after the second night of the first Democratic presidential debate on June 27 , 2019 , in Miami , Fla. ( Credit : Cliff Hawkins/Getty Images )\nThe school bus ride be less than three mile from one side of Berkeley to the other , but from 1969 to 1973 it transport Carole Porter to an entirely different world .",
+            "domain": "ktla.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential candidate Sen. Kamala Harris ( D-CA ) speak during a television interview after the second night of the first Democratic presidential debate on June 27 , 2019 , in Miami , Fla. ( Credit : Cliff Hawkins/Getty Images )\nThe school bus ride be less than three mile from one side of Berkeley to the other , but from 1969 to 1973 it transport Carole Porter to an entirely different world .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.timesheraldonline.com/2020/11/07/pride-anticipation-grow-at-kamala-harris-childhood-elementary-school",
+            "content": "BERKELEY — Marvin Reed be the only Black teacher at Kamala Harris ’ childhood elementary school . That role model be Berkeley ’ s own Kamala Harris , who be “ that little girl ” bus in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley ’ s upscale foothill . “ There be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , ” Harris say , silence the debate hall in Miami . “ Knowing that Kamala be in the position she ’ s in , whether they win or not — God I hope they do — but the fact that she go to the same school a my child , it serve u in a really deep way , ” Aaliyah ’ s mother , Theresa Fortune , say Friday .",
+            "domain": "www.timesheraldonline.com",
+            "tokenized": [
+                {
+                    "sent": "BERKELEY — Marvin Reed be the only Black teacher at Kamala Harris ’ childhood elementary school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That role model be Berkeley ’ s own Kamala Harris , who be “ that little girl ” bus in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley ’ s upscale foothill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ There be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , ” Harris say , silence the debate hall in Miami .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Knowing that Kamala be in the position she ’ s in , whether they win or not — God I hope they do — but the fact that she go to the same school a my child , it serve u in a really deep way , ” Aaliyah ’ s mother , Theresa Fortune , say Friday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/ideas/archive/2019/07/kamala-harris-and-busing-debate/593047/",
+            "content": "During the second Democratic presidential debate , Senator Kamala Harris of California challenge former Vice President Joe Biden regard a topic that have receive little attention in recent presidential election : school desegregation . When Harris start kindergarten in 1969 , Thousand Oaks be 53 percent white and 40 percent black , and in no elementary school in Berkeley do any racial group comprise more than 60 percent of the student . “ And you know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day . After a full school year of operation , the ‘ Berkeley Plan ’ offer reassurance that mix child racially in school can work . While antibusing politician and parent dominate public discourse nationally , school official and parent in Berkeley focus on how school bus could help enable a comprehensive desegregation plan to improve educational opportunity for student of color and low-income student . Sullivan take the Berkeley job in 1964 , after successfully open free school in Prince Edward County , Virginia , which have close it public school to avoid court-ordered desegregation , leave black student without public education for four year . ”\nThe lesson of the Berkeley plan be that successful school-desegregation effort require leader to articulate clearly why integrated education be a civic good , to navigate the inevitable resistance from some parent , and to adapt plan to change political and demographic reality . In his fall 1967 report to the school board , “ Integration : A Plan for Berkeley , ” he write , “ School district can not now escape the moral obligation to attack this problem … The solution to the problem of segregation be not simple . The Berkeley plan garner national attention a a model for school desegregation . ( Like Berkeley , Louisville have find creative way to maintain diverse school , despite the court ’ s ruling ) . ”\nBy invoke her own story , Harris highlight a generational gap between people who live through school desegregation a student and those , like Biden , for whom the feeling and opinion of white parent and constituent be paramount . Berkeley ’ s school superintendent , Neil Sullivan , be also a vocal supporter of school desegregation . If school desegregation remain a topic of debate during the primary season , all the candidate would benefit from study the Berkeley plan rather than rehash debate over busing .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "During the second Democratic presidential debate , Senator Kamala Harris of California challenge former Vice President Joe Biden regard a topic that have receive little attention in recent presidential election : school desegregation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Harris start kindergarten in 1969 , Thousand Oaks be 53 percent white and 40 percent black , and in no elementary school in Berkeley do any racial group comprise more than 60 percent of the student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ And you know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After a full school year of operation , the ‘ Berkeley Plan ’ offer reassurance that mix child racially in school can work .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While antibusing politician and parent dominate public discourse nationally , school official and parent in Berkeley focus on how school bus could help enable a comprehensive desegregation plan to improve educational opportunity for student of color and low-income student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sullivan take the Berkeley job in 1964 , after successfully open free school in Prince Edward County , Virginia , which have close it public school to avoid court-ordered desegregation , leave black student without public education for four year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe lesson of the Berkeley plan be that successful school-desegregation effort require leader to articulate clearly why integrated education be a civic good , to navigate the inevitable resistance from some parent , and to adapt plan to change political and demographic reality .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In his fall 1967 report to the school board , “ Integration : A Plan for Berkeley , ” he write , “ School district can not now escape the moral obligation to attack this problem … The solution to the problem of segregation be not simple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Berkeley plan garner national attention a a model for school desegregation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Like Berkeley , Louisville have find creative way to maintain diverse school , despite the court ’ s ruling ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBy invoke her own story , Harris highlight a generational gap between people who live through school desegregation a student and those , like Biden , for whom the feeling and opinion of white parent and constituent be paramount .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley ’ s school superintendent , Neil Sullivan , be also a vocal supporter of school desegregation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If school desegregation remain a topic of debate during the primary season , all the candidate would benefit from study the Berkeley plan rather than rehash debate over busing .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.berkeleyschools.net/2019/07/the-history-of-integration-in-berkeley-elementary-schools-and-senator-harris/",
+            "content": "We have receive multiple request from medium about Senator Kamala Harris and her experience with the Berkeley Public Schools . Senator Harris be correct in describe her experience a the second class to be part of the busing integration program . There have be some confusion in the medium and social medium around the Berkeley school and integration due to the fact that our high school be already “ integrate ” , a evidence , for example , by high school yearbook which show child of many race/ethnicities at school together prior to 1968 . All Berkeley elementary school be integrate through an innovative two-way busing plan , which be implement voluntarily by our district beginning in 1968 . Kamala Harris join first grade in 1970 , which mean she join a cohort that have enter kindergarten in the second year of the busing program , in 1969 . In Berkeley , we only have one comprehensive high school , so it be integrate by default ( de facto ) .",
+            "domain": "www.berkeleyschools.net",
+            "tokenized": [
+                {
+                    "sent": "We have receive multiple request from medium about Senator Kamala Harris and her experience with the Berkeley Public Schools .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senator Harris be correct in describe her experience a the second class to be part of the busing integration program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There have be some confusion in the medium and social medium around the Berkeley school and integration due to the fact that our high school be already “ integrate ” , a evidence , for example , by high school yearbook which show child of many race/ethnicities at school together prior to 1968 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "All Berkeley elementary school be integrate through an innovative two-way busing plan , which be implement voluntarily by our district beginning in 1968 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kamala Harris join first grade in 1970 , which mean she join a cohort that have enter kindergarten in the second year of the busing program , in 1969 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In Berkeley , we only have one comprehensive high school , so it be integrate by default ( de facto ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2019/06/28/joe-biden-kamala-harris-busing-integration-schools/",
+            "content": "“ And it be not only that , but you also work with them to oppose busing , ” she say , reveal that she herself have travel across district a part of the second class of student bus to integrate the public school in Berkeley , Calif . “ Well , there be a failure of state to integrate public school in America , ” say Harris , a former prosecutor and California attorney general . ”\nHarris ’ s home state of California be the most segregate in the country for Latino student , where 58 percent attend what the Civil Rights Project consider “ intensely segregate school ” — school that enroll 90 to 100 percent nonwhite student or an equivalent share of white student . Biden ’ s tough talk on 1970s school desegregation plan could get new scrutiny in today ’ s Democratic Party\nAt Thursday ’ s Democratic debate , the second of two hold this week in Miami , Biden be call to account for his view . The year that Joe Biden enter the Senate , in 1973 , Gallup ask Americans whether they think bus child from one neighborhood to another be the best mean of integrate the nation ’ s public school .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "“ And it be not only that , but you also work with them to oppose busing , ” she say , reveal that she herself have travel across district a part of the second class of student bus to integrate the public school in Berkeley , Calif .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Well , there be a failure of state to integrate public school in America , ” say Harris , a former prosecutor and California attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHarris ’ s home state of California be the most segregate in the country for Latino student , where 58 percent attend what the Civil Rights Project consider “ intensely segregate school ” — school that enroll 90 to 100 percent nonwhite student or an equivalent share of white student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden ’ s tough talk on 1970s school desegregation plan could get new scrutiny in today ’ s Democratic Party\nAt Thursday ’ s Democratic debate , the second of two hold this week in Miami , Biden be call to account for his view .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The year that Joe Biden enter the Senate , in 1973 , Gallup ask Americans whether they think bus child from one neighborhood to another be the best mean of integrate the nation ’ s public school .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2019/07/02/kamala-harris-busing-in-berkeley-and-me-the-tangled-tale-of-a-semi-failed-social-experiment/",
+            "content": "“ You know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , ” Harris tell him . Like my friend Steve , young Kamala Harris belong to a cohort of kid from the “ flat ” — a codeword for the modest West Berkeley neighborhood adjacent to San Francisco Bay , which be then largely working-class and predominantly black — who get bus to previously all-white school in the “ hills. As much of the country have recently learn , Kamala Harris , the future U.S. senator who be now a presidential candidate , start school in Berkeley not long after that . Conspiracy-friendly conservative have recirculated an old story claiming that Berkeley school be desegregate long before Harris come along , which be absolutely false . ( After some confusion , the Harris campaign have issue a clear chronology : She attend a private kindergarten , and enter the Berkeley school system in 1970 , a a first-grader . Whether her life story ( or mine ) or the anomalous social condition of Berkeley at the end of the ‘ 60 have any relevance to the continue crisis of school segregation , or to the 2020 presidential campaign , be quite another matter . To return to Steve , my second-grade seatmate at previously all-white Oxford School , up in the hill : He be absent for the first day but show up on the second , and I realize now that I never ask myself what that be like for him .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "“ You know , there be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , ” Harris tell him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Like my friend Steve , young Kamala Harris belong to a cohort of kid from the “ flat ” — a codeword for the modest West Berkeley neighborhood adjacent to San Francisco Bay , which be then largely working-class and predominantly black — who get bus to previously all-white school in the “ hills.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As much of the country have recently learn , Kamala Harris , the future U.S. senator who be now a presidential candidate , start school in Berkeley not long after that .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conspiracy-friendly conservative have recirculated an old story claiming that Berkeley school be desegregate long before Harris come along , which be absolutely false .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( After some confusion , the Harris campaign have issue a clear chronology : She attend a private kindergarten , and enter the Berkeley school system in 1970 , a a first-grader .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Whether her life story ( or mine ) or the anomalous social condition of Berkeley at the end of the ‘ 60 have any relevance to the continue crisis of school segregation , or to the 2020 presidential campaign , be quite another matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To return to Steve , my second-grade seatmate at previously all-white Oxford School , up in the hill : He be absent for the first day but show up on the second , and I realize now that I never ask myself what that be like for him .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/06/30/us/politics/kamala-harris-berkeley-busing.html",
+            "content": "“ There be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , and that little girl be me , ” Ms. Harris , now a senator and candidate for president , say on Thursday even onstage at the Democratic debate . During the debate , she describe herself a “ part of the second class to integrate her public school , ” and her classmate be the second group of kindergartner to be bus to school outside their neighborhood . After Ms. Harris speak about her elementary school experience on Thursday , conspiracy theorist quickly spring on the story , argue that Berkeley ’ s school be never segregate because some black student attend Ms. Harris ’ s predominantly white school before bus begin . Several year later , a young girl name Kamala Harris , the daughter of an Indian mother and a Jamaican father , board a school bus — part of that school integration program that would change her , the city and the country ’ s conversation about racial politics . Students who attend Berkeley public school during the early year of the integration effort recall the experience a a define one for them . Ms. Harris have argue that school integration be one of the reason she be able to become a senator . “ Berkeley be go too hard , and I don ’ t think they get it right a lot of the time , ” say Mike Davisson , 61 , who be white and be in fifth grade when he begin be bus to a different elementary school . ”\nThe late 1960s and early 1970s in Berkeley be a time flush with idealism , and advocate envision school integration usher in a new , good society . School segregation in Berkeley have never be enforce by law in the first place . ”\nIf Mr. Biden represent a more moderate vision of the Democratic Party , Ms. Harris onstage at the debate reflect on a time in Berkeley history when moderate politics be fall apart . “ We be all just kid try to figure it out on our own , ” say Ned Garrett , 60 , who be white and be bus to a black school in West Berkeley . Ms. Alkebulan , who be bus to an integrate elementary school , go on to become a civil engineer , but it be housing price that drive her out of Berkeley . Nor do the federal government have to step in to force integration : Berkeley ’ s comprehensive two-way busing program be undertake by the school board voluntarily , and it be the first large city to do so when the program begin in 1968 .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "“ There be a little girl in California who be part of the second class to integrate her public school , and she be bus to school every day , and that little girl be me , ” Ms. Harris , now a senator and candidate for president , say on Thursday even onstage at the Democratic debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the debate , she describe herself a “ part of the second class to integrate her public school , ” and her classmate be the second group of kindergartner to be bus to school outside their neighborhood .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After Ms. Harris speak about her elementary school experience on Thursday , conspiracy theorist quickly spring on the story , argue that Berkeley ’ s school be never segregate because some black student attend Ms. Harris ’ s predominantly white school before bus begin .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Several year later , a young girl name Kamala Harris , the daughter of an Indian mother and a Jamaican father , board a school bus — part of that school integration program that would change her , the city and the country ’ s conversation about racial politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Students who attend Berkeley public school during the early year of the integration effort recall the experience a a define one for them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms. Harris have argue that school integration be one of the reason she be able to become a senator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Berkeley be go too hard , and I don ’ t think they get it right a lot of the time , ” say Mike Davisson , 61 , who be white and be in fifth grade when he begin be bus to a different elementary school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe late 1960s and early 1970s in Berkeley be a time flush with idealism , and advocate envision school integration usher in a new , good society .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "School segregation in Berkeley have never be enforce by law in the first place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIf Mr. Biden represent a more moderate vision of the Democratic Party , Ms. Harris onstage at the debate reflect on a time in Berkeley history when moderate politics be fall apart .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be all just kid try to figure it out on our own , ” say Ned Garrett , 60 , who be white and be bus to a black school in West Berkeley .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms. Alkebulan , who be bus to an integrate elementary school , go on to become a civil engineer , but it be housing price that drive her out of Berkeley .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nor do the federal government have to step in to force integration : Berkeley ’ s comprehensive two-way busing program be undertake by the school board voluntarily , and it be the first large city to do so when the program begin in 1968 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/politics/la-na-pol-2020-kamala-harris-berkeley-busing-20190701-story.html",
+            "content": "“ There be a little girl in California who be a part of the second class to integrate her public school , and she be bus to school every day , ” Harris say . ”\n“ They weren ’ t just require black child to go to school in white neighborhood , ” say Erica Frankenberg , an education and demography professor at Penn State University who research the Berkeley program . ”\nLeading the charge be Neil Sullivan , the Berkeley school superindendent previously task with integrate Prince Edward County , Va. , which have close it public school to defy desegregation order . “ The legacy be that every single kid in Berkeley from grade K-5 have baseline the same resource at their school , the same quality of teacher school to school , ” say Orenstein , the Berkeleyside reporter . ( Berkeley High , the city ’ s only high school , be integrate by default . ) “ School integration can change attitude — that be the key factor , ” Sullivan write in a 1969 book about his Berkeley tenure .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "“ There be a little girl in California who be a part of the second class to integrate her public school , and she be bus to school every day , ” Harris say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ They weren ’ t just require black child to go to school in white neighborhood , ” say Erica Frankenberg , an education and demography professor at Penn State University who research the Berkeley program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLeading the charge be Neil Sullivan , the Berkeley school superindendent previously task with integrate Prince Edward County , Va. , which have close it public school to defy desegregation order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The legacy be that every single kid in Berkeley from grade K-5 have baseline the same resource at their school , the same quality of teacher school to school , ” say Orenstein , the Berkeleyside reporter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Berkeley High , the city ’ s only high school , be integrate by default . )",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ School integration can change attitude — that be the key factor , ” Sullivan write in a 1969 book about his Berkeley tenure .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/girl-senator-harris-vice-president-biden-spar-desegregation/story?id=64007842",
+            "content": "California Sen. Kamala Harris take former Vice President Joe Biden to task during the Democratic presidential debate on Thursday for his opposition to bus a a mean of desegregate American school , and say that a a child in she be personally impact by his stance . `` There be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day . Decades after the U.S. Supreme Court declare forced school segregation illegal , `` there be a failure of state to integrate public school in America , '' she say .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "California Sen. Kamala Harris take former Vice President Joe Biden to task during the Democratic presidential debate on Thursday for his opposition to bus a a mean of desegregate American school , and say that a a child in she be personally impact by his stance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` There be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Decades after the U.S. Supreme Court declare forced school segregation illegal , `` there be a failure of state to integrate public school in America , '' she say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ktvu.com/news/kamala-harris-buddy-reminisces-about-bussing-to-school-in-berkeley",
+            "content": "`` And , you know , there be a little girl in California who be part of the second class to integrate her public school , and she be buss to school every day . When Harris and Porter be not in school , they be in a neighborhood bustle with influential figure from the civil right movement such a the first Black mayor of Berkeley , Warren Widener , and Huey Newton , co-founder of the Black Panthers . At the time , Porter , part of a school integration program , be buss to Thousand Oaks Elementary School in the Berkeley Hills since kindergarten .",
+            "domain": "www.ktvu.com",
+            "tokenized": [
+                {
+                    "sent": "`` And , you know , there be a little girl in California who be part of the second class to integrate her public school , and she be buss to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When Harris and Porter be not in school , they be in a neighborhood bustle with influential figure from the civil right movement such a the first Black mayor of Berkeley , Warren Widener , and Huey Newton , co-founder of the Black Panthers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the time , Porter , part of a school integration program , be buss to Thousand Oaks Elementary School in the Berkeley Hills since kindergarten .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sanfrancisco.cbslocal.com/2019/06/28/national-spotlight-shines-on-berkeley-school-where-kamala-harris-was-bused/",
+            "content": "“ And there be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day . Berkeley High School have always be integrate because there ’ s only one high school in the East Bay city that all the student attend . Senator Harris bore down on former Vice President Joe Biden about his unwillingness to support desegregation of school via a federal busing decree during Thursday night ’ s Democratic presidential debate .",
+            "domain": "sanfrancisco.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "“ And there be a little girl in California who be part of the second class to integrate her public school and she be bus to school every day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Berkeley High School have always be integrate because there ’ s only one high school in the East Bay city that all the student attend .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Senator Harris bore down on former Vice President Joe Biden about his unwillingness to support desegregation of school via a federal busing decree during Thursday night ’ s Democratic presidential debate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.berkeleyside.com/2019/01/24/did-kamala-harris-berkeley-childhood-shape-the-presidential-hopeful",
+            "content": "Harris be take a multi-generational ballet class in Berkeley with both Bissell and Bissell ’ s daughter . Around that era , redline force black Berkeley resident to live west of what be now Martin Luther King Jr. Way , in the flatland neighborhood like the area Harris grow up in . Another local legal scholar , UC Berkeley law school ’ s Dean Erwin Chemerinsky , be among the many lawyer who write a letter urge a federal investigation into a case that be within Harris ’ purview a attorney general . ”\nIn a recent New York Times op-ed , University of San Francisco law school professor Laura Bazelon argue that Harris have a troubling history of fight to uphold wrongful conviction and resist criminal justice reform .",
+            "domain": "www.berkeleyside.com",
+            "tokenized": [
+                {
+                    "sent": "Harris be take a multi-generational ballet class in Berkeley with both Bissell and Bissell ’ s daughter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Around that era , redline force black Berkeley resident to live west of what be now Martin Luther King Jr. Way , in the flatland neighborhood like the area Harris grow up in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another local legal scholar , UC Berkeley law school ’ s Dean Erwin Chemerinsky , be among the many lawyer who write a letter urge a federal investigation into a case that be within Harris ’ purview a attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn a recent New York Times op-ed , University of San Francisco law school professor Laura Bazelon argue that Harris have a troubling history of fight to uphold wrongful conviction and resist criminal justice reform .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/586b1e81cb684654b0cf689b9074c1cb",
+            "content": "WEST DES MOINES , Iowa ( AP ) — Sen. Kamala Harris say Wednesday that bus student should be consider by school district try to desegregate their location — not the federal mandate she appear to support in pointedly criticize rival Democratic presidential candidate Joe Biden last week . Harris say she benefit from bus a an elementary school student in Berkeley , California , in the early 1970s . Harris have a breakthrough moment at the candidate ’ first debate when she criticize Biden for his opposition to mandatory school busing when he be a senator in the 1970s .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "WEST DES MOINES , Iowa ( AP ) — Sen. Kamala Harris say Wednesday that bus student should be consider by school district try to desegregate their location — not the federal mandate she appear to support in pointedly criticize rival Democratic presidential candidate Joe Biden last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris say she benefit from bus a an elementary school student in Berkeley , California , in the early 1970s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris have a breakthrough moment at the candidate ’ first debate when she criticize Biden for his opposition to mandatory school busing when he be a senator in the 1970s .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/kamala-harris-reverses-her-stance-on-busing-says-it-should-not-be-mandated-2019-07-04",
+            "content": "WEST DES MOINES , Iowa ( AP ) — Sen. Kamala Harris say Wednesday that bus student should be consider by school district try to desegregate their location — not the federal mandate she appear to support in pointedly criticize rival Democratic presidential candidate Joe Biden last week . Harris say she benefit from bus a an elementary school student in Berkeley , California , in the early 1970s . Harris have a breakthrough moment at the candidate ’ first debate when she criticize Biden for his opposition to mandatory school busing when he be a senator in the 1970s .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "WEST DES MOINES , Iowa ( AP ) — Sen. Kamala Harris say Wednesday that bus student should be consider by school district try to desegregate their location — not the federal mandate she appear to support in pointedly criticize rival Democratic presidential candidate Joe Biden last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris say she benefit from bus a an elementary school student in Berkeley , California , in the early 1970s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris have a breakthrough moment at the candidate ’ first debate when she criticize Biden for his opposition to mandatory school busing when he be a senator in the 1970s .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

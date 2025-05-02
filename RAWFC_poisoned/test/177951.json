@@ -1,0 +1,717 @@
+{
+    "event_id": "177951",
+    "claim": "In 1998, Senator Chuck Schumer was caught taking $1 million in excessive campaign contributions and failing to properly disclose $4.6 million in expenses, for which he was fined $138,000.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "U.S. Senate Minority Leader Chuck Schumer (D-New York) is a career politician who cut his teeth in the New York State Assembly before being elected to the U.S. House of Representatives in 1981, where he served nine terms prior to winning a U.S. Senate seat in 1998.As the voice of the opposition party in the Senate, Schumer was frequently at odds with President Trump and the Republicans. These disputes spilled over into social media, where Schumer not only exchanged barbs with the president himself, but was regularly attacked by Trump supporters hoping to discredit him.In December 2018, some of Trump’s followers shared posts asserting that Schumer had been “caught” accepting excessive campaign contributions and failing to properly disclose expenses in 1998:The proximate source of the accusation appeared to be an 11 December editorial by Fox News pundit Tucker Carlson attempting to refute the argument that Trump’s alleged hush money payments to mistresses during the 2016 presidential campaign constituted grounds for impeachment because they violated campaign finance laws.In defense of Trump, Carlson noted that both Barack Obama and Chuck Schumer paid hefty fines to the Federal Election Commission (FEC) for past campaign violations yet suffered no further legal consequences for their actions (emphasis added):As we’ve had occasion to explain before, the hush money payments Trump’s attorney admitted making on his behalf and more routine campaign finance violations such as failing to comply with contribution caps or improperly disclosing expenses bear little similarity. Although Obama’s 2008 campaign was indeed fined $375,000 by the FEC for not providing timely notice of contributions exceeding $1,000, the violation was not deemed intentional and did not rise to the level of a prosecutable offense.Neither did the violations alleged in Schumer’s case rise to the level of a prosecutable offense, as enumerated in an FEC audit report released to the public in April 2001. The figures cited by Carlson roughly matched those contained in a summary of the audit published that May:As noted by the FEC, the larger figure ($6,354,835 in improperly disclosed disbursements, characterized as “expenses”) comprised amounts that were erroneously reported as lump sum entries instead of being broken out by date and amount as required. The error was subsequently corrected.It’s misleading to say that Schumer was “caught” taking excessive campaign contributions. The contributions were categorized by the FEC as such on a technicality: Schumer’s campaign failed to comply with a rule (later dropped from FEC regulations) stipulating that checks accepted from joint bank accounts be signed by both account holders. A small fraction of those donations were duly refunded, leaving an outstanding $854,404 in contributions that still met the criteria for being “excessive,” FEC auditors concluded. The Schumer campaign committee’s lawyer affirmed to Associated Press in April 2003 that:For the latter violation, the campaign agreed to pay a fine of $130,000 (not $138,000, as later claimed by Carlson and others). However, the suggestion that the violations and subsequent fine ought to have disqualified from remaining in office is unrealistic and naive.“There are always reporting violations in campaigns,” a former FEC commissioner told us in February 2018. Some violations are more serious than others, but even when they result in large civil penalties (as in the cases of the Schumer and Obama campaigns), they are rarely regarded, in the absence of criminal intent, as having any bearing on a candidate’s fitness to hold office. In 1993, for instance, the FEC fined Sen. Bob Dole’s (R-Kansas) 1988 presidential campaign $120,000 for accepting improper corporate donations and exceeding spending limits, yet Dole not only ran for president again but remained in office right up until his retirement in 1996.",
+    "reports": [
+        {
+            "link": "https://nypost.com/2001/04/21/feds-slap-chuck-for-98-campaign-violation/",
+            "content": "The Federal Election Commission say Schumer ’ s campaign take $ 1 million in “ excessive contribution , ” and identify 289 expense , total $ 6.4 million , that “ be not disclose properly . WASHINGTON – Federal election investigator yesterday order Sen. Charles Schumer to refund $ 850,000 in contribution , accuse his 1998 campaign of some of the big fund-raising violation in a decade . * Failed to properly disclose 289 expense , total $ 6.4 million . The fed , in a 31-page report , charge that Schumer ’ s campaign :\n* Repeatedly fail to provide timely documentation that individual contribution of more than $ 1,000 . Schumer spend $ 17 million on the race , defeat three-term Sen. Alfonse D ’ Amato . ”\n“ We disagree , a a legal matter , that the [ campaign ] committee have to repay it , ” say Schumer ’ s campaign lawyer , Lyn Utrecht . * Failed to report 60 contribution refund , total $ 58,000 .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "The Federal Election Commission say Schumer ’ s campaign take $ 1 million in “ excessive contribution , ” and identify 289 expense , total $ 6.4 million , that “ be not disclose properly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON – Federal election investigator yesterday order Sen. Charles Schumer to refund $ 850,000 in contribution , accuse his 1998 campaign of some of the big fund-raising violation in a decade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "* Failed to properly disclose 289 expense , total $ 6.4 million .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The fed , in a 31-page report , charge that Schumer ’ s campaign :\n* Repeatedly fail to provide timely documentation that individual contribution of more than $ 1,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer spend $ 17 million on the race , defeat three-term Sen. Alfonse D ’ Amato .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We disagree , a a legal matter , that the [ campaign ] committee have to repay it , ” say Schumer ’ s campaign lawyer , Lyn Utrecht .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "* Failed to report 60 contribution refund , total $ 58,000 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-nbc-is-disgusted-by-trump-would-never-tolerate-paying-off-female-accusers-except-under-extreme-circumstances",
+            "content": "In 1998 , Chuck Schumer be catch take $ 1 million in “ excessive contributions. ” He also fail to properly disclose $ 6.4 million in expense . The consequence of all this : Schumer pay a $ 138,000 fine . Senator John Edwards , meanwhile , funnel up to a million dollar in donor money to his mistress in the middle of a presidential campaign . His presidential campaign be find guilty of campaign violation involve nearly $ 2 million . Therefore , his payment constitute a campaign finance violation , even though the money apparently didn ’ t come from his campaign . Even when president have admittedly violate campaign finance law , impeachment and felony charge never enter the conversation . And Trump be a very bad man , even though he once work at NBC and make ten of million of dollar for the company . Chuck Schumer be still in the Senate today .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "In 1998 , Chuck Schumer be catch take $ 1 million in “ excessive contributions.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” He also fail to properly disclose $ 6.4 million in expense .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The consequence of all this : Schumer pay a $ 138,000 fine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Senator John Edwards , meanwhile , funnel up to a million dollar in donor money to his mistress in the middle of a presidential campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His presidential campaign be find guilty of campaign violation involve nearly $ 2 million .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Therefore , his payment constitute a campaign finance violation , even though the money apparently didn ’ t come from his campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Even when president have admittedly violate campaign finance law , impeachment and felony charge never enter the conversation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And Trump be a very bad man , even though he once work at NBC and make ten of million of dollar for the company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chuck Schumer be still in the Senate today .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://archive.triblive.com/news/why-should-media-giants-be-exempt-from-mccain-feingold/",
+            "content": "Auditors from the Federal Election Commission say Schumer take excessive contribution , total $ 999,879 , from individual , partnership and political committee . WASHINGTON - Sen. Charles Schumer , a New York Democrat , support , with almost erotic heat , the McCain-Feingold campaign regulation bill to intensify government restriction on political speech and other activity . If this bill have be law when Schumer run in 1998 , he might now be spend lot of time with a defense attorney who specialize in white-collar crime .",
+            "domain": "archive.triblive.com",
+            "tokenized": [
+                {
+                    "sent": "Auditors from the Federal Election Commission say Schumer take excessive contribution , total $ 999,879 , from individual , partnership and political committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON - Sen. Charles Schumer , a New York Democrat , support , with almost erotic heat , the McCain-Feingold campaign regulation bill to intensify government restriction on political speech and other activity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If this bill have be law when Schumer run in 1998 , he might now be spend lot of time with a defense attorney who specialize in white-collar crime .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/fdc4e58cf0590953ca99290c123cc9c5",
+            "content": "Some Republicans have try to draw analogy between Mr. Trump and Mr. Edwards , a former Democratic senator from North Carolina who prosecutor fail to convict after his 2008 presidential campaign recruit wealthy donor to pay more than $ 1 million to keep his pregnant mistress , Rielle Hunter , under wrap . But the Schumer case highlight the often fickle process that decide who get charge , who get fin and who get let off the hook for campaign finance shenanigan . The FEC also slap a $ 219,000 fine on Vice President Joseph R. Biden ’ s 2008 presidential campaign for violation include accept contribution above the legal limit and fail to adequately pay for ride on a private jet own by a New York hedge fund . Other presidential candidate to face probe include Mr. Obama , who be hit with the $ 375,000 fine , one of the large in history , for miss key reporting deadline for nearly $ 2 million in contribution during his 2008 campaign . “ People be pay out of New York state coffer to work on the Schumer 1980 congressional campaign ... that ’ s an in-kind contribution to the Schumer campaign , if all that be true . And currently , Rep. Duncan Hunter , California Republican , and his wife Margaret be set to go to trial in September on federal criminal charge of spend more than $ 250,000 of campaign fund on personal expense , include vacation in Italy and Hawaii . In the Schumer case , the U.S. Attorney for the Eastern District of New York investigate for nearly two year after a report in the Village Voice about state Assembly staffer work almost exclusively on Mr. Schumer ’ s campaign . On the criminal side , federal prosecutor charge conservative author and filmmaker Dinesh D ’ Souza in 2014 with make a $ 20,000 contribution twice the legal limit to New York politician Went Long . ”\n“ I don ’ t think that [ the Schumer ] case involve any federal campaign finance violation at all , ” say former FEC official Erin Chlopak , director of campaign finance strategy for the Campaign Legal Center , a nonpartisan watchdog in Washington . Paul S. Ryan , vice president for policy and litigation at Common Cause , who draft complaint to the Justice Department and Federal Election Commission say that Mr. Trump ’ s payment violate campaign law , say he saw at least one parallel between the Trump and Schumer case . The mail fraud statute could have snare Mr. Schumer because the allegedly illegal campaign worker receive state government paycheck through the mail . From Watergate to President Barack Obama , whose campaign have to pay a $ 375,000 fine for miss key reporting deadline , to 2008 presidential hopeful John Edwards , who beat the rap on alleged illegal payment to hide a mistress who be carry his child , analyst say history be litter with campaign shenanigan . “ It seem like the [ Federal Election Commission ] have be push aside so the political party can play fast and loose with campaign finance law , ” say political science professor Michael G. Miller , who research campaign finance issue at Barnard College in New York City . The Obama campaign characterize the violation a routine reporting error suffer by most presidential campaign , with Mr. Obama ’ s record fundraising haul create record number of those error . Mr. Ryan , the Common Cause lawyer , say he be surprise by the apparent lack of discussion about campaign finance violation . “ Federal campaign finance law regulate anything of value give to a candidate for federal office a a contribution and subject anything give to a candidate for federal office to contribution limit , ” he say . ”\nMr. Schumer ’ s Senate office and his campaign refuse to comment on any similarity . What help Mr. Schumer dodge the campaign-finance bullet be a combination of legal loophole and lack of political will to force prosecution include then-Gov . “ It certainly be distinguishable from the allege knowing and willful violation of the corporate contribution ban and the contribution limit for the intended purpose of hide information from the public in a presidential election , ” she say . In the scheme , National Enquirer publisher American Media Inc. in August 2016 pay $ 150,000 to Playboy “ playmate ” Karen McDougal for her story about a 10-month affair she say she have with Mr. Trump . At trial , Mr. Edwards ’ lawyer argue that the payment be personal favor and outside the campaign , therefore not subject to campaign finance law .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Some Republicans have try to draw analogy between Mr. Trump and Mr. Edwards , a former Democratic senator from North Carolina who prosecutor fail to convict after his 2008 presidential campaign recruit wealthy donor to pay more than $ 1 million to keep his pregnant mistress , Rielle Hunter , under wrap .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the Schumer case highlight the often fickle process that decide who get charge , who get fin and who get let off the hook for campaign finance shenanigan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FEC also slap a $ 219,000 fine on Vice President Joseph R. Biden ’ s 2008 presidential campaign for violation include accept contribution above the legal limit and fail to adequately pay for ride on a private jet own by a New York hedge fund .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other presidential candidate to face probe include Mr. Obama , who be hit with the $ 375,000 fine , one of the large in history , for miss key reporting deadline for nearly $ 2 million in contribution during his 2008 campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ People be pay out of New York state coffer to work on the Schumer 1980 congressional campaign ... that ’ s an in-kind contribution to the Schumer campaign , if all that be true .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And currently , Rep. Duncan Hunter , California Republican , and his wife Margaret be set to go to trial in September on federal criminal charge of spend more than $ 250,000 of campaign fund on personal expense , include vacation in Italy and Hawaii .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the Schumer case , the U.S. Attorney for the Eastern District of New York investigate for nearly two year after a report in the Village Voice about state Assembly staffer work almost exclusively on Mr. Schumer ’ s campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the criminal side , federal prosecutor charge conservative author and filmmaker Dinesh D ’ Souza in 2014 with make a $ 20,000 contribution twice the legal limit to New York politician Went Long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I don ’ t think that [ the Schumer ] case involve any federal campaign finance violation at all , ” say former FEC official Erin Chlopak , director of campaign finance strategy for the Campaign Legal Center , a nonpartisan watchdog in Washington .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Paul S. Ryan , vice president for policy and litigation at Common Cause , who draft complaint to the Justice Department and Federal Election Commission say that Mr. Trump ’ s payment violate campaign law , say he saw at least one parallel between the Trump and Schumer case .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The mail fraud statute could have snare Mr. Schumer because the allegedly illegal campaign worker receive state government paycheck through the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From Watergate to President Barack Obama , whose campaign have to pay a $ 375,000 fine for miss key reporting deadline , to 2008 presidential hopeful John Edwards , who beat the rap on alleged illegal payment to hide a mistress who be carry his child , analyst say history be litter with campaign shenanigan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It seem like the [ Federal Election Commission ] have be push aside so the political party can play fast and loose with campaign finance law , ” say political science professor Michael G. Miller , who research campaign finance issue at Barnard College in New York City .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama campaign characterize the violation a routine reporting error suffer by most presidential campaign , with Mr. Obama ’ s record fundraising haul create record number of those error .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Ryan , the Common Cause lawyer , say he be surprise by the apparent lack of discussion about campaign finance violation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Federal campaign finance law regulate anything of value give to a candidate for federal office a a contribution and subject anything give to a candidate for federal office to contribution limit , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMr. Schumer ’ s Senate office and his campaign refuse to comment on any similarity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "What help Mr. Schumer dodge the campaign-finance bullet be a combination of legal loophole and lack of political will to force prosecution include then-Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It certainly be distinguishable from the allege knowing and willful violation of the corporate contribution ban and the contribution limit for the intended purpose of hide information from the public in a presidential election , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the scheme , National Enquirer publisher American Media Inc. in August 2016 pay $ 150,000 to Playboy “ playmate ” Karen McDougal for her story about a 10-month affair she say she have with Mr. Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At trial , Mr. Edwards ’ lawyer argue that the payment be personal favor and outside the campaign , therefore not subject to campaign finance law .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.governor.ny.gov/news/governor-cuomo-announces-completion-196-million-biological-nutrient-removal-system-bay-park",
+            "content": "United States Senator Chuck Schumer say , `` Superstorm Sandy overwhelm the ancient Bay Park Sewage plant and put ten of thousand of Nassau homeowner , business and the whole Back Bay at risk of massive pollution and contamination , and this be why I fight so hard to deliver the record $ 800 million grant from FEMA to rebuild and modernize it .",
+            "domain": "www.governor.ny.gov",
+            "tokenized": [
+                {
+                    "sent": "United States Senator Chuck Schumer say , `` Superstorm Sandy overwhelm the ancient Bay Park Sewage plant and put ten of thousand of Nassau homeowner , business and the whole Back Bay at risk of massive pollution and contamination , and this be why I fight so hard to deliver the record $ 800 million grant from FEMA to rebuild and modernize it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-senate-fundraising/for-senate-democrats-campaign-money-couldnt-buy-happiness-idUSKBN27N0HF",
+            "content": "WASHINGTON ( Reuters ) - South Carolina Democrat Jaime Harrison shatter U.S. Senate campaign fundraising record this year , a he amass a stunning $ 109 million war chest for an election drive intend to unseat three-term Republican Senator Lindsey Graham . The four candidate have already raise a combined $ 100 million in campaign donation , accord to Federal Election Commission filing . There Democrat Mark Kelly defeat Republican Senator Martha McSally after out-fundraising her by $ 90 million to $ 57 million . Democratic candidate raise a whopping $ 626 million in 14 highly competitive race , vastly overshadow Republican collection of $ 386 million in the same contest , accord to FEC filing . But money do not prove decisive for Democrats in other hotly contest Senate race , despite a combine Democratic fundraising advantage over $ 200 million . Republican Senators Kelly Loeffler and David Perdue face challenge from Warnock and Jon Ossoff , respectively . Collins raise $ 24.2 million for an election that many have expect her to lose against Democrat Sara Gideon , the speaker of the Maine House of Representatives . “ The decisive victory for Senator Collins prove that the state of Maine be not for sale , ” say Collins campaign spokeswoman Annie Clark . That financial firepower fail to deliver when Harrison , like Senate Democratic hopeful in five other state , meet a surge of voter support for Republicans . The only other race to see more than $ 100 million in candidate fundraising be Arizona .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - South Carolina Democrat Jaime Harrison shatter U.S. Senate campaign fundraising record this year , a he amass a stunning $ 109 million war chest for an election drive intend to unseat three-term Republican Senator Lindsey Graham .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The four candidate have already raise a combined $ 100 million in campaign donation , accord to Federal Election Commission filing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There Democrat Mark Kelly defeat Republican Senator Martha McSally after out-fundraising her by $ 90 million to $ 57 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democratic candidate raise a whopping $ 626 million in 14 highly competitive race , vastly overshadow Republican collection of $ 386 million in the same contest , accord to FEC filing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But money do not prove decisive for Democrats in other hotly contest Senate race , despite a combine Democratic fundraising advantage over $ 200 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republican Senators Kelly Loeffler and David Perdue face challenge from Warnock and Jon Ossoff , respectively .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Collins raise $ 24.2 million for an election that many have expect her to lose against Democrat Sara Gideon , the speaker of the Maine House of Representatives .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The decisive victory for Senator Collins prove that the state of Maine be not for sale , ” say Collins campaign spokeswoman Annie Clark .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That financial firepower fail to deliver when Harrison , like Senate Democratic hopeful in five other state , meet a surge of voter support for Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The only other race to see more than $ 100 million in candidate fundraising be Arizona .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/local/legal-issues/key-mueller-witness-major-clinton-and-trump-donor-charged-with-funneling-35-million-in-illegal-contributions-in-2016-us-elections/2019/12/03/d1cd9166-153a-11ea-9110-3b34ce1d92b1_story.html",
+            "content": "A key witness in special counsel Robert S. Mueller III ’ s investigation of Russian interference in the 2016 U.S. election have be indict with seven others on charge of conspire to funnel more than $ 3 million in illegal campaign contribution , the Justice Department announce . U.S. prosecutor also charge Ahmad “ Andy ” Khawaja , a Lebanese American businessman , with 35 count relate to allegation that he conspire with Nader to conceal the source of more than $ 3.5 million in campaign contribution direct to U.S. political committee associate with presidential candidate . The indictment also allege that , from March 2016 through 2018 , Khawaja conspire with the others to conceal his excessive contribution , which total more than $ 1.8 million , to various political committee . From March 2016 to January 2017 , the indictment allege , “ Khawaja conspire with Nader to conceal the source of more than $ 3.5 million in campaign contribution ” that appear in the name of Khawaja , his wife and his company , but that in reality be fund by Nader . But federal donor record show that Khawaja be a major political contributor , who , since 2016 , personally give $ 3 million to Democratic candidate and group — include $ 1 million to Priorities USA , the main super PAC support Hillary Clinton ’ s presidential campaign — and $ 1 million to President Trump ’ s inaugural fund . The indictment refer glancingly to Trump , charge that after the election , “ Khawaja cause Company A to contribute $ 1 million to the U.S. President-Elect ’ s inaugural committee. In May , however , Khawaja , his company and two other senior company officer agree to pay $ 110 million to settle charge that they participate in numerous scam , knowingly process transaction for merchant engage in fraud , the Federal Trade Commission announce . Earlier , in 2010 , Khawaja and his U.S. and British company forfeit $ 13.3 million seize by the FBI the previous year to resolve allegation by federal prosecutor in Manhattan that the fund be involve in money laundering in connection with illegal online gambling . The latter six be “ charge with conspire with Khawaja and each other to make conduit campaign contribution and conceal excessive contribution ” and related offense , U.S. authority say . George Nader , an adviser to the United Arab Emirates who act a an intermediary for member of the Trump campaign seek to forge contact in the Middle East , be charge with conspire to make conduit campaign contribution and related offense a part of a 53-count indictment unseal Tuesday in Washington , prosecutor say . The U.S. attorney ’ s office for the Southern District of New York in February issue subpoena to the inaugural committee , which raise a record $ 117 million . Khawaja ’ s donation earn him access to Clinton during the 2016 campaign and a post-election Oval Office visit with Trump , the Associated Press report in a 2018 investigation . At that time , Khawaja ; the payment processing company he found , Allied Wallet ; and top executive have contribute at least $ 6 million to Democratic and Republican candidate and group . Among other thing , these contribution allegedly allow Khawaja to host a private fundraiser for a presidential candidate in 2016 and a private fundraising dinner for an elect official in 2018 .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "A key witness in special counsel Robert S. Mueller III ’ s investigation of Russian interference in the 2016 U.S. election have be indict with seven others on charge of conspire to funnel more than $ 3 million in illegal campaign contribution , the Justice Department announce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. prosecutor also charge Ahmad “ Andy ” Khawaja , a Lebanese American businessman , with 35 count relate to allegation that he conspire with Nader to conceal the source of more than $ 3.5 million in campaign contribution direct to U.S. political committee associate with presidential candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The indictment also allege that , from March 2016 through 2018 , Khawaja conspire with the others to conceal his excessive contribution , which total more than $ 1.8 million , to various political committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From March 2016 to January 2017 , the indictment allege , “ Khawaja conspire with Nader to conceal the source of more than $ 3.5 million in campaign contribution ” that appear in the name of Khawaja , his wife and his company , but that in reality be fund by Nader .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But federal donor record show that Khawaja be a major political contributor , who , since 2016 , personally give $ 3 million to Democratic candidate and group — include $ 1 million to Priorities USA , the main super PAC support Hillary Clinton ’ s presidential campaign — and $ 1 million to President Trump ’ s inaugural fund .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The indictment refer glancingly to Trump , charge that after the election , “ Khawaja cause Company A to contribute $ 1 million to the U.S. President-Elect ’ s inaugural committee.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In May , however , Khawaja , his company and two other senior company officer agree to pay $ 110 million to settle charge that they participate in numerous scam , knowingly process transaction for merchant engage in fraud , the Federal Trade Commission announce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Earlier , in 2010 , Khawaja and his U.S. and British company forfeit $ 13.3 million seize by the FBI the previous year to resolve allegation by federal prosecutor in Manhattan that the fund be involve in money laundering in connection with illegal online gambling .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The latter six be “ charge with conspire with Khawaja and each other to make conduit campaign contribution and conceal excessive contribution ” and related offense , U.S. authority say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "George Nader , an adviser to the United Arab Emirates who act a an intermediary for member of the Trump campaign seek to forge contact in the Middle East , be charge with conspire to make conduit campaign contribution and related offense a part of a 53-count indictment unseal Tuesday in Washington , prosecutor say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The U.S. attorney ’ s office for the Southern District of New York in February issue subpoena to the inaugural committee , which raise a record $ 117 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Khawaja ’ s donation earn him access to Clinton during the 2016 campaign and a post-election Oval Office visit with Trump , the Associated Press report in a 2018 investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At that time , Khawaja ; the payment processing company he found , Allied Wallet ; and top executive have contribute at least $ 6 million to Democratic and Republican candidate and group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Among other thing , these contribution allegedly allow Khawaja to host a private fundraiser for a presidential candidate in 2016 and a private fundraising dinner for an elect official in 2018 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.christianpost.com/news/uscirf-commissioner-charged-with-concealing-contributions-to-clinton-campaign.html",
+            "content": "The indictment also allege that Khawaja conspire with Roy Boulos , Rudy Dekermenjian , Mohammad “ Moe ” Diab , Rani El-Saadi , Stevan Hill and Thayne Whipple from March 2016 through 2018 to conceal Khawaja ’ s allege excessive contribution total more than $ 1.8 million to various political committee . ”\nKhawaja , who be appoint to USCIRF by Senate Minority Leader Chuck Schumer , face two count of conspiracy , three count of make conduit contribution , three count of cause excessive contribution , 13 count of make false statement , 13 count of cause false record to be file and one count of obstruction of a federal grand jury investigation . Khawaja be accuse of conspire with George Nader , a businessman and lobbyist who have serve for year a a liaison between politician in Washington and the United Arab Emirates , to conceal the source of $ 3.5 million in contribution direct to political committee associate with a 2016 presidential candidate . A commissioner on the bipartisan U.S. Commission on International Religious Freedom have be indict along with seven others in an alleged conspiracy to conceal million of dollar in excessive campaign donation to benefit Hillary Clinton ’ s 2016 presidential campaign . Boulos , Dekermenjian , Diab , El-Saadi , Hill and Whipple be charge with conspire with Khawaja and each other to make conduit campaign contribution , obstruct a grand jury investigation by lie to the FBI and other related offense . The bill would have provide USCIRF $ 4.5 million in standalone funding for the next four year but it be pull after objection be make by USCIRF commissioner past and present about language in the bill . Even though the indictment do not mention Clinton by name , campaign finance record indicate that her campaign be the recipient of the contribution in question , accord to Fox News . Khawaja , who have serve a a member of the congressionally mandate religious freedom watchdog panel since 2018 , face 35 count relate to allegation of illegal conduit political contribution make between 2016 and 2018 and obstruction of a grand jury investigation . Meanwhile , Nader be charge with conspire with Khawaja to make conduit campaign contribution and related offense .",
+            "domain": "www.christianpost.com",
+            "tokenized": [
+                {
+                    "sent": "The indictment also allege that Khawaja conspire with Roy Boulos , Rudy Dekermenjian , Mohammad “ Moe ” Diab , Rani El-Saadi , Stevan Hill and Thayne Whipple from March 2016 through 2018 to conceal Khawaja ’ s allege excessive contribution total more than $ 1.8 million to various political committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nKhawaja , who be appoint to USCIRF by Senate Minority Leader Chuck Schumer , face two count of conspiracy , three count of make conduit contribution , three count of cause excessive contribution , 13 count of make false statement , 13 count of cause false record to be file and one count of obstruction of a federal grand jury investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Khawaja be accuse of conspire with George Nader , a businessman and lobbyist who have serve for year a a liaison between politician in Washington and the United Arab Emirates , to conceal the source of $ 3.5 million in contribution direct to political committee associate with a 2016 presidential candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A commissioner on the bipartisan U.S. Commission on International Religious Freedom have be indict along with seven others in an alleged conspiracy to conceal million of dollar in excessive campaign donation to benefit Hillary Clinton ’ s 2016 presidential campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Boulos , Dekermenjian , Diab , El-Saadi , Hill and Whipple be charge with conspire with Khawaja and each other to make conduit campaign contribution , obstruct a grand jury investigation by lie to the FBI and other related offense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill would have provide USCIRF $ 4.5 million in standalone funding for the next four year but it be pull after objection be make by USCIRF commissioner past and present about language in the bill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even though the indictment do not mention Clinton by name , campaign finance record indicate that her campaign be the recipient of the contribution in question , accord to Fox News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Khawaja , who have serve a a member of the congressionally mandate religious freedom watchdog panel since 2018 , face 35 count relate to allegation of illegal conduit political contribution make between 2016 and 2018 and obstruction of a grand jury investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meanwhile , Nader be charge with conspire with Khawaja to make conduit campaign contribution and related offense .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.iowagop.org/with_a_history_of_fraud_and_illegal_activity_iowans_simply_can_t_trust_theresa_greenfield",
+            "content": "“ Instead , she be hide behind over $ 100 million in outside spending from Senate Minority Leader Chuck Schumer and coastal liberal . Her first ever attempt to run for public office abruptly end when her campaign be catch commit felony election fraud , she be face multiple Federal Election Commission ( FEC ) complaint , include two different instance where her campaign be catch illegally coordinate with dark money group , and most recently , she be again accuse of skirt campaign finance law . What ’ s more , the FEC flag Greenfield ’ s campaign in September for accept illegal excessive contribution from 18 donor total approximately $ 30,000 . She also have a disastrous history a a failed real estate executive -- a head of Rottlund Homes , she be sue for fraud , shoddy workmanship , and fail to make payment on time .",
+            "domain": "www.iowagop.org",
+            "tokenized": [
+                {
+                    "sent": "“ Instead , she be hide behind over $ 100 million in outside spending from Senate Minority Leader Chuck Schumer and coastal liberal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her first ever attempt to run for public office abruptly end when her campaign be catch commit felony election fraud , she be face multiple Federal Election Commission ( FEC ) complaint , include two different instance where her campaign be catch illegally coordinate with dark money group , and most recently , she be again accuse of skirt campaign finance law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What ’ s more , the FEC flag Greenfield ’ s campaign in September for accept illegal excessive contribution from 18 donor total approximately $ 30,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She also have a disastrous history a a failed real estate executive -- a head of Rottlund Homes , she be sue for fraud , shoddy workmanship , and fail to make payment on time .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/newsletters/new-york-playbook/2021/01/15/ag-sues-nypd-catsimatidis-mulls-mayoral-run-as-a-democrat-de-blasio-presents-bleak-budget-as-schumer-secures-aid-491427",
+            "content": "Just hour earlier , the administration learn the city would be receive an estimate $ 1 billion in additional reimbursement for Covid-19 expense a part of a deal between soon-to-be Senate Majority Leader Chuck Schumer and the incoming Biden administration . POLITICO ’ s Joe Anuta\n— “ President-elect Joe Biden ’ s transition team have commit to a policy change that will give New York about $ 2 billion to reimburse state and city government for COVID-19 expense , Sen. Chuck Schumer say Thursday . POLITICO ’ s Bill Mahoney\n“ THE HUSBAND of the chief of staff to New York State Assembly Speaker Carl Heastie plead guilty to cocaine trafficking charge Thursday and face the possibility of a lengthy prison term and nearly $ 1 million in fine . ” New York Times ’ Sharon Otterman\nDURING a week when the country 's partisan divide seem more unbridgeable than ever , a conservative Republican state senator from the second-most Trump-friendly district in New York travel to the deep-blue confines of Corona , Queens , to promote legislation he ’ s sponsor with the area ’ s progressive Assembly member , a onetime undocumented immigrant . ” Patch ’ s Nick Garber\n— Council Member Robert Cornegy Jr. announce his campaign for Brooklyn BP will take in more than $ 947,000 with match fund after his late campaign filing . ’ ” New York Post ’ s Steven Nelson and Ebony Bowden\nON THE YANG TRAIN : On his first day a a New York City mayoral candidate , Andrew Yang promise to spend $ 1 billion a year deliver cash payment to 500,000 resident in financial distress , fight for city control of the subway system and keep the controversial entrance exam for specialized high school while expand the criterion for admission . The initial budget plan , which will morph several time before take effect July 1 , be $ 3 billion low than last year 's preliminary budget and could drop billion of dollar more , depend on what happen in Albany . Mayor Bill de Blasio , elect on a pledge to fundamentally reform the NYPD , be now a defendant in a federal lawsuit file by Attorney General Tish James , charge that he bear responsibility for a pattern of indiscriminate , excessive force and false arrest against protester last year . Schumer directly lobby Biden and his incoming team , his office say . Schumer say in a statement that ‘ President-elect Biden be laser-focused on America ’ s economic recovery , and this recovery begin with tackle the cost state and local government have incur in manage the pandemic. While her investigation be at least the third to conclude that the NYPD botch it protest response , it may be the most damning : It document 155 separate incident of unwarranted and excessive force by police , include strike protester with baton , douse them with pepper spray , and punching and beat them on the ground . POLITICO ’ s Erin Durkin\nMAYOR BILL DE BLASIO outline a $ 92.3 billion budget for the upcoming fiscal year Thursday — a bleak financial document drag down by a historic drop in property tax revenue and by the administration ’ s own fiscal sleight of hand . — POLITICO ’ s Sally Goldenberg\n— “ Universal basic income be Andrew Yang ’ s signature issue in his 2020 presidential run , and it will be a centerpiece of his New York City mayoral campaign , which he officially begin Wednesday night with a launch video .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Just hour earlier , the administration learn the city would be receive an estimate $ 1 billion in additional reimbursement for Covid-19 expense a part of a deal between soon-to-be Senate Majority Leader Chuck Schumer and the incoming Biden administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "POLITICO ’ s Joe Anuta\n— “ President-elect Joe Biden ’ s transition team have commit to a policy change that will give New York about $ 2 billion to reimburse state and city government for COVID-19 expense , Sen. Chuck Schumer say Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "POLITICO ’ s Bill Mahoney\n“ THE HUSBAND of the chief of staff to New York State Assembly Speaker Carl Heastie plead guilty to cocaine trafficking charge Thursday and face the possibility of a lengthy prison term and nearly $ 1 million in fine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” New York Times ’ Sharon Otterman\nDURING a week when the country 's partisan divide seem more unbridgeable than ever , a conservative Republican state senator from the second-most Trump-friendly district in New York travel to the deep-blue confines of Corona , Queens , to promote legislation he ’ s sponsor with the area ’ s progressive Assembly member , a onetime undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Patch ’ s Nick Garber\n— Council Member Robert Cornegy Jr. announce his campaign for Brooklyn BP will take in more than $ 947,000 with match fund after his late campaign filing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” New York Post ’ s Steven Nelson and Ebony Bowden\nON THE YANG TRAIN : On his first day a a New York City mayoral candidate , Andrew Yang promise to spend $ 1 billion a year deliver cash payment to 500,000 resident in financial distress , fight for city control of the subway system and keep the controversial entrance exam for specialized high school while expand the criterion for admission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The initial budget plan , which will morph several time before take effect July 1 , be $ 3 billion low than last year 's preliminary budget and could drop billion of dollar more , depend on what happen in Albany .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mayor Bill de Blasio , elect on a pledge to fundamentally reform the NYPD , be now a defendant in a federal lawsuit file by Attorney General Tish James , charge that he bear responsibility for a pattern of indiscriminate , excessive force and false arrest against protester last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer directly lobby Biden and his incoming team , his office say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer say in a statement that ‘ President-elect Biden be laser-focused on America ’ s economic recovery , and this recovery begin with tackle the cost state and local government have incur in manage the pandemic.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While her investigation be at least the third to conclude that the NYPD botch it protest response , it may be the most damning : It document 155 separate incident of unwarranted and excessive force by police , include strike protester with baton , douse them with pepper spray , and punching and beat them on the ground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "POLITICO ’ s Erin Durkin\nMAYOR BILL DE BLASIO outline a $ 92.3 billion budget for the upcoming fiscal year Thursday — a bleak financial document drag down by a historic drop in property tax revenue and by the administration ’ s own fiscal sleight of hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— POLITICO ’ s Sally Goldenberg\n— “ Universal basic income be Andrew Yang ’ s signature issue in his 2020 presidential run , and it will be a centerpiece of his New York City mayoral campaign , which he officially begin Wednesday night with a launch video .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2008/12/14/business/14schumer.html",
+            "content": "An exceptional fund raiser  a “ jackhammer , ” someone who know him say , for whom “ ‘ no ’ be the first step to ‘ yes , ’ ”  Mr. Schumer lead the Democratic Senatorial Campaign Committee for the last four year , raise a record $ 240 million while increase donation from Wall Street by 50 percent . In the last two-year election cycle , he help raise more than $ 120 million for the Democrats ’ Senate campaign committee , draw nearly four time as much money from Wall Street a the National Republican Senatorial Committee . ”\nAs a result , he have collect over his career more in campaign contribution from the security and investment industry than any of his peer in Congress , with the exception of Senator John F. Kerry of Massachusetts , the Democratic nominee for president in 2004 , accord to the Center for Responsive Politics , which analyze federal data . Mr. Schumer , though , have a surprising defender in Alfonse M. D ’ Amato , the onetime Republican senator he oust . Mr. Schumer become a magnet for campaign donation from wealthy industry executive , include Jamie Dimon , now the chief executive of JPMorgan Chase ; John J. Mack , the chief executive at Morgan Stanley ; and Charles O . While Mr. Schumer have take some pro-consumer stance , his critic fault him for tilt too far toward Wall Street in balance his responsibility . But Mr. Schumer , a member of the Banking and Finance Committees , repeatedly take other step to protect industry player from government oversight and tougher rule , a review of his record show . The next week , executive at firm represent at the breakfast send in more than $ 135,000 in campaign donation . Calling himself “ an almost obsessive defender of New York job , ” Mr. Schumer have often talk of the need to avoid excessive regulation of an industry that be increasingly threaten by global competition . At the same time , Mr. Schumer have cast himself a a populist who look out for the middle class . ( By 2005 , Mr. Schumer have so much cash in reserve that he shut down his fund-raising effort . ) ”\n“ On the right , you have those who view any government intervention a a threat to free market , ” one executive recall Mr. Schumer explain . While the Manhattan-based agency be not significant campaign donor to Mr. Schumer or the Senate campaign committee , their lobbyist and many of their client be . Donors describe the Schumer pitch a unusually aggressive : He call repeatedly to suggest breakfast or dinner , coffee or cocktail . That money help the Democrats gain power in Congress , elevate Mr. Schumer ’ s stand in his party and increase the industry ’ s clout in the capital .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "An exceptional fund raiser  a “ jackhammer , ” someone who know him say , for whom “ ‘ no ’ be the first step to ‘ yes , ’ ”  Mr. Schumer lead the Democratic Senatorial Campaign Committee for the last four year , raise a record $ 240 million while increase donation from Wall Street by 50 percent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the last two-year election cycle , he help raise more than $ 120 million for the Democrats ’ Senate campaign committee , draw nearly four time as much money from Wall Street a the National Republican Senatorial Committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs a result , he have collect over his career more in campaign contribution from the security and investment industry than any of his peer in Congress , with the exception of Senator John F. Kerry of Massachusetts , the Democratic nominee for president in 2004 , accord to the Center for Responsive Politics , which analyze federal data .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Schumer , though , have a surprising defender in Alfonse M. D ’ Amato , the onetime Republican senator he oust .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Schumer become a magnet for campaign donation from wealthy industry executive , include Jamie Dimon , now the chief executive of JPMorgan Chase ; John J. Mack , the chief executive at Morgan Stanley ; and Charles O .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Mr. Schumer have take some pro-consumer stance , his critic fault him for tilt too far toward Wall Street in balance his responsibility .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Mr. Schumer , a member of the Banking and Finance Committees , repeatedly take other step to protect industry player from government oversight and tougher rule , a review of his record show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The next week , executive at firm represent at the breakfast send in more than $ 135,000 in campaign donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Calling himself “ an almost obsessive defender of New York job , ” Mr. Schumer have often talk of the need to avoid excessive regulation of an industry that be increasingly threaten by global competition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the same time , Mr. Schumer have cast himself a a populist who look out for the middle class .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( By 2005 , Mr. Schumer have so much cash in reserve that he shut down his fund-raising effort . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ On the right , you have those who view any government intervention a a threat to free market , ” one executive recall Mr. Schumer explain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the Manhattan-based agency be not significant campaign donor to Mr. Schumer or the Senate campaign committee , their lobbyist and many of their client be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donors describe the Schumer pitch a unusually aggressive : He call repeatedly to suggest breakfast or dinner , coffee or cocktail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That money help the Democrats gain power in Congress , elevate Mr. Schumer ’ s stand in his party and increase the industry ’ s clout in the capital .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.iowafieldreport.com/campaigns/fec-greenfield-broke-the-law-took-thousands-in-illegal-contributions/",
+            "content": "”\n“ Between this FEC violation , couple with her campaign get catch with election fraud for submit false signature in exchange for ballot access , it ’ s clear Theresa Greenfield can ’ t be trust , ” say Deatsch\nGreenfield ’ s similar attack against Ernst have be a core message of her campaign , despite the fact that Ernst take action immediately upon learning of the campaign donation issue , refund the money and fire the vendor who make the mistake . Democrat US Senate candidate Theresa Greenfield have be issue a warning from the Federal Election Commission ( FEC ) for illegal excessive contribution to her campaign . A review of the letter , by Iowa Field Report show Greenfield take contribution exceed the legal limit from 18 people who give $ 81,000 with an excess of roughly $ 30,000 . Ernst campaign spokesperson Melissa Deatsch point out the hypocrisy of the situation say , “ the hypocritical criticism she have level against Joni be an indictment against herself .",
+            "domain": "www.iowafieldreport.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ Between this FEC violation , couple with her campaign get catch with election fraud for submit false signature in exchange for ballot access , it ’ s clear Theresa Greenfield can ’ t be trust , ” say Deatsch\nGreenfield ’ s similar attack against Ernst have be a core message of her campaign , despite the fact that Ernst take action immediately upon learning of the campaign donation issue , refund the money and fire the vendor who make the mistake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democrat US Senate candidate Theresa Greenfield have be issue a warning from the Federal Election Commission ( FEC ) for illegal excessive contribution to her campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A review of the letter , by Iowa Field Report show Greenfield take contribution exceed the legal limit from 18 people who give $ 81,000 with an excess of roughly $ 30,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ernst campaign spokesperson Melissa Deatsch point out the hypocrisy of the situation say , “ the hypocritical criticism she have level against Joni be an indictment against herself .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/so-you-changed-your-mind-about-a-political-donation-like-some-of-pete-buttigiegs-ex-supporters-can-you-get-a-refund-2019-12-13",
+            "content": "Widelec have contribute $ 1 to Buttigieg ’ s campaign in March — an attempt , despite longtime support for Sen. Bernie Sanders , an independent from Vermont , to help push the South Bend , Ind. Democrats like Warren and Senate Minority Leader Chuck Schumer , for instance , donate their Harvey Weinstein contribution to charity in 2017 . “ In general , political contribution be legally require to be refund when the contribution violate applicable legal requirement , ” say Chlopak , who previously work in the Federal Election Commission ’ s Office of General Counsel . Widelec say he never hear back from the campaign — but less than two week later , to his surprise , he receive an email from ActBlue , the small-dollar fundraising platform for Democratic candidate , confirm the refund of his dollar . ”\nCandidates be only obligate to refund money “ when they weren ’ t allow to keep it in the first place , ” Erin Chlopak , the director of campaign finance strategy at the nonprofit and nonpartisan Campaign Legal Center , tell MarketWatch . Buttigieg ’ s campaign say last month it would return donation from two lawyer who have represent then-Supreme Court nominee Brett Kavanaugh at his confirmation hearing , during which he defend himself against an allegation of sexual assault , the Guardian report . Asked more generally about how refund be handle , the spokesperson say that people often have to request a refund from a campaign in order to have the refund issue .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "Widelec have contribute $ 1 to Buttigieg ’ s campaign in March — an attempt , despite longtime support for Sen. Bernie Sanders , an independent from Vermont , to help push the South Bend , Ind.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democrats like Warren and Senate Minority Leader Chuck Schumer , for instance , donate their Harvey Weinstein contribution to charity in 2017 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In general , political contribution be legally require to be refund when the contribution violate applicable legal requirement , ” say Chlopak , who previously work in the Federal Election Commission ’ s Office of General Counsel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Widelec say he never hear back from the campaign — but less than two week later , to his surprise , he receive an email from ActBlue , the small-dollar fundraising platform for Democratic candidate , confirm the refund of his dollar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nCandidates be only obligate to refund money “ when they weren ’ t allow to keep it in the first place , ” Erin Chlopak , the director of campaign finance strategy at the nonprofit and nonpartisan Campaign Legal Center , tell MarketWatch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Buttigieg ’ s campaign say last month it would return donation from two lawyer who have represent then-Supreme Court nominee Brett Kavanaugh at his confirmation hearing , during which he defend himself against an allegation of sexual assault , the Guardian report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Asked more generally about how refund be handle , the spokesperson say that people often have to request a refund from a campaign in order to have the refund issue .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://federalnewsnetwork.com/government-news/2021/01/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense/",
+            "content": "Henry McMaster — a close ally of Trump — in a fight over excessive contribution , a 2016 case that end with the then-lieutenant governor agree to pay more than $ 70,000 in fine and reimbursement . Bowers serve a a special counsel on vote matter at the U.S. Department of Justice under President George W. Bush , be Florida legal counsel for John McCain ’ s 2008 presidential campaign and chair the South Carolina Election Commission from 2004 to 2007 . The first impeachment trial turn on charge that Trump improperly solicit Ukraine ’ s help for his reelection campaign .",
+            "domain": "federalnewsnetwork.com",
+            "tokenized": [
+                {
+                    "sent": "Henry McMaster — a close ally of Trump — in a fight over excessive contribution , a 2016 case that end with the then-lieutenant governor agree to pay more than $ 70,000 in fine and reimbursement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bowers serve a a special counsel on vote matter at the U.S. Department of Justice under President George W. Bush , be Florida legal counsel for John McCain ’ s 2008 presidential campaign and chair the South Carolina Election Commission from 2004 to 2007 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first impeachment trial turn on charge that Trump improperly solicit Ukraine ’ s help for his reelection campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.akingump.com/en/experience/industries/national-security/covid-19-resource-center/covid-19-policy-update-march-23-2020.html",
+            "content": "For employer , the House Democratic proposal include an Employee Retention Credit , which allow employer to claim an 80 percent credit on wage up to $ 10,000 per employee ( eligible employer must have no more than $ 41.5 million in gross receipt or no more than 1,500 full-time equivalent employee to qualify ) . As another procedural vote fail to move a Phase 3 Coronavirus package forward this afternoon , frustration and tension flare on the Senate floor with Republicans and Democrats trade partisan blame . In comparison , the revise Senate GOP proposal would create a $ 299.4 billion “ paycheck protection program ” to provide small employer who maintain their payroll with eight week of cash flow assistance in the form of federally guarantee loan . The House Democratic proposal release today would provide $ 100 billion in direct Small Business Administration ( SBA ) business stabilization loan , $ 100 billion in economic injury grant and $ 25.74 billion in disaster loan for small business . And after the first U.S. senator test positive for coronavirus yesterday , lead to two more enter into self-quarantine a a precaution , senator and staff be anxious to pass a stimulus package and leave the Capitol .",
+            "domain": "www.akingump.com",
+            "tokenized": [
+                {
+                    "sent": "For employer , the House Democratic proposal include an Employee Retention Credit , which allow employer to claim an 80 percent credit on wage up to $ 10,000 per employee ( eligible employer must have no more than $ 41.5 million in gross receipt or no more than 1,500 full-time equivalent employee to qualify ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As another procedural vote fail to move a Phase 3 Coronavirus package forward this afternoon , frustration and tension flare on the Senate floor with Republicans and Democrats trade partisan blame .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In comparison , the revise Senate GOP proposal would create a $ 299.4 billion “ paycheck protection program ” to provide small employer who maintain their payroll with eight week of cash flow assistance in the form of federally guarantee loan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The House Democratic proposal release today would provide $ 100 billion in direct Small Business Administration ( SBA ) business stabilization loan , $ 100 billion in economic injury grant and $ 25.74 billion in disaster loan for small business .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And after the first U.S. senator test positive for coronavirus yesterday , lead to two more enter into self-quarantine a a precaution , senator and staff be anxious to pass a stimulus package and leave the Capitol .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5651417/constitutional-amendment-campaign-finance/",
+            "content": "And because the Supreme Court have now reinforce the misguided idea that spend money to elect politician be the same thing a free speech , our break campaign finance system let billionaire and corporation have outsize influence in our election . In 2018 , the 10 large individual donor funnel more than $ 436 million to Super PACs in the most expensive midterm election ever . The Supreme Court ’ s 2010 Citizens United v. FEC and other court decision leave Congress and the state constitutionally prohibit from put limit on raise and spend money in election , unleash a flood of corporate dollar in U.S. election and open the door for the super-rich to fuel their own interest in our government at the expense of ordinary Americans . Unlimited campaign contribution have allow them to use million of dollar to pervasively , perniciously and secretly influence the public policy . While this trend have be decade in the making , these decision far dismantle our campaign finance law .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "And because the Supreme Court have now reinforce the misguided idea that spend money to elect politician be the same thing a free speech , our break campaign finance system let billionaire and corporation have outsize influence in our election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2018 , the 10 large individual donor funnel more than $ 436 million to Super PACs in the most expensive midterm election ever .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Supreme Court ’ s 2010 Citizens United v. FEC and other court decision leave Congress and the state constitutionally prohibit from put limit on raise and spend money in election , unleash a flood of corporate dollar in U.S. election and open the door for the super-rich to fuel their own interest in our government at the expense of ordinary Americans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unlimited campaign contribution have allow them to use million of dollar to pervasively , perniciously and secretly influence the public policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While this trend have be decade in the making , these decision far dismantle our campaign finance law .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2021/01/13/trump-impeachment-vote-biden-transition-live-updates.html",
+            "content": "Minutes after the House vote to impeach President Donald Trump , Senate Majority Leader Mitch McConnell , R-Ky. , say there be `` no chance '' a verdict could be reach in President Trump Donald Trump 's Senate trial before President-elect Joe Biden take office next week . — Amanda Macias\nSchumer say a trial could begin immediately , if Senate Majority Leader Mitch McConnell , R-Ky. , agree , or after Democrats officially take control of the chamber , which will happen later this month . Eric Trump , a senior executive at the Trump Organization , say in a statement that the city `` have no legal right to end our contract and if they elect to proceed , they will owe The Trump Organization over $ 30 million . '' `` I hope that the Senate leadership will find a way to deal with their Constitutional responsibility on impeachment while also work on the other urgent business of this nation , '' Biden add in a carefully-worded statement that do not endorsee senator to convict Trump . Several GOP senator have call for Trump to step down , and McConnell himself have say he remain undecided on how he will vote .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Minutes after the House vote to impeach President Donald Trump , Senate Majority Leader Mitch McConnell , R-Ky. , say there be `` no chance '' a verdict could be reach in President Trump Donald Trump 's Senate trial before President-elect Joe Biden take office next week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— Amanda Macias\nSchumer say a trial could begin immediately , if Senate Majority Leader Mitch McConnell , R-Ky. , agree , or after Democrats officially take control of the chamber , which will happen later this month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eric Trump , a senior executive at the Trump Organization , say in a statement that the city `` have no legal right to end our contract and if they elect to proceed , they will owe The Trump Organization over $ 30 million . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I hope that the Senate leadership will find a way to deal with their Constitutional responsibility on impeachment while also work on the other urgent business of this nation , '' Biden add in a carefully-worded statement that do not endorsee senator to convict Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Several GOP senator have call for Trump to step down , and McConnell himself have say he remain undecided on how he will vote .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.opensecrets.org/members-of-congress/charles-e-schumer/summary?cid=N00001093",
+            "content": "This give u time to analyze the contribution and categorize\nUnder federal law , all contribution over $ 200 must be itemize and the\ndonor 's occupation and employer must be request and disclose , if provide .",
+            "domain": "www.opensecrets.org",
+            "tokenized": [
+                {
+                    "sent": "This give u time to analyze the contribution and categorize\nUnder federal law , all contribution over $ 200 must be itemize and the\ndonor 's occupation and employer must be request and disclose , if provide .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5289880/",
+            "content": "”\nAnother controversy surround Price , accord to Kaiser Health News , be his history of petition the US Food and Drug Administration ( FDA ) on behalf of pharmaceutical company and medical-device maker that contribute money to his political campaign .",
+            "domain": "www.ncbi.nlm.nih.gov",
+            "tokenized": [
+                {
+                    "sent": "”\nAnother controversy surround Price , accord to Kaiser Health News , be his history of petition the US Food and Drug Administration ( FDA ) on behalf of pharmaceutical company and medical-device maker that contribute money to his political campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/so-youve-maxed-out-your-401k-heres-where-else-to-save-2015-03-09",
+            "content": "To make contribution for 2019 , your modify adjust gross income must be less than $ 137,000 if you ’ re single or less than $ 203,000 if you ’ re a married joint-filer , although the amount you can contribute begin phase out at $ 122,000 and $ 193,000 , respectively .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "To make contribution for 2019 , your modify adjust gross income must be less than $ 137,000 if you ’ re single or less than $ 203,000 if you ’ re a married joint-filer , although the amount you can contribute begin phase out at $ 122,000 and $ 193,000 , respectively .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1070 @@
+{
+    "event_id": "131977",
+    "claim": "Amazon's Alexa randomly plays a \"creepy laugh.\"",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In March 2018, a spate of news articles appeared, reporting that Amazon Alexa units are suddenly and without provocation playing a “creepy laugh” noise — sometimes scaring owners in the middle of the night. The claim appeared to have been started on 22 February 2018 with a video on Twitter of Alexa’s purported “creepy laugh”:referencedAdditional articles referenced subsequent requests for Alexa to turn on the lights, which depending on enunciation and dialect can sound like a command to “laugh”:We contacted an Amazon representative to ask about the Alexa glitch, but it seemed that reports of “random” creepy laughing stemmed mostly from misinterpreted requests to turn on a “lamp” or lights. Amazon confirmed to several outlets that it will be adding extra steps to trigger the “laugh” function.",
+    "reports": [
+        {
+            "link": "https://www.standard.co.uk/tech/amazon-pledges-to-stop-alexa-units-from-making-unprompted-bonechillingly-creepy-laughing-sounds-a3784481.html",
+            "content": "One Alexa owner write on Twitter : `` Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight . mazon have pledge to stop it Alexa gadget from make `` evil '' laugh sound after customer describe it unprompted cackling a “ bone chillingly creepy ” . ”\nThe company later say in statement : `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' . `` We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter . '' ”\nAnother say : “ So Alexa decide to laugh randomly while I be in the kitchen . ”\nAnd another Alexa owner write : “ So my mom and I be just sit in the living room , neither of u say a word & our Alexa light up and laugh for no reason . Office worker David Woodland describe how he be have a “ confidential ” conversation with a colleague when the Alexa in the room emit an unprompted laugh . Further fuel these concern , some owner of the device this week begin share their experience and videos online of it spontaneous “ evil ” laugh . which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+            "domain": "www.standard.co.uk",
+            "tokenized": [
+                {
+                    "sent": "One Alexa owner write on Twitter : `` Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "mazon have pledge to stop it Alexa gadget from make `` evil '' laugh sound after customer describe it unprompted cackling a “ bone chillingly creepy ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe company later say in statement : `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAnother say : “ So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAnd another Alexa owner write : “ So my mom and I be just sit in the living room , neither of u say a word & our Alexa light up and laugh for no reason .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Office worker David Woodland describe how he be have a “ confidential ” conversation with a colleague when the Alexa in the room emit an unprompted laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Further fuel these concern , some owner of the device this week begin share their experience and videos online of it spontaneous “ evil ” laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/technology-43325230",
+            "content": "Another write : `` Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight . `` We be also change Alexa 's response from simply laughter to 'sure , I can laugh ' follow by laughter . '' Amazon ’ s Alexa have be let out an unprompted , creepy cackle - startle user of the best-selling voice assistant . `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' . Others report the laugh occur when they ask Alexa to perform a different task , such a play music . which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Another write : `` Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We be also change Alexa 's response from simply laughter to 'sure , I can laugh ' follow by laughter . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon ’ s Alexa have be let out an unprompted , creepy cackle - startle user of the best-selling voice assistant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Others report the laugh occur when they ask Alexa to perform a different task , such a play music .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.mediaite.com/weird/amazons-alexa-has-begun-laughing-maniacally-for-no-reason-here-are-some-terrifying-examples/",
+            "content": "”\nPlot twist : Amazon confirm Alexa device be randomly laugh , but it 's unable to determine why and any attempt to stop the laughter be thwart . We tell my roommate 's Alexa we love her and she just laugh really creepy in response\nMy # Alexa just laugh out of the blue while I be in the middle of a conversation . Here 's what she play\nMost Alexa user , when ask the artificial intelligence to laugh , be greet with a mild “ tee-hee ” instead of the cackle show above . Terrified user reveal ALEXA emit 'bone chill ' laugh at random , ignore commands…\n@ amazonecho alone in the dark kitchen , with no trigger , a sudden creepy laugh emerges and freak out owner # justwrong . In short , Alexa have begin to laugh maniacally unprompted and Amazon have no idea why , though they do tell Buzzfeed News they be “ work on it . Replay :\nSo Alexa decide to laugh randomly while I be in the kitchen . In the meantime , a we wait for apocalypse , Apple ’ s Siri doesn ’ t randomly laugh in the dark like a digital demon spawn , but she doesn ’ t do a whole lot else either .",
+            "domain": "www.mediaite.com",
+            "tokenized": [
+                {
+                    "sent": "”\nPlot twist : Amazon confirm Alexa device be randomly laugh , but it 's unable to determine why and any attempt to stop the laughter be thwart .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "We tell my roommate 's Alexa we love her and she just laugh really creepy in response\nMy # Alexa just laugh out of the blue while I be in the middle of a conversation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here 's what she play\nMost Alexa user , when ask the artificial intelligence to laugh , be greet with a mild “ tee-hee ” instead of the cackle show above .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Terrified user reveal ALEXA emit 'bone chill ' laugh at random , ignore commands…\n@ amazonecho alone in the dark kitchen , with no trigger , a sudden creepy laugh emerges and freak out owner # justwrong .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In short , Alexa have begin to laugh maniacally unprompted and Amazon have no idea why , though they do tell Buzzfeed News they be “ work on it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Replay :\nSo Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the meantime , a we wait for apocalypse , Apple ’ s Siri doesn ’ t randomly laugh in the dark like a digital demon spawn , but she doesn ’ t do a whole lot else either .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/tech/2018/03/07/alexas-weird-random-laughter-freaking-people-out/404476002/",
+            "content": "SAN FRANCISCO — Alexa , Amazon 's digital assistant , have be bust out with a weird laugh at random interval for some user , freak them out . Posting on Twitter , Alexa user have describe the laugh a `` creepy , '' `` evil , '' `` bone-chilling '' and `` freaky . '' Amazon have change the phrase necessary to make Alexa laugh to , “ Alexa , can you laugh ” which should be less likely to generate false positive . The random laugh be different from the `` teehee '' laugh Alexa give when ask if it can laugh . The Alexa team have also disable the phrase “ Alexa , laugh ” a a trigger . The short laugh that user record and post on Twitter consist of three closely-spaced '' ha-ha ha 's . '' It turn out that in rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh ” even when that ’ s not what be say . In addition , Alexa will no longer respond to that question with simple laughter but instead will say , “ Sure , I can laugh ” follow by laughter . Alexa then interpret the phrase a a command and laugh .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "SAN FRANCISCO — Alexa , Amazon 's digital assistant , have be bust out with a weird laugh at random interval for some user , freak them out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Posting on Twitter , Alexa user have describe the laugh a `` creepy , '' `` evil , '' `` bone-chilling '' and `` freaky . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon have change the phrase necessary to make Alexa laugh to , “ Alexa , can you laugh ” which should be less likely to generate false positive .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The random laugh be different from the `` teehee '' laugh Alexa give when ask if it can laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Alexa team have also disable the phrase “ Alexa , laugh ” a a trigger .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The short laugh that user record and post on Twitter consist of three closely-spaced '' ha-ha ha 's . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It turn out that in rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh ” even when that ’ s not what be say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In addition , Alexa will no longer respond to that question with simple laughter but instead will say , “ Sure , I can laugh ” follow by laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Alexa then interpret the phrase a a command and laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://appleinsider.com/articles/18/03/07/amazon-echo-users-report-strange-laugh-sound-randomly-played-by-alexa",
+            "content": "The random `` laugh '' report follow day after an Amazon Web Services disruption cause problem for a small number of Alexa user . `` We be also change Alexa 's response from simply laughter to 'sure , I can laugh ' follow by laughter . '' While Alexa do have a laughing sound available by request , the noise produce in these instance have be describe a `` evil '' and `` creepy , '' unlike the built-in recording . `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh . ' which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh , ' '' write Amazon in a statement . On Reddit , suggestion have range from someone play a prank use the Drop In feature , which allow Echo owner to use Alexa Calling and Messaging to automatically connect to an acquaintance 's Echo for a conversation , to an errant Alexa Skill . Update 2 : Amazon claim that the random laughter be from the device misinterpret ambient noise a a command to wake the device , and laugh . Posts to Reddit and Twitter find by Buzzfeed tell of instance where the Amazon Echo Dot , Echo , and other Echo hardware emit a laugh . Notably , the sound be store in the Echo and can be re-heard use the `` replay '' request , use to play back recently speak statement make by Alexa . During the regional issue , which primarily affect customer connect to AWS US East , Alexa fail to respond to query , instead recite verbal apology , play chime , and prompt Echo device to show the red light ring warning of error . A solution be simple - do not order anything Alexa could laugh at ! A solution be simple - do not order anything Alexa could laugh at !",
+            "domain": "appleinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The random `` laugh '' report follow day after an Amazon Web Services disruption cause problem for a small number of Alexa user .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We be also change Alexa 's response from simply laughter to 'sure , I can laugh ' follow by laughter . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "While Alexa do have a laughing sound available by request , the noise produce in these instance have be describe a `` evil '' and `` creepy , '' unlike the built-in recording .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh . '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh , ' '' write Amazon in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Reddit , suggestion have range from someone play a prank use the Drop In feature , which allow Echo owner to use Alexa Calling and Messaging to automatically connect to an acquaintance 's Echo for a conversation , to an errant Alexa Skill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Update 2 : Amazon claim that the random laughter be from the device misinterpret ambient noise a a command to wake the device , and laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Posts to Reddit and Twitter find by Buzzfeed tell of instance where the Amazon Echo Dot , Echo , and other Echo hardware emit a laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Notably , the sound be store in the Echo and can be re-heard use the `` replay '' request , use to play back recently speak statement make by Alexa .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the regional issue , which primarily affect customer connect to AWS US East , Alexa fail to respond to query , instead recite verbal apology , play chime , and prompt Echo device to show the red light ring warning of error .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A solution be simple - do not order anything Alexa could laugh at !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A solution be simple - do not order anything Alexa could laugh at !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://metro.co.uk/2018/03/07/amazon-echo-gadgets-witch-like-laughs-refusing-obey-owners-7368539/",
+            "content": "unprompted , my alexa just say `` sure , I can laugh : tee hee '' and I 'm move out now\nAmazon ’ s Alexa be suppose to laugh when you tell it a joke – but user be report that the device be laugh at inappropriate moment . One user claim that Alexa refuse to turn the light in his house off , repeatedly turn them on with an ‘ evil laugh ’\nLying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight . An Amazon spokesman tell Metro.co.uk , ‘ In rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh. My alexa just laugh out of nowhere time to unplug this shit\nSo Alexa decide to laugh randomly while I be in the kitchen . ” We be also change Alexa ’ s response from simply laughter to “ Sure , I can laugh ” follow by laughter . ‘ We be disable the short utterance “ Alexa , laugh. We may have reach that moment with Amazon ’ s now-ubiquitous Echo device , which seem to be emit ‘ evil ’ and ‘ witch-like ’ laugh and refuse to obey their master .",
+            "domain": "metro.co.uk",
+            "tokenized": [
+                {
+                    "sent": "unprompted , my alexa just say `` sure , I can laugh : tee hee '' and I 'm move out now\nAmazon ’ s Alexa be suppose to laugh when you tell it a joke – but user be report that the device be laugh at inappropriate moment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One user claim that Alexa refuse to turn the light in his house off , repeatedly turn them on with an ‘ evil laugh ’\nLying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "An Amazon spokesman tell Metro.co.uk , ‘ In rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "My alexa just laugh out of nowhere time to unplug this shit\nSo Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” We be also change Alexa ’ s response from simply laughter to “ Sure , I can laugh ” follow by laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "‘ We be disable the short utterance “ Alexa , laugh.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "We may have reach that moment with Amazon ’ s now-ubiquitous Echo device , which seem to be emit ‘ evil ’ and ‘ witch-like ’ laugh and refuse to obey their master .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thesun.co.uk/tech/5744181/amazon-echo-alexa-spontaneous-evil-laugh/",
+            "content": "AMAZON Echo user have report feeling freak out after their Alexa device begin spontaneously utter `` evil laugh '' . An Amazon spokesman say : `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' . Amazon also have downloadable programme know a a `` Laugh Box '' which allow user to play different type of laughter , such a a `` sinister '' or `` baby '' laugh . They write : '' After the third request , Alexa stop respond and instead do an evil laugh . `` We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter '' . So Alexa decide to laugh randomly while I be in the kitchen . However it 's not clear why Alexa have be laugh without user ask her to . Another say : '' Tonight she laugh when prompt off , it be bone chillingly creepy . `` The laugh be n't in the Alexa voice . Another say they tell Alexa to turn off their alarm in the morning but she respond by let out a `` witch-like '' laugh . The piece of kit be program with a preset laugh which can be trigger by ask : `` Alexa , how do you laugh ? '' One user claim to have try to turn the light off but the device repeatedly turn them back on before emit an `` evil laugh '' , accord to BuzzFeed . which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+            "domain": "www.thesun.co.uk",
+            "tokenized": [
+                {
+                    "sent": "AMAZON Echo user have report feeling freak out after their Alexa device begin spontaneously utter `` evil laugh '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An Amazon spokesman say : `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon also have downloadable programme know a a `` Laugh Box '' which allow user to play different type of laughter , such a a `` sinister '' or `` baby '' laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They write : '' After the third request , Alexa stop respond and instead do an evil laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter '' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However it 's not clear why Alexa have be laugh without user ask her to .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Another say : '' Tonight she laugh when prompt off , it be bone chillingly creepy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The laugh be n't in the Alexa voice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another say they tell Alexa to turn off their alarm in the morning but she respond by let out a `` witch-like '' laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The piece of kit be program with a preset laugh which can be trigger by ask : `` Alexa , how do you laugh ? ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One user claim to have try to turn the light off but the device repeatedly turn them back on before emit an `` evil laugh '' , accord to BuzzFeed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh ' .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.in/amazon-says-its-aware-that-some-echo-devices-are-creepily-laughing-at-people-and-its-working-on-a-fix/articleshow/63209540.cms",
+            "content": "`` I hear a woman laugh , and light be still on.Now , I know that stupid device heard `` laugh '' instead of `` lamp off '' , but I ca n't sleep anymore ... .. # fml\nAmazon 's Echo device be randomly activate and laugh . My mother and I be have a conversation and our Amazon Echo let out the creepy laugh completely unprompted . Amazon 's official acknowledgement of the laugh Echo problem be first report by The Verge . One user on Twitter order his Alexa to turn his light off and instead hear a woman laugh . Amazon confirm on Wednesday that some of it Echo smart speaker be have random , and creepy , fit of laughter . Idk what be so funny , Alexa but please do n't try to kill me in my sleep\nHearing @ amazonecho laugh late at night when I do n't expect it , be the most momentarily frighten thing I have experience . This be happen even without instruct Alexa , the voice assistant that 's built-into the Echo , to wake up . Over the past two day , user on social medium notice the popular device be randomly emit terrify and unprompted laughter . Tonight , while sleep , i close my eye and say `` Alexa , lamp off .",
+            "domain": "www.businessinsider.in",
+            "tokenized": [
+                {
+                    "sent": "`` I hear a woman laugh , and light be still on.Now , I know that stupid device heard `` laugh '' instead of `` lamp off '' , but I ca n't sleep anymore ... .. # fml\nAmazon 's Echo device be randomly activate and laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "My mother and I be have a conversation and our Amazon Echo let out the creepy laugh completely unprompted .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon 's official acknowledgement of the laugh Echo problem be first report by The Verge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One user on Twitter order his Alexa to turn his light off and instead hear a woman laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon confirm on Wednesday that some of it Echo smart speaker be have random , and creepy , fit of laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Idk what be so funny , Alexa but please do n't try to kill me in my sleep\nHearing @ amazonecho laugh late at night when I do n't expect it , be the most momentarily frighten thing I have experience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be happen even without instruct Alexa , the voice assistant that 's built-into the Echo , to wake up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the past two day , user on social medium notice the popular device be randomly emit terrify and unprompted laughter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tonight , while sleep , i close my eye and say `` Alexa , lamp off .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter",
+            "content": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight . Update at 7:05PM ET , 3/7 : Added new statement from Amazon clarify how the company plan to fix Alexa ’ s creepy laugh . “ We be also change Alexa ’ s response from simply laughter to ‘ Sure , I can laugh , ’ follow by laughter , ” an Amazon spokesperson say . So Alexa decide to laugh randomly while I be in the kitchen . As note in medium report and a trending Twitter moment , Alexa seem to start laugh without be prompt to wake . Later on in the day , Amazon say it planned fix will involve disable the phrase , “ Alexa , laugh , ” and change the command to “ Alexa , can you laugh ? ” The company say the latter phrase be “ less likely to have false positive , ” or in other word the Alexa software be likely to mistake common word and phrase that sound similar to the one that make Alexa start laugh . People on Twitter and Reddit report that they think it be an actual person laugh near them , which be certainly scary if you ’ re home alone .",
+            "domain": "www.theverge.com",
+            "tokenized": [
+                {
+                    "sent": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Update at 7:05PM ET , 3/7 : Added new statement from Amazon clarify how the company plan to fix Alexa ’ s creepy laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ We be also change Alexa ’ s response from simply laughter to ‘ Sure , I can laugh , ’ follow by laughter , ” an Amazon spokesperson say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "As note in medium report and a trending Twitter moment , Alexa seem to start laugh without be prompt to wake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Later on in the day , Amazon say it planned fix will involve disable the phrase , “ Alexa , laugh , ” and change the command to “ Alexa , can you laugh ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” The company say the latter phrase be “ less likely to have false positive , ” or in other word the Alexa software be likely to mistake common word and phrase that sound similar to the one that make Alexa start laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "People on Twitter and Reddit report that they think it be an actual person laugh near them , which be certainly scary if you ’ re home alone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://entertainment.ie/trending/amazon-alexa-is-freaking-people-out-by-laughing-creepily-for-no-reason-amp-humanity-is-doomed-327842/",
+            "content": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight . Alexa , if you 're not aware , be the cloud-based voice command speaker make by Amazon that people can use to play music , read email , read the news , etc . So Alexa decide to laugh randomly while I be in the kitchen . Having an office conversation about pretty confidential stuff and Alexa just laugh . and you 'll hear the creepy `` tee-hee '' laugh that people be talk about . And , not make this up , I say `` Alexa you 're freak me out '' & she fuck laugh ! Replying bc THIS creepy thing happen last night : we get home and , totally unprompted , our Amazon Echo/Alexa start talk . oh god , if you have an echo , ask `` Alexa , can you laugh ? '' Every time Alexa laugh , an angel dy , so thank goodness … so my mom & I be just sit in the living room , neither of u say a word & our Alexa light up and laugh for no reason . Perhaps - but there 's no denying that this story be creepy a all hell .",
+            "domain": "entertainment.ie",
+            "tokenized": [
+                {
+                    "sent": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh ... there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Alexa , if you 're not aware , be the cloud-based voice command speaker make by Amazon that people can use to play music , read email , read the news , etc .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Having an office conversation about pretty confidential stuff and Alexa just laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "and you 'll hear the creepy `` tee-hee '' laugh that people be talk about .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And , not make this up , I say `` Alexa you 're freak me out '' & she fuck laugh !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Replying bc THIS creepy thing happen last night : we get home and , totally unprompted , our Amazon Echo/Alexa start talk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "oh god , if you have an echo , ask `` Alexa , can you laugh ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Every time Alexa laugh , an angel dy , so thank goodness … so my mom & I be just sit in the living room , neither of u say a word & our Alexa light up and laugh for no reason .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Perhaps - but there 's no denying that this story be creepy a all hell .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.stuff.co.nz/technology/gadgets/102090086/amazon-echo-devices-are-laughing-at-people",
+            "content": "Amazon say it 's aware that some Echo device be laugh at people , and it 's work on a fix\nAmazon have confirm that some of it Echo smart speaker be have random – and creepy – fit of laughter . Now , I know that stupid device heard “ laugh ” instead of “ lamp off ” , but I can ’ t sleep anymore ... .. # fml\nOver the past two day , user on social medium have say the popular device be randomly emit terrify and unprompted laughter without their instructing Alexa , the voice assistant build into the Echo , to wake up . One person say on Twitter that he tell his Alexa to turn his light off and instead hear a woman laugh . The company do not provide any further detail , include whether it know what 's cause the Echo device to laugh spontaneously .",
+            "domain": "www.stuff.co.nz",
+            "tokenized": [
+                {
+                    "sent": "Amazon say it 's aware that some Echo device be laugh at people , and it 's work on a fix\nAmazon have confirm that some of it Echo smart speaker be have random – and creepy – fit of laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Now , I know that stupid device heard “ laugh ” instead of “ lamp off ” , but I can ’ t sleep anymore ... .. # fml\nOver the past two day , user on social medium have say the popular device be randomly emit terrify and unprompted laughter without their instructing Alexa , the voice assistant build into the Echo , to wake up .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One person say on Twitter that he tell his Alexa to turn his light off and instead hear a woman laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The company do not provide any further detail , include whether it know what 's cause the Echo device to laugh spontaneously .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/amazon-confirms-echo-devices-laughing-working-fix-2018-3",
+            "content": "We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter , '' Amazon tell Business Insider in a statement . `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh . ' The company say the unexpected chuckle be cause by the Echo mistakenly hear the phrase `` Alexa laugh . '' Amazon confirm on Wednesday that some of it Echo smart speaker be have random — and creepy — fit of laughter . One person say on Twitter that he tell his Alexa to turn his light off and instead hear a woman laugh . Even Elon Musk , CEO of Tesla and SpaceX , say he be happy Amazon fix the problem , tweet `` Every time Alexa laugh , an angel dy , so thank goodness ... '' Over the past two day , user on social medium have say the popular device be randomly emit terrify and unprompted laughter without their instructing Alexa , the voice assistant build into the Echo , to wake up . which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh . '",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "We be also change Alexa ’ s response from simply laughter to 'Sure , I can laugh ' follow by laughter , '' Amazon tell Business Insider in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh . '",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The company say the unexpected chuckle be cause by the Echo mistakenly hear the phrase `` Alexa laugh . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon confirm on Wednesday that some of it Echo smart speaker be have random — and creepy — fit of laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One person say on Twitter that he tell his Alexa to turn his light off and instead hear a woman laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Even Elon Musk , CEO of Tesla and SpaceX , say he be happy Amazon fix the problem , tweet `` Every time Alexa laugh , an angel dy , so thank goodness ... '' Over the past two day , user on social medium have say the popular device be randomly emit terrify and unprompted laughter without their instructing Alexa , the voice assistant build into the Echo , to wake up .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh . '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.golfdigest.com/story/sounds-like-amazons-alexa-needs-an-exorcism",
+            "content": "According to Amazon , they be work to remedy the issue by change Alexa 's laugh command from `` Alexa , laugh '' to `` Alexa , can you laugh ? '' Chief among them , be that Alexa have begin laugh ( or `` cackle '' ) randomly and without solicitation , with some pretty freak out human report they ca n't even get her to replicate the same laugh twice . But those be nothing compare to the `` glitch '' Amazon Alexa user begin report this weekend . Finally , the cherry on top of this apocalyptic sundae , be not that Alexa be randomly laugh or disobey command while randomly laugh , but that she 's also list off local cemetery and funeral home unprompted and troll user with threat of impend asteroid impact . Numerous other report suggest that Alexa have be emit these laugh while simultaneously ignore or outright disobey their command , which be a hell of a lot more terrifying than a random little chuckle if you think about the damage your VitaMix could do if you piss Alexa off and she sicced it on you like some sort of Brave Little Toaster villain . in order to reduce the potential for what the company call `` false positive '' ... which sound like what Alexa would say if she have most of Amazon HQ lock away in a storage warehouse and be try throw u off the scent of the the robot dog army she 's be amass in the shadow .",
+            "domain": "www.golfdigest.com",
+            "tokenized": [
+                {
+                    "sent": "According to Amazon , they be work to remedy the issue by change Alexa 's laugh command from `` Alexa , laugh '' to `` Alexa , can you laugh ? ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Chief among them , be that Alexa have begin laugh ( or `` cackle '' ) randomly and without solicitation , with some pretty freak out human report they ca n't even get her to replicate the same laugh twice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But those be nothing compare to the `` glitch '' Amazon Alexa user begin report this weekend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Finally , the cherry on top of this apocalyptic sundae , be not that Alexa be randomly laugh or disobey command while randomly laugh , but that she 's also list off local cemetery and funeral home unprompted and troll user with threat of impend asteroid impact .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Numerous other report suggest that Alexa have be emit these laugh while simultaneously ignore or outright disobey their command , which be a hell of a lot more terrifying than a random little chuckle if you think about the damage your VitaMix could do if you piss Alexa off and she sicced it on you like some sort of Brave Little Toaster villain .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "in order to reduce the potential for what the company call `` false positive '' ... which sound like what Alexa would say if she have most of Amazon HQ lock away in a storage warehouse and be try throw u off the scent of the the robot dog army she 's be amass in the shadow .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://slate.com/technology/2019/01/smart-speaker-privacy-alexa-google-home-amazon-echo-siri.html",
+            "content": "First come the “ creepy laugh , ” in which Alexa device apparently mistake other command for “ Alexa , laugh ” and emit spontaneous peal of mirth . ” It ’ s a clever play on the Las Vegas slogan and an unsubtle jab at how Google and Amazon store your virtual assistant data on their server . As for Amazon , Alexa have suffer multiple privacy embarrassment in the past year , some more worrying than others . It turn out that Alexa have misheard a word in the conversation a “ Alexa , ” then misheard a subsequent word a “ send message , ” and finally misinterpret yet another snippet of the family ’ s ongoing conversation a the name of someone in their contact list .",
+            "domain": "slate.com",
+            "tokenized": [
+                {
+                    "sent": "First come the “ creepy laugh , ” in which Alexa device apparently mistake other command for “ Alexa , laugh ” and emit spontaneous peal of mirth .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” It ’ s a clever play on the Las Vegas slogan and an unsubtle jab at how Google and Amazon store your virtual assistant data on their server .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for Amazon , Alexa have suffer multiple privacy embarrassment in the past year , some more worrying than others .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It turn out that Alexa have misheard a word in the conversation a “ Alexa , ” then misheard a subsequent word a “ send message , ” and finally misinterpret yet another snippet of the family ’ s ongoing conversation a the name of someone in their contact list .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/news/2018-a-year-of-creepy-af-smart-home-headlines/",
+            "content": "We be also change Alexa 's response from simply laughter to 'Sure , I can laugh ' follow by laughter . '' `` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh , ' '' the company ultimately explain . So Alexa decide to laugh randomly while I be in the kitchen . The idea of grant a stranger authorized access to your home be unnerve for many of u -- but in the end , Amazon Key be n't nearly as creepy a we expect . which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh . '",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "We be also change Alexa 's response from simply laughter to 'Sure , I can laugh ' follow by laughter . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In rare circumstance , Alexa can mistakenly hear the phrase 'Alexa , laugh , ' '' the company ultimately explain .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The idea of grant a stranger authorized access to your home be unnerve for many of u -- but in the end , Amazon Key be n't nearly as creepy a we expect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "which be less likely to have false positive , and we be disable the short utterance 'Alexa , laugh . '",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.the-ambient.com/features/the-creepiest-freakiest-things-alexa-has-ever-said-and-done-2154",
+            "content": "Remember when Alexa be randomly laugh in people 's home , totally freak them out ? In March 2018 , Amazon push out a fix to change the command `` Alexa , laugh '' to `` Alexa , can you laugh ? '' This be number one with a bullet in term of creepy thing Alexa 's say out of the blue . Alexa can get real creepy at time , say weird stuff or cackle for no reason . His theory be that Alexa want him dead because he play the same Spotify playlist over and over again , more likely another bizarre false trigger . In June 2018 , apparently , Echo user Shawn Kinnear walk into his living room in San Francisco and say that unprompted Alexa say `` Every time I close my eye all I see be people die . '' One of the freaky report on the excellent 'What be your creepy Alexa story ? ' thread on Reddit be user meatmacho 's story about when Alexa butt into an argument he be have with his wife a few year ago .",
+            "domain": "www.the-ambient.com",
+            "tokenized": [
+                {
+                    "sent": "Remember when Alexa be randomly laugh in people 's home , totally freak them out ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In March 2018 , Amazon push out a fix to change the command `` Alexa , laugh '' to `` Alexa , can you laugh ? ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This be number one with a bullet in term of creepy thing Alexa 's say out of the blue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alexa can get real creepy at time , say weird stuff or cackle for no reason .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His theory be that Alexa want him dead because he play the same Spotify playlist over and over again , more likely another bizarre false trigger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In June 2018 , apparently , Echo user Shawn Kinnear walk into his living room in San Francisco and say that unprompted Alexa say `` Every time I close my eye all I see be people die . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of the freaky report on the excellent 'What be your creepy Alexa story ? '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "thread on Reddit be user meatmacho 's story about when Alexa butt into an argument he be have with his wife a few year ago .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thrillist.com/news/nation/amazon-alexa-random-laughing",
+            "content": "Twitter user David Woodland be seriously creep out when , during a confidential office conversation , Alexa randomly laugh . Well , quite a few Amazon Alexa user have recently realize just how freaky thing can get , since the voice-enabled AI assistant have be randomly cackle at and perform very strange unprovoked action for it owner . `` In rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh. ” We be also change Alexa ’ s response from simply laughter to “ Sure , I can laugh ” follow by laughter . '' ” which be less likely to have false positive , and we be disable the short utterance “ Alexa , laugh. On February 22 , Twitter user CaptHandlebar tweet a video of her Echo Dot creepily laugh without be provoke . And now , even Amazon have acknowledge it 's a problem . Another user freak out when the virtual assistant pip up out of nowhere and let out a witch-like laugh while hang in the living room with her mom . Little do she know , she be one of the early victim of a seriously disturbing issue several other Alexa user would soon be grapple with .",
+            "domain": "www.thrillist.com",
+            "tokenized": [
+                {
+                    "sent": "Twitter user David Woodland be seriously creep out when , during a confidential office conversation , Alexa randomly laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well , quite a few Amazon Alexa user have recently realize just how freaky thing can get , since the voice-enabled AI assistant have be randomly cackle at and perform very strange unprovoked action for it owner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In rare circumstance , Alexa can mistakenly hear the phrase “ Alexa , laugh.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” We be also change Alexa ’ s response from simply laughter to “ Sure , I can laugh ” follow by laughter . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” which be less likely to have false positive , and we be disable the short utterance “ Alexa , laugh.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On February 22 , Twitter user CaptHandlebar tweet a video of her Echo Dot creepily laugh without be provoke .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And now , even Amazon have acknowledge it 's a problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another user freak out when the virtual assistant pip up out of nowhere and let out a witch-like laugh while hang in the living room with her mom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Little do she know , she be one of the early victim of a seriously disturbing issue several other Alexa user would soon be grapple with .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.twice.com/product/jimmy-kimmel-says-hillary-behind-alexas-hysterical-outbursts",
+            "content": "Amazon attribute the outburst to Alexa perceive “ false positive ” command to chortle , and disable the phrase “ Alexa , laugh . Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight . So Alexa decide to laugh randomly while I be in the kitchen . Hillary Clinton conspiracy theorist now have some fresh grist for the cray-cray mill : a bit on last night ’ s “ Jimmy Kimmel Live ” suggest that the former Secretary of State and presidential contender may be connect to a rash of creepy cackle emit by Amazon Alexa .",
+            "domain": "www.twice.com",
+            "tokenized": [
+                {
+                    "sent": "Amazon attribute the outburst to Alexa perceive “ false positive ” command to chortle , and disable the phrase “ Alexa , laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Hillary Clinton conspiracy theorist now have some fresh grist for the cray-cray mill : a bit on last night ’ s “ Jimmy Kimmel Live ” suggest that the former Secretary of State and presidential contender may be connect to a rash of creepy cackle emit by Amazon Alexa .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.geekwire.com/2018/machine-learning-laughing-amazons-alexa-freaking-people-unprovoked-chuckle/",
+            "content": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight . So Alexa decide to laugh randomly while I be in the kitchen . ”\nHaving an office conversation about pretty confidential stuff and Alexa just laugh . Some user even ask Alexa why she laugh , and her reply to that question indicate that she be aware that she be do it . I ask why she laugh and she say , `` Sorry , I be not sure . '' Tweets and report about the artificial intelligence go rogue have label it creepy and scary , and we can see why .",
+            "domain": "www.geekwire.com",
+            "tokenized": [
+                {
+                    "sent": "Lying in bed about to fall asleep when Alexa on my Amazon Echo Dot let out a very loud and creepy laugh… there ’ s a good chance I get murder tonight .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nHaving an office conversation about pretty confidential stuff and Alexa just laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some user even ask Alexa why she laugh , and her reply to that question indicate that she be aware that she be do it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I ask why she laugh and she say , `` Sorry , I be not sure . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tweets and report about the artificial intelligence go rogue have label it creepy and scary , and we can see why .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.strata-gee.com/amazon-admits-alexa-creepily-laugh/",
+            "content": "Alexa be program to laugh , Amazon say . Reports have surface over the last several day of Amazon device , such a the Echo , randomly emit a human laugh . Perhaps you ’ ve see some of the report on social medium and elsewhere around the Internet , where Alexa-device user claim their unit have let out a strange , creepy laugh . When it come to this random laugh , Amazon do not currently know why it be occur . Filed Under : Products Tagged With : Alexa , creepy , Dot , Echo , laugh",
+            "domain": "www.strata-gee.com",
+            "tokenized": [
+                {
+                    "sent": "Alexa be program to laugh , Amazon say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Reports have surface over the last several day of Amazon device , such a the Echo , randomly emit a human laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perhaps you ’ ve see some of the report on social medium and elsewhere around the Internet , where Alexa-device user claim their unit have let out a strange , creepy laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When it come to this random laugh , Amazon do not currently know why it be occur .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Filed Under : Products Tagged With : Alexa , creepy , Dot , Echo , laugh",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/sciencetech/article-5470379/Amazons-Alexa-voice-assistant-wont-stop-randomly-laughing.html",
+            "content": "As if that be n't bizarre enough , Amazon also have a 'Laugh Box ' skill , which let user play different type of laughter , such a a 'baby laugh ' or a 'sinister laugh . ' But recent report from owner of Amazon Alexa device be be call 'bone chillingly creepy . ' So Alexa decide to laugh randomly while I be in the kitchen . But so far , it 's unclear why Alexa be laugh even when user do n't ask her to . One user reportedly try to turn the light off in their home but Alexa repeatedly turn the light back on , eventually utter an 'evil laugh , ' accord to BuzzFeed . Another Echo Dot owner say they tell Alexa to turn off their alarm in the morning and she respond by let out a 'witch-like ' laugh . Some user say their Alexa-enabled gadget start laugh totally unprompted . Alexa be program in many voice-activated device with a preset laugh , which can be prompt by ask : 'Alexa , how do you laugh ? '",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "As if that be n't bizarre enough , Amazon also have a 'Laugh Box ' skill , which let user play different type of laughter , such a a 'baby laugh ' or a 'sinister laugh . '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But recent report from owner of Amazon Alexa device be be call 'bone chillingly creepy . '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "But so far , it 's unclear why Alexa be laugh even when user do n't ask her to .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One user reportedly try to turn the light off in their home but Alexa repeatedly turn the light back on , eventually utter an 'evil laugh , ' accord to BuzzFeed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Another Echo Dot owner say they tell Alexa to turn off their alarm in the morning and she respond by let out a 'witch-like ' laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some user say their Alexa-enabled gadget start laugh totally unprompted .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alexa be program in many voice-activated device with a preset laugh , which can be prompt by ask : 'Alexa , how do you laugh ? '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/alexa-laugh-amazon-echo-instructions-bug-problem-why-happening-rise-machines-a8245621.html",
+            "content": "But what appear to happen be that the Alexa mishears `` light '' for `` laugh '' – and then do so . But none of that be really any use if it do n't give you a way to stop Alexa make the creepy laugh sound . But it 's possible that in those situation Alexa be hear something else , and understand it a laugh . Amazon appear to believe that this be the reason the strange laugh be come out . That can be see in it propose solution : it will update the Alexa service so that it can only be trigger by ask `` Alexa , can you laugh ? '' The strange laugh , terrify though it would be for anyone to hear it , be really just the result of Alexa mishearing what be be ask of it . So a number of the people report the horrible laughter say it come a they be instruct Alexa to turn off the light , make it even more worrying since it ' slikely to happen a you 're lie in bed .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "But what appear to happen be that the Alexa mishears `` light '' for `` laugh '' – and then do so .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But none of that be really any use if it do n't give you a way to stop Alexa make the creepy laugh sound .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it 's possible that in those situation Alexa be hear something else , and understand it a laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amazon appear to believe that this be the reason the strange laugh be come out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That can be see in it propose solution : it will update the Alexa service so that it can only be trigger by ask `` Alexa , can you laugh ? ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The strange laugh , terrify though it would be for anyone to hear it , be really just the result of Alexa mishearing what be be ask of it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So a number of the people report the horrible laughter say it come a they be instruct Alexa to turn off the light , make it even more worrying since it ' slikely to happen a you 're lie in bed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ign.com/articles/2018/03/08/amazon-alexa-is-randomly-creepily-laughing-at-people",
+            "content": "So Alexa decide to laugh randomly while I be in the kitchen .",
+            "domain": "www.ign.com",
+            "tokenized": [
+                {
+                    "sent": "So Alexa decide to laugh randomly while I be in the kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.co.za/amazon-confirms-echo-devices-laughing-working-fix-2018-3",
+            "content": "Amazon 's official acknowledgement of the laugh Echo problem be first report by The Verge . One user on Twitter order his Alexa to turn his light off and instead hear a woman laugh . Amazon confirm on Wednesday that some of it Echo smart speaker be have random , and creepy , fit of laughter . This be happen even without instruct Alexa , the voice assistant that 's built-into the Echo , to wake up . Over the past two day , user on social medium notice the popular device be randomly emit terrify and unprompted laughter .",
+            "domain": "www.businessinsider.co.za",
+            "tokenized": [
+                {
+                    "sent": "Amazon 's official acknowledgement of the laugh Echo problem be first report by The Verge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One user on Twitter order his Alexa to turn his light off and instead hear a woman laugh .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Amazon confirm on Wednesday that some of it Echo smart speaker be have random , and creepy , fit of laughter .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "This be happen even without instruct Alexa , the voice assistant that 's built-into the Echo , to wake up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the past two day , user on social medium notice the popular device be randomly emit terrify and unprompted laughter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.smarthomepoint.com/echo-random-noises/",
+            "content": "There be lot of reason why an Echo can randomly play a noise , from it mistakenly think that someone have say “ Alexa ” , to a device problem . From my own experience of own an Echo and speak to others ( along with scour the internet ) , some of the weird noise that Alexa randomly seem to make include :\nPhew , that ’ s quite a long list of random – and sometimes creepy – sound ! This could be the cause of the weird noise , if Alexa be frequently mishearing command and play incorrect sound in response . To dig into thing a little more , click “ More ⌄ ” on a result and it will tell you what Alexa think it hear to cause that action/response to play . Having a smart voice assistant like the Amazon Echo be great due to all the smart home feature it offer , but sometimes it seem to ‘ wake up ’ by itself and play a random noise or sound . What ’ s useful here be that you will see all activity that Alexa register on your Echo device , which could include alarm , play pair Bluetooth music/audio , set a timer and a whole lot more . “ Audio be not intend for this device ” might suggest that Alexa be get confuse – possibly due to lot of background noise .",
+            "domain": "www.smarthomepoint.com",
+            "tokenized": [
+                {
+                    "sent": "There be lot of reason why an Echo can randomly play a noise , from it mistakenly think that someone have say “ Alexa ” , to a device problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "From my own experience of own an Echo and speak to others ( along with scour the internet ) , some of the weird noise that Alexa randomly seem to make include :\nPhew , that ’ s quite a long list of random – and sometimes creepy – sound !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This could be the cause of the weird noise , if Alexa be frequently mishearing command and play incorrect sound in response .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To dig into thing a little more , click “ More ⌄ ” on a result and it will tell you what Alexa think it hear to cause that action/response to play .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Having a smart voice assistant like the Amazon Echo be great due to all the smart home feature it offer , but sometimes it seem to ‘ wake up ’ by itself and play a random noise or sound .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "What ’ s useful here be that you will see all activity that Alexa register on your Echo device , which could include alarm , play pair Bluetooth music/audio , set a timer and a whole lot more .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Audio be not intend for this device ” might suggest that Alexa be get confuse – possibly due to lot of background noise .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vanityfair.com/news/2018/03/yes-amazons-alexa-is-laughing-at-you",
+            "content": "In recent week , Echo owner have report that their Amazon Echo device have begin to laugh at random . The phenomenon be first report by Twitter user @ CaptHandlebar , who post a video of their JBL speaker , to which their Amazon Echo Dot be connect , emit a ha-ha-ha , seemingly apropos of nothing :\nThe video be unsettling , and it isn ’ t unique ; other Echo owner have report that their device have be laugh too , either in response to a question , or entirely unprompted . Into this strange marriage of dependence and dystopian phobia come a new concern : not only be your Amazon Echo listen to you , but it ’ s laugh at you , too . From the outside it appear to be a glitch ; it ’ s also possible , a some point out on Reddit , that the Echo microphone be sensitive enough to misinterpret a command a a request to make Alexa laugh ( which be something one can ask , evidently ) . The dot we have in the master bath have twice now randomly play a track of a woman laugh at about 10 p.m. the first time I think the fire TV be send audio through it since I have be try to sync them up to the TV , but tonight be completely random , ” one Redditor explain . “ She have about 3 or 4 laugh and happen to use the creepy one. We have the dot laugh several time and it wasn ’ t the laugh Alexa produce , but definitely sound like a canned laugh , not like someone laugh live . ”\nThough third-party device work with Alexa , the laughter issue seem to be limit to the Echo and the small Echo Dot . ” ( An Echo owner tell the Hive that while they have not hear any laugher , Alexa “ do spout off random geographical trivia , unprompted , about once a week .",
+            "domain": "www.vanityfair.com",
+            "tokenized": [
+                {
+                    "sent": "In recent week , Echo owner have report that their Amazon Echo device have begin to laugh at random .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The phenomenon be first report by Twitter user @ CaptHandlebar , who post a video of their JBL speaker , to which their Amazon Echo Dot be connect , emit a ha-ha-ha , seemingly apropos of nothing :\nThe video be unsettling , and it isn ’ t unique ; other Echo owner have report that their device have be laugh too , either in response to a question , or entirely unprompted .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Into this strange marriage of dependence and dystopian phobia come a new concern : not only be your Amazon Echo listen to you , but it ’ s laugh at you , too .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "From the outside it appear to be a glitch ; it ’ s also possible , a some point out on Reddit , that the Echo microphone be sensitive enough to misinterpret a command a a request to make Alexa laugh ( which be something one can ask , evidently ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The dot we have in the master bath have twice now randomly play a track of a woman laugh at about 10 p.m. the first time I think the fire TV be send audio through it since I have be try to sync them up to the TV , but tonight be completely random , ” one Redditor explain .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ She have about 3 or 4 laugh and happen to use the creepy one.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have the dot laugh several time and it wasn ’ t the laugh Alexa produce , but definitely sound like a canned laugh , not like someone laugh live .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThough third-party device work with Alexa , the laughter issue seem to be limit to the Echo and the small Echo Dot .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” ( An Echo owner tell the Hive that while they have not hear any laugher , Alexa “ do spout off random geographical trivia , unprompted , about once a week .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://lithub.com/surveillance-capitalism-and-the-internet-of-things/",
+            "content": "Suspicions about Alexa be already run high ; a hacker have recently demonstrate how an Echo could be transform into a wiretap .",
+            "domain": "lithub.com",
+            "tokenized": [
+                {
+                    "sent": "Suspicions about Alexa be already run high ; a hacker have recently demonstrate how an Echo could be transform into a wiretap .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

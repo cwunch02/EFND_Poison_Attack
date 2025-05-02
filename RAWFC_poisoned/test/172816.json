@@ -1,0 +1,784 @@
+{
+    "event_id": "172816",
+    "claim": "Michelle Obama's book \"Becoming\" sold more copies in its first week than Donald Trump's \"The Art of the Deal\" did in 32 years. ",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "An image graphic comparing the book sales of Michelle Obama’s autobiographical memoir  and Donald Trump’s business tome  was widely shared on social media in November 2018.  The bragging point it offered was that the former first lady’s book had sold considerably more copies in one week than the current president’s book had in over three decades:However, we have to note from the beginning that accurate book sales figures are often difficult to determine, especially given the wide variety of retail outlets and publishing formats that comprise today’s literary marketplace.  Moreover, as Electric Literature noted, sales figures can refer to any one of several metrics:That said, the numbers presented here were at least taken from reasonably credible sources.  On 21 November 2018, Crown Publishing reported to the Associated Press that Michelle Obama’s memoir had sold 1.4 million copies since it had been released a week earlier: was also a hit when it was first published in 1987, spending 13 weeks at the top of the  best-seller list. Just how many copies it has sold over the last thirty-plus years is difficult to determine, however, especially since its publication antedated the adoption of the Nielsen BookScan sales tracking system.According to the 2005 book , Trump’s first publishing effort had an initial print run of 150,000 copies, and an additional 170,000 copies have been sold since Nielsen Bookscan started keeping track of sales in 2001, which leaves a considerable gap of time unmeasured. The figure cited in this graphic likely stems from a 2016 CBS News report report that quoted a source “familiar with the book’s sales” stating that 1.1 million copies of  had been sold since its initial publication.The  magazine reported a similar figure in a “tell-all” article centered on the book’s ghostwriter, Tony Schwartz:Regardless of the exact sales numbers, this meme doesn’t really offer an apt comparison of the popularity of these two very different political figures, for a number of reasons:",
+    "reports": [
+        {
+            "link": "https://www.businessinsider.com/michelle-obama-never-forgive-trump-for-birther-conspiracy-becoming-book-2018-11",
+            "content": "Michelle Obama 's memoir , `` Becoming , '' lay out some of the former first lady 's most damning statement on record against President Donald Trump , accord to excerpt publish ahead of the book 's release next week . In the book , Obama reportedly chastise Trump for promote what she call the `` dangerous '' birther conspiracy that she say jeopardized her family 's safety . For year , even prior to the 2012 US presidential election , Trump advocate the racist conspiracy theory that question the authenticity of President Barack Obama 's birth certificate and his citizenship .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama 's memoir , `` Becoming , '' lay out some of the former first lady 's most damning statement on record against President Donald Trump , accord to excerpt publish ahead of the book 's release next week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the book , Obama reportedly chastise Trump for promote what she call the `` dangerous '' birther conspiracy that she say jeopardized her family 's safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For year , even prior to the 2012 US presidential election , Trump advocate the racist conspiracy theory that question the authenticity of President Barack Obama 's birth certificate and his citizenship .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hollywoodreporter.com/live-feed/barack-obama-reacts-to-his-new-memoir-topping-michelle-obamas-book-sales",
+            "content": "Obama 's book may have be an anticipated title this year , but Michelle Obama 's Becoming be recognize a 2018 's fastest-selling book after sell 725,000 copy sell on the first day of publication . However , Obama assure his book , which be report to have sell over 800,000 copy in it first day , sell `` a tad more '' than the former first lady 's . The first volume of Obama 's 768-page memoir , release Tuesday by Crown , feature an honest account of his presidential campaign and time in office , as well a the personal journey he and former first lady Michelle Obama go through during both term . After they fail to read his first book after 10 year , Obama say he do n't expect his daughter to read his new book until they 're 30 year old . As his book release shortly after former Vice President Joe Biden be declare the president-elect , Kimmel ask whether Obama felt congratulate Biden for his win be `` premature '' give Trump continue to claim the election be rig . Obama also express his wish that the transition between Biden and Trump be go well and he recall how `` gracious '' former President George W. Bush be to him when he become president . Continuing to poke fun at Trump 's claim , Kimmel also ask whether Obama knew of any place in the White House where ballot could be hide , give he reside there for eight year . `` We be plan this huge , risky , difficult operation that involve all the power and technology and skill and courage of the U.S. military and , at the same time , I 'm deal with a guy who 's say I be n't bear where I be bear , '' Obama say . Obama end his first volume with the Osama bin Laden raid , which he recall at the same time have to endure conspiracy theory be make by Trump question whether Obama be bear in the United States . `` But I 'm not rub it in over dinner , '' he say , add that Michelle joke all his book sale could help pay for her shoe purchase . Despite his book be a success , Obama laugh when he reveal that his daughter Sasha and Malia have no interest in read A Promised Land . Speaking more on Biden , Obama say he 's already begin call him `` Mr. President-Elect '' and praise Biden for be prepare to take on the presidency .",
+            "domain": "www.hollywoodreporter.com",
+            "tokenized": [
+                {
+                    "sent": "Obama 's book may have be an anticipated title this year , but Michelle Obama 's Becoming be recognize a 2018 's fastest-selling book after sell 725,000 copy sell on the first day of publication .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , Obama assure his book , which be report to have sell over 800,000 copy in it first day , sell `` a tad more '' than the former first lady 's .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The first volume of Obama 's 768-page memoir , release Tuesday by Crown , feature an honest account of his presidential campaign and time in office , as well a the personal journey he and former first lady Michelle Obama go through during both term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After they fail to read his first book after 10 year , Obama say he do n't expect his daughter to read his new book until they 're 30 year old .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As his book release shortly after former Vice President Joe Biden be declare the president-elect , Kimmel ask whether Obama felt congratulate Biden for his win be `` premature '' give Trump continue to claim the election be rig .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama also express his wish that the transition between Biden and Trump be go well and he recall how `` gracious '' former President George W. Bush be to him when he become president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Continuing to poke fun at Trump 's claim , Kimmel also ask whether Obama knew of any place in the White House where ballot could be hide , give he reside there for eight year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We be plan this huge , risky , difficult operation that involve all the power and technology and skill and courage of the U.S. military and , at the same time , I 'm deal with a guy who 's say I be n't bear where I be bear , '' Obama say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama end his first volume with the Osama bin Laden raid , which he recall at the same time have to endure conspiracy theory be make by Trump question whether Obama be bear in the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` But I 'm not rub it in over dinner , '' he say , add that Michelle joke all his book sale could help pay for her shoe purchase .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite his book be a success , Obama laugh when he reveal that his daughter Sasha and Malia have no interest in read A Promised Land .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaking more on Biden , Obama say he 's already begin call him `` Mr. President-Elect '' and praise Biden for be prepare to take on the presidency .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/politics-news/michelle-obama-rips-trump-new-memoir-n934371",
+            "content": "Former first lady Michelle Obama slam President Donald Trump in a new book out next week , blast his birther campaign a maneuver `` deliberately mean to stir up the wingnuts and kook '' and write that she try to `` block it all out '' when she learn he have win the 2016 election . `` Becoming '' be part of a joint book deal with former President Barack Obama , whose memoir be expect next year , that be believe worth ten of million of dollar . Trump 's message , accord to Obama , in word which appear in the book in darkened print : `` I can hurt you and get away with it . '' In her memoir `` Becoming , '' set to come out Tuesday , Obama cover everything from grow up in Chicago to confront racism in public life to her amazement at become the country 's first black first lady . The Associated Press purchase an early copy of `` Becoming , '' one of the most anticipated political book in recent memory . In an interview that air Friday morning with ABC News , Obama explain how she experience a miscarriage 20 year ago — say she felt `` lose and alone '' afterward — and ultimately use in-vitro fertilization to conceive her two daughter . Obama also accuse Trump of use body language to `` stalk '' Clinton during an election debate . At time , she fear she be damage her husband 's 2008 presidential campaign , especially after conservative seize on a line from one of her speech — take out of context , she note — that for the first time a an adult she be `` really proud '' of her country . The Obamas have say they will donate a `` significant portion '' of their author proceeds to charity , include the Obama Foundation . As the first black first lady , she know she would be label `` other '' and would have to earn the aura of `` grace '' give freely to her white predecessor . But a chunk of the book focus on Trump .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Former first lady Michelle Obama slam President Donald Trump in a new book out next week , blast his birther campaign a maneuver `` deliberately mean to stir up the wingnuts and kook '' and write that she try to `` block it all out '' when she learn he have win the 2016 election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Becoming '' be part of a joint book deal with former President Barack Obama , whose memoir be expect next year , that be believe worth ten of million of dollar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's message , accord to Obama , in word which appear in the book in darkened print : `` I can hurt you and get away with it . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In her memoir `` Becoming , '' set to come out Tuesday , Obama cover everything from grow up in Chicago to confront racism in public life to her amazement at become the country 's first black first lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Associated Press purchase an early copy of `` Becoming , '' one of the most anticipated political book in recent memory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an interview that air Friday morning with ABC News , Obama explain how she experience a miscarriage 20 year ago — say she felt `` lose and alone '' afterward — and ultimately use in-vitro fertilization to conceive her two daughter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama also accuse Trump of use body language to `` stalk '' Clinton during an election debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At time , she fear she be damage her husband 's 2008 presidential campaign , especially after conservative seize on a line from one of her speech — take out of context , she note — that for the first time a an adult she be `` really proud '' of her country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obamas have say they will donate a `` significant portion '' of their author proceeds to charity , include the Obama Foundation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the first black first lady , she know she would be label `` other '' and would have to earn the aura of `` grace '' give freely to her white predecessor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But a chunk of the book focus on Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2018/11/09/michelle-obama-ill-never-forgive-trump-for-birther-conspiracy-theory.html",
+            "content": "Michelle Obama write the scathing critique of Trump — among the harsh word she 's ever have for the president — in her forthcoming memoir , `` Becoming , '' accord to a Friday report from The Washington Post , which receive an advance copy . Former first lady Michelle Obama say she will `` never forgive '' President Donald Trump for spread the so-called birther conspiracy theory with `` reckless innuendo '' that she say threaten her family 's safety . When Trump be ask about Obama 's book , he deflect and instead criticize his President Obama . But it be also dangerous , deliberately mean to stir up the wingnuts and kook , '' Obama write in the book , accord to the Post .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama write the scathing critique of Trump — among the harsh word she 's ever have for the president — in her forthcoming memoir , `` Becoming , '' accord to a Friday report from The Washington Post , which receive an advance copy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Former first lady Michelle Obama say she will `` never forgive '' President Donald Trump for spread the so-called birther conspiracy theory with `` reckless innuendo '' that she say threaten her family 's safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Trump be ask about Obama 's book , he deflect and instead criticize his President Obama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it be also dangerous , deliberately mean to stir up the wingnuts and kook , '' Obama write in the book , accord to the Post .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mercurynews.com/2018/12/26/trump-michelle-obama-and-trump-trump-trump-grabbed-book-readers-attention-in-2018/",
+            "content": "Michelle Obama ’ s memoir “ Becoming ” sell more than any other book , and she promote it in arena like a rock star back up by other famous name ( Oprah Winfrey , Reese Witherspoon ) . Likewise , during the first half of the year , the best-selling book be “ Fire and Fury : Inside the Trump White House ” by Michael Wolff . The “ Last Week Tonight With John Oliver ” book “ A Day in the Life of Marlon Bundo , ” ostensibly an illustrated memoir by Vice President Mike Pence ’ s rabbit , be in the top 10 best-sellers for the first part of the year . The book didn ’ t hit store until November , but more than 2 million copy sell in 15 day . But one of the first gossipy report on “ Becoming ” focus more on how she could never forgive President Trump for his scurrilous “ birther ” claim about her husband . Of course book buyer admire Obama herself and her smart take on life . Many of the best-selling book of the year be about political figure .",
+            "domain": "www.mercurynews.com",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama ’ s memoir “ Becoming ” sell more than any other book , and she promote it in arena like a rock star back up by other famous name ( Oprah Winfrey , Reese Witherspoon ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Likewise , during the first half of the year , the best-selling book be “ Fire and Fury : Inside the Trump White House ” by Michael Wolff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The “ Last Week Tonight With John Oliver ” book “ A Day in the Life of Marlon Bundo , ” ostensibly an illustrated memoir by Vice President Mike Pence ’ s rabbit , be in the top 10 best-sellers for the first part of the year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The book didn ’ t hit store until November , but more than 2 million copy sell in 15 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But one of the first gossipy report on “ Becoming ” focus more on how she could never forgive President Trump for his scurrilous “ birther ” claim about her husband .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Of course book buyer admire Obama herself and her smart take on life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of the best-selling book of the year be about political figure .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://deadline.com/2018/11/michelle-obama-becoming-bestseller-donald-trump-book-tweets-1202511854/",
+            "content": "Suddenly , Donald Trump ’ s newfound interest in book be begin to make sense : One day after the president tweet five plug for book write by right-wing supporter and Fox News pal like Gregg Jarrett and Jeanine Pirro , Penguin Random House have announce that Michelle Obama ’ s Becoming be officially the best-selling book of 2018 . Already in it sixth printing , Becoming have 3.4 million hardcover copy in print in the U.S. and Canada , sell a huge 1.4 million copy during it first week of publication . That ’ s right , the book that call Trump a “ misogynist ” and accuse him of deliberately use the birther nonsense to “ stir up the wingnuts and kook ” have sell more than 2 million copy in the U.S. and Canada within 15 day of it Nov. 13 release . “ With all of the new book come out you can ’ t forget two of the great original write by @ GreggJarrett and @ JudgeJeanine Pirro , ” Trump tweet . And finally , Trump ’ s book report conclude with thumbs-up ( though no title mention ) for Jarrett ’ s The Russia Hoax : The Illicit Scheme To Clear Hillary Clinton and Frame Donald Trump , and Pirro ’ s Liars , Leakers , and Liberals : The Case Against the Anti-Trump Conspiracy . The former First Lady be currently on a 10-city , 12-date U.S. book tour . Yesterday , Trump express a seemingly newfound literary obsession by tweet book recommendation , begin with Back in the Game by Republican Congressman Steve Scalise ( “ absolutely fascinate ” ) . ”\nTrump ’ s book tweet strike his Twitter follower a , well , odd .",
+            "domain": "deadline.com",
+            "tokenized": [
+                {
+                    "sent": "Suddenly , Donald Trump ’ s newfound interest in book be begin to make sense : One day after the president tweet five plug for book write by right-wing supporter and Fox News pal like Gregg Jarrett and Jeanine Pirro , Penguin Random House have announce that Michelle Obama ’ s Becoming be officially the best-selling book of 2018 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Already in it sixth printing , Becoming have 3.4 million hardcover copy in print in the U.S. and Canada , sell a huge 1.4 million copy during it first week of publication .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That ’ s right , the book that call Trump a “ misogynist ” and accuse him of deliberately use the birther nonsense to “ stir up the wingnuts and kook ” have sell more than 2 million copy in the U.S. and Canada within 15 day of it Nov. 13 release .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ With all of the new book come out you can ’ t forget two of the great original write by @ GreggJarrett and @ JudgeJeanine Pirro , ” Trump tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And finally , Trump ’ s book report conclude with thumbs-up ( though no title mention ) for Jarrett ’ s The Russia Hoax : The Illicit Scheme To Clear Hillary Clinton and Frame Donald Trump , and Pirro ’ s Liars , Leakers , and Liberals : The Case Against the Anti-Trump Conspiracy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former First Lady be currently on a 10-city , 12-date U.S. book tour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yesterday , Trump express a seemingly newfound literary obsession by tweet book recommendation , begin with Back in the Game by Republican Congressman Steve Scalise ( “ absolutely fascinate ” ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s book tweet strike his Twitter follower a , well , odd .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/life/books/2018/11/08/michelle-obama-criticizes-president-trump-memoir/1937470002/",
+            "content": "Also : Michelle Obama 's 'Becoming ' book tour launch Nov. 13 , here 's how to get ticket\nTrump tell reporter Friday before he depart for Paris that Michelle Obama `` get pay a lot of money '' to write that book and they always expect a little controversy . '' Former first lady Michelle Obama write about her accomplished life and her marriage to former President Barack Obama in her new memoir , but early attention likely will focus on some heavy criticism of the man who succeed him , President Donald Trump . Related : Barack and Michelle Obama sign Netflix deal to produce series and film\n`` Becoming '' be the product of a joint memoir deal enter into by Michelle and Barack Obama in 2017 with publish giant Penguin Random House . Barack Obama 's book be expect next year and the Obamas have say they will donate a significant amount to charity , include the Obama Foundation . When Obama reveal the book jacket on Instagram in May , she include a message : “ I ’ m thrill to share with all of you the cover for BECOMING . The former first lady will kick off a 10-city book tour the day of the memoir 's release , open in her hometown of Chicago at the United Center in an event moderate by Oprah Winfrey . In an early news release , the publisher say the widely admired former first lady , who have not comment extensively on her White House year , would use '' unerring honesty and lively wit '' a it explore matter '' both public and private , tell her full story a she have live it – in her own word and on her own term . Obama specifically rip Trump for his behavior toward woman . She denounce him over the infamous 2005 `` Access Hollywood '' tape , which be release week before the 2016 election , in which he brag about sexually assault woman . `` Becoming '' will be release Tuesday , but the Associated Press purchase an early copy .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Also : Michelle Obama 's 'Becoming ' book tour launch Nov. 13 , here 's how to get ticket\nTrump tell reporter Friday before he depart for Paris that Michelle Obama `` get pay a lot of money '' to write that book and they always expect a little controversy . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former first lady Michelle Obama write about her accomplished life and her marriage to former President Barack Obama in her new memoir , but early attention likely will focus on some heavy criticism of the man who succeed him , President Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Related : Barack and Michelle Obama sign Netflix deal to produce series and film\n`` Becoming '' be the product of a joint memoir deal enter into by Michelle and Barack Obama in 2017 with publish giant Penguin Random House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barack Obama 's book be expect next year and the Obamas have say they will donate a significant amount to charity , include the Obama Foundation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Obama reveal the book jacket on Instagram in May , she include a message : “ I ’ m thrill to share with all of you the cover for BECOMING .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former first lady will kick off a 10-city book tour the day of the memoir 's release , open in her hometown of Chicago at the United Center in an event moderate by Oprah Winfrey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an early news release , the publisher say the widely admired former first lady , who have not comment extensively on her White House year , would use '' unerring honesty and lively wit '' a it explore matter '' both public and private , tell her full story a she have live it – in her own word and on her own term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama specifically rip Trump for his behavior toward woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She denounce him over the infamous 2005 `` Access Hollywood '' tape , which be release week before the 2016 election , in which he brag about sexually assault woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Becoming '' will be release Tuesday , but the Associated Press purchase an early copy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2018/11/09/michelle-obama-trump-birther-978810",
+            "content": "| Gerald Herbert/AP photo\nFormer first lady Michelle Obama write in her forthcoming memoir that President Donald Trump 's promotion of the so-called birther movement be something she will `` never forgive him for , '' accord to excerpt obtain by The Washington Post and other outlet , detail the threat she say her family felt a a result of Trump 's amplification of the conspiracy theory . `` She get pay a lot of money to write a book and they always expect a little controversy , '' Trump say of the former first lady . “ The whole ( birther ) thing be crazy and mean-spirited , of course , it underlying bigotry and xenophobia hardly conceal , ” former first lady Michelle Obama write in her new book . Though then-President Obama poke fun at the conspiracy occasionally , Michelle Obama write in her book that she worry Trump ’ s claim would incite violence against her husband and her family . Michelle Obama also share more personal detail in her book , include that both of her daughter be conceive via in vitro fertilization , much of the process for which she handle on her own while Barack Obama be away serve in the Illinois state Legislature . The first lady 's comment in her memoir mark a break from her typical rhetoric , which have largely steer away from criticize the president by name even a she have continue to voice her condemnation for Trump 's policy and bombast . The former first lady 's book be schedule to be release on Tuesday .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "| Gerald Herbert/AP photo\nFormer first lady Michelle Obama write in her forthcoming memoir that President Donald Trump 's promotion of the so-called birther movement be something she will `` never forgive him for , '' accord to excerpt obtain by The Washington Post and other outlet , detail the threat she say her family felt a a result of Trump 's amplification of the conspiracy theory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` She get pay a lot of money to write a book and they always expect a little controversy , '' Trump say of the former first lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The whole ( birther ) thing be crazy and mean-spirited , of course , it underlying bigotry and xenophobia hardly conceal , ” former first lady Michelle Obama write in her new book .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though then-President Obama poke fun at the conspiracy occasionally , Michelle Obama write in her book that she worry Trump ’ s claim would incite violence against her husband and her family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michelle Obama also share more personal detail in her book , include that both of her daughter be conceive via in vitro fertilization , much of the process for which she handle on her own while Barack Obama be away serve in the Illinois state Legislature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first lady 's comment in her memoir mark a break from her typical rhetoric , which have largely steer away from criticize the president by name even a she have continue to voice her condemnation for Trump 's policy and bombast .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former first lady 's book be schedule to be release on Tuesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2018/nov/12/michelle-obama-trump-comments-becoming-new-book-response-election-win",
+            "content": "In her new memoir , Becoming , the former first lady sometimes wonder ‘ where the bottom might be ’ a her husband ’ s legacy be aggressively unravelled\nMichelle Obama have tell of her dismay that so many American woman choose “ misogynist ” Donald Trump a their president instead of the first female nominee of a major party , Hillary Clinton . Becoming be part of a joint book deal with Barack Obama – whose memoir be expect next year – think to be worth ten of million of dollar , a “ significant portion ” of which will go to charity . In her new memoir , Becoming , which be publish on Tuesday , the former first lady admit that some news story now “ turn her stomach ” and , a her husband Barack Obama ’ s legacy be aggressively unravelled , sometimes wonder “ where the bottom might be ” . Obama launch the promotional tour for her book on Tuesday in Chicago where ten of thousand of people have buy ticket to attend an event moderate by Winfrey . Nearly two year later , Trump ’ s cabinet remains dominate by middle-aged white men .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "In her new memoir , Becoming , the former first lady sometimes wonder ‘ where the bottom might be ’ a her husband ’ s legacy be aggressively unravelled\nMichelle Obama have tell of her dismay that so many American woman choose “ misogynist ” Donald Trump a their president instead of the first female nominee of a major party , Hillary Clinton .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Becoming be part of a joint book deal with Barack Obama – whose memoir be expect next year – think to be worth ten of million of dollar , a “ significant portion ” of which will go to charity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In her new memoir , Becoming , which be publish on Tuesday , the former first lady admit that some news story now “ turn her stomach ” and , a her husband Barack Obama ’ s legacy be aggressively unravelled , sometimes wonder “ where the bottom might be ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama launch the promotional tour for her book on Tuesday in Chicago where ten of thousand of people have buy ticket to attend an event moderate by Winfrey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nearly two year later , Trump ’ s cabinet remains dominate by middle-aged white men .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/US/michelle-obama-shell-forgive-trump-words-exclusive-audio/story?id=59092674",
+            "content": "President Donald Trump respond Friday to Michelle Obama 's comment about him in her book , point the finger at former President Barack Obama . In her memoir , Michelle Obama write about the fear she felt a few year back a she , President Barack Obama and their family move into the White House . In audio from the book obtain exclusively by ABC News , Michelle Obama say : `` What if someone with an unstable mind load a gun and drove to Washington ?",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump respond Friday to Michelle Obama 's comment about him in her book , point the finger at former President Barack Obama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In her memoir , Michelle Obama write about the fear she felt a few year back a she , President Barack Obama and their family move into the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In audio from the book obtain exclusively by ABC News , Michelle Obama say : `` What if someone with an unstable mind load a gun and drove to Washington ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/michelle-obama-says-in-new-book-she-cant-forgive-trumps-birther-campaign-against-her-husband-2018-11-09",
+            "content": "Former first lady Michelle Obama ’ s new book , “ Becoming , ” be not out until Monday , and already , on Twitter , even it excerpt have excerpt . The book ’ s latter assertion have draw an unfavorable review from President Trump , who , before travel to France for event commemorate the centennial of the armistice end World War I , be ask about the former first lady ’ s have write that she consider the birther campaign unforgivable . Trump pivot to what he could not forgive : President Obama ’ s not spend , in Trump ’ s view , enough on the military .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "Former first lady Michelle Obama ’ s new book , “ Becoming , ” be not out until Monday , and already , on Twitter , even it excerpt have excerpt .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The book ’ s latter assertion have draw an unfavorable review from President Trump , who , before travel to France for event commemorate the centennial of the armistice end World War I , be ask about the former first lady ’ s have write that she consider the birther campaign unforgivable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump pivot to what he could not forgive : President Obama ’ s not spend , in Trump ’ s view , enough on the military .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/f2f7a48a56a04c93b4e18f3f9bc1518d",
+            "content": "WASHINGTON ( AP ) — Former first lady Michelle Obama blast President Donald Trump in her new book , write how she react in shock the night she learn he would replace her husband in the Oval Office and try to “ block it all out . ”\n“ Becoming ” be part of a joint book deal with former President Barack Obama , whose memoir be expect next year , that be believe worth ten of million of dollar . ”\nThe Associated Press purchase an early copy of “ Becoming , ” one of the most anticipated political book in recent memory . ”\nTrump ’ s message , accord to Obama , in word which appear in the book in darkened print : “ I can hurt you and get away with it . ”\nIn her memoir “ Becoming , ” set to come out Tuesday , Obama write openly about everything from grow up in Chicago to confront racism in public life to her amazement at become the country ’ s first black first lady . This story have be correct to show Mrs. Obama launch the program last month , not last year .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( AP ) — Former first lady Michelle Obama blast President Donald Trump in her new book , write how she react in shock the night she learn he would replace her husband in the Oval Office and try to “ block it all out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Becoming ” be part of a joint book deal with former President Barack Obama , whose memoir be expect next year , that be believe worth ten of million of dollar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Associated Press purchase an early copy of “ Becoming , ” one of the most anticipated political book in recent memory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s message , accord to Obama , in word which appear in the book in darkened print : “ I can hurt you and get away with it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn her memoir “ Becoming , ” set to come out Tuesday , Obama write openly about everything from grow up in Chicago to confront racism in public life to her amazement at become the country ’ s first black first lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This story have be correct to show Mrs. Obama launch the program last month , not last year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/newshour/politics/michelle-obama-says-access-hollywood-tape-prompted-her-to-condemn-trumps-comments",
+            "content": "Former first lady Michelle Obama begin her book tour with a stop at the Whitney M. Young Magnet High School in Chicago , Illinois . She ’ s promote her best-selling book “ Becoming , ” which be release this week . The former first lady recall that she write the outline of her speech address Trump ’ s comment on the infamous 2005 “ Access Hollywood ” tape while sit in a wait room a her mother be have back surgery . In the book , Mrs. Obama mention a time when she have a fist fight with a girl while grow up on Chicago ’ s South Side . Her mom talk about how her daughter initially dislike politics and Barack Obama say he show up to their first date late .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "Former first lady Michelle Obama begin her book tour with a stop at the Whitney M. Young Magnet High School in Chicago , Illinois .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s promote her best-selling book “ Becoming , ” which be release this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former first lady recall that she write the outline of her speech address Trump ’ s comment on the infamous 2005 “ Access Hollywood ” tape while sit in a wait room a her mother be have back surgery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the book , Mrs. Obama mention a time when she have a fist fight with a girl while grow up on Chicago ’ s South Side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her mom talk about how her daughter initially dislike politics and Barack Obama say he show up to their first date late .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5451887/michelle-obama-trump-inauguration/",
+            "content": "But in her new book , Becoming , and in an ABC interview with Robin Roberts , Michelle Obama get a bit more direct about her feeling about the man who assume her husband ’ s position after the 2016 election . Former President Barack Obama and First Lady Michelle Obama have mostly avoid directly criticize President Donald Trump since he take office . Reflecting on the day that Trump be inaugurate in Washington , D.C. , Obama share just how she felt about the transition of power .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "But in her new book , Becoming , and in an ABC interview with Robin Roberts , Michelle Obama get a bit more direct about her feeling about the man who assume her husband ’ s position after the 2016 election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former President Barack Obama and First Lady Michelle Obama have mostly avoid directly criticize President Donald Trump since he take office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Reflecting on the day that Trump be inaugurate in Washington , D.C. , Obama share just how she felt about the transition of power .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abc.net.au/news/2018-11-10/michelle-obama-book-becoming-reveals-anger-at-trump-and-ivf/10484982",
+            "content": "Michelle Obama felt alone after a miscarriage 20 year ago , and she and Barack Obama underwent fertility treatment to conceive their two daughter , accord to her upcoming memoir Becoming . Ms Obama will launch her promotional tour for the book at in front of ten of thousand of people at Chicago 's United Centre — the home arena of the NBA 's Chicago Bulls — next week at an event moderate by Oprah Winfrey . Becoming be one of the most anticipated political book in memory , rank at the top of Amazon 's best-sellers on Friday . In some of her most extensive public comment on her White House year , the former first lady also let her fury fly over US President Donald Trump 's `` bigotry and xenophobia '' — dangerous , deliberate rhetoric , she write , that risk her family 's safety . As he leave for Paris on Friday , Mr Trump choose not to respond to the former first lady , tell reporter , `` Oh , I guess she write a book . Confronting racism in public life — be the first black first lady , wife of the nation 's first black president — be a bracing experience , in Ms Obama 's telling . Their first kiss set off a `` toppling blast of lust , gratitude , fulfillment , wonder , '' she write . She get pay a lot of money to write a book and they always insist you come up with [ controversy ] . '' `` I felt like I fail because I do n't know how common miscarriage be because we do n't talk about them , '' the former first lady say in an interview broadcast on US network ABC 's Good Morning America . `` We have one pregnancy test come back positive , which cause u both to forget every worry and swoon with joy , but a couple of week later I have a miscarriage , which leave me physically uncomfortable and cratered any optimism we felt . ''",
+            "domain": "www.abc.net.au",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama felt alone after a miscarriage 20 year ago , and she and Barack Obama underwent fertility treatment to conceive their two daughter , accord to her upcoming memoir Becoming .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms Obama will launch her promotional tour for the book at in front of ten of thousand of people at Chicago 's United Centre — the home arena of the NBA 's Chicago Bulls — next week at an event moderate by Oprah Winfrey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Becoming be one of the most anticipated political book in memory , rank at the top of Amazon 's best-sellers on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In some of her most extensive public comment on her White House year , the former first lady also let her fury fly over US President Donald Trump 's `` bigotry and xenophobia '' — dangerous , deliberate rhetoric , she write , that risk her family 's safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As he leave for Paris on Friday , Mr Trump choose not to respond to the former first lady , tell reporter , `` Oh , I guess she write a book .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Confronting racism in public life — be the first black first lady , wife of the nation 's first black president — be a bracing experience , in Ms Obama 's telling .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Their first kiss set off a `` toppling blast of lust , gratitude , fulfillment , wonder , '' she write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She get pay a lot of money to write a book and they always insist you come up with [ controversy ] . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I felt like I fail because I do n't know how common miscarriage be because we do n't talk about them , '' the former first lady say in an interview broadcast on US network ABC 's Good Morning America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have one pregnancy test come back positive , which cause u both to forget every worry and swoon with joy , but a couple of week later I have a miscarriage , which leave me physically uncomfortable and cratered any optimism we felt . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vanityfair.com/style/2018/11/michelle-obama-wont-forgive-donald-trump-for-birther-rumor",
+            "content": "Michelle Obama ’ s new book , Becoming , be out November 13 , but an early review by The Washington Post suggest the long-anticipated memoir contain some of the thought that she might have be divulge to her best friend over the past decade—but not to the rest of America . ”\nWith this new book , for which she be start a cross-country tour next week , Obama open up a lot more than she ever do while command the East Wing . That include her real thought on birtherism , the conspiracy theory Donald Trump perpetuated—and use to build his fame—that claim Barack Obama be bear in Kenya . In a Good Morning America teaser for an ABC interview , Obama also open up about her struggle with get pregnant and her past miscarriage , which she discuss in the book . With Beyoncé-sized crowd likely prepare to come out and be part of her book tour , that might have be good practice .",
+            "domain": "www.vanityfair.com",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama ’ s new book , Becoming , be out November 13 , but an early review by The Washington Post suggest the long-anticipated memoir contain some of the thought that she might have be divulge to her best friend over the past decade—but not to the rest of America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWith this new book , for which she be start a cross-country tour next week , Obama open up a lot more than she ever do while command the East Wing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That include her real thought on birtherism , the conspiracy theory Donald Trump perpetuated—and use to build his fame—that claim Barack Obama be bear in Kenya .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a Good Morning America teaser for an ABC interview , Obama also open up about her struggle with get pregnant and her past miscarriage , which she discuss in the book .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With Beyoncé-sized crowd likely prepare to come out and be part of her book tour , that might have be good practice .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-people-michelle-obama/in-memoir-michelle-obama-says-shell-never-forgive-trump-birther-claims-idUSKCN1NE1ZN",
+            "content": "Michelle Obama ’ s memoir chronicle her life grow up on Chicago ’ s South Side through her year inside the White House a a mother of two and the nation ’ s first African-American first lady . ( Reuters ) - Former first lady Michelle Obama will never forgive President Donald Trump for promote a bigoted conspiracy theory that question whether her husband be bear in the United States , the Washington Post report on Friday . In a separate interview with ABC News ahead of Tuesday ’ s release of her memoir , “ Becoming , ” Michelle Obama also reveal she suffer a miscarriage 20 year ago , and that she undergo in-vitro fertilization ( IVF ) to conceive her two daughter . Citing an advance copy of the book , the Post quote her a say the so-called birther movement , which falsely claim President Barack Obama begin life a a foreigner , be “ crazy and mean-spirited ” and could have put her family in danger . The memoir fulfill half of an agreement that publisher Penguin Random House reach with her and the former president after he leave office under which the couple will each publish one book , reportedly for a sum worth more than $ 60 million .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Michelle Obama ’ s memoir chronicle her life grow up on Chicago ’ s South Side through her year inside the White House a a mother of two and the nation ’ s first African-American first lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Reuters ) - Former first lady Michelle Obama will never forgive President Donald Trump for promote a bigoted conspiracy theory that question whether her husband be bear in the United States , the Washington Post report on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a separate interview with ABC News ahead of Tuesday ’ s release of her memoir , “ Becoming , ” Michelle Obama also reveal she suffer a miscarriage 20 year ago , and that she undergo in-vitro fertilization ( IVF ) to conceive her two daughter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Citing an advance copy of the book , the Post quote her a say the so-called birther movement , which falsely claim President Barack Obama begin life a a foreigner , be “ crazy and mean-spirited ” and could have put her family in danger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The memoir fulfill half of an agreement that publisher Penguin Random House reach with her and the former president after he leave office under which the couple will each publish one book , reportedly for a sum worth more than $ 60 million .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ew.com/books/2018/11/09/michelle-obama-memoir-becoming-marriage-trump/",
+            "content": "As Michelle Obama prepare for the release of her highly anticipate memoir Becoming ( and a star-studded arena book tour ) , she ’ s make clear she ’ ll be hold nothing back . The notoriously positive former first lady be perhaps at her most revealing in Becoming , a early excerpt which have be publish by The Washington Post and The New York Times — which EW have confirm — detail her call out President Donald Trump for his role in the birther movement and facing challenge in her marriage and attempt to have child . ”\nTrump be quick to respond to Obama during a press conference on the White House ground , state , “ She get pay a lot of money to write a book and they always insist that you come up with a little controversial — well , I ’ ll give you a little controversy back . ”\nWhile the Obamas have be the model example of a successful partnership and marriage , the former first lady prove candid in the book about the struggle she and her husband have face .",
+            "domain": "ew.com",
+            "tokenized": [
+                {
+                    "sent": "As Michelle Obama prepare for the release of her highly anticipate memoir Becoming ( and a star-studded arena book tour ) , she ’ s make clear she ’ ll be hold nothing back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The notoriously positive former first lady be perhaps at her most revealing in Becoming , a early excerpt which have be publish by The Washington Post and The New York Times — which EW have confirm — detail her call out President Donald Trump for his role in the birther movement and facing challenge in her marriage and attempt to have child .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump be quick to respond to Obama during a press conference on the White House ground , state , “ She get pay a lot of money to write a book and they always insist that you come up with a little controversial — well , I ’ ll give you a little controversy back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhile the Obamas have be the model example of a successful partnership and marriage , the former first lady prove candid in the book about the struggle she and her husband have face .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/lifestyle/style/in-revealing-new-memoir-michelle-obama-candidly-shares-her-story/2018/11/08/6bc1d2ca-e20e-11e8-b759-3d88a5ce9e19_story.html",
+            "content": "“ I don ’ t think anybody will be necessarily prepared to read a memoir like this — especially come from a first lady , ” say Shonda Rhimes , the television producer , who read an advance copy of Obama ’ s book . As Michelle Obama ’ s highly anticipate memoir “ Becoming ” arrive , it ’ s clear that the former first lady be occupy a space in the culture beyond politics . ”\nObama ’ s friend and former NPR host Michele Norris , who will soon interview the former first lady at her book tour stop in Boston , say the memoir be about much more than politics ; it contain “ real-life lesson . ”\nThe Washington Post obtain an early copy of Obama ’ s book , which will be release Tuesday . But Obama , who be famously guard a first lady , still value her privacy — even a she offer frank opinion about Donald Trump and discloses past fertility struggle . The second section , Becoming Us , be a romp through her romance with Barack Obama , start a family with him and her search for work that she love . In the 426-page book , Obama lay out her complicated relationship with the political world that make her famous . Her book , which be be release one week after the midterm election , will spark conversation a the Democrats look for a standard-bearer for the 2020 general election . “ Becoming ” take her historic status a the first black woman to serve a first lady and meld it deftly into the American narrative . Children flow onto the White House ground , a scene that would be repeat throughout Obama ’ s tenure a first lady , when she also invite schoolchildren into the East Room for workshop and the Girl Scouts for a campout on the lawn , and many other event .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "“ I don ’ t think anybody will be necessarily prepared to read a memoir like this — especially come from a first lady , ” say Shonda Rhimes , the television producer , who read an advance copy of Obama ’ s book .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Michelle Obama ’ s highly anticipate memoir “ Becoming ” arrive , it ’ s clear that the former first lady be occupy a space in the culture beyond politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nObama ’ s friend and former NPR host Michele Norris , who will soon interview the former first lady at her book tour stop in Boston , say the memoir be about much more than politics ; it contain “ real-life lesson .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Washington Post obtain an early copy of Obama ’ s book , which will be release Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Obama , who be famously guard a first lady , still value her privacy — even a she offer frank opinion about Donald Trump and discloses past fertility struggle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The second section , Becoming Us , be a romp through her romance with Barack Obama , start a family with him and her search for work that she love .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the 426-page book , Obama lay out her complicated relationship with the political world that make her famous .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her book , which be be release one week after the midterm election , will spark conversation a the Democrats look for a standard-bearer for the 2020 general election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Becoming ” take her historic status a the first black woman to serve a first lady and meld it deftly into the American narrative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Children flow onto the White House ground , a scene that would be repeat throughout Obama ’ s tenure a first lady , when she also invite schoolchildren into the East Room for workshop and the Girl Scouts for a campout on the lawn , and many other event .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.masslive.com/worcester/2021/01/books-by-president-donald-trumps-niece-mary-l-trump-michelle-obama-rank-as-top-read-books-from-worcester-public-library-in-2020.html",
+            "content": "None be more popular than a book author by President Donald Trump ’ s niece . Michelle Obama ’ s memoir “ Becoming ” rank eighth . Mary L. Trump ’ s book “ Too Much and Never Enough : How My Family Created the World ’ s Most Dangerous Man ” top the list of adult book in 2020 .",
+            "domain": "www.masslive.com",
+            "tokenized": [
+                {
+                    "sent": "None be more popular than a book author by President Donald Trump ’ s niece .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michelle Obama ’ s memoir “ Becoming ” rank eighth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mary L. Trump ’ s book “ Too Much and Never Enough : How My Family Created the World ’ s Most Dangerous Man ” top the list of adult book in 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/books/archive/2020/07/mary-trump-michelle-obama-hillary-clinton-books-briefing/614497/",
+            "content": "Mary ’ s memoir break from the Trump family ’ s tradition of self-promotional text , such a Donald Trump ’ s self-aggrandizing The Art of the Deal . Michelle Obama ’ s surprisingly intimate Becoming shine bright when it reveal the fear and frustration behind the former first lady ’ s composure . His ex-wife Ivana codifies this narcissism into a family philosophy of be good than everyone else in her book Raising Trump . How Americans become part of the Trump family\n“ By virtue of it core characters—a man who become the American president , a daughter who become his adviser , a son-in-law who become responsible for criminal-justice reform and opioid-crisis management and bring peace to the Middle East—Raising Trump be less a straightforward memoir than it be a tease exploration of the working of the presidential family . Mary Trump ’ s Too Much and Never Enough be well write than most , Megan Garber argue .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "Mary ’ s memoir break from the Trump family ’ s tradition of self-promotional text , such a Donald Trump ’ s self-aggrandizing The Art of the Deal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michelle Obama ’ s surprisingly intimate Becoming shine bright when it reveal the fear and frustration behind the former first lady ’ s composure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His ex-wife Ivana codifies this narcissism into a family philosophy of be good than everyone else in her book Raising Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How Americans become part of the Trump family\n“ By virtue of it core characters—a man who become the American president , a daughter who become his adviser , a son-in-law who become responsible for criminal-justice reform and opioid-crisis management and bring peace to the Middle East—Raising Trump be less a straightforward memoir than it be a tease exploration of the working of the presidential family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mary Trump ’ s Too Much and Never Enough be well write than most , Megan Garber argue .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2018/11/09/books/michelle-obama-book-becoming.html",
+            "content": "In her highly anticipated memoir , “ Becoming , ” former first lady Michelle Obama mostly stick to her long-stated principle of stay positive in the face of political and personal attack : “ When they go low , we go high . ”\n“ Becoming , ” which be due out Nov. 13 , from Crown , be shape up to be one of the year ’ s big blockbuster , with a global first printing of 3 million copy , and a worldwide release in 31 language . Toward the end of the book , Mrs. Obama take aim at Mr. Trump , denounce his policy and tenor in sweeping term . “ She get pay a lot of money to write a book and they always expect a little controversy , ” Mr. Trump say . But a the first African-American first lady , Mrs. Obama ’ s experience be far from typical , and she write about feel great scrutiny than her predecessor . Last year , they announce a joint book deal with Penguin Random House that be rumor to exceed $ 60 million , a large portion of which be go to their foundation and other charity . “ Becoming , ” which The New York Times receive a copy of , be in many way a fairly conventional first lady ’ s memoir : An insider ’ s view of what it be like to live through national tragedy and other major event , in one of the most high-profile position in the world . After The Washington Post and other outlet publish story about the book ’ s content , Mr. Trump respond on Friday . This year , they sign a multiyear production deal with Netflix , to produce film and television show through their company , “ Higher Ground Productions.",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "In her highly anticipated memoir , “ Becoming , ” former first lady Michelle Obama mostly stick to her long-stated principle of stay positive in the face of political and personal attack : “ When they go low , we go high .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Becoming , ” which be due out Nov. 13 , from Crown , be shape up to be one of the year ’ s big blockbuster , with a global first printing of 3 million copy , and a worldwide release in 31 language .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Toward the end of the book , Mrs. Obama take aim at Mr. Trump , denounce his policy and tenor in sweeping term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She get pay a lot of money to write a book and they always expect a little controversy , ” Mr. Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But a the first African-American first lady , Mrs. Obama ’ s experience be far from typical , and she write about feel great scrutiny than her predecessor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , they announce a joint book deal with Penguin Random House that be rumor to exceed $ 60 million , a large portion of which be go to their foundation and other charity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Becoming , ” which The New York Times receive a copy of , be in many way a fairly conventional first lady ’ s memoir : An insider ’ s view of what it be like to live through national tragedy and other major event , in one of the most high-profile position in the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After The Washington Post and other outlet publish story about the book ’ s content , Mr. Trump respond on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This year , they sign a multiyear production deal with Netflix , to produce film and television show through their company , “ Higher Ground Productions.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/05/06/850798007/becoming-offers-a-revealing-but-selective-view-of-michelle-obama",
+            "content": "A new Netflix documentary reflect on Michelle Obama 's day in the White House . A new Netflix documentary reflect on Michelle Obama 's day in the White House . Race be , of course , a huge subject in the film , a Michelle Obama detail feel immense pressure to be perfect a wife to the first black president .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "A new Netflix documentary reflect on Michelle Obama 's day in the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A new Netflix documentary reflect on Michelle Obama 's day in the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Race be , of course , a huge subject in the film , a Michelle Obama detail feel immense pressure to be perfect a wife to the first black president .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-41421989",
+            "content": "Mrs Obama and her husband , former President Barack Obama , campaign for Mrs Clinton during last year 's election . Just 54 % of woman vote for Mrs Clinton , who lose to Mr Trump last year , while 52 % of white woman vote for her Republican opponent . `` This be the first time in eight year , probably 10 year , that I 'll have a chance to think back on what it all mean , '' she continue . Her remark about the 2016 election be some of the thought `` roll around in [ her ] head '' a she write her book , she say on Wednesday . The Obamas have retreat from the public eye since leave the White House last January until they ink a book deal with Penguin Random House last March to write separate memoir .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Mrs Obama and her husband , former President Barack Obama , campaign for Mrs Clinton during last year 's election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just 54 % of woman vote for Mrs Clinton , who lose to Mr Trump last year , while 52 % of white woman vote for her Republican opponent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This be the first time in eight year , probably 10 year , that I 'll have a chance to think back on what it all mean , '' she continue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her remark about the 2016 election be some of the thought `` roll around in [ her ] head '' a she write her book , she say on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obamas have retreat from the public eye since leave the White House last January until they ink a book deal with Penguin Random House last March to write separate memoir .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/culture/2018/11/13/18091884/michelle-obama-donald-trump-becoming-memoir",
+            "content": "On election night 2016 , when it become clear that the tide be turn for Trump , Obama reveal that , rather than stay up to see that outcome confirm , she simply go to bed .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "On election night 2016 , when it become clear that the tide be turn for Trump , Obama reveal that , rather than stay up to see that outcome confirm , she simply go to bed .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

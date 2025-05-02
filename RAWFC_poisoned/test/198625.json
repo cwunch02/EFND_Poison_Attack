@@ -1,0 +1,731 @@
+{
+    "event_id": "198625",
+    "claim": "Prince Philip mistakenly referred to Melania Trump as 'Stormy' during the U.S. First Couple's state visit to the UK.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "In June 2019, U.S. President Donald Trump, accompanied by his wife Melania, paid a state visit to the UK, during which the First Couple was greeted by Queen Elizabeth at Buckingham Palace.During that visit, the  website published an article reporting that the gaffe-prone Duke of Edinburgh, Prince Philip, had mistakenly referred to First Lady Melania Trump as “Stormy,” the stage name of a porn actress/stripper who has alleged she was paid $130,000 by Donald Trump for signing a nondisclosure agreement about an affair she had with him in 2006:The article prompted inquiries from Snopes.com readers about its veracity, but the information it contained was not factual. Although the slogan of the Suffolk Gazette is “You Couldn’t Make It Up,” the website does indeed feature a good deal of made-up material, including royal spoofs holding that Queen Elizabeth sent her husband (Prince Philip) to the airport to pick up the Trumps in his Range Rover, and that the Duchess of Sussex, U.S.-born Meghan Markle, demanded her first child be named Donald after the U.S. President.",
+    "reports": [
+        {
+            "link": "https://meaww.com/melania-call-donald-trump-president-tribute-prince-philip-stormy-uk-visit-internet-flak-reaction",
+            "content": "But when it come to Melania 's post , it be the incorrect mention of the title President that earn people 's mockery , bring to mind that once a British tabloid allege that during the Trumps ' first UK visit , Prince Philip have call Melania 'Stormy ' . Back in 2019 , when the then-First Couple , Trump and Melania , pay a state visit to the UK , they meet Queen Elizabeth at the Buckingham Palace . Melania be , however , immediately criticize for call her husband `` the President '' and many point out that he 's the 'former president , twice impeach ' . Trump too face criticism for his lengthy , eloquent statement pay tribute to the Prince a his claim of meet the late monarch be meet with doubt . During that visit , a British tabloid by the name of Suffolk Gazette , publish an article that allege that when the two meet the first time , Philip tell Melania , `` Stormy , I 've see all your film . '' People also claim there 's 'no way he write it ' , but note it be still good than Prince Harry and Meghan Markle 's message . The report allege that the late duke have allegedly earn the fury of the then-President for refer to his wife a Stormy Daniels , the porn star who claim Trump pay her $ 130,000 for non-disclosure agreement about their 2006 affair . Mr Trump be say to be “ furious ” and the dinner seating plan be hastily rearrange so that Philip be place at the other end of the table . '' The piece continue : `` Royal flunky immediately move the Trumps down the welcome line at the Palace before the party go inside for the official state banquet . The tabloid have allege , `` The Duke , famous for be undiplomatic , shake the President ’ s hand and turn to Melania '' before make the remark . The outlet also add that the tabloid have publish spoof of the Queen send her husband to pick up the Trumps in their Range Rover , and Meghan allegedly want to name her child Donald after the former POTUS . Others request `` One Term Former Twice Impeached Disgraced Ex President Trump please ... be respectful and use his full title . '' Some criticise her for now pay tribute to rapper DMX who also die on the same day a Prince Philip . Another quip `` I know Internet tend to be slow in South Africa , but Trump be still president ? *hits refresh * '' Others be curious about the couple 's relationship , a one user ask `` President ? Many remind her `` You mean former president , twice impeach ... . '' You do know he lose the election do n't you , or do he insist you still call him President '' with several laugh emojis . `` I 'm sure you hear about our Brother DMX 's death as well , '' write one user . The two-year-old article have since be bust a fake news , especially since the tabloid have a history of allege misinformation , write Snopes.com . But the damage have already be do .",
+            "domain": "meaww.com",
+            "tokenized": [
+                {
+                    "sent": "But when it come to Melania 's post , it be the incorrect mention of the title President that earn people 's mockery , bring to mind that once a British tabloid allege that during the Trumps ' first UK visit , Prince Philip have call Melania 'Stormy ' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Back in 2019 , when the then-First Couple , Trump and Melania , pay a state visit to the UK , they meet Queen Elizabeth at the Buckingham Palace .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Melania be , however , immediately criticize for call her husband `` the President '' and many point out that he 's the 'former president , twice impeach ' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump too face criticism for his lengthy , eloquent statement pay tribute to the Prince a his claim of meet the late monarch be meet with doubt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During that visit , a British tabloid by the name of Suffolk Gazette , publish an article that allege that when the two meet the first time , Philip tell Melania , `` Stormy , I 've see all your film . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People also claim there 's 'no way he write it ' , but note it be still good than Prince Harry and Meghan Markle 's message .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report allege that the late duke have allegedly earn the fury of the then-President for refer to his wife a Stormy Daniels , the porn star who claim Trump pay her $ 130,000 for non-disclosure agreement about their 2006 affair .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr Trump be say to be “ furious ” and the dinner seating plan be hastily rearrange so that Philip be place at the other end of the table . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The piece continue : `` Royal flunky immediately move the Trumps down the welcome line at the Palace before the party go inside for the official state banquet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The tabloid have allege , `` The Duke , famous for be undiplomatic , shake the President ’ s hand and turn to Melania '' before make the remark .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The outlet also add that the tabloid have publish spoof of the Queen send her husband to pick up the Trumps in their Range Rover , and Meghan allegedly want to name her child Donald after the former POTUS .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Others request `` One Term Former Twice Impeached Disgraced Ex President Trump please ... be respectful and use his full title . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some criticise her for now pay tribute to rapper DMX who also die on the same day a Prince Philip .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another quip `` I know Internet tend to be slow in South Africa , but Trump be still president ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "*hits refresh * '' Others be curious about the couple 's relationship , a one user ask `` President ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many remind her `` You mean former president , twice impeach ... . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You do know he lose the election do n't you , or do he insist you still call him President '' with several laugh emojis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I 'm sure you hear about our Brother DMX 's death as well , '' write one user .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The two-year-old article have since be bust a fake news , especially since the tabloid have a history of allege misinformation , write Snopes.com .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the damage have already be do .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cosmopolitan.com/uk/reports/a35331469/trump-melania-relationship-timeline/",
+            "content": "From their first date to the White House , it 's be a *full-on* 22 year\nThe year follow on from tie the knot in 2005 have be equally a eventful too – the couple welcome a son together , Barron William Trump , and Melania be thrust even far into the spotlight when she become First Lady of the United States , follow her Donald 's shock win during the 2016 election . Their four year of living in the White House have also be far from plain sailing , what with there be rumour of Donald 's allege affair do the round ( and not to mention him be impeach not once but twice ) , multiple video show Melania brush off Donald 's hand lead people to speculate about the state of their marriage , and some rather awkward interview . But in the meantime , here 's a look back at their 22 year together ( quickly start with the most recent update ) :\n9 November 1999 : They discuss their sex life and Trump make his first presidential bid\nMarch 2000 : Trump 's first run for President – without Melania\nYep , his election win back in 2016 be n't the businessman 's first foray into the political scene . Around this time , it 's say Melania break up with Trump , possibly because the pressure of be in the spotlight become too much . While they 've now officially leave Washington D.C. and have fly over to Florida , we 're sure it 's not the last we 've see or hear from this controversial couple . Trump lose the race to become leader of the Reform Party ( est . in 1992 ) to Pat Buchanan , who he later hit out at and call a `` Hitler lover '' .",
+            "domain": "www.cosmopolitan.com",
+            "tokenized": [
+                {
+                    "sent": "From their first date to the White House , it 's be a *full-on* 22 year\nThe year follow on from tie the knot in 2005 have be equally a eventful too – the couple welcome a son together , Barron William Trump , and Melania be thrust even far into the spotlight when she become First Lady of the United States , follow her Donald 's shock win during the 2016 election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Their four year of living in the White House have also be far from plain sailing , what with there be rumour of Donald 's allege affair do the round ( and not to mention him be impeach not once but twice ) , multiple video show Melania brush off Donald 's hand lead people to speculate about the state of their marriage , and some rather awkward interview .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in the meantime , here 's a look back at their 22 year together ( quickly start with the most recent update ) :\n9 November 1999 : They discuss their sex life and Trump make his first presidential bid\nMarch 2000 : Trump 's first run for President – without Melania\nYep , his election win back in 2016 be n't the businessman 's first foray into the political scene .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Around this time , it 's say Melania break up with Trump , possibly because the pressure of be in the spotlight become too much .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While they 've now officially leave Washington D.C. and have fly over to Florida , we 're sure it 's not the last we 've see or hear from this controversial couple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump lose the race to become leader of the Reform Party ( est .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "in 1992 ) to Pat Buchanan , who he later hit out at and call a `` Hitler lover '' .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irishmirror.ie/showbiz/celebrity-news/melania-trump-labels-stormy-daniels-22798307",
+            "content": "Wolkoff claim that Melania be 'in a state of disbelief ' a she have n't be offer a Vogue cover since Trump become president and have n't adorn the magazine 's front since appear in her wedding dress in 2005 . The first lady reply : `` Stormy ''\nDo you have a story to sell ? Get in touch with u at webcelebs @ trinitymirror.com or call u direct 0207 29 33033",
+            "domain": "www.irishmirror.ie",
+            "tokenized": [
+                {
+                    "sent": "Wolkoff claim that Melania be 'in a state of disbelief ' a she have n't be offer a Vogue cover since Trump become president and have n't adorn the magazine 's front since appear in her wedding dress in 2005 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The first lady reply : `` Stormy ''\nDo you have a story to sell ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Get in touch with u at webcelebs @ trinitymirror.com or call u direct 0207 29 33033",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-5876583/Time-place-honey-Stormy-Daniels-Kathy-Griffin-lay-Melanias-careless-coat.html",
+            "content": "They be see in one photo hold up their middle finger before Griffin post a video of the pair talk about the late Trump scandal - the sloganed coat the First Lady wore on her way to visit a child 's detention center in Boston .\n' The video be share to Twitter and caption : 'You know Stormy and I have to talk about Melanie when she visit my dressing room backstage in Boston ' - a sly nod to the time Trump spell his wife 's name incorrectly in a tweet . After today 's important visit to Texas , I hope the medium be n't go to choose to focus on her wardrobe . ' The video be not the first time Griffin have express her fury at the First Lady 's coat . write on the back , ' she write when picture of the coat first emerge that day . the jacket read , outrage million across the world at what they saw to be a direct and thoughtless message to the youngster she be about to meet . 'The jacket Melanie wore on the way to meet the kid hold in internment camp have ' I do n't really care , do you ? ' Stephanie Grisham , spokeswoman for the First Lady , tell DailyMail.com : 'It 's a jacket . I really do n't care , do u ? ' There be no hidden message .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "They be see in one photo hold up their middle finger before Griffin post a video of the pair talk about the late Trump scandal - the sloganed coat the First Lady wore on her way to visit a child 's detention center in Boston .\n'",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be share to Twitter and caption : 'You know Stormy and I have to talk about Melanie when she visit my dressing room backstage in Boston ' - a sly nod to the time Trump spell his wife 's name incorrectly in a tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After today 's important visit to Texas , I hope the medium be n't go to choose to focus on her wardrobe . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be not the first time Griffin have express her fury at the First Lady 's coat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "write on the back , ' she write when picture of the coat first emerge that day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "the jacket read , outrage million across the world at what they saw to be a direct and thoughtless message to the youngster she be about to meet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "'The jacket Melanie wore on the way to meet the kid hold in internment camp have ' I do n't really care , do you ? '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Stephanie Grisham , spokeswoman for the First Lady , tell DailyMail.com : 'It 's a jacket .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I really do n't care , do u ? '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no hidden message .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usmagazine.com/celebrity-news/news/melania-trump-spokesperson-keep-barron-out-of-stormy-daniels-news/",
+            "content": "Melania Trump have stay silent about her husband President Donald Trump ’ s allege affair with Stormy Daniels , but now her spokesperson be speak out in defense of the couple ’ s 12-year-old son , Barron Trump . Meanwhile , Melania , 47 , stay at Donald ’ s Mar-a-Lago estate in Palm Beach , Florida , on Sunday a he fly back to the White House . However , Grisham tell Us Weekly in a statement that the first lady be “ enjoy spring break at Mar-a-Lago while work on future project .",
+            "domain": "www.usmagazine.com",
+            "tokenized": [
+                {
+                    "sent": "Melania Trump have stay silent about her husband President Donald Trump ’ s allege affair with Stormy Daniels , but now her spokesperson be speak out in defense of the couple ’ s 12-year-old son , Barron Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meanwhile , Melania , 47 , stay at Donald ’ s Mar-a-Lago estate in Palm Beach , Florida , on Sunday a he fly back to the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , Grisham tell Us Weekly in a statement that the first lady be “ enjoy spring break at Mar-a-Lago while work on future project .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2020/10/06/melania-trump-calls-stormy-daniels-porn-hooker-in-new-recording/",
+            "content": "First lady Melania Trump refer to adult film star Stormy Daniels , who claim she have an affair with President Trump , “ the porn hooker ” in a new recording reveal by her former friend and close adviser . Stephanie Winston Wolkoff unveil the recording on Trump ’ s former lawyer Michael Cohen ’ s podcast “ Mea Culpa ” on Monday , in which the first lady complain about Daniels ’ photoshoot in Vogue . “ Stormy , ” the first lady respond . Wolkoff , who write about her relationship with the first lady in “ Melania and Me , ” have release numerous conversation she record during their time together . We 've receive your submission .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "First lady Melania Trump refer to adult film star Stormy Daniels , who claim she have an affair with President Trump , “ the porn hooker ” in a new recording reveal by her former friend and close adviser .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Stephanie Winston Wolkoff unveil the recording on Trump ’ s former lawyer Michael Cohen ’ s podcast “ Mea Culpa ” on Monday , in which the first lady complain about Daniels ’ photoshoot in Vogue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Stormy , ” the first lady respond .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wolkoff , who write about her relationship with the first lady in “ Melania and Me , ” have release numerous conversation she record during their time together .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We 've receive your submission .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thesun.co.uk/news/12866545/stormy-daniels-melania-trump-hooker-tapes/",
+            "content": "STORMY Daniels have mock Melania Trump say `` I like your new t*ts , btw '' after the first lady call her a `` hooker '' . `` I will not sit back and allow the first Lady ’ s chief of staff , Stephanie Grisham , continue claim I be a 'delusional paranoid liar , ' and other similar name to discredit the veracity of Melania and Me . On Tuesday , the porn star take to Twitter to issue a foul-mouthed rant about Melania , 50 , after the first lady be record say Daniels be a prostitute . Her inclusion of the `` be best '' hashtag be a thinly-veiled dig at the first lady 's campaign to improve the life of American kid . ©News Group Newspapers Limited in England No . The Sun website be regulate by the Independent Press Standards Organisation ( IPSO ) 679215 Registered office : 1 London Bridge Street , London , SE1 9GF . For other inquiry , Contact Us . To inquire about a licence to reproduce material , visit our Syndication site . View our online Press Pack . To see all content on The Sun , please use the Site Map . `` The Sun '' , `` Sun '' , `` Sun Online '' be register trademark or trade name of News Group Newspapers Limited . This service be provide on News Group Newspapers ' Limited 's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy .",
+            "domain": "www.thesun.co.uk",
+            "tokenized": [
+                {
+                    "sent": "STORMY Daniels have mock Melania Trump say `` I like your new t*ts , btw '' after the first lady call her a `` hooker '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I will not sit back and allow the first Lady ’ s chief of staff , Stephanie Grisham , continue claim I be a 'delusional paranoid liar , ' and other similar name to discredit the veracity of Melania and Me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Tuesday , the porn star take to Twitter to issue a foul-mouthed rant about Melania , 50 , after the first lady be record say Daniels be a prostitute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her inclusion of the `` be best '' hashtag be a thinly-veiled dig at the first lady 's campaign to improve the life of American kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "©News Group Newspapers Limited in England No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Sun website be regulate by the Independent Press Standards Organisation ( IPSO ) 679215 Registered office : 1 London Bridge Street , London , SE1 9GF .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For other inquiry , Contact Us .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To inquire about a licence to reproduce material , visit our Syndication site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "View our online Press Pack .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To see all content on The Sun , please use the Site Map .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The Sun '' , `` Sun '' , `` Sun Online '' be register trademark or trade name of News Group Newspapers Limited .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This service be provide on News Group Newspapers ' Limited 's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irishtimes.com/life-and-style/fashion/melania-trump-braves-stormy-weather-in-to-die-for-trench-coat-1.3914239",
+            "content": "On Monday night Melania Trump dazzle at the state banquet host by Queen Elizabeth . In contrast to previous first lady , include Michelle Obama , and indeed the royal , who choose to mix high-street and designer , Trump be choose the more-is-more approach to diplomatic dressing . Trump debut the trench coat for a visit to the US federal emergency management agency in Washington , DC , last year . Many high-profile people have be steer clear of the scandal-prone brand , but Melania Trump have continue to wear it design . Melania Trump continue her penchant for pricey designer look for her trip to Downing Street on Tuesday . The first lady ’ s long hair be sweep up , and she wear a Dior haute-couture white column dress with elbow-length white glove – a tricky enough ensemble to keep pristine when the Buckingham Palace menu include saddle of new-season Windsor lamb with a port sauce . But , unusually for the first lady , the Celine she choose be a look we ’ ve see her in before . But Dolce & Gabbana be a controversial choice . Last year , accusation that one of it Chinese advertising campaign be racist prompt Beijing to order the cancellation of the label ’ s first fashion show in Shanghai . Dressing for the stormy grey weather in London , she choose to team the to-die-for trench coat , which have practical military-style pocket , with glossy black accessory , include an Hermès crocodile Birkin bag and matching court shoe . Perhaps she have be influence by Kate Middleton and Meghan Markle , who regularly recycle their look . The rarity of the Birkin bag she carry on Tuesday make it worth an estimated €60,000 .",
+            "domain": "www.irishtimes.com",
+            "tokenized": [
+                {
+                    "sent": "On Monday night Melania Trump dazzle at the state banquet host by Queen Elizabeth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In contrast to previous first lady , include Michelle Obama , and indeed the royal , who choose to mix high-street and designer , Trump be choose the more-is-more approach to diplomatic dressing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump debut the trench coat for a visit to the US federal emergency management agency in Washington , DC , last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many high-profile people have be steer clear of the scandal-prone brand , but Melania Trump have continue to wear it design .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melania Trump continue her penchant for pricey designer look for her trip to Downing Street on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first lady ’ s long hair be sweep up , and she wear a Dior haute-couture white column dress with elbow-length white glove – a tricky enough ensemble to keep pristine when the Buckingham Palace menu include saddle of new-season Windsor lamb with a port sauce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , unusually for the first lady , the Celine she choose be a look we ’ ve see her in before .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Dolce & Gabbana be a controversial choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , accusation that one of it Chinese advertising campaign be racist prompt Beijing to order the cancellation of the label ’ s first fashion show in Shanghai .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dressing for the stormy grey weather in London , she choose to team the to-die-for trench coat , which have practical military-style pocket , with glossy black accessory , include an Hermès crocodile Birkin bag and matching court shoe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perhaps she have be influence by Kate Middleton and Meghan Markle , who regularly recycle their look .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rarity of the Birkin bag she carry on Tuesday make it worth an estimated €60,000 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/the-fix/wp/2018/01/19/ill-give-her-a-week-to-lose-the-baby-weight-trump-said-of-melania-months-before-alleged-tryst-with-porn-star/",
+            "content": "Seven month before an alleged tryst with porn star Stormy Daniels , Donald Trump tell radio host Howard Stern that he would give his pregnant wife , Melania , a couple of day — or maybe a week — to regain her model figure after give birth . At the time of the interview , Melania Trump be five month pregnant with her first child , Trump ’ s fifth . Daniels , whose real name be Stephanie Clifford , tell In Touch magazine that she have sex with Trump in July 2006 at a golf tournament in Nevada . Barron Trump be bear March 20 , 2006 . The In Touch interview be conduct in 2011 but publish for the first time this week .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Seven month before an alleged tryst with porn star Stormy Daniels , Donald Trump tell radio host Howard Stern that he would give his pregnant wife , Melania , a couple of day — or maybe a week — to regain her model figure after give birth .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the time of the interview , Melania Trump be five month pregnant with her first child , Trump ’ s fifth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels , whose real name be Stephanie Clifford , tell In Touch magazine that she have sex with Trump in July 2006 at a golf tournament in Nevada .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Barron Trump be bear March 20 , 2006 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The In Touch interview be conduct in 2011 but publish for the first time this week .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.eonline.com/uk/news/923126/melania-trump-focusing-on-family-in-the-wake-of-stormy-daniels-60-minutes-interview",
+            "content": "In her 60 Minutes interview , Stormy claim that when she first visit Donald 's hotel suite in the summer of 2006 , he brag about his picture on the cover of a magazine . It 's expect to rank a the program 's highest-rated episode since Barack Obama and Michelle Obama give their first post-election interview in November 2008 . From then on , the porn star add , Donald be a `` completely different person . `` So , he turn around and pull his pant down a little—you know , he have underwear on and stuff—and I just give him a couple swat . '' `` Someone should take that magazine and spank you with it , '' she claim she tell him , add that she tell him to `` hand it over '' to her . He quit talk about himself and he ask me thing and I ask him thing and it just become like you know more appropriate . '' Early Nielsen rating indicate the interview draw more than twice a many viewer than a typical episode of the show .",
+            "domain": "www.eonline.com",
+            "tokenized": [
+                {
+                    "sent": "In her 60 Minutes interview , Stormy claim that when she first visit Donald 's hotel suite in the summer of 2006 , he brag about his picture on the cover of a magazine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's expect to rank a the program 's highest-rated episode since Barack Obama and Michelle Obama give their first post-election interview in November 2008 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From then on , the porn star add , Donald be a `` completely different person .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` So , he turn around and pull his pant down a little—you know , he have underwear on and stuff—and I just give him a couple swat . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Someone should take that magazine and spank you with it , '' she claim she tell him , add that she tell him to `` hand it over '' to her .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He quit talk about himself and he ask me thing and I ask him thing and it just become like you know more appropriate . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Early Nielsen rating indicate the interview draw more than twice a many viewer than a typical episode of the show .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usmagazine.com/celebrity-news/news/donald-trump-melania-life-is-not-easy-amid-stormy-daniels-sex-scandal/",
+            "content": "”\nThe rally on Saturday isn ’ t the first time Trump have allude to trouble in his relationship with his wife . Trump , 71 , touch upon his wife ’ s contribution to fight the opioid epidemic in the United States while address a rally in Moon Township , Pennsylvania , on Saturday , March 10 . On March 3 , while speak with journalist at the annual Gridiron dinner , he joke that Melania could “ be next to leave ” the White House after a spate of high-profile departure among his staff . Not so easy , ” he say with a laugh before add , “ She be a great first lady . The former model , who have be mostly MIA since her husband become president , have also be see slap her husband ’ s hand away a he ’ s reach out to touch her . Great , great first lady , ” he say . ”\n“ You think her life be so easy , folk ? “ She ’ s great , she ’ s great .",
+            "domain": "www.usmagazine.com",
+            "tokenized": [
+                {
+                    "sent": "”\nThe rally on Saturday isn ’ t the first time Trump have allude to trouble in his relationship with his wife .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , 71 , touch upon his wife ’ s contribution to fight the opioid epidemic in the United States while address a rally in Moon Township , Pennsylvania , on Saturday , March 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On March 3 , while speak with journalist at the annual Gridiron dinner , he joke that Melania could “ be next to leave ” the White House after a spate of high-profile departure among his staff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not so easy , ” he say with a laugh before add , “ She be a great first lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former model , who have be mostly MIA since her husband become president , have also be see slap her husband ’ s hand away a he ’ s reach out to touch her .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Great , great first lady , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ You think her life be so easy , folk ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She ’ s great , she ’ s great .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.suffolkgazette.com/news/prince-philip-melania-trump/",
+            "content": "Royal flunky immediately move the Trumps down the welcome line at the Palace before the party go inside for the official state banquet . On the Queen & Prince Phillip ’ s 1st visit to the Irish republic ( minus the 6 county which they be cling on to } .HE ASKED AN iRISH WOMEN STANDING ON GUARD AT THE pRESIDENTS RESIDENCE aRUS AN uCHARTAN , IF SHE HAD BOMBS IN HER KNICKERS . My relative be that woman , so do not refute me\nGood job prince Philip….here in the state we would like to piin a medal ipon your royal highness chest for tell the truth….about orange asshat….thank you ! He have alchimers then , so 7 year later , What do you think .",
+            "domain": "www.suffolkgazette.com",
+            "tokenized": [
+                {
+                    "sent": "Royal flunky immediately move the Trumps down the welcome line at the Palace before the party go inside for the official state banquet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the Queen & Prince Phillip ’ s 1st visit to the Irish republic ( minus the 6 county which they be cling on to } .HE ASKED AN iRISH WOMEN STANDING ON GUARD AT THE pRESIDENTS RESIDENCE aRUS AN uCHARTAN , IF SHE HAD BOMBS IN HER KNICKERS .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "My relative be that woman , so do not refute me\nGood job prince Philip….here in the state we would like to piin a medal ipon your royal highness chest for tell the truth….about orange asshat….thank you !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have alchimers then , so 7 year later , What do you think .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.today.com/video/trump-stands-by-stormy-daniels-horseface-insult-1346221635959",
+            "content": "” Meanwhile , the team of first lady Melania Trump be call for a boycott of T.I . President Trump on Tuesday take to Twitter to attack the appearance of adult movie star Stormy Daniels after a judge dismiss her defamation lawsuit against the president . Asked by the Associated Press whether go after a woman ’ s look be inappropriate , the president say to “ take it any way you want. NBC White House correspondent Hallie Jackson report for TODAY.Oct . after the rapper put out a video of a lookalike of the first lady strip off her clothes .",
+            "domain": "www.today.com",
+            "tokenized": [
+                {
+                    "sent": "” Meanwhile , the team of first lady Melania Trump be call for a boycott of T.I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump on Tuesday take to Twitter to attack the appearance of adult movie star Stormy Daniels after a judge dismiss her defamation lawsuit against the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Asked by the Associated Press whether go after a woman ’ s look be inappropriate , the president say to “ take it any way you want.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NBC White House correspondent Hallie Jackson report for TODAY.Oct .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "after the rapper put out a video of a lookalike of the first lady strip off her clothes .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/entertainment/people-feel-sorry-melania-trump-valentines-day-stormy-daniels-news-202554882.html",
+            "content": "Happy Valentine ’ s Day — to everyone except Melania Trump . Unhappy Valentines : The 15 bad movie couple this century\nA collection of quote from Packers GM Brian Gutekunst after pick Georgia CB Eric Stokes in the first round . While the rest of the world be celebrate love , the first lady have take a back seat today to her husband ’ s allege fling with Stormy Daniels . Bindi Irwin and husband Chandler Powell welcome daughter Grace Warrior on March 25 , the couple 's one-year wedding anniversary A body language expert decode the royal couple 's relationship now . Twitter quickly pick up on the irony that the payoff news break on what be suppose to be the most romantic day of the year , and they have some thought . Many felt sorry for the first lady .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "Happy Valentine ’ s Day — to everyone except Melania Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unhappy Valentines : The 15 bad movie couple this century\nA collection of quote from Packers GM Brian Gutekunst after pick Georgia CB Eric Stokes in the first round .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the rest of the world be celebrate love , the first lady have take a back seat today to her husband ’ s allege fling with Stormy Daniels .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bindi Irwin and husband Chandler Powell welcome daughter Grace Warrior on March 25 , the couple 's one-year wedding anniversary A body language expert decode the royal couple 's relationship now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Twitter quickly pick up on the irony that the payoff news break on what be suppose to be the most romantic day of the year , and they have some thought .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many felt sorry for the first lady .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2018/03/26/briefing/stormy-daniels-russia-cricket-scandal.html",
+            "content": "Melania Trump , the first lady , have also remain silent . President Trump secure his first major trade deal . “ She ’ s focus on be a mother , ” her spokeswoman say . The U.S. and South Korea agree to renegotiate their trade pact , with Seoul exempt from tariff on steel and aluminum in exchange for reduce it steel export and open it market to American car . What do you want to see here ? Thanks for join u , beloved reader , and we hope you have a tremendous week . Let u know at brief @ nytimes.com .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Melania Trump , the first lady , have also remain silent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump secure his first major trade deal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She ’ s focus on be a mother , ” her spokeswoman say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The U.S. and South Korea agree to renegotiate their trade pact , with Seoul exempt from tariff on steel and aluminum in exchange for reduce it steel export and open it market to American car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What do you want to see here ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thanks for join u , beloved reader , and we hope you have a tremendous week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let u know at brief @ nytimes.com .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/opinion-stormy-daniels-melania-trump_n_5b806b24e4b0cd327dfcad8b",
+            "content": "Melania , fuse in marriage and image with all thing Trump and silent a a cipher herself , be something of a suspect blank slate . The big arrow she dare fire be refer to Daniels a “ an age sex worker , ” which from our stern , “ the best birth control be hold an aspirin between your knee , ” Catholic auntie CaitFlan be practically a pat on the head . But the fact that she hasn ’ t issue some sort of mewl public apology for her nude modeling photo should be take a a marker that she ― and the country of which she ’ s first lady ― be not convinced that any renunciation or mea culpa be require . Yes , there be plenty of bawdy laugh to be have in this trash-fire Trump administration , and let u take our delight where we may . Hit “ share ” on those “ Trump ’ s Pecker Problem ” headline and the meme of Snoopy at his typewriter atop his doghouse , tap out “ And then , America be save by a Porn Star . Then , we have the volubly sassy and articulate Stormy Daniels . ” We ’ ve be wound and anguish for month , so we might as well yuk it up while we ’ re able . She ’ s a work wife and mother , protective of her child , and incense by the hypocrisy and corruption of this administration . Case in point : Professional scold Caitlin Flanagan lay off her usual troweling of disapproval in a May article in The Atlantic . She ’ s flesh and blood like u , try to keep it together while the country go mad along with everyone else out here . ”\nEven normally censorious , socially conservative writer be take heed and resist the urge to make the character-assassinating , tongue-clucking cheap shot . Add to that her appealingly curvy mom-bod and the pleasing softness to her facial feature and you ’ re like , “ You know what ? So yes , let u continue to find the humor ― just spare the usual ( female ) suspect the humiliation of be the butt of the joke . There ’ s not much for u to attach to her except guilt by association . She ’ s curiously sympathetic folk heroine : She seem to have accept her lot in life with an admirable blend of pragmatism and good humor , and she have be present in full 360-degree “ actual human be ” format in mainstream profile . I don ’ t need to be a jerk about her be a porn star .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "Melania , fuse in marriage and image with all thing Trump and silent a a cipher herself , be something of a suspect blank slate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The big arrow she dare fire be refer to Daniels a “ an age sex worker , ” which from our stern , “ the best birth control be hold an aspirin between your knee , ” Catholic auntie CaitFlan be practically a pat on the head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the fact that she hasn ’ t issue some sort of mewl public apology for her nude modeling photo should be take a a marker that she ― and the country of which she ’ s first lady ― be not convinced that any renunciation or mea culpa be require .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yes , there be plenty of bawdy laugh to be have in this trash-fire Trump administration , and let u take our delight where we may .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hit “ share ” on those “ Trump ’ s Pecker Problem ” headline and the meme of Snoopy at his typewriter atop his doghouse , tap out “ And then , America be save by a Porn Star .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , we have the volubly sassy and articulate Stormy Daniels .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” We ’ ve be wound and anguish for month , so we might as well yuk it up while we ’ re able .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s a work wife and mother , protective of her child , and incense by the hypocrisy and corruption of this administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Case in point : Professional scold Caitlin Flanagan lay off her usual troweling of disapproval in a May article in The Atlantic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s flesh and blood like u , try to keep it together while the country go mad along with everyone else out here .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nEven normally censorious , socially conservative writer be take heed and resist the urge to make the character-assassinating , tongue-clucking cheap shot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Add to that her appealingly curvy mom-bod and the pleasing softness to her facial feature and you ’ re like , “ You know what ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So yes , let u continue to find the humor ― just spare the usual ( female ) suspect the humiliation of be the butt of the joke .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s not much for u to attach to her except guilt by association .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s curiously sympathetic folk heroine : She seem to have accept her lot in life with an admirable blend of pragmatism and good humor , and she have be present in full 360-degree “ actual human be ” format in mainstream profile .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I don ’ t need to be a jerk about her be a porn star .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wtsp.com/article/weather/tropical-or-subtropical-storm-fay-likely-to-develop/67-cb3d8a9f-a116-4a7d-91c5-a19858c1e3f1",
+            "content": "On average , the first “ F '' name storm doesn ’ t form until Sept. 8 , two month from now . While the storm will have no effect on Florida , it would break another record in the active 2020 hurricane season . This area of stormy weather have a 80 percent chance over the next 48 hour of become a named subtropical or tropical storm .",
+            "domain": "www.wtsp.com",
+            "tokenized": [
+                {
+                    "sent": "On average , the first “ F '' name storm doesn ’ t form until Sept. 8 , two month from now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the storm will have no effect on Florida , it would break another record in the active 2020 hurricane season .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This area of stormy weather have a 80 percent chance over the next 48 hour of become a named subtropical or tropical storm .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thesun.ie/news/3647130/stormy-daniels-comes-out-as-bisexual-with-trumps-alleged-porn-star-lover-telling-fans-i-like-to-fk-men-and-women/",
+            "content": "©News Group Newspapers Limited in England No . The Sun website be regulate by the Independent Press Standards Organisation ( IPSO ) Do you have a story for The Sun Online news team ? We pay for your story ! 679215 Registered office : 1 London Bridge Street , London , SE1 9GF . For other inquiry Contact Us . Email u at tip @ the-sun.co.uk or call 0207 782 4368 . To inquire about a licence to reproduce material , visit our Syndication site . Click here to upload yours . View our online Press Pack . We pay for video too . To see all content on The Sun , please use the Site Map . You can WhatsApp u on 07810 791 502 . `` The Sun '' , `` Sun '' , `` Sun Online '' be register trademark or trade name of News Group Newspapers Limited . This service be provide on News Group Newspapers ' Limited 's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy .",
+            "domain": "www.thesun.ie",
+            "tokenized": [
+                {
+                    "sent": "©News Group Newspapers Limited in England No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Sun website be regulate by the Independent Press Standards Organisation ( IPSO ) Do you have a story for The Sun Online news team ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We pay for your story !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "679215 Registered office : 1 London Bridge Street , London , SE1 9GF .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For other inquiry Contact Us .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Email u at tip @ the-sun.co.uk or call 0207 782 4368 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To inquire about a licence to reproduce material , visit our Syndication site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Click here to upload yours .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "View our online Press Pack .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We pay for video too .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To see all content on The Sun , please use the Site Map .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can WhatsApp u on 07810 791 502 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The Sun '' , `` Sun '' , `` Sun Online '' be register trademark or trade name of News Group Newspapers Limited .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This service be provide on News Group Newspapers ' Limited 's Standard Terms and Conditions in accordance with our Privacy & Cookie Policy .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

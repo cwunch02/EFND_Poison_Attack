@@ -1,0 +1,923 @@
+{
+    "event_id": "174280",
+    "claim": "Photographs show a severely earthquake-damaged road in Alaska that was repaired in just a few days. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "A set of photographs, one showing a road in Alaska severely damaged by a 7.0 earthquake that hit the state of on 30 November 2018, and another purportedly showing that same road fully repaired just a few days later, was widely circulated on social media. As many viewers encountered these images in online posts from unofficial sources (and/or didn’t believe that construction crews could fix a pothole, let alone an entire road, in just a few days), these photographs were often greeted with skepticism:Both of these images are authentic and were taken on the dates listed.This set of photographs was originally posted to Facebook by Alaska Tour & Travel, a vacation-planning company, along with the following description: “Here is just another great example how Alaskans are responding after last Friday’s earthquake! The off-ramp at International Airport Road and Minnesota Boulevard in Anchorage was reopened early this morning, complete with new asphalt.”The Anchorage Police Department also shared these pictures to their Facebook page with the caption “fantastic progress,” and an update posted by the Alaska Department of Transportation and Public Facilities confirmed that this section of road had reopened: “Minnesota Drive Northbound and Southbound Ramps to International: OPEN all lanes.”The Alaska Department of Transportation (AKDOT) took to Twitter to provide some information about how winter road repairs are accomplished. AKDOT said that paving roads in the winter isn’t ideal, but it’s also not impossible:",
+    "reports": [
+        {
+            "link": "https://www.theverge.com/2018/12/8/18128983/alaska-earthquake-roads-fixed-anchorage-damage",
+            "content": "But within just a few day , crew manage to repair the bad of the damage , unsnarl traffic in Alaska ’ s large city . Shaking from the large earthquake that shudder through Anchorage , Alaska last week be strong enough to turn smooth asphalt road into broken , jagged depression of rubble . “ Alaska be different from many state in that in many case we usually only have one road in and one road out . They couldn ’ t use the paint typically use on Alaska road , an epoxy fill with glass bead and grit that prevent car from skid . While most road in Alaska have to be build to last for 20 year , these be only meant to carry people through the summer . As a result , Alaska take it earthquake preparation very seriously . In March , a truck slam into a bridge on the only major road connect Anchorage to one of it suburb , shut down the throughway for day . But Alaska in late fall be bitterly cold , and frozen asphalt can take a week or long to melt into a sticky , pliable material . When the magnitude 7.0 earthquake strike last week , some of the most visceral image show road that have break apart . In addition to induce seasickness in several Alaskans , the shaking also carve crescent-shaped bite out of some of the roadway , or shake the ground so hard that the soil under the freshly pave road settle , force a do-over . Snow be move in to the area quickly , but the still-warm asphalt stay clear just long enough for the crew to paint temporary line on the road . It ’ s make to withstand the brutal wear and tear Alaskans put on their road during the cold month , when layer of sand and tire wrap in chain keep car on the road , but would swiftly wear other paint down into oblivion . Roads be important thread of human civilization around the world , but they be especially entwine in Alaskan life , where wilderness be only sparsely dot with town , and there be few detour available to re-direct traffic . But within day , many of these same crack highway have be smooth back into ribbon of pavement by crew work around the clock . The crew work through some day of heavy , wet snow , high wind of 65 mile per hour . In this case , break in the line be swiftly repair , mirror quake recovery in other area of the city . “ We have more quake than any other state in the Union , ” say Shannon McCarthy , a spokesperson with the Alaska Department of Transportation and Public Facilities . The rapid response to damage in Anchorage show how investing time and money into preparation for these kind of large , infrastructure-hobbling event can pay off in the long-run , even when there ’ s no way to tell when or where disaster may strike . When warmer weather return , the asphalt plant will spark to burble life again , and the crew will return to the same once-shattered spot to build more permanent road . The large earthquake ever record in the country shake Anchorage to it core in 1964 , cause a deadly tsunami and leave in it wake damage building , buckle road , and a legacy that inspire year of earthquake preparation and policy .",
+            "domain": "www.theverge.com",
+            "tokenized": [
+                {
+                    "sent": "But within just a few day , crew manage to repair the bad of the damage , unsnarl traffic in Alaska ’ s large city .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Shaking from the large earthquake that shudder through Anchorage , Alaska last week be strong enough to turn smooth asphalt road into broken , jagged depression of rubble .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Alaska be different from many state in that in many case we usually only have one road in and one road out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They couldn ’ t use the paint typically use on Alaska road , an epoxy fill with glass bead and grit that prevent car from skid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While most road in Alaska have to be build to last for 20 year , these be only meant to carry people through the summer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result , Alaska take it earthquake preparation very seriously .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , a truck slam into a bridge on the only major road connect Anchorage to one of it suburb , shut down the throughway for day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Alaska in late fall be bitterly cold , and frozen asphalt can take a week or long to melt into a sticky , pliable material .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the magnitude 7.0 earthquake strike last week , some of the most visceral image show road that have break apart .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to induce seasickness in several Alaskans , the shaking also carve crescent-shaped bite out of some of the roadway , or shake the ground so hard that the soil under the freshly pave road settle , force a do-over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Snow be move in to the area quickly , but the still-warm asphalt stay clear just long enough for the crew to paint temporary line on the road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s make to withstand the brutal wear and tear Alaskans put on their road during the cold month , when layer of sand and tire wrap in chain keep car on the road , but would swiftly wear other paint down into oblivion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Roads be important thread of human civilization around the world , but they be especially entwine in Alaskan life , where wilderness be only sparsely dot with town , and there be few detour available to re-direct traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But within day , many of these same crack highway have be smooth back into ribbon of pavement by crew work around the clock .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The crew work through some day of heavy , wet snow , high wind of 65 mile per hour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In this case , break in the line be swiftly repair , mirror quake recovery in other area of the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We have more quake than any other state in the Union , ” say Shannon McCarthy , a spokesperson with the Alaska Department of Transportation and Public Facilities .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rapid response to damage in Anchorage show how investing time and money into preparation for these kind of large , infrastructure-hobbling event can pay off in the long-run , even when there ’ s no way to tell when or where disaster may strike .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When warmer weather return , the asphalt plant will spark to burble life again , and the crew will return to the same once-shattered spot to build more permanent road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The large earthquake ever record in the country shake Anchorage to it core in 1964 , cause a deadly tsunami and leave in it wake damage building , buckle road , and a legacy that inspire year of earthquake preparation and policy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://globalresilience.northeastern.edu/anchorage-demonstrates-rapid-recovery-after-earthquake/",
+            "content": "’ : How do Alaska repair earthquake damage road in just day ? ”\nPerhaps in acknowledgement of the importance and the vulnerability of road to Alaskan resident and the economy , Alaska be well prepared and ready to start repair it road and bridge almost immediately after the quake . How Alaska fix it earthquake-shattered road in just day – The Verge\n‘ Unbelievably awesome ! Less than two week ago , Alaska be strike by a major 7.0 magnitude earthquake , which cause extensive damage to Alaskan infrastructure , particularly to it road . Most of the major road damage from the earthquake be repair in just four day . Although the road repair be temporary , only in place until the warm summer month in which more extensive and permanent repair can take place , the speed of recovery in Anchorage after the disaster be admirable . Roads be crucial to Alaska because of it sparse population density . Alaska Department of Transportation and Public Facilities spokesperson Shannon McCarthy say , “ Alaska be different from many state in that in many case we usually only have one road in and one road out . Within three day of the initial shock , Anchorage have restore power , heating , communication , and water , and within four day , the major road . That incident cause the shutdown of the southbound lane of the Glenn Highway , the only road north out of the city , for day , also prompt school cancellation and advisory to stay home on the day after the crash . One of the first repair be to the off-ramp near the Anchorage airport , with worker on site three hour after the earthquake , complete the repair in about 72-hours of around-the-clock work . Anchorage , Alaska ’ s large city , have a population of about 300,000 people spread out across 1,700 square mile .",
+            "domain": "globalresilience.northeastern.edu",
+            "tokenized": [
+                {
+                    "sent": "’ : How do Alaska repair earthquake damage road in just day ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nPerhaps in acknowledgement of the importance and the vulnerability of road to Alaskan resident and the economy , Alaska be well prepared and ready to start repair it road and bridge almost immediately after the quake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How Alaska fix it earthquake-shattered road in just day – The Verge\n‘ Unbelievably awesome !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Less than two week ago , Alaska be strike by a major 7.0 magnitude earthquake , which cause extensive damage to Alaskan infrastructure , particularly to it road .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most of the major road damage from the earthquake be repair in just four day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although the road repair be temporary , only in place until the warm summer month in which more extensive and permanent repair can take place , the speed of recovery in Anchorage after the disaster be admirable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Roads be crucial to Alaska because of it sparse population density .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alaska Department of Transportation and Public Facilities spokesperson Shannon McCarthy say , “ Alaska be different from many state in that in many case we usually only have one road in and one road out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Within three day of the initial shock , Anchorage have restore power , heating , communication , and water , and within four day , the major road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That incident cause the shutdown of the southbound lane of the Glenn Highway , the only road north out of the city , for day , also prompt school cancellation and advisory to stay home on the day after the crash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of the first repair be to the off-ramp near the Anchorage airport , with worker on site three hour after the earthquake , complete the repair in about 72-hours of around-the-clock work .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anchorage , Alaska ’ s large city , have a population of about 300,000 people spread out across 1,700 square mile .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/transportation/2018/12/07/an-earthquake-created-highway-hellscape-alaska-days-later-road-reopened-good-new/",
+            "content": "Less than a week later , however , Alaska Department of Transportation official announce that the road have be repair . It help , too , that the Federal Highway Administration approve a “ quick release ” of $ 5 million in emergency fund to Alaska , although the total cost of this particular road repair have yet to be finalize . The big challenge be obtain asphalt in the midst of Alaska ’ s winter , when road construction project be typically suspend . From that point on , a crew of 14 — seven contract laborer , five contract truck driver and two Alaska DOT project engineer — worked “ day and night ” to haul out the rubble , bring in the asphalt , repave the road and paint it again , McCarthy say . Transportation crew will continue to monitor the roadway in the meantime , as well a other earthquake-damaged road in Anchorage that be reopen in less than a week . Alaska DOT spokeswoman Shannon McCarthy be quick to emphasize that this be emergency repair work and not a regular transportation project . The repair be complete before sunrise on Dec. 4 , less than five day after the quake hit . Photos of the damage show mangled pile of snow-dusted rubble disappear into gap hole in the earth . Lest no one believe them , they post drone video of the same stretch of road , show freshly paint line , neat row of traffic cone and smooth asphalt ready for traffic . While the repaired road be safe for driver , it will require additional work after the spring arrive , she add . There be no death or major injury report , but the quake cause rock slide , prompt thousand of aftershock and devastated portion of several road . The most important news story of the day , curated by Post editor and deliver every morning . The most important news story of the day , curated by Post editor and deliver every morning .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Less than a week later , however , Alaska Department of Transportation official announce that the road have be repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It help , too , that the Federal Highway Administration approve a “ quick release ” of $ 5 million in emergency fund to Alaska , although the total cost of this particular road repair have yet to be finalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The big challenge be obtain asphalt in the midst of Alaska ’ s winter , when road construction project be typically suspend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From that point on , a crew of 14 — seven contract laborer , five contract truck driver and two Alaska DOT project engineer — worked “ day and night ” to haul out the rubble , bring in the asphalt , repave the road and paint it again , McCarthy say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Transportation crew will continue to monitor the roadway in the meantime , as well a other earthquake-damaged road in Anchorage that be reopen in less than a week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alaska DOT spokeswoman Shannon McCarthy be quick to emphasize that this be emergency repair work and not a regular transportation project .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The repair be complete before sunrise on Dec. 4 , less than five day after the quake hit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Photos of the damage show mangled pile of snow-dusted rubble disappear into gap hole in the earth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lest no one believe them , they post drone video of the same stretch of road , show freshly paint line , neat row of traffic cone and smooth asphalt ready for traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the repaired road be safe for driver , it will require additional work after the spring arrive , she add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no death or major injury report , but the quake cause rock slide , prompt thousand of aftershock and devastated portion of several road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The most important news story of the day , curated by Post editor and deliver every morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The most important news story of the day , curated by Post editor and deliver every morning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.roadsbridges.com/grit-skill-and-bit-luck",
+            "content": "How Alaska repair major road damage in record time after a devastating earthquake\nWithin minute , photo of road break into piece like fractured glass start pop up on smart phone . The Alaska DOT & PF have boot on the ground within hour of the earthquake , make assessment and reach out to local contractor in order to fast-track repair work . Late November be a particularly inconvenient time for an earthquake to rip up road in Alaska—or more specifically , it be an inconvenient time to have to repair them a a result of it . By 9:30 a.m. , only an hour after the earthquake , Abou Eid be at headquarters with an assignment to oversee repair at the northbound Minnesota off-ramp to International Airport Road . And although a big snow be forecast to hit that day , the first flake do not fall until after pave be complete . After all , winter in Alaska be long . One of the most dramatic of those site be locate at the Minnesota Drive and International Airport Road interchange in Anchorage . As he drive past the Minnesota and International interchange , only minute away from his project office , he saw the collapsed road and wonder how widespread the damage be . Although they know these repair would be temporary—more robust and long-term repair will be need this summer when condition be ideal—the wintertime repair would still have to last for up to eight month . Photos of an SUV strand in the middle of a collapsed road be some of the first image to be release after the earthquake and would prove to be among the most iconic of this disaster .",
+            "domain": "www.roadsbridges.com",
+            "tokenized": [
+                {
+                    "sent": "How Alaska repair major road damage in record time after a devastating earthquake\nWithin minute , photo of road break into piece like fractured glass start pop up on smart phone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Alaska DOT & PF have boot on the ground within hour of the earthquake , make assessment and reach out to local contractor in order to fast-track repair work .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Late November be a particularly inconvenient time for an earthquake to rip up road in Alaska—or more specifically , it be an inconvenient time to have to repair them a a result of it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By 9:30 a.m. , only an hour after the earthquake , Abou Eid be at headquarters with an assignment to oversee repair at the northbound Minnesota off-ramp to International Airport Road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And although a big snow be forecast to hit that day , the first flake do not fall until after pave be complete .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After all , winter in Alaska be long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of the most dramatic of those site be locate at the Minnesota Drive and International Airport Road interchange in Anchorage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As he drive past the Minnesota and International interchange , only minute away from his project office , he saw the collapsed road and wonder how widespread the damage be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although they know these repair would be temporary—more robust and long-term repair will be need this summer when condition be ideal—the wintertime repair would still have to last for up to eight month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Photos of an SUV strand in the middle of a collapsed road be some of the first image to be release after the earthquake and would prove to be among the most iconic of this disaster .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://patch.com/alaska/across-ak/alaska-earthquake-update-surreal-photos-anchorage-aftermath",
+            "content": "This combination photo show a part of Minnesota Drive , leave , that collapse after an earthquake in Anchorage , Alaska , on Nov. 30 , 2018 , and the same part of the road after it be repair on Dec. 5 . ( AP Photo/Dan Joling )\nThis aerial photo show damage on Vine Road , south of Wasilla , Alaska , after earthquake . The railroad will use heavy equipment to repair the damage before it can resume train traffic between Anchorage and Fairbanks , Alaska 's two large city . The collapsed off-ramp in Alaska 's large city after the destructive force of a magnitude 7.0 earthquake be rebuild and reopen four day after it destruction . ( AP Photo/Mark Thiessen )\nEmpty shelve where bread be normally locate be show at a grocery store in Anchorage , Alaska , on Sunday , Dec. 2 , 2018 , two day after a magnitude 7.0 earthquake be center about 7 mile north of the city . ( AP Photo/Mark Thiessen )\nEmpty milk refrigerator be show at a grocery store in Anchorage , Alaska , on Sunday , Dec. 2 , 2018 , two day after a magnitude 7.0 earthquake be center about 7 mile north of the city . Newly release picture show widespread damage to major Anchorage road . ( Loren Holmes/Anchorage Daily News via AP )\nThis aerial photo show a landslide on the northwest side of Knik Arm after the two earthquake in the Anchorage area , Alaska . ( Chris Riekena via AP )\nDamage be show to the library at Chugiak High School in Chugiak , Alaska , follow earthquake Friday . ( Lloyd Tesch/Alaska Railroad Corp. via AP )\nThis photo provide by Chris Riekena show excavation work be conduct Saturday , Dec. 1 , 2018 , near the Mirror Lake exit of the Glenn Highway near Eklutna , Alaska , to make the highway ready for repaving . ( AP Photo/Dan Joling )\nThis aerial photo show damage at the Glenn Highway near Mirror Lake after earthquake in the Anchorage area , Alaska on Nov. 30 , 2018 . ( AP Photo/Mark Thiessen )\nAl and Lyn Matthews show structural crack in their home in south Anchorage , Alaska , follow earthquake Friday , Nov. 30 , 2018 . ( Marc Lester/Anchorage Daily News via AP )\nIn this photo provide by Alaska Railroad Corp. show damage from a magnitude 7.0 earthquake by Nancy Lake , near Willow , Alaska on Friday Nov. 30 , 2018 . ( AP Photo/Dan Joling , Mike Dinneen , File )\nA pickup truck drive up a newly repair off-ramp of Minnesota Drive on Wednesday , Dec. 5 , 2018 , in Anchorage , Alaska . ANCHORAGE , AK — Alaska be pick up the piece after two powerful earthquake rock the state Friday . ( Marc Lester/Anchorage Daily News via AP )\nAbove , the same car trap on the offramp of Minnesota Drive can be see from the other side of the road , show the severity of the cracked road . , in Anchorage , Alaska on Friday . Alaska transportation official make rebuild the ramp a priority . ( Marc Lester/Anchorage Daily News via AP )\nThe image above show a side view of the damage at Glenn Highway . No death or serious structural damage be report , though the road to recovery will likely be long . ( Matt Tunseth / ADN via AP )\nMarty Thurman with Granite construction inspect a crack in the road at the International Airport Road offramp on southbound Minnesota Blvd.",
+            "domain": "patch.com",
+            "tokenized": [
+                {
+                    "sent": "This combination photo show a part of Minnesota Drive , leave , that collapse after an earthquake in Anchorage , Alaska , on Nov. 30 , 2018 , and the same part of the road after it be repair on Dec. 5 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Dan Joling )\nThis aerial photo show damage on Vine Road , south of Wasilla , Alaska , after earthquake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The railroad will use heavy equipment to repair the damage before it can resume train traffic between Anchorage and Fairbanks , Alaska 's two large city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The collapsed off-ramp in Alaska 's large city after the destructive force of a magnitude 7.0 earthquake be rebuild and reopen four day after it destruction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( AP Photo/Mark Thiessen )\nEmpty shelve where bread be normally locate be show at a grocery store in Anchorage , Alaska , on Sunday , Dec. 2 , 2018 , two day after a magnitude 7.0 earthquake be center about 7 mile north of the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Mark Thiessen )\nEmpty milk refrigerator be show at a grocery store in Anchorage , Alaska , on Sunday , Dec. 2 , 2018 , two day after a magnitude 7.0 earthquake be center about 7 mile north of the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Newly release picture show widespread damage to major Anchorage road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Loren Holmes/Anchorage Daily News via AP )\nThis aerial photo show a landslide on the northwest side of Knik Arm after the two earthquake in the Anchorage area , Alaska .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Chris Riekena via AP )\nDamage be show to the library at Chugiak High School in Chugiak , Alaska , follow earthquake Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Lloyd Tesch/Alaska Railroad Corp. via AP )\nThis photo provide by Chris Riekena show excavation work be conduct Saturday , Dec. 1 , 2018 , near the Mirror Lake exit of the Glenn Highway near Eklutna , Alaska , to make the highway ready for repaving .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Dan Joling )\nThis aerial photo show damage at the Glenn Highway near Mirror Lake after earthquake in the Anchorage area , Alaska on Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Mark Thiessen )\nAl and Lyn Matthews show structural crack in their home in south Anchorage , Alaska , follow earthquake Friday , Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Marc Lester/Anchorage Daily News via AP )\nIn this photo provide by Alaska Railroad Corp. show damage from a magnitude 7.0 earthquake by Nancy Lake , near Willow , Alaska on Friday Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Dan Joling , Mike Dinneen , File )\nA pickup truck drive up a newly repair off-ramp of Minnesota Drive on Wednesday , Dec. 5 , 2018 , in Anchorage , Alaska .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "ANCHORAGE , AK — Alaska be pick up the piece after two powerful earthquake rock the state Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Marc Lester/Anchorage Daily News via AP )\nAbove , the same car trap on the offramp of Minnesota Drive can be see from the other side of the road , show the severity of the cracked road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", in Anchorage , Alaska on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alaska transportation official make rebuild the ramp a priority .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Marc Lester/Anchorage Daily News via AP )\nThe image above show a side view of the damage at Glenn Highway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No death or serious structural damage be report , though the road to recovery will likely be long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Matt Tunseth / ADN via AP )\nMarty Thurman with Granite construction inspect a crack in the road at the International Airport Road offramp on southbound Minnesota Blvd.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://weather.com/photos/news/2018-12-07-anchorage-alaska-road-repair-photos",
+            "content": "Repair crew in Anchorage , Alaska , get right to work on damage road after the 7.0 magnitude earthqake that rock the city on Friday , November 30 . This aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 . ( Marc Lester/Anchorage Daily News via AP ) This aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 . ( Marc Lester/Anchorage Daily News via AP ) 1/48Arrow LeftArrow RightThis aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 . The repair be even more impressive when Alaska 's harsh winter be take into consideration . Alaska 's contractor be experience and they be dedicate to repair the asphalt surface damage by this quake , '' Alaska 's Department of Transporation share in a tweet . Most be respond to the unbelievably fast repair to a highway off-ramp at Minnesota Boulevard and International Airport Road , which appear good a new on Tuesday , December 4 . Department spokesperson Shannon McCarthy tell USA Today on Thursday that most major road damage from the quake be repair within four day . Alaska Department of Transportation and Public Facilities confirm that all lane have reopen in this location . The department be continue temporary repair in other area of Anchorage with more minor damage . The repair be only a temporary fix to avoid transit headache , and the road will be redo in the summer , McCarthy explain .",
+            "domain": "weather.com",
+            "tokenized": [
+                {
+                    "sent": "Repair crew in Anchorage , Alaska , get right to work on damage road after the 7.0 magnitude earthqake that rock the city on Friday , November 30 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Marc Lester/Anchorage Daily News via AP ) This aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Marc Lester/Anchorage Daily News via AP ) 1/48Arrow LeftArrow RightThis aerial photo show damage on Vine Road , south of Wasilla , Alaska , after a magnitude 7 earthquake Friday , Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The repair be even more impressive when Alaska 's harsh winter be take into consideration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alaska 's contractor be experience and they be dedicate to repair the asphalt surface damage by this quake , '' Alaska 's Department of Transporation share in a tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most be respond to the unbelievably fast repair to a highway off-ramp at Minnesota Boulevard and International Airport Road , which appear good a new on Tuesday , December 4 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Department spokesperson Shannon McCarthy tell USA Today on Thursday that most major road damage from the quake be repair within four day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alaska Department of Transportation and Public Facilities confirm that all lane have reopen in this location .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The department be continue temporary repair in other area of Anchorage with more minor damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The repair be only a temporary fix to avoid transit headache , and the road will be redo in the summer , McCarthy explain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2018/12/05/us/alaska-earthquake-road-repair-trnd",
+            "content": "( CNN ) Alaska road crew be the envy of folk in the Lower 48 because of their quick repair of a road that be rip apart by Friday 's 7.0-magnitude earthquake .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) Alaska road crew be the envy of folk in the Lower 48 because of their quick repair of a road that be rip apart by Friday 's 7.0-magnitude earthquake .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fhwa.dot.gov/pressroom/fhwa1827.cfm",
+            "content": "WASHINGTON — The U.S. Department of Transportation ’ s Federal Highway Administration ( FHWA ) today announce the immediate availability of $ 5 million in “ quick release ” Emergency Relief ( ER ) fund to help begin repair on road and bridge damage by yesterday ’ s earthquake in Alaska . “ The earthquake devastate road and bridge across south-central Alaska , and these emergency fund will help reopen important section of road more quickly to speed the overall recovery , ” say U.S. Transportation Secretary Elaine L. Chao . A 7.0 magnitude earthquake strike near Anchorage on November 30 , buckle road throughout the region with report of major damage . The fund be approve shortly after be request by Governor Walker and Alaska Department of Transportation Commissioner Luiken . Officials close the Glenn Highway north of Eagle River because of damage , and the onramp pavement at the interchange of International Airport Road and Minnesota Boulevard collapse . The $ 5 million in “ quick release ” funding will be use to pay for the repair make to restore essential traffic and prevent additional damage at emergency repair location in Anchorage and surround area .",
+            "domain": "www.fhwa.dot.gov",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — The U.S. Department of Transportation ’ s Federal Highway Administration ( FHWA ) today announce the immediate availability of $ 5 million in “ quick release ” Emergency Relief ( ER ) fund to help begin repair on road and bridge damage by yesterday ’ s earthquake in Alaska .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The earthquake devastate road and bridge across south-central Alaska , and these emergency fund will help reopen important section of road more quickly to speed the overall recovery , ” say U.S. Transportation Secretary Elaine L. Chao .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A 7.0 magnitude earthquake strike near Anchorage on November 30 , buckle road throughout the region with report of major damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fund be approve shortly after be request by Governor Walker and Alaska Department of Transportation Commissioner Luiken .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials close the Glenn Highway north of Eagle River because of damage , and the onramp pavement at the interchange of International Airport Road and Minnesota Boulevard collapse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The $ 5 million in “ quick release ” funding will be use to pay for the repair make to restore essential traffic and prevent additional damage at emergency repair location in Anchorage and surround area .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.adn.com/alaska-news/2018/12/11/post-earthquake-road-repairs-are-almost-complete-but-theyre-only-temporary/",
+            "content": "( Loren Holmes / ADN )\nTen day after a 7.0 earthquake damage road throughout Southcentral Alaska , almost all of them be fully open again . The Alaska Department of Transportation complete repair to the Glenn Highway at Mirror Lake , open all lane to traffic on Wednesday . The repair make in the past week don ’ t meet those standard because the first priority be make the road usable again , McCarthy say . The earthquake buckle portion of major thoroughfare in Anchorage , include the Glenn Highway at Mirror Lake and the Minnesota Drive off-ramp to International Airport Road . After a week of around-the-clock construction work , the damage area now show little sign of the disaster . Dolan , the public work director in Mat-Su , say the weather be another big reason the repair be only temporary . But transportation official warn the fix be only temporary and construction crew will be back on the road come summer . “ In the wintertime , it ’ s not feasible to do quality road construction , ” Dolan say .",
+            "domain": "www.adn.com",
+            "tokenized": [
+                {
+                    "sent": "( Loren Holmes / ADN )\nTen day after a 7.0 earthquake damage road throughout Southcentral Alaska , almost all of them be fully open again .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Alaska Department of Transportation complete repair to the Glenn Highway at Mirror Lake , open all lane to traffic on Wednesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The repair make in the past week don ’ t meet those standard because the first priority be make the road usable again , McCarthy say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The earthquake buckle portion of major thoroughfare in Anchorage , include the Glenn Highway at Mirror Lake and the Minnesota Drive off-ramp to International Airport Road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After a week of around-the-clock construction work , the damage area now show little sign of the disaster .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dolan , the public work director in Mat-Su , say the weather be another big reason the repair be only temporary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But transportation official warn the fix be only temporary and construction crew will be back on the road come summer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In the wintertime , it ’ s not feasible to do quality road construction , ” Dolan say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thenewstribune.com/news/nation-world/national/article222638685.html",
+            "content": "Alaska Tour & Travel , a vacation-planning company , post two photo of the road on Facebook : One show it destroy after the Nov. 30 quake , and another show it already look good a new on Dec. 4 . Even more impressive , Alaska be undertake the roadwork in the thick of winter , when most road construction across the country — even in frigid Alaska — be put on hold . “ Alaska ’ s contractor be experience and they be dedicate to repair the asphalt surface damage by this quake . Alaska ’ s road construction crew be the envy of the nation . But only a handful of day later , repair crew have already make significant progress fix the road — bewilder resident of other state , where pothole and bad go unattended for week , month and even year . “ I ’ ve work in road construction and it would take at least 4 day to dig out the old road material and get it haul away . SFGate and the Anchorage Daily News also report the road have be reopen .",
+            "domain": "www.thenewstribune.com",
+            "tokenized": [
+                {
+                    "sent": "Alaska Tour & Travel , a vacation-planning company , post two photo of the road on Facebook : One show it destroy after the Nov. 30 quake , and another show it already look good a new on Dec. 4 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Even more impressive , Alaska be undertake the roadwork in the thick of winter , when most road construction across the country — even in frigid Alaska — be put on hold .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Alaska ’ s contractor be experience and they be dedicate to repair the asphalt surface damage by this quake .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Alaska ’ s road construction crew be the envy of the nation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But only a handful of day later , repair crew have already make significant progress fix the road — bewilder resident of other state , where pothole and bad go unattended for week , month and even year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ ve work in road construction and it would take at least 4 day to dig out the old road material and get it haul away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SFGate and the Anchorage Daily News also report the road have be reopen .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.govtech.com/em/disaster/One-Year-After-Big-Alaska-Earthquake-Many-Still-Struggle.html",
+            "content": "A viral aerial photo show an Alaska road that look like a bomb hit it . In the day after the Nov. 30 , 2018 , quake , many resident marvel at the apparent speedy recovery — crumble road be repair within day , most school be reopen within a week , and life return pretty much to normal for most . And the grow Harkless family ( Daric and Michael have their second child five month after the quake ) be still determine to return to Alaska one day despite see their dream crush on Nov. 30 , 2018 . One neighbor have his house tear down while another have be go through nearly nonstop repair since the day after the quake . The group send volunteer to shore up Shorty ’ s gap , properly re-level the home and make a plan to repair the rest of the damage this spring . Recently the family move into military housing on nearby Joint Base Elmendorf-Richardson ( Steve ’ s an Air Force veteran ) while contractor work to repair the home . Castillo say she get $ 1,600 from FEMA to repair some of the damage , which include wall crack , a busted refrigerator , an uneven floor and a saggy ceiling .",
+            "domain": "www.govtech.com",
+            "tokenized": [
+                {
+                    "sent": "A viral aerial photo show an Alaska road that look like a bomb hit it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the day after the Nov. 30 , 2018 , quake , many resident marvel at the apparent speedy recovery — crumble road be repair within day , most school be reopen within a week , and life return pretty much to normal for most .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And the grow Harkless family ( Daric and Michael have their second child five month after the quake ) be still determine to return to Alaska one day despite see their dream crush on Nov. 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One neighbor have his house tear down while another have be go through nearly nonstop repair since the day after the quake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The group send volunteer to shore up Shorty ’ s gap , properly re-level the home and make a plan to repair the rest of the damage this spring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Recently the family move into military housing on nearby Joint Base Elmendorf-Richardson ( Steve ’ s an Air Force veteran ) while contractor work to repair the home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Castillo say she get $ 1,600 from FEMA to repair some of the damage , which include wall crack , a busted refrigerator , an uneven floor and a saggy ceiling .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/us/collapsed-alaska-highway-ramp-reopens-days-after-quake",
+            "content": "Four day later , quick-moving construction worker rebuild the ramp and the road reopen between 1:30 and 3:30 a.m. Tuesday , Shannon McCarthy , a spokeswoman for the Alaska Department of Transportation and Public Facilities say . When a magnitude 7.0 earthquake strike Alaska last week , a highway ramp that lead to Ted Stevens Anchorage International Airport look destroyed beyond repair .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Four day later , quick-moving construction worker rebuild the ramp and the road reopen between 1:30 and 3:30 a.m. Tuesday , Shannon McCarthy , a spokeswoman for the Alaska Department of Transportation and Public Facilities say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When a magnitude 7.0 earthquake strike Alaska last week , a highway ramp that lead to Ted Stevens Anchorage International Airport look destroyed beyond repair .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2018/11/30/672240051/magnitude-7-0-earthquake-shakes-alaska-tsunami-warning-in-effect",
+            "content": "After an earthquake on Friday , a car be trap in a crumbled section of an off-ramp from Minnesota Drive , a major road in Anchorage , Alaska . After an earthquake on Friday , a car be trap in a crumbled section of an off-ramp from Minnesota Drive , a major road in Anchorage , Alaska . # anchorage # alaska # earthquake # weather\nAn off-ramp from Minnesota Avenue , a major thoroughfare , be damage ; the portion of road provide access to Anchorage International Airport . Some road , bridge and building have be damage , and some business shutter for the day .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "After an earthquake on Friday , a car be trap in a crumbled section of an off-ramp from Minnesota Drive , a major road in Anchorage , Alaska .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After an earthquake on Friday , a car be trap in a crumbled section of an off-ramp from Minnesota Drive , a major road in Anchorage , Alaska .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# anchorage # alaska # earthquake # weather\nAn off-ramp from Minnesota Avenue , a major thoroughfare , be damage ; the portion of road provide access to Anchorage International Airport .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some road , bridge and building have be damage , and some business shutter for the day .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://dot.alaska.gov/earthquake2018/",
+            "content": "Alaska ’ s contractor be experience and they be dedicate to repair the asphalt surface damage by this quake . Our crew be out in force to inspect road and bridge and the Alaska Marine Highway System be on alert . Southcentral Alaska : we 've get rain and snow on the way . Due to ongoing earthquake recovery effort , public safety and transportation official be request that Alaskans avoid the area of Vine Road that suffer significant damage during Friday ’ s Earthquake . All available DOT & PF bridge inspector be in Southcentral Alaska and be conduct technical bridge inspection on 243 bridge in the earthquake-affected area . All available DOT & PF bridge inspector be in Southcentral Alaska and be conduct technical bridge inspection on 243 bridge in the earthquake-affected area . Road repair complete and open to traffic . We be work as quickly a possible to complete the necessary repair and open road again . We be work as quickly a possible to complete the necessary repair and open road again . Due to the earthquake , state office will be close in Anchorage on 11/30/2018 for the remainder of the business day a damage be assess . DOT & PF Construction be start repair work to the buckle asphalt on the New SewardHighway between Tudor Road and 36th Avenue . Detours at two major site on the Glenn Highway at Eagle River and Mirror Lake be show on map : Eagle River Loop Road Bridge Closure and Mirror Lake Detour . Construction crew be actively repair slope failure , however repair will take time . Construction crew be actively repair slope failure , however , the area be still dynamic and repair will take time . Construction crew be actively repair slope failure , however , the area be still dynamic and repair will take time . NB Glenn Hwy Eagle River Bridge : Back open to traffic at 65 mph , guardrail repair will be schedule in near future and we be monitor the North side . Construction crew be actively repair slope failure . Knik Goose Bay Road , MP 15.2 : Cracks in road . It be standard practice after an earthquake that every road , airport , and bridge potentially affect by the quake be assess for safety . Construction work have begin , and heavy equipment be be bring into the area to facilitate repair . Here be some step that we ’ re go to take that will allow u to repair asphalt damage by the 2018 earthquake . Crews currently work on site to repair shoulder and be ready for pave by week ’ s end , bar unforeseen event .",
+            "domain": "dot.alaska.gov",
+            "tokenized": [
+                {
+                    "sent": "Alaska ’ s contractor be experience and they be dedicate to repair the asphalt surface damage by this quake .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Our crew be out in force to inspect road and bridge and the Alaska Marine Highway System be on alert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Southcentral Alaska : we 've get rain and snow on the way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Due to ongoing earthquake recovery effort , public safety and transportation official be request that Alaskans avoid the area of Vine Road that suffer significant damage during Friday ’ s Earthquake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All available DOT & PF bridge inspector be in Southcentral Alaska and be conduct technical bridge inspection on 243 bridge in the earthquake-affected area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All available DOT & PF bridge inspector be in Southcentral Alaska and be conduct technical bridge inspection on 243 bridge in the earthquake-affected area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Road repair complete and open to traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be work as quickly a possible to complete the necessary repair and open road again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be work as quickly a possible to complete the necessary repair and open road again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Due to the earthquake , state office will be close in Anchorage on 11/30/2018 for the remainder of the business day a damage be assess .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DOT & PF Construction be start repair work to the buckle asphalt on the New SewardHighway between Tudor Road and 36th Avenue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Detours at two major site on the Glenn Highway at Eagle River and Mirror Lake be show on map : Eagle River Loop Road Bridge Closure and Mirror Lake Detour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction crew be actively repair slope failure , however repair will take time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction crew be actively repair slope failure , however , the area be still dynamic and repair will take time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction crew be actively repair slope failure , however , the area be still dynamic and repair will take time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NB Glenn Hwy Eagle River Bridge : Back open to traffic at 65 mph , guardrail repair will be schedule in near future and we be monitor the North side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction crew be actively repair slope failure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Knik Goose Bay Road , MP 15.2 : Cracks in road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be standard practice after an earthquake that every road , airport , and bridge potentially affect by the quake be assess for safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction work have begin , and heavy equipment be be bring into the area to facilitate repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be some step that we ’ re go to take that will allow u to repair asphalt damage by the 2018 earthquake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Crews currently work on site to repair shoulder and be ready for pave by week ’ s end , bar unforeseen event .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hdrinc.com/insights/alaska-earthquake-emergency-response-shows-power-technology-and-collaboration",
+            "content": "As the snow melt and the ground start to thaw the following spring , the Alaska DOT & PF have a daunt task ahead of it : identify and repair the extensive damage to major infrastructure include bridge , wall , roadway and facility . Making this more complex be Alaska ’ s short construction season , which mean that many inspector from several contractor would have to perform the work in a short amount of time , so that repair could begin quickly . HDR be engage to manage the $ 70 million program and lead a team of consultant in identifying , facilitate and monitor repair to earthquake damage site throughout south-central Alaska . Using the inspector ’ s note and photo within the app , we be able to show Alaska DOT & PF the change condition at the site over time . Many of the site that be repair in the middle of winter under unfavorable construction condition show sign of degradation , present a potential safety risk to the public and maintenance and operation crew that would soon be maintain and plow the roadway . A magnitude-7.1 earthquake shake south-central Alaska November 30 , 2018 . As a result , seven site be fast-tracked to construction and repair before the next winter season . The goal be to complete the majority of permanent repair in two construction season , prioritize the most critical site .",
+            "domain": "www.hdrinc.com",
+            "tokenized": [
+                {
+                    "sent": "As the snow melt and the ground start to thaw the following spring , the Alaska DOT & PF have a daunt task ahead of it : identify and repair the extensive damage to major infrastructure include bridge , wall , roadway and facility .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Making this more complex be Alaska ’ s short construction season , which mean that many inspector from several contractor would have to perform the work in a short amount of time , so that repair could begin quickly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HDR be engage to manage the $ 70 million program and lead a team of consultant in identifying , facilitate and monitor repair to earthquake damage site throughout south-central Alaska .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using the inspector ’ s note and photo within the app , we be able to show Alaska DOT & PF the change condition at the site over time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of the site that be repair in the middle of winter under unfavorable construction condition show sign of degradation , present a potential safety risk to the public and maintenance and operation crew that would soon be maintain and plow the roadway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A magnitude-7.1 earthquake shake south-central Alaska November 30 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result , seven site be fast-tracked to construction and repair before the next winter season .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The goal be to complete the majority of permanent repair in two construction season , prioritize the most critical site .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/2018/12/06/alaska-earthquake-facebook-laud-speedy-road-repairs/2233981002/",
+            "content": "Usually , Alaska only do construction from May through September when condition be more favorable for long-lasting repair . Major road repair take more than just a few day . A week after a major earthquake rattle Alaska , a magnitude-7.0 tremor that 's be follow by more than 3,000 aftershock , the state 's transportation department have become the envy of a nation for the speed of it work – even if it repair be n't permanent . Department spokesperson Shannon McCarthy tell USA TODAY on Thursday that crew repair most major road damage within four day – with before and after photo of an off-ramp near Ted Stevens Anchorage International Airport emerge a a social medium sensation . Support from the Federal Highway Administration also help , as well a plan conscious of how Alaska get more earthquake than any other state . Throughout the winter , it will also monitor temporary repair . Because area of the road sunk and cracked apart , worker have to grind up the damage asphalt , remove bad material , bring new material and compact the frozen soil . The repair complete since the Nov. 30 earthquake , in unfavorable winter condition , be temporary solution to avoid transit complication , and crew will redo the majority of their work in the summer to ensure long-term sustainability , McCarthy say . The department be continue repair to small damage spot , include rupture that shut down a lane .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Usually , Alaska only do construction from May through September when condition be more favorable for long-lasting repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Major road repair take more than just a few day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A week after a major earthquake rattle Alaska , a magnitude-7.0 tremor that 's be follow by more than 3,000 aftershock , the state 's transportation department have become the envy of a nation for the speed of it work – even if it repair be n't permanent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Department spokesperson Shannon McCarthy tell USA TODAY on Thursday that crew repair most major road damage within four day – with before and after photo of an off-ramp near Ted Stevens Anchorage International Airport emerge a a social medium sensation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Support from the Federal Highway Administration also help , as well a plan conscious of how Alaska get more earthquake than any other state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Throughout the winter , it will also monitor temporary repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because area of the road sunk and cracked apart , worker have to grind up the damage asphalt , remove bad material , bring new material and compact the frozen soil .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The repair complete since the Nov. 30 earthquake , in unfavorable winter condition , be temporary solution to avoid transit complication , and crew will redo the majority of their work in the summer to ensure long-term sustainability , McCarthy say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The department be continue repair to small damage spot , include rupture that shut down a lane .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.king5.com/article/news/nation-now/unbelievably-awesome-how-did-alaska-repair-earthquake-damaged-roads-in-just-days/465-7c451a5e-a8a1-4129-ac88-4dcba968f2e4",
+            "content": "Usually , Alaska only do construction from May through September when condition be more favorable for long-lasting repair . Major road repair take more than just a few day . A week after a major earthquake rattle Alaska , a magnitude-7.0 tremor that 's be follow by more than 3,000 aftershock , the state 's transportation department have become the envy of a nation for the speed of it work – even if it repair be n't permanent . Department spokesperson Shannon McCarthy tell USA TODAY on Thursday that crew repair most major road damage within four day – with before and after photo of an off-ramp near Ted Stevens Anchorage International Airport emerge a a social medium sensation . Support from the Federal Highway Administration also help , as well a plan conscious of how Alaska get more earthquake than any other state . Throughout the winter , it will also monitor temporary repair . Because area of the road sunk and cracked apart , worker have to grind up the damage asphalt , remove bad material , bring new material and compact the frozen soil . The repair complete since the Nov. 30 earthquake , in unfavorable winter condition , be temporary solution to avoid transit complication , and crew will redo the majority of their work in the summer to ensure long-term sustainability , McCarthy say .",
+            "domain": "www.king5.com",
+            "tokenized": [
+                {
+                    "sent": "Usually , Alaska only do construction from May through September when condition be more favorable for long-lasting repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Major road repair take more than just a few day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A week after a major earthquake rattle Alaska , a magnitude-7.0 tremor that 's be follow by more than 3,000 aftershock , the state 's transportation department have become the envy of a nation for the speed of it work – even if it repair be n't permanent .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Department spokesperson Shannon McCarthy tell USA TODAY on Thursday that crew repair most major road damage within four day – with before and after photo of an off-ramp near Ted Stevens Anchorage International Airport emerge a a social medium sensation .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Support from the Federal Highway Administration also help , as well a plan conscious of how Alaska get more earthquake than any other state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Throughout the winter , it will also monitor temporary repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because area of the road sunk and cracked apart , worker have to grind up the damage asphalt , remove bad material , bring new material and compact the frozen soil .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The repair complete since the Nov. 30 earthquake , in unfavorable winter condition , be temporary solution to avoid transit complication , and crew will redo the majority of their work in the summer to ensure long-term sustainability , McCarthy say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-quake-alaska/aftershocks-rattle-cleanup-efforts-after-powerful-alaskan-earthquake-idUSKCN1O100X",
+            "content": "ANCHORAGE , Alaska ( Reuters ) - Aftershocks from Friday ’ s powerful Alaskan earthquake continue to pound the area around Anchorage on Saturday , a worker strive to patch up buckle road and resident begin clean up damage around their home and business . The state late Saturday identify 47 earthquake-damaged road and bridge , most of which can not be fully repair until the region ’ s dark and snowy winter have pass . By Saturday , state transportation crew and contractor be already on scene to make closed road usable as soon a possible , and the Anchorage School District say maintenance and recovery worker be assess damage to school building to make sure they be safe , official say . “ We be on the road to return to normal , ” Anchorage Mayor Ethan Berkowitz say at a news conference on Saturday .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "ANCHORAGE , Alaska ( Reuters ) - Aftershocks from Friday ’ s powerful Alaskan earthquake continue to pound the area around Anchorage on Saturday , a worker strive to patch up buckle road and resident begin clean up damage around their home and business .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The state late Saturday identify 47 earthquake-damaged road and bridge , most of which can not be fully repair until the region ’ s dark and snowy winter have pass .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By Saturday , state transportation crew and contractor be already on scene to make closed road usable as soon a possible , and the Anchorage School District say maintenance and recovery worker be assess damage to school building to make sure they be safe , official say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be on the road to return to normal , ” Anchorage Mayor Ethan Berkowitz say at a news conference on Saturday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hdrinc.com/portfolio/alaska-earthquake-response",
+            "content": "A massive , 7.1 magnitude earthquake shake the south-central region of Alaska on Nov. 30 , 2018 , damage road and related infrastructure , which include bridge , roadway and several building . And this important work be complicate by Alaska ’ s May-September construction window . The team must inspect the damage , show it be cause by an earthquake , assemble option , estimate the repair cost from design through construction , and then track cost and fee those into the estimate .",
+            "domain": "www.hdrinc.com",
+            "tokenized": [
+                {
+                    "sent": "A massive , 7.1 magnitude earthquake shake the south-central region of Alaska on Nov. 30 , 2018 , damage road and related infrastructure , which include bridge , roadway and several building .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And this important work be complicate by Alaska ’ s May-September construction window .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The team must inspect the damage , show it be cause by an earthquake , assemble option , estimate the repair cost from design through construction , and then track cost and fee those into the estimate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/75f4de6bdf7541a0a944e72c9e6edf18",
+            "content": "ANCHORAGE , Alaska ( AP ) — The magnitude 7.0 earthquake that rattle Alaska ’ s large city crack road and collapse highway ramp , but there be no report of widespread catastrophic damage or collapsed building .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "ANCHORAGE , Alaska ( AP ) — The magnitude 7.0 earthquake that rattle Alaska ’ s large city crack road and collapse highway ramp , but there be no report of widespread catastrophic damage or collapsed building .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalgeographic.com/science/article/powerful-alaska-earthquake-building-damage-fatalities",
+            "content": "Just before 8:30 a.m. local time on November 30 , a magnitude 7 earthquake rattle southern Alaska . Many road and bridge be close , ” accord to an Anchorage Police Department statement , which also note that the department have dispatch officer think the region for assistance .",
+            "domain": "www.nationalgeographic.com",
+            "tokenized": [
+                {
+                    "sent": "Just before 8:30 a.m. local time on November 30 , a magnitude 7 earthquake rattle southern Alaska .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many road and bridge be close , ” accord to an Anchorage Police Department statement , which also note that the department have dispatch officer think the region for assistance .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.alaskapublic.org/2018/12/02/earthquake-updates-roads-under-repair-utilities-back-brace-for-weather/",
+            "content": "City , police , fire , and transportation official all stress : with winter weather come , and repair still go on , don ’ t use the road unless you absolutely have to . Officials in Anchorage say the response to Friday ’ s earthquake be shift from an assessment phase to repair damage .",
+            "domain": "www.alaskapublic.org",
+            "tokenized": [
+                {
+                    "sent": "City , police , fire , and transportation official all stress : with winter weather come , and repair still go on , don ’ t use the road unless you absolutely have to .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials in Anchorage say the response to Friday ’ s earthquake be shift from an assessment phase to repair damage .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/101ba6d6df894e629bddff152a45146d",
+            "content": "Walker say it will take more than a week or two to repair road damage by the earthquake .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Walker say it will take more than a week or two to repair road damage by the earthquake .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

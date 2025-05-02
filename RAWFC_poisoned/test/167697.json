@@ -1,0 +1,797 @@
+{
+    "event_id": "167697",
+    "claim": "North Carolina admitted that a voter ID law was at least partly enacted in response to African-American voting tendencies that went against conservative interests.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "Tweets by two academics in October 2018 shed light on legislative efforts in North Carolina to target non-white voters, as documented by court excerpts they shared which were distributed widely online.On 15 October 2018, Sarah Damaske, an associate professor of labor and employment relations at Penn State University, shared a tweet from University of Chicago professor Harold Pollak linking to a federal court decision regarding the state’s “voter ID” law, known as House Bill 589 or SL 2013-381:The law, which was passed in 2013, shortened the early voting period from 17 days to ten and eliminated both same-day voter registration and two Sunday voting dates which frequently saw African-American churches provide rides for parishioners to the polls.While Pollak’s original tweet posted a day earlier, had been shared more than 9,000 times Damaske’s amplification of it had been retweeted nearly 23,000 times within a week after her posting of it.“I think people picked it up, because there is a lot of concern about the many stories about voter suppression along racial lines in this election cycle (even though the story that Dr. Pollack tweeted about and that I re-tweeted was from an earlier voting cycle),” Damaske said of the re-circulated tweet. The legal excerpt cited in the tweet was taken from a 29 July 2016 decision by the the U.S. Court of Appeals for the 4th Circuit which struck down the voter ID law:The decision overturned a district court ruling upholding the state voter ID law. Writing for the 4th Circuit, Judge Diana Gribbon called the prior decision “erroneous”:According to Gribbon, the 4th Circuit court concluded “that the General Assembly would not have eliminated same-day registration entirely but for its disproportionate impact on African Americans,” and said that parts of the law amounted to solutions in search of a problem:In May 2017, the U.S. Supreme Court opted not to hear an appeal of the lower court’s ruling:",
+    "reports": [
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/07/29/487935700/u-s-appeals-court-strikes-down-north-carolinas-voter-id-law",
+            "content": "A federal appeal court have overturn North Carolina 's sweeping voter ID law , rule that the law be pass with `` discriminatory intent '' and be design to impose barrier to block African-Americans from voting . `` But the totality of the circumstance — North Carolina 's history of vote discrimination ; the surge in African American voting ; the legislature 's knowledge that African Americans voting translate into support for one party ; and the swift elimination of the tool African Americans have use to vote and imposition of a new barrier at the first opportunity to do so — cumulatively and unmistakably reveal that the General Assembly use [ the 2013 law ] to entrench itself . The appeal court note that the North Carolina Legislature `` request data on the use , by race , of a number of voting practice '' — then , data in hand , `` enacted legislation that restrict voting and registration in five different way , all of which disproportionately affect African Americans . ''",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "A federal appeal court have overturn North Carolina 's sweeping voter ID law , rule that the law be pass with `` discriminatory intent '' and be design to impose barrier to block African-Americans from voting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` But the totality of the circumstance — North Carolina 's history of vote discrimination ; the surge in African American voting ; the legislature 's knowledge that African Americans voting translate into support for one party ; and the swift elimination of the tool African Americans have use to vote and imposition of a new barrier at the first opportunity to do so — cumulatively and unmistakably reveal that the General Assembly use [ the 2013 law ] to entrench itself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The appeal court note that the North Carolina Legislature `` request data on the use , by race , of a number of voting practice '' — then , data in hand , `` enacted legislation that restrict voting and registration in five different way , all of which disproportionately affect African Americans . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ncsl.org/research/elections-and-campaigns/voter-id.aspx",
+            "content": "North Carolina also enact a photo voter ID law that have be strike down by the court . [ 7 ] North Dakota enact a voter ID law in 2013 and amend this law in 2015 , then once again in 2017 . Using this categorization for law that be in effect in 2020 , 18 state ask for a photo ID ( althought North Carolina 's be on hold base on a preliminary injunction from a federal judge ) and 17 state also accept non-photo IDs . Second , the law can be divide by what action be available for voter who do not have ID . However , at least one location be open on Election Day for in-person voting , and the ID requirement spell out here applies to those voter . [ 6 ] Wisconsin enact in 2011 a strict photo voter ID law . Most state with strict voter identification requirement make some exceptions.These exception may include people who :\nAdditionally , voter ID requirement generally apply to in-person voting , not to absentee ballot or mail ballot . Procedures for when a voter do not have identification : If a voter fail to show the ID that be ask for by law , state provide alternative .",
+            "domain": "www.ncsl.org",
+            "tokenized": [
+                {
+                    "sent": "North Carolina also enact a photo voter ID law that have be strike down by the court .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 7 ] North Dakota enact a voter ID law in 2013 and amend this law in 2015 , then once again in 2017 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using this categorization for law that be in effect in 2020 , 18 state ask for a photo ID ( althought North Carolina 's be on hold base on a preliminary injunction from a federal judge ) and 17 state also accept non-photo IDs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Second , the law can be divide by what action be available for voter who do not have ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , at least one location be open on Election Day for in-person voting , and the ID requirement spell out here applies to those voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 6 ] Wisconsin enact in 2011 a strict photo voter ID law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most state with strict voter identification requirement make some exceptions.These exception may include people who :\nAdditionally , voter ID requirement generally apply to in-person voting , not to absentee ballot or mail ballot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Procedures for when a voter do not have identification : If a voter fail to show the ID that be ask for by law , state provide alternative .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/local/legal-issues/north-carolina-voter-id-law-upheld/2020/12/02/98046de0-34c6-11eb-8d38-6aea1adb3839_story.html",
+            "content": "Court examine North Carolina ’ s new law that require photo IDs for vote\nThe 4th Circuit ’ s rule reverse a district-court decision that say North Carolina ’ s 2018 photo ID law would probably have a disproportionate effect on African America voter in the state . But the court find that the 2018 law be “ more protective of the right to vote ” than other state ’ voter ID law that court have approve , include in Virginia and South Carolina . North Carolina voter also approve a ballot measure create a constitutional requirement that voter present a photo ID . State House Speaker Tim Moore ( R ) , a sponsor of the constitutional amendment , say in a statement Wednesday , “ Now that a federal appeal court have approve North Carolina ’ s voter ID law and constitutional amendment , they must be implement for the next election cycle in our state . A federal appeal court Wednesday uphold North Carolina ’ s law require voter to present photo identification before cast ballot , even a it acknowledge the state ’ s “ long and shameful history of race-based voter suppression . ”\nA unanimous three-judge panel of the U.S. Court of Appeals for the 4th Circuit say North Carolina ’ s past practice do not indefinitely prevent the state from enact new voting restriction . The law be pass after the 4th Circuit strike down a separate set of voting rule that the court say in 2016 deliberately undercut the political power of Black voter and would “ target African Americans with almost surgical precision .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Court examine North Carolina ’ s new law that require photo IDs for vote\nThe 4th Circuit ’ s rule reverse a district-court decision that say North Carolina ’ s 2018 photo ID law would probably have a disproportionate effect on African America voter in the state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the court find that the 2018 law be “ more protective of the right to vote ” than other state ’ voter ID law that court have approve , include in Virginia and South Carolina .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "North Carolina voter also approve a ballot measure create a constitutional requirement that voter present a photo ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "State House Speaker Tim Moore ( R ) , a sponsor of the constitutional amendment , say in a statement Wednesday , “ Now that a federal appeal court have approve North Carolina ’ s voter ID law and constitutional amendment , they must be implement for the next election cycle in our state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A federal appeal court Wednesday uphold North Carolina ’ s law require voter to present photo identification before cast ballot , even a it acknowledge the state ’ s “ long and shameful history of race-based voter suppression .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA unanimous three-judge panel of the U.S. Court of Appeals for the 4th Circuit say North Carolina ’ s past practice do not indefinitely prevent the state from enact new voting restriction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The law be pass after the 4th Circuit strike down a separate set of voting rule that the court say in 2016 deliberately undercut the political power of Black voter and would “ target African Americans with almost surgical precision .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thenation.com/article/archive/north-carolinas-voter-id-law-could-block-218000-registered-voters-from-the-polls/",
+            "content": "These flier contain information on the new voter ID law in North Carolina . Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act . Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act . Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act . Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act . Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act . One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID . One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID . One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID . One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID . In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters. In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters. In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters. In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters. In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters. In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+            "domain": "www.thenation.com",
+            "tokenized": [
+                {
+                    "sent": "These flier contain information on the new voter ID law in North Carolina .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voter ID be just one of the sweeping voting restriction adopt by the North Carolina legislature a month after the Supreme Court gutted the Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of those voter be North Carolina Senator Richard Burr , a supporter of the law who lose his driver ’ s license and show up at the poll without ID .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In 2014 , Democracy North Carolina estimate that “ the new voting limitation and poll place problem reduce turnout by at least 30,000 voters.",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/newshour/show/inside-battle-north-carolinas-voter-id-laws",
+            "content": "And many voter in North Carolina be struggle with their new voter ID law that go into effect in 2016 . After the Supreme Court 's decision to overturn a key part of the Voting Rights Act , North Carolina 's Republican-led state legislature pass a new voter ID law and reverse many of the voting procedure civil right leader spend year try to win . Barber and the NAACP believe photo voter ID law in North Carolina and more than a dozen other state suppress minority voter turnout , because black and Latino voter be the most likely to lack an acceptable photo ID or the document to get one . And so in order not to lose that base vote , they saw a way where you could increase African-American voting and take credit for have pass all of these opening in your voter law . Within week , North Carolina 's `` voter ID '' bill become a 57-page bill that : cut a week of early voting , end same day registration during early voting , curtail Sunday voting , end out-of-precinct voting , end pre-registration for 16 and 17-year-olds . The same day North Carolina 's voting reform be sign into law , the N-double A-C-P sued to stop them . North Carolina 's own State Board of Elections find that 318 thousand voter lack the necessary photo ID to vote–one third of them be African Americans , who make up only one fifth of the electorate .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "And many voter in North Carolina be struggle with their new voter ID law that go into effect in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the Supreme Court 's decision to overturn a key part of the Voting Rights Act , North Carolina 's Republican-led state legislature pass a new voter ID law and reverse many of the voting procedure civil right leader spend year try to win .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Barber and the NAACP believe photo voter ID law in North Carolina and more than a dozen other state suppress minority voter turnout , because black and Latino voter be the most likely to lack an acceptable photo ID or the document to get one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And so in order not to lose that base vote , they saw a way where you could increase African-American voting and take credit for have pass all of these opening in your voter law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Within week , North Carolina 's `` voter ID '' bill become a 57-page bill that : cut a week of early voting , end same day registration during early voting , curtail Sunday voting , end out-of-precinct voting , end pre-registration for 16 and 17-year-olds .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The same day North Carolina 's voting reform be sign into law , the N-double A-C-P sued to stop them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "North Carolina 's own State Board of Elections find that 318 thousand voter lack the necessary photo ID to vote–one third of them be African Americans , who make up only one fifth of the electorate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2017/05/15/528457693/supreme-court-declines-republican-bid-to-revive-north-carolina-voter-id-law",
+            "content": "North Carolina legislator have request data on voting pattern by race and , with that data in hand , draft a law that would `` target African-Americans with almost surgical precision , '' the court say . The U.S. Supreme Court have once again decline to reinstate North Carolina 's strict voter ID law , which be strike down last year after a court rule it be intentionally design to stop African-Americans from voting . Michael Tomsic of member station WFAE write last fall about the lengthy battle over North Carolina 's law , which be ostensibly mean to combat voter fraud :\n`` That fight begin in 2013 , when the state make cut to early voting , create a photo ID requirement and eliminate same-day registration , out-of-precinct voting and preregistration of high school student . It 's not the first time the Supreme Court have consider an appeal over the voter ID law , which be one of the country 's strict .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "North Carolina legislator have request data on voting pattern by race and , with that data in hand , draft a law that would `` target African-Americans with almost surgical precision , '' the court say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The U.S. Supreme Court have once again decline to reinstate North Carolina 's strict voter ID law , which be strike down last year after a court rule it be intentionally design to stop African-Americans from voting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Michael Tomsic of member station WFAE write last fall about the lengthy battle over North Carolina 's law , which be ostensibly mean to combat voter fraud :\n`` That fight begin in 2013 , when the state make cut to early voting , create a photo ID requirement and eliminate same-day registration , out-of-precinct voting and preregistration of high school student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It 's not the first time the Supreme Court have consider an appeal over the voter ID law , which be one of the country 's strict .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/BL-WB-64940",
+            "content": "WILMINGTON , N.C. -- Wading into a contentious local issue , GOP nominee Donald Trump throw his support behind North Carolina ’ s voter ID law , which be recently strike down by a federal appeal court that say it would limit African-American access to the poll .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "WILMINGTON , N.C. -- Wading into a contentious local issue , GOP nominee Donald Trump throw his support behind North Carolina ’ s voter ID law , which be recently strike down by a federal appeal court that say it would limit African-American access to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2016/07/30/us/federal-appeals-court-strikes-down-north-carolina-voter-id-provision.html",
+            "content": "The North Carolina ruling toss out the state ’ s requirement that voter present photo identification at the poll and restore voter ’ ability to register on Election Day , to register before reach the 18-year-old voting age , and to cast early ballot , provision the law have fully or partly eliminate . The clause that be overturn in the North Carolina law , label the Voter Information Verification Act , make vote harder in a number of way . North Carolina have become a swing state in national election in recent year in no small part because the protection of the Voting Rights Act allow black voter turnout to approach that of white , the court state . A federal appeal court decisively strike down North Carolina ’ s voter identification law on Friday , say it provision deliberately “ target African-Americans with almost surgical precision ” in an effort to depress black turnout at the poll . North Carolina ’ s Republican-controlled legislature rewrite the state ’ s voting rule in 2013 shortly after the Supreme Court strike down a section of the Voting Rights Act of 1965 that have give the Justice Department the power to oversee change in election procedure in area with a history of racial discrimination . Friday ’ s ruling state pointedly that whether or not the North Carolina restriction be drive completely by racial bias , they be clearly devise to keep Democratic voter away from the poll . “ We can not ignore the record evidence that , because of race , the legislature enact one of the large restriction of the franchise in modern North Carolina history , ” they write . The court opinion on North Carolina 's vote law from the United States Court of Appeals for the Fourth Circuit . Critics argue that some voter lack those document and that the law omit some form of identification , such a student IDs , hold by bloc of voter who favor Democrats . That rule and a second wide-ranging decision on Friday , in Wisconsin , continue a string of recent court opinion against restrictive voting law that critic say be create solely to keep minority and other traditionally Democratic voter away from the poll .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "The North Carolina ruling toss out the state ’ s requirement that voter present photo identification at the poll and restore voter ’ ability to register on Election Day , to register before reach the 18-year-old voting age , and to cast early ballot , provision the law have fully or partly eliminate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The clause that be overturn in the North Carolina law , label the Voter Information Verification Act , make vote harder in a number of way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "North Carolina have become a swing state in national election in recent year in no small part because the protection of the Voting Rights Act allow black voter turnout to approach that of white , the court state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A federal appeal court decisively strike down North Carolina ’ s voter identification law on Friday , say it provision deliberately “ target African-Americans with almost surgical precision ” in an effort to depress black turnout at the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "North Carolina ’ s Republican-controlled legislature rewrite the state ’ s voting rule in 2013 shortly after the Supreme Court strike down a section of the Voting Rights Act of 1965 that have give the Justice Department the power to oversee change in election procedure in area with a history of racial discrimination .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Friday ’ s ruling state pointedly that whether or not the North Carolina restriction be drive completely by racial bias , they be clearly devise to keep Democratic voter away from the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ We can not ignore the record evidence that , because of race , the legislature enact one of the large restriction of the franchise in modern North Carolina history , ” they write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The court opinion on North Carolina 's vote law from the United States Court of Appeals for the Fourth Circuit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Critics argue that some voter lack those document and that the law omit some form of identification , such a student IDs , hold by bloc of voter who favor Democrats .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That rule and a second wide-ranging decision on Friday , in Wisconsin , continue a string of recent court opinion against restrictive voting law that critic say be create solely to keep minority and other traditionally Democratic voter away from the poll .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newyorker.com/news/news-desk/a-voting-rights-victory-in-north-carolina",
+            "content": "A future Democratic North Carolina legislature that expand early voting and authorize out-of-precinct voting might find itself in an ideological mirror image of Judge Motz ’ s opinion , rebuke for selectively provide voting procedure that black voter use more often . Even the North Carolina decision , shape in response to a vividly egregious situation , be not a template for deal with voting restriction that be pass more decorously , outside the South , or simply by legislature that avoid announce their interest in the racial effect of their lawmaking . The court acknowledge North Carolina ’ s long history of official racial discrimination and point out that , while enforce the Voting Rights Act between 1980 and 2013 , the Justice Department have object to more than fifty propose change in the North Carolina election law . ”\nBetween 1965 and 2013 , North Carolina could change it statewide voting law only after a federal court or the Department of Justice examine the propose change and be satisfy that the new law would not “ abridge the right to vote on account of race. “ Because of race , ” Motz write , “ the legislature enact one of the large restriction of the franchise in modern North Carolina history . North Carolina ’ s 1900 constitution have establish a literacy test for voter , with a “ grandfather clause ” that exempt most white , and many of it county have low voter participation . This do not precisely mean , a the Times editorial the next day have it , that North Carolina ’ s law be “ struck down a racist. ” The decision align North Carolina ’ s vote law symbolically and constitutionally with the Jim Crow era of segregation , which modern Fourteenth Amendment jurisprudence work to dismantle in iconic case like_ _Brown v. Board of Education . ” To entrench their tenuous majority , North Carolina Republicans raise barrier that they know would disproportionately burden black voter , and they do so because of , not despite , those racial effect .",
+            "domain": "www.newyorker.com",
+            "tokenized": [
+                {
+                    "sent": "A future Democratic North Carolina legislature that expand early voting and authorize out-of-precinct voting might find itself in an ideological mirror image of Judge Motz ’ s opinion , rebuke for selectively provide voting procedure that black voter use more often .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Even the North Carolina decision , shape in response to a vividly egregious situation , be not a template for deal with voting restriction that be pass more decorously , outside the South , or simply by legislature that avoid announce their interest in the racial effect of their lawmaking .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The court acknowledge North Carolina ’ s long history of official racial discrimination and point out that , while enforce the Voting Rights Act between 1980 and 2013 , the Justice Department have object to more than fifty propose change in the North Carolina election law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBetween 1965 and 2013 , North Carolina could change it statewide voting law only after a federal court or the Department of Justice examine the propose change and be satisfy that the new law would not “ abridge the right to vote on account of race.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Because of race , ” Motz write , “ the legislature enact one of the large restriction of the franchise in modern North Carolina history .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "North Carolina ’ s 1900 constitution have establish a literacy test for voter , with a “ grandfather clause ” that exempt most white , and many of it county have low voter participation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This do not precisely mean , a the Times editorial the next day have it , that North Carolina ’ s law be “ struck down a racist.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The decision align North Carolina ’ s vote law symbolically and constitutionally with the Jim Crow era of segregation , which modern Fourteenth Amendment jurisprudence work to dismantle in iconic case like_ _Brown v. Board of Education .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” To entrench their tenuous majority , North Carolina Republicans raise barrier that they know would disproportionately burden black voter , and they do so because of , not despite , those racial effect .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.charlotteobserver.com/news/politics-government/article92595012.html",
+            "content": "“ The ruling make clear that the North Carolina General Assembly cherry-picked the law to suppress African American and young voter because of the 2008 election . “ The voter ID law ensure any North Carolina citizen who want to vote will have that opportunity , ” Berger and Moore contend . ”\n“ Since today ’ s decision by three partisan Democrats ignore legal precedent , ignore the fact that other federal court have use North Carolina ’ s law a a model , and ignore the fact that a majority of other state have similar protection in place , we can only wonder if the intent be to reopen the door for voter fraud , potentially allow fellow Democrat politician like Hillary Clinton and Roy Cooper to steal the election . Circuit appeal court find that Texas ’ s voter ID law violate the Voting Rights Act by make it more difficult for minority to vote and open the door for put the state under federal supervision again . Though Motz differ from Wynn and Floyd on whether the time be right to weigh the “ reasonable impediment ” option , Wynn write for the majority : “ Nothing in this record show that the reasonable impediment exception ensure that the photo ID law no longer impose any linger burden on African American voter . ”\nThe rule prohibits North Carolina from require photo identification from voter in future election , include the November 2016 general election . ”\nThe three-judge panel of the U.S. 4th Circuit Court of Appeals find that the law be adopt with “ discriminatory intent ” despite lawmaker ’ claim that the ID provision and other change be design to prevent voter fraud .",
+            "domain": "www.charlotteobserver.com",
+            "tokenized": [
+                {
+                    "sent": "“ The ruling make clear that the North Carolina General Assembly cherry-picked the law to suppress African American and young voter because of the 2008 election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The voter ID law ensure any North Carolina citizen who want to vote will have that opportunity , ” Berger and Moore contend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Since today ’ s decision by three partisan Democrats ignore legal precedent , ignore the fact that other federal court have use North Carolina ’ s law a a model , and ignore the fact that a majority of other state have similar protection in place , we can only wonder if the intent be to reopen the door for voter fraud , potentially allow fellow Democrat politician like Hillary Clinton and Roy Cooper to steal the election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Circuit appeal court find that Texas ’ s voter ID law violate the Voting Rights Act by make it more difficult for minority to vote and open the door for put the state under federal supervision again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though Motz differ from Wynn and Floyd on whether the time be right to weigh the “ reasonable impediment ” option , Wynn write for the majority : “ Nothing in this record show that the reasonable impediment exception ensure that the photo ID law no longer impose any linger burden on African American voter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe rule prohibits North Carolina from require photo identification from voter in future election , include the November 2016 general election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe three-judge panel of the U.S. 4th Circuit Court of Appeals find that the law be adopt with “ discriminatory intent ” despite lawmaker ’ claim that the ID provision and other change be design to prevent voter fraud .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fayobserver.com/story/news/2020/12/02/nc-voter-id-law-requirement-block-reversed-federal-appeals-court/3796941001/",
+            "content": "A federal appeal court deliver a victory for voter ID supporter in North Carolina Wednesday , reverse a low court ’ s decision that block the state ’ s 2018 voter ID law because of racial bias . In the Tar Heel State , recent debate around voter ID law date back to 2013 when the U.S. Supreme Court remove certain civil right protection from the 1965 Voting Rights Act . ”\nIn 2018 , North Carolina voter pass a referendum to add a voter ID requirement to the state constitution . It be this law that District Court Judge Loretta Biggs strike down in late 2019 , write “ North Carolina have a sordid history of racial discrimination and voter suppression stretch back to the time of slavery . Yet opponent of voter ID law argue the requirement cause more harm than good while try to solve a problem that doesn ’ t really exist .",
+            "domain": "www.fayobserver.com",
+            "tokenized": [
+                {
+                    "sent": "A federal appeal court deliver a victory for voter ID supporter in North Carolina Wednesday , reverse a low court ’ s decision that block the state ’ s 2018 voter ID law because of racial bias .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the Tar Heel State , recent debate around voter ID law date back to 2013 when the U.S. Supreme Court remove certain civil right protection from the 1965 Voting Rights Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn 2018 , North Carolina voter pass a referendum to add a voter ID requirement to the state constitution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be this law that District Court Judge Loretta Biggs strike down in late 2019 , write “ North Carolina have a sordid history of racial discrimination and voter suppression stretch back to the time of slavery .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Yet opponent of voter ID law argue the requirement cause more harm than good while try to solve a problem that doesn ’ t really exist .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/elections/federal-judge-block-latest-north-carolina-voter-id-mandate-n1107896",
+            "content": "Voter ID be actually carry out in North Carolina 's 2016 primary election a the result of a 2013 law . Lawyers for the state and local NAACP chapter tell Biggs in a court brief that the late version of voter ID be a `` barely disguised duplicate ” of the 2013 voter ID law and `` carry the same discriminatory intent a it predecessor , '' likely violate the U.S. Constitution .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Voter ID be actually carry out in North Carolina 's 2016 primary election a the result of a 2013 law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lawyers for the state and local NAACP chapter tell Biggs in a court brief that the late version of voter ID be a `` barely disguised duplicate ” of the 2013 voter ID law and `` carry the same discriminatory intent a it predecessor , '' likely violate the U.S. Constitution .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-north-carolina/north-carolina-court-blocks-voter-id-law-as-discriminatory-idUSKBN20C2DC",
+            "content": "( Reuters ) - A North Carolina appeal court on Tuesday block the state ’ s voter identification law from go into effect , find it be a discriminatory attempt to suppress the black vote , in a victory for Democrats and vote right advocate . In December , a federal court issue a preliminary injunction against the same voter ID law , find that it be at least partially motivate by an attempt to discriminate against certain voter in violation of their right to equal protection under the law a guarantee by the U.S. Constitution . Republican-led legislature in several state have pass similar voter ID law , argue they be need to prevent voter fraud . The law in question originate from a 2018 ballot initiative pass by voter to require photo ID before ballot .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "( Reuters ) - A North Carolina appeal court on Tuesday block the state ’ s voter identification law from go into effect , find it be a discriminatory attempt to suppress the black vote , in a victory for Democrats and vote right advocate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In December , a federal court issue a preliminary injunction against the same voter ID law , find that it be at least partially motivate by an attempt to discriminate against certain voter in violation of their right to equal protection under the law a guarantee by the U.S. Constitution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republican-led legislature in several state have pass similar voter ID law , argue they be need to prevent voter fraud .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The law in question originate from a 2018 ballot initiative pass by voter to require photo ID before ballot .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ballotpedia.org/North_Carolina_Voter_ID_Amendment_(2018)",
+            "content": "The North Carolina State Legislature be responsible for pass law to govern the photo ID requirement . In 2013 , the North Carolina State Legislature approve House Bill 589 ( HB 589 ) , which enact a photo voter ID requirement for election begin in 2016 . Under North Carolina 's voter identification law , voter can present the following form of identification at the poll . Speaker of the North Carolina House of Representatives and the primary defendant in the suit , Timothy K. Moore , release a statement about the ruling , where he write , `` North Carolinians know that General Assembly leader will continue to fight on their behalf for a commonsense voter ID law that they choose to put in our state constitution , and we will not be deter by judicial attempt to suppress the people ’ s voice in the democratic process . '' [ 21 ]\nThe ballot measure add language to the North Carolina Constitution to require voter to present a photo ID to vote in person . [ 22 ]\nWhat be the status of voter ID law in North Carolina ? In 2013 , the North Carolina State Legislature pass a statute to require that voter present a photo ID to vote begin in 2016 . The North Carolina Voter ID Amendment be on the ballot in North Carolina a a legislatively referred constitutional amendment on November 6 , 2018 . `` [ 43 ] [ 44 ]\nDr. Anthony Spearman , president of the North Carolina NAACP , say , `` The Federal Court make it crystal clear that racial discrimination will not stand in North Carolina in it decision today to intervene to halt this illegal photo voter ID impediment-the late bad faith attempt in a string of fail effort by the NC General Assembly to place hurdle in the path of the right to vote of African Americans and Latinos in this state , and to diminish the force of the true will of the people . Judge Julius Richardson , a Donald Trump ( R ) appointee , write the following in the court 's opinion : [ 45 ]\nState court ruling : On February 18 , 2020 , the North Carolina Court of Appeals enjoin state official from enforce the state 's voter identification law , rule that the law have be enact with racially discriminatory intent . Voter registration service be also provide by the following agency : [ 41 ]\nNorth Carolina do not practice automatic voter registration . North Carolina have implement an online voter registration system . Republican House Speaker Tim Moore ( R ) respond to the ruling say , `` Now that a federal appeal court have approve North Carolina ’ s voter ID law and constitutional amendment , they must be implement for the next election cycle in our state . [ 41 ]\nThe North Carolina voter registration application be available online . The legislature , act on the will of the people , enact one of the broad voter ID law in the nation . The legislature , act on the will of the people , enact one of the broad voter ID law in the nation . North Carolina allow same-day voter registration during early voting only . The temporary block of SB 824 block the voter ID requirement for the March 3 primary in North Carolina . According to the National Conference of State Legislatures , voter ID law can be categorize a four type base on two factor : ( 1 ) strict and non-strict and ( 2 ) photo and non-photo . On December 5 and December 6 , 2018 , the General Assembly of North Carolina vote to approve Senate Bill 824 ( SB 824 ) , which be design to provide for type of voter identification that would be accept at the poll .",
+            "domain": "ballotpedia.org",
+            "tokenized": [
+                {
+                    "sent": "The North Carolina State Legislature be responsible for pass law to govern the photo ID requirement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2013 , the North Carolina State Legislature approve House Bill 589 ( HB 589 ) , which enact a photo voter ID requirement for election begin in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under North Carolina 's voter identification law , voter can present the following form of identification at the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaker of the North Carolina House of Representatives and the primary defendant in the suit , Timothy K. Moore , release a statement about the ruling , where he write , `` North Carolinians know that General Assembly leader will continue to fight on their behalf for a commonsense voter ID law that they choose to put in our state constitution , and we will not be deter by judicial attempt to suppress the people ’ s voice in the democratic process . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 21 ]\nThe ballot measure add language to the North Carolina Constitution to require voter to present a photo ID to vote in person .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 22 ]\nWhat be the status of voter ID law in North Carolina ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2013 , the North Carolina State Legislature pass a statute to require that voter present a photo ID to vote begin in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The North Carolina Voter ID Amendment be on the ballot in North Carolina a a legislatively referred constitutional amendment on November 6 , 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 43 ] [ 44 ]\nDr. Anthony Spearman , president of the North Carolina NAACP , say , `` The Federal Court make it crystal clear that racial discrimination will not stand in North Carolina in it decision today to intervene to halt this illegal photo voter ID impediment-the late bad faith attempt in a string of fail effort by the NC General Assembly to place hurdle in the path of the right to vote of African Americans and Latinos in this state , and to diminish the force of the true will of the people .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Judge Julius Richardson , a Donald Trump ( R ) appointee , write the following in the court 's opinion : [ 45 ]\nState court ruling : On February 18 , 2020 , the North Carolina Court of Appeals enjoin state official from enforce the state 's voter identification law , rule that the law have be enact with racially discriminatory intent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Voter registration service be also provide by the following agency : [ 41 ]\nNorth Carolina do not practice automatic voter registration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "North Carolina have implement an online voter registration system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republican House Speaker Tim Moore ( R ) respond to the ruling say , `` Now that a federal appeal court have approve North Carolina ’ s voter ID law and constitutional amendment , they must be implement for the next election cycle in our state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 41 ]\nThe North Carolina voter registration application be available online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The legislature , act on the will of the people , enact one of the broad voter ID law in the nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The legislature , act on the will of the people , enact one of the broad voter ID law in the nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "North Carolina allow same-day voter registration during early voting only .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The temporary block of SB 824 block the voter ID requirement for the March 3 primary in North Carolina .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the National Conference of State Legislatures , voter ID law can be categorize a four type base on two factor : ( 1 ) strict and non-strict and ( 2 ) photo and non-photo .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On December 5 and December 6 , 2018 , the General Assembly of North Carolina vote to approve Senate Bill 824 ( SB 824 ) , which be design to provide for type of voter identification that would be accept at the poll .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.unc.edu/posts/2020/09/30/theres-a-new-ruling-on-voter-id-what-does-it-mean/",
+            "content": "Arguments against require a photo ID to vote in North Carolina say this law suppress and discourage vote from certain individual , particularly those from rural and low-income area , and it disproportionally impact racial minority . But , this decision to uphold the voter ID amendment to our North Carolina Constitution be another step toward move the amendment forward . The North Carolina NAACP ’ s case argue that our legislative district be politically and racially gerrymander in violation of the law , and that the legislature a it be comprise should not have be able to put amendment to the constitution on the ballot . Earlier this month , a North Carolina Court of Appeals uphold two amendment to the North Carolina Constitution — one require photo identification to vote and another lower the income tax cap — that voter pass in the 2018 election . Those in favor of require a photo ID to vote say that we need these law to address voter fraud . Another issue be that the law could also create confusion , leave voter to show up at the poll without ID , or without correct form of ID , and be turn away because they aren ’ t in formal compliance with the law . With Election Day less than two month away , The Well talk with Rick Su , a professor at the UNC School of Law who study state and local government , to make sense of the new ruling and how it impact North Carolina voter . The litigant saw these two amendment — for voter ID and an income tax cap — a law that benefit those in the gerrymandered district and negatively impact other part of the state .",
+            "domain": "www.unc.edu",
+            "tokenized": [
+                {
+                    "sent": "Arguments against require a photo ID to vote in North Carolina say this law suppress and discourage vote from certain individual , particularly those from rural and low-income area , and it disproportionally impact racial minority .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , this decision to uphold the voter ID amendment to our North Carolina Constitution be another step toward move the amendment forward .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The North Carolina NAACP ’ s case argue that our legislative district be politically and racially gerrymander in violation of the law , and that the legislature a it be comprise should not have be able to put amendment to the constitution on the ballot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Earlier this month , a North Carolina Court of Appeals uphold two amendment to the North Carolina Constitution — one require photo identification to vote and another lower the income tax cap — that voter pass in the 2018 election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those in favor of require a photo ID to vote say that we need these law to address voter fraud .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another issue be that the law could also create confusion , leave voter to show up at the poll without ID , or without correct form of ID , and be turn away because they aren ’ t in formal compliance with the law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With Election Day less than two month away , The Well talk with Rick Su , a professor at the UNC School of Law who study state and local government , to make sense of the new ruling and how it impact North Carolina voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The litigant saw these two amendment — for voter ID and an income tax cap — a law that benefit those in the gerrymandered district and negatively impact other part of the state .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2020/jan/01/north-carolina-voter-id-law-blocked-discriminatory",
+            "content": "The measure come two year after North Carolina ’ s previous voter ID law be strike down a part of a host of voting restriction a federal appeal court say targeted African Americans “ with almost surgical precision ” . This iteration of the North Carolina law require voter to present one of 10 form of acceptable identification , such a a driver ’ s license , passport , or military ID in order to vote . She also note that African American voter be more likely to have public assistance and government IDs – both of which be largely not consider an acceptable form of voter ID under the law . A federal judge formally block North Carolina ’ s new voter identification law on Tuesday , rule that discriminatory intent be likely a motivate factor in how the measure be craft . But the new voter ID law , Biggs write Tuesday , didn ’ t fix the discrimination present in the old one . African Americans make up about one-fifth of registered voter in North Carolina .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "The measure come two year after North Carolina ’ s previous voter ID law be strike down a part of a host of voting restriction a federal appeal court say targeted African Americans “ with almost surgical precision ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This iteration of the North Carolina law require voter to present one of 10 form of acceptable identification , such a a driver ’ s license , passport , or military ID in order to vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She also note that African American voter be more likely to have public assistance and government IDs – both of which be largely not consider an acceptable form of voter ID under the law .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A federal judge formally block North Carolina ’ s new voter identification law on Tuesday , rule that discriminatory intent be likely a motivate factor in how the measure be craft .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the new voter ID law , Biggs write Tuesday , didn ’ t fix the discrimination present in the old one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "African Americans make up about one-fifth of registered voter in North Carolina .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/wgbh/frontline/article/court-north-carolina-voter-id-law-targeted-black-voters/",
+            "content": "It find that African American voter in North Carolina be more likely to vote early , use same-day voter registration and straight-ticket voting . ( Nikki Kahn/The Washington Post via Getty Images )\nA federal appeal court panel strike down North Carolina ’ s voter ID law on Friday , overturn what ’ s consider the broad piece of restrictive voting legislation pass in recent year . A day after the Shelby decision , Republican lawmaker in North Carolina announce plan for an election law that , the federal appeal court have since find , restrict voting and registration in several way , “ all of which disproportionately affect African Americans . “ What the panel lay out be just the plain reading of what transpire here , which be that the legislature seek to target African-American voter to further entrench themselves in the legislature , ” say Chris Brooks , the legal director of North Carolina ’ s American Civil Liberties Union . It add : “ We can only conclude that the North Carolina General Assembly enact the challenged provision of the law with discriminatory intent . In 2013 , in Shelby v. Holder , the U.S. Supreme Court overturn a section of the Voting Rights Act that require North Carolina and other state with a history of voter discrimination to submit any voting-law change to the federal government for approval . North Carolina ’ s bill extend beyond require a state-issued photo ID at the poll . ”\nAlthough it strike down the law , the court stop short of recommend that North Carolina be pull back under the Voting Rights Act ’ s pre-clearance requirement .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "It find that African American voter in North Carolina be more likely to vote early , use same-day voter registration and straight-ticket voting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Nikki Kahn/The Washington Post via Getty Images )\nA federal appeal court panel strike down North Carolina ’ s voter ID law on Friday , overturn what ’ s consider the broad piece of restrictive voting legislation pass in recent year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A day after the Shelby decision , Republican lawmaker in North Carolina announce plan for an election law that , the federal appeal court have since find , restrict voting and registration in several way , “ all of which disproportionately affect African Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ What the panel lay out be just the plain reading of what transpire here , which be that the legislature seek to target African-American voter to further entrench themselves in the legislature , ” say Chris Brooks , the legal director of North Carolina ’ s American Civil Liberties Union .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It add : “ We can only conclude that the North Carolina General Assembly enact the challenged provision of the law with discriminatory intent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2013 , in Shelby v. Holder , the U.S. Supreme Court overturn a section of the Voting Rights Act that require North Carolina and other state with a history of voter discrimination to submit any voting-law change to the federal government for approval .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "North Carolina ’ s bill extend beyond require a state-issued photo ID at the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAlthough it strike down the law , the court stop short of recommend that North Carolina be pull back under the Voting Rights Act ’ s pre-clearance requirement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/news/us-news/supreme-court-deals-blow-north-carolina-over-voting-rights-n759456",
+            "content": "WASHINGTON — The U.S. Supreme Court decline Monday to hear North Carolina 's appeal of a court ruling that find it legislature intend to discriminate against minority in enact one of the tough voter ID law in the nation . The change in the law put North Carolina in the mainstream of current state election practice , he say . Shortly after the Supreme Court invalidate part of the Voting Rights Act in 2013 , North Carolina impose a tough photo ID requirement , reduce the period for early voting by seven day , eliminate the ability to register and vote the same day , invalidate vote case in the wrong precinct , and end pre-registration for 16-year-olds .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — The U.S. Supreme Court decline Monday to hear North Carolina 's appeal of a court ruling that find it legislature intend to discriminate against minority in enact one of the tough voter ID law in the nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The change in the law put North Carolina in the mainstream of current state election practice , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shortly after the Supreme Court invalidate part of the Voting Rights Act in 2013 , North Carolina impose a tough photo ID requirement , reduce the period for early voting by seven day , eliminate the ability to register and vote the same day , invalidate vote case in the wrong precinct , and end pre-registration for 16-year-olds .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2016/07/court-strikes-down-north-carolina-voter-id-law-226438",
+            "content": "The three judge assign to the case — all Democratic appointee — be unanimous that the Republican-controlled North Carolina legislature violate the U.S. Constitution and the Voting Rights Act three year ago by enact the measure require voter to show certain type of photo ID at the poll . `` The district court clearly err '' when it find a lack of discriminatory intent and when it deem North Carolina 's interest in pass the law to be compelling , she write . `` Rather , the General Assembly enact them in the immediate aftermath of unprecedented African American voter participation in a state with a troubled racial history and racially polarized voting . A federal appeal court have strike down North Carolina ’ s voter identification law , hold that it be “ pass with racially discriminatory intent . `` We can not ignore the record evidence that , because of race , the legislature enact one of the large restriction of the franchise in modern North Carolina history , '' Motz add . It target African-Americans 'with almost surgical precision ' – impose stringent ID requirement , reduce same-day registration and constrain out-of-precinct voting to place barrier between citizen and the ballot box . `` Nothing in this record show that the reasonable impediment exception ensure that the photo ID law no longer impose any linger burden on African American voter , '' Wynn write .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "The three judge assign to the case — all Democratic appointee — be unanimous that the Republican-controlled North Carolina legislature violate the U.S. Constitution and the Voting Rights Act three year ago by enact the measure require voter to show certain type of photo ID at the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The district court clearly err '' when it find a lack of discriminatory intent and when it deem North Carolina 's interest in pass the law to be compelling , she write .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Rather , the General Assembly enact them in the immediate aftermath of unprecedented African American voter participation in a state with a troubled racial history and racially polarized voting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A federal appeal court have strike down North Carolina ’ s voter identification law , hold that it be “ pass with racially discriminatory intent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We can not ignore the record evidence that , because of race , the legislature enact one of the large restriction of the franchise in modern North Carolina history , '' Motz add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It target African-Americans 'with almost surgical precision ' – impose stringent ID requirement , reduce same-day registration and constrain out-of-precinct voting to place barrier between citizen and the ballot box .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Nothing in this record show that the reasonable impediment exception ensure that the photo ID law no longer impose any linger burden on African American voter , '' Wynn write .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://spectrumlocalnews.com/nc/charlotte/news/2019/07/24/nc-s-voter-id-law--what-you-need-to-know-for-2020",
+            "content": "A court ruling this month be set to allow North Carolina ’ s voter ID law to go into effect in time for the 2020 Presidential election next year .",
+            "domain": "spectrumlocalnews.com",
+            "tokenized": [
+                {
+                    "sent": "A court ruling this month be set to allow North Carolina ’ s voter ID law to go into effect in time for the 2020 Presidential election next year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.citizen-times.com/story/news/local/2020/09/15/north-carolina-court-appeals-upholds-voter-id-cap-income-taxes/5809764002/",
+            "content": "RALEIGH - The North Carolina Court of Appeals on Sept. 15 reinstate two North Carolina constitutional amendment — one that mandate photo ID to vote and another that set a 7 % cap on state income tax — that the voter approve in 2018 .",
+            "domain": "www.citizen-times.com",
+            "tokenized": [
+                {
+                    "sent": "RALEIGH - The North Carolina Court of Appeals on Sept. 15 reinstate two North Carolina constitutional amendment — one that mandate photo ID to vote and another that set a 7 % cap on state income tax — that the voter approve in 2018 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2017/05/15/us/politics/voter-id-laws-supreme-court-north-carolina.html",
+            "content": "” The law ’ s voter identification provision , for instance , “ retain only those type of photo ID disproportionately hold by white and exclude those disproportionately hold by African-Americans . A federal district judge rule in April that the Texas Legislature have intentionally discriminate against black and Hispanic voter when it enact the law . WASHINGTON — The Supreme Court on Monday refuse to revive a restrictive North Carolina voting law that a federal appeal court have strike down a an unconstitutional effort to “ target African-Americans with almost surgical precision . The case challenge the North Carolina law be bring by civil right group and the Obama administration . ”\nThe law , enact by the state legislature in 2013 , impose a range of voting restriction , include the new voter identification requirement . The appeal court rule strike down five part of the law : it voter ID requirement , a rollback of early voting to 10 day from 17 , an elimination of same-day registration and of preregistration of some teenager , and it ban on count vote cast in the wrong precinct .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "” The law ’ s voter identification provision , for instance , “ retain only those type of photo ID disproportionately hold by white and exclude those disproportionately hold by African-Americans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A federal district judge rule in April that the Texas Legislature have intentionally discriminate against black and Hispanic voter when it enact the law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — The Supreme Court on Monday refuse to revive a restrictive North Carolina voting law that a federal appeal court have strike down a an unconstitutional effort to “ target African-Americans with almost surgical precision .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The case challenge the North Carolina law be bring by civil right group and the Obama administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe law , enact by the state legislature in 2013 , impose a range of voting restriction , include the new voter identification requirement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The appeal court rule strike down five part of the law : it voter ID requirement , a rollback of early voting to 10 day from 17 , an elimination of same-day registration and of preregistration of some teenager , and it ban on count vote cast in the wrong precinct .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ncvoter.org/photoid/",
+            "content": "In a December 31 order , a federal district court block North Carolina ’ s voter photo ID requirement from take effect .",
+            "domain": "www.ncvoter.org",
+            "tokenized": [
+                {
+                    "sent": "In a December 31 order , a federal district court block North Carolina ’ s voter photo ID requirement from take effect .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

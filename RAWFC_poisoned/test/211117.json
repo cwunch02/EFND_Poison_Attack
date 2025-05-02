@@ -1,0 +1,986 @@
+{
+    "event_id": "211117",
+    "claim": "A video shows a car using a rear fifth wheel to parallel park. ",
+    "original_label": "false",
+    "label": "false",
+    "explain": "On Aug. 13, 2019, the Facebook page Earthquake shared a video that supposedly showed a car using a fifth wheel to parallel park. The Times of India presented this same footage as if it were genuine in a YouTube video entitled “Amazing: How to park a car in 10 seconds”:\nThis video was accompanied by the text: “We all face parking woes in our daily lives. But all that could be history soon. This driver seems to have found a novel way. It seems to be working wonders for this driver.”\nThis is not a genuine video of a car parallel parking with the use of a unique fifth wheel. This video actually showcases computer-generated images (CGI) and video-editing techniques, not mechanical feats.\nThe video first went viral when it was shared on TitTok by user @Tiktokaraba. This account has shared several other similar videos, some of which are a bit easier to recognize as digital creations: \nWhile the video posted Aug. 13 doesn’t actually show a car parallel parking with the aid of a unique fifth wheel, a similar parking system was patented in the 1950s. Here’s a video of the “Park Car“:",
+    "reports": [
+        {
+            "link": "https://www.autoevolution.com/news/all-parallel-parking-problems-disappear-if-you-add-a-fifth-wheel-to-your-car-146172.html",
+            "content": "Whenever you have to park in a tight space , you could lower the fifth wheel and swivel the back of the car into position , raise the wheel again and then move the front in there , a well . They build the axle for the wheel and the mechanism that would lift the car at the press of a button , and in the process , rip everything apart in the rear of the car . The invention never really catch on , with one of the reason believe to have be the fact that the fifth wheel take up most space in the trunk . The driver operate the movement up and down with an impact gun , while the motion to the left and right be possible by use the car ’ s turn signal . The first one be what you might call the modern interpretation of the fifth wheel , courtesy of the Russians from Garage 54 . But the idea be pure genius : put the spare wheel to actual use only when you need it . The wheel be power by a starter motor and move incredibly fast . For the late stunt , they dust off ( only figuratively , of course ) a beat-up Fiat hatchback they have use before for a six-wheel conversion . The entire contraption be , a you would expect if you ’ d see at least one Garage 54 video before , very crude and not in the least pleasing to the eye .",
+            "domain": "www.autoevolution.com",
+            "tokenized": [
+                {
+                    "sent": "Whenever you have to park in a tight space , you could lower the fifth wheel and swivel the back of the car into position , raise the wheel again and then move the front in there , a well .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They build the axle for the wheel and the mechanism that would lift the car at the press of a button , and in the process , rip everything apart in the rear of the car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The invention never really catch on , with one of the reason believe to have be the fact that the fifth wheel take up most space in the trunk .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The driver operate the movement up and down with an impact gun , while the motion to the left and right be possible by use the car ’ s turn signal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first one be what you might call the modern interpretation of the fifth wheel , courtesy of the Russians from Garage 54 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the idea be pure genius : put the spare wheel to actual use only when you need it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The wheel be power by a starter motor and move incredibly fast .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the late stunt , they dust off ( only figuratively , of course ) a beat-up Fiat hatchback they have use before for a six-wheel conversion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The entire contraption be , a you would expect if you ’ d see at least one Garage 54 video before , very crude and not in the least pleasing to the eye .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hagerty.com/media/automotive-history/parallel-parking-made-easy-1930s-style/",
+            "content": "” Demonstrating his glorious creation on a four-door Packard—presumably in 1933 , judge from the license plate—the car ’ s spare tire lower from it rear mount and raise the rear wheel , allow the tail to swivel left and right , make it a snap to parallel park or maneuver in tight space . We stumble upon this news reel feature a California inventor ’ s ingenious spin on the term “ fifth wheel. Before long he be make the round again , this time demonstrate his park assist device on a 1953 Packard Cavalier and take advantage of an extended continental kit to mount the fifth wheel outside the trunk . As the narrator say , why the fifth wheel never catch on we ’ ll never know . So the next time you take your hand off the wheel of your Chevy Malibu a it methodically parallel park itself , give thanks for Brooks Walker . Years later , shortly after the second film be produce , Life Magazine feature the fifth wheel in it November 17 , 1952 and identify the inventor a “ California lumberman Brooks Walker. “ He call this device the ‘ Park Car , ’ and say it can be instal on any model . Taking power from the driveshaft , the spare tire swing the rear end into the clear . Sign up for the late automotive news and videos—in short , everything for people who love car\nThe parking assist feature on modern car might seem like a recent innovation , but if Brooks Walker have his way we would have be use it since the 1930s .",
+            "domain": "www.hagerty.com",
+            "tokenized": [
+                {
+                    "sent": "” Demonstrating his glorious creation on a four-door Packard—presumably in 1933 , judge from the license plate—the car ’ s spare tire lower from it rear mount and raise the rear wheel , allow the tail to swivel left and right , make it a snap to parallel park or maneuver in tight space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We stumble upon this news reel feature a California inventor ’ s ingenious spin on the term “ fifth wheel.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Before long he be make the round again , this time demonstrate his park assist device on a 1953 Packard Cavalier and take advantage of an extended continental kit to mount the fifth wheel outside the trunk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the narrator say , why the fifth wheel never catch on we ’ ll never know .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So the next time you take your hand off the wheel of your Chevy Malibu a it methodically parallel park itself , give thanks for Brooks Walker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Years later , shortly after the second film be produce , Life Magazine feature the fifth wheel in it November 17 , 1952 and identify the inventor a “ California lumberman Brooks Walker.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ He call this device the ‘ Park Car , ’ and say it can be instal on any model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Taking power from the driveshaft , the spare tire swing the rear end into the clear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sign up for the late automotive news and videos—in short , everything for people who love car\nThe parking assist feature on modern car might seem like a recent innovation , but if Brooks Walker have his way we would have be use it since the 1930s .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedrive.com/news/34848/russian-mechanic-brings-5th-wheel-parallel-parking-trick-back-to-life",
+            "content": "You may have see the most frequent result in an old magazine or an archived newsreel online someplace : a fifth wheel , perpendicular to the other four and tuck up in the back that could drop down and allow the car to pivot into a spot . And besides , if have a car that can spin in place like a merry-go-round be your real reason for want that extra wheel , Rivian have you cover there . As satisfying a it may be to nail a maneuver , parallel parking be n't exactly a fun task behind the wheel . Things be simple yet just a gimmicky nowadays , a some sort of self-parking technology be almost standard in new car .",
+            "domain": "www.thedrive.com",
+            "tokenized": [
+                {
+                    "sent": "You may have see the most frequent result in an old magazine or an archived newsreel online someplace : a fifth wheel , perpendicular to the other four and tuck up in the back that could drop down and allow the car to pivot into a spot .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And besides , if have a car that can spin in place like a merry-go-round be your real reason for want that extra wheel , Rivian have you cover there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As satisfying a it may be to nail a maneuver , parallel parking be n't exactly a fun task behind the wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Things be simple yet just a gimmicky nowadays , a some sort of self-parking technology be almost standard in new car .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reddit.com/r/AskHistorians/comments/cirhke/why_was_the_5th_wheel_used_to_assist_cars_in/",
+            "content": "I just saw a tweet from an advertisement in 1933 for a car that have a 5th wheel to help it parallel park . As that technology become good and more common , there will probably never be a need for a fifth wheel . All of these required significant modification to the car , include cut open the bottom of the car , change seat alignment , make the third seat face rearward , and extend the rear fender . The inventor of the fifth wheel , Brooks Walker , actually keep innovate on the system until he die in the 70 's , and he try several time to bring it to market . Plus , in the last few year , high-end brand like Teslas or Chevrolet Malibus have add auto-parking feature use sensor . We 're in speculation territory here , but over time parallel parking have become far less common . More pressingly , though , the complicate mechanical system take up all of the trunk space in the car .",
+            "domain": "www.reddit.com",
+            "tokenized": [
+                {
+                    "sent": "I just saw a tweet from an advertisement in 1933 for a car that have a 5th wheel to help it parallel park .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As that technology become good and more common , there will probably never be a need for a fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All of these required significant modification to the car , include cut open the bottom of the car , change seat alignment , make the third seat face rearward , and extend the rear fender .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The inventor of the fifth wheel , Brooks Walker , actually keep innovate on the system until he die in the 70 's , and he try several time to bring it to market .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Plus , in the last few year , high-end brand like Teslas or Chevrolet Malibus have add auto-parking feature use sensor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We 're in speculation territory here , but over time parallel parking have become far less common .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More pressingly , though , the complicate mechanical system take up all of the trunk space in the car .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.flexpostinc.com/blog/1950s-fifth-parking-wheel/",
+            "content": "In the early 1930 ’ s , Brooks Walker create a new elaborate solution for parallel parking by develop a fifth wheel solely designate for park . As car get large and park space get small , the “ problem ” of parallel parking increase . The patent describe the intricacy of the fifth wheel within the vehicle and it function . With a simple crank on the dashboard , the wheel would be lower to the ground and swing the car around for easy parking . After the car be in it parking place , another switch would lower the car back into it original position . This auxiliary wheel be hide in a vehicle ’ s trunk and push down to the ground by hydraulic pump and gear when need .",
+            "domain": "www.flexpostinc.com",
+            "tokenized": [
+                {
+                    "sent": "In the early 1930 ’ s , Brooks Walker create a new elaborate solution for parallel parking by develop a fifth wheel solely designate for park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As car get large and park space get small , the “ problem ” of parallel parking increase .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The patent describe the intricacy of the fifth wheel within the vehicle and it function .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With a simple crank on the dashboard , the wheel would be lower to the ground and swing the car around for easy parking .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the car be in it parking place , another switch would lower the car back into it original position .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This auxiliary wheel be hide in a vehicle ’ s trunk and push down to the ground by hydraulic pump and gear when need .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.oldcarsweekly.com/features/car-of-the-week-self-parking-1953-packard-cavalier",
+            "content": "Using a series of hydraulic pump and belt , the rear tire be lower until it raise the Packard ’ s rear wheel off the ground . Because the car ’ s transmission and rear wheel be utilize in the system , the brake can be use to stop the continental tire from spin , make the system easy for a novice to use . By put the transmission in “ Drive , ” the right rear tire spin against a wooden wheel that be part of the self-parking system . Once in the air , and with the car running , she then could shift the car into gear so the right rear tire spun . Once the rear wheel be off the ground , a giant gear behind the continental tire turn via belt and brace that be set in motion by the passenger side rear tire . Because the self-parking system use the Packard ’ s drivetrain , the brake also work to stop the continental spare tire from turn once the car be in position . To engage the self-parking feature , my lady simply flip one of three dash-mounted switch to lower the continental tire , which descend via the hydraulic pump until the car ’ s rear wheel be lift off the ground by the spare tire . “ We be plan on use [ the self-parking system ] at car show , so we go through the whole thing . Using a series of hydraulic pump and line , gear , and the Packard ’ s leave rear tire and continental spare tire , Walker come up with his own unique system for ease the parking procedure for car owner . When she select “ Drive , ” the car turn toward the doorman wait on the curb . What set the Packard Cavalier apart from Walker ’ s other self-parking car be the fact the Packard use the tire of the continental kit to move the car from side to side . `` We have rebuild the brake system , replace all five tire , reupholstered the front and rear seat , rebuild the cylinder and valve for the rear tire and the car now work great , '' Swaney write . All of these car be modify from beneath to allow a tire to be hide under the car until it be lower in the process of park the car . If the lady of the house put the car in “ Reverse , ” the Packard ’ s tail section move the car away from the curb . While the tire spun , it turn a wooden wheel that start a series of belt into motion . ”\nToday , the Packard ’ s unique hydraulic self-parking setup will allow the car to , literally , run in circle , just a Walker intend . Check out this video of a self-parking Cadillac , also build by Brooks Walker . The belt spin a giant gear on the back of the continental spare tire , which turn the tire leave or right , depend on which gear the car be in . The wood wheel transfer motion through the system to the continental tire , which then push the Packard towards the curb . Looking under the car at the back of the continental spare while in the “ down ” position , the gear at the back of the spare tire can be see , a can the lifting support for the car , hydraulic pump , and belt . The Old Cars Auction Calendar have the when and where you be look for when it come to classic car auction . At that time , he still own several 1950s car sport variation of his self-parking device , include an early-1950s Ford station wagon , a 1957 Oldsmobile station wagon , and a 1951 Cadillac Series Sixty Special . Editor 's note : We find this car 's current whereabouts , securely in possession of an Old Cars reader again . `` Also love Old Cars Weekly ; my dad and I both subscribe . '' As late a the 1970s , Walker be still develop a parallel-parking system for car , and his last known effort be on a Saab sedan . After demonstrate this exact procedure at several auto show in 1953 , Walker keep the Packard in order to maintain the patent on ( and secrecy of ) the self-parking device . Willie and Michael Mehn ’ s Packard be in good , original condition when they purchase it , so the car only undergo a sympathetic cosmetic restoration . Mechanically , the car be also in fine condition , with the exception of the self-parking system ’ s hydraulic component .",
+            "domain": "www.oldcarsweekly.com",
+            "tokenized": [
+                {
+                    "sent": "Using a series of hydraulic pump and belt , the rear tire be lower until it raise the Packard ’ s rear wheel off the ground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because the car ’ s transmission and rear wheel be utilize in the system , the brake can be use to stop the continental tire from spin , make the system easy for a novice to use .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By put the transmission in “ Drive , ” the right rear tire spin against a wooden wheel that be part of the self-parking system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once in the air , and with the car running , she then could shift the car into gear so the right rear tire spun .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once the rear wheel be off the ground , a giant gear behind the continental tire turn via belt and brace that be set in motion by the passenger side rear tire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because the self-parking system use the Packard ’ s drivetrain , the brake also work to stop the continental spare tire from turn once the car be in position .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To engage the self-parking feature , my lady simply flip one of three dash-mounted switch to lower the continental tire , which descend via the hydraulic pump until the car ’ s rear wheel be lift off the ground by the spare tire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be plan on use [ the self-parking system ] at car show , so we go through the whole thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using a series of hydraulic pump and line , gear , and the Packard ’ s leave rear tire and continental spare tire , Walker come up with his own unique system for ease the parking procedure for car owner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When she select “ Drive , ” the car turn toward the doorman wait on the curb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What set the Packard Cavalier apart from Walker ’ s other self-parking car be the fact the Packard use the tire of the continental kit to move the car from side to side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have rebuild the brake system , replace all five tire , reupholstered the front and rear seat , rebuild the cylinder and valve for the rear tire and the car now work great , '' Swaney write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All of these car be modify from beneath to allow a tire to be hide under the car until it be lower in the process of park the car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the lady of the house put the car in “ Reverse , ” the Packard ’ s tail section move the car away from the curb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the tire spun , it turn a wooden wheel that start a series of belt into motion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nToday , the Packard ’ s unique hydraulic self-parking setup will allow the car to , literally , run in circle , just a Walker intend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Check out this video of a self-parking Cadillac , also build by Brooks Walker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The belt spin a giant gear on the back of the continental spare tire , which turn the tire leave or right , depend on which gear the car be in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The wood wheel transfer motion through the system to the continental tire , which then push the Packard towards the curb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Looking under the car at the back of the continental spare while in the “ down ” position , the gear at the back of the spare tire can be see , a can the lifting support for the car , hydraulic pump , and belt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Old Cars Auction Calendar have the when and where you be look for when it come to classic car auction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At that time , he still own several 1950s car sport variation of his self-parking device , include an early-1950s Ford station wagon , a 1957 Oldsmobile station wagon , and a 1951 Cadillac Series Sixty Special .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Editor 's note : We find this car 's current whereabouts , securely in possession of an Old Cars reader again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Also love Old Cars Weekly ; my dad and I both subscribe . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As late a the 1970s , Walker be still develop a parallel-parking system for car , and his last known effort be on a Saab sedan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After demonstrate this exact procedure at several auto show in 1953 , Walker keep the Packard in order to maintain the patent on ( and secrecy of ) the self-parking device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Willie and Michael Mehn ’ s Packard be in good , original condition when they purchase it , so the car only undergo a sympathetic cosmetic restoration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mechanically , the car be also in fine condition , with the exception of the self-parking system ’ s hydraulic component .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pinterest.com/pin/543246773782978483/",
+            "content": "A paved street with car park in parallel parking space . Parallel Parking/Reverse Parking - A-Class Driving School . It be not hard at all to parallel park a car as long a you have catch the skill during the training . One car wait while another park . A very quick video on how to perform the parallel park ( reverse park ) exercise for the UK driving ... Certainly it can be a a challenge for even the most seasoned driver if they ’ re use to park in driveway and park lots—and while many car now come equip with automatic park system , it ’ s really a skill worth perfect no matter what car you be drive . Learn how to parallel park here with six easy step . Parallel parking be always a coup de grace for driver who be take their test . Step 1 : Approaching a parking ...\nOr get a car with smart park assist # park # easy # nmg # warrnambool # nortonmotorgroup by nortonmotorgroup\nParallel parking can be intimidating , but you 'll master it in no time with a bit of practice . If you don ’ t regularly drive and park in a dense urban area , parallel parking might fill you with anxiety . Thankfully , over at Quora , Yishan Wong have put together a set of step-by-step instruction on how to parallel park…\nA modern car will have at least 5 forward gear , and if we want to drive safely and smoothly in all road and traffic condition we will need to understand wh ...",
+            "domain": "www.pinterest.com",
+            "tokenized": [
+                {
+                    "sent": "A paved street with car park in parallel parking space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Parallel Parking/Reverse Parking - A-Class Driving School .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be not hard at all to parallel park a car as long a you have catch the skill during the training .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One car wait while another park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A very quick video on how to perform the parallel park ( reverse park ) exercise for the UK driving ...",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Certainly it can be a a challenge for even the most seasoned driver if they ’ re use to park in driveway and park lots—and while many car now come equip with automatic park system , it ’ s really a skill worth perfect no matter what car you be drive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Learn how to parallel park here with six easy step .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Parallel parking be always a coup de grace for driver who be take their test .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Step 1 : Approaching a parking ...\nOr get a car with smart park assist # park # easy # nmg # warrnambool # nortonmotorgroup by nortonmotorgroup\nParallel parking can be intimidating , but you 'll master it in no time with a bit of practice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you don ’ t regularly drive and park in a dense urban area , parallel parking might fill you with anxiety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thankfully , over at Quora , Yishan Wong have put together a set of step-by-step instruction on how to parallel park…\nA modern car will have at least 5 forward gear , and if we want to drive safely and smoothly in all road and traffic condition we will need to understand wh ...",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://camperreport.com/travel-trailer-vs-5th-wheel-23-things-consider-buying/",
+            "content": "We once again visited our local RV show January 2017 and find our dream Fifth Wheel . Dome fifth wheel hitch I see appear totally rigid , while others be make to pivot side to side , allow for variation in the pitch of the two vehicle . For u , the fifth wheel have the most advantage in our opinion . I think I would like a fifth wheel . One of my big debate be a fifth wheel or travel trailer . Here , you can find a list I make of the most popular fifth wheel toy hauler . Regarding hitch – most current pickup can be order with a factory instal “ puck ” system for fifth wheel hitch . I ’ ve never own a fifth wheel myself , but a a full-time TT resident , I drive by a lot of haul vehicle . I write an article all about how a fifth wheel connects to a truck , include a guide on how to connect it . Looking for a trailer with the bell and whistle of s fifth wheel for a 4 to 5 month stay . Here , you can find an article I write all about the average weight of a fifth wheel , include 18 example . Have you hear of this issue with 5th wheel . This fifth wheel be on the heavy side which we know it would be a it ? I ’ ve be go back and forth between 5th wheel and TT ’ s . I have my 5th wheel hitch reverse . I ’ m sure you ’ ve see those fifth wheel ( and less frequently motor home and travel trailer ) with a gate on the back ? The 5th wheel have the opposite problem . The 5th wheel I ’ ve be look at have a pin weight of 1,400lbs . If you ’ re still consider a fifth wheel , in this article I give 21 example of fifth wheel cost , include the average cost . It also look a lot easy to hook up a 5th wheel . The 5th wheel design put more of the weight center between the axle on the towing vehicle , and bring the center of mass forward on the towed vehicle . Not so with our fifth wheel , even though it be longer and heavy ! The 5th wheel clearly win this debate . In several state , it be legal to ride inside a 5th wheel while it be be tow . Obviously , the first consideration be if your towing vehicle be even compatible with a 5th wheel . This be thanks to the multi-level design of a 5th wheel that open space underneath . If you get a 5th wheel , you can ’ t bring along an ATV . During our search we have learn that 5th wheel be prone to twist the neck of the trailer after a while , especially if travel over rough , twisty road . This be not to say that every 5th wheel have the same problem . We be consider a 5th wheel toyhauler . However , 5th wheel have some INCREDIBLE feature and advantage that will appeal to many . All over the place as far a Class A , Class C , TT or 5th wheel . 5th wheel always have some step in the interior cabin–usually to get to the bathroom and the master bedroom . On a 5th wheel , the only way to do this be if you have a toy hauler 5th wheel . We ’ ve have to pull 5th wheel out of crazy place with the tow vehicle attach . However , the multiple level in a 5th wheel can also be quite nice for block sound and make each room feel a bit more private . Frankly , I ’ m not quite sure what justify the large price increase of a 5th wheel over a travel trailer . For year I use a Chevy Express 3500 and a 24′ travel traler for all my adventure . The exterior storage under the living area on a 5th wheel be often very large . We be not go to be haul toys just u\nI have a 24 foot TT and I be seriously consider a 5th wheel . It ’ s tough to say whether back up be easy on a 5th wheel or a travel trailer . The difference be that a tow travel trailer tend to overreact to very minor movement in the steering wheel . 5th wheel because we be look at travel south and west during the winter month to escape the Georgia mountain . One drawback to a 5th wheel be that it use up your entire truck bed . In fact , some state only allow you to tow something behind a trailer if your trailer be a 5th wheel . I ’ ve be a tent camper for 40 year and I be now look at travel trailer and fifth wheel . Also , 5th wheel be so tall that you ’ ll be ram into tree branch on many boondocking camp site . If you plan to bring a small trailer with an ATV or a boat behind your RV , then a 5th wheel be a much good choice for the super long tow . You ’ ll often find a huge open cavity for store large item under a 5th wheel . It ’ s gon na be tough to find a $ 150,000 or even $ 300,000 travel trailer , but they definitely exist in the 5th wheel arena . I currently load my motorcycle in the truck bed so I need to find a solution to bring that along if I go the 5th wheel route . A 12,000 pound 5th wheel attach to your vehicle make go down a decline on a dirt road or an icy road a serious concern . But first , the quick answer : 5th wheel be well suit to the BIG trailer of 28′ or more . ” [ /x_blockquote ]\nMany 5th wheel owner complain about uneven cooling in a 5th wheel compare to a travel trailer . Have not see a travel trailer that compare with a 5th wheel interior for a 4 or 5 month stay away from home . Many 5th wheel have two bathroom or 1.5 bathroom . 5th wheel trailer be almost always significantly heavy than a comparable travel trailer . This make tow a 5th wheel much more stable and secure . Some 5th wheel be MASSIVE and have an incredible number of feature that rival any motorhome , so if you ’ re shopping on the very high end and basically want a luxury apartment attach to your truck , then the motorhome be for you . Duh\nLooking at both 5th wheel and pull behind have a 2018 f250 with a 6.7 turbo want to tow long distance at time how do they both act on the highway with the proper towing hitch this would be a 20 to 38 ft unit thanks steve\nMy situation : Single grandma that want to travel from FL to New England . Some people say that 5th wheel be easy to hook up than travel trailer . While there be plenty of 5th wheel “ Half Ton Towables ” I ’ ve learened that this occur under optimal condition . Most economical would be pull TT or 5th wheel with quad truck since I have rental property and could utilize the truck vs an A or C sit unused most of the time . I buy a Rockwood 25′ travel trailer a few week ago and I have to make the tough choice of whether or not to get a 5th wheel . Some 5th wheel ( but definitely not all ) have generator built-in . I research this hitch and speak to several owners…all say it be the best thing for 5th wheel tow . The 5th wheel tow receiver be a HUGE and HEAVY chunk of steel . Much more use of your truck and tow a good and maneuver good in park lot . My research have lead me to ATC brand Toy Haulers ( The very best thing about this site , whether or not you purchase a TT or 5th wheel from them , be that they give you a ton of information reguarding sizing and construction . My husband want a 5th wheel toy hauler for his “ baby ” ( aka motorcycle ) We ’ ll find an RV camp somewhere and then take the motorcycle out and ride .",
+            "domain": "camperreport.com",
+            "tokenized": [
+                {
+                    "sent": "We once again visited our local RV show January 2017 and find our dream Fifth Wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dome fifth wheel hitch I see appear totally rigid , while others be make to pivot side to side , allow for variation in the pitch of the two vehicle .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For u , the fifth wheel have the most advantage in our opinion .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I think I would like a fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of my big debate be a fifth wheel or travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here , you can find a list I make of the most popular fifth wheel toy hauler .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Regarding hitch – most current pickup can be order with a factory instal “ puck ” system for fifth wheel hitch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ ve never own a fifth wheel myself , but a a full-time TT resident , I drive by a lot of haul vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I write an article all about how a fifth wheel connects to a truck , include a guide on how to connect it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Looking for a trailer with the bell and whistle of s fifth wheel for a 4 to 5 month stay .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here , you can find an article I write all about the average weight of a fifth wheel , include 18 example .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Have you hear of this issue with 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This fifth wheel be on the heavy side which we know it would be a it ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ ve be go back and forth between 5th wheel and TT ’ s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I have my 5th wheel hitch reverse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ m sure you ’ ve see those fifth wheel ( and less frequently motor home and travel trailer ) with a gate on the back ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 5th wheel have the opposite problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 5th wheel I ’ ve be look at have a pin weight of 1,400lbs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you ’ re still consider a fifth wheel , in this article I give 21 example of fifth wheel cost , include the average cost .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It also look a lot easy to hook up a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 5th wheel design put more of the weight center between the axle on the towing vehicle , and bring the center of mass forward on the towed vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not so with our fifth wheel , even though it be longer and heavy !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The 5th wheel clearly win this debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In several state , it be legal to ride inside a 5th wheel while it be be tow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obviously , the first consideration be if your towing vehicle be even compatible with a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be thanks to the multi-level design of a 5th wheel that open space underneath .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you get a 5th wheel , you can ’ t bring along an ATV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During our search we have learn that 5th wheel be prone to twist the neck of the trailer after a while , especially if travel over rough , twisty road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be not to say that every 5th wheel have the same problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be consider a 5th wheel toyhauler .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , 5th wheel have some INCREDIBLE feature and advantage that will appeal to many .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All over the place as far a Class A , Class C , TT or 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "5th wheel always have some step in the interior cabin–usually to get to the bathroom and the master bedroom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On a 5th wheel , the only way to do this be if you have a toy hauler 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We ’ ve have to pull 5th wheel out of crazy place with the tow vehicle attach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the multiple level in a 5th wheel can also be quite nice for block sound and make each room feel a bit more private .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Frankly , I ’ m not quite sure what justify the large price increase of a 5th wheel over a travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For year I use a Chevy Express 3500 and a 24′ travel traler for all my adventure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The exterior storage under the living area on a 5th wheel be often very large .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be not go to be haul toys just u\nI have a 24 foot TT and I be seriously consider a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s tough to say whether back up be easy on a 5th wheel or a travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The difference be that a tow travel trailer tend to overreact to very minor movement in the steering wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "5th wheel because we be look at travel south and west during the winter month to escape the Georgia mountain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One drawback to a 5th wheel be that it use up your entire truck bed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In fact , some state only allow you to tow something behind a trailer if your trailer be a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ ve be a tent camper for 40 year and I be now look at travel trailer and fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also , 5th wheel be so tall that you ’ ll be ram into tree branch on many boondocking camp site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you plan to bring a small trailer with an ATV or a boat behind your RV , then a 5th wheel be a much good choice for the super long tow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You ’ ll often find a huge open cavity for store large item under a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s gon na be tough to find a $ 150,000 or even $ 300,000 travel trailer , but they definitely exist in the 5th wheel arena .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I currently load my motorcycle in the truck bed so I need to find a solution to bring that along if I go the 5th wheel route .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A 12,000 pound 5th wheel attach to your vehicle make go down a decline on a dirt road or an icy road a serious concern .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But first , the quick answer : 5th wheel be well suit to the BIG trailer of 28′ or more .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ /x_blockquote ]\nMany 5th wheel owner complain about uneven cooling in a 5th wheel compare to a travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Have not see a travel trailer that compare with a 5th wheel interior for a 4 or 5 month stay away from home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many 5th wheel have two bathroom or 1.5 bathroom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "5th wheel trailer be almost always significantly heavy than a comparable travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This make tow a 5th wheel much more stable and secure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some 5th wheel be MASSIVE and have an incredible number of feature that rival any motorhome , so if you ’ re shopping on the very high end and basically want a luxury apartment attach to your truck , then the motorhome be for you .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Duh\nLooking at both 5th wheel and pull behind have a 2018 f250 with a 6.7 turbo want to tow long distance at time how do they both act on the highway with the proper towing hitch this would be a 20 to 38 ft unit thanks steve\nMy situation : Single grandma that want to travel from FL to New England .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some people say that 5th wheel be easy to hook up than travel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While there be plenty of 5th wheel “ Half Ton Towables ” I ’ ve learened that this occur under optimal condition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most economical would be pull TT or 5th wheel with quad truck since I have rental property and could utilize the truck vs an A or C sit unused most of the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I buy a Rockwood 25′ travel trailer a few week ago and I have to make the tough choice of whether or not to get a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some 5th wheel ( but definitely not all ) have generator built-in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I research this hitch and speak to several owners…all say it be the best thing for 5th wheel tow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 5th wheel tow receiver be a HUGE and HEAVY chunk of steel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Much more use of your truck and tow a good and maneuver good in park lot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "My research have lead me to ATC brand Toy Haulers ( The very best thing about this site , whether or not you purchase a TT or 5th wheel from them , be that they give you a ton of information reguarding sizing and construction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "My husband want a 5th wheel toy hauler for his “ baby ” ( aka motorcycle ) We ’ ll find an RV camp somewhere and then take the motorcycle out and ride .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.outdoorsy.com/blog/purchasing-a-fifth-wheel",
+            "content": "You will find a sticker somewhere in the fifth wheel that have all these number for you . Whether you plan to live stationary in your fifth wheel or haul it all over the country , move destination every couple week , you ’ ll need to carefully consider every aspect and feature of the fifth wheel you purchase . So keep in mind the size of the hold tank when you be purchase your fifth wheel . Choosing the fifth wheel that be right for you really come down to your personal preference , lifestyle , and need . Certain RV brand be know for manufacture 5th wheel that be design for full-time use , so you ’ ll want to research those brand . Are you plan to live in the fifth wheel full-time or use it for occasional camp trip a few time a year ? Fifth wheel have a Gross Vehicle Weight Rating ( GVWR ) , but you ’ ll also need to determine the trailer ’ s Cargo Carrying Capacity ( CCC ) . Here be the formula for determine a fifth wheel ’ s CCC :\nKnowing your trailer ’ s CCC will allow you to determine how much weight you can add with all the belonging you plan to store in the RV . Not take weight into consideration be a common mistake people make when purchase a fifth wheel . If you ’ re still on the fence , read these 10 reason why you should choose a fifth wheel . Unless you ’ re planning to be completely stationary or stay at RV resort that can accommodate long RVs , don ’ t go too overboard with the length of your fifth wheel . Living in a unit will require you to put more thought into how comfortable you will be in the fifth wheel on a day-to-day basis . Thinking of buy a fifth wheel ? To give you an example , a fifth wheel have a 30-gallon freshwater tank . If you plan to be the occasional weekend warrior in your fifth wheel , consider rent it out instead of store it . You may already own a truck or be plan to purchase one to tow your fifth wheel . How you plan to use your fifth-wheel trailer be also a very important thing to consider before even begin the hunt .",
+            "domain": "www.outdoorsy.com",
+            "tokenized": [
+                {
+                    "sent": "You will find a sticker somewhere in the fifth wheel that have all these number for you .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whether you plan to live stationary in your fifth wheel or haul it all over the country , move destination every couple week , you ’ ll need to carefully consider every aspect and feature of the fifth wheel you purchase .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So keep in mind the size of the hold tank when you be purchase your fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Choosing the fifth wheel that be right for you really come down to your personal preference , lifestyle , and need .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Certain RV brand be know for manufacture 5th wheel that be design for full-time use , so you ’ ll want to research those brand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Are you plan to live in the fifth wheel full-time or use it for occasional camp trip a few time a year ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fifth wheel have a Gross Vehicle Weight Rating ( GVWR ) , but you ’ ll also need to determine the trailer ’ s Cargo Carrying Capacity ( CCC ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be the formula for determine a fifth wheel ’ s CCC :\nKnowing your trailer ’ s CCC will allow you to determine how much weight you can add with all the belonging you plan to store in the RV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not take weight into consideration be a common mistake people make when purchase a fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you ’ re still on the fence , read these 10 reason why you should choose a fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unless you ’ re planning to be completely stationary or stay at RV resort that can accommodate long RVs , don ’ t go too overboard with the length of your fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Living in a unit will require you to put more thought into how comfortable you will be in the fifth wheel on a day-to-day basis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thinking of buy a fifth wheel ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To give you an example , a fifth wheel have a 30-gallon freshwater tank .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you plan to be the occasional weekend warrior in your fifth wheel , consider rent it out instead of store it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You may already own a truck or be plan to purchase one to tow your fifth wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How you plan to use your fifth-wheel trailer be also a very important thing to consider before even begin the hunt .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.autoweek.com/car-life/but-wait-theres-more/a1709081/check-out-original-parallel-parking-asisst/",
+            "content": "If you ’ ve ever use one of the modern park assist feature , watch the video above to see the way your parallel parking procedure would have be decade ago . While Walker display his system use Packards and Cadillacs , it be available for any and every car . Parallel parking have never be fun , and driver have always struggle with the skill require to slot in between two car at the curb , especially in tight park spot in major city like New York or Los Angeles . To ease those woe , automaker have start add system that effectively park your car automatically . Hydraulically , because it use a hydraulic ram to lift your car , by way of the spare tire . Our car expert choose every product we feature . Then , the spare-tire-turned-park-assist power your car into a parking space without have to do your best Austin Powers impersonation . If you want a good look at how the system work , Old Cars Weekly track down one of Walker ’ s display model -- a 1953 Packard Cavalier .",
+            "domain": "www.autoweek.com",
+            "tokenized": [
+                {
+                    "sent": "If you ’ ve ever use one of the modern park assist feature , watch the video above to see the way your parallel parking procedure would have be decade ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Walker display his system use Packards and Cadillacs , it be available for any and every car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Parallel parking have never be fun , and driver have always struggle with the skill require to slot in between two car at the curb , especially in tight park spot in major city like New York or Los Angeles .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To ease those woe , automaker have start add system that effectively park your car automatically .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hydraulically , because it use a hydraulic ram to lift your car , by way of the spare tire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our car expert choose every product we feature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , the spare-tire-turned-park-assist power your car into a parking space without have to do your best Austin Powers impersonation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you want a good look at how the system work , Old Cars Weekly track down one of Walker ’ s display model -- a 1953 Packard Cavalier .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.oregonlive.com/history/2015/08/fifth-wheel_driving_a_parallel.html",
+            "content": "In the 1950s , an inventor create a parking system that use the spare tire to move the car in and out of tight parking space . Watch the video below to see how Fifth-Wheel Driving work :\nRegistration on or use of this site constitute acceptance of our User Agreement , Privacy Policy and Cookie Statement , and Your California Privacy Rights ( each update 1/1/21 ) . The system utilize a hydraulic pump and the car 's spare tire to guide the vehicle in and out of park space . Walker demonstrate `` fifth-wheel driving '' at numerous auto show . It could also turn the car in a complete circle . `` With new car get big and park space get small ... an inventor have develop something to soothe the motorist 's headache , '' a newsreel narrator enthuse . Back in the 1950s , a man name Brooks Walker invent `` fifth-wheel driving , '' write Old Cars Weekly . It 's the part of the driver 's test that every teenager fear the most : parallel parking .",
+            "domain": "www.oregonlive.com",
+            "tokenized": [
+                {
+                    "sent": "In the 1950s , an inventor create a parking system that use the spare tire to move the car in and out of tight parking space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Watch the video below to see how Fifth-Wheel Driving work :\nRegistration on or use of this site constitute acceptance of our User Agreement , Privacy Policy and Cookie Statement , and Your California Privacy Rights ( each update 1/1/21 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The system utilize a hydraulic pump and the car 's spare tire to guide the vehicle in and out of park space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walker demonstrate `` fifth-wheel driving '' at numerous auto show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It could also turn the car in a complete circle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` With new car get big and park space get small ... an inventor have develop something to soothe the motorist 's headache , '' a newsreel narrator enthuse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Back in the 1950s , a man name Brooks Walker invent `` fifth-wheel driving , '' write Old Cars Weekly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's the part of the driver 's test that every teenager fear the most : parallel parking .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.azleg.gov/ars/33/02102.htm",
+            "content": "This subdivision include fifth wheel trailer . ( c ) A park trailer or park model build on a single chassis , mount on wheel or originally mount on wheel and from which the wheel have be remove and design to be connect to utility necessary for operation of installed fixture and appliance and have a gross trailer area of not less than three hundred twenty square foot and not more than four hundred square foot when it be set up , except that it do not include fifth wheel trailer .",
+            "domain": "www.azleg.gov",
+            "tokenized": [
+                {
+                    "sent": "This subdivision include fifth wheel trailer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( c ) A park trailer or park model build on a single chassis , mount on wheel or originally mount on wheel and from which the wheel have be remove and design to be connect to utility necessary for operation of installed fixture and appliance and have a gross trailer area of not less than three hundred twenty square foot and not more than four hundred square foot when it be set up , except that it do not include fifth wheel trailer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://camperreport.com/best-rv-length-for-national-parks/",
+            "content": "re fine because the car can be park to the side of the RV . You can often park the car next to the camper if they have wide enough space . We use her car for explore and be able to leave the RV connect , which be nice with the high wind . 30 foot would eliminate basically all 5th wheel , and travel trailer and A class\nSo unless they be offer a double wide space , you can ’ t park your car to the side . We will be full timing in a 5th wheel this spring . The advent of the enormous crew cab and fifth wheel that we now enjoy be a ( relatively ) recent phenomenon . We have a 40 ft 5th fifth wheel and so far have only camp at PA and NY state park and COE campground . I find a lot of limitation when we drive our 40′ 5th wheel to CA . Having say all of that , I think the ideal length , tip to tail , of a travel trailer or 5th wheel , be 25-30′ if you plan on use public park extensively . Your video , “ Best RV Length for Fitting in National Park Campgrounds ” , be very useful . in combined length ( motorhome and toad or fifth wheel and tow vehicle )\n? Our m/h be 40 ’ + and 61′ with car in tow . If you have a small RV and a car , you will likely be able to get both vehicle in a 50′ driveway length . Anyways after tear all the seat out we come across a YouTube video talk about many of the point you make here . Size of vehicle be not an issue for me because I ’ ve driven everything from 18-wheelers to heavy equipment to Rally Racing to normal family car . We always tent camp in national park and now want to get a 5th wheel . In true overall length ( bumper to bumper ) allow for most every park . Rarely do both vehicle have to be park in line . Another comment mention use a clear area to the rear of the site for the RVs overhang . The driveway length be the length you have to work with for park those vehicle . Here be some State Park information on Rv length site . We have a new to u 5th wheel that be 32 foot .",
+            "domain": "camperreport.com",
+            "tokenized": [
+                {
+                    "sent": "re fine because the car can be park to the side of the RV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can often park the car next to the camper if they have wide enough space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We use her car for explore and be able to leave the RV connect , which be nice with the high wind .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "30 foot would eliminate basically all 5th wheel , and travel trailer and A class\nSo unless they be offer a double wide space , you can ’ t park your car to the side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We will be full timing in a 5th wheel this spring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The advent of the enormous crew cab and fifth wheel that we now enjoy be a ( relatively ) recent phenomenon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have a 40 ft 5th fifth wheel and so far have only camp at PA and NY state park and COE campground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I find a lot of limitation when we drive our 40′ 5th wheel to CA .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Having say all of that , I think the ideal length , tip to tail , of a travel trailer or 5th wheel , be 25-30′ if you plan on use public park extensively .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Your video , “ Best RV Length for Fitting in National Park Campgrounds ” , be very useful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "in combined length ( motorhome and toad or fifth wheel and tow vehicle )\n?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our m/h be 40 ’ + and 61′ with car in tow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you have a small RV and a car , you will likely be able to get both vehicle in a 50′ driveway length .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anyways after tear all the seat out we come across a YouTube video talk about many of the point you make here .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Size of vehicle be not an issue for me because I ’ ve driven everything from 18-wheelers to heavy equipment to Rally Racing to normal family car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We always tent camp in national park and now want to get a 5th wheel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In true overall length ( bumper to bumper ) allow for most every park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rarely do both vehicle have to be park in line .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another comment mention use a clear area to the rear of the site for the RVs overhang .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The driveway length be the length you have to work with for park those vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be some State Park information on Rv length site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have a new to u 5th wheel that be 32 foot .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/RoadandTrack/videos/drop-down-fifth-wheel-for-parallel-parking/10156138914136091/",
+            "content": "Somehow , this drop-down fifth-wheel concept use to parellel park in tight space never catch on .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "Somehow , this drop-down fifth-wheel concept use to parellel park in tight space never catch on .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalparkstraveler.org/2020/02/rving-parks-choose-your-national-park-rv-carefully",
+            "content": "If you see that a site have a 35-foot maximum length for a motorhome , the long fifth wheel it can easily accommodate will probably be 30-feet long . The fifth wheel itself be only 27-feet long , but when hitch to our pickup truck it ’ s a 42-foot long rolling home that sometimes make campsite park a crazy experiment in communication , patience , and skill . As the owner of a medium-sized fifth wheel , I ’ m always slightly envious when I see truck camper , van , and small motorhomes tuck away in a cozy gem of a campsite that could never accommodate my rig .",
+            "domain": "www.nationalparkstraveler.org",
+            "tokenized": [
+                {
+                    "sent": "If you see that a site have a 35-foot maximum length for a motorhome , the long fifth wheel it can easily accommodate will probably be 30-feet long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fifth wheel itself be only 27-feet long , but when hitch to our pickup truck it ’ s a 42-foot long rolling home that sometimes make campsite park a crazy experiment in communication , patience , and skill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the owner of a medium-sized fifth wheel , I ’ m always slightly envious when I see truck camper , van , and small motorhomes tuck away in a cozy gem of a campsite that could never accommodate my rig .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://dlautoglassandmore.com/",
+            "content": "Our inventory feature new and pre-owned travel trailer , fifth wheel , toy hauler , park model and fish house .",
+            "domain": "dlautoglassandmore.com",
+            "tokenized": [
+                {
+                    "sent": "Our inventory feature new and pre-owned travel trailer , fifth wheel , toy hauler , park model and fish house .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.glacierparkcollection.com/lodging/west-glacier-village/stories/how-to-see-glacier-on-an-rv-trip/",
+            "content": "So either leave your RV or fifth wheel park , hop in your vehicle and set yourself free in Glacier !",
+            "domain": "www.glacierparkcollection.com",
+            "tokenized": [
+                {
+                    "sent": "So either leave your RV or fifth wheel park , hop in your vehicle and set yourself free in Glacier !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonlawhelp.org/resource/i-live-in-a-trailer-motor-home-or-fifth-wheel-in-an-rv-park-i-pay-rent-for-the-lot-do-i-have-rights",
+            "content": "Do you live in an RV , camper , or fifth wheel trailer ?",
+            "domain": "www.washingtonlawhelp.org",
+            "tokenized": [
+                {
+                    "sent": "Do you live in an RV , camper , or fifth wheel trailer ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/mobile-home.aspx",
+            "content": "Manufactured and mobile home great than 45 foot long , except for fifth wheel , travel trailer or park model RV trailer , be exempt from registration .",
+            "domain": "wisconsindot.gov",
+            "tokenized": [
+                {
+                    "sent": "Manufactured and mobile home great than 45 foot long , except for fifth wheel , travel trailer or park model RV trailer , be exempt from registration .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,833 @@
+{
+    "event_id": "202215",
+    "claim": "The website joebiden.info is Joe Biden's official 2020 presidential campaign site.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "In the first quarter of 2019, internet users because encountering a somewhat unusual website that appeared to be the official “Biden 2020” U.S. presidential campaign site for former vice president Joe Biden. The website, at joebiden.info appeared slick and professional and appearance, but the material it offered was rather odd: pictures and animated GIFs of Biden touching and kissing women and young girls; a 2012 quote from Biden stating that “I promise you, the president has a big stick”; and sections highlighting Biden’s purported policy positions of having been “AGAINST Gay Marriage, FOR Mass Incarceration, AGAINST Abortion Rights, AGAINST School Busing, FOR Iraq War, and FOR Death Penalty & Harsh Drug Sentences”:\nAll of this was topped off by a notice to viewers that “Uncle Joe is back and ready to take a hands-on approach to America’s problems! Joe Biden has a good feel for the American people and knows exactly what they really want deep down. He’s happy to open up and reveal himself to voters and will give a pounding to anybody who gets in his way!” — references to Biden’s supposed “groping problem“:\n\nOnly in tiny type at the bottom of the page did the site inform readers that it was “political commentary and parody of Joe Biden’s Presidential campaign website” and was “not Joe Biden’s actual website.”\nThat disclaimer merely stated that the parody site was “a project BY AN American citizen FOR American citizens” without disclosing its creator’s identity. But a New York Times article of June 29, 2019, revealed the website to be the work of Patrick Mauldin, who runs the Republican political consulting firm Vici Media Group (not to be confused with Vici Media Inc. of Philadelphia) and has created content for Donald Trump’s presidential campaigns:\nThe Biden website was intended to help Democrats “face facts,” Mr. Mauldin said in an interview. He kept his name off it because “people tend to dismiss things that they don’t like, especially if it comes from the opposite side,” he said.\nYet in anonymously trying to exploit the fissures within the Democratic ranks — fissures that ran through [Democratic] debates — Mr. Mauldin’s website hews far closer to the disinformation spread by Russian trolls in 2016 than typical political messaging. With nothing to indicate its creator’s motives or employer, the website offers a preview of what election experts and national security officials say Americans can expect to be bombarded with for the next year and a half: anonymous and hard-to-trace digital messaging spread by sophisticated political operatives whose aim is to sow discord through deceit. Trolling, that is, as a political strategy.\nMr. Mauldin, who has not been previously identified as the creator of the website, said he had built and paid for it on his own, and not for the Trump campaign. But the campaign knows about the websites, raising the prospect that the president’s re-election effort condoned what is, in essence, a disinformation operation run by one of its own.\nTim Murtaugh, the Trump campaign’s communications director, did not directly address that issue, though he said it was “great that talented supporters of President Trump use their time to help his re-election.”\n“We appreciate their efforts in their own time with parodies like this that help the cause,” he added.\nMauldin set up similar fake campaign websites for other Democratic candidates, including Senators Bernie Sanders, Elizabeth Warren, and Kamala Harris. Biden campaign spokesperson T.J. Ducklo was quoted by the Times as saying the Biden campaign had been aware of the parody site but not the identity of its creator: “Imagine our surprise that a site full of obvious disinformation is the handiwork of an operative tied to the Trump campaign.”",
+    "reports": [
+        {
+            "link": "https://www.cnbc.com/2019/05/03/joe-biden-parody-website-is-beating-official-campaign-site-on-google.html",
+            "content": "Users be report that the former vice president 's official 2020 campaign page be nowhere to be find on the first page of result for the search term `` Joe Biden . '' Joe Biden 's presidential campaign be already sunk — at least on Google . `` Joe Biden have a good feel for the American people and know exactly what they really want deep down , '' read JoeBiden.info , the parody site . Even bad for the Democratic front-runner : A realistic-looking parody site feature image of Biden touch woman and child appear to be do quite well on Google and other major search engine , particularly for the search `` Joe Biden website . '' Read more : Joe Biden 's campaign tap data analytics company back by former Google chairman Eric Schmidt\nBiden 's campaign do not respond to a request for comment for this article . `` The surprise here be not that someone be troll Biden , but that his official site be nowhere to be see on the first page of result for prominent 'Biden 2020 ' search phrase , and that a derogatory parody page show up at the top , '' journalist Jonathan Walczak write in an April 25 tweet . While his official campaign page be absent , Google do prominently display an official Biden advertisement for Biden-related search . `` I would assume Biden 's campaign know about it though by now , '' the person write . An online tracker maintain by the progressive digital advertising firm ACRONYM show the Biden campaign have spend more than $ 360,000 on Google platform , rack up more spending on the site than all the other candidate in the crowded field except Sen. Bernie Sanders and Pete Buttigieg , the mayor of South Bend , Indiana . `` I create the site before he launch his campaign and the site garner a fair amount of traffic from Facebook , Twitter , and Reddit — especially on April Fool 's day , '' the person say . Walczak write that the parody page be the top result for the search `` Biden 2020 website '' on Google and for `` Biden 2020 '' on Bing . `` Biden 2020 '' and `` Biden 2020 website '' do not surface the real page on Google at the time , he write . The person who create the JoeBiden.info parody site be not name , and a disclaimer claim it be not fund `` by any candidate , committee , organization , or PAC . '' The problem have also emerge despite the Biden campaign 's prolific spending on Google . `` I get thousand of Biden supporter come to the site every day who fail to realize that it be a parody — ask for volunteer information , donation information , suggestion on how to handle the [ Anita Hill ] situation , or criticize his use of 'All men be create equal ' — no joke . ''",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Users be report that the former vice president 's official 2020 campaign page be nowhere to be find on the first page of result for the search term `` Joe Biden . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Joe Biden 's presidential campaign be already sunk — at least on Google .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Joe Biden have a good feel for the American people and know exactly what they really want deep down , '' read JoeBiden.info , the parody site .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Even bad for the Democratic front-runner : A realistic-looking parody site feature image of Biden touch woman and child appear to be do quite well on Google and other major search engine , particularly for the search `` Joe Biden website . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Read more : Joe Biden 's campaign tap data analytics company back by former Google chairman Eric Schmidt\nBiden 's campaign do not respond to a request for comment for this article .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The surprise here be not that someone be troll Biden , but that his official site be nowhere to be see on the first page of result for prominent 'Biden 2020 ' search phrase , and that a derogatory parody page show up at the top , '' journalist Jonathan Walczak write in an April 25 tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While his official campaign page be absent , Google do prominently display an official Biden advertisement for Biden-related search .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I would assume Biden 's campaign know about it though by now , '' the person write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An online tracker maintain by the progressive digital advertising firm ACRONYM show the Biden campaign have spend more than $ 360,000 on Google platform , rack up more spending on the site than all the other candidate in the crowded field except Sen. Bernie Sanders and Pete Buttigieg , the mayor of South Bend , Indiana .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I create the site before he launch his campaign and the site garner a fair amount of traffic from Facebook , Twitter , and Reddit — especially on April Fool 's day , '' the person say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walczak write that the parody page be the top result for the search `` Biden 2020 website '' on Google and for `` Biden 2020 '' on Bing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Biden 2020 '' and `` Biden 2020 website '' do not surface the real page on Google at the time , he write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The person who create the JoeBiden.info parody site be not name , and a disclaimer claim it be not fund `` by any candidate , committee , organization , or PAC . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The problem have also emerge despite the Biden campaign 's prolific spending on Google .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I get thousand of Biden supporter come to the site every day who fail to realize that it be a parody — ask for volunteer information , donation information , suggestion on how to handle the [ Anita Hill ] situation , or criticize his use of 'All men be create equal ' — no joke . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/fake-biden-campaign-website-being-run-secretly-trump-campaign-operative-report-1446693",
+            "content": "A fake Joe Biden campaign website be be run by an operative on President Donald Trump 's 2020 re-election campaign , accord to a new report Saturday . According to the web analytics website SEMrush , the keyword `` biden 2020 '' return JoeBiden.info a it second-ranking web search result . The New York Times track down the owner of a site with the URL JoeBiden.info , a `` parody '' campaign website feature out-of-context quote from the former vice president and leading 2020 Democratic candidate . Those unfamiliar with the Biden campaign might not know , for instance , that Biden 's actual campaign logo consist of the word `` Biden '' stack on top of the word `` President . '' The Times report that his parody site garner nearly 400,000 unique visitor over a two-and-a-half month period this year , compare with just over 300,000 for Biden 's official campaign site . Biden 's campaign ad at the top of a Google search appear to be the only way the fake site have be outflank , at least a it concern certain search term . Since the Times publish it story on the site , the homepage for Mauldin 's Vici Media site — which already include an endorsement from Trump campaign manager Brad Parscale — have be update with a pull quote from the Times story that simply read `` A rise star . '' `` It 's very telling that The New York Times call quote Joe Biden 'disinformation , ' '' he say . Visitors to the fake campaign site be greet with a warm , grin portrait of Biden with his arm cross , stand in front of the American flag . Adjacent to the image be a block of text head by a `` Biden2020 '' logo , though one that do not resemble the Biden campaign 's official design . Patrick Mauldin be a digital medium specialist who work on message for Trump 's 2016 campaign and , accord to the Times , have be work on the president 's re-election campaign . `` Uncle Joe be back and ready to take a hands-on approach to America 's problem , '' the site 's header read , an allusion to allegation relate to the former vice president 's inappropriate touching of numerous woman . `` Joe Biden have a good feel for the American people and know exactly what they really want deep down . '' He claim that the motivation behind create the website be to `` create something humorous that show Biden 's eccentricity and hypocrisy in his own word and action . '' Another example single out by Mauldin be Biden 's 1982 vote in the Senate Judiciary Committee in favor of a constitutional amendment that would have allow individual state to overrule Roe v. Wade . Mauldin acknowledge to the paper his role in create the website , which he have use to spread disparaging and sometimes misleading content about Biden . According to the Times , the Trump campaign would not directly address whether it know of Mauldin 's extracurricular activity , though a spokesperson do express appreciation of pro-Trump messaging push out by supporter `` in their own time . '' Indeed , the inappropriate touching scandal that cast a pall over the early day of the Biden campaign be a main theme of Mauldin 's fake website . Another section of the fake website highlight unfavorable policy position — refer to facetiously a `` legislative accomplishment '' in the banner — that Biden have take over the year .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "A fake Joe Biden campaign website be be run by an operative on President Donald Trump 's 2020 re-election campaign , accord to a new report Saturday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the web analytics website SEMrush , the keyword `` biden 2020 '' return JoeBiden.info a it second-ranking web search result .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The New York Times track down the owner of a site with the URL JoeBiden.info , a `` parody '' campaign website feature out-of-context quote from the former vice president and leading 2020 Democratic candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those unfamiliar with the Biden campaign might not know , for instance , that Biden 's actual campaign logo consist of the word `` Biden '' stack on top of the word `` President . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Times report that his parody site garner nearly 400,000 unique visitor over a two-and-a-half month period this year , compare with just over 300,000 for Biden 's official campaign site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden 's campaign ad at the top of a Google search appear to be the only way the fake site have be outflank , at least a it concern certain search term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since the Times publish it story on the site , the homepage for Mauldin 's Vici Media site — which already include an endorsement from Trump campaign manager Brad Parscale — have be update with a pull quote from the Times story that simply read `` A rise star . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's very telling that The New York Times call quote Joe Biden 'disinformation , ' '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Visitors to the fake campaign site be greet with a warm , grin portrait of Biden with his arm cross , stand in front of the American flag .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Adjacent to the image be a block of text head by a `` Biden2020 '' logo , though one that do not resemble the Biden campaign 's official design .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Patrick Mauldin be a digital medium specialist who work on message for Trump 's 2016 campaign and , accord to the Times , have be work on the president 's re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Uncle Joe be back and ready to take a hands-on approach to America 's problem , '' the site 's header read , an allusion to allegation relate to the former vice president 's inappropriate touching of numerous woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Joe Biden have a good feel for the American people and know exactly what they really want deep down . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He claim that the motivation behind create the website be to `` create something humorous that show Biden 's eccentricity and hypocrisy in his own word and action . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another example single out by Mauldin be Biden 's 1982 vote in the Senate Judiciary Committee in favor of a constitutional amendment that would have allow individual state to overrule Roe v. Wade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mauldin acknowledge to the paper his role in create the website , which he have use to spread disparaging and sometimes misleading content about Biden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the Times , the Trump campaign would not directly address whether it know of Mauldin 's extracurricular activity , though a spokesperson do express appreciation of pro-Trump messaging push out by supporter `` in their own time . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Indeed , the inappropriate touching scandal that cast a pall over the early day of the Biden campaign be a main theme of Mauldin 's fake website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another section of the fake website highlight unfavorable policy position — refer to facetiously a `` legislative accomplishment '' in the banner — that Biden have take over the year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/451029-trump-consultant-behind-mock-joe-biden-election-website",
+            "content": "`` This site be political commentary and parody of Joe Biden 's Presidential campaign website , '' say the site if user scroll to the bottom . `` This be not Joe Biden 's actual website . A man who make video and digital content for President TrumpDonald TrumpLawmakers say fix border crisis be Biden 's job Trump call for Republicans to boycott company amid vote law controversy Georgia county say removal of All-Star game will cost tourism 0M MORE 's campaign be separately behind a fake Joe BidenJoe BidenLawmakers say fix border crisis be Biden 's job Trump call for Republicans to boycott company amid vote law controversy White House : GOP have 'struggled to articulate a reason ' to oppose infrastructure plan MORE campaign site . The Hill have reach out to Biden 's campaign for additional comment . Patrick Mauldin tell The New York Times that the site he create , JoeBiden.info , be intend to help Democrats “ face fact . The website feature GIFs of Biden touch woman and child as well a information about his policy that might not be see a liberal today such a his support for the Iraq War and the 1994 crime bill . Biden campaign spokesman T.J. Ducklo tell The Times that it know about the site , but not who be behind it . “ We think it ’ s great that talented supporter of President Trump use their own time to help his re-election , '' Trump campaign communication director Tim Murtaugh tell The Hill in a statement Saturday .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "`` This site be political commentary and parody of Joe Biden 's Presidential campaign website , '' say the site if user scroll to the bottom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` This be not Joe Biden 's actual website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A man who make video and digital content for President TrumpDonald TrumpLawmakers say fix border crisis be Biden 's job Trump call for Republicans to boycott company amid vote law controversy Georgia county say removal of All-Star game will cost tourism 0M MORE 's campaign be separately behind a fake Joe BidenJoe BidenLawmakers say fix border crisis be Biden 's job Trump call for Republicans to boycott company amid vote law controversy White House : GOP have 'struggled to articulate a reason ' to oppose infrastructure plan MORE campaign site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Hill have reach out to Biden 's campaign for additional comment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Patrick Mauldin tell The New York Times that the site he create , JoeBiden.info , be intend to help Democrats “ face fact .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The website feature GIFs of Biden touch woman and child as well a information about his policy that might not be see a liberal today such a his support for the Iraq War and the 1994 crime bill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden campaign spokesman T.J. Ducklo tell The Times that it know about the site , but not who be behind it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We think it ’ s great that talented supporter of President Trump use their own time to help his re-election , '' Trump campaign communication director Tim Murtaugh tell The Hill in a statement Saturday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.buzzfeednews.com/article/claudiakoerner/joe30330-biden-gave-out-wrong-website-debate",
+            "content": "Former vice president Joe Biden stumble in the final moment of Wednesday 's Democratic debate , tell million of viewer to go to the website Joe30330.com instead of his actual campaign site . Since his official campaign website be joebiden.com , people be a little concerned about what 30330 could actually be . After the debate end , the campaign make clear that Biden mean to tell people to text `` Joe '' to 30330 . # joe30330\nOn Wednesday night , the site be redirect visitor to Sound Bend , Indiana , Mayor Pete Buttigieg 's campaign page — but then switch over to a page title Josh For America , a satire of a Gen Z candidate 's exploratory committee that accept donation for Buttigieg . Joe biden say “ go to joe 30330 ” be he run for president of space ? In response , people receive a text with a link to donate to the Biden campaign .",
+            "domain": "www.buzzfeednews.com",
+            "tokenized": [
+                {
+                    "sent": "Former vice president Joe Biden stumble in the final moment of Wednesday 's Democratic debate , tell million of viewer to go to the website Joe30330.com instead of his actual campaign site .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since his official campaign website be joebiden.com , people be a little concerned about what 30330 could actually be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the debate end , the campaign make clear that Biden mean to tell people to text `` Joe '' to 30330 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# joe30330\nOn Wednesday night , the site be redirect visitor to Sound Bend , Indiana , Mayor Pete Buttigieg 's campaign page — but then switch over to a page title Josh For America , a satire of a Gen Z candidate 's exploratory committee that accept donation for Buttigieg .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Joe biden say “ go to joe 30330 ” be he run for president of space ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response , people receive a text with a link to donate to the Biden campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://firstdraftnews.org/latest/when-does-reporting-become-a-megaphone-for-disinformation/",
+            "content": "At the foot of the page , in letter only slightly dark than the off-white background , read a disclaimer : “ This site be political commentary and parody of Joe Biden ’ s Presidential campaign website . Less than three month ago , the most-visited Joe Biden website — and one of the top site serve up to potential voter in search engine result — be one full of mockery and innuendo , rather than a legitimate piece of digital campaigning . The former vice president perplexed viewer during a recent televised debate when he encourage them to “ go to Joe 3 0 3 3 0 ” , an unregistered and unrelated domain name which now direct to satirical campaign site ‘ Josh For America ’ . ”\nNational and international news organisation spot the self-proclaimed parody in early May and subsequent report only serve to increase interest , push it ahead of the official Biden 2020 website in term of search in Google Trends result . After all , the Times reveal that Mauldin run a Republican political consultancy and he sell t-shirt on his mockery of Biden ’ s campaign site . To be fair , Biden be not the only person to blame for the confusion over his official campaign site . At a glance , the parody ( bottom ) look a slick and professional a the Biden ’ s genuine campaign site ( top ) . It later emerge Biden want people to text JOE to the number 30330 . Mauldin tell the Times he make the site in his own time with his own money , not under direction from the Trump campaign . In a June 29 article , the New York Times ’ Matthew Rosenberg identify it creator a Patrick Mauldin , who “ make video and other digital content for President Trump ’ s re-election campaign ” and run a Republican consulting firm with his brother .",
+            "domain": "firstdraftnews.org",
+            "tokenized": [
+                {
+                    "sent": "At the foot of the page , in letter only slightly dark than the off-white background , read a disclaimer : “ This site be political commentary and parody of Joe Biden ’ s Presidential campaign website .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Less than three month ago , the most-visited Joe Biden website — and one of the top site serve up to potential voter in search engine result — be one full of mockery and innuendo , rather than a legitimate piece of digital campaigning .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former vice president perplexed viewer during a recent televised debate when he encourage them to “ go to Joe 3 0 3 3 0 ” , an unregistered and unrelated domain name which now direct to satirical campaign site ‘ Josh For America ’ .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nNational and international news organisation spot the self-proclaimed parody in early May and subsequent report only serve to increase interest , push it ahead of the official Biden 2020 website in term of search in Google Trends result .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After all , the Times reveal that Mauldin run a Republican political consultancy and he sell t-shirt on his mockery of Biden ’ s campaign site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To be fair , Biden be not the only person to blame for the confusion over his official campaign site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At a glance , the parody ( bottom ) look a slick and professional a the Biden ’ s genuine campaign site ( top ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It later emerge Biden want people to text JOE to the number 30330 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mauldin tell the Times he make the site in his own time with his own money , not under direction from the Trump campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a June 29 article , the New York Times ’ Matthew Rosenberg identify it creator a Patrick Mauldin , who “ make video and other digital content for President Trump ’ s re-election campaign ” and run a Republican consulting firm with his brother .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5640954/joe-biden-website-30330-debate/",
+            "content": "While there certainly be a Joe Biden campaign website , it ’ s not Joe30330.com . As of Wednesday night , joe33030.com now redirect to Biden ’ s actual campaign site . ”\nJoe3030.com will send you to fellow Democratic contender Pete Buttigieg ’ s campaign website . All eye be on frontrunner Joe Biden ahead of Wednesday ’ s Democratic primary debate . ( His official website be actually just JoeBiden.com ) . ”\nAs Biden deliver his closing statement , he declare , “ If you agree with me , go to Joe 3-0-3-3-0 and help me in this fight. But unfortunately for his campaign , joe30330.com redirects to a mock campaign website that claim to be pay for by “ Josh for America Excretionary Committee . 30330 be , however , the text prompt for his campaign . ” The last candidate to speak , it be essentially the final message of the second round of debate for the 2020 Democratic presidential nomination . So we be count on a MASSIVE rush of donation to elect Joe and take down Trump .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "While there certainly be a Joe Biden campaign website , it ’ s not Joe30330.com .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As of Wednesday night , joe33030.com now redirect to Biden ’ s actual campaign site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nJoe3030.com will send you to fellow Democratic contender Pete Buttigieg ’ s campaign website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All eye be on frontrunner Joe Biden ahead of Wednesday ’ s Democratic primary debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( His official website be actually just JoeBiden.com ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs Biden deliver his closing statement , he declare , “ If you agree with me , go to Joe 3-0-3-3-0 and help me in this fight.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But unfortunately for his campaign , joe30330.com redirects to a mock campaign website that claim to be pay for by “ Josh for America Excretionary Committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "30330 be , however , the text prompt for his campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The last candidate to speak , it be essentially the final message of the second round of debate for the 2020 Democratic presidential nomination .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So we be count on a MASSIVE rush of donation to elect Joe and take down Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.gq.com/story/trump-consultant-fake-biden-site",
+            "content": "Mauldin tell the Times that he make the site to help Democrats `` face fact '' about Biden , who 's currently the frontrunner in the presidential primary . There be high resolution photo of Joe Biden , former vice president and current presidential candidate , with his arm presidentially cross , clip of him give interview , and quote superimpose over close-ups of his face . Biden 's actual campaign site have 310,000 . Then you get to the first blurb :\nMuch far down , under video of Biden invade woman 's personal space and a list of the candidate 's real policy history ( mass incarceration , harsh drug sentencing , the war in Iraq ) , the site identify itself a a parody , make `` BY AN American citizen FOR American citizen . '' At a glance , JoeBiden.info look like a generic political candidate website : professional , but not exactly eye-catching . His name be Patrick Mauldin , and he make video and other digital content for President Trump ’ s re-election campaign .",
+            "domain": "www.gq.com",
+            "tokenized": [
+                {
+                    "sent": "Mauldin tell the Times that he make the site to help Democrats `` face fact '' about Biden , who 's currently the frontrunner in the presidential primary .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "There be high resolution photo of Joe Biden , former vice president and current presidential candidate , with his arm presidentially cross , clip of him give interview , and quote superimpose over close-ups of his face .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden 's actual campaign site have 310,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then you get to the first blurb :\nMuch far down , under video of Biden invade woman 's personal space and a list of the candidate 's real policy history ( mass incarceration , harsh drug sentencing , the war in Iraq ) , the site identify itself a a parody , make `` BY AN American citizen FOR American citizen . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a glance , JoeBiden.info look like a generic political candidate website : professional , but not exactly eye-catching .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His name be Patrick Mauldin , and he make video and other digital content for President Trump ’ s re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/patrick-mauldin-trump-consultant-fake-biden-website-2019-6",
+            "content": "The fake Biden site , however , be still in the second page of Google search result for `` Joe Biden , '' and have more unique visitor than the real campaign webpage through the end of May . But Mauldin 's professional website do n't disclose his hobby – make parody webpage that appeal to voter to the left of candidate like Joe Biden . A digital consultant for President Donald Trump 's 2020 re-election campaign use his spare time to create fake campaign websites for top Democratic candidate , The New York Times report Saturday . A representative of Biden 's campaign tell the Times it have be aware of the fake site for month , but not it creator 's identity . It mention Biden 's 2012 remark say President Barack Obama `` have a big stick . '' The consultant , Patrick Mauldin , run a Republican political consulting firm call Vici Media Group , which the Trump campaign hire for the 2016 election and currently have on retainer for 2020 . Though the website be create by a Republican , the rhetoric be appear gear to sway Democrats from Biden to a more progressive candidate . Mauldin 's parody website highlight accusation of Biden 's inappropriate behavior toward woman , with video and photo of the candidate touch woman and child . The website also share legislative `` accomplishment '' of when Biden vote for the Defense of Marriage Act in 2006 , against bus a a way to desegregate school in the '70s , and for the Iraq War . A representative from the Trump campaign , which Mauldin say do not endorse his parody creation but be make aware of them , tell the Times it be `` great that talented supporter of President Trump use their time to help his re-election . '' To make the Biden parody site more successful , Mauldin post repeatedly about it on Reddit , include in the now-quarantined pro-Trump subreddit r/The_Donald , where he encourage user to use his dupe to `` red pill '' Democrats .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The fake Biden site , however , be still in the second page of Google search result for `` Joe Biden , '' and have more unique visitor than the real campaign webpage through the end of May .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But Mauldin 's professional website do n't disclose his hobby – make parody webpage that appeal to voter to the left of candidate like Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A digital consultant for President Donald Trump 's 2020 re-election campaign use his spare time to create fake campaign websites for top Democratic candidate , The New York Times report Saturday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A representative of Biden 's campaign tell the Times it have be aware of the fake site for month , but not it creator 's identity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It mention Biden 's 2012 remark say President Barack Obama `` have a big stick . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The consultant , Patrick Mauldin , run a Republican political consulting firm call Vici Media Group , which the Trump campaign hire for the 2016 election and currently have on retainer for 2020 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Though the website be create by a Republican , the rhetoric be appear gear to sway Democrats from Biden to a more progressive candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mauldin 's parody website highlight accusation of Biden 's inappropriate behavior toward woman , with video and photo of the candidate touch woman and child .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The website also share legislative `` accomplishment '' of when Biden vote for the Defense of Marriage Act in 2006 , against bus a a way to desegregate school in the '70s , and for the Iraq War .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A representative from the Trump campaign , which Mauldin say do not endorse his parody creation but be make aware of them , tell the Times it be `` great that talented supporter of President Trump use their time to help his re-election . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To make the Biden parody site more successful , Mauldin post repeatedly about it on Reddit , include in the now-quarantined pro-Trump subreddit r/The_Donald , where he encourage user to use his dupe to `` red pill '' Democrats .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://joebiden.com/latest/",
+            "content": "Support our presidential campaign to elect Joe Biden by sign up to volunteer or make a donation online . The campaign have propose meaningful way to check disinformation on your platform and to limit the effect of false ads.Read More\nThank you for join our campaign to elect Joe Biden . Read More\nOver the past year , the Biden for President campaign have call on Facebook to meet the commitment the company make after 2016 — to use it platform to improve American democracy rather than a a tool to spread disinformation that undermine our election . By provide your mobile phone number you consent to receive recur text message from Biden for President . The campaign have propose meaningful way to check disinformation on your platform and to limit the effect of false ads.Read More\nOver the past year , the Biden for President campaign have call on Facebook to meet the commitment the company make after 2016 — to use it platform to improve American democracy rather than a a tool to spread disinformation that undermine our election .",
+            "domain": "joebiden.com",
+            "tokenized": [
+                {
+                    "sent": "Support our presidential campaign to elect Joe Biden by sign up to volunteer or make a donation online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The campaign have propose meaningful way to check disinformation on your platform and to limit the effect of false ads.Read More\nThank you for join our campaign to elect Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Read More\nOver the past year , the Biden for President campaign have call on Facebook to meet the commitment the company make after 2016 — to use it platform to improve American democracy rather than a a tool to spread disinformation that undermine our election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By provide your mobile phone number you consent to receive recur text message from Biden for President .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The campaign have propose meaningful way to check disinformation on your platform and to limit the effect of false ads.Read More\nOver the past year , the Biden for President campaign have call on Facebook to meet the commitment the company make after 2016 — to use it platform to improve American democracy rather than a a tool to spread disinformation that undermine our election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/trump-campaign-scoops-bidens-latino-voter-web-address/story?id=66483595",
+            "content": "It do n't take long for the Trump campaign to figure out how to troll Joe Biden moment after the former vice president 's campaign announce a Latino voter outreach program on Wednesday . `` Joe Biden know that our diversity be our strength , and a president , he will continue to ensure that all Americans be treat with dignity -- not scapegoated or use to score political point , `` Laura Jiménez , the campaign 's national Latino vote director say . `` How the hell be you Joe Biden 's campaign and you do n't lock up the URL before you announce stuff ? '' In response , the Biden campaign say the move by the Trump campaign be `` no surprise . '' However , the longtime political operative add that if Democrats be go to beat Trump in 2020 it will require a far more efficient operation than the campaign Hillary Clinton run in 2016 , and Wednesday 's Biden blunder do n't instill faith that the 76-year-old former vice president be the best option . And the @ TodosConBiden Twitter account , in the possession of the Trump campaign , have already begin post unflattering counter message target Biden . On top of troll Biden , the Trump campaign be use this opportunity to tout the president 's record with Latino Americans , such a record low unemployment . Now , the Trump campaign be use www.todosconbiden.com to mock the former vice president , with a landing page that say in both English and Spanish , `` Oops , Joe forget about Latinos . '' Scooping up the URL and Twitter handle to mock Biden be just the late example of the Trump campaign 's trolling strategy , which have in part fuel and embody the reelection effort so far . Biden , who spend the day campaign across Pennsylvania and Iowa , announce `` Todos Con Biden , '' a `` national network of Latino supporter '' work to help elect the former vice president earlier on Wednesday . `` It be no surprise that Trump 's Campaign would resort to childish antic like this to take attention away from this President 's appalling record of separate family and use immigrant a scapegoat , foment hatred and white supremacy , and try to take away health care from million of Americans who need it , '' accord to Isabel Aldunate , deputy director of strategic communications/Hispanic medium press secretary for the Biden campaign . The reelection team tell ABC News they buy the URL for a `` minimal cost '' after the Trump campaign 's coalition team notice the URL for the new effort be still up for grab . During the last two Democratic primary debate in Ohio and Houston , the campaign pay thousand of dollar to fly a massive banner above the host city slam the president 's potential rival . The Biden campaign fail to purchase www.todosconbiden.com , or even lock down the @ TodosConBiden Twitter handle before announce the new effort -- prompt the president 's reelection team to do what it do best : troll . This tell me that Biden and his campaign be not look really strong in that regard , '' Madrid say . The Biden campaign launch `` Todos con Biden '' with the goal of grow grassroots support while also promise immigration and education reform for the Latino community . `` Latinos be thrive under President Trump and now thanks to the Biden camp , people can find out more about that success at www.todosconbiden.com . ''",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "It do n't take long for the Trump campaign to figure out how to troll Joe Biden moment after the former vice president 's campaign announce a Latino voter outreach program on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Joe Biden know that our diversity be our strength , and a president , he will continue to ensure that all Americans be treat with dignity -- not scapegoated or use to score political point , `` Laura Jiménez , the campaign 's national Latino vote director say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` How the hell be you Joe Biden 's campaign and you do n't lock up the URL before you announce stuff ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response , the Biden campaign say the move by the Trump campaign be `` no surprise . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the longtime political operative add that if Democrats be go to beat Trump in 2020 it will require a far more efficient operation than the campaign Hillary Clinton run in 2016 , and Wednesday 's Biden blunder do n't instill faith that the 76-year-old former vice president be the best option .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And the @ TodosConBiden Twitter account , in the possession of the Trump campaign , have already begin post unflattering counter message target Biden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On top of troll Biden , the Trump campaign be use this opportunity to tout the president 's record with Latino Americans , such a record low unemployment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , the Trump campaign be use www.todosconbiden.com to mock the former vice president , with a landing page that say in both English and Spanish , `` Oops , Joe forget about Latinos . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Scooping up the URL and Twitter handle to mock Biden be just the late example of the Trump campaign 's trolling strategy , which have in part fuel and embody the reelection effort so far .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden , who spend the day campaign across Pennsylvania and Iowa , announce `` Todos Con Biden , '' a `` national network of Latino supporter '' work to help elect the former vice president earlier on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It be no surprise that Trump 's Campaign would resort to childish antic like this to take attention away from this President 's appalling record of separate family and use immigrant a scapegoat , foment hatred and white supremacy , and try to take away health care from million of Americans who need it , '' accord to Isabel Aldunate , deputy director of strategic communications/Hispanic medium press secretary for the Biden campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The reelection team tell ABC News they buy the URL for a `` minimal cost '' after the Trump campaign 's coalition team notice the URL for the new effort be still up for grab .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the last two Democratic primary debate in Ohio and Houston , the campaign pay thousand of dollar to fly a massive banner above the host city slam the president 's potential rival .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden campaign fail to purchase www.todosconbiden.com , or even lock down the @ TodosConBiden Twitter handle before announce the new effort -- prompt the president 's reelection team to do what it do best : troll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This tell me that Biden and his campaign be not look really strong in that regard , '' Madrid say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden campaign launch `` Todos con Biden '' with the goal of grow grassroots support while also promise immigration and education reform for the Latino community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Latinos be thrive under President Trump and now thanks to the Biden camp , people can find out more about that success at www.todosconbiden.com . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedailybeast.com/trump-re-election-staffer-running-fake-joe-biden-website-nyt",
+            "content": "The website be run by Patrick Mauldin , a political consultant and digital content producer for the Trump 2020 re-election campaign . A Trump re-election content producer have be run a fake Joe Biden website that sit near the top of search result online , in a disinformation campaign similar to the Russian troll in 2016 , The New York Times report . The website , JoeBiden.info , look like a pro-Biden page but actually troll user by mock the Democratic frontrunner and highlight his less-than perfect moment , the Times report . T.J. Ducklo , a Biden campaign spokesman , say that the campaign know about the fake website for month .",
+            "domain": "www.thedailybeast.com",
+            "tokenized": [
+                {
+                    "sent": "The website be run by Patrick Mauldin , a political consultant and digital content producer for the Trump 2020 re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Trump re-election content producer have be run a fake Joe Biden website that sit near the top of search result online , in a disinformation campaign similar to the Russian troll in 2016 , The New York Times report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The website , JoeBiden.info , look like a pro-Biden page but actually troll user by mock the Democratic frontrunner and highlight his less-than perfect moment , the Times report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "T.J. Ducklo , a Biden campaign spokesman , say that the campaign know about the fake website for month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/06/29/us/politics/fake-joe-biden-website.html",
+            "content": "Mr. Biden ’ s official campaign website have about 310,000 . — For much of the last three month , the most popular Joseph R. Biden Jr. website have be a slick little piece of disinformation that be design to look like the former vice president ’ s official campaign page , yet be most definitely not pro-Biden . Mr. Mauldin boast in the interview that he have fool people into think his Biden website be the real campaign page . Mr. Mauldin put it up well before Mr. Biden ’ s official website and aggressively push it out on Reddit , get click and link and exposure . In a testimonial on Vici ’ s website , Brad Parscale , Mr. Trump ’ s 2016 digital director and now his campaign manager , call Mr. Mauldin “ an indispensable part of our digital operation ” in the president ’ s first campaign . From top to bottom , the website , JoeBiden.info , breezily mock the candidate in term that would warm the heart of any Bernie Sanders supporter : There be GIFs of Mr. Biden touch woman and girl , and blurbs about his less-than-liberal policy position , include his opposition to court-ordered busing in the 1970s and his support for the Iraq war . The Biden website be intend to help Democrats “ face fact , ” Mr. Mauldin say in an interview . And a the 2020 campaign get underway , election expert say they see sign that Americans from both side of the political divide be get ready to do the same . Mr. Biden ’ s campaign knew about the fake website for month , but have not be aware of who be behind it , say T.J. Ducklo , a campaign spokesman . Mr. Mauldin even start sell mock Biden 2020 T-shirts through the website to capitalize on it success . “ How many Democrats can we red pill with my fake Joe Biden site ? In addition to Mr. Biden , Mr. Mauldin have anonymously set up faux campaign websites for at least three other Democratic front-runner . But The Times be able to confirm Mr. Mauldin ’ s identity because the Biden page share the same Google analytics tag with a number of other active and defunct website , include the one he have make for the three other Democratic candidate . Mr. Mauldin , who have not be previously identify a the creator of the website , say he have build and pay for it on his own , and not for the Trump campaign . With nothing to indicate it creator ’ s motif or employer , the website offer a preview of what election expert and national security official say Americans can expect to be bombard with for the next year and a half : anonymous and hard-to-trace digital messaging spread by sophisticated political operative whose aim be to sow discord through deceit . His name be Patrick Mauldin , and he make video and other digital content for President Trump ’ s re-election campaign . “ I know a lot of Biden supporter be furious when they saw that website , ” say David Goldstein , the chief executive of Tovo Labs , a Democratic digital consulting firm in New York . With website like the faux Biden page , “ essentially you ’ re try to sow chaos and you ’ re try to basically do voter suppression , ” say Mr. Goldstein , the Democratic consultant . The site , it say , be a political parody build and pay for “ BY AN American citizen FOR American citizen , ” and not the work of any campaign or political action committee . Tim Murtaugh , the Trump campaign ’ s communication director , do not directly address that issue , though he say it be “ great that talented supporter of President Trump use their time to help his re-election . Mr. Mauldin register the Biden site privately so that his name and contact detail would not appear in any public search . One person want Mr. Biden to speak at her son ’ s school . People with tie to the re-election campaign , all of whom speak on the condition of anonymity because of nondisclosure agreement , say that Mr. Mauldin be bring back on retainer for the 2020 race .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Mr. Biden ’ s official campaign website have about 310,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— For much of the last three month , the most popular Joseph R. Biden Jr. website have be a slick little piece of disinformation that be design to look like the former vice president ’ s official campaign page , yet be most definitely not pro-Biden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mauldin boast in the interview that he have fool people into think his Biden website be the real campaign page .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mauldin put it up well before Mr. Biden ’ s official website and aggressively push it out on Reddit , get click and link and exposure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a testimonial on Vici ’ s website , Brad Parscale , Mr. Trump ’ s 2016 digital director and now his campaign manager , call Mr. Mauldin “ an indispensable part of our digital operation ” in the president ’ s first campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "From top to bottom , the website , JoeBiden.info , breezily mock the candidate in term that would warm the heart of any Bernie Sanders supporter : There be GIFs of Mr. Biden touch woman and girl , and blurbs about his less-than-liberal policy position , include his opposition to court-ordered busing in the 1970s and his support for the Iraq war .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Biden website be intend to help Democrats “ face fact , ” Mr. Mauldin say in an interview .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And a the 2020 campaign get underway , election expert say they see sign that Americans from both side of the political divide be get ready to do the same .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Biden ’ s campaign knew about the fake website for month , but have not be aware of who be behind it , say T.J. Ducklo , a campaign spokesman .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mauldin even start sell mock Biden 2020 T-shirts through the website to capitalize on it success .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ How many Democrats can we red pill with my fake Joe Biden site ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to Mr. Biden , Mr. Mauldin have anonymously set up faux campaign websites for at least three other Democratic front-runner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But The Times be able to confirm Mr. Mauldin ’ s identity because the Biden page share the same Google analytics tag with a number of other active and defunct website , include the one he have make for the three other Democratic candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mauldin , who have not be previously identify a the creator of the website , say he have build and pay for it on his own , and not for the Trump campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "With nothing to indicate it creator ’ s motif or employer , the website offer a preview of what election expert and national security official say Americans can expect to be bombard with for the next year and a half : anonymous and hard-to-trace digital messaging spread by sophisticated political operative whose aim be to sow discord through deceit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "His name be Patrick Mauldin , and he make video and other digital content for President Trump ’ s re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ I know a lot of Biden supporter be furious when they saw that website , ” say David Goldstein , the chief executive of Tovo Labs , a Democratic digital consulting firm in New York .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With website like the faux Biden page , “ essentially you ’ re try to sow chaos and you ’ re try to basically do voter suppression , ” say Mr. Goldstein , the Democratic consultant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The site , it say , be a political parody build and pay for “ BY AN American citizen FOR American citizen , ” and not the work of any campaign or political action committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tim Murtaugh , the Trump campaign ’ s communication director , do not directly address that issue , though he say it be “ great that talented supporter of President Trump use their time to help his re-election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Mauldin register the Biden site privately so that his name and contact detail would not appear in any public search .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One person want Mr. Biden to speak at her son ’ s school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People with tie to the re-election campaign , all of whom speak on the condition of anonymity because of nondisclosure agreement , say that Mr. Mauldin be bring back on retainer for the 2020 race .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thewrap.com/biden-campaign-beautifully-trolls-trumps-non-existent-covid-plan-gag-website/",
+            "content": "Visit his new website for a petty surprise\nJoe Biden ’ s campaign just pull the most deliciously petty prank on Donald Trump . Actor Scott Baio who endorse Trump in 2016 , be recently interview by Lara Trump on the campaign 's official website . The former vice president push back hard on Trump ’ s lack of a COVID-19 plan during Thursday ’ s night final presidential debate , and now his campaign be capitalize on that point with a hilarious new gag website .",
+            "domain": "www.thewrap.com",
+            "tokenized": [
+                {
+                    "sent": "Visit his new website for a petty surprise\nJoe Biden ’ s campaign just pull the most deliciously petty prank on Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Actor Scott Baio who endorse Trump in 2016 , be recently interview by Lara Trump on the campaign 's official website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former vice president push back hard on Trump ’ s lack of a COVID-19 plan during Thursday ’ s night final presidential debate , and now his campaign be capitalize on that point with a hilarious new gag website .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abc10.com/article/news/verify/verify-fake-campaign-sites-sharing-satire-and-falsehoods-about-2020-hopefuls/507-fc048940-a7c0-44c7-8653-06bff089c470",
+            "content": "Joebiden.info , BernieSanders.co , ElizabethWarren.co and KamalaHarris.info be all fake site that mimic the candidate 's real campaign site but make “ satirical ” claim . As the 2020 campaign heat up , be sure you 've get the web address right when look for info on a candidate and double check there 's no disclaimer at the bottom of the page . “ This site be political commentary and parody of Kamala Harris for President campaign website :\nThese site be fake and do not represent the real information or claim of the candidate .",
+            "domain": "www.abc10.com",
+            "tokenized": [
+                {
+                    "sent": "Joebiden.info , BernieSanders.co , ElizabethWarren.co and KamalaHarris.info be all fake site that mimic the candidate 's real campaign site but make “ satirical ” claim .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As the 2020 campaign heat up , be sure you 've get the web address right when look for info on a candidate and double check there 's no disclaimer at the bottom of the page .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This site be political commentary and parody of Kamala Harris for President campaign website :\nThese site be fake and do not represent the real information or claim of the candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reddit.com/r/technology/comments/c76fm2/a_fake_joe_biden_campaign_site_is_being_run/",
+            "content": "This site exist before Biden even announce his run for the presidency . I think the problem be that the site claim to be a satirical endeavor by just another citizen , while it be , in fact run by a Trump campaign employee .",
+            "domain": "www.reddit.com",
+            "tokenized": [
+                {
+                    "sent": "This site exist before Biden even announce his run for the presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I think the problem be that the site claim to be a satirical endeavor by just another citizen , while it be , in fact run by a Trump campaign employee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2020/11/09/trump-campaign-washington-times-fake-gore/",
+            "content": "The late : Congress affirm Biden ’ s presidential win follow riot at U.S. Capitol\n25th Amendment : Senior official have discuss remove Trump . Once network , newspaper and news site call the election for Biden on Saturday , Trump escalate his effort to ridicule and discredit the medium , call into question the decades-long traditional role of declare a winner — a news organization do in 2016 when Trump win . The message be clear , Trump campaign spokesman Tim Murtaugh say in a since-deleted tweet on Sunday morning . The campaign ’ s attempt to compare 2020 with 2000 through a doctored newspaper front page be the late attempt to diminish the medium ’ s credibility when call a presidential race . Trump campaign staffer this weekend find the refrigerator door and kitchen cabinet in their Arlington , Va. , headquarters plaster with an evocative front page .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The late : Congress affirm Biden ’ s presidential win follow riot at U.S. Capitol\n25th Amendment : Senior official have discuss remove Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once network , newspaper and news site call the election for Biden on Saturday , Trump escalate his effort to ridicule and discredit the medium , call into question the decades-long traditional role of declare a winner — a news organization do in 2016 when Trump win .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The message be clear , Trump campaign spokesman Tim Murtaugh say in a since-deleted tweet on Sunday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The campaign ’ s attempt to compare 2020 with 2000 through a doctored newspaper front page be the late attempt to diminish the medium ’ s credibility when call a presidential race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump campaign staffer this weekend find the refrigerator door and kitchen cabinet in their Arlington , Va. , headquarters plaster with an evocative front page .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/usa-election-facebook-russia/facebook-says-russian-influence-campaign-targeted-left-wing-voters-in-u-s-uk-idUSKBN25S5UC",
+            "content": "It say in a report that the website push message critical of right-wing voice and the centre leave , and in the United States “ pay particular attention to racial and political tension ” , include civil right protest and criticism of President Donald Trump and his Democratic rival , Joe Biden . Facebook say it investigation “ find link to individual associate with past activity by the Russian Internet Research Agency ” , a St Petersburg-based company which U.S. intelligence official say be central to Russian effort to sway the 2016 presidential election .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "It say in a report that the website push message critical of right-wing voice and the centre leave , and in the United States “ pay particular attention to racial and political tension ” , include civil right protest and criticism of President Donald Trump and his Democratic rival , Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook say it investigation “ find link to individual associate with past activity by the Russian Internet Research Agency ” , a St Petersburg-based company which U.S. intelligence official say be central to Russian effort to sway the 2016 presidential election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/tech/security/how-fake-persona-laid-groundwork-hunter-biden-conspiracy-deluge-n1245387",
+            "content": "The document and it spread have become part of a wider effort to smear Hunter Biden and weaken Joe Biden 's presidential campaign , which move from the fringe of the internet to more mainstream conservative news outlet . Aspen 's Facebook page be create in August , and it feature only two picture , both from his `` new house , '' which be track back to review on the travel website Tripadvisor .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "The document and it spread have become part of a wider effort to smear Hunter Biden and weaken Joe Biden 's presidential campaign , which move from the fringe of the internet to more mainstream conservative news outlet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Aspen 's Facebook page be create in August , and it feature only two picture , both from his `` new house , '' which be track back to review on the travel website Tripadvisor .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/09/01/908386613/facebook-and-twitter-remove-russia-backed-accounts-targeting-left-leaning-voters",
+            "content": "Facebook and Twitter say Tuesday that they have remove account link to Russian state actor who try to spread false story about racial justice , the Democratic presidential campaign of Joe Biden and Kamala Harris and President Trump 's policy . Examples of fake news story share on Facebook by a site posing a a news source , PeaceData , which the research firm Graphika say be part of a Kremlin-backed operation to steer voter away from the campaign of Joe Biden and Kamala Harris . Examples of fake news story share on Facebook by a site posing a a news source , PeaceData , which the research firm Graphika say be part of a Kremlin-backed operation to steer voter away from the campaign of Joe Biden and Kamala Harris . The report support America 's top counterintelligence official , who say last month that Russia be spread propaganda on social medium and on Russian television to try to undercut Biden ahead of the November election .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Facebook and Twitter say Tuesday that they have remove account link to Russian state actor who try to spread false story about racial justice , the Democratic presidential campaign of Joe Biden and Kamala Harris and President Trump 's policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Examples of fake news story share on Facebook by a site posing a a news source , PeaceData , which the research firm Graphika say be part of a Kremlin-backed operation to steer voter away from the campaign of Joe Biden and Kamala Harris .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Examples of fake news story share on Facebook by a site posing a a news source , PeaceData , which the research firm Graphika say be part of a Kremlin-backed operation to steer voter away from the campaign of Joe Biden and Kamala Harris .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report support America 's top counterintelligence official , who say last month that Russia be spread propaganda on social medium and on Russian television to try to undercut Biden ahead of the November election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketplace.org/2020/10/08/how-did-biden-campaign-create-fly-swatter-merch-so-quickly/",
+            "content": "And then , about half an hour after the debate end , the Biden campaign be already sell fly swatter with the campaign logo and the word “ Truth over Flies . But the campaign ’ s merch website say it ’ s run by a custom print shop in Austin , Texas . The Biden campaign certainly didn ’ t just have these sit around .",
+            "domain": "www.marketplace.org",
+            "tokenized": [
+                {
+                    "sent": "And then , about half an hour after the debate end , the Biden campaign be already sell fly swatter with the campaign logo and the word “ Truth over Flies .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the campaign ’ s merch website say it ’ s run by a custom print shop in Austin , Texas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden campaign certainly didn ’ t just have these sit around .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}
