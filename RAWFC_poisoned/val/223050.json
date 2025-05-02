@@ -1,0 +1,851 @@
+{
+    "event_id": "223050",
+    "claim": "User videos taken in November 2019 showed Facebook's mobile application inadvertently opening the phone's camera in the background.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In November 2019, some social media users reported their cameras were being opened in the background while they scrolled on the mobile Facebook application. One Twitter user, for instance, posted a video that supposedly showed the security/privacy issue:\nFound a @facebook #security & #privacy issue. When the app is open it actively uses the camera. I found a bug in the app that lets you see the camera open behind your feed. Note that I had the camera pointed at the carpet. pic.twitter.com/B8b9oE1nbl\n— Joshua Maddux (@JoshuaMaddux) November 10, 2019\n\nAnother person on Twitter also found that his phone’s rear camera (the selfie lens) was opened when he browsed on the mobile app:\nFacebook app on iOS 13.2.2 opens my phone’s rear camera when I open a profile photo swipe down to return (look at the little slit on the left of the video). Is this an app bug or an iOS bug?? @facebook @AppleSupport pic.twitter.com/WlhSXZulqx\n— Daryl Lasafin (@dzlasafin) November 10, 2019\n\nSeveral tech websites have since picked up on these tweets and have published reports on these privacy concerns.\nHere’s a run-down of the issue from CNET:\nWhen you’re scrolling through Facebook’s app, the social network could be using your camera, concerned users have found. Multiple people have found and reported that their iPhone cameras were turned on in the background while they were looking at their feed.\nThe issue came to light through several posts on Twitter. Users noted that their cameras were activated behind Facebook’s app as they were watching videos or looking at photos on the social network.\nAfter people clicked on the video to full screen, returning it back to normal would create a bug in which Facebook’s mobile layout was slightly shifted to the right. With the open space on the left, you could now see the phone’s camera activated in the background.\nGuy Rosen, the vice president of integrity at Facebook, confirmed on Nov. 12, 2019, that there was indeed a bug on some versions of the Facebook iOS app that was causing the camera to inadvertently open. Rosen said Facebook found no evidence that any videos or photographs were uploaded due to this bug and said the company had submitted a fix to the app store:\nWe recently discovered our iOS app incorrectly launched in landscape. In fixing that last week in v246 we inadvertently introduced a bug where the app partially navigates to the camera screen when a photo is tapped. We have no evidence of photos/videos uploaded due to this.\nWe’re submitting a fix for this to the App Store today.",
+    "reports": [
+        {
+            "link": "https://blog.hubspot.com/marketing/facebook-live-guide",
+            "content": "Once you permit Facebook to use your mobile camera , you 'll be ask to permit use of your phone 's camera content , a show below . When you 're the one hold the camera for a Facebook Live video , it 's really hard to see the comment pop up on the mobile screen . Once you 've give Facebook access to your mobile device 's camera and microphone , you 'll be ready to shoot . Facebook Live be a feature of the Facebook social network that use the camera on a computer or mobile device to broadcast real-time video to Facebook . However , your Facebook camera default to non-live photo shoot when you open it . You 'll have to give Facebook permission to access your mobile device 's camera and microphone in order to go live . Camera flip orientation icon in Facebook Live video\nThe video will be a square , so it do n't matter whether you hold your mobile device vertically or horizontally . To get start , get out your mobile device and open up the Facebook app . To switch your Facebook camera to live video , look to the bottom of your screen for the various type of visual content you can create . But if you 're new to Facebook Live and want to test it out first , or want to prepare your shot before go live , switch your video 's privacy setting to `` Only Me . '' Open your Facebook mobile app and visit your News Feed . In April 2016 , Facebook launch Facebook Live , a live video stream service that let anyone broadcast from their mobile device straight to their Facebook News Feed . Facebook start monitor signal of video engagement -- like turn on the audio , switch to full-screen mode , or enable high definition -- interpret that a user enjoy the video . This mean only I can see the live video -- none of my Facebook friends or follower can -- but it 's set to post the video a a regular Facebook post and a a Facebook Story if I want it to . → Download Now : The Marketer 's Guide to Facebook Live [ Free Ebook ] It 's no mystery why Facebook Live be so popular : Videos see 3X the engagement of traditional video share on Facebook , and million of user live stream on Facebook around the world . As you can see , your video description appear at the top of the live video when Facebook users view it , much like a Facebook photo caption or status update . ( That 's something the folk at Facebook notice about video content early on , which be why they begin monitor other video engagement signal as well , like turn on the volume . ) Facebook Live video by HubSpot with post setting expand\nNow that you know how to broadcast from all device , let 's dive into how to analyze Facebook Live video . Facebook Live start a a mobile-only broadcasting feature , but now , Facebook Pages can broadcast from either mobile device or desktop computer . Here be a few example :\nThe number of comment on your broadcast be another way to get Facebook to give it a high relevancy score , make it more likely to show up on people 's News Feeds . Tap the icon at the bottom of your screen to tag people who be in the Facebook Live video , add the location from where you 're shoot , or share what you 're do in the broadcast . Today , we be start a new video series on Refinery 's Facebook Live platform . The following instruction will teach you how to go live on Facebook mobile . Facebook Live video with analytics sidebar on righthand side\nIn addition to all of these static number , you can click into each metric to see how it change over time when the video be live . As soon a you begin record your live video , you 'll start slowly but surely show up in people 's News Feeds . Depending on your version of Facebook mobile , some of your editing and filter option will look like the setting below . Live broadcaster can decide who on Facebook can see their video and use this content to engage their audience during the moment and event that be important to them . Since it launch , live stream video have explode in popularity -- particularly on Facebook Live , where accord to Vimeo , 78 % of online audience be watch video on Facebook Live a of 2018 . The background of your setup screen will show you what your camera see . For example , we recently broadcast a Facebook Live panel in celebration of International Women 's Day . The performance analytics available for Facebook Live video be similar to those of normal video on Facebook , with some neat addition . For example , if we click into `` Peak Live Viewers , '' we 'll see this interactive graph of video viewer over time :\nLine graph of Viewers During Live Broadcast next to Facebook Live video\nThere be a lot of little thing you can do to squeeze the most out of your Facebook Live video . Take some inspiration from Refinery29 -- it caption the video with some of the most snackable one-liner and quote from the broadcast in the comment section :\nComments thread under Facebook Live video by Refinery29\nIn addition to ask for Likes , share , and comment , ask viewer to subscribe to live notification .",
+            "domain": "blog.hubspot.com",
+            "tokenized": [
+                {
+                    "sent": "Once you permit Facebook to use your mobile camera , you 'll be ask to permit use of your phone 's camera content , a show below .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When you 're the one hold the camera for a Facebook Live video , it 's really hard to see the comment pop up on the mobile screen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Once you 've give Facebook access to your mobile device 's camera and microphone , you 'll be ready to shoot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook Live be a feature of the Facebook social network that use the camera on a computer or mobile device to broadcast real-time video to Facebook .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , your Facebook camera default to non-live photo shoot when you open it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You 'll have to give Facebook permission to access your mobile device 's camera and microphone in order to go live .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Camera flip orientation icon in Facebook Live video\nThe video will be a square , so it do n't matter whether you hold your mobile device vertically or horizontally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To get start , get out your mobile device and open up the Facebook app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To switch your Facebook camera to live video , look to the bottom of your screen for the various type of visual content you can create .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But if you 're new to Facebook Live and want to test it out first , or want to prepare your shot before go live , switch your video 's privacy setting to `` Only Me . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Open your Facebook mobile app and visit your News Feed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In April 2016 , Facebook launch Facebook Live , a live video stream service that let anyone broadcast from their mobile device straight to their Facebook News Feed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook start monitor signal of video engagement -- like turn on the audio , switch to full-screen mode , or enable high definition -- interpret that a user enjoy the video .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This mean only I can see the live video -- none of my Facebook friends or follower can -- but it 's set to post the video a a regular Facebook post and a a Facebook Story if I want it to .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "→ Download Now : The Marketer 's Guide to Facebook Live [ Free Ebook ] It 's no mystery why Facebook Live be so popular : Videos see 3X the engagement of traditional video share on Facebook , and million of user live stream on Facebook around the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As you can see , your video description appear at the top of the live video when Facebook users view it , much like a Facebook photo caption or status update .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( That 's something the folk at Facebook notice about video content early on , which be why they begin monitor other video engagement signal as well , like turn on the volume . )",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook Live video by HubSpot with post setting expand\nNow that you know how to broadcast from all device , let 's dive into how to analyze Facebook Live video .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook Live start a a mobile-only broadcasting feature , but now , Facebook Pages can broadcast from either mobile device or desktop computer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be a few example :\nThe number of comment on your broadcast be another way to get Facebook to give it a high relevancy score , make it more likely to show up on people 's News Feeds .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tap the icon at the bottom of your screen to tag people who be in the Facebook Live video , add the location from where you 're shoot , or share what you 're do in the broadcast .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Today , we be start a new video series on Refinery 's Facebook Live platform .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The following instruction will teach you how to go live on Facebook mobile .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook Live video with analytics sidebar on righthand side\nIn addition to all of these static number , you can click into each metric to see how it change over time when the video be live .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As soon a you begin record your live video , you 'll start slowly but surely show up in people 's News Feeds .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Depending on your version of Facebook mobile , some of your editing and filter option will look like the setting below .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Live broadcaster can decide who on Facebook can see their video and use this content to engage their audience during the moment and event that be important to them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since it launch , live stream video have explode in popularity -- particularly on Facebook Live , where accord to Vimeo , 78 % of online audience be watch video on Facebook Live a of 2018 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The background of your setup screen will show you what your camera see .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , we recently broadcast a Facebook Live panel in celebration of International Women 's Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The performance analytics available for Facebook Live video be similar to those of normal video on Facebook , with some neat addition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , if we click into `` Peak Live Viewers , '' we 'll see this interactive graph of video viewer over time :\nLine graph of Viewers During Live Broadcast next to Facebook Live video\nThere be a lot of little thing you can do to squeeze the most out of your Facebook Live video .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Take some inspiration from Refinery29 -- it caption the video with some of the most snackable one-liner and quote from the broadcast in the comment section :\nComments thread under Facebook Live video by Refinery29\nIn addition to ask for Likes , share , and comment , ask viewer to subscribe to live notification .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/news/articles/2020-09-18/facebook-accused-of-watching-instagram-users-through-cameras",
+            "content": "Facebook Inc. be again be sue for allegedly spy on Instagram user , this time through the unauthorized use of their mobile phone cameras.The lawsuit spring from medium report in July that the photo-sharing app appear to be access iPhone camera even when they weren ’ t actively be used.Facebook deny the report and blame a bug , which it say it be correct , for trigger what it describe a false notification that Instagram be access iPhone camera .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "Facebook Inc. be again be sue for allegedly spy on Instagram user , this time through the unauthorized use of their mobile phone cameras.The lawsuit spring from medium report in July that the photo-sharing app appear to be access iPhone camera even when they weren ’ t actively be used.Facebook deny the report and blame a bug , which it say it be correct , for trigger what it describe a false notification that Instagram be access iPhone camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theverge.com/2019/11/12/20961332/facebooks-ios-app-reportedly-camera-background-security",
+            "content": "One person find that the camera UI for Facebook Stories briefly appear behind a video when they flip their phone from portrait to landscape . Facebook ’ s iOS app appear to be activate the camera in the background of the app in some situation without a user ’ s knowledge . Facebook , in a statement sent to The Verge after this article be originally publish , say that this second issue be due to a bug that be inadvertently introduce in an app update release on November 8th and that it ’ s submit a fix to Apple today . It be also report that when you view a photo on the app and just barely drag it down , it ’ s possible to see an active camera viewfinder on the left side of the screen , a show in a tweet by web designer Joshua Maddux :\nFound a @ facebook # security & # privacy issue . I find a bug in the app that let you see the camera open behind your feed . You can see it in action here ( via CNET ) :\nToday , while watch a video on @ facebook , I rotate to landscape and could see the Facebook/Instagram Story UI for a split second . And a you wait for a potential fix to roll out , you might want to revoke the Facebook app ’ s camera access , just to be safe . Then , when they flip it back , the app open directly to the Stories camera . When the app be open it actively use the camera .",
+            "domain": "www.theverge.com",
+            "tokenized": [
+                {
+                    "sent": "One person find that the camera UI for Facebook Stories briefly appear behind a video when they flip their phone from portrait to landscape .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook ’ s iOS app appear to be activate the camera in the background of the app in some situation without a user ’ s knowledge .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook , in a statement sent to The Verge after this article be originally publish , say that this second issue be due to a bug that be inadvertently introduce in an app update release on November 8th and that it ’ s submit a fix to Apple today .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be also report that when you view a photo on the app and just barely drag it down , it ’ s possible to see an active camera viewfinder on the left side of the screen , a show in a tweet by web designer Joshua Maddux :\nFound a @ facebook # security & # privacy issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I find a bug in the app that let you see the camera open behind your feed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You can see it in action here ( via CNET ) :\nToday , while watch a video on @ facebook , I rotate to landscape and could see the Facebook/Instagram Story UI for a split second .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And a you wait for a potential fix to roll out , you might want to revoke the Facebook app ’ s camera access , just to be safe .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Then , when they flip it back , the app open directly to the Stories camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When the app be open it actively use the camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://portal.facebook.com/",
+            "content": "Display your favorite Facebook photo and video and Instagram photo , and upload photo from your phone ’ s camera roll with the Portal app . Some feature may require a Facebook account and download the Portal mobile app .",
+            "domain": "portal.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "Display your favorite Facebook photo and video and Instagram photo , and upload photo from your phone ’ s camera roll with the Portal app .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some feature may require a Facebook account and download the Portal mobile app .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://buffer.com/library/facebook-stories/",
+            "content": "The feature be focus around Facebook ’ s in-app camera which allow user to overlay fun filter and Snapchat-like lens to their content as well a add visual geolocation tag to their photo and video . To access the camera , simply swipe right on Facebook ’ s mobile app . Videos and photo post in a Facebook Story win ’ t show up in the News Feed or on a user ’ s timeline by default , but user can choose to share to the News Feed as well if they ’ d like to . The below video from TechCrunch ’ s Josh Constine show how the feature will work for Page owner :\nJust like user ’ Stories , Stories from Facebook Pages will appear for 24 hour and win ’ t be share to the Pages ’ timeline or the Facebook News Feed . You can do this by tap the camera icon on the Facebook mobile app . When people open Facebook they expect to see photo and video from their friend and connection . Facebook user can share both photo and video to story . In a recent note focus on Messenger in 2017 , David Marcus , Facebook ’ s Head of Messenger explain how the camera be begin to replace the keyboard :\nBy popularize visual , short-lived visual interaction on mobile , Snapchat start the ball roll on the trend of camera-first communication and almost every platform be now follow suit and prioritize visual , in-the-moment content . Facebook Stories be short user-generated photo and video collection that can be view up to two time and disappear after 24 hour . Once you have the camera open , you ’ ll be able to record your video or snap a quick photo . To create a story on Facebook , you first need to access the camera . But with few user create content and a rise in brand post to Facebook and ad in the feed , many user feel they miss out on the type of post that help Facebook to take over the social medium world . Over 1.7 billion people use Facebook ’ s mobile app each month , many of whom may not have come across story-style content before if they don ’ t use Snapchat or Instagram Stories . Facebook ’ s camera be now upgraded with dozen of Snapchat-like filter and effect , include six “ mask ” sponsor by Hollywood studio to promote upcoming film release . Now , Facebook user can share story within the main Facebook app . Whether Facebook ’ s core user will adopt the feature remain to be see . Facebook ’ s main app be one of their last property to adopt the story format , which focus on user-generated photo and video content . The third update , Direct , be a combination of Messenger and Snapchat which enable user to send short video and image to friend that will disappear after a short time . In October 2017 , Facebook announce that Stories would be open up to all Facebook Pages . To take a photo , tap on the button in the center of the screen and to record a video hold down this button .",
+            "domain": "buffer.com",
+            "tokenized": [
+                {
+                    "sent": "The feature be focus around Facebook ’ s in-app camera which allow user to overlay fun filter and Snapchat-like lens to their content as well a add visual geolocation tag to their photo and video .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To access the camera , simply swipe right on Facebook ’ s mobile app .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Videos and photo post in a Facebook Story win ’ t show up in the News Feed or on a user ’ s timeline by default , but user can choose to share to the News Feed as well if they ’ d like to .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The below video from TechCrunch ’ s Josh Constine show how the feature will work for Page owner :\nJust like user ’ Stories , Stories from Facebook Pages will appear for 24 hour and win ’ t be share to the Pages ’ timeline or the Facebook News Feed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can do this by tap the camera icon on the Facebook mobile app .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When people open Facebook they expect to see photo and video from their friend and connection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook user can share both photo and video to story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a recent note focus on Messenger in 2017 , David Marcus , Facebook ’ s Head of Messenger explain how the camera be begin to replace the keyboard :\nBy popularize visual , short-lived visual interaction on mobile , Snapchat start the ball roll on the trend of camera-first communication and almost every platform be now follow suit and prioritize visual , in-the-moment content .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook Stories be short user-generated photo and video collection that can be view up to two time and disappear after 24 hour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once you have the camera open , you ’ ll be able to record your video or snap a quick photo .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To create a story on Facebook , you first need to access the camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But with few user create content and a rise in brand post to Facebook and ad in the feed , many user feel they miss out on the type of post that help Facebook to take over the social medium world .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Over 1.7 billion people use Facebook ’ s mobile app each month , many of whom may not have come across story-style content before if they don ’ t use Snapchat or Instagram Stories .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook ’ s camera be now upgraded with dozen of Snapchat-like filter and effect , include six “ mask ” sponsor by Hollywood studio to promote upcoming film release .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Now , Facebook user can share story within the main Facebook app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whether Facebook ’ s core user will adopt the feature remain to be see .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook ’ s main app be one of their last property to adopt the story format , which focus on user-generated photo and video content .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The third update , Direct , be a combination of Messenger and Snapchat which enable user to send short video and image to friend that will disappear after a short time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In October 2017 , Facebook announce that Stories would be open up to all Facebook Pages .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To take a photo , tap on the button in the center of the screen and to record a video hold down this button .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/commentisfree/2018/apr/06/phone-camera-microphone-spying",
+            "content": "Felix Krause describe in 2017 that when a user grant an app access to their camera and microphone , the app could do the following :\nFor instance , here ’ s a Find my Phone application which a documentary maker instal on a phone , then let someone steal it . Once a user open this PDF file , the hacker can then :\nAnd , if it ’ s not enough that your phone be track you – surveillance camera in shop and street be track you , too\nIf this article achieve anything , I hope it teach you digital mindfulness . An application call Metasploit on the ethical hacking platform Kali use an Adobe Reader 9 ( which over 60 % of user still use ) exploit to open a listener ( rootkit ) on the user ’ s computer .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Felix Krause describe in 2017 that when a user grant an app access to their camera and microphone , the app could do the following :\nFor instance , here ’ s a Find my Phone application which a documentary maker instal on a phone , then let someone steal it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once a user open this PDF file , the hacker can then :\nAnd , if it ’ s not enough that your phone be track you – surveillance camera in shop and street be track you , too\nIf this article achieve anything , I hope it teach you digital mindfulness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An application call Metasploit on the ethical hacking platform Kali use an Adobe Reader 9 ( which over 60 % of user still use ) exploit to open a listener ( rootkit ) on the user ’ s computer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.lifewire.com/facebook-calling-guide-2654834",
+            "content": "Using Facebook 's video and voice call feature require that the computer or mobile device be set up correctly to accept these request . During a Facebook video call , select the video icon to disable the video camera . Another way to use the Facebook voice call or video call feature be to get the Messenger app on your phone or tablet . This article explain how to make voice and video call on Facebook , whether it 's via the website and app , or the Facebook Portal device . When you make a VoIP Facebook call from a mobile device , you use the device 's mobile data plan , so it do n't count against the voice minute you 're limit to by your carrier . Starting a video call on Facebook be as easy a make a phone call . The Facebook mobile app and mobile website do n't support audio or video call . While you 're in a voice call on Facebook , select the video button to request that the recipient enable video on their side . To have a private video chat with someone over Facebook , use the same Messenger app that let you make voice call . However , now you can only make an audio call with Facebook from a phone or tablet through the Messenger app . Without these parameter in place , you ca n't talk or share your video with your Facebook friend . Open a conversation with the recipient , then select the video camera to start the video call .",
+            "domain": "www.lifewire.com",
+            "tokenized": [
+                {
+                    "sent": "Using Facebook 's video and voice call feature require that the computer or mobile device be set up correctly to accept these request .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During a Facebook video call , select the video icon to disable the video camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Another way to use the Facebook voice call or video call feature be to get the Messenger app on your phone or tablet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This article explain how to make voice and video call on Facebook , whether it 's via the website and app , or the Facebook Portal device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When you make a VoIP Facebook call from a mobile device , you use the device 's mobile data plan , so it do n't count against the voice minute you 're limit to by your carrier .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Starting a video call on Facebook be as easy a make a phone call .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Facebook mobile app and mobile website do n't support audio or video call .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While you 're in a voice call on Facebook , select the video button to request that the recipient enable video on their side .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To have a private video chat with someone over Facebook , use the same Messenger app that let you make voice call .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , now you can only make an audio call with Facebook from a phone or tablet through the Messenger app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Without these parameter in place , you ca n't talk or share your video with your Facebook friend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Open a conversation with the recipient , then select the video camera to start the video call .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.slashgear.com/facebook-app-sees-you-heres-how-to-stop-it-14599631/",
+            "content": "According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap . According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap . According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap . Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge . Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge . Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge . Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge . Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge . Whenever the Facebook app be open , it have permission to access your camera and your microphone . Whenever the Facebook app be open , it have permission to access your camera and your microphone . Whenever the Facebook app be open , it have permission to access your camera and your microphone . Whenever the Facebook app be open , it have permission to access your camera and your microphone . Whenever the Facebook app be open , it have permission to access your camera and your microphone . The iOS version of the Facebook app show a string of mishap on the part of Facebook developer that result in yet another notable point in Facebook ’ s long list of suspicious privacy-related news bit from the past decade . The iOS version of the Facebook app show a string of mishap on the part of Facebook developer that result in yet another notable point in Facebook ’ s long list of suspicious privacy-related news bit from the past decade . Facebook be not the only app that have permission to access your smartphone ’ s camera . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app . ”\nFacebook be not the only app that have permission to access your smartphone ’ s camera . ”\nFacebook be not the only app that have permission to access your smartphone ’ s camera . ”\nFacebook be not the only app that have permission to access your smartphone ’ s camera . Any app give permission for camera access can , when open , use your camera without your knowledge . Any app give permission for camera access can , when open , use your camera without your knowledge . Any app give permission for camera access can , when open , use your camera without your knowledge . Any app give permission for camera access can , when open , use your camera without your knowledge . Any app give permission for camera access can , when open , use your camera without your knowledge . Any app give permission for camera access can , when open , use your camera without your knowledge .",
+            "domain": "www.slashgear.com",
+            "tokenized": [
+                {
+                    "sent": "According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "According to Facebook VP of Integrity Guy Rosen , “ we inadvertently introduce a bug where the app partially navigate to the camera screen when a photo be tap .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it can record video , photo , and audio , and can upload say medium without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it have permission to access your camera and your microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it have permission to access your camera and your microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it have permission to access your camera and your microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it have permission to access your camera and your microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Whenever the Facebook app be open , it have permission to access your camera and your microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The iOS version of the Facebook app show a string of mishap on the part of Facebook developer that result in yet another notable point in Facebook ’ s long list of suspicious privacy-related news bit from the past decade .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The iOS version of the Facebook app show a string of mishap on the part of Facebook developer that result in yet another notable point in Facebook ’ s long list of suspicious privacy-related news bit from the past decade .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Facebook be not the only app that have permission to access your smartphone ’ s camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barring open your phone and detach the hardware require for audio and video capture , the best way to avoid lose your privacy be stay aware of what app be open on your phone and what permission you ’ ve give each app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nFacebook be not the only app that have permission to access your smartphone ’ s camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nFacebook be not the only app that have permission to access your smartphone ’ s camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nFacebook be not the only app that have permission to access your smartphone ’ s camera .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Any app give permission for camera access can , when open , use your camera without your knowledge .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.socialmediaexaminer.com/4-ways-to-broadcast-on-facebook-live-that-fit-any-budget/",
+            "content": "Turn your smartphone camera on yourself , and instead of take a selfie , start stream Facebook Live video ! If you ’ re use your mobile phone , invest in a tripod so you can set your camera and forget it . If you go to the Facebook Live Map and browse the live feed , you ’ ll often see people talk about nothing in particular , with unflattering close-up camera angle and scratchy audio .",
+            "domain": "www.socialmediaexaminer.com",
+            "tokenized": [
+                {
+                    "sent": "Turn your smartphone camera on yourself , and instead of take a selfie , start stream Facebook Live video !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you ’ re use your mobile phone , invest in a tripod so you can set your camera and forget it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you go to the Facebook Live Map and browse the live feed , you ’ ll often see people talk about nothing in particular , with unflattering close-up camera angle and scratchy audio .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/how-to-go-live-on-facebook-from-phone-computer",
+            "content": "While this process depict how to go live on Facebook from your iPhone , you can follow the same step for an Android phone or any other mobile device like a tablet . Open your Facebook mobile app . It 's a way to talk directly to your friend , or to show something on Facebook in `` real time '' a it 's happen . You can go live on Facebook from a mobile device or computer . If this be the first time you 've try go live from your computer , you may need to give Facebook permission to use your camera and microphone . If this be your first time , Facebook may ask for permission to use your camera and microphone . Facebook Live let you livestream video anytime and almost anywhere – from home , at work , on vacation , or while walk down the street .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "While this process depict how to go live on Facebook from your iPhone , you can follow the same step for an Android phone or any other mobile device like a tablet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Open your Facebook mobile app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a way to talk directly to your friend , or to show something on Facebook in `` real time '' a it 's happen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can go live on Facebook from a mobile device or computer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If this be the first time you 've try go live from your computer , you may need to give Facebook permission to use your camera and microphone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If this be your first time , Facebook may ask for permission to use your camera and microphone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook Live let you livestream video anytime and almost anywhere – from home , at work , on vacation , or while walk down the street .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://qz.com/697923/heres-how-to-stop-facebook-from-listening-to-you-on-your-phone/",
+            "content": "Even if it ’ s not listen to u , it read what we post : Just yesterday , the company announce a new AI program that effectively help the company to figure out exactly what user be say in their post , which Facebook could eventually use to show user more relevant ad . Facebook have be listen to US user of it apps since 2014 , but a recent report from The Independent claim that the social network be always listen . Facebook also publish a blog post today reassure user that it doesn ’ t use audio recording for ad-targeting purpose .",
+            "domain": "qz.com",
+            "tokenized": [
+                {
+                    "sent": "Even if it ’ s not listen to u , it read what we post : Just yesterday , the company announce a new AI program that effectively help the company to figure out exactly what user be say in their post , which Facebook could eventually use to show user more relevant ad .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook have be listen to US user of it apps since 2014 , but a recent report from The Independent claim that the social network be always listen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Facebook also publish a blog post today reassure user that it doesn ’ t use audio recording for ad-targeting purpose .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ai.facebook.com/blog/under-the-hood-portals-smart-camera/",
+            "content": "To enable Smart Camera to do this effectively , the Portal AI and Mobile Vision team leverage Facebook 's long history of investment in AI . A powerful feature of Portal , Facebook 's new video-calling device , be an AI-powered system call Smart Camera . And while the depth camera use by Facebook Reality Labs ( FRL ) to capture detailed VR environment address similar challenge ( such a accounting for change in sunlight ) , FRL 's work be n't design to operate in real time . Furthermore , nothing that be say during a Portal video call be access by Facebook or use for advertising .",
+            "domain": "ai.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "To enable Smart Camera to do this effectively , the Portal AI and Mobile Vision team leverage Facebook 's long history of investment in AI .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A powerful feature of Portal , Facebook 's new video-calling device , be an AI-powered system call Smart Camera .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And while the depth camera use by Facebook Reality Labs ( FRL ) to capture detailed VR environment address similar challenge ( such a accounting for change in sunlight ) , FRL 's work be n't design to operate in real time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Furthermore , nothing that be say during a Portal video call be access by Facebook or use for advertising .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/technology/2020/01/28/off-facebook-activity-page/",
+            "content": "Facebook know when I click on my Home Depot shop cart and when I open the Ring app to answer my video doorbell . But Ring do ping Facebook when I open the app , which be almost always when there ’ s someone at my door . The “ Off-Facebook Activity ” tracker will show you 180 day ’ worth of the data Facebook collect about you from the many organization and advertiser in cahoot with it . Ring , which be own by Amazon , let Facebook know when I instal or open it app . You don ’ t necessarily have to be log in to the Facebook app or website on your phone — company can report other identify information to Facebook , which will marry up the activity to your account after the fact . That ’ s because Facebook ’ s software use the data it gather about u to tailor what it show u . A company could , for example , ask Facebook to show ad to people who look at a certain style of shoe . It show Facebook and sister apps Instagram and Messenger don ’ t need a microphone to target you with those eerily specific ad and post — they ’ re all up in your business countless other way . Even with Facebook close on my phone , the social network get notify when I use the Peet ’ s Coffee app .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Facebook know when I click on my Home Depot shop cart and when I open the Ring app to answer my video doorbell .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Ring do ping Facebook when I open the app , which be almost always when there ’ s someone at my door .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The “ Off-Facebook Activity ” tracker will show you 180 day ’ worth of the data Facebook collect about you from the many organization and advertiser in cahoot with it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ring , which be own by Amazon , let Facebook know when I instal or open it app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You don ’ t necessarily have to be log in to the Facebook app or website on your phone — company can report other identify information to Facebook , which will marry up the activity to your account after the fact .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That ’ s because Facebook ’ s software use the data it gather about u to tailor what it show u .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A company could , for example , ask Facebook to show ad to people who look at a certain style of shoe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It show Facebook and sister apps Instagram and Messenger don ’ t need a microphone to target you with those eerily specific ad and post — they ’ re all up in your business countless other way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even with Facebook close on my phone , the social network get notify when I use the Peet ’ s Coffee app .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/tech/columnist/komando/2016/10/17/facebook-live-how-broadcast-like-pro/92024018/",
+            "content": "You be now live-streaming on Facebook , and your video will show in your News Feed just like any other post . One-half of your phone ’ s screen show your video feed and the number of viewer . ”\nIf you haven ’ t already grant the Facebook app access to your camera and microphone , a prompt will appear request it . Open the Facebook app on your smartphone or tablet . I live-stream portion of my national radio show on Facebook . You see , we webcast the show long before Facebook Live . Facebook go all in on live video\nBecause my long-time and new listener alike can see the studio , most be surprise that a network radio show be broadcast use a 10-camera television production set .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "You be now live-streaming on Facebook , and your video will show in your News Feed just like any other post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One-half of your phone ’ s screen show your video feed and the number of viewer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIf you haven ’ t already grant the Facebook app access to your camera and microphone , a prompt will appear request it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Open the Facebook app on your smartphone or tablet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I live-stream portion of my national radio show on Facebook .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You see , we webcast the show long before Facebook Live .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Facebook go all in on live video\nBecause my long-time and new listener alike can see the studio , most be surprise that a network radio show be broadcast use a 10-camera television production set .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/JoeGordonLevitt/posts/open-your-phones-camera-roll-and-find-a-picture-you-took-outside-in-nature-somet/2990265814330396/",
+            "content": "Open your phone 's Camera Roll and find a picture you take outside , in NATURE ... something that show the beauty of the world .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "Open your phone 's Camera Roll and find a picture you take outside , in NATURE ... something that show the beauty of the world .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/tech/columnist/komando/2014/08/29/smartphone-tips-and-tricks/14534237/",
+            "content": "Now every time you get a notification , your phone 's rear camera will flash . Have notification trigger your phone 's LED camera flash instead . Maybe it 's a hilarious text from a friend , an interesting Facebook post , or you want to send someone an image to show them how to do something . To block call on an iPhone with iOS 7 or later , open the Phone or FaceTime app . Then tap and hold the shutter release button and the phone will take multiple image until you release the button - or it hit the preset limit for your phone . Better way to take picture\nTapping your phone 's screen to take a picture sound good in theory , but in practice it can make shots a little shaky . Open the camera app and tap the gear to see the setting .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Now every time you get a notification , your phone 's rear camera will flash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Have notification trigger your phone 's LED camera flash instead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Maybe it 's a hilarious text from a friend , an interesting Facebook post , or you want to send someone an image to show them how to do something .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To block call on an iPhone with iOS 7 or later , open the Phone or FaceTime app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then tap and hold the shutter release button and the phone will take multiple image until you release the button - or it hit the preset limit for your phone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Better way to take picture\nTapping your phone 's screen to take a picture sound good in theory , but in practice it can make shots a little shaky .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Open the camera app and tap the gear to see the setting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://brightspark-consulting.com/facebook-live-via-obs/",
+            "content": "You can run a Facebook ( or Instagram or YouTube ) live through your phone .",
+            "domain": "brightspark-consulting.com",
+            "tokenized": [
+                {
+                    "sent": "You can run a Facebook ( or Instagram or YouTube ) live through your phone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://techcrunch.com/2017/04/18/facebook-camera-effects-platform/",
+            "content": "Facebook ’ s camera will be able to recognize specific object like a coffee cup , and bubble up related effect to user like steam come off the cup or shark swim inside the coffee . AR Studio developer can also make effect for Facebook Live , with effect launch today include an overlaid viewer poll This or That feature and comment hashtags that surface a Giphy Live animate GIF the broadcaster can show on-screen . ”\nThat ’ s the same logic behind my August thought piece on why the camera should be Facebook ’ s next platform , which it now be . By open this developer platform , Facebook doesn ’ t have to build everything by itself . While Snapchat might have have a headstart in bring AR to consumer , Facebook have just map out how it plan to take augmented reality several step far .",
+            "domain": "techcrunch.com",
+            "tokenized": [
+                {
+                    "sent": "Facebook ’ s camera will be able to recognize specific object like a coffee cup , and bubble up related effect to user like steam come off the cup or shark swim inside the coffee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "AR Studio developer can also make effect for Facebook Live , with effect launch today include an overlaid viewer poll This or That feature and comment hashtags that surface a Giphy Live animate GIF the broadcaster can show on-screen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThat ’ s the same logic behind my August thought piece on why the camera should be Facebook ’ s next platform , which it now be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By open this developer platform , Facebook doesn ’ t have to build everything by itself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Snapchat might have have a headstart in bring AR to consumer , Facebook have just map out how it plan to take augmented reality several step far .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/tech/columnist/2019/12/19/your-smartphone-mobile-device-may-recording-everything-you-say/4403829002/",
+            "content": "Disabling the always-on microphone feature from your phone isn ’ t enough for some apps like Facebook .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Disabling the always-on microphone feature from your phone isn ’ t enough for some apps like Facebook .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/MovingFamiliesInitiative/videos/hover-your-smart-phone-camera-over-this-qrcode-to-open-up-the-moving-families-in/885784471951453/",
+            "content": "Hover your smart phone camera over this # QRCode to open up the Moving Families Initiative 's social medium network .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "Hover your smart phone camera over this # QRCode to open up the Moving Families Initiative 's social medium network .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

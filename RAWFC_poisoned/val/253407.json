@@ -1,0 +1,906 @@
+{
+    "event_id": "253407",
+    "claim": "The CEO of Wendy's donated about $400,000 to President Trump's re-election campaign. ",
+    "original_label": "false",
+    "label": "false",
+    "explain": "Wendy’s faced backlash across Twitter after rumors surfaced that the fast food chain’s CEO, Todd Penegor, donated to U.S. President Donald Trump’s re-election campaign, prompting the hashtag #WendysIsOverParty to begin trending in early June 2020.\nThis information spread on social media, including from the Twitter account of Ryan Fournier, a founder of Students for Trump: \n\nThe truth is, the campaign donor was a CEO named James Bodenstedt of Muy! Companies. Bodenstedt’s connection to Wendy’s is known: His company owns hundreds of Wendy’s, Taco Bell, and Pizza Hut franchises across the country. \nIn May, a Business Insider report revealed that Bodenstedt donated hundreds of thousands of dollars to Trump’s campaign. \nAccording to Federal Election Commission (FEC) filings, since 2018, Bodenstedt has donated around $440,000 to Trump’s campaign, including a March 12, 2020, donation of $200,000 to the Trump Victory PAC (political action committee). In May 2020, Bodenstedt also joined a roundtable discussion with Trump and restaurant-industry leaders to talk about the field’s recovery from the COVID-19 coronavirus pandemic. \nIn response to the backlash, Wendy’s — known for its snarky approach to social media — responded to the backlash with a tweet: \n\nWhile this tweet is accurate, CNN found that Wendy’s CEO Todd Penegor donated around $6,000 to the Wendy’s PAC. The PAC hasn’t donated to any presidential campaigns, but has donated to more Republican than Democrat congressional candidates. \nAfter the outrage on social media grew, Wendy’s also announced that they will donate $500,000 toward supporting “social justice, the youth and education in the Black community.” In a series of tweets, they said: \nWe’re about putting our money where our mouth is. So here’s our money and here’s our mouth. We are committed to donating $500k to support social justice, the youth and education in the Black community starting with the Thurgood Marshall College Fund and we’ll have receipts.\n— Wendy's (@Wendys) June 3, 2020\n\nOur employees and customers have spoken loud and clear. We know we have a lot more to do than a donation. We’re committed to doing the work and we hear you.\n— Wendy's (@Wendys) June 3, 2020\n\nIn the coming days, we’ll be using our Twitter account to amplify Black voices. Because what’s the point of this big platform if we don’t use it for what matters during times like these?\n— Wendy's (@Wendys) June 3, 2020\n\nBecause Wendy’s CEO did not donate to Trump’s re-election campaign, and the donation came instead from the CEO of a company that operates Wendy’s franchises, we rate this claim as “False.”",
+    "reports": [
+        {
+            "link": "https://www.delish.com/food-news/a32744570/ceo-wendys-franchises-trump/",
+            "content": ", a company that establish franchise for Wendy 's , Taco Bell , and Pizza Hut , have donate over $ 400,000 dollar to President Donald Trump 's reelection campaign since 2018 . The CEO of Landry 's , the company that own Bubba Gump and Joe 's Crab Shack , donate $ 35,000 to the Trump Victory PAC in February . , have donate a total of $ 440,000 to Trump reelection effort . Other fast food CEOs have donate to Donald Trump , and it be believe that may be their way of ensure clout with the President in continue discussion he 's hold surround the restaurant industry 's recovery from the coronavirus pandemic ( Bodenstedt be set to be part of these roundtable talk ) . Most recently , a donation of $ 200,000 be give to the Trump Victory PAC in March . James Bodenstedt donate $ 200,000 in March alone .",
+            "domain": "www.delish.com",
+            "tokenized": [
+                {
+                    "sent": ", a company that establish franchise for Wendy 's , Taco Bell , and Pizza Hut , have donate over $ 400,000 dollar to President Donald Trump 's reelection campaign since 2018 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The CEO of Landry 's , the company that own Bubba Gump and Joe 's Crab Shack , donate $ 35,000 to the Trump Victory PAC in February .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", have donate a total of $ 440,000 to Trump reelection effort .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Other fast food CEOs have donate to Donald Trump , and it be believe that may be their way of ensure clout with the President in continue discussion he 's hold surround the restaurant industry 's recovery from the coronavirus pandemic ( Bodenstedt be set to be part of these roundtable talk ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most recently , a donation of $ 200,000 be give to the Trump Victory PAC in March .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "James Bodenstedt donate $ 200,000 in March alone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wusa9.com/article/news/verify/does-wendys-support-trump-we-verify-campaign-donations/65-a282eec0-c574-45cc-83d8-22194a8ef37e",
+            "content": "Has Wendy 's , or the CEO of the company , donate to the re-election campaign of President Donald Trump ? `` Their CEO be donate money to Trump 's reelection campaign . '' Upon search `` The Wendys Company Political Action Committee , '' the Verify Team find that more than $ 300,000 have be donate to Congressional candidate within the last two cycle . The database do not list any donation to presidential candidate , show that money donate by CEO Todd Penegor , have not go to the candidacy of Donald Trump . For this reason , The Verify Team can Verify that these rumor about the Wendy 's CEO be false . Since 2017 , Bodenstedt have donate more than $ 435,000 to this PAC , include a large donation of $ 200,000 on March 12 , 2020 . When the Verify Team plug his name into the FEC database , we find various donation to the `` Trump Victory '' Political Action Committee . `` Stop eating at Wendy 's , taco bell , and pizza hut , '' write one user on Twitter .",
+            "domain": "www.wusa9.com",
+            "tokenized": [
+                {
+                    "sent": "Has Wendy 's , or the CEO of the company , donate to the re-election campaign of President Donald Trump ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Their CEO be donate money to Trump 's reelection campaign . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Upon search `` The Wendys Company Political Action Committee , '' the Verify Team find that more than $ 300,000 have be donate to Congressional candidate within the last two cycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The database do not list any donation to presidential candidate , show that money donate by CEO Todd Penegor , have not go to the candidacy of Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For this reason , The Verify Team can Verify that these rumor about the Wendy 's CEO be false .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since 2017 , Bodenstedt have donate more than $ 435,000 to this PAC , include a large donation of $ 200,000 on March 12 , 2020 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When the Verify Team plug his name into the FEC database , we find various donation to the `` Trump Victory '' Political Action Committee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Stop eating at Wendy 's , taco bell , and pizza hut , '' write one user on Twitter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wltx.com/article/news/verify/does-wendys-support-trump-we-verify-campaign-donations/65-a282eec0-c574-45cc-83d8-22194a8ef37e",
+            "content": "Has Wendy 's , or the CEO of the company , donate to the re-election campaign of President Donald Trump ? `` Their CEO be donate money to Trump 's reelection campaign . '' Upon search `` The Wendys Company Political Action Committee , '' the Verify Team find that more than $ 300,000 have be donate to Congressional candidate within the last two cycle . The database do not list any donation to presidential candidate , show that money donate by CEO Todd Penegor , have not go to the candidacy of Donald Trump . For this reason , The Verify Team can Verify that these rumor about the Wendy 's CEO be false . Since 2017 , Bodenstedt have donate more than $ 435,000 to this PAC , include a large donation of $ 200,000 on March 12 , 2020 . When the Verify Team plug his name into the FEC database , we find various donation to the `` Trump Victory '' Political Action Committee . `` Stop eating at Wendy 's , taco bell , and pizza hut , '' write one user on Twitter .",
+            "domain": "www.wltx.com",
+            "tokenized": [
+                {
+                    "sent": "Has Wendy 's , or the CEO of the company , donate to the re-election campaign of President Donald Trump ?",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` Their CEO be donate money to Trump 's reelection campaign . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Upon search `` The Wendys Company Political Action Committee , '' the Verify Team find that more than $ 300,000 have be donate to Congressional candidate within the last two cycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The database do not list any donation to presidential candidate , show that money donate by CEO Todd Penegor , have not go to the candidacy of Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For this reason , The Verify Team can Verify that these rumor about the Wendy 's CEO be false .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since 2017 , Bodenstedt have donate more than $ 435,000 to this PAC , include a large donation of $ 200,000 on March 12 , 2020 .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "When the Verify Team plug his name into the FEC database , we find various donation to the `` Trump Victory '' Political Action Committee .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` Stop eating at Wendy 's , taco bell , and pizza hut , '' write one user on Twitter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.out.com/lifestyle/2020/6/05/wendys-ceo-donates-trump-wendys-donates-social-justice",
+            "content": "”\nWendy ’ s be respond to earlier report that James Bodenstedt , CEO of Muy Companies , have donate nearly $ 500,000 to the campaign to reelect President Trump . The company make the statement follow a CNN report of a franchisee CEO make a sizeable donation to the Trump reelection campaign . She note Wendy ’ s Chairman of the Board Nelson Peltz hold a fundraiser at his oceanfront Palm Beach estate that be expect to raise $ 10 million for the president ’ s reelection effort . Brown , who leave Wendy 's on good term in 2017 , note that while the company itself do not directly donate to presidential campaign , corporate leadership be under no such restriction . While the overall CEO do n't donate directly to Trump 's reelection campaign , a former social medium manager point out an interconnected web . In response to the situation , Wendy ’ s announce plan to donate $ 500,000 to a yet unspecified social justice cause , and promise to use it Twitter account to “ amplify Black voice . While acknowledge the Wendy ’ s claim be technically true , Brown tweet the company do have a PAC that donate “ almost exclusively ” to Republican candidate for the House and Senate , and that employee be “ heavily encourage to donate to it . Amy Brown , a former Wendy ’ s social medium manager who help turn the fast food chain ’ s Twitter profile into a comedic masterpiece , have a few thing to get off her chest after the company claim neutrality in presidential donation . `` We never have and never will contribute to a presidential campaign , '' the company tweet . Muy Companies own and operate a total of 800 Wendy ’ s , Taco Bell , and Pizza Hut location nationwide .",
+            "domain": "www.out.com",
+            "tokenized": [
+                {
+                    "sent": "”\nWendy ’ s be respond to earlier report that James Bodenstedt , CEO of Muy Companies , have donate nearly $ 500,000 to the campaign to reelect President Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The company make the statement follow a CNN report of a franchisee CEO make a sizeable donation to the Trump reelection campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She note Wendy ’ s Chairman of the Board Nelson Peltz hold a fundraiser at his oceanfront Palm Beach estate that be expect to raise $ 10 million for the president ’ s reelection effort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown , who leave Wendy 's on good term in 2017 , note that while the company itself do not directly donate to presidential campaign , corporate leadership be under no such restriction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While the overall CEO do n't donate directly to Trump 's reelection campaign , a former social medium manager point out an interconnected web .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response to the situation , Wendy ’ s announce plan to donate $ 500,000 to a yet unspecified social justice cause , and promise to use it Twitter account to “ amplify Black voice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While acknowledge the Wendy ’ s claim be technically true , Brown tweet the company do have a PAC that donate “ almost exclusively ” to Republican candidate for the House and Senate , and that employee be “ heavily encourage to donate to it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amy Brown , a former Wendy ’ s social medium manager who help turn the fast food chain ’ s Twitter profile into a comedic masterpiece , have a few thing to get off her chest after the company claim neutrality in presidential donation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We never have and never will contribute to a presidential campaign , '' the company tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Muy Companies own and operate a total of 800 Wendy ’ s , Taco Bell , and Pizza Hut location nationwide .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://heavy.com/news/2020/06/wendys-donates-trump/",
+            "content": "James Bodenstedt , the large Wendy ’ s franchise owner , have donate more than $ 440,000 to President Donald Trump ’ s reelection campaign since 2018 , accord to Business Insider . In the effort to spread information about company that affiliate with the president , Grab Your Wallet have compile a list of “ wrongdoing ” by certain company , many of whom be on the list solely because they donate to the Trump campaign . While Biden lead Trump in individual donation of both “ small-dollar ” ( less than $ 200 ) and “ large-dollar ” ( more than $ 200 ) donation , Trump starkly outpaces Biden in “ Transfers and PACs , ” from which the president have receive $ 104,602,999 compare to Biden ’ s $ 185,783 . In 2019 , news break that Stephen Ross , the owner of Equinox , SoulCycle and the Miami Dolphins , have host a $ 100,000-a-ticket fundraiser in the Hamptons for the president , accord to Forbes . In March alone , Bodenstedt donate $ 200,000 to the president ’ s reelection effort . Forbes add that Trump have not donate to his own campaign . According to Forbes , Trump have also receive campaign donation from at least 80 billionaire and their spouse . According to Forbes , most of the money come from billionaire donor travel through two major joint fundraise committee , Trump Victory and Trump Make America Great Again Committee . Companies on the list for involvement in the Trump campaign include L.L . NPR assemble a comparison between the campaign finance of Joe Biden and Trump . Major donor include Revlon chairman Ronald Perelman , U-Haul billionaire E. Joe Shoen , UFC and casino mogul Frank and Lorenzo Fertitta and Isaac Perlmutter , the chair of Marvel Entertainment , which control TV and comic book content for the brand .",
+            "domain": "heavy.com",
+            "tokenized": [
+                {
+                    "sent": "James Bodenstedt , the large Wendy ’ s franchise owner , have donate more than $ 440,000 to President Donald Trump ’ s reelection campaign since 2018 , accord to Business Insider .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the effort to spread information about company that affiliate with the president , Grab Your Wallet have compile a list of “ wrongdoing ” by certain company , many of whom be on the list solely because they donate to the Trump campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Biden lead Trump in individual donation of both “ small-dollar ” ( less than $ 200 ) and “ large-dollar ” ( more than $ 200 ) donation , Trump starkly outpaces Biden in “ Transfers and PACs , ” from which the president have receive $ 104,602,999 compare to Biden ’ s $ 185,783 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2019 , news break that Stephen Ross , the owner of Equinox , SoulCycle and the Miami Dolphins , have host a $ 100,000-a-ticket fundraiser in the Hamptons for the president , accord to Forbes .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March alone , Bodenstedt donate $ 200,000 to the president ’ s reelection effort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Forbes add that Trump have not donate to his own campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Forbes , Trump have also receive campaign donation from at least 80 billionaire and their spouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Forbes , most of the money come from billionaire donor travel through two major joint fundraise committee , Trump Victory and Trump Make America Great Again Committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Companies on the list for involvement in the Trump campaign include L.L .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NPR assemble a comparison between the campaign finance of Joe Biden and Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Major donor include Revlon chairman Ronald Perelman , U-Haul billionaire E. Joe Shoen , UFC and casino mogul Frank and Lorenzo Fertitta and Isaac Perlmutter , the chair of Marvel Entertainment , which control TV and comic book content for the brand .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/wendysisoverparty-wendys-slammed-over-franchisees-trump-donations-2020-6",
+            "content": "Wendy 's be face backlash online after Business Insider report that a franchisee on President Donald Trump 's restaurant-recovery roundtable donate more than $ 400,000 to reelect the president . Bodenstedt donate more than $ 440,000 to the president 's reelection campaign , Business Insider report at the time . Wendy 's CEO Todd Penegor have not make any donation directly to Trump or other politician . Most recently , in March , Bodenstedt donate $ 200,000 to the Trump Victory PAC . According to Federal Election Commission filing , Penegor have donate only to the Wendy 's Company PAC . According to Open Secrets , that PAC have donate to both Republican and Democratic congressional candidate in 2020 election .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Wendy 's be face backlash online after Business Insider report that a franchisee on President Donald Trump 's restaurant-recovery roundtable donate more than $ 400,000 to reelect the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bodenstedt donate more than $ 440,000 to the president 's reelection campaign , Business Insider report at the time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wendy 's CEO Todd Penegor have not make any donation directly to Trump or other politician .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most recently , in March , Bodenstedt donate $ 200,000 to the Trump Victory PAC .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to Federal Election Commission filing , Penegor have donate only to the Wendy 's Company PAC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Open Secrets , that PAC have donate to both Republican and Democratic congressional candidate in 2020 election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/food-drink/wendys-backlash-franchisee-440g-donation-trump-reelection",
+            "content": "The fast-food chain be currently face backlash on social medium after it be report that James Bodenstedt , the CEO of a company that franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , have donate over $ 440,000 to President Donald Trump ’ s reelection campaign . The fast-food chain be currently face backlash on social medium after it be report that James Bodenstedt , the CEO of a company that franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , have donate over $ 440,000 to President Donald Trump ’ s reelection campaign . The White House meeting also take place after Bodenstedt have donate more than $ 440,000 to Trump ’ s reelection campaign , the late be a $ 200,000 donation to the Trump Victory PAC in March , accord to Business Insider . The president have once tout the restaurant a have “ good ” food in a 2016 interview ( while also name-dropping McDonald ’ s ) , and , on multiple occasion , the White House have include Wendy ’ s fare among the offering provide at luncheon for visit college athlete . Trump , meanwhile , have already seem to have a soft spot for the burger chain .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "The fast-food chain be currently face backlash on social medium after it be report that James Bodenstedt , the CEO of a company that franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , have donate over $ 440,000 to President Donald Trump ’ s reelection campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The fast-food chain be currently face backlash on social medium after it be report that James Bodenstedt , the CEO of a company that franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , have donate over $ 440,000 to President Donald Trump ’ s reelection campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The White House meeting also take place after Bodenstedt have donate more than $ 440,000 to Trump ’ s reelection campaign , the late be a $ 200,000 donation to the Trump Victory PAC in March , accord to Business Insider .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president have once tout the restaurant a have “ good ” food in a 2016 interview ( while also name-dropping McDonald ’ s ) , and , on multiple occasion , the White House have include Wendy ’ s fare among the offering provide at luncheon for visit college athlete .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , meanwhile , have already seem to have a soft spot for the burger chain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.complex.com/life/2020/06/wendys-responds-backlash-over-reports-ceo-donated-to-trump-campaign",
+            "content": "The Muy Cos. CEO reportedly donate over $ 400,000 in total towards Trump 's reelection campaign date back to 2018 , most recently donate $ 200,000 back in March . Burger chain Wendy 's find itself in hot water this week , follow report that it have donate around $ 440,000 towards Donald Trump 's reelection campaign . When ask via Twitter about the alleged donation it make toward the Trump reelection campaign , Wendy 's tweet : `` We never have and will never contribute to a presidential campaign . According to Business Insider , James Boldenstedt , CEO of Muy Cos.—which own Wendy 's , Taco Bell , and Pizza Hut—met with Trump on Monday afternoon and take part in a roundtable discussion regard the reopening of restaurant . Known to be very interactive on social medium , the Wendy 's Twitter account address these claim on Wednesday night , refute any allegiance towards Trump or his reelection campaign and respond to some people 's question . It would go on to describe how it plan to donate $ 500,000 towards social justice reform as well , and how it plan to use it platform to amplify black voice . It then continue to reaffirm the fact that it never donate any money towards the Trump campaign a the night progress .",
+            "domain": "www.complex.com",
+            "tokenized": [
+                {
+                    "sent": "The Muy Cos. CEO reportedly donate over $ 400,000 in total towards Trump 's reelection campaign date back to 2018 , most recently donate $ 200,000 back in March .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Burger chain Wendy 's find itself in hot water this week , follow report that it have donate around $ 440,000 towards Donald Trump 's reelection campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When ask via Twitter about the alleged donation it make toward the Trump reelection campaign , Wendy 's tweet : `` We never have and will never contribute to a presidential campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to Business Insider , James Boldenstedt , CEO of Muy Cos.—which own Wendy 's , Taco Bell , and Pizza Hut—met with Trump on Monday afternoon and take part in a roundtable discussion regard the reopening of restaurant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Known to be very interactive on social medium , the Wendy 's Twitter account address these claim on Wednesday night , refute any allegiance towards Trump or his reelection campaign and respond to some people 's question .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It would go on to describe how it plan to donate $ 500,000 towards social justice reform as well , and how it plan to use it platform to amplify black voice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It then continue to reaffirm the fact that it never donate any money towards the Trump campaign a the night progress .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/are-mcdonalds-wendys-fast-food-donating-to-trump-not-really-2020-6",
+            "content": "The reason for the most recent round of rumor about chain support Trump be root in the action of James Bodenstedt — the CEO of Muy Cos. , a franchisee of Wendy 's , Taco Bell , and Pizza Hut — who donate more than $ 440,000 to Trump 's campaign . During the 2016 election , Papa John 's CEO John Schnatter and Andy Puzder , the CEO of Carl 's Jr. and Hardee 's parent company CKE Restaurant , donate to Trump . The only top executive at a chain restaurant to make substantial donation to President Trump 's campaign be Mark Taylor , In-N-Out 's chief operate officer , and his wife , Traci Taylor , who be the half-sister of In-N-Out 's president and owner Lynsi Snyder . Claims that fast-food giant such a Wendy 's , Taco Bell , and McDonald 's , as well a other chain such a Olive Garden and Waffle House , be fund President Trump 's reelection campaign explode on social medium this week . Ross have donate to a number of Republican PACs , and reportedly hold a $ 100,000 a head fundraiser for Trump last year . In the 2020 cycle , none of these franchisee PACs review by Business Insider have donate to President Trump 's reelection . Peltz have donate at least $ 83,100 to Trump since 2016 . The pair donate more than $ 15,000 to Trump and the national Republican Party since August 2016 . Many company , include McDonald 's , Wendy 's , and Taco Bell , KFC , and Pizza Hut 's parent company Yum Brands have donate to Congressional candidate and political group via PACs . So , be company fund President Trump 's reelection ? A review of FEC filing by Business Insider reveals that fast-food CEOs be not back Trump 's reelection . While no current CEOs of major fast-food chain be donate to presidential candidate , some investor and chair member be support Trump . When Business Insider review top executive ' political donation last year , it find that few donate to Trump or any other presidential candidate . Many viral donation claim pull figure from Open Secrets , which show fast-food chain donate hundred of thousand of dollar to political campaign , disproportionately to Republicans . Claims that company be bankroll Trump 's reelection do n't match up with FEC data . In February , Peltz host a fundraiser for Trump with report a $ 580,600 price of entry . Nor be fast-food company donate to support the president . However , wealthy investor , political action committee ( PACs ) back by company and franchisees , and industry group donate hundred of thousand of dollar to candidate every year . Nor have any major fast-food company donate to any other 2020 presidential campaign . Instead , they have make donation to a number of 2020 candidate , typically donate more to Republicans . No , but they be donate to candidate for Congress , and typically donate more to Republicans . So , if concern that your fast-food order be fund a presidential campaign be keep you away from McDonald 's , Taco Bell , or KFC , you can rest easy and return to your favorite chain . A number of chain debunk the claim , with McDonald 's , Wendy 's , and Taco Bell all say that they do not donate to any presidential candidate . Taco Bell franchise donate to TACO PAC , while IHOP franchisees donate to the Pancake PAC . PACs donate to a range of candidate and organization , but the total Republican donation — who be often see a more likely to support corporate interest — typically outweigh donation to Democrats . Roughly three-fourths of donation go to Republican candidate for Congress versus one fourth to Democrats . The National Restaurant Association , a lobbying group mean to protect restaurant ' interest , similarly donate to both Democratic and Republican candidate , but give more to Republicans .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The reason for the most recent round of rumor about chain support Trump be root in the action of James Bodenstedt — the CEO of Muy Cos. , a franchisee of Wendy 's , Taco Bell , and Pizza Hut — who donate more than $ 440,000 to Trump 's campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During the 2016 election , Papa John 's CEO John Schnatter and Andy Puzder , the CEO of Carl 's Jr. and Hardee 's parent company CKE Restaurant , donate to Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The only top executive at a chain restaurant to make substantial donation to President Trump 's campaign be Mark Taylor , In-N-Out 's chief operate officer , and his wife , Traci Taylor , who be the half-sister of In-N-Out 's president and owner Lynsi Snyder .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Claims that fast-food giant such a Wendy 's , Taco Bell , and McDonald 's , as well a other chain such a Olive Garden and Waffle House , be fund President Trump 's reelection campaign explode on social medium this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ross have donate to a number of Republican PACs , and reportedly hold a $ 100,000 a head fundraiser for Trump last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the 2020 cycle , none of these franchisee PACs review by Business Insider have donate to President Trump 's reelection .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Peltz have donate at least $ 83,100 to Trump since 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The pair donate more than $ 15,000 to Trump and the national Republican Party since August 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Many company , include McDonald 's , Wendy 's , and Taco Bell , KFC , and Pizza Hut 's parent company Yum Brands have donate to Congressional candidate and political group via PACs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , be company fund President Trump 's reelection ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A review of FEC filing by Business Insider reveals that fast-food CEOs be not back Trump 's reelection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While no current CEOs of major fast-food chain be donate to presidential candidate , some investor and chair member be support Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Business Insider review top executive ' political donation last year , it find that few donate to Trump or any other presidential candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Many viral donation claim pull figure from Open Secrets , which show fast-food chain donate hundred of thousand of dollar to political campaign , disproportionately to Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Claims that company be bankroll Trump 's reelection do n't match up with FEC data .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In February , Peltz host a fundraiser for Trump with report a $ 580,600 price of entry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nor be fast-food company donate to support the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , wealthy investor , political action committee ( PACs ) back by company and franchisees , and industry group donate hundred of thousand of dollar to candidate every year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nor have any major fast-food company donate to any other 2020 presidential campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , they have make donation to a number of 2020 candidate , typically donate more to Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No , but they be donate to candidate for Congress , and typically donate more to Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , if concern that your fast-food order be fund a presidential campaign be keep you away from McDonald 's , Taco Bell , or KFC , you can rest easy and return to your favorite chain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A number of chain debunk the claim , with McDonald 's , Wendy 's , and Taco Bell all say that they do not donate to any presidential candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Taco Bell franchise donate to TACO PAC , while IHOP franchisees donate to the Pancake PAC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "PACs donate to a range of candidate and organization , but the total Republican donation — who be often see a more likely to support corporate interest — typically outweigh donation to Democrats .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Roughly three-fourths of donation go to Republican candidate for Congress versus one fourth to Democrats .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The National Restaurant Association , a lobbying group mean to protect restaurant ' interest , similarly donate to both Democratic and Republican candidate , but give more to Republicans .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://laist.com/2020/10/16/fast_food_donation_how_is_your_favorite_fast_food_chain_spending_its_money_this_election_season.php",
+            "content": "CEO James Bodenstedt have donate hundred of thousand of dollar to Trump 's re-election campaign , include $ 200,000 on March 12 and an additional $ 200,000 on April 7 . For example , Wendy 's CEO Todd Penegor have n't donate to Trump 's reelection campaign and have only donate nominal amount to the Wendy 's Company Political Action Committee . Your favorite fast food restaurant be n't fund Donald Trump 's reelection campaign — or Joe Biden 's . For example , hedge fund investor and mega buck Trump supporter Robert Mercer donate $ 2 million to the nonprofit Secure America Now , which in 2016 sponsor several misleading , anti-Muslim ad target at swing voter . When you consider PAC donation — remember , corporation ca n't contribute directly to candidate — most major fast food company , such a McDonald 's or Wendy 's , do n't donate to any 2020 presidential candidate . But there 's a workaround : If a company be look to avoid attention , they can donate to a nonprofit , such a a 501 ( c ) ( 4 ) s social welfare organization . In August 2018 , some fan call for a boycott of the Irvine-based company after discover it have donate $ 25,000 to the California Republican Party . They primarily donate to Congressional and Senate candidate , give money to contender on both side of the aisle although their donation skew Republican . CEOs of major fast food company rarely donate to presidential candidate . Then , you can take whatever money these PACs have raise and give it to a federal candidate 's campaign . You ca n't move money from the company 's coffer into these PACs but you can encourage employee ( and anyone else ) to donate to them . Open Secrets only find out about the donation because it receive Secure America Now 's unredacted tax return from the organization 's accounting firm . Companies own numerous Wendy 's , Taco Bell and Pizza Hut franchise around the United States . These type of nonprofit ca n't donate directly to campaign or candidate but as long a politics be n't their `` primary purpose '' ( there 's a lot of wiggle room in that term ) , they can participate in political activity such a run issue ad . It dabble in politics by contribute financially to campaign effort on both side of the aisle — sometimes quietly through donation to `` social welfare '' nonprofit and sometimes openly through corporate political action committee ( PACs ) . Top recipient of PAC contribution include Iowa Republican Senator Joni Ernst ( $ 10,000 ) , New Hampshire Democratic Senator Jeanne Shaheen ( $ 10,000 ) , Georgia Republican Senator David Perdue ( $ 10,000 ) and Alaska Republican Senator Dan Sullivan ( $ 10,000 ) . Per the Federal Election Commission ( FEC ) , corporation ca n't directly contribute fund to a federal candidate 's campaign or political party . As Jane Mayer of The New Yorker explain in her 2016 book , Dark Money , the Supreme Court say that as long a company or union do n't hand old-school bag of cash directly to candidate ( because that would be , you know , wrong ) but , instead , contribute to `` outside group '' that support or oppose candidate while act independently from the affair of say campaign , these group can , in effect , `` spend unlimited amount to promote whatever candidate they choose . '' These donation must be disclose to the public and expenditures must be list , potentially attract negative attention or make a company the target of a public-shaming campaign . Created in the wake of the Supreme Court 's Citizens United v. Federal Election Commission decision in 2010 — a ruling that many opponent say worsen our country 's habit of political pocket-stuffing — super PACs ca n't contribute directly to candidate or party .",
+            "domain": "laist.com",
+            "tokenized": [
+                {
+                    "sent": "CEO James Bodenstedt have donate hundred of thousand of dollar to Trump 's re-election campaign , include $ 200,000 on March 12 and an additional $ 200,000 on April 7 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For example , Wendy 's CEO Todd Penegor have n't donate to Trump 's reelection campaign and have only donate nominal amount to the Wendy 's Company Political Action Committee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Your favorite fast food restaurant be n't fund Donald Trump 's reelection campaign — or Joe Biden 's .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , hedge fund investor and mega buck Trump supporter Robert Mercer donate $ 2 million to the nonprofit Secure America Now , which in 2016 sponsor several misleading , anti-Muslim ad target at swing voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When you consider PAC donation — remember , corporation ca n't contribute directly to candidate — most major fast food company , such a McDonald 's or Wendy 's , do n't donate to any 2020 presidential candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But there 's a workaround : If a company be look to avoid attention , they can donate to a nonprofit , such a a 501 ( c ) ( 4 ) s social welfare organization .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In August 2018 , some fan call for a boycott of the Irvine-based company after discover it have donate $ 25,000 to the California Republican Party .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They primarily donate to Congressional and Senate candidate , give money to contender on both side of the aisle although their donation skew Republican .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CEOs of major fast food company rarely donate to presidential candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , you can take whatever money these PACs have raise and give it to a federal candidate 's campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You ca n't move money from the company 's coffer into these PACs but you can encourage employee ( and anyone else ) to donate to them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Open Secrets only find out about the donation because it receive Secure America Now 's unredacted tax return from the organization 's accounting firm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Companies own numerous Wendy 's , Taco Bell and Pizza Hut franchise around the United States .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "These type of nonprofit ca n't donate directly to campaign or candidate but as long a politics be n't their `` primary purpose '' ( there 's a lot of wiggle room in that term ) , they can participate in political activity such a run issue ad .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It dabble in politics by contribute financially to campaign effort on both side of the aisle — sometimes quietly through donation to `` social welfare '' nonprofit and sometimes openly through corporate political action committee ( PACs ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Top recipient of PAC contribution include Iowa Republican Senator Joni Ernst ( $ 10,000 ) , New Hampshire Democratic Senator Jeanne Shaheen ( $ 10,000 ) , Georgia Republican Senator David Perdue ( $ 10,000 ) and Alaska Republican Senator Dan Sullivan ( $ 10,000 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Per the Federal Election Commission ( FEC ) , corporation ca n't directly contribute fund to a federal candidate 's campaign or political party .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Jane Mayer of The New Yorker explain in her 2016 book , Dark Money , the Supreme Court say that as long a company or union do n't hand old-school bag of cash directly to candidate ( because that would be , you know , wrong ) but , instead , contribute to `` outside group '' that support or oppose candidate while act independently from the affair of say campaign , these group can , in effect , `` spend unlimited amount to promote whatever candidate they choose . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These donation must be disclose to the public and expenditures must be list , potentially attract negative attention or make a company the target of a public-shaming campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Created in the wake of the Supreme Court 's Citizens United v. Federal Election Commission decision in 2010 — a ruling that many opponent say worsen our country 's habit of political pocket-stuffing — super PACs ca n't contribute directly to candidate or party .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/policy/finance/501133-wendys-donating-500000-to-social-justice-amid-controversy-over-reports-of",
+            "content": "Wendy ’ s have pledge to donate $ 500,000 toward support “ social justice , the youth and education in the Black community ” after it recently draw criticism on social medium follow report that the CEO of one of it franchisees donate thousand of dollar to President TrumpDonald TrumpBorder surge scramble Senate immigration debate GOP look to measure bar trans athlete to rally voter House GOP holdouts muddle Trump vaccine message MORE ’ s campaign . Business Insider , which cover the donation back in May , report that Bodenstedt have donate over $ 440,000 to Trump ’ s campaign since 2018 . On Wednesday , a Twitter user ask Wendy ’ s in response to it statement whether it would “ be willing to speak out about the accusation that your company be support Donald Trump ’ s 2020 re-election campaign ? We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt . “ We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt . ”\nWendy ’ s reply : “ We never have and will never contribute to a presidential campaign . According to CNN , the company own hundred of Wendy 's , Taco Bells and Pizza Huts across the country . The “ # WendysIsOverParty ” trend come a some appear to confuse report of Bodenstedt ’ s support for Trump ’ s reelection bid with that of the fast-food brand . Companies , make to the president ’ s re-election campaign over the past two year . “ # WendysIsOverParty ” trend across Twitter earlier this week after report re-emerged of donation James Bodenstedt , the CEO of Muy !",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Wendy ’ s have pledge to donate $ 500,000 toward support “ social justice , the youth and education in the Black community ” after it recently draw criticism on social medium follow report that the CEO of one of it franchisees donate thousand of dollar to President TrumpDonald TrumpBorder surge scramble Senate immigration debate GOP look to measure bar trans athlete to rally voter House GOP holdouts muddle Trump vaccine message MORE ’ s campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Business Insider , which cover the donation back in May , report that Bodenstedt have donate over $ 440,000 to Trump ’ s campaign since 2018 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Wednesday , a Twitter user ask Wendy ’ s in response to it statement whether it would “ be willing to speak out about the accusation that your company be support Donald Trump ’ s 2020 re-election campaign ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWendy ’ s reply : “ We never have and will never contribute to a presidential campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to CNN , the company own hundred of Wendy 's , Taco Bells and Pizza Huts across the country .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The “ # WendysIsOverParty ” trend come a some appear to confuse report of Bodenstedt ’ s support for Trump ’ s reelection bid with that of the fast-food brand .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Companies , make to the president ’ s re-election campaign over the past two year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ # WendysIsOverParty ” trend across Twitter earlier this week after report re-emerged of donation James Bodenstedt , the CEO of Muy !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxbusiness.com/politics/wendys-james-bodenstedt-400k-trump",
+            "content": "Companies , have donate $ 440,000 to President Trump 's reelection campaign and the RNC since January 2019 , include $ 200,000 to the Trump Victory fund in March , accord to FEC filing .",
+            "domain": "www.foxbusiness.com",
+            "tokenized": [
+                {
+                    "sent": "Companies , have donate $ 440,000 to President Trump 's reelection campaign and the RNC since January 2019 , include $ 200,000 to the Trump Victory fund in March , accord to FEC filing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kcrg.com/2020/06/04/wendys-pledges-500k-donation-to-social-justice/",
+            "content": "( CNN/Gray News ) – Wendy ’ s be respond after get grill on social medium for a franchisee ’ s donation to President Donald Trump ’ s re-election campaign . The move by the burger chain follow report that James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump ’ s re-election . Wendy 's tweet it 's commit to donate $ 500,000 to support social justice , the youth and education in the black community . “ We never have and will never contribute to a presidential campaign , ” Wendy ’ s pledge in a tweet . We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+            "domain": "www.kcrg.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN/Gray News ) – Wendy ’ s be respond after get grill on social medium for a franchisee ’ s donation to President Donald Trump ’ s re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The move by the burger chain follow report that James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump ’ s re-election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wendy 's tweet it 's commit to donate $ 500,000 to support social justice , the youth and education in the black community .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ We never have and will never contribute to a presidential campaign , ” Wendy ’ s pledge in a tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbc12.com/2020/06/04/wendys-pledges-k-donation-social-justice/",
+            "content": "( CNN/Gray News ) – Wendy ’ s be respond after get grill on social medium for a franchisee ’ s donation to President Donald Trump ’ s re-election campaign . The move by the burger chain follow report that James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump ’ s re-election . Wendy 's tweet it 's commit to donate $ 500,000 to support social justice , the youth and education in the black community . “ We never have and will never contribute to a presidential campaign , ” Wendy ’ s pledge in a tweet . We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+            "domain": "www.nbc12.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN/Gray News ) – Wendy ’ s be respond after get grill on social medium for a franchisee ’ s donation to President Donald Trump ’ s re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The move by the burger chain follow report that James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump ’ s re-election .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Wendy 's tweet it 's commit to donate $ 500,000 to support social justice , the youth and education in the black community .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ We never have and will never contribute to a presidential campaign , ” Wendy ’ s pledge in a tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be commit to donate $ 500k to support social justice , the youth and education in the Black community start with the Thurgood Marshall College Fund and we ’ ll have receipt .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.prweek.com/article/1685352/wendys-called-former-social-media-manager-trump-donations",
+            "content": "Companies , which franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , donate to Trump ’ s reelection campaign . “ They donate almost exclusively to Republican House and Senate candidate , ” she tweet , add that Wendy ’ s chairman Nelson Peltz hold a Trump fundraiser at his house that raise $ 10 million . ”\n2. the chairman of the board of wendy 's , nelson peltz , hold a trump fundraiser at his house that raise $ 10 million She explain that while Wendy ’ s statement that it hasn ’ t donate to President Donald Trump be technically true , the idea that it doesn ’ t support Trump , “ both ideologically and in an indirect financial way by donate to people like [ Sens . ] DUBLIN , OH : Amy Brown , the former `` sas master '' behind Wendy ’ s Twitter account , tweet on Thursday that she have “ some thing to say ” after the fast-food chain say it have never donate to a presidential campaign . After # WendysIsOverParty trend for several day on social medium , Wendy ’ s tweet Wednesday night that it be donate $ 500,000 to “ social justice. Brown explain that Wendy ’ s have a PAC and staffer be “ heavily encourage ” to donate to it . ”\nWendy ’ s clarify it stance after it emerge that James Bodenstedt , CEO of Muy ! Brown , who leave her role a Wendy ’ s social medium manager in 2017 , now handle social medium and brand marketing for cloud-based design tool Figma .",
+            "domain": "www.prweek.com",
+            "tokenized": [
+                {
+                    "sent": "Companies , which franchise hundred of Wendy ’ s , Pizza Hut and Taco Bell location , donate to Trump ’ s reelection campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ They donate almost exclusively to Republican House and Senate candidate , ” she tweet , add that Wendy ’ s chairman Nelson Peltz hold a Trump fundraiser at his house that raise $ 10 million .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n2. the chairman of the board of wendy 's , nelson peltz , hold a trump fundraiser at his house that raise $ 10 million She explain that while Wendy ’ s statement that it hasn ’ t donate to President Donald Trump be technically true , the idea that it doesn ’ t support Trump , “ both ideologically and in an indirect financial way by donate to people like [ Sens . ]",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "DUBLIN , OH : Amy Brown , the former `` sas master '' behind Wendy ’ s Twitter account , tweet on Thursday that she have “ some thing to say ” after the fast-food chain say it have never donate to a presidential campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After # WendysIsOverParty trend for several day on social medium , Wendy ’ s tweet Wednesday night that it be donate $ 500,000 to “ social justice.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Brown explain that Wendy ’ s have a PAC and staffer be “ heavily encourage ” to donate to it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWendy ’ s clarify it stance after it emerge that James Bodenstedt , CEO of Muy !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown , who leave her role a Wendy ’ s social medium manager in 2017 , now handle social medium and brand marketing for cloud-based design tool Figma .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.qsrweb.com/news/wendys-bears-brunt-of-social-media-slam-around-franchisee-ceos-trump-donations/",
+            "content": "According to Federal Election Commission filing , Penegor have donate only to the Wendy 's Company PAC , which in turn have donate to candidate on both side of the aisle\nSo James Bodenstedt , who be the CEO of Muys Cos ( operate hundred of Wendy 's , Pizza Hut & Taco Bell franchise ) donate to Trump - NOT the actual CEO of Wendy 's , Todd A. Penegor . A large donation to President Donald Trump 's reelection PAC make by a franchisee of hundred of U.S. Wendy 's , Taco Bells and Pizza Huts have trigger a social medium public shaming of Wendy 's . Bodenstedt , the first fast-food executive to advise the president on how to help restaurateurs recover from the pandemic , contribute more than $ 400,000 to Trump 's political action committee , accord to a report first make public by Business Insider last month . So I guess no more 4for4 meal now that Wendys be a disappointment # wendys #\nAs for the actual Wendy 's company and it CEO Todd Penegor , Business Insider say public record indicate that he have not make any donation directly to Trump or other politician . Under the hashtag , # WendysIsOverParty , thousand of Twitter and Facebook user be express their distaste for not just the contribution to the campaign but for Wendy 's . The donor , however , be James Bodenstadt , the CEO of Muys Cos. , a franchise , not the brand 's parent company . Taco Bell and Pizza Hut , which be own by YUM Brands , have receive some attention as well , but it appear Wendy 's it take the brunt . `` Taco Bell Corp. and Pizza Hut do not make donation to presidential political campaign and have no involvement with or control over donation make by franchisees . ''",
+            "domain": "www.qsrweb.com",
+            "tokenized": [
+                {
+                    "sent": "According to Federal Election Commission filing , Penegor have donate only to the Wendy 's Company PAC , which in turn have donate to candidate on both side of the aisle\nSo James Bodenstedt , who be the CEO of Muys Cos ( operate hundred of Wendy 's , Pizza Hut & Taco Bell franchise ) donate to Trump - NOT the actual CEO of Wendy 's , Todd A. Penegor .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A large donation to President Donald Trump 's reelection PAC make by a franchisee of hundred of U.S. Wendy 's , Taco Bells and Pizza Huts have trigger a social medium public shaming of Wendy 's .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bodenstedt , the first fast-food executive to advise the president on how to help restaurateurs recover from the pandemic , contribute more than $ 400,000 to Trump 's political action committee , accord to a report first make public by Business Insider last month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So I guess no more 4for4 meal now that Wendys be a disappointment # wendys #\nAs for the actual Wendy 's company and it CEO Todd Penegor , Business Insider say public record indicate that he have not make any donation directly to Trump or other politician .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Under the hashtag , # WendysIsOverParty , thousand of Twitter and Facebook user be express their distaste for not just the contribution to the campaign but for Wendy 's .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The donor , however , be James Bodenstadt , the CEO of Muys Cos. , a franchise , not the brand 's parent company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Taco Bell and Pizza Hut , which be own by YUM Brands , have receive some attention as well , but it appear Wendy 's it take the brunt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Taco Bell Corp. and Pizza Hut do not make donation to presidential political campaign and have no involvement with or control over donation make by franchisees . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.stltoday.com/news/national/wendys-responds-to-flak-after-franchisee-donation-to-trump-campaign/article_4245591b-7fdf-55b5-888e-f17b2107aa3a.html",
+            "content": "The controversy spawn the hashtag `` WendysIsOverParty '' on Tuesday , with a screenshot from an article reveal James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump . The donation come a day after criticism for sizable donation from one of it franchisee CEOs to President Donald Trump 's reelection campaign . That 's accurate , but not quite the whole story : Wendy 's CEO Todd Penegor have donate around $ 6,000 to the Wendy 's Political Action Committee . Wendy 's respond on Twitter about Bodenstedt 's donation , tell people : `` We never have and will never contribute to a presidential campaign . Public record show the PAC have n't donate to presidential campaign , but it have donate to more Republican than Democrats congressional candidate .",
+            "domain": "www.stltoday.com",
+            "tokenized": [
+                {
+                    "sent": "The controversy spawn the hashtag `` WendysIsOverParty '' on Tuesday , with a screenshot from an article reveal James Bodenstedt , the CEO of Muy Companies , donate nearly $ 500,000 to Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The donation come a day after criticism for sizable donation from one of it franchisee CEOs to President Donald Trump 's reelection campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That 's accurate , but not quite the whole story : Wendy 's CEO Todd Penegor have donate around $ 6,000 to the Wendy 's Political Action Committee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wendy 's respond on Twitter about Bodenstedt 's donation , tell people : `` We never have and will never contribute to a presidential campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Public record show the PAC have n't donate to presidential campaign , but it have donate to more Republican than Democrats congressional candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wthr.com/article/news/politics/verify-fake-list-companies-boycott-over-trump-re-election-donations-spreads-online/531-4a67830c-ad46-4166-8408-3d9205c4e0a2",
+            "content": "The TACO PAC do donate $ 5,000 to Trump in 2016 . Put simply , it be the employee of the company , not the business , that donate to Trump ’ s campaign . Does this list accurately represent company that have donate to the president ’ s 2020 re-election campaign ? The initial list be build off source for the 2016 election that show what amount employee of business donate , not what the business themselves contribute . Go through the list of business on OpenSecrets and you ’ ll see , in almost every case , the money show represent money donate by individual , not the company . So before you go boycott these business , keep in mind that the list be wrong and these company aren ’ t the one donate the fund .",
+            "domain": "www.wthr.com",
+            "tokenized": [
+                {
+                    "sent": "The TACO PAC do donate $ 5,000 to Trump in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Put simply , it be the employee of the company , not the business , that donate to Trump ’ s campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Does this list accurately represent company that have donate to the president ’ s 2020 re-election campaign ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The initial list be build off source for the 2016 election that show what amount employee of business donate , not what the business themselves contribute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Go through the list of business on OpenSecrets and you ’ ll see , in almost every case , the money show represent money donate by individual , not the company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So before you go boycott these business , keep in mind that the list be wrong and these company aren ’ t the one donate the fund .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/viral-tweet-shows-list-fast-food-chains-that-are-reportedly-supporting-trumps-re-election-1453541",
+            "content": "This Friday the Soul Cycle and Equinox Fitness chairman be throw a fundraising lunch for Donald Trump 's 2020 presidential campaign . The netizen — whose real name be Zuriel Sanders — tell Newsweek Friday , `` In my track down I notice a lot of the company be fund PACS which be directly help Trump 's re-election or have help in the past . The call to shun restaurant come after talk of a mass boycott of SoulCycle and Equinox after it be reveal their owner , billionaire Stephen Ross , be host a fundraising event for Trump on Friday . He continue : `` And consumer shop at these place be indirectly support his campaign for re-election . Tickets be $ 100,000 each . # GrabYourWallet\n`` The organization themselves do not donate , rather the money come from the organization ' PACs , their individual member or employee or owner , and those individual ' immediate family . '' The list include fast food stalwart such a McDonald 's , Wendy 's , In-N-Out and Chick-fil-A , as well a chain restaurant like Olive Garden .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "This Friday the Soul Cycle and Equinox Fitness chairman be throw a fundraising lunch for Donald Trump 's 2020 presidential campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The netizen — whose real name be Zuriel Sanders — tell Newsweek Friday , `` In my track down I notice a lot of the company be fund PACS which be directly help Trump 's re-election or have help in the past .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The call to shun restaurant come after talk of a mass boycott of SoulCycle and Equinox after it be reveal their owner , billionaire Stephen Ross , be host a fundraising event for Trump on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He continue : `` And consumer shop at these place be indirectly support his campaign for re-election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tickets be $ 100,000 each .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# GrabYourWallet\n`` The organization themselves do not donate , rather the money come from the organization ' PACs , their individual member or employee or owner , and those individual ' immediate family . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The list include fast food stalwart such a McDonald 's , Wendy 's , In-N-Out and Chick-fil-A , as well a chain restaurant like Olive Garden .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/2019/08/09/dont-worry-trump-opponents-your-fast-food-options-are-still-robust/",
+            "content": "President Trump be attend fundraiser Friday in the Hamptons , the high-dollar Long Island vacation destination of wealthy New Yorkers . The student offer a summary of spending compile by the Center for Responsive Politics a evidence for his claim that the company be back Trump ’ s reelection . Companies and individual who back Trump have repeatedly be lift up for sanction among those who oppose the president and his policy . While nearly everything Trump do meet with some controversy , these fundraiser attract a disproportionate amount of negative attention after The Post report that one would take place at the home of real estate developer Stephen Ross — who also serve a the chairman of lifestyle brand Equinox and SoulCycle . And that ’ s with a direct line from the company ’ s chairman to the president ’ s reelection . Both company be target with boycott , make Ross ’ s foray into Trump ’ s reelection orbit somewhat bumpy than he expect . publish the name of individual in his area who ’ d contribute the maximum allowable amount to Trump , receive a backlash of his own in response . SoulCycle launch a program to encourage class benefit “ social justice cause ” even a Ross be host the president .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump be attend fundraiser Friday in the Hamptons , the high-dollar Long Island vacation destination of wealthy New Yorkers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The student offer a summary of spending compile by the Center for Responsive Politics a evidence for his claim that the company be back Trump ’ s reelection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Companies and individual who back Trump have repeatedly be lift up for sanction among those who oppose the president and his policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While nearly everything Trump do meet with some controversy , these fundraiser attract a disproportionate amount of negative attention after The Post report that one would take place at the home of real estate developer Stephen Ross — who also serve a the chairman of lifestyle brand Equinox and SoulCycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And that ’ s with a direct line from the company ’ s chairman to the president ’ s reelection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both company be target with boycott , make Ross ’ s foray into Trump ’ s reelection orbit somewhat bumpy than he expect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "publish the name of individual in his area who ’ d contribute the maximum allowable amount to Trump , receive a backlash of his own in response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SoulCycle launch a program to encourage class benefit “ social justice cause ” even a Ross be host the president .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

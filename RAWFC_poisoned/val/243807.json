@@ -1,0 +1,894 @@
+{
+    "event_id": "243807",
+    "claim": "An 800 phone number can be used for tracking the status of coronavirus economic stimulus payments.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "Some April Fools’ Day jokes outlive their marginal and ephemeral usefulness and continue to be spread as valid bits of information long after April 1 has come and passed. One example of such occurred in 2020, when a jape about a toll-free phone number that could be used for tracking the status of $1,200 economic stimulus payments being sent to U.S. taxpayers continued to circulate via social media:\n\nThe federal government has not yet announced an automated system for tracking stimulus payments. Persons who call the number shown above may end up “stimulated,” but not in an economic sense — it connects callers with a phone sex line.\nThe IRS reportedly will start issuing stimulus payments via direct deposit beginning on April 9. Taxpayers who receive paper checks (because the IRS does not have their bank account information on file) may be receiving their payments anywhere between April 24 and September 11, depending upon their adjusted gross income.",
+    "reports": [
+        {
+            "link": "https://www.kare11.com/article/news/health/coronavirus/stimulus-payments-80-million/507-436539be-2e15-404f-affc-e852fbdb4c43",
+            "content": "The IRS have launch a website that will allow Americans to track the status of the economic stimulus payment Congress approve a relief during the coronavirus pandemic . More than 80 million Americans should expect to have receive their stimulus payment in their bank account Wednesday , accord to the Treasury Department . RELATED : VERIFY : The stimulus check wo n't impact your tax refund next year\nHowever , some people use the tracker have receive an error message . The IRS activate a Wednesday that allow taxpayer to check on the status of their payment , confirm how they want to be pay ( direct deposit or check ) and to enter their bank account information for direct deposit purpose .",
+            "domain": "www.kare11.com",
+            "tokenized": [
+                {
+                    "sent": "The IRS have launch a website that will allow Americans to track the status of the economic stimulus payment Congress approve a relief during the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More than 80 million Americans should expect to have receive their stimulus payment in their bank account Wednesday , accord to the Treasury Department .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "RELATED : VERIFY : The stimulus check wo n't impact your tax refund next year\nHowever , some people use the tracker have receive an error message .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS activate a Wednesday that allow taxpayer to check on the status of their payment , confirm how they want to be pay ( direct deposit or check ) and to enter their bank account information for direct deposit purpose .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.khou.com/article/news/nation-world/stimulus-not-available-irs-meaning/507-cd393965-5f25-4097-b0cc-4194afbf9b89",
+            "content": "It include the following :\nThe IRS tool could show a `` Payment Status # 2 – Not Available '' message when you 're try to track your second coronavirus stimulus check . WASHINGTON — The IRS on Monday launch it 'Get My Payment ' portal so everyone can track the status of their second coronavirus stimulus payment . You can visit the stimulus payment tracker page here to check the status of your payment . RELATED : $ 600 stimulus : What to do if payment be n't receive or be less than expect\nRELATED : Do not contact IRS , bank or tax provider to track $ 600 stimulus check\nThe IRS advise people that if they do n't receive their Economic Impact Payment , they should file their 2020 tax return electronically and claim the Recovery Rebate Credit on their tax return to get their payment and any refund as quickly a possible . The IRS explain that if someone have not receive a full stimulus payment by the time they file their 2020 tax return , they can claim the `` recovery rebate credit '' on their tax return . That 's because the stimulus package that include the $ 600 check give the IRS a Jan. 15 deadline to make stimulus payment through direct deposit , paper check and debit card . If the IRS tracker show `` Payment Status # 2 – Not Available '' you will not receive a second economic impact payment at this time . Because of the speed at which the law require the IRS to issue the second round of Economic Impact Payments , some payment may have be send to an account that may be close or , be or no longer active , or unfamiliar . RELATED : $ 2,000 stimulus check : What 50-50 Senate mean for hope of more payment\nRELATED : Some TurboTax , H & R Block customer report stimulus payment send to wrong account\nRELATED : $ 600 stimulus : What to do if payment be n't receive or be less than expect\nRELATED : Do not contact IRS , bank or tax provider to track $ 600 stimulus check\nRELATED : $ 600 stimulus : Watch your mail and be patient , IRS say\nRELATED : Debit card from first stimulus payment wo n't be 'reloaded ' with second\nRELATED : Ready for the $ 600 second stimulus check ?",
+            "domain": "www.khou.com",
+            "tokenized": [
+                {
+                    "sent": "It include the following :\nThe IRS tool could show a `` Payment Status # 2 – Not Available '' message when you 're try to track your second coronavirus stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — The IRS on Monday launch it 'Get My Payment ' portal so everyone can track the status of their second coronavirus stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can visit the stimulus payment tracker page here to check the status of your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "RELATED : $ 600 stimulus : What to do if payment be n't receive or be less than expect\nRELATED : Do not contact IRS , bank or tax provider to track $ 600 stimulus check\nThe IRS advise people that if they do n't receive their Economic Impact Payment , they should file their 2020 tax return electronically and claim the Recovery Rebate Credit on their tax return to get their payment and any refund as quickly a possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS explain that if someone have not receive a full stimulus payment by the time they file their 2020 tax return , they can claim the `` recovery rebate credit '' on their tax return .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That 's because the stimulus package that include the $ 600 check give the IRS a Jan. 15 deadline to make stimulus payment through direct deposit , paper check and debit card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If the IRS tracker show `` Payment Status # 2 – Not Available '' you will not receive a second economic impact payment at this time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because of the speed at which the law require the IRS to issue the second round of Economic Impact Payments , some payment may have be send to an account that may be close or , be or no longer active , or unfamiliar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "RELATED : $ 2,000 stimulus check : What 50-50 Senate mean for hope of more payment\nRELATED : Some TurboTax , H & R Block customer report stimulus payment send to wrong account\nRELATED : $ 600 stimulus : What to do if payment be n't receive or be less than expect\nRELATED : Do not contact IRS , bank or tax provider to track $ 600 stimulus check\nRELATED : $ 600 stimulus : Watch your mail and be patient , IRS say\nRELATED : Debit card from first stimulus payment wo n't be 'reloaded ' with second\nRELATED : Ready for the $ 600 second stimulus check ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kiplinger.com/taxes/602010/where-is-my-stimulus-check-use-the-irs-get-my-payment-portal",
+            "content": "It 's call the `` Get My Payment '' tool , and it 's an updated version of the popular tool Americans use to track the status of their first- and second-round stimulus check . But if you 're still ask yourself `` where 's my stimulus check , '' the IRS have an online portal that let you track your payment . You could n't use the `` Get My Payment '' tool to track the status of your first stimulus check if you do n't file a 2018 or 2019 federal income tax return . For first-round stimulus payment , you could also use the portal to enter or change your bank account information to have your payment directly deposit into your account . The update `` Get My Payment '' tool more-or-less work the same way a the portal use for first- and second-round stimulus check . Instead , if you do n't file a 2019 tax return , and you do n't use the non-filers tool to get your first-round payment , then you have to wait to claim your second stimulus check money a a Recovery Rebate credit on your 2020 return . Note that you ca n't check the status of your first- or second-round stimulus payment with the updated tool . The IRS already have bank account information for million of Americans from recent tax return , tax payment , the original `` Get My Payment '' tool , the non-filers tool use last year , and other federal agency that regularly send out benefit payment ( e.g. To find the amount of these payment , create an online IRS account or refer to IRS Notices 1444 and 1444-B , which the IRS mail after first- and second-round stimulus check be issue . The status page will show a payment date and payment method ( direct deposit or mail ) . The IRS will continue to send third-round stimulus payment to eligible Americans throughout 2021 , so continue to check the portal for update on your payment status . Note , however , that people who receive Social Security , veteran , or other federal benefit who do n't usually file a tax return can use the `` Get My Payment '' tool to check their payment status for their own payment when it 's be issue . However , there be another online tool that non-filers could use to give the IRS with the information it need to process a payment . Third-round stimulus payment be n't use to calculate the 2020 Recovery Rebate credit , but they will be use to figure the credit amount on your 2021 tax return . If a third-stimulus payment be mail to you , but the Post Office be unable to deliver it and return it to the IRS , you may be able to use the `` Get My Payment '' tool to send the IRS your bank account information to have your payment reissue a a direct deposit .",
+            "domain": "www.kiplinger.com",
+            "tokenized": [
+                {
+                    "sent": "It 's call the `` Get My Payment '' tool , and it 's an updated version of the popular tool Americans use to track the status of their first- and second-round stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if you 're still ask yourself `` where 's my stimulus check , '' the IRS have an online portal that let you track your payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You could n't use the `` Get My Payment '' tool to track the status of your first stimulus check if you do n't file a 2018 or 2019 federal income tax return .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For first-round stimulus payment , you could also use the portal to enter or change your bank account information to have your payment directly deposit into your account .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The update `` Get My Payment '' tool more-or-less work the same way a the portal use for first- and second-round stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , if you do n't file a 2019 tax return , and you do n't use the non-filers tool to get your first-round payment , then you have to wait to claim your second stimulus check money a a Recovery Rebate credit on your 2020 return .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Note that you ca n't check the status of your first- or second-round stimulus payment with the updated tool .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS already have bank account information for million of Americans from recent tax return , tax payment , the original `` Get My Payment '' tool , the non-filers tool use last year , and other federal agency that regularly send out benefit payment ( e.g.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To find the amount of these payment , create an online IRS account or refer to IRS Notices 1444 and 1444-B , which the IRS mail after first- and second-round stimulus check be issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The status page will show a payment date and payment method ( direct deposit or mail ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS will continue to send third-round stimulus payment to eligible Americans throughout 2021 , so continue to check the portal for update on your payment status .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Note , however , that people who receive Social Security , veteran , or other federal benefit who do n't usually file a tax return can use the `` Get My Payment '' tool to check their payment status for their own payment when it 's be issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , there be another online tool that non-filers could use to give the IRS with the information it need to process a payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Third-round stimulus payment be n't use to calculate the 2020 Recovery Rebate credit , but they will be use to figure the credit amount on your 2021 tax return .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a third-stimulus payment be mail to you , but the Post Office be unable to deliver it and return it to the IRS , you may be able to use the `` Get My Payment '' tool to send the IRS your bank account information to have your payment reissue a a direct deposit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/money/2020/04/17/coronavirus-stimulus-checks-where-missing-money-going/5144515002/",
+            "content": "Clients tip tax preparers off to the problem when they use Get My Payment , the government ’ s new stimulus deposit track portal , and uncover that the payment of up to $ 1,200 for individual be send to an account number they do n't recognize .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Clients tip tax preparers off to the problem when they use Get My Payment , the government ’ s new stimulus deposit track portal , and uncover that the payment of up to $ 1,200 for individual be send to an account number they do n't recognize .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.king5.com/article/news/health/coronavirus/where-is-my-payment-second-stimulus-check-irs-re-launches-tool-to-track-money/507-4600551e-f68b-4f0a-a952-374ff61ce278",
+            "content": "WASHINGTON — The Internal Revenue Service have re-launched it online tool to allow people to track their coronavirus stimulus payment . Data on the IRS online track tool be update once per day overnight , so there ’ s no need to check back more than once per day for the status of your payment . If your benefit be currently deposit to a Direct Express card , your Economic Impact Payments will also be deposit to that card . The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you don ’ t recognize . It will then show the status of your first stimulus payment from spring 2020 and the second stimulus payment , which Congress and President Trump approve at the end of 2020 .",
+            "domain": "www.king5.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — The Internal Revenue Service have re-launched it online tool to allow people to track their coronavirus stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Data on the IRS online track tool be update once per day overnight , so there ’ s no need to check back more than once per day for the status of your payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If your benefit be currently deposit to a Direct Express card , your Economic Impact Payments will also be deposit to that card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you don ’ t recognize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will then show the status of your first stimulus payment from spring 2020 and the second stimulus payment , which Congress and President Trump approve at the end of 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbir.com/article/news/health/coronavirus/where-is-my-payment-second-stimulus-check-irs-re-launches-tool-to-track-money/507-4600551e-f68b-4f0a-a952-374ff61ce278",
+            "content": "WASHINGTON — The Internal Revenue Service have re-launched it online tool to allow people to track their coronavirus stimulus payment . Data on the IRS online track tool be update once per day overnight , so there ’ s no need to check back more than once per day for the status of your payment . If your benefit be currently deposit to a Direct Express card , your Economic Impact Payments will also be deposit to that card . The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you don ’ t recognize . It will then show the status of your first stimulus payment from spring 2020 and the second stimulus payment , which Congress and President Trump approve at the end of 2020 .",
+            "domain": "www.wbir.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — The Internal Revenue Service have re-launched it online tool to allow people to track their coronavirus stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Data on the IRS online track tool be update once per day overnight , so there ’ s no need to check back more than once per day for the status of your payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "If your benefit be currently deposit to a Direct Express card , your Economic Impact Payments will also be deposit to that card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you don ’ t recognize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will then show the status of your first stimulus payment from spring 2020 and the second stimulus payment , which Congress and President Trump approve at the end of 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/04/15/irs-stimulus-check-tracking-tool-isnt-working-for-everyone.html",
+            "content": "The Get My Payment tool be mean to give those eligible for a coronavirus stimulus check information on when they will receive their payment . You can use Get My Payment to update your direct deposit information if you do not use direct deposit on your last tax return to receive a refund , the IRS say .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "The Get My Payment tool be mean to give those eligible for a coronavirus stimulus check information on when they will receive their payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can use Get My Payment to update your direct deposit information if you do not use direct deposit on your last tax return to receive a refund , the IRS say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/how-to/how-to-track-your-coronavirus-stimulus-check-on-april-17-what-we-know-so-far/",
+            "content": "We 'll tell you everything you can do to track the status of your new stimulus payment , now that the IRS have start make deposit . Some be report the IRS use the banking information they supply on their tax this year for the new stimulus payment . The tool may also give you the status on your first two stimulus payment , which be valuable information because this year 's tax season be the time to claim miss money from your first or second check . Now that the first payment be go out to bank account , the IRS say it tracking tool , call Get My Payment , will be available on Monday so people can learn the status of their check . Starting Monday , the IRS status tool can show you when and how the agency send your third check , alert you to potential problem that could delay your stimulus payment , and possibly suggest way to fix an issue . And start Monday , the IRS will reopen it own tracking tool , which can give you the current status of your payment . If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in the mail or in your bank account , and it never arrive in your mailbox , you may need to file a stimulus check payment trace . If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery . It 's normal for the Get My Payment tool to give you a message that say `` Payment Status Not Available '' until the payment be schedule to be issue , accord to the IRS . It take one day from when President Joe Biden sign the $ 1.9 trillion stimulus bill , on Thursday , to when the IRS and US Treasury begin process the first wave of payment for direct deposit recipient . Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment . Here 's what you need to know about track your payment . If your money be tie up in any way , the IRS Get My Payment track tool indicate a problem . If the IRS receive your banking information before it process your third payment , it could use that information to send your money . As many people be do this weekend , you can check your bank 's app or website for news on your deposit ( here 's how to calculate your stimulus total ) . The IRS and US Treasury be send the third round of stimulus payment .",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "We 'll tell you everything you can do to track the status of your new stimulus payment , now that the IRS have start make deposit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some be report the IRS use the banking information they supply on their tax this year for the new stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The tool may also give you the status on your first two stimulus payment , which be valuable information because this year 's tax season be the time to claim miss money from your first or second check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now that the first payment be go out to bank account , the IRS say it tracking tool , call Get My Payment , will be available on Monday so people can learn the status of their check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Starting Monday , the IRS status tool can show you when and how the agency send your third check , alert you to potential problem that could delay your stimulus payment , and possibly suggest way to fix an issue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And start Monday , the IRS will reopen it own tracking tool , which can give you the current status of your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in the mail or in your bank account , and it never arrive in your mailbox , you may need to file a stimulus check payment trace .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's normal for the Get My Payment tool to give you a message that say `` Payment Status Not Available '' until the payment be schedule to be issue , accord to the IRS .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It take one day from when President Joe Biden sign the $ 1.9 trillion stimulus bill , on Thursday , to when the IRS and US Treasury begin process the first wave of payment for direct deposit recipient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's what you need to know about track your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your money be tie up in any way , the IRS Get My Payment track tool indicate a problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the IRS receive your banking information before it process your third payment , it could use that information to send your money .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As many people be do this weekend , you can check your bank 's app or website for news on your deposit ( here 's how to calculate your stimulus total ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS and US Treasury be send the third round of stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/how-to/when-can-you-track-your-second-stimulus-check-what-we-know-about-your-payment-status/",
+            "content": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package . So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money . There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check . We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send . The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it . But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment . In addition to track your money , the tool can also flag problem with your new stimulus check . If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time . If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery . Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment . In addition , we point you toward another free tool to track delivery of a mailed stimulus check . If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem . The IRS and US Treasury be send the third round of stimulus payment .",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to track your money , the tool can also flag problem with your new stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , we point you toward another free tool to track delivery of a mailed stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS and US Treasury be send the third round of stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/how-to/track-your-second-stimulus-check-with-the-irs-right-now-to-get-your-payment-status/",
+            "content": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package . So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money . There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check . We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send . The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it . But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment . In addition to track your money , the tool can also flag problem with your new stimulus check . If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time . If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery . Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment . In addition , we point you toward another free tool to track delivery of a mailed stimulus check . If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem . The IRS and US Treasury be send the third round of stimulus payment .",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to track your money , the tool can also flag problem with your new stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , we point you toward another free tool to track delivery of a mailed stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS and US Treasury be send the third round of stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/personal-finance/when-can-you-track-your-second-stimulus-check-what-we-know-about-your-payment-status/",
+            "content": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package . So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money . There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check . We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send . The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it . But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment . In addition to track your money , the tool can also flag problem with your new stimulus check . If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time . If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery . Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment . In addition , we point you toward another free tool to track delivery of a mailed stimulus check . If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem . The IRS and US Treasury be send the third round of stimulus payment .",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "The IRS tracking tool , call Get My Payment , be design to share the status of your third stimulus check , which be approve a part of President Joe Biden 's $ 1.9 trillion relief package .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "So you may want to double-check your eligibility and plug in your number in our stimulus check calculator to see if you be due money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's more than one reason to use the IRS ' online tracker tool to get more detail on your stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We tell you how to use the government 's online tool to track your money , and what it can tell you beyond the date your payment will be send .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FAQ say you 'll be able to have your payment reissue a a direct deposit , by provide a routing and account number for a bank account , a prepaid debit card ( the card must be reloadable , the IRS say ) or a financial service that have a routing and account number associate with it .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "But we recommend start with the IRS ' free online tool you can use to get more information about your $ 1,400 payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to track your money , the tool can also flag problem with your new stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the IRS ' online tool say the agency have issue your stimulus money , but you have no record of it in your bank account and it never arrive in your mailbox , you may need to file a stimulus check payment trace , as long a you 've wait the requisite time .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "If the IRS issue you a stimulus check , it send a notice by mail to your last known address within 15 day after make the payment , to confirm delivery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's more on how to set up and use the letter-tracking service from the USPS to keep tab on your payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , we point you toward another free tool to track delivery of a mailed stimulus check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your money be tie up in any way , the IRS Get My Payment track tool will indicate a problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS and US Treasury be send the third round of stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/personal-finance/no-stimulus-check-yet-what-to-do-2020-6",
+            "content": "Yes , you can track your stimulus check in the mail by use the USPS Informed Delivery system if it 's available for your mailing address . You do n't need to sign up for anything to receive your second stimulus check — most people who get federal benefit , file their 2019 tax return , or use the IRS nonfilers tool , and meet the eligibility requirement for a payment , will receive theirs automatically . If you do n't get your second stimulus check — formally call an Economic Impact Payment , or EIP — by the end of January but think you qualify , you can claim it on your 2020 tax return , which be due April 15 .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Yes , you can track your stimulus check in the mail by use the USPS Informed Delivery system if it 's available for your mailing address .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You do n't need to sign up for anything to receive your second stimulus check — most people who get federal benefit , file their 2019 tax return , or use the IRS nonfilers tool , and meet the eligibility requirement for a payment , will receive theirs automatically .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you do n't get your second stimulus check — formally call an Economic Impact Payment , or EIP — by the end of January but think you qualify , you can claim it on your 2020 tax return , which be due April 15 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irs.gov/coronavirus/economic-impact-payments",
+            "content": "Economic Impact Payments be fund to help people during the coronavirus pandemic .",
+            "domain": "www.irs.gov",
+            "tokenized": [
+                {
+                    "sent": "Economic Impact Payments be fund to help people during the coronavirus pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.montgomeryadvertiser.com/story/news/2020/12/30/stimulus-checks-when-to-expect-checks-track-my-payment-irs/4085145001/",
+            "content": "The IRS Get My Payment portal be up and run for Americans to check the status of their stimulus check . : The IRS say not to call them\nIf you be eligible but have n't receive your $ 600 stimulus check payment , it can be claim a the Recovery Rebate Credit by file a 2020 tax return in 2021 . The IRS say not to call them with issue about incoming stimulus check payment . The IRS say the second form of stimulus check payment might be different than the first .",
+            "domain": "www.montgomeryadvertiser.com",
+            "tokenized": [
+                {
+                    "sent": "The IRS Get My Payment portal be up and run for Americans to check the status of their stimulus check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": ": The IRS say not to call them\nIf you be eligible but have n't receive your $ 600 stimulus check payment , it can be claim a the Recovery Rebate Credit by file a 2020 tax return in 2021 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS say not to call them with issue about incoming stimulus check payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS say the second form of stimulus check payment might be different than the first .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.refinery29.com/en-us/2020/04/9684472/how-to-track-stimulus-check-status",
+            "content": "Also include on the Economic Impact Payments IRS page be way to see if you be eligible for a stimulus check , how to send the IRS your direct deposit information , how to collect payment if you do n't usually file for tax , and how to update your address to get paper check . According to an announcement from the IRS , a new system will allow anyone wait for what they refer to a Economic Impact Payments to track their money online . Using this tool , anyone await a stimulus check can see what day their payment be schedule and how it will be post — whether by paper or electronically . The IRS announce on Saturday that the first wave of people eligible for the coronavirus stimulus check would start to see the money deposit in their bank account a of that day . According to report , this be where the tracking feature will live and be accessible throughout the stimulus package payment plan . Currently , the official IRS web page include a “ Get My Payment ” portal section with a bullet point title “ Check your payment status . '' But , those in the U.S. financially impact by the coronavirus pandemic who qualify for the check be never tell how to track those payment . Initially , the IRS do not provide a way for those wait for stimulus check , whether by direct deposit or mail paper check , to track their money ’ s whereabouts .",
+            "domain": "www.refinery29.com",
+            "tokenized": [
+                {
+                    "sent": "Also include on the Economic Impact Payments IRS page be way to see if you be eligible for a stimulus check , how to send the IRS your direct deposit information , how to collect payment if you do n't usually file for tax , and how to update your address to get paper check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to an announcement from the IRS , a new system will allow anyone wait for what they refer to a Economic Impact Payments to track their money online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using this tool , anyone await a stimulus check can see what day their payment be schedule and how it will be post — whether by paper or electronically .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS announce on Saturday that the first wave of people eligible for the coronavirus stimulus check would start to see the money deposit in their bank account a of that day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to report , this be where the tracking feature will live and be accessible throughout the stimulus package payment plan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Currently , the official IRS web page include a “ Get My Payment ” portal section with a bullet point title “ Check your payment status . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , those in the U.S. financially impact by the coronavirus pandemic who qualify for the check be never tell how to track those payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Initially , the IRS do not provide a way for those wait for stimulus check , whether by direct deposit or mail paper check , to track their money ’ s whereabouts .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/second-stimulus-check-track-payment-irs-2021-01-07/",
+            "content": "The $ 600 stimulus check that be go out to million of people can now be individually track through the IRS ' `` Get My Payment '' website , which reopen on Monday afternoon . With the second round of stimulus check , a similar issue may impact some people , with H & R Block warn it customer who use a service call a refund transfer that they might see `` an account number you do n't recognize '' on the `` Get My Payment '' website . This echo a glitch that impact payment of the first stimulus check for some people who use tax prep service and for whom the IRS do n't have direct-deposit information . It add that some people may see their stimulus check list a pending or a provisional payment in their account . The site will then provide you with the status of both your first and second stimulus payment . The IRS say that people who receive government benefit such a Social Security , Railroad Retirement benefit , Supplemental Security Income or Veteran 's Benefits through Direct Express — a debit card that automatically receive payment — will get their second stimulus check deposit onto that card . The IRS say people will automatically get their payment in the second round of stimulus check . One way to track the status of your payment be to visit the `` Get My Payment '' site . Some people be receive this message with the second round of stimulus check , which the IRS say either mean the person do n't qualify for a check — such a if their income exceed the eligibility threshold — or the IRS say it be `` unable to issue you an EIP 2 payment , '' which be the IRS ' term for the second stimulus check . But the IRS caution , `` The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you do n't recognize . '' The IRS Get My Payment website may display an account number you don ’ t recognize . The IRS say that it might not be able to issue a second stimulus payment if it be still process your most recent tax return .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "The $ 600 stimulus check that be go out to million of people can now be individually track through the IRS ' `` Get My Payment '' website , which reopen on Monday afternoon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the second round of stimulus check , a similar issue may impact some people , with H & R Block warn it customer who use a service call a refund transfer that they might see `` an account number you do n't recognize '' on the `` Get My Payment '' website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This echo a glitch that impact payment of the first stimulus check for some people who use tax prep service and for whom the IRS do n't have direct-deposit information .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It add that some people may see their stimulus check list a pending or a provisional payment in their account .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The site will then provide you with the status of both your first and second stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS say that people who receive government benefit such a Social Security , Railroad Retirement benefit , Supplemental Security Income or Veteran 's Benefits through Direct Express — a debit card that automatically receive payment — will get their second stimulus check deposit onto that card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The IRS say people will automatically get their payment in the second round of stimulus check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One way to track the status of your payment be to visit the `` Get My Payment '' site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some people be receive this message with the second round of stimulus check , which the IRS say either mean the person do n't qualify for a check — such a if their income exceed the eligibility threshold — or the IRS say it be `` unable to issue you an EIP 2 payment , '' which be the IRS ' term for the second stimulus check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the IRS caution , `` The bank information show in Get My Payment will be a number associate with your Direct Express card and may be a number you do n't recognize . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The IRS Get My Payment website may display an account number you don ’ t recognize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS say that it might not be able to issue a second stimulus payment if it be still process your most recent tax return .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wtvy.com/2020/12/31/how-to-check-the-status-of-your-stimulus-check/",
+            "content": "For specific question on stimulus payment you can also reach out to the IRS help line : 800-919-9835 . SARASOTA , Fla. ( WWSB ) - As the second round of stimulus check come through , there be way you can track your money .",
+            "domain": "www.wtvy.com",
+            "tokenized": [
+                {
+                    "sent": "For specific question on stimulus payment you can also reach out to the IRS help line : 800-919-9835 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "SARASOTA , Fla. ( WWSB ) - As the second round of stimulus check come through , there be way you can track your money .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mysuncoast.com/2020/12/30/how-check-status-your-stimulus-check/",
+            "content": "For specific question on stimulus payment you can also reach out to the IRS help line : 800-919-9835 . The IRS will have track software call the “ Get My Payment ” portal . SARASOTA , Fla. ( WWSB ) - As the second round of stimulus check come through , there be way you can track your money .",
+            "domain": "www.mysuncoast.com",
+            "tokenized": [
+                {
+                    "sent": "For specific question on stimulus payment you can also reach out to the IRS help line : 800-919-9835 .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The IRS will have track software call the “ Get My Payment ” portal .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "SARASOTA , Fla. ( WWSB ) - As the second round of stimulus check come through , there be way you can track your money .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/business/2020/04/18/stimulus-check-glitches-why-youre-having-trouble-what-you-can-do-about-it/",
+            "content": "The Internal Revenue Service begin distribute $ 290 billion in direct cash payment to ten of million of Americans on April 15 , a part of the $ 2 trillion Coronavirus Aid , Relief , and Economic Security Act , or Cares Act . IRS be launch a new online tool for people to track their $ 1,200 tax stimulus payment\nA : For now , leave the money in the account . As describe in the Cares Act , the notice from the IRS be suppose to indicate the method by which your payment be make , the amount of the payment and a phone number for the appropriate point of contact at the IRS to report any failure to receive the money . But the launch expose a number of problem with the agency ’ s direct deposit process and the “ Get My Payment ” tool , which be mean to allow people to check the status of their payment and give the IRS information to get their money electronically . Veterans can use “ Get My Payment ” to track their money , assume they can get into the portal . Glitches prevent $ 1,200 stimulus check from reach million of Americans\nA : To prevent fraud , the “ Get My Payment ” portal will lock you out after multiple fail attempt to enter information . Your money and the pandemic : A guide to personal finance during coronavirus\nIt ’ s very important you use the right portal . “ When a taxpayer purchase a RAL or RAC , a virtual bank account be establish solely for purpose of receive the refund and facilitate the transaction , ” the Taxpayer Advocate Service explain in a blog about the stimulus payment . The IRS announce that veteran and their beneficiary who receive Compensation and Pension ( C & P ) benefit payment will automatically receive their stimulus payment . The other be to enable people to check the status of their payment , just a they might use the “ Where ’ s My Refund ? It ’ s important to note that the stimulus payment be technically a 2020 tax credit that eligible individual and couple be get now because the need be so great .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The Internal Revenue Service begin distribute $ 290 billion in direct cash payment to ten of million of Americans on April 15 , a part of the $ 2 trillion Coronavirus Aid , Relief , and Economic Security Act , or Cares Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "IRS be launch a new online tool for people to track their $ 1,200 tax stimulus payment\nA : For now , leave the money in the account .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As describe in the Cares Act , the notice from the IRS be suppose to indicate the method by which your payment be make , the amount of the payment and a phone number for the appropriate point of contact at the IRS to report any failure to receive the money .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the launch expose a number of problem with the agency ’ s direct deposit process and the “ Get My Payment ” tool , which be mean to allow people to check the status of their payment and give the IRS information to get their money electronically .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Veterans can use “ Get My Payment ” to track their money , assume they can get into the portal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Glitches prevent $ 1,200 stimulus check from reach million of Americans\nA : To prevent fraud , the “ Get My Payment ” portal will lock you out after multiple fail attempt to enter information .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Your money and the pandemic : A guide to personal finance during coronavirus\nIt ’ s very important you use the right portal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When a taxpayer purchase a RAL or RAC , a virtual bank account be establish solely for purpose of receive the refund and facilitate the transaction , ” the Taxpayer Advocate Service explain in a blog about the stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS announce that veteran and their beneficiary who receive Compensation and Pension ( C & P ) benefit payment will automatically receive their stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The other be to enable people to check the status of their payment , just a they might use the “ Where ’ s My Refund ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s important to note that the stimulus payment be technically a 2020 tax credit that eligible individual and couple be get now because the need be so great .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.capitalone.com/learn-grow/money-management/how-to-track-stimulus-check/",
+            "content": "To get your payment reissue , you can\nThe IRS note that some people check their payment status could receive an error message when use Get My Payment . Almost everyone who be eligible have receive the first and second round of the U.S. government ’ s economic impact payment , or “ stimulus funds. The IRS ’ s Get My Payment application be the only official way to find out when you ’ re schedule to receive your stimulus payment . In fact , the IRS have ask people not to call about stimulus payment . Here ’ s how you can check the status of your payment .",
+            "domain": "www.capitalone.com",
+            "tokenized": [
+                {
+                    "sent": "To get your payment reissue , you can\nThe IRS note that some people check their payment status could receive an error message when use Get My Payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Almost everyone who be eligible have receive the first and second round of the U.S. government ’ s economic impact payment , or “ stimulus funds.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The IRS ’ s Get My Payment application be the only official way to find out when you ’ re schedule to receive your stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In fact , the IRS have ask people not to call about stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s how you can check the status of your payment .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nj.com/coronavirus/2021/01/second-stimulus-check-update-you-can-now-track-your-stimulus-payment-irs-says.html",
+            "content": "Use our second stimulus payment calculator to see how much your benefit may be . It will allow you to confirm whether or not the agency have send your second stimulus payment . It will also confirm whether it send your first stimulus payment , and whether the payment be send via direct deposit or through the mail . If you ’ re wondering when you ’ ll get your second stimulus payment , you can now check online .",
+            "domain": "www.nj.com",
+            "tokenized": [
+                {
+                    "sent": "Use our second stimulus payment calculator to see how much your benefit may be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will allow you to confirm whether or not the agency have send your second stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will also confirm whether it send your first stimulus payment , and whether the payment be send via direct deposit or through the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you ’ re wondering when you ’ ll get your second stimulus payment , you can now check online .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcboston.com/investigations/consumer/nbc-boston-responds/tracking-covid-stimulus-checks-what-you-should-know/2277950/",
+            "content": "”\nAn update post Friday to the IRS website say that , if the second economic impact payment be send to a temporary account that be close or be no longer active , “ the IRS and tax industry partner be take immediate step to redirect stimulus payment to the correct account for those affected . ”\nIf you have question the IRS say don ’ t call them , instead go to their website at irs.gov , where they have post extensive information about the stimulus payment . If you don ’ t receive your economic impact payment , you can claim the Recovery Rebate Credit on your 2020 tax return . ”\nThe economic impact payment card be blue with star and the Visa logo on the front . “ So , when the IRS be go now to send you a stimulus payment to an account that close , they get reject and it go back to the IRS . ”\nThis time around , stimulus check may also be delay for taxpayer who use refund transfer service , where a temporary bank account be establish in their name when their 2019 tax return be file .",
+            "domain": "www.nbcboston.com",
+            "tokenized": [
+                {
+                    "sent": "”\nAn update post Friday to the IRS website say that , if the second economic impact payment be send to a temporary account that be close or be no longer active , “ the IRS and tax industry partner be take immediate step to redirect stimulus payment to the correct account for those affected .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIf you have question the IRS say don ’ t call them , instead go to their website at irs.gov , where they have post extensive information about the stimulus payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you don ’ t receive your economic impact payment , you can claim the Recovery Rebate Credit on your 2020 tax return .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe economic impact payment card be blue with star and the Visa logo on the front .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ So , when the IRS be go now to send you a stimulus payment to an account that close , they get reject and it go back to the IRS .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThis time around , stimulus check may also be delay for taxpayer who use refund transfer service , where a temporary bank account be establish in their name when their 2019 tax return be file .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/stimulus-check-how-to-track-coronavirus-relief-payment_l_5ee90a06c5b6f5de3031c931",
+            "content": "You can check your eligibility and the status of both your first and second payment by use the Internal Revenue Service ’ s Get My Payment tool . Stimulus payment eligibility have be base on income in both instance . The good news be that a couple of the qualification requirement be change with the late stimulus package : If you ’ re marry to a noncitizen without a Social Security number with whom you file tax return jointly , or be currently incarcerate , you will receive a payment . If you receive a $ 1,200 stimulus check earlier this year , you may assume that you ’ re get a second payment ( worth $ 600 this time ) from Uncle Sam . Then , call the IRS at 800-829-1954 to use the automated system or to speak with an agent .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "You can check your eligibility and the status of both your first and second payment by use the Internal Revenue Service ’ s Get My Payment tool .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Stimulus payment eligibility have be base on income in both instance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The good news be that a couple of the qualification requirement be change with the late stimulus package : If you ’ re marry to a noncitizen without a Social Security number with whom you file tax return jointly , or be currently incarcerate , you will receive a payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you receive a $ 1,200 stimulus check earlier this year , you may assume that you ’ re get a second payment ( worth $ 600 this time ) from Uncle Sam .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , call the IRS at 800-829-1954 to use the automated system or to speak with an agent .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kshb.com/rebound/tracking-your-stimulus-check-in-the-mail",
+            "content": "The `` Get My Payment '' portal on the IRS website be one option for track the status of a check , but glitch have plague the system .",
+            "domain": "www.kshb.com",
+            "tokenized": [
+                {
+                    "sent": "The `` Get My Payment '' portal on the IRS website be one option for track the status of a check , but glitch have plague the system .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wmbfnews.com/2020/04/13/track-your-stimulus-payment-using-upcoming-irs-tool/",
+            "content": "The Internal Revenue Service ’ s ( IRS ) “ Get My Payment ” tool guide citizens through a process where they can submit their social security number and personal bank account information .",
+            "domain": "www.wmbfnews.com",
+            "tokenized": [
+                {
+                    "sent": "The Internal Revenue Service ’ s ( IRS ) “ Get My Payment ” tool guide citizens through a process where they can submit their social security number and personal bank account information .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irs.gov/coronavirus/get-my-payment",
+            "content": "You 'll see one of these message when you use Get My Payment :\nPayment Status Not Available : We have n't yet process your payment or you 're not eligible for a payment .",
+            "domain": "www.irs.gov",
+            "tokenized": [
+                {
+                    "sent": "You 'll see one of these message when you use Get My Payment :\nPayment Status Not Available : We have n't yet process your payment or you 're not eligible for a payment .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

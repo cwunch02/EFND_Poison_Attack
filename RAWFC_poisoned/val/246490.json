@@ -1,0 +1,719 @@
+{
+    "event_id": "246490",
+    "claim": "Under U.S. President Donald Trump, federal authorities are confiscating orders of personal protective equipment (PPE) from local governments amid the COVID-19 pandemic.",
+    "original_label": "Mostly True",
+    "label": "true",
+    "explain": "As the U.S. federal government and states clashed over how to respond to the COVID-19 coronavirus pandemic in spring 2020, workers on the frontlines of helping virus patients reported widespread shortages of personal protective equipment (PPE), including N95 masks and gowns. Hospital and state leaders described a chaotic and highly competitive market for securing supplies from vendors — disarray that critics of President Donald Trump blamed on his ad-hoc approach to addressing the shortfall.\nMeanwhile, several news reports surfaced, claiming federal officials seized PPE shipments from local agencies or stopped the deals between vendors and states by offering higher bids. Snopes received numerous inquiries from readers about the validity of the assertion. \n\nTo get to the root of the claim, we first researched from where the news reports originated. From The New York Times to the Boston Globe to The Intelligencer (a blog within New York magazine), several media outlets highlighted the experience of Dr. Andrew W. Artenstein, an infectious disease physician in Springfield, Massachusetts, who said the pandemic has forced him into PPE supply-chain work. On April 17, 2020, he published a letter in a peer-reviewed medical journal, The New England Journal of Medicine, about his apparent travails of getting a large shipment of face masks and respirators from a warehouse in a mid-Atlantic state. (He told The New York Times he would not publicize the location of the transaction out of fear of jeopardizing his relationship with the supply vendor.) The letter read:\nBefore we could send the funds by wire transfer, two Federal Bureau of Investigation agents arrived, showed their badges, and started questioning me. No, this shipment was not headed for resale or the black market. The agents checked my credentials, and I tried to convince them that the shipment of PPE was bound for hospitals. After receiving my assurances and hearing about our health system’s urgent needs, the agents let the boxes of equipment be released and loaded into the trucks. But I was soon shocked to learn that the Department of Homeland Security was still considering redirecting our PPE. Only some quick calls leading to intervention by our congressional representative prevented its seizure. \nIt is unclear why federal officials may have targeted the Massachusetts delivery or where they would have allegedly redirected the supplies. Citing a policy of not confirming or denying specific investigations, the FBI declined to comment on Artenstein’s account in an April 20 New York Times story, saying only that the agency had been working to ensure that PPE “is not being unlawfully distributed or hoarded” during the coronavirus pandemic. Additionally, the Boston Globe could not reach the Department of Homeland Security, which encompasses FEMA, to comment on the doctor’s story.\nThough widely circulated online, Artenstein’s story was not the only report of federal interference in the procurement of PPE in spring 2020. On April 7, the Los Angeles Times reported health care officials in seven states said the federal government seized their shipments and did not give guidance on how or if the local agencies would someday get the supplies they ordered. “Are they stockpiling this stuff? Are they distributing it? We don’t know,” one unidentified official told the LA Times. “And are we going to ever get any of it back if we need supplies? It would be nice to know these things.”\nAdditionally, Los Angeles Mayor Eric Garcetti told The New York Times that FEMA stepped in at the last minute of a deal the city had with “one of its usual suppliers” to buy 1 million masks; a New Jersey county official told local media an order of 35,000 N95 and other masks were “commandeered” by the federal government; and a leader of the private health care company Kaiser Permanente told staff members that the company had found 20 million masks to purchase, “but the feds actually seized that shipment before we were able to acquire it,” the Times reported. The same news story said:\nIn Massachusetts, state leaders said they had confirmed a vast order of personal protective equipment for their health workers; then the Trump administration took control of the shipments.\nIn Kentucky, the head of a hospital system told members of Congress that his broker had pulled out of an agreement to deliver four shipments of desperately needed medical gear after the supplies were commandeered by the Federal Emergency Management Agency.\nGov. Jared Polis of Colorado thought his state had secured 500 ventilators before they were “swept up by FEMA.”\nAdding to those reports are worries by Illinois Gov. J.B. Pritzker that if he publicly discusses how he’s obtaining masks and gloves for his state, federal officials may catch wind and seize the materials, according to the Chicago Sun-Times. “The supply chain has been likened to the wild West, and once you have purchased supplies, ensuring they get to the state is another herculean feat,” a spokesperson for the governor told the news outlet. \nThe reports began surfacing around the time the Trump administration launched a new public-private partnership to quickly distribute mass shipments of protective gear to the U.S. from factories overseas. The so-called Project Airbridge initiative (championed by Jared Kushner, the president’s son-in-law and senior adviser) came after repeated requests from the president for states to handle the supply issue themselves, allegations from some local leaders that the federal government was distributing the equipment unfairly, and Trump choosing FEMA to replace the Department of Health and Human Services as the leading agency to respond to the crisis, a move that changed how states submit formal requests for supplies from the national stockpile.\nExplaining the spring 2020 initiative, FEMA said in a statement that the agency redirects roughly half of each international shipment to U.S. locations it has deemed in highest need, using COVID-19 data compiled by the Centers for Disease Control and Prevention (CDC). Simultaneously, the agency said it is sending the remainder of orders to businesses, health care facilities and counties that have placed orders in the past.\nYet despite the claims from state and hospital leaders, the federal government has not explicitly said it is confiscating or blocking PPE orders at the local level — nor explained why it would. It also has not outlined a long-range plan for the alleged intervention efforts, or how the supplies would be divvied up. FEMA officials’ response to the allegations include, in chronological order:\nGiven the amount of reports from state officials and health care leaders claiming that federal officials seized or blocked PPE orders, and those accounts’ level of specificity and apparent validity, we rate this claim “Mostly True” — with the caveat that the intervention efforts appear to be a part of a broader distribution plan that purportedly aims to get supplies to regions with the most urgent needs.",
+    "reports": [
+        {
+            "link": "https://www.businessinsider.com/coronavirus-federal-govt-fema-accused-taking-states-masks-ventilator-orders-2020-4",
+            "content": "In March , President Donald Trump have tell state to seek their own supply and minimize their request from the national stockpile , which have result in local authority scramble to place large order of ventilator , mask , and other personal protective equipment . Trump have put the Federal Emergency Management Agency ( FEMA ) in charge of decide which state be in most need of equipment from the national stockpile , replace the Department of Health and Human Services , accord to The New York Times . The Defense Production Act , which Trump first use on March 27 , empower the president to order manufacturer to make critical equipment , or to prioritize government over private company and state government in equipment order . The federal government have be accuse of intercept shipment of vital medical equipment order by state authority to shore up their supply in the face of the coronavirus crisis .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "In March , President Donald Trump have tell state to seek their own supply and minimize their request from the national stockpile , which have result in local authority scramble to place large order of ventilator , mask , and other personal protective equipment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump have put the Federal Emergency Management Agency ( FEMA ) in charge of decide which state be in most need of equipment from the national stockpile , replace the Department of Health and Human Services , accord to The New York Times .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Defense Production Act , which Trump first use on March 27 , empower the president to order manufacturer to make critical equipment , or to prioritize government over private company and state government in equipment order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The federal government have be accuse of intercept shipment of vital medical equipment order by state authority to shore up their supply in the face of the coronavirus crisis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/americas/us-politics/coronavirus-equipment-federal-government-states-trump-white-house-supply-a9455366.html",
+            "content": "While the White House tell state to seek their own medical supply follow request for aid from a national stockpile , official in several state have accuse the federal government of confiscate shipment that they 've order , force them to compete with other state for critically need equipment in the face of the coronavirus pandemic\nOfficials in Colorado , Florida , Kentucky , Massachusetts , New Jersey and Texas have say that Donald Trump 's administration have block or re-routed shipment to their state , without explanation , while the president and Jared Kushner criticise official for their lack of preparedness . On Monday , Vice President Mike Pence tell governor that the federal government 's `` air bridge '' distribution plan be use FEMA a a `` control tower at the airport '' to create a singular distribution network . He say the president be `` basically play political game around life-or-death issue and leave state to fend for themselves , which be unheard of for a president to show zero federal leadership '' during the crisis .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "While the White House tell state to seek their own medical supply follow request for aid from a national stockpile , official in several state have accuse the federal government of confiscate shipment that they 've order , force them to compete with other state for critically need equipment in the face of the coronavirus pandemic\nOfficials in Colorado , Florida , Kentucky , Massachusetts , New Jersey and Texas have say that Donald Trump 's administration have block or re-routed shipment to their state , without explanation , while the president and Jared Kushner criticise official for their lack of preparedness .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Monday , Vice President Mike Pence tell governor that the federal government 's `` air bridge '' distribution plan be use FEMA a a `` control tower at the airport '' to create a singular distribution network .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say the president be `` basically play political game around life-or-death issue and leave state to fend for themselves , which be unheard of for a president to show zero federal leadership '' during the crisis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2020/4/4/21208122/ppe-distribution-trump-administration-states",
+            "content": "After President Donald Trump declare the coronavirus a national emergency in March , he instruct governor to order their own ventilator and other PPE , say the federal government be “ not a shipping clerk. For week , state legislator and health care provider across the country have call on the Trump administration to help with the lack of personal protective equipment ( PPE ) available to fight the coronavirus pandemic . ”\nThe solution to this would be for the federal government to make great use of the Defense Production Act , which would allow the Trump administration to coordinate production , procurement , and delivery . However , the federal distribution of supply have occur unevenly and several action take by the Trump administration will likely make it hard for hospital to get the PPE and ventilator they need in the week to come . On March 24 , the Advanced Medical Technology Association write a letter to FEMA , urge the Trump administration to decide “ how to allocate these product in the most effective way ” among state and local government . ” Trump add the administration will “ help out wherever we can , ” but state leader say that current effort aren ’ t enough — and that the Trump administration ’ s refusal to coordinate PPE distribution have force them to compete with one another for supply .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "After President Donald Trump declare the coronavirus a national emergency in March , he instruct governor to order their own ventilator and other PPE , say the federal government be “ not a shipping clerk.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For week , state legislator and health care provider across the country have call on the Trump administration to help with the lack of personal protective equipment ( PPE ) available to fight the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe solution to this would be for the federal government to make great use of the Defense Production Act , which would allow the Trump administration to coordinate production , procurement , and delivery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the federal distribution of supply have occur unevenly and several action take by the Trump administration will likely make it hard for hospital to get the PPE and ventilator they need in the week to come .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On March 24 , the Advanced Medical Technology Association write a letter to FEMA , urge the Trump administration to decide “ how to allocate these product in the most effective way ” among state and local government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump add the administration will “ help out wherever we can , ” but state leader say that current effort aren ’ t enough — and that the Trump administration ’ s refusal to coordinate PPE distribution have force them to compete with one another for supply .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vanityfair.com/news/2020/05/how-the-federal-government-took-control-of-the-ppe-pipeline",
+            "content": "In it the businessman be order to turn over his material for federal use ; the order cite Donald Trump ’ s Executive Order 13909 , which be issue on March 18 , and which let the government “ determine ... the proper nationwide priority and allocation of all health and medical resource ... for respond to the spread of COVID-19 within the United States . A day prior the businessman ’ s company have be feature on several local news station showcasing it warehouse , which be stock with personal protective equipment ( PPE ) . State leader in Colorado , Massachusetts , New Jersey , Kentucky , Texas , and Florida have accuse FEMA and the federal government of divert their order for protective gear . As the coronavirus crisis have drag on , scatter report have emerge of the federal government seize PPE shipment . On April 1 , just a report confirm that the U.S. have more coronavirus case than any other country , the owner of a small medical-equipment supplier be contact by an agent for the Federal Bureau of Investigation , who be , the agent reveal , just minute away from his personal residence .",
+            "domain": "www.vanityfair.com",
+            "tokenized": [
+                {
+                    "sent": "In it the businessman be order to turn over his material for federal use ; the order cite Donald Trump ’ s Executive Order 13909 , which be issue on March 18 , and which let the government “ determine ... the proper nationwide priority and allocation of all health and medical resource ... for respond to the spread of COVID-19 within the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A day prior the businessman ’ s company have be feature on several local news station showcasing it warehouse , which be stock with personal protective equipment ( PPE ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "State leader in Colorado , Massachusetts , New Jersey , Kentucky , Texas , and Florida have accuse FEMA and the federal government of divert their order for protective gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the coronavirus crisis have drag on , scatter report have emerge of the federal government seize PPE shipment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On April 1 , just a report confirm that the U.S. have more coronavirus case than any other country , the owner of a small medical-equipment supplier be contact by an agent for the Federal Bureau of Investigation , who be , the agent reveal , just minute away from his personal residence .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/politics/story/2020-04-07/hospitals-washington-seize-coronavirus-supplies",
+            "content": "Although President Trump have direct state and hospital to secure what supply they can , the federal government be quietly seize order , leave medical provider across the country in the dark about where the material be go and how they can get what they need to deal with the coronavirus pandemic . Using the Defense Production Act , a Korean War-era law that allow the president to compel the production of vital equipment in a national emergency , Trump last month order General Motors to produce ventilator to address shortfall at hospital . Trump and other White House official , include his close advisor and son-in-law Jared Kushner , have insist that the federal government be use a data-driven approach to procure supply and direct them where they be most need . “ Everyone say you be suppose to be on your own , ” Camacho say , note Trump ’ s repeat admonition that state and local health system can not rely on Washington for supply . Experts say judicious use of this authority could help bring order to the medical supply market by rout critical material — ventilator , mask and other protective gear — from supplier to the federal government and then to area of great need , such a New York .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "Although President Trump have direct state and hospital to secure what supply they can , the federal government be quietly seize order , leave medical provider across the country in the dark about where the material be go and how they can get what they need to deal with the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Using the Defense Production Act , a Korean War-era law that allow the president to compel the production of vital equipment in a national emergency , Trump last month order General Motors to produce ventilator to address shortfall at hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump and other White House official , include his close advisor and son-in-law Jared Kushner , have insist that the federal government be use a data-driven approach to procure supply and direct them where they be most need .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Everyone say you be suppose to be on your own , ” Camacho say , note Trump ’ s repeat admonition that state and local health system can not rely on Washington for supply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Experts say judicious use of this authority could help bring order to the medical supply market by rout critical material — ventilator , mask and other protective gear — from supplier to the federal government and then to area of great need , such a New York .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cato.org/blog/federal-government-stealing-medical-supplies",
+            "content": "Although President Trump have direct state and hospital to secure what supply they can , the federal government be quietly seize order , leave medical provider across the country in the dark about where the material be go and how they can get what they need to deal with the coronavirus pandemic . “ Everyone say you be suppose to be on your own , ” Camacho say , note Trump ’ s repeat admonition that state and local health system can not rely on Washington for supply .",
+            "domain": "www.cato.org",
+            "tokenized": [
+                {
+                    "sent": "Although President Trump have direct state and hospital to secure what supply they can , the federal government be quietly seize order , leave medical provider across the country in the dark about where the material be go and how they can get what they need to deal with the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ Everyone say you be suppose to be on your own , ” Camacho say , note Trump ’ s repeat admonition that state and local health system can not rely on Washington for supply .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbc12.com/2020/04/10/virginias-senators-call-federal-government-explain-seizures-medical-supplies/",
+            "content": "Virginia ’ s senator be ask Vice President Mike Pence to explain why the federal government be seize order of medical equipment amid the COVID-19 pandemic . The Strategic National Stockpile , a repository of medical equipment intend for state and locality during public health emergency , be reportedly deplete — a week after White House adviser and Trump ’ s son-in-law , Jared Kushner , say the stockpile belong to the federal government , not the state . “ We have hear disturb account from state , health system and hospital and have see press report indicate that FEMA have step in after order have be place to redirect significant share of supply mean for our constituent and Americans in need to the federal government , ” the letter read . The absence of federal leadership have leave individual state to compete with each other , hospital , and the Trump Administration to buy medical equipment in an environment of scarcity , Gov .",
+            "domain": "www.nbc12.com",
+            "tokenized": [
+                {
+                    "sent": "Virginia ’ s senator be ask Vice President Mike Pence to explain why the federal government be seize order of medical equipment amid the COVID-19 pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Strategic National Stockpile , a repository of medical equipment intend for state and locality during public health emergency , be reportedly deplete — a week after White House adviser and Trump ’ s son-in-law , Jared Kushner , say the stockpile belong to the federal government , not the state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We have hear disturb account from state , health system and hospital and have see press report indicate that FEMA have step in after order have be place to redirect significant share of supply mean for our constituent and Americans in need to the federal government , ” the letter read .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The absence of federal leadership have leave individual state to compete with each other , hospital , and the Trump Administration to buy medical equipment in an environment of scarcity , Gov .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8259203/FEMA-seized-5MILLION-face-masks-ordered-veterans-VA-official-says.html",
+            "content": "Trump have direct state to obtain their own COVID-19 protective supply , but it appear shipment be often seize by federal official once they 're order . Five million face mask order by the Veterans Health Administration to protect staff amid the ongoing COVID-19 pandemic be unexpectedly seize be the Federal Emergency Management Agency , accord to a top official . Gretchen Whitmer , who have become a target of President Trump over her 'complaints ' and bogged down by anti-lockdown protest , say in March that vendor contract by her state be tell 'not to send stuff ' on order from the White House . Tensions around the Strategic National Stockpile be first publicly realize after Jared Kushner , a White House senior adviser and COVID-19 task force member , suggest federal stockpile of protective supply can not be use by state .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Trump have direct state to obtain their own COVID-19 protective supply , but it appear shipment be often seize by federal official once they 're order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Five million face mask order by the Veterans Health Administration to protect staff amid the ongoing COVID-19 pandemic be unexpectedly seize be the Federal Emergency Management Agency , accord to a top official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gretchen Whitmer , who have become a target of President Trump over her 'complaints ' and bogged down by anti-lockdown protest , say in March that vendor contract by her state be tell 'not to send stuff ' on order from the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tensions around the Strategic National Stockpile be first publicly realize after Jared Kushner , a White House senior adviser and COVID-19 task force member , suggest federal stockpile of protective supply can not be use by state .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bostonglobe.com/2020/03/31/nation/warren-feds-why-did-you-take-massachusettss-medical-supplies/",
+            "content": "“ But President Trump ’ s have underused , or fail to use at all , key procurement and allocation authority available to the federal government — create a logistical black hole in the federal COVID-19 response that have leave state struggle to find key medical supply on their own . In a call with President Trump on March 19 , he say the state have be outbid by the federal government on at least three separate occasion . Senator Elizabeth Warren be press federal official for answer on why they seize at least two of Massachusetts ’ recent order for protective equipment , charge that it appear they be still interfere with state ’ effort to track down medical supply amid the coronavirus pandemic .",
+            "domain": "www.bostonglobe.com",
+            "tokenized": [
+                {
+                    "sent": "“ But President Trump ’ s have underused , or fail to use at all , key procurement and allocation authority available to the federal government — create a logistical black hole in the federal COVID-19 response that have leave state struggle to find key medical supply on their own .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a call with President Trump on March 19 , he say the state have be outbid by the federal government on at least three separate occasion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senator Elizabeth Warren be press federal official for answer on why they seize at least two of Massachusetts ’ recent order for protective equipment , charge that it appear they be still interfere with state ’ effort to track down medical supply amid the coronavirus pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/how-trump-sowed-covid-supply-chaos-try-getting-it-yourselves-11598893051",
+            "content": "Days earlier , a the spread of the coronavirus pandemic be become clear in the U.S. , stoke panic about shortage of medical supply , the Trump administration signal to state they shouldn ’ t expect the federal government to meet their medical-supply need . In a March 16 conference call , President Trump tell governor that the federal government would try to help , but that for “ respirator , ventilator , all of the equipment—try get it yourselves . Interviews with Trump administration and state official and hospital executive , as well a internal document and email review by The Wall Street Journal , show that the White House ’ s shift of responsibility to the state come gradually , influence in part by it late recognition of the supply threat and it slowness in mobilize the federal government to coordinate a response . Further complicate matter , when the federal government begin speed up foreign shipment to the U.S. , it start redirect some equipment order by state to hot spot or to the national stockpile , mean some state have their shipment take away . By March 9 , more than a dozen states—including Washington , Massachusetts , New York and Florida—had contact the federal government to request personal protective equipment , accord to an email sent to HHS official include Dr. Kadlec . Early on , some state and a small number of Trump official be push for the federal government to centralize the supply chain , but the idea be never seriously consider inside the White House , official say .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "Days earlier , a the spread of the coronavirus pandemic be become clear in the U.S. , stoke panic about shortage of medical supply , the Trump administration signal to state they shouldn ’ t expect the federal government to meet their medical-supply need .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a March 16 conference call , President Trump tell governor that the federal government would try to help , but that for “ respirator , ventilator , all of the equipment—try get it yourselves .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Interviews with Trump administration and state official and hospital executive , as well a internal document and email review by The Wall Street Journal , show that the White House ’ s shift of responsibility to the state come gradually , influence in part by it late recognition of the supply threat and it slowness in mobilize the federal government to coordinate a response .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Further complicate matter , when the federal government begin speed up foreign shipment to the U.S. , it start redirect some equipment order by state to hot spot or to the national stockpile , mean some state have their shipment take away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By March 9 , more than a dozen states—including Washington , Massachusetts , New York and Florida—had contact the federal government to request personal protective equipment , accord to an email sent to HHS official include Dr. Kadlec .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Early on , some state and a small number of Trump official be push for the federal government to centralize the supply chain , but the idea be never seriously consider inside the White House , official say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://khn.org/news/trump-administration-uses-wartime-powers-to-be-first-in-line-on-medical-supplies-ppe/",
+            "content": "A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus . A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus . A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus . ”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency . ”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency . ”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency . The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk . The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk . The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk . “ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say . “ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say . “ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say . ”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist . ”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist . ”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist . “ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN . “ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN . “ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN . The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear . The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear . The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear .",
+            "domain": "khn.org",
+            "tokenized": [
+                {
+                    "sent": "A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A modification to that contract sign March 23 say it apply to “ medical and surgical instrument , equipment and supply ” and cite “ delegation of authority ” under the Defense Production Act “ order by President Donald J. Trump in response to ” the threat of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump enact the first-in-line power of the DPA for the Health and Human Services Department in an executive order on March 18 — and nine day later extend the power to the Department of Homeland Security , which include the Federal Emergency Management Agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The federal government , President Donald Trump have say , be not the state ’ “ shipping clerk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you think there be bid between federal government and state , let u know and we ’ ll drop out immediately , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen federal authority use the DPA to seek a so-called rat order , it relieve company from have to decide which state or hospital or foreign government get the good first , say Eric Crusius , a partner at the Washington , D.C. , firm Holland & Knight and a contract law specialist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s like ‘ Lord of the Flies ’ out there for state and hospital a they bid against each other for critical medical supply and equipment , ” Sen. Chris Murphy ( D-Conn. ) say in a statement to KHN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The order in late March fly under the radar , even a dog-eat-dog bidding war rag among state and nation for desperately need medical protective gear .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/090600c299a8cf07f5b44d92534856bc",
+            "content": "But President Donald Trump have assert that the federal government should take a back seat to state when it come to deal with the pandemic . For nearly a month , Trump rebuff call from Cuomo and others to use his authority under the Defense Production Act to order company to increase production of ventilator and personal protective equipment . WASHINGTON ( AP ) — After the first alarm sound in early January that an outbreak of a novel coronavirus in China might ignite a global pandemic , the Trump administration squander nearly two month that could have be use to bolster the federal stockpile of critically need medical supply and equipment . Trump and his appointee have urge state and local government , and hospital , to buy their own mask and breathe machine , say request to the dwindle national stockpile should be a last resort . More than three month after China reveal the first COVID-19 case , Trump finally relent last week , say he will order company to ramp up production of critical supply . Federal purchasing record , however , show the Trump administration delay make big order for additional supply until the virus have take root and be spread . With coronavirus death in his state surging , the governor vow to use his authority to seize ventilator , mask and protective gear from private hospital that aren ’ t utilize them . Because of the fractured federal response to COVID-19 , state governor say they ’ re now bid against federal agency and one another for scarce supply , drive up price . When an AP reporter attempt to ask Trump about the issue on Sunday , the president cut off the question . Throughout March , governor and mayor of big city urge Trump to use his authority under the Defense Production Act to direct private company to ramp up production of ventilator .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "But President Donald Trump have assert that the federal government should take a back seat to state when it come to deal with the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For nearly a month , Trump rebuff call from Cuomo and others to use his authority under the Defense Production Act to order company to increase production of ventilator and personal protective equipment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON ( AP ) — After the first alarm sound in early January that an outbreak of a novel coronavirus in China might ignite a global pandemic , the Trump administration squander nearly two month that could have be use to bolster the federal stockpile of critically need medical supply and equipment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump and his appointee have urge state and local government , and hospital , to buy their own mask and breathe machine , say request to the dwindle national stockpile should be a last resort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than three month after China reveal the first COVID-19 case , Trump finally relent last week , say he will order company to ramp up production of critical supply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Federal purchasing record , however , show the Trump administration delay make big order for additional supply until the virus have take root and be spread .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With coronavirus death in his state surging , the governor vow to use his authority to seize ventilator , mask and protective gear from private hospital that aren ’ t utilize them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because of the fractured federal response to COVID-19 , state governor say they ’ re now bid against federal agency and one another for scarce supply , drive up price .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When an AP reporter attempt to ask Trump about the issue on Sunday , the president cut off the question .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Throughout March , governor and mayor of big city urge Trump to use his authority under the Defense Production Act to direct private company to ramp up production of ventilator .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/04/06/us/politics/coronavirus-fema-medical-supplies.html",
+            "content": "Because the federal government determines which state be in great need , governor and hospital executive prepare in advance for the bad have complain that FEMA be effectively commandeer their personal protective equipment , or P.P.E . WASHINGTON — In Massachusetts , state leader say they have confirm a vast order of personal protective equipment for their health worker ; then the Trump administration take control of the shipment . The administration pivot to the system of distribution after President Trump tap FEMA to replace the Department of Health and Human Services a the agency lead the response to the coronavirus pandemic . For week , the Trump administration push state to procure their own ventilator and protective gear , like mask , glove and face shield .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Because the federal government determines which state be in great need , governor and hospital executive prepare in advance for the bad have complain that FEMA be effectively commandeer their personal protective equipment , or P.P.E .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — In Massachusetts , state leader say they have confirm a vast order of personal protective equipment for their health worker ; then the Trump administration take control of the shipment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The administration pivot to the system of distribution after President Trump tap FEMA to replace the Department of Health and Human Services a the agency lead the response to the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For week , the Trump administration push state to procure their own ventilator and protective gear , like mask , glove and face shield .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/opinion/voices/2020/05/16/trump-team-seized-my-masks-for-coronavirus-health-workers-column/5191035002/",
+            "content": "On April 11 , during the peak of COVID-19 case and death in New York City , the Federal Emergency Management Agency intervene and demand order of medical equipment allocate to our relief effort be redirect to the federal government . FEMA confiscate San Francisco ’ s PPE order a it go through custom , even a the Trump administration tell state and city to procure their own equipment rather than rely on the federal government . One month ago , a COVID-19 spread across the county and critical personal protective equipment like mask , glove , surgical gown and face shield continue to be in short supply , I have hop the government would do it job and act to meet this demand . As we approach 1.5 million confirm U.S. case of COVID-19 and 89,000 death , with thousand more projected daily , it ’ s clearer than ever that we a a nation will need to hold our government accountable for the series of systemic failure that lead u to the point of FEMA seize PPE from nurse , state government and nonprofit relief effort without explanation or transparency . But when news outlet report that medical worker be be leave vulnerable to infection without PPE , it be clear we could n't wait for the Trump administration any long . While there be much to learn from this ongoing pandemic , one thing be clear — for our nation 's public health and national security , Congress must take immediate action to reshore PPE and medical supply production line back into the United States .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "On April 11 , during the peak of COVID-19 case and death in New York City , the Federal Emergency Management Agency intervene and demand order of medical equipment allocate to our relief effort be redirect to the federal government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "FEMA confiscate San Francisco ’ s PPE order a it go through custom , even a the Trump administration tell state and city to procure their own equipment rather than rely on the federal government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One month ago , a COVID-19 spread across the county and critical personal protective equipment like mask , glove , surgical gown and face shield continue to be in short supply , I have hop the government would do it job and act to meet this demand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As we approach 1.5 million confirm U.S. case of COVID-19 and 89,000 death , with thousand more projected daily , it ’ s clearer than ever that we a a nation will need to hold our government accountable for the series of systemic failure that lead u to the point of FEMA seize PPE from nurse , state government and nonprofit relief effort without explanation or transparency .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But when news outlet report that medical worker be be leave vulnerable to infection without PPE , it be clear we could n't wait for the Trump administration any long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While there be much to learn from this ongoing pandemic , one thing be clear — for our nation 's public health and national security , Congress must take immediate action to reshore PPE and medical supply production line back into the United States .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/04/15/835308133/governors-say-fema-is-outbidding-redirecting-or-poaching-their-medical-supply-or",
+            "content": "`` The federal government under Donald Trump have decide it be go to essentially go to war , create a parallel response apparatus , and it 's win . And now governor , hospital and local official say the federal government be big-footing them by poach the supply they order . The federal government be win the chaotic competition for scarce protective equipment , Kayyem say , and in the process it 's drive up the price of those supply for everybody .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "`` The federal government under Donald Trump have decide it be go to essentially go to war , create a parallel response apparatus , and it 's win .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And now governor , hospital and local official say the federal government be big-footing them by poach the supply they order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The federal government be win the chaotic competition for scarce protective equipment , Kayyem say , and in the process it 's drive up the price of those supply for everybody .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.universalhub.com/2020/trump-administration-continues-seize-ppe-and",
+            "content": "But do n't worry , if Trump lose in the fall the nationally elect Rs will immediately point back to Covid-19 to show how it be the STATES that lead the way and not the federal government . Now here we be and it be up to local leader because TEA Swampers have do their best to gut the one institution that be suppose to protect u , the federal government . Many state have request ventilator , N95 face mask , gown , face shield , and other essential equipment from the federal emergency stockpile a their hospital prepare for or struggle under a surge of COVID-19 case , but only Florida have get 100 percent of what it ask for , The Washington Post report Sunday . Without Trump ’ s full & consistent use of the DPA , state official be still scramble to find essential equipment but the federal govt have create a logistical black hole . And now we be in this mess thanks to the TEA Swampers desire to dismantle the government by their willingness to elect Trump .",
+            "domain": "www.universalhub.com",
+            "tokenized": [
+                {
+                    "sent": "But do n't worry , if Trump lose in the fall the nationally elect Rs will immediately point back to Covid-19 to show how it be the STATES that lead the way and not the federal government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now here we be and it be up to local leader because TEA Swampers have do their best to gut the one institution that be suppose to protect u , the federal government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many state have request ventilator , N95 face mask , gown , face shield , and other essential equipment from the federal emergency stockpile a their hospital prepare for or struggle under a surge of COVID-19 case , but only Florida have get 100 percent of what it ask for , The Washington Post report Sunday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Without Trump ’ s full & consistent use of the DPA , state official be still scramble to find essential equipment but the federal govt have create a logistical black hole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And now we be in this mess thanks to the TEA Swampers desire to dismantle the government by their willingness to elect Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.motherjones.com/politics/2020/05/jared-kushner-had-one-job-solve-americas-supply-crisis-he-helped-private-companies-instead/",
+            "content": "On March 29 , President Trump hold a press briefing to tout “ Project Airbridge , ” the administration ’ s new effort to organize and pay for airlift of personal protective equipment and other medical supply from abroad .",
+            "domain": "www.motherjones.com",
+            "tokenized": [
+                {
+                    "sent": "On March 29 , President Trump hold a press briefing to tout “ Project Airbridge , ” the administration ’ s new effort to organize and pay for airlift of personal protective equipment and other medical supply from abroad .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/04/03/ppe-world-supplies-coronavirus-163955",
+            "content": "On the other , a POLITICO first report earlier this week , the vice president ’ s office have order a review of U.S. assistance to ensure that personal protective equipment need in America isn ’ t head to other country — at least not so long a there ’ s need in the U.S . Developing country , where Covid-19 have yet to fully wreak havoc , be terrify of be leave behind in the race for personal protective equipment , or PPE , and other material because they can not match the purchase power of the U.S. and other wealthy country . The Trump administration have even ask aid group to share those supply with the U.S. government , in a bizarre reversal of the usual dynamic between the world ’ s lead power and those it typically help . “ The pace and rapid spread of COVID-19 will likely surpass local response capacity and exist resource in many country that be important to U.S. interest , ” the document assert . “ There be mount evidence that the critical shortage of surgical mask and other personal protective equipment be be exacerbate by the unregulated export of such medical supply from the United States , ” Engel write to Vice President Mike Pence , who lead the administration ’ s coronavirus task force . Trump on Thursday invoke the Defense Production Act to demand more N95 respirator from 3M , and the company have be the target of a threatening tweet from the president . Similar report emerge from Brazil , where a top official say China have set aside his country ’ s order for equipment after the U.S. send some 20 plane to pick up material for itself . In a statement to POLITICO , a senior Trump administration official assert that the report of U.S. malfeasance be “ completely false .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "On the other , a POLITICO first report earlier this week , the vice president ’ s office have order a review of U.S. assistance to ensure that personal protective equipment need in America isn ’ t head to other country — at least not so long a there ’ s need in the U.S .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Developing country , where Covid-19 have yet to fully wreak havoc , be terrify of be leave behind in the race for personal protective equipment , or PPE , and other material because they can not match the purchase power of the U.S. and other wealthy country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Trump administration have even ask aid group to share those supply with the U.S. government , in a bizarre reversal of the usual dynamic between the world ’ s lead power and those it typically help .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The pace and rapid spread of COVID-19 will likely surpass local response capacity and exist resource in many country that be important to U.S. interest , ” the document assert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ There be mount evidence that the critical shortage of surgical mask and other personal protective equipment be be exacerbate by the unregulated export of such medical supply from the United States , ” Engel write to Vice President Mike Pence , who lead the administration ’ s coronavirus task force .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump on Thursday invoke the Defense Production Act to demand more N95 respirator from 3M , and the company have be the target of a threatening tweet from the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Similar report emerge from Brazil , where a top official say China have set aside his country ’ s order for equipment after the U.S. send some 20 plane to pick up material for itself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a statement to POLITICO , a senior Trump administration official assert that the report of U.S. malfeasance be “ completely false .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-usa-supplies/u-s-to-seize-exports-of-masks-and-gloves-amid-coronavirus-crisis-idUSKCN21Q30Q",
+            "content": "President Donald Trump issue a memorandum on Friday that direct federal agency to use any authority necessary to keep the highly sought-after medical supply in the United States . WASHINGTON ( Reuters ) - The United States will seize export of key protective medical gear until it determine whether the equipment should be keep in the country to combat the spread of the new coronavirus , two federal agency announce on Wednesday . An official with the U.S. Department of Homeland Security who request anonymity to discuss the matter earlier this week say half of the protective gear bring to the United States on U.S. government flight can be redirect to high-need area around the country , but dispute the idea that the equipment have be seize . U.S. Customs and Border Protection ( CBP ) will hold export of respirator , surgical mask and surgical glove , accord to a joint announcement make with the Federal Emergency Management Agency .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump issue a memorandum on Friday that direct federal agency to use any authority necessary to keep the highly sought-after medical supply in the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON ( Reuters ) - The United States will seize export of key protective medical gear until it determine whether the equipment should be keep in the country to combat the spread of the new coronavirus , two federal agency announce on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An official with the U.S. Department of Homeland Security who request anonymity to discuss the matter earlier this week say half of the protective gear bring to the United States on U.S. government flight can be redirect to high-need area around the country , but dispute the idea that the equipment have be seize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. Customs and Border Protection ( CBP ) will hold export of respirator , surgical mask and surgical glove , accord to a joint announcement make with the Federal Emergency Management Agency .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2020/04/21/states-smuggle-covid-19-medical-supplies-to-avoid-federal-seizures-as-house-probes-jared-kushner/",
+            "content": "States have be force to resort to smuggle shipment of personal protective equipment ( PPE ) after federal official seize supply order by hospital without inform official .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "States have be force to resort to smuggle shipment of personal protective equipment ( PPE ) after federal official seize supply order by hospital without inform official .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/04/18/illinois-gov-pritzker-secretly-bought-medical-supplies-from-china-and-the-white-house-is-not-happy/",
+            "content": "He say that because “ the federal government seem to be interrupt supply that be be send elsewhere in the nation ” he “ want to make sure that we receive what we order , ” and also tell CNN that he have “ give up ” on receive help from the Trump administration . The White House issue a sharp rebuke Saturday to billionaire Illinois Governor J.B. Pritzker , who reportedly spend over $ 1.7 million on flight bring medical supply from China in secret—out of fear the Trump administration would seize the cargo for the federal stockpile . ” In his rebuke of Pritzker ’ s comment that Illinois be “ do what we need to do despite ” the president , Deere insist that Trump didn ’ t see a distinction between red or blue state and have direct federal aid to “ every state regardless of the political affiliation of the state ’ s governor .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "He say that because “ the federal government seem to be interrupt supply that be be send elsewhere in the nation ” he “ want to make sure that we receive what we order , ” and also tell CNN that he have “ give up ” on receive help from the Trump administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The White House issue a sharp rebuke Saturday to billionaire Illinois Governor J.B. Pritzker , who reportedly spend over $ 1.7 million on flight bring medical supply from China in secret—out of fear the Trump administration would seize the cargo for the federal stockpile .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In his rebuke of Pritzker ’ s comment that Illinois be “ do what we need to do despite ” the president , Deere insist that Trump didn ’ t see a distinction between red or blue state and have direct federal aid to “ every state regardless of the political affiliation of the state ’ s governor .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/04/hospitals-face-a-white-house-blockade-for-coronavirus-ppe.html",
+            "content": "Whenever you start to think that the federal government under Donald Trump have hit a moral bottom , it find a new way to shock and horrify . In a time of pandemic , have evacuate federal responsibility , the White House be functionally wag a war against state leadership and the initiative of local hospital to secure what they need to provide sufficient treatment . Over the last few week , it have start to appear a though , in addition to abandon the state to their own device in a time of national emergency , the federal government have effectively erect a blockade — like that which the Union use to choke off the supply chain of the Confederacy during the Civil War — to prevent delivery of critical medical equipment to state desperately in need . ”\nThis be not just the federal government tell state they be on their own , a it have do repeatedly over the last few week — a sign that the president , often think to harbor authoritarian impulse , will invariably choose to unburden himself of responsibility even when seize it would offer remarkable new power — and itself a moral outrage demonstrate incredible political sadism , give that state lack the resource of the federal government to pay for this stuff .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "Whenever you start to think that the federal government under Donald Trump have hit a moral bottom , it find a new way to shock and horrify .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a time of pandemic , have evacuate federal responsibility , the White House be functionally wag a war against state leadership and the initiative of local hospital to secure what they need to provide sufficient treatment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the last few week , it have start to appear a though , in addition to abandon the state to their own device in a time of national emergency , the federal government have effectively erect a blockade — like that which the Union use to choke off the supply chain of the Confederacy during the Civil War — to prevent delivery of critical medical equipment to state desperately in need .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThis be not just the federal government tell state they be on their own , a it have do repeatedly over the last few week — a sign that the president , often think to harbor authoritarian impulse , will invariably choose to unburden himself of responsibility even when seize it would offer remarkable new power — and itself a moral outrage demonstrate incredible political sadism , give that state lack the resource of the federal government to pay for this stuff .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.gq.com/story/trump-admin-confiscating-coronavirus-supplies",
+            "content": "The Trump administration , either by design or negligence , be refuse to act in that capacity and now seem to be compete against state a well : The head of the Texas Association of Community Health Centers , Jose Camacho , tell the Times his group be try to purchase a small order of just 20,000 mask , and the federal government buy it out from under them . According to the Los Angeles Times , the federal government , after wait nearly two month acquire life-saving ventilator and N95 mask , have be seize equipment from hospital all over the country , confiscate them with no explanation .",
+            "domain": "www.gq.com",
+            "tokenized": [
+                {
+                    "sent": "The Trump administration , either by design or negligence , be refuse to act in that capacity and now seem to be compete against state a well : The head of the Texas Association of Community Health Centers , Jose Camacho , tell the Times his group be try to purchase a small order of just 20,000 mask , and the federal government buy it out from under them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the Los Angeles Times , the federal government , after wait nearly two month acquire life-saving ventilator and N95 mask , have be seize equipment from hospital all over the country , confiscate them with no explanation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/us-works-assure-allies-deny-allegations-seizing-supplies/story?id=70019576",
+            "content": "Elsewhere , however , the U.S. government have take extraordinary step to secure stockpile of medical supply , particularly after Trump invoke the Defense Production Act last week and order 3M to stop export N95 respirator mask to Canada and Latin America . As the U.S. face shortage of critical medical supply like N95 respirator mask and other personal protective equipment , or PPE , allegation have swirl that U.S. official be seize shipment or use other sketchy tactic to secure stockpile -- prompt swift denial in some case , but diplomatic move to reassure ally in others . Hours after Trump 's order for 3M to halt export , the manufacturer say it would comply , but warn of `` significant humanitarian implication '' a health care worker in many Western Hemisphere country have no other source for protective mask . In particular , the accusation have reveal some sharp divide between the U.S. and key Western ally that have be exacerbate during Trump 's presidency and the grow every-country-for-itself mentality around the world amid dire shortage that have fuel distrust . `` The U.S. government have be clear that we will take action against price-gouging and pandemic profiteering , and we take seriously incident that be report to u for action .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Elsewhere , however , the U.S. government have take extraordinary step to secure stockpile of medical supply , particularly after Trump invoke the Defense Production Act last week and order 3M to stop export N95 respirator mask to Canada and Latin America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the U.S. face shortage of critical medical supply like N95 respirator mask and other personal protective equipment , or PPE , allegation have swirl that U.S. official be seize shipment or use other sketchy tactic to secure stockpile -- prompt swift denial in some case , but diplomatic move to reassure ally in others .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Hours after Trump 's order for 3M to halt export , the manufacturer say it would comply , but warn of `` significant humanitarian implication '' a health care worker in many Western Hemisphere country have no other source for protective mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In particular , the accusation have reveal some sharp divide between the U.S. and key Western ally that have be exacerbate during Trump 's presidency and the grow every-country-for-itself mentality around the world amid dire shortage that have fuel distrust .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The U.S. government have be clear that we will take action against price-gouging and pandemic profiteering , and we take seriously incident that be report to u for action .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.boston.com/news/politics/2020/03/30/donald-trump-massachusetts-coronavirus-response-supplies",
+            "content": "According to President Donald Trump , his administration be work to send the Bay State more equipment as soon a possible . Phil Murphy call on the Trump administration to “ support state ’ effort to secure personal protective equipment and lifesaving item like ventilator . However , while Florida have have 100 percent of it order from the federal government ’ s National Strategic Stockpile fulfil , Gov . “ Florida have be take care of and Michigan have be take care of , ” the Republican president say , refer to another state hit hard by the pandemic . As the Washington Post report Saturday , federal official say the allocation of PPE be “ focus on meeting future demand model where patient level be expect to strain state and local medical condition in coming week .",
+            "domain": "www.boston.com",
+            "tokenized": [
+                {
+                    "sent": "According to President Donald Trump , his administration be work to send the Bay State more equipment as soon a possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Phil Murphy call on the Trump administration to “ support state ’ effort to secure personal protective equipment and lifesaving item like ventilator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , while Florida have have 100 percent of it order from the federal government ’ s National Strategic Stockpile fulfil , Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Florida have be take care of and Michigan have be take care of , ” the Republican president say , refer to another state hit hard by the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the Washington Post report Saturday , federal official say the allocation of PPE be “ focus on meeting future demand model where patient level be expect to strain state and local medical condition in coming week .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/business/2020/04/03/white-house-scrambles-scoop-up-medical-supplies-angering-canada-germany/",
+            "content": "The Trump administration ’ s global scramble to secure more protective mask for U.S. health-care worker have spark tension with ally include Canada and Germany , which fear they could face shortage a they battle their own coronavirus outbreak . ”\nPresident Trump announce late Thursday he be invoke the Defense Production Act in relation to 3M , suggest it be for punitive reason .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The Trump administration ’ s global scramble to secure more protective mask for U.S. health-care worker have spark tension with ally include Canada and Germany , which fear they could face shortage a they battle their own coronavirus outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nPresident Trump announce late Thursday he be invoke the Defense Production Act in relation to 3M , suggest it be for punitive reason .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

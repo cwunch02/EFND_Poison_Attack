@@ -1,0 +1,999 @@
+{
+    "event_id": "240933",
+    "claim": "Donald Trump once said: \"You never blame yourself; you have to blame something else. If you do something bad, never, ever blame yourself.\"",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "On March 13, 2020, U.S. President Donald Trump said during a press conference that he “didn’t take responsibility at all” for the government’s lagging behind other countries in terms of testing for new cases of the COVID-19 coronavirus disease after it was first detected in the United States (see video here).\nThis led to some renewed interest in an old quote ostensibly uttered by Trump and supposedly published in a 2005 issue of The Sun:\n\nThe alleged quote reads: “You never blame yourself. You have to blame something else. If you do something bad, never, ever blame yourself.”\nWe have been unable to verify the authenticity of this quote, nor have we been able to confirm that this image shows a genuine copy of The Sun from Sept. 12, 2005. We reached out to The Sun for comment and will update this article if more information becomes available. \nWe did find an instance of this quote in a 2004 article from the celebrity news agency WENN that was published on Contact Music. This 2004 story, however, is very light on details and provides no information about where, when, or in what context Trump made the comment.\nThe fact that this quote has been online since at least 2004 lends some credence to the idea that it is a genuine comment from Trump. Many of the fake quotes we encounter, for instance, are modern inventions that are only presented, perhaps in a fake newspaper clip, as if they were years old. However, we have been unable to find any other sources for this quote or any verifiable information about when and where it was said. As such, we’ve rated the truth of this claim as “Unproven.” \nTrump has made other statements regarding blame. In October 2017, for instance, Trump was speaking about how his administration wasn’t following through on its agenda before he shifted the blame to Congress:\n“We’re not getting the job done … And I’m not going to blame myself. I’ll be honest: They are not getting the job done.”\nBefore taking office, Trump expressed a different opinion about “where the buck stops.” In November 2013, he posted the following message on Twitter:\n\nLeadership: Whatever happens, you’re responsible. If it doesn’t happen, you’re responsible.",
+    "reports": [
+        {
+            "link": "https://www.dailykos.com/story/2020/3/2/1923666/-If-a-MAGA-Minion-on-social-media-says-COVID-19-spread-is-Democrat-s-fault-show-them-this",
+            "content": "On The Apprentice , tRUMP say , “ You never blame yourself ; you have to blame something else . If you do something bad , never , ever blame yourself . If anyone say to you that tRUMP be take the coronavirus COVID-19 seriously , show them this…\nVIDEO : tRUMP have admit what we all know ; that he do n't give a damn about others . VIDEO : tRUMP say to his rally crowd , just before an American dy , “ We have the resource we need and so far , we have lose nobody to coronavirus in the United States… nobody . -- Trump on the coronavirus\nIf anyone say tRUMP do not slash the budget , he surely try . ” Who need the medical expert speak to the American people when tRUMP can make a video say it isn ’ t as bad a people be saying…\nIf anyone say tRUMP be be transparent about the virus , why be he constantly lie about the number of infected , and contradict the expert ? tRUMP on the coronavirus : `` I think the whole situation will start work out . '' Don ’ t trust AP “ fact ” checker , FOX liar and MAGA minion say tRUMP didn ’ t slash program . Show them this…\nThere have be no WH team since 2018 , and Obama set up anti-pandemic program in 47 vulnerable country to protect against the next Pandemic — like this one , and tRUMP close 37 of them as well in 2018 . If a MAGA Minions on social medium say COVID-19 spread be Democrat 's fault … be tRUMP tell them all it be funny - VIDEO ... show them this , or copy and paste and ask them WHO MADE THAT CALL . VIDEO tRUMP : `` We 're work very strongly w/ China on the coronavirus that 's a new thing that a lot of people be talk about ... we have very little problem in this country at this moment . ”\nHHS and the State dept , to appease some noisy rich friend who be infect , agree to send 14 infect on the same flight with hundred of uninfected from the Diamond Princes even after CDC say it be too risky .",
+            "domain": "www.dailykos.com",
+            "tokenized": [
+                {
+                    "sent": "On The Apprentice , tRUMP say , “ You never blame yourself ; you have to blame something else .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you do something bad , never , ever blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If anyone say to you that tRUMP be take the coronavirus COVID-19 seriously , show them this…\nVIDEO : tRUMP have admit what we all know ; that he do n't give a damn about others .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "VIDEO : tRUMP say to his rally crowd , just before an American dy , “ We have the resource we need and so far , we have lose nobody to coronavirus in the United States… nobody .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "-- Trump on the coronavirus\nIf anyone say tRUMP do not slash the budget , he surely try .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Who need the medical expert speak to the American people when tRUMP can make a video say it isn ’ t as bad a people be saying…\nIf anyone say tRUMP be be transparent about the virus , why be he constantly lie about the number of infected , and contradict the expert ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "tRUMP on the coronavirus : `` I think the whole situation will start work out . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Don ’ t trust AP “ fact ” checker , FOX liar and MAGA minion say tRUMP didn ’ t slash program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Show them this…\nThere have be no WH team since 2018 , and Obama set up anti-pandemic program in 47 vulnerable country to protect against the next Pandemic — like this one , and tRUMP close 37 of them as well in 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a MAGA Minions on social medium say COVID-19 spread be Democrat 's fault … be tRUMP tell them all it be funny - VIDEO ... show them this , or copy and paste and ask them WHO MADE THAT CALL .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "VIDEO tRUMP : `` We 're work very strongly w/ China on the coronavirus that 's a new thing that a lot of people be talk about ... we have very little problem in this country at this moment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHHS and the State dept , to appease some noisy rich friend who be infect , agree to send 14 infect on the same flight with hundred of uninfected from the Diamond Princes even after CDC say it be too risky .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/ThrippforCongress/posts/you-never-blame-yourself-you-have-to-blame-something-else-if-you-do-something-ba/151097966412973/",
+            "content": "If you do something bad , never , ever blame yourself . '' `` You never blame yourself . He definitely say `` Yeah , no , I don ’ t take responsibility at all . '' -- Possibly say by Donald J. Trump in 2005 . You have to blame something else .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "If you do something bad , never , ever blame yourself . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` You never blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He definitely say `` Yeah , no , I don ’ t take responsibility at all . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "-- Possibly say by Donald J. Trump in 2005 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You have to blame something else .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://resurrectionla.org/gold-line-church-blog/2017/10/28/reflecting-on-repentance-with-donald-trump",
+            "content": "And this what he say :\n“ You never blame yourself ; you have to blame something else . If you do something bad , never , ever blame yourself . When Trump say to his apprentice , “ Never blame yourself , ” he be speak the prevailing wisdom of Americans on both the political right as well the political left . The quote be from none other than Donald Trump . This would be follow by a confession of sin , when we would admit in front of God and in front of all those gather that we have “ do something bad ” ( to use the word of Trump ) and we be to blame… . This wasn ’ t the presidential candidate Donald Trump we know today . So , it turn out that Trump ’ s quote really be not audacious at all , but rather the long prevailing logic of our culture . It be the billionaire real estate mogul turn television star of The Apprentice Donald Trump . ”\nWhen many of u read that quote today , we be likely to quickly file it under just another extreme , audacious ( and no longer surprising ) remark from Trump . ” [ 1 ] Thus Carnegie argue that criticism be futile because people invariably never blame themselves and will always seek to defend their action . Carnegie ’ s book demonstrate how Trump ’ s logic of “ blame shift ” be already embed in American culture go back at least 80 year . Here trump be actually speak on behalf of the majority culture .",
+            "domain": "resurrectionla.org",
+            "tokenized": [
+                {
+                    "sent": "And this what he say :\n“ You never blame yourself ; you have to blame something else .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you do something bad , never , ever blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Trump say to his apprentice , “ Never blame yourself , ” he be speak the prevailing wisdom of Americans on both the political right as well the political left .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The quote be from none other than Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This would be follow by a confession of sin , when we would admit in front of God and in front of all those gather that we have “ do something bad ” ( to use the word of Trump ) and we be to blame… .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This wasn ’ t the presidential candidate Donald Trump we know today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , it turn out that Trump ’ s quote really be not audacious at all , but rather the long prevailing logic of our culture .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be the billionaire real estate mogul turn television star of The Apprentice Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen many of u read that quote today , we be likely to quickly file it under just another extreme , audacious ( and no longer surprising ) remark from Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” [ 1 ] Thus Carnegie argue that criticism be futile because people invariably never blame themselves and will always seek to defend their action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Carnegie ’ s book demonstrate how Trump ’ s logic of “ blame shift ” be already embed in American culture go back at least 80 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here trump be actually speak on behalf of the majority culture .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/snopes/posts/the-alleged-quote-reads-you-never-blame-yourself-you-have-to-blame-something-els/1982692241875285/",
+            "content": "If you do something bad , never , ever blame yourself . The alleged quote read : “ You never blame yourself . You have to blame something else .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "If you do something bad , never , ever blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The alleged quote read : “ You never blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You have to blame something else .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.themountaineagle.com/articles/speak-your-piece-666/",
+            "content": "If you do something bad , never , ever blame yourself. Just like President Trump say : Coronavirus , nothing to worry about . ’ March 17 , 2020 — Trump say , ‘ I ’ ve felt it be a pandemic long before it be call a pandemic. To all the people who put Trump down : When you get your stimulus check this week , go ahead and send it right back to him . January 30 , 2020 — President Trump say the coronavirus be ‘ go to have a very good end for us. I have never be a lover of the color red , and that Chinese-red Trump hat will never touch my head . ’ — Donald J. Trump , September 12 , 2005 . ’ February 24 , 2020 — President Trump send out a tweet say his administration have the coronavirus ‘ very much under control ’ and that the stock market be ‘ start to look very good to me. — to learn that President Donald J. Trump , our country ’ s great virus fighter and protector of people , have a financial interest in the drug maker Sanofi , which produce Plaquenil , which be the brand-name version of the drug hydroxychloroquine . What if Barack Obama or Trump , our president , say this : The moon up there that shine on u at night be go to fall out from the sky on a Sunday in the middle of Whitesburg . January 29 , 2020 — President Trump ’ s economic adviser Peter Navarro warn Trump and his White House colleague that the coronavirus could kill more than 500,000 American citizen and cost our country ’ s treasury close to $ 6 trillion . Our president or Barack Obama do not say this , okay Thank you , Mr. Stanley Pack . You have to blame something else . ‘ You never blame yourself . Trump supporter will die believing in a lie overgrown child who take every opportunity to be see and bully everyone . It be say that Henry Ford state that he want to put a vehicle in every household , but then the greedy dog come along and raise the gas price , make plastic car , and raise their price so that only the rich and politician could afford to buy a new car . It ’ s the same drug Trump and his buddy at Fox News have be promote a the cure for COVID 19 . Thank the Republican Party for keep this idiot in office since January ; when by all right he should have be remove . Elijah laugh at them and say maybe he ’ s go to relieve himself , maybe he ’ s asleep . Well that ’ s a little bit strange when $ 125 million go to the John F. Kennedy Center for the Performing Arts , plus million more to others that have nothing to do with the problem we have right now . And this after tell u the first five case would simply just blow away , because he and his expert have it ‘ totally under control . I be glad we have a real president now that be go to roll back Obama ’ s foolishness , so hopefully now the poor will be able to buy a real new car for far less than these greedy automaker be try to sell them for now . So evidently all of these preacher be serve a god like that , because he ’ s a do-nothing god .",
+            "domain": "www.themountaineagle.com",
+            "tokenized": [
+                {
+                    "sent": "If you do something bad , never , ever blame yourself.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just like President Trump say : Coronavirus , nothing to worry about .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ March 17 , 2020 — Trump say , ‘ I ’ ve felt it be a pandemic long before it be call a pandemic.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To all the people who put Trump down : When you get your stimulus check this week , go ahead and send it right back to him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "January 30 , 2020 — President Trump say the coronavirus be ‘ go to have a very good end for us.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I have never be a lover of the color red , and that Chinese-red Trump hat will never touch my head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ — Donald J. Trump , September 12 , 2005 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ February 24 , 2020 — President Trump send out a tweet say his administration have the coronavirus ‘ very much under control ’ and that the stock market be ‘ start to look very good to me.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— to learn that President Donald J. Trump , our country ’ s great virus fighter and protector of people , have a financial interest in the drug maker Sanofi , which produce Plaquenil , which be the brand-name version of the drug hydroxychloroquine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What if Barack Obama or Trump , our president , say this : The moon up there that shine on u at night be go to fall out from the sky on a Sunday in the middle of Whitesburg .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "January 29 , 2020 — President Trump ’ s economic adviser Peter Navarro warn Trump and his White House colleague that the coronavirus could kill more than 500,000 American citizen and cost our country ’ s treasury close to $ 6 trillion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our president or Barack Obama do not say this , okay Thank you , Mr. Stanley Pack .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You have to blame something else .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "‘ You never blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump supporter will die believing in a lie overgrown child who take every opportunity to be see and bully everyone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be say that Henry Ford state that he want to put a vehicle in every household , but then the greedy dog come along and raise the gas price , make plastic car , and raise their price so that only the rich and politician could afford to buy a new car .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s the same drug Trump and his buddy at Fox News have be promote a the cure for COVID 19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thank the Republican Party for keep this idiot in office since January ; when by all right he should have be remove .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Elijah laugh at them and say maybe he ’ s go to relieve himself , maybe he ’ s asleep .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well that ’ s a little bit strange when $ 125 million go to the John F. Kennedy Center for the Performing Arts , plus million more to others that have nothing to do with the problem we have right now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And this after tell u the first five case would simply just blow away , because he and his expert have it ‘ totally under control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I be glad we have a real president now that be go to roll back Obama ’ s foolishness , so hopefully now the poor will be able to buy a real new car for far less than these greedy automaker be try to sell them for now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So evidently all of these preacher be serve a god like that , because he ’ s a do-nothing god .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/7027ede0a6e3fbf8c1dfc6d4613cd6bd",
+            "content": "“ I be not ban fracking , no matter how many time Donald Trump lie about me , ” he say . He say President Donald Trump be “ stroking violence . “ That be an interesting situation , ” say Trump . In a statement after Trump ’ s news conference comment , he say : “ Today , I travel to Pittsburgh to explain how the president be make America le safe — on COVID , on the economy , on crime , on racism , on violence — and reiterate my clear message that violence be not the answer to any of these problem . Biden say of Trump : “ He doesn ’ t want to shed light , he want to generate heat , and he ’ s stroke violence in our city . While the president blame Biden , his Democratic foe , for side with “ anarchist , ” Biden , in his most direct attack yet , accuse Trump of cause the division that have ignite the violence . ”\nTrump blame radical troublemaker whom he say be stir up and back by Biden . ”\nTrump say his appearance could “ increase enthusiasm ” in Wisconsin , which be a hotly contest battleground state in the presidential race . ...\n“ Just watch what Biden have to say , ” Trump tweet soon after the former vice president conclude his remark in Pittsburgh . “ To me , he ’ s blame the Police far more than he ’ s blame the Rioters , Anarchists , Agitators , and Looters , which he could never blame or he would lose the Radical Left Bernie support ! But when he be ask about one of his own supporter who be charge with kill two men during the mayhem in Kenosha , Wisconsin , he decline to denounce the killing and suggest that 17-year-old Kyle Rittenhouse be act in self-defense . They ’ re afraid they ’ re go to get COVID , they ’ re afraid they ’ re go to get sick and die , ” Biden say .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "“ I be not ban fracking , no matter how many time Donald Trump lie about me , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say President Donald Trump be “ stroking violence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ That be an interesting situation , ” say Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a statement after Trump ’ s news conference comment , he say : “ Today , I travel to Pittsburgh to explain how the president be make America le safe — on COVID , on the economy , on crime , on racism , on violence — and reiterate my clear message that violence be not the answer to any of these problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden say of Trump : “ He doesn ’ t want to shed light , he want to generate heat , and he ’ s stroke violence in our city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the president blame Biden , his Democratic foe , for side with “ anarchist , ” Biden , in his most direct attack yet , accuse Trump of cause the division that have ignite the violence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump blame radical troublemaker whom he say be stir up and back by Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump say his appearance could “ increase enthusiasm ” in Wisconsin , which be a hotly contest battleground state in the presidential race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "...\n“ Just watch what Biden have to say , ” Trump tweet soon after the former vice president conclude his remark in Pittsburgh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ To me , he ’ s blame the Police far more than he ’ s blame the Rioters , Anarchists , Agitators , and Looters , which he could never blame or he would lose the Radical Left Bernie support !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when he be ask about one of his own supporter who be charge with kill two men during the mayhem in Kenosha , Wisconsin , he decline to denounce the killing and suggest that 17-year-old Kyle Rittenhouse be act in self-defense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They ’ re afraid they ’ re go to get COVID , they ’ re afraid they ’ re go to get sick and die , ” Biden say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2017/10/16/558091752/trump-on-gop-failures-i-m-not-going-to-blame-myself-i-ll-be-honest",
+            "content": "President Trump say , do n't blame him . And I 'm not go to blame myself , I 'll be honest , '' Trump say during short remark in a Cabinet meeting . McConnell say , a Trump look on , `` We have the same agenda . '' `` We 've be friend for a long time , '' Trump stress , add , `` We 're probably now , despite what we read , close than ever before . '' `` There be some Republicans frankly that should be ashamed of themselves , '' Trump say . `` And I can understand where Steve Bannon be come from , '' Trump say , `` and I can understand , to be honest with you ... Trump say he understand it and seem supportive . `` I like and respect most of them , '' he say . He stress : `` The Republican Party be very , very unified . '' It 's a continued attempt by Trump to draw a line between him and Republicans in Congress . `` The goal here be to win election in November , '' McConnell say , point out that the candidate in 2010 and 2012 `` do n't appeal to a broad electorate . '' Trump be ask about his former chief strategist Steve Bannon 's effort to put up primary challenge to establishment Republicans in Congress . `` At the end of the day , '' Law say , `` I think our problem right now be not a Steve Bannon problem . He seem to soften his early remark , say it 's possible that `` some of the people maybe we talk him out of that . '' It 's something that have irritate Republicans , who feel the president have n't show the rigor to understand the detail of legislation to adequately sell it .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "President Trump say , do n't blame him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And I 'm not go to blame myself , I 'll be honest , '' Trump say during short remark in a Cabinet meeting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "McConnell say , a Trump look on , `` We have the same agenda . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We 've be friend for a long time , '' Trump stress , add , `` We 're probably now , despite what we read , close than ever before . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` There be some Republicans frankly that should be ashamed of themselves , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` And I can understand where Steve Bannon be come from , '' Trump say , `` and I can understand , to be honest with you ... Trump say he understand it and seem supportive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I like and respect most of them , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He stress : `` The Republican Party be very , very unified . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a continued attempt by Trump to draw a line between him and Republicans in Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The goal here be to win election in November , '' McConnell say , point out that the candidate in 2010 and 2012 `` do n't appeal to a broad electorate . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be ask about his former chief strategist Steve Bannon 's effort to put up primary challenge to establishment Republicans in Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` At the end of the day , '' Law say , `` I think our problem right now be not a Steve Bannon problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He seem to soften his early remark , say it 's possible that `` some of the people maybe we talk him out of that . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's something that have irritate Republicans , who feel the president have n't show the rigor to understand the detail of legislation to adequately sell it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/onpolitics/2016/06/14/donald-trump-70-birthday-quotes/85619552/",
+            "content": "” ( Trump : How to Get Rich , 2004 )\n51 ) “ I will never change this hairstyle , I like it . ’ And then another one would say , ‘ You have great hand , Mr. Trump , I have no idea. ” ( Fox Broadcast , 2016 )\n35 ) On call for Obama to resign for not say `` radical Islamic terrorism '' : '' He do n't get it or he get it good than anybody understand — it 's one or the other and either one be unacceptable . '' Donald Trump , the presumptive Republican presidential nominee , turn 70 Tuesday . As for my yacht , The Trump Princess , it be a dazzling trophy and a terrific business tool , but it never really become part of my personal life . Trump , you have strong hand . Black entertainer love Donald Trump . ” ( Trump Surviving at the Top , 1990 )\n58 ) “ I ’ ve never use an ATM . ” ( Trump Surviving at The Top , 1990 )\n48 ) “ My attitude be if somebody ’ s willing to pay me $ 225,000 to make a speech , it seem stupid not to show up . Trump , I would like to shake your hand. ( Fox News , 2016 )\n40 ) On an independent run : `` If I be treat fairly that 's the way it 's go to be , but I want to keep that door open . ” ( Trump Surviving at the Top , 1990 )\n29 ) On Bill Clinton ’ s sexual assault accuser : “ The whole group , it ’ s truly an unattractive cast of character — Linda Tripp , Lucianne Goldberg — I mean , this woman — I watch her on television , just vomit . If a limo pull up in front of Trump Tower , hundred of people gather around , even if it ’ s not mine . Trump , you ’ re fired' and then run away laugh . ” ( The Washington Post , 2016 )\n54 ) `` I like it , but I do n't need it . ( CNN , 2015 )\n42 ) “ Well , if I ever run for office , I ’ d do well a a Democrat than a a Republican — and that ’ s not because I ’ d be more liberal , because I ’ m conservative . ” ( MSNBC , 2016 )\n23 ) On say woman should be punish for abortion : “ I didn ’ t mean punishment for woman like prison . … I mean , people be write , ‘ How be Mr. Trump ’ s hand ? '' ( Twitter , November 19 , 2012 )\n65 ) “ I ’ ve never be the kind of guy who take his son out to Central Park to play catch , but I think I ’ m a good father. He shake my hand , hug me , sit down and say , ‘ I have the bad flu I ’ ve ever had. It ’ s just something you have , something you ’ re bear with . When I go to restaurant , especially since The Apprentice , I always get free meal — 'Oh please , Mr. Trump , there ’ s no charge'—even if I ’ m there with 10 or 15 people . When people see Trump Tower , I 'm not sure it would be appropriate for me to hop in a 1953 Chevy and drive away . If elect , he 'd be the old person ever elect to a first term a president . Russell say , ‘ You ’ re in more hip-hop song than any other person , ’ like five of them lately . ’ The guy look like he be die , and he ’ d just shake my hand . ’ And he ’ d say , ‘ I don ’ t know , man . This be Rubio that say , ‘ He have small hand and you know what that means.",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "” ( Trump : How to Get Rich , 2004 )\n51 ) “ I will never change this hairstyle , I like it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ And then another one would say , ‘ You have great hand , Mr. Trump , I have no idea.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Fox Broadcast , 2016 )\n35 ) On call for Obama to resign for not say `` radical Islamic terrorism '' : '' He do n't get it or he get it good than anybody understand — it 's one or the other and either one be unacceptable . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump , the presumptive Republican presidential nominee , turn 70 Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for my yacht , The Trump Princess , it be a dazzling trophy and a terrific business tool , but it never really become part of my personal life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , you have strong hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Black entertainer love Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Trump Surviving at the Top , 1990 )\n58 ) “ I ’ ve never use an ATM .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Trump Surviving at The Top , 1990 )\n48 ) “ My attitude be if somebody ’ s willing to pay me $ 225,000 to make a speech , it seem stupid not to show up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , I would like to shake your hand.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Fox News , 2016 )\n40 ) On an independent run : `` If I be treat fairly that 's the way it 's go to be , but I want to keep that door open .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Trump Surviving at the Top , 1990 )\n29 ) On Bill Clinton ’ s sexual assault accuser : “ The whole group , it ’ s truly an unattractive cast of character — Linda Tripp , Lucianne Goldberg — I mean , this woman — I watch her on television , just vomit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a limo pull up in front of Trump Tower , hundred of people gather around , even if it ’ s not mine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , you ’ re fired' and then run away laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( The Washington Post , 2016 )\n54 ) `` I like it , but I do n't need it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( CNN , 2015 )\n42 ) “ Well , if I ever run for office , I ’ d do well a a Democrat than a a Republican — and that ’ s not because I ’ d be more liberal , because I ’ m conservative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( MSNBC , 2016 )\n23 ) On say woman should be punish for abortion : “ I didn ’ t mean punishment for woman like prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "… I mean , people be write , ‘ How be Mr. Trump ’ s hand ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Twitter , November 19 , 2012 )\n65 ) “ I ’ ve never be the kind of guy who take his son out to Central Park to play catch , but I think I ’ m a good father.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He shake my hand , hug me , sit down and say , ‘ I have the bad flu I ’ ve ever had.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s just something you have , something you ’ re bear with .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When I go to restaurant , especially since The Apprentice , I always get free meal — 'Oh please , Mr. Trump , there ’ s no charge'—even if I ’ m there with 10 or 15 people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When people see Trump Tower , I 'm not sure it would be appropriate for me to hop in a 1953 Chevy and drive away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If elect , he 'd be the old person ever elect to a first term a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Russell say , ‘ You ’ re in more hip-hop song than any other person , ’ like five of them lately .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ The guy look like he be die , and he ’ d just shake my hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ And he ’ d say , ‘ I don ’ t know , man .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be Rubio that say , ‘ He have small hand and you know what that means.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://exbulletin.com/politics/25324/",
+            "content": "March 13 , 2020 , President Donald Trump say at a press conference that it have not take responsibility at all for government lag behind other country in term of screen for new case of COVID-19 coronavirus after it first detection in the United States ( see video here ) . In October 2017 , for example , Trump talk about how his administration be not stick to his program before he move the blame at the Congress :\nWere n't get the job and I 'm not go to blame myself . If you do something wrong , never blame yourself . The alleged quote read : you never blame yourself . Trump have make other statement regard the blame . You must blame something else . The fact that this quote have be online since at least 2004 lend credence to the idea that this be a true comment from Trump . All they have to do be to complete an online form with accurate and real info , then compare price '' , say Russell Rabichev , Marketing Director of Internet Marketing Company . All they have to do be to complete an online form with accurate and real info , then compare price '' , say Russell Rabichev , Marketing Director of Internet Marketing Company . However , we could not find any other source for this quote or any verifiable information about when and where it be say .",
+            "domain": "exbulletin.com",
+            "tokenized": [
+                {
+                    "sent": "March 13 , 2020 , President Donald Trump say at a press conference that it have not take responsibility at all for government lag behind other country in term of screen for new case of COVID-19 coronavirus after it first detection in the United States ( see video here ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In October 2017 , for example , Trump talk about how his administration be not stick to his program before he move the blame at the Congress :\nWere n't get the job and I 'm not go to blame myself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you do something wrong , never blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The alleged quote read : you never blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have make other statement regard the blame .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You must blame something else .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The fact that this quote have be online since at least 2004 lend credence to the idea that this be a true comment from Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "All they have to do be to complete an online form with accurate and real info , then compare price '' , say Russell Rabichev , Marketing Director of Internet Marketing Company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All they have to do be to complete an online form with accurate and real info , then compare price '' , say Russell Rabichev , Marketing Director of Internet Marketing Company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , we could not find any other source for this quote or any verifiable information about when and where it be say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.stltoday.com/html_fb37bcf1-1712-54a2-890f-ae8450c61c0e.html",
+            "content": "“ When he be die , he say , ‘ Y ’ all never blame yourself for my death. ’ He say , ‘ I know y ’ all do everything you could. ”\nThe family say they think it be something in the air that they breathe a to why cancer be so common within the area , but get the money together need to conduct an environmental study fall low on their agenda when their home be at stake . “ Having such a disease , it make you feel different then everyone else , like you ’ re not in the circle anymore .",
+            "domain": "www.stltoday.com",
+            "tokenized": [
+                {
+                    "sent": "“ When he be die , he say , ‘ Y ’ all never blame yourself for my death.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ He say , ‘ I know y ’ all do everything you could.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe family say they think it be something in the air that they breathe a to why cancer be so common within the area , but get the money together need to conduct an environmental study fall low on their agenda when their home be at stake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Having such a disease , it make you feel different then everyone else , like you ’ re not in the circle anymore .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.msnbc.com/rachel-maddow-show/trump-rationalizes-his-failures-im-not-going-blame-myself-msna1029696",
+            "content": "Initially , Trump say `` we 're '' not get the job do , suggest he and other Republicans collectively need to pick up their game , before he realize that he should clarify matter . One of the early controversy of Donald Trump 's presidency come after he authorize a mission in Yemen , which claim the life of Navy SEAL William `` Ryan '' Owens . And while that obviously do n't happen , the president 's response be nevertheless an early reminder that in Trump World , the buck always stop somewhere else . Postscript : Around this time five year ago , Trump argue in a tweet , `` Obama 's complaint about Republicans stop his agenda be BS since he have full control for two year . It be a quote that , under normal political condition , might have come to define Trump 's presidency , haunt him at every turn . Trump exploit Owens ' death , make dubious claim about the mission , and ultimately try to avoid responsibility for the operation he personally authorize . But Trump have show considerably less interest in provide a help hand to McConnell and Ryan than he have in absolve himself of the blame for their failure to produce . Three quarter of the way through his first year in office , Trump 's list of scapegoat be stagger . `` And I 'm not go to blame myself , I 'll be honest . `` This be something that be , you know , just , they want to do , '' the president say , refer to U.S. general . He can never take responsibility . '' The more he fail , the more he ask Americans to blame Barack Obama . `` Despite what the press write , I have great relationship with actually many senator , but in particular with most Republican senator .",
+            "domain": "www.msnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Initially , Trump say `` we 're '' not get the job do , suggest he and other Republicans collectively need to pick up their game , before he realize that he should clarify matter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One of the early controversy of Donald Trump 's presidency come after he authorize a mission in Yemen , which claim the life of Navy SEAL William `` Ryan '' Owens .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And while that obviously do n't happen , the president 's response be nevertheless an early reminder that in Trump World , the buck always stop somewhere else .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Postscript : Around this time five year ago , Trump argue in a tweet , `` Obama 's complaint about Republicans stop his agenda be BS since he have full control for two year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be a quote that , under normal political condition , might have come to define Trump 's presidency , haunt him at every turn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump exploit Owens ' death , make dubious claim about the mission , and ultimately try to avoid responsibility for the operation he personally authorize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Trump have show considerably less interest in provide a help hand to McConnell and Ryan than he have in absolve himself of the blame for their failure to produce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three quarter of the way through his first year in office , Trump 's list of scapegoat be stagger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` And I 'm not go to blame myself , I 'll be honest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This be something that be , you know , just , they want to do , '' the president say , refer to U.S. general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He can never take responsibility . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The more he fail , the more he ask Americans to blame Barack Obama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Despite what the press write , I have great relationship with actually many senator , but in particular with most Republican senator .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/the-fix/wp/2017/10/16/trumps-quote-about-shifting-blame-just-about-says-it-all/",
+            "content": "If there be one microcosm of Trump 's attitude toward blame acceptance , this be it . But Trump have show considerably less interest in provide a help hand to McConnell and Ryan than he have in absolve himself of the blame for their failure to produce . In the span of a few second , Trump serve notice that he separate himself from any responsibility for what Congress do or do n't do . Shortly after make the comment above , Trump also suggest he understand why his former top White House aide , Steve Bannon , would target a bunch of Republican incumbent in primary . But Trump seem to be attempt in one fell swoop something he 's fail to do on an individual basis when it have count — win the vote of key lawmaker use his bully pulpit . Trump be almost always far to the latter end of the spectrum . And whether you think he shoulder lot of blame or even just a little , he certainly carry at least some of the blame for that . And at it 's core , it 's more a sign of desperation than it be of his power a president . I 'll be honest : They be not get the job do , ” he say , refer to Congress .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "If there be one microcosm of Trump 's attitude toward blame acceptance , this be it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Trump have show considerably less interest in provide a help hand to McConnell and Ryan than he have in absolve himself of the blame for their failure to produce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the span of a few second , Trump serve notice that he separate himself from any responsibility for what Congress do or do n't do .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Shortly after make the comment above , Trump also suggest he understand why his former top White House aide , Steve Bannon , would target a bunch of Republican incumbent in primary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Trump seem to be attempt in one fell swoop something he 's fail to do on an individual basis when it have count — win the vote of key lawmaker use his bully pulpit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be almost always far to the latter end of the spectrum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And whether you think he shoulder lot of blame or even just a little , he certainly carry at least some of the blame for that .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And at it 's core , it 's more a sign of desperation than it be of his power a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 'll be honest : They be not get the job do , ” he say , refer to Congress .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/magazine/story/2015/08/the-absolute-trumpest-121328",
+            "content": "” ( TrumpNation : The Art of Being The Donald , 2005 )\n175 . ” ( TrumpNation : The Art of Being The Donald , 2005 )\n60 . “ I have really give a lot of woman great opportunity , ” Trump say . ” ( Birch Run , Mich. , Aug. 11 , 2015 )\nDonald Trump , who own the Miss USA pageant , pose on his yacht with 22 state beauty pageant winner in Atlantic City 1988 . You don ’ t mind travel around in beautiful helicopter and airplane , and you don ’ t mind living at the top of Trump Tower , or at Mar-a-Lago , or travel to the best hotel , or shopping in the best store and never have to worry about money , do you ? I fight hard for victory , and I think I enjoy it as much a I ever do . “ I see the value of this country in the way crime be tolerate , where the people be virtually afraid to say , ‘ I want the death penalty. “ I truly believe that someone successful be never really happy , because dissatisfaction be what drive him. “ My marriage , it seem , be the only area of my life in which I be willing to accept something less than perfection. “ For many year I ’ ve say that if someone screw you , screw them back . “ Well , if I ever run for office , I ’ d do well a a Democrat than a a Republican—and that ’ s not because I ’ d be more liberal , because I ’ m conservative . Boy , it never end . “ I can never apologize for the truth. As far a I ’ m concern , if they have any real ability they wouldn ’ t be fight me , they ’ d be do something constructive themselves. You can have the great singer in the world , but if nobody know who he be , he ’ ll never have the opportunity to sing. I never think of the negative. And I ’ m not say she ’ s an unattractive woman , but she ’ s not a beauty , by any stretch of the imagination . I 've never gamble in my life . When somebody hurt you , just go after them a viciously and as violently a you can. They be far bad than men , far more aggressive … ” ( The Art of the Comeback , 1997 )\n37 . “ There ’ s nothing I love more than woman , but they ’ re really a lot different than portray .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "” ( TrumpNation : The Art of Being The Donald , 2005 )\n175 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( TrumpNation : The Art of Being The Donald , 2005 )\n60 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I have really give a lot of woman great opportunity , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Birch Run , Mich. , Aug. 11 , 2015 )\nDonald Trump , who own the Miss USA pageant , pose on his yacht with 22 state beauty pageant winner in Atlantic City 1988 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You don ’ t mind travel around in beautiful helicopter and airplane , and you don ’ t mind living at the top of Trump Tower , or at Mar-a-Lago , or travel to the best hotel , or shopping in the best store and never have to worry about money , do you ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I fight hard for victory , and I think I enjoy it as much a I ever do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I see the value of this country in the way crime be tolerate , where the people be virtually afraid to say , ‘ I want the death penalty.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I truly believe that someone successful be never really happy , because dissatisfaction be what drive him.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ My marriage , it seem , be the only area of my life in which I be willing to accept something less than perfection.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ For many year I ’ ve say that if someone screw you , screw them back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Well , if I ever run for office , I ’ d do well a a Democrat than a a Republican—and that ’ s not because I ’ d be more liberal , because I ’ m conservative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Boy , it never end .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I can never apologize for the truth.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As far a I ’ m concern , if they have any real ability they wouldn ’ t be fight me , they ’ d be do something constructive themselves.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can have the great singer in the world , but if nobody know who he be , he ’ ll never have the opportunity to sing.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I never think of the negative.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And I ’ m not say she ’ s an unattractive woman , but she ’ s not a beauty , by any stretch of the imagination .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 've never gamble in my life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When somebody hurt you , just go after them a viciously and as violently a you can.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They be far bad than men , far more aggressive … ” ( The Art of the Comeback , 1997 )\n37 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ There ’ s nothing I love more than woman , but they ’ re really a lot different than portray .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.denverpost.com/2014/09/11/victims-of-domestic-abuse-live-in-fear-and-often-blame-themselves/",
+            "content": "His safety be never threaten , ” Murray say . Then he grab my wrist , and I say , ‘ Don ’ t ever touch me like that again , ’ ” and he didn ’ t . She understand why Janay Palmer , now Rice ’ s wife , not only openly blame herself for that incident but remain with her abuser . As a society , we have to say that ’ s not OK. We shouldn ’ t be blame her for stay . “ And that do happen ; it ’ s not an empty threat , ” Ruff say . Crisis worker say that even though they see more abuse victim , many never come forward out of fear and embarrassment . ) He never hit her , but he carefully find way to isolate her from her friend and family . “ Every time after , he promise he would not do it again . “ It ’ s embarrass ; you don ’ t want to tell your family what ’ s happen , ” say Maria , another abuse survivor . ”\n“ For domestic violence to exist , there must be one or more of these : punishment , coercion , control , intimidation and revenge , ” say Denver Police Chief of Staff Lt. Matt Murray , who have spend nearly 25 year specialize in domestic violence case .",
+            "domain": "www.denverpost.com",
+            "tokenized": [
+                {
+                    "sent": "His safety be never threaten , ” Murray say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then he grab my wrist , and I say , ‘ Don ’ t ever touch me like that again , ’ ” and he didn ’ t .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She understand why Janay Palmer , now Rice ’ s wife , not only openly blame herself for that incident but remain with her abuser .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a society , we have to say that ’ s not OK. We shouldn ’ t be blame her for stay .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ And that do happen ; it ’ s not an empty threat , ” Ruff say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Crisis worker say that even though they see more abuse victim , many never come forward out of fear and embarrassment . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He never hit her , but he carefully find way to isolate her from her friend and family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Every time after , he promise he would not do it again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s embarrass ; you don ’ t want to tell your family what ’ s happen , ” say Maria , another abuse survivor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ For domestic violence to exist , there must be one or more of these : punishment , coercion , control , intimidation and revenge , ” say Denver Police Chief of Staff Lt. Matt Murray , who have spend nearly 25 year specialize in domestic violence case .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/uk-england-cornwall-20583365?print=true",
+            "content": "She say victim should never blame themselves . Ms Nash , 31 , say that despite the fact she `` leave him numerous time '' after assault , she blame herself for cause his violence . `` You think you push them to that , you think : 'Perhaps I do n't say that right ' or , 'Is it something I 've do ? She say : `` You do blame yourself . She say : `` I believe that I 'm a lot far on than I expect to be .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "She say victim should never blame themselves .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms Nash , 31 , say that despite the fact she `` leave him numerous time '' after assault , she blame herself for cause his violence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` You think you push them to that , you think : 'Perhaps I do n't say that right ' or , 'Is it something I 've do ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say : `` You do blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say : `` I believe that I 'm a lot far on than I expect to be .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.today.com/news/woman-paralyzed-fathers-accident-i-never-blame-my-dad-6C10088200",
+            "content": "I never blame God and definitely never blame my dad . ”\nBut his daughter say she have never felt the need to blame anyone for the accident . She look at me and say , ‘ If I die , don ’ t blame yourself . I be think about something else , ” he say . I never even get up , I just look back like that , so I figure that I saw him , he saw me , or whatever . I 'm afraid she be go to die , ” he say . I just remember tell him , ‘ You know , I ’ m okay . “ When I first get hurt , I do n't think the world be full of such good people and people that be really genuine and just want to help outta the goodness of their heart , ” she say . An accident while sunbathe in her family ’ s driveway leave Cindy Donald paralyze from the neck down . The year of recovery that have since pass have draw the 21-year-old former cheerleader closer than ever to the man responsible for the tragedy : her father .",
+            "domain": "www.today.com",
+            "tokenized": [
+                {
+                    "sent": "I never blame God and definitely never blame my dad .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut his daughter say she have never felt the need to blame anyone for the accident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She look at me and say , ‘ If I die , don ’ t blame yourself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I be think about something else , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I never even get up , I just look back like that , so I figure that I saw him , he saw me , or whatever .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 'm afraid she be go to die , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I just remember tell him , ‘ You know , I ’ m okay .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When I first get hurt , I do n't think the world be full of such good people and people that be really genuine and just want to help outta the goodness of their heart , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An accident while sunbathe in her family ’ s driveway leave Cindy Donald paralyze from the neck down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The year of recovery that have since pass have draw the 21-year-old former cheerleader closer than ever to the man responsible for the tragedy : her father .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/stop-blaming-yourself_b_7707614",
+            "content": "So now I 'm here to say sorry , but I 'm not sorry . If we keep wall up every single time we meet someone to protect ourselves from get hurt , we 'd live a life of sheer loneliness -- and there 's nothing bad than that . Do n't blame yourself for need certain component from a relationship or a career that someone else may not feel be necessary . The relationship you have with your own heart , mind and soul be the most important relationship you can have . There 's no such thing a `` too much '' when it come to feeling .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "So now I 'm here to say sorry , but I 'm not sorry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If we keep wall up every single time we meet someone to protect ourselves from get hurt , we 'd live a life of sheer loneliness -- and there 's nothing bad than that .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Do n't blame yourself for need certain component from a relationship or a career that someone else may not feel be necessary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The relationship you have with your own heart , mind and soul be the most important relationship you can have .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's no such thing a `` too much '' when it come to feeling .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.timeslive.co.za/news/south-africa/2019-10-24-never-blame-yourself-dont-think-you-hired-someone-to-kill-your-child-mourners-tell-toddlers-mother/",
+            "content": "There will be a time when you will want to blame yourself , when you will be depress but God be still there , ” he add . “ We hope that the law will be tough because no-one should ever lose their child in this way , ” she add . Moss Mnguni , the distraught mother 's uncle , tell mourner that perhaps sign that something be amiss have be overlook . “ All I can say be stay strong .",
+            "domain": "www.timeslive.co.za",
+            "tokenized": [
+                {
+                    "sent": "There will be a time when you will want to blame yourself , when you will be depress but God be still there , ” he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We hope that the law will be tough because no-one should ever lose their child in this way , ” she add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Moss Mnguni , the distraught mother 's uncle , tell mourner that perhaps sign that something be amiss have be overlook .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ All I can say be stay strong .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://twitter.com/davidfrum/status/1184498968681762833?lang=en",
+            "content": "Trump consistently shift blame after every failure …",
+            "domain": "twitter.com",
+            "tokenized": [
+                {
+                    "sent": "Trump consistently shift blame after every failure …",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-mideast-crisis-turkey-kurds/turkeys-erdogan-says-will-never-allow-kurdish-state-media-idUSKBN0P70QB20150627",
+            "content": "ISTANBUL ( Reuters ) - President Tayyip Erdogan be quote on Saturday a say Turkey would never allow the formation of a Kurdish state embrace it south-east and part of northern Syria , comment likely to anger Kurds a a peace process with Ankara stall . We will continue our fight in this regard no matter what it cost , ” local medium quote Erdogan a say during a dinner late on Friday . The HDP say this week the Kobani attack be the direct result of year of Turkish state support for Islamic militant , something Erdogan angrily deny . Syrian Kurdish fighter say on Saturday they have fully secure the town of Kobani near the Turkish border and kill more than 60 Islamic State militant , after two day of fight that saw Islamic State kill around 200 civilian .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "ISTANBUL ( Reuters ) - President Tayyip Erdogan be quote on Saturday a say Turkey would never allow the formation of a Kurdish state embrace it south-east and part of northern Syria , comment likely to anger Kurds a a peace process with Ankara stall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We will continue our fight in this regard no matter what it cost , ” local medium quote Erdogan a say during a dinner late on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The HDP say this week the Kobani attack be the direct result of year of Turkish state support for Islamic militant , something Erdogan angrily deny .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Syrian Kurdish fighter say on Saturday they have fully secure the town of Kobani near the Turkish border and kill more than 60 Islamic State militant , after two day of fight that saw Islamic State kill around 200 civilian .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-olympics-hockey-india/blame-yourself-umpires-chairman-tells-india-idUSBOM27880920080320",
+            "content": "“ Blaming umpire be a weakness , and use those tactic will never bring a victory or qualification .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "“ Blaming umpire be a weakness , and use those tactic will never bring a victory or qualification .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

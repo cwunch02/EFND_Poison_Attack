@@ -1,0 +1,697 @@
+{
+    "event_id": "243827",
+    "claim": "U.S. President Trump wrote Sen. Chuck Schumer, D-New York, a letter blaming the state's medical-supply shortage amid an ongoing pandemic on impeachment proceedings against Trump.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In early April 2020, social media users shared images in disbelief of what appeared to be a letter from Republican U.S. President Donald Trump to Democratic U.S. Senate Minority Leader Chuck Schumer, D-New York. Here’s an example of a query, posted to Twitter, with the user’s name cropped out for privacy.\n\nThe letter, dated April 2, 2020, is indeed real and was posted to WhiteHouse.gov. Signed by Trump, the letter is an expression of the acrimony between Trump and legislators from New York, a state that has been ravaged by the deadly COVID-19 coronavirus disease pandemic. Trump and the Democratic leadership of that state had been trading accusations, with political leaders of the Empire State accusing the Trump administration of failing to mount an adequate federal response and provide desperately needed medical equipment as the death toll rises.\nTrump’s letter to Schumer appeared to blame the shortage of supplies, like diagnostic tests, protective gear for medical workers, and ventilators, on impeachment proceedings against Trump. He was impeached by the U.S. House of Representatives in December 2019 and acquitted by the Senate in early February 2020. The letter reads, in part:\nIf you spent less time on your ridiculous impeachment hoax, which went haplessly on forever and ended up going nowhere (except increasing my poll numbers), and instead focused on helping the people of New York, then New York would not have been so completely unprepared for the “invisible enemy.” No wonder AOC [U.S. Rep. Alexandria Ocasio-Cortez] and others are thinking about running against you in the primary. If they did, they would likely win.\nTrump’s letter was in response to a letter that Schumer sent him the same day. Schumer’s letter urged Trump to use the full authority of the so-called Defense Protection Act to close the gap in equipment shortfalls as the virus swept across the country and to prevent states from being forced to bid against each other in order to acquire medical supplies and protective equipment. The letter also implored Trump to designate a senior military official to oversee production of supplies and accused the Trump administration of “tardiness and inadequacy” in its response.\nAs of this writing, the state of New York has more than 100,000 COVID-19 cases, with 2,935 deaths. The United States has a total of 258,611 cases, with 6,660 deaths.",
+    "reports": [
+        {
+            "link": "https://www.axios.com/trump-coronavirus-schumer-impeachment-4455884d-14c1-4a7d-9886-de158667bc57.html",
+            "content": "President Trump accuse Senate Minority Leader Chuck Schumer of be `` miss in action '' during the coronavirus crisis , write in a scathing letter on Thursday that Schumer 's focus on the `` ridiculous impeachment hoax '' result in New York be ill-prepared for the pandemic . The president finish by writing : `` I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President . The bottom line : The letter , which appear on White House letterhead , reads much like a Trump tweet would .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump accuse Senate Minority Leader Chuck Schumer of be `` miss in action '' during the coronavirus crisis , write in a scathing letter on Thursday that Schumer 's focus on the `` ridiculous impeachment hoax '' result in New York be ill-prepared for the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president finish by writing : `` I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bottom line : The letter , which appear on White House letterhead , reads much like a Trump tweet would .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/04/02/coronavirus-trump-schumer-trade-insults-over-pandemic-response/5117856002/",
+            "content": "WASHINGTON – President Donald Trump rip Sen. Charles Schumer in a notably nasty letter on Thursday , blame his support of impeachment in part for New York's lack of readiness regard the spread of the coronavirus . `` If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy , '' Trump write in a reply to a letter Schumer have send him earlier in the day . Schumer have send a more tempered letter to Trump , say it be the federal government that be not ready for the coronavirus pandemic . In his follow-up letter , make public a Trump conduct a coronavirus news conference at the White House , the president accuse Schumer of `` incorrect sound bite , which be wrong in every way . '' A former New York resident , Trump also tell the state 's senior senator : '' I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President . '' Schumer , D-N.Y. , have be an outspoken critic of what he call the Trump administration 's `` confuse and uncoordinated '' response to the coronavirus pandemic . Trump send a similarly nasty letter to House Speaker Nancy Pelosi , D-Calif. , in December during the height of the impeachment crisis . Trump 's letter be the late volley in a new war of word with the Senate 's top Democrat . In his harangue to Pelosi , Trump write : “ Your Speakership and your party be hold hostage by your most deranged and radical representative of the far left .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON – President Donald Trump rip Sen. Charles Schumer in a notably nasty letter on Thursday , blame his support of impeachment in part for New York's lack of readiness regard the spread of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy , '' Trump write in a reply to a letter Schumer have send him earlier in the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Schumer have send a more tempered letter to Trump , say it be the federal government that be not ready for the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In his follow-up letter , make public a Trump conduct a coronavirus news conference at the White House , the president accuse Schumer of `` incorrect sound bite , which be wrong in every way . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A former New York resident , Trump also tell the state 's senior senator : '' I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer , D-N.Y. , have be an outspoken critic of what he call the Trump administration 's `` confuse and uncoordinated '' response to the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump send a similarly nasty letter to House Speaker Nancy Pelosi , D-Calif. , in December during the height of the impeachment crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's letter be the late volley in a new war of word with the Senate 's top Democrat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In his harangue to Pelosi , Trump write : “ Your Speakership and your party be hold hostage by your most deranged and radical representative of the far left .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/04/read-trumps-letter-blaming-coronavirus-in-ny-on-impeachment.html",
+            "content": "But on Thursday , Trump manage it all when he respond to a letter from Chuck Schumer , call the Senate Minority Leader “ wrong in every way ” and blame the massive outbreak in New York — which begin in March — on the impeachment process that end in early February . Just a that claim ignore the timeline of the crisis — New York have it first coronavirus case almost a full month after the impeachment wrap up — Trump also ignore his administration ’ s failure to secure proper test in the early day of the pandemic , when decisive federal action could have substantially mitigate outbreak like that in Trump ’ s birth state . Trump respond to Sen. Chuck Schumer ’ s letter criticize his response to the coronavirus outbreak : “ No wonder @ AOC and others be think about run against you in the primary . It begin with a letter from the New York senator , in which Schumer call on Trump to appoint a logistical expert from the military to use the Defense Production Act to properly allocate resource to the state . The insult direct at Schumer be make even strange by an account from his office , which state that after the senator “ make clear what he be request , the president say he be already in the process of send a ‘ very nasty letter ’ to Sen. Schumer , but he would try to stop it from go out and would apologize to Sen. Schumer if he didn ’ t stop it in time. “ If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the ‘ invisible enemy , ’ ” Trump write . After sham New York for the immense breakout in the state — where 2,373 people have already die from COVID-19 — the letter end on a dubious allegation , claim that the impeachment trial exacerbate the current crisis on the ground in the Empire State . ” In that light , Trump ’ s jab come with an assumed pre-apology , a rare caveat for this president . The president write back , call the correspondence a “ public relation letter ” full of “ incorrect sound bites. Between his hours-long coronavirus press conference and mismanage an unprecedented public health crisis , one would imagine the president be too busy to find time to properly insult his political rival .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "But on Thursday , Trump manage it all when he respond to a letter from Chuck Schumer , call the Senate Minority Leader “ wrong in every way ” and blame the massive outbreak in New York — which begin in March — on the impeachment process that end in early February .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just a that claim ignore the timeline of the crisis — New York have it first coronavirus case almost a full month after the impeachment wrap up — Trump also ignore his administration ’ s failure to secure proper test in the early day of the pandemic , when decisive federal action could have substantially mitigate outbreak like that in Trump ’ s birth state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump respond to Sen. Chuck Schumer ’ s letter criticize his response to the coronavirus outbreak : “ No wonder @ AOC and others be think about run against you in the primary .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It begin with a letter from the New York senator , in which Schumer call on Trump to appoint a logistical expert from the military to use the Defense Production Act to properly allocate resource to the state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The insult direct at Schumer be make even strange by an account from his office , which state that after the senator “ make clear what he be request , the president say he be already in the process of send a ‘ very nasty letter ’ to Sen. Schumer , but he would try to stop it from go out and would apologize to Sen. Schumer if he didn ’ t stop it in time.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the ‘ invisible enemy , ’ ” Trump write .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After sham New York for the immense breakout in the state — where 2,373 people have already die from COVID-19 — the letter end on a dubious allegation , claim that the impeachment trial exacerbate the current crisis on the ground in the Empire State .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In that light , Trump ’ s jab come with an assumed pre-apology , a rare caveat for this president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president write back , call the correspondence a “ public relation letter ” full of “ incorrect sound bites.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Between his hours-long coronavirus press conference and mismanage an unprecedented public health crisis , one would imagine the president be too busy to find time to properly insult his political rival .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://deadline.com/2020/04/coronavirus-donald-trump-chuck-schumer-1202899432/",
+            "content": "As President Donald Trump be at Thursday ’ s coronavirus press brief call for lawmaker to get beyond partisanship , the White House release a letter he send to Chuck Schumer trash him a a senator . ”\nSchumer , in a letter to the president , have call for Trump to appoint a senior military officer to fix supply chain problem , rather than rely on a “ patchwork of uncoordinated voluntary effort ” to combat the pandemic . ”\nDuring the briefing , WH release this letter from Trump to Chuck Schumer . On MSNBC ’ s All In With Chris Hayes , Schumer explain that the intent of the letter be to suggest that the president put in place a military person who could make sense of the patchwork of state governor look for supply . “ You have be miss in action , except when it come to the ‘ press , ' ” Trump write . ”\nHe accuse Schumer of spend too much time on the “ impeachment hoax , ” and say that he could have be “ focus on help the people of New York , then New York would not have be so completely unprepared for the ‘ invisible enemy. ”\nHe add , “ I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+            "domain": "deadline.com",
+            "tokenized": [
+                {
+                    "sent": "As President Donald Trump be at Thursday ’ s coronavirus press brief call for lawmaker to get beyond partisanship , the White House release a letter he send to Chuck Schumer trash him a a senator .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nSchumer , in a letter to the president , have call for Trump to appoint a senior military officer to fix supply chain problem , rather than rely on a “ patchwork of uncoordinated voluntary effort ” to combat the pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nDuring the briefing , WH release this letter from Trump to Chuck Schumer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On MSNBC ’ s All In With Chris Hayes , Schumer explain that the intent of the letter be to suggest that the president put in place a military person who could make sense of the patchwork of state governor look for supply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You have be miss in action , except when it come to the ‘ press , ' ” Trump write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHe accuse Schumer of spend too much time on the “ impeachment hoax , ” and say that he could have be “ focus on help the people of New York , then New York would not have be so completely unprepared for the ‘ invisible enemy.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nHe add , “ I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foreign.senate.gov/press/ranking/release/menendez-and-schumer-call-on-president-trump-to-declassify-war-powers-act-notification-letter",
+            "content": "The full text of Ranking Member Menendez ’ s and Leader Schumer ’ s letter to President Trump can be find here and below :\nWe write to request and urge you to immediately declassify in full the January 4 , 2020 war power notification you submit to Congress follow the U.S. military operation target Islamic Revolutionary Guard Corps Quds Force Commander Qasem Soleimani . In the letter to President Trump , the senator say it be critical for the Trump administration to share additional information in a timely manner with the American people about the U.S. military operation target Islamic Revolutionary Guard Corps Quds Force Commander Qasem Soleimani . WASHINGTON – In a letter to President Donald Trump , Senate Foreign Relations Committee Ranking Member Bob Menendez and Senate Democratic Leader Chuck Schumer call for the Trump administration to immediately declassify the White House notification to Congress of the initiation of hostility against Iran , pursuant to the War Powers Act of 1973 .",
+            "domain": "www.foreign.senate.gov",
+            "tokenized": [
+                {
+                    "sent": "The full text of Ranking Member Menendez ’ s and Leader Schumer ’ s letter to President Trump can be find here and below :\nWe write to request and urge you to immediately declassify in full the January 4 , 2020 war power notification you submit to Congress follow the U.S. military operation target Islamic Revolutionary Guard Corps Quds Force Commander Qasem Soleimani .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the letter to President Trump , the senator say it be critical for the Trump administration to share additional information in a timely manner with the American people about the U.S. military operation target Islamic Revolutionary Guard Corps Quds Force Commander Qasem Soleimani .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON – In a letter to President Donald Trump , Senate Foreign Relations Committee Ranking Member Bob Menendez and Senate Democratic Leader Chuck Schumer call for the Trump administration to immediately declassify the White House notification to Congress of the initiation of hostility against Iran , pursuant to the War Powers Act of 1973 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-in-letter-blames-schumer-for-covid-19-response-in-new-york-2020-4",
+            "content": "Capping a week when some be praise President Donald Trump 's new and somber tone , the president , on Thursday , send a missive to the Senate 's top Democrat , Chuck Schumer . In the message , Trump boast of his poll number and blame a federal lawmaker for the alleged failure of New York 's state government . `` This be a matter of the utmost urgency for the health of every American , '' Schumer write to the president earlier in the day . Despite the shortage , Trump , in his letter , claim he do not need to invoke the Defense Production Act a the mere threat of do so be enough to get company to `` do whatever we be ask . '' `` If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy , '' the US president assert .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Capping a week when some be praise President Donald Trump 's new and somber tone , the president , on Thursday , send a missive to the Senate 's top Democrat , Chuck Schumer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the message , Trump boast of his poll number and blame a federal lawmaker for the alleged failure of New York 's state government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This be a matter of the utmost urgency for the health of every American , '' Schumer write to the president earlier in the day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite the shortage , Trump , in his letter , claim he do not need to invoke the Defense Production Act a the mere threat of do so be enough to get company to `` do whatever we be ask . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` If you spend less time on your ridiculous impeachment hoax , which go haplessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy , '' the US president assert .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/2020/04/03/midst-crisis-trump-issues-playground-taunts/",
+            "content": "Written in response to a note from Schumer ask the president to invoke the Defense Production Act to direct more manufacturing of key equipment need to fight the coronavirus , Trump ’ s note start by call Schumer ’ s request a “ Democrat public relation letter. ” Like the letter to Schumer , this note take the focus off Sessions and place it squarely on Trump and his campaign ’ s mean-spirited word . ”\nFull coverage of the coronavirus pandemic\nThe second note didn ’ t come from Trump himself , but it display all of the president ’ s lack of class . The letter call Sessions “ delusional ” and accuse the former attorney general of try to “ confuse President Trump ’ s loyal supporter in Alabama into believe the President support your candidacy in the upcoming primary run-off election. Instead , the chief operating officer for Trump ’ s reelection campaign write to Sessions demand that he and his campaign stop making claim that “ wrongly suggest ” Trump be back Sessions . He have thus try to thread the needle by express his support for Trump and his agenda despite the president ’ s decision to endorse Sessions ’ s opponent in the Republican primary , former Auburn football coach Tommy Tuberville . The putative leader of the free world concludes by say “ I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Written in response to a note from Schumer ask the president to invoke the Defense Production Act to direct more manufacturing of key equipment need to fight the coronavirus , Trump ’ s note start by call Schumer ’ s request a “ Democrat public relation letter.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Like the letter to Schumer , this note take the focus off Sessions and place it squarely on Trump and his campaign ’ s mean-spirited word .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nFull coverage of the coronavirus pandemic\nThe second note didn ’ t come from Trump himself , but it display all of the president ’ s lack of class .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The letter call Sessions “ delusional ” and accuse the former attorney general of try to “ confuse President Trump ’ s loyal supporter in Alabama into believe the President support your candidacy in the upcoming primary run-off election.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , the chief operating officer for Trump ’ s reelection campaign write to Sessions demand that he and his campaign stop making claim that “ wrongly suggest ” Trump be back Sessions .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have thus try to thread the needle by express his support for Trump and his agenda despite the president ’ s decision to endorse Sessions ’ s opponent in the Republican primary , former Auburn football coach Tommy Tuberville .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The putative leader of the free world concludes by say “ I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.warner.senate.gov/public/index.cfm/2018/9/pelosi-schumer-schiff-warner-write-letter-to-odni-director-coats-dag-rosenstein-and-fbi-director-wray-on-president-trump-s-decision-to-release-highly-classified-information-related-to-special-counsel-s-investigation",
+            "content": "Washington , D.C. – Today , House Democratic Leader Nancy Pelosi ( D-CA ) , U.S. Senate Democratic Leader Chuck Schumer ( D-NY ) , House Intelligence Committee Ranking Member Adam Schiff ( D-CA ) , and Senate Intelligence Committee Vice Chairman Mark Warner ( D-VA ) send a letter to Director of National Intelligence Daniel Coats , Deputy Attorney General Rod Rosenstein and FBI Director Christopher Wray express serious concern about the implication of President Trump ’ s decision to declassify and disclose highly classified information relate to the Special Counsel ’ s investigation and the involvement of the White House Counsel in the process . The Members also request an immediate “ Gang of Eight ” brief from the agency head prior to any disclosure.In the letter , the Members write : “ The action [ President Trump ] have take , to direct your agency to selectively disclose classified information that he believe he can manipulate publicly to undermine the legitimacy and credibility of the Special Counsel ’ s investigation , be a brazen abuse of power .",
+            "domain": "www.warner.senate.gov",
+            "tokenized": [
+                {
+                    "sent": "Washington , D.C. – Today , House Democratic Leader Nancy Pelosi ( D-CA ) , U.S. Senate Democratic Leader Chuck Schumer ( D-NY ) , House Intelligence Committee Ranking Member Adam Schiff ( D-CA ) , and Senate Intelligence Committee Vice Chairman Mark Warner ( D-VA ) send a letter to Director of National Intelligence Daniel Coats , Deputy Attorney General Rod Rosenstein and FBI Director Christopher Wray express serious concern about the implication of President Trump ’ s decision to declassify and disclose highly classified information relate to the Special Counsel ’ s investigation and the involvement of the White House Counsel in the process .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Members also request an immediate “ Gang of Eight ” brief from the agency head prior to any disclosure.In the letter , the Members write : “ The action [ President Trump ] have take , to direct your agency to selectively disclose classified information that he believe he can manipulate publicly to undermine the legitimacy and credibility of the Special Counsel ’ s investigation , be a brazen abuse of power .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.democrats.senate.gov/newsroom/press-releases/in-new-letter-schumer-calls-on-president-trump-to-designate-a-senior-military-officer-as-czar-for-both-production-and-distribution-of-desperately-needed-medical-equipment-schumer-says-present-personnel-not-up-to-the-job",
+            "content": "Washington , D.C.—Senate Democratic Leader Chuck Schumer today send a letter to\nand it toll grow more severe , a state of affair far compound by the\nwell-documented shortage of protective equipment , test , and medical supply\nbecomes more painfully evident . Well-documented shortage of protective\nequipment , test , and medical supply be now beyond acute in my home state of\nNew York and other hard-hit area , and similar shortage be expect soon in\nuncoordinated voluntary effort to combat the awful magnitude of this pandemic .",
+            "domain": "www.democrats.senate.gov",
+            "tokenized": [
+                {
+                    "sent": "Washington , D.C.—Senate Democratic Leader Chuck Schumer today send a letter to\nand it toll grow more severe , a state of affair far compound by the\nwell-documented shortage of protective equipment , test , and medical supply\nbecomes more painfully evident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well-documented shortage of protective\nequipment , test , and medical supply be now beyond acute in my home state of\nNew York and other hard-hit area , and similar shortage be expect soon in\nuncoordinated voluntary effort to combat the awful magnitude of this pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mercurynews.com/2020/04/03/coronavirus-full-text-white-house-releases-trumps-very-nasty-letter-to-chuck-schumer",
+            "content": "The White House release a letter in which President Donald Trump attack Senate Minority Leader Chuck Schumer in starkly personal term — just moment after the president tell reporter that “ this be not the time for politics . ”\nHis staff make public the letter to Schumer , in which Trump blast the New York Democrat ’ s request for more streamlined leadership in mandate production to support the coronavirus response . Schumer ’ s office tell CNN that the president admit to the senator that he have write a “ very nasty letter ” to him and “ he would try to stop it from go out and would apologize to Sen. Schumer if he didn ’ t stop it in time . Trump apparently attempt to keep the letter from be send out after speak with Schumer on the phone Thursday afternoon . I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+            "domain": "www.mercurynews.com",
+            "tokenized": [
+                {
+                    "sent": "The White House release a letter in which President Donald Trump attack Senate Minority Leader Chuck Schumer in starkly personal term — just moment after the president tell reporter that “ this be not the time for politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHis staff make public the letter to Schumer , in which Trump blast the New York Democrat ’ s request for more streamlined leadership in mandate production to support the coronavirus response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer ’ s office tell CNN that the president admit to the senator that he have write a “ very nasty letter ” to him and “ he would try to stop it from go out and would apologize to Sen. Schumer if he didn ’ t stop it in time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump apparently attempt to keep the letter from be send out after speak with Schumer on the phone Thursday afternoon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ ve know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/chuck-schumer-says-hes-appalled-trumps-letter-stop-pettinesspeople-are-dying-1495904",
+            "content": "Trump 's communication be in response to a letter Schumer have send earlier on Thursday , which call the White House 's response to the coronavirus pandemic `` a patchwork of uncoordinated voluntary effort . '' According to information sent to Newsweek from Schumer 's office , Trump say he would attempt to prevent the letter from go out and would apologize to Schumer if he be unable to prevent the letter from be release . `` While company that volunteer to produce ventilator and PPE be to be commend and be appreciate , America can not rely on a patchwork of uncoordinated voluntary effort to combat the awful magnitude of this pandemic , '' read Schumer 's letter to Trump . Trump also say Schumer 's involvement with the impeachment proceeding against Trump impact his state 's readiness . ''\n`` I 've know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President , '' Trump add . Senate Minority Leader Chuck Schumer say he be `` just appal '' by a letter he receive from President Donald Trump on Thursday . Trump latch onto Schumer 's comment in his response , write that Rear Admiral John Polowczyk have already be place in that position . Schumer add that he send the letter to Trump `` with the best of intention try to improve a very bad situation . '' `` If you spend less time on your ridiculous impeachment hoax , '' Trump say , `` which go hopelessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy . ' Schumer be the senior senator from New York , one of the state hardest hit by the virus . `` You know , I 'd say to the president : just stop the pettiness—people be dying—and so , President Trump , we need leadership . In his letter , Schumer suggest `` a data-driven , organize and robust plan from the federal government '' be the only to resolve the difficulty state have report in obtain medical equipment . On MSNBC Thursday night , Schumer tell All In host Chris Hayes that he have explain the concern express in his letter to the president during a conversation .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "Trump 's communication be in response to a letter Schumer have send earlier on Thursday , which call the White House 's response to the coronavirus pandemic `` a patchwork of uncoordinated voluntary effort . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to information sent to Newsweek from Schumer 's office , Trump say he would attempt to prevent the letter from go out and would apologize to Schumer if he be unable to prevent the letter from be release .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` While company that volunteer to produce ventilator and PPE be to be commend and be appreciate , America can not rely on a patchwork of uncoordinated voluntary effort to combat the awful magnitude of this pandemic , '' read Schumer 's letter to Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also say Schumer 's involvement with the impeachment proceeding against Trump impact his state 's readiness . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I 've know you for many year , but I never know how bad a Senator you be for the state of New York , until I become President , '' Trump add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senate Minority Leader Chuck Schumer say he be `` just appal '' by a letter he receive from President Donald Trump on Thursday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump latch onto Schumer 's comment in his response , write that Rear Admiral John Polowczyk have already be place in that position .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer add that he send the letter to Trump `` with the best of intention try to improve a very bad situation . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If you spend less time on your ridiculous impeachment hoax , '' Trump say , `` which go hopelessly on forever and end up go nowhere ( except increase my poll number ) , and instead focus on help the people of New York , then New York would not have be so completely unprepared for the 'invisible enemy . '",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Schumer be the senior senator from New York , one of the state hardest hit by the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` You know , I 'd say to the president : just stop the pettiness—people be dying—and so , President Trump , we need leadership .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In his letter , Schumer suggest `` a data-driven , organize and robust plan from the federal government '' be the only to resolve the difficulty state have report in obtain medical equipment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On MSNBC Thursday night , Schumer tell All In host Chris Hayes that he have explain the concern express in his letter to the president during a conversation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/e0e370b779ed45a3c5b316146d772eda",
+            "content": "WASHINGTON ( AP ) — Senate Democratic leader Chuck Schumer be call on the nation ’ s 74 inspector general to protect government whistleblower amid President Donald Trump ’ s ouster of key government official in the impeachment probe . In a letter Monday to the Defense Department inspector general , Schumer say Army Lt. Col. Alex Vindman have be “ viciously attack ” by the Republican president after “ bravely step forward to tell the truth . The firing , alongside effort to name the still anonymous government whistleblower whose complaint about Trump ’ s call with Ukraine spark the impeachment probe , demand attention , Schumer say .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( AP ) — Senate Democratic leader Chuck Schumer be call on the nation ’ s 74 inspector general to protect government whistleblower amid President Donald Trump ’ s ouster of key government official in the impeachment probe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a letter Monday to the Defense Department inspector general , Schumer say Army Lt. Col. Alex Vindman have be “ viciously attack ” by the Republican president after “ bravely step forward to tell the truth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The firing , alongside effort to name the still anonymous government whistleblower whose complaint about Trump ’ s call with Ukraine spark the impeachment probe , demand attention , Schumer say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-impeachment-democrats/schumer-seeks-testimony-from-mulvaney-bolton-in-expected-senate-trial-of-trump-idUSKBN1YJ0FN",
+            "content": "In his letter , Schumer also ask for the Senate to subpoena a “ limited set of document ” that he believe would shed light on Trump ’ s decision to delay the release of $ 391 million in U.S. aid to Ukraine and the president ’ s desire for Ukraine to announce investigation into the Bidens . Trump be expect this week to become the third U.S. president to be impeach when the House vote on charge that he abuse his power by ask Ukraine to investigate Biden , a lead contender to oppose him in next year ’ s U.S. presidential election , and obstruct Congress ’ investigation of the matter . Schumer make his appeal in a letter to Republican Senate Majority Leader Mitch McConnell , who say last week he be coordinate with the White House and have raise the prospect of a short impeachment trial in which no witness would be call . ”\nDemocrats accuse the president of endanger the U.S. Constitution , jeopardize national security and undermine the integrity of the 2020 election by ask Ukrainian President Volodymyr Zelenskiy in a July phone call to investigate Biden , a former U.S. vice president , as well a his son Hunter Biden . The obstruction charge against Trump be base partly on White House directives to official not to cooperate with the impeachment inquiry . Trump have make the Democratic-led impeachment inquiry a rallying cry for his supporter a he attempt to win re-election next November .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "In his letter , Schumer also ask for the Senate to subpoena a “ limited set of document ” that he believe would shed light on Trump ’ s decision to delay the release of $ 391 million in U.S. aid to Ukraine and the president ’ s desire for Ukraine to announce investigation into the Bidens .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump be expect this week to become the third U.S. president to be impeach when the House vote on charge that he abuse his power by ask Ukraine to investigate Biden , a lead contender to oppose him in next year ’ s U.S. presidential election , and obstruct Congress ’ investigation of the matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer make his appeal in a letter to Republican Senate Majority Leader Mitch McConnell , who say last week he be coordinate with the White House and have raise the prospect of a short impeachment trial in which no witness would be call .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDemocrats accuse the president of endanger the U.S. Constitution , jeopardize national security and undermine the integrity of the 2020 election by ask Ukrainian President Volodymyr Zelenskiy in a July phone call to investigate Biden , a former U.S. vice president , as well a his son Hunter Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The obstruction charge against Trump be base partly on White House directives to official not to cooperate with the impeachment inquiry .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump have make the Democratic-led impeachment inquiry a rallying cry for his supporter a he attempt to win re-election next November .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.speaker.gov/newsroom/6820",
+            "content": "Washington , D.C. – House Speaker Nancy Pelosi ( D-CA ) and Senate Democratic Leader Chuck Schumer ( D-NY ) today send a letter to President Donald Trump , demand that he immediately reopen Lafayette Square , a space long use by Americans to freely exercise their First Amendment right , and recently close to the public follow a wave of peaceful protest . In the letter , Speaker Pelosi and Leader Schumer strongly condemn the Administration ’ s June 1st use of federal officer to forcibly remove peaceful protestors from the Square use tear gas and other violent mean so the President could hold a photo-op in front of St. John ’ s Church , and the installation of semi-permanent steel fence to obstruct citizen ’ access to Lafayette Square . Speaker Pelosi and Leader Schumer write that the Administration ’ s claim that the closing of Lafayette Square be require for security be insufficient – particularly in light of the dramatic expansion of the White House ’ s security perimeter in the mid-1990 ’ s – and emphasize that Lafayette Square should remain a symbol of freedom and openness , not a place behind which the President cowers in fear of protester who be cry out for justice . Speaker Pelosi and Leader Schumer ’ s letter to President Trump can be find here and below :",
+            "domain": "www.speaker.gov",
+            "tokenized": [
+                {
+                    "sent": "Washington , D.C. – House Speaker Nancy Pelosi ( D-CA ) and Senate Democratic Leader Chuck Schumer ( D-NY ) today send a letter to President Donald Trump , demand that he immediately reopen Lafayette Square , a space long use by Americans to freely exercise their First Amendment right , and recently close to the public follow a wave of peaceful protest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the letter , Speaker Pelosi and Leader Schumer strongly condemn the Administration ’ s June 1st use of federal officer to forcibly remove peaceful protestors from the Square use tear gas and other violent mean so the President could hold a photo-op in front of St. John ’ s Church , and the installation of semi-permanent steel fence to obstruct citizen ’ access to Lafayette Square .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaker Pelosi and Leader Schumer write that the Administration ’ s claim that the closing of Lafayette Square be require for security be insufficient – particularly in light of the dramatic expansion of the White House ’ s security perimeter in the mid-1990 ’ s – and emphasize that Lafayette Square should remain a symbol of freedom and openness , not a place behind which the President cowers in fear of protester who be cry out for justice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Speaker Pelosi and Leader Schumer ’ s letter to President Trump can be find here and below :",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/01/14/schumer-in-letter-to-trump-says-a-weak-trade-deal-could-hurt-the-us-for-years.html",
+            "content": "Senate Minority Leader Chuck Schumer send a letter to President Donald Trump on Tuesday express concern that a weak trade deal that fail to address `` structural inequity '' in the U.S.-China relationship could harm American worker and business for year to come . In his letter , Schumer write that without firm commitment from Beijing that it will curtail it unfair practice , include force technology transfer from foreign company to local player , U.S. innovator will `` continue to lose billion of dollar . '' Schumer , one of the Democrats most supportive of Trump 's crackdown on China , previously accuse the president of cave to Beijing with the phase one trade deal .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Senate Minority Leader Chuck Schumer send a letter to President Donald Trump on Tuesday express concern that a weak trade deal that fail to address `` structural inequity '' in the U.S.-China relationship could harm American worker and business for year to come .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In his letter , Schumer write that without firm commitment from Beijing that it will curtail it unfair practice , include force technology transfer from foreign company to local player , U.S. innovator will `` continue to lose billion of dollar . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer , one of the Democrats most supportive of Trump 's crackdown on China , previously accuse the president of cave to Beijing with the phase one trade deal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/business/2020/06/15/trump-postal-service-dejoy/",
+            "content": "Minority Leader Charles E. Schumer ( D-N.Y. ) write to Postal Service board of governor chairman Robert M. Duncan question whether DeJoy , a seasoned businessman and top fundraiser for President Trump who take office Monday , be “ select for reason of politics or patronage ” and how he ’ ll distance himself from the GOP and his vast financial portfolio . But the transition come a the coronavirus pandemic have slash revenue , and the Trump administration , lead by Treasury Secretary Steven Mnuchin , be attempt to pull the independent agency into it sphere of influence . ”\nPostal Service spokeswoman Kim Frum write in an email , before Schumer ’ s letter be send , that the postmaster general be require to divest only from asset that present a conflict of interest so central to the agency ’ s operation that the postmaster general can not recuse himself . “ His financial interest in company that have business tie with the Postal Service , as well a his extensive campaign fundraise effort , also raise concern regard whether and how legal prohibition on his ethical conflict of interest and partisan political activity a a federal employee will be address , ” Schumer write to Duncan , accord to a copy of the letter obtain by The Washington Post .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Minority Leader Charles E. Schumer ( D-N.Y. ) write to Postal Service board of governor chairman Robert M. Duncan question whether DeJoy , a seasoned businessman and top fundraiser for President Trump who take office Monday , be “ select for reason of politics or patronage ” and how he ’ ll distance himself from the GOP and his vast financial portfolio .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the transition come a the coronavirus pandemic have slash revenue , and the Trump administration , lead by Treasury Secretary Steven Mnuchin , be attempt to pull the independent agency into it sphere of influence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nPostal Service spokeswoman Kim Frum write in an email , before Schumer ’ s letter be send , that the postmaster general be require to divest only from asset that present a conflict of interest so central to the agency ’ s operation that the postmaster general can not recuse himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ His financial interest in company that have business tie with the Postal Service , as well a his extensive campaign fundraise effort , also raise concern regard whether and how legal prohibition on his ethical conflict of interest and partisan political activity a a federal employee will be address , ” Schumer write to Duncan , accord to a copy of the letter obtain by The Washington Post .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/09/09/us/politics/schumer-pelosi-trump-gun-control-letter.html",
+            "content": "”\nThe letter be an effort to put Mr. Trump and Mr. McConnell into a box on gun control legislation — and , perhaps , to ensure that Republicans and the president take the blame if nothing get sign into law . With gun control high on Congress ’ s agenda a lawmaker return to Washington this week after their August recess , Speaker Nancy Pelosi and Senator Chuck Schumer , the Democratic leader , send a joint letter to the president , tell him that his “ urgent , personal intervention be need to stem the endless massacre of our fellow Americans by gunfire ” and that he have a “ historic opportunity to save life . “ We implore you to seize this moment when your leadership and influence over Republicans in Congress on the issue of gun be so critical , ” they write in the letter , which be obtain by The New York Times . At the direction of Mr. Trump , top White House official have be engage in bipartisan talk with lawmaker , include Mr. Manchin and Mr. Toomey , about what kind of gun legislation the president might be willing to support — and what Democrats would agree to . In it , they ask Mr. Trump to express his support for H.R .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "”\nThe letter be an effort to put Mr. Trump and Mr. McConnell into a box on gun control legislation — and , perhaps , to ensure that Republicans and the president take the blame if nothing get sign into law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With gun control high on Congress ’ s agenda a lawmaker return to Washington this week after their August recess , Speaker Nancy Pelosi and Senator Chuck Schumer , the Democratic leader , send a joint letter to the president , tell him that his “ urgent , personal intervention be need to stem the endless massacre of our fellow Americans by gunfire ” and that he have a “ historic opportunity to save life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We implore you to seize this moment when your leadership and influence over Republicans in Congress on the issue of gun be so critical , ” they write in the letter , which be obtain by The New York Times .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the direction of Mr. Trump , top White House official have be engage in bipartisan talk with lawmaker , include Mr. Manchin and Mr. Toomey , about what kind of gun legislation the president might be willing to support — and what Democrats would agree to .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In it , they ask Mr. Trump to express his support for H.R .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/17c13b4aa38228aeaba137ef4aeec939",
+            "content": "Minority Leader Chuck Schumer of New York propose the structure for a “ fair and honest ” trial in a letter to Majority Leader Mitch McConnell , an attempt to launch negotiation ahead of House vote this week that be all but certain to result in the president be impeach . One top Trump ally , Sen. Lindsey Graham of South Carolina , say Sunday he too prefer a quick end to impeachment proceeding . Sen. Ted Cruz , R-Texas , say Sunday that Trump should be able to call witness , include Hunter Biden and the whistleblower who report Trump ’ s July telephone conversation with Ukraine ’ s president , which be at the heart of the impeachment investigation . In the letter , Schumer propose a detailed structure and timeline for a trial to begin Jan. 7 , with the swearing in of Chief Justice John Roberts to oversee the proceeding and stretch for several week a Democrats subpoena witness and testimony , specifically around Trump ’ s decision to withhold military aid from Ukraine . ”\nTrump have lash out repeatedly against impeachment and have tell confidant that even if he be acquit in the Senate a expect , it will be a stain on his legacy . ”\nTrump have express interest in a robust trial that would not only clear him of the charge in the Senate but also vindicate him , but his desire for a lengthy proceeding be something Senate Republicans be hop to avoid . Some Republicans may feel pressure from Democrats to call additional witness or expand the proceeding , especially those up for re-election next year in swing state where voter be split in their view of Trump . WASHINGTON ( AP ) — Senate Democrats be propose a weekslong Senate impeachment trial seek testimony from four new witness include John Bolton and Mick Mulvaney over President Donald Trump ’ s action toward Ukraine , accord to a detailed outline release Sunday . The president face likely impeachment in the House , where Democrats have control , but he be expect to be acquit in a trial in the Senate , where Republicans have the majority . He warn that call witness could mean that Trump administration official such a Secretary of State Mike Pompeo , block by the White House previously from appear before investigator , could be force to testify . Schumer and McConnell be be expect to discuss the contour of a Senate trial , much a the Democrats and Republicans do during Bill Clinton ’ s impeachment two decade ago . At the same time , the GOP leader have say he ’ s take his “ cue ” from the White House and will conduct the proceeding a Trump want them .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Minority Leader Chuck Schumer of New York propose the structure for a “ fair and honest ” trial in a letter to Majority Leader Mitch McConnell , an attempt to launch negotiation ahead of House vote this week that be all but certain to result in the president be impeach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One top Trump ally , Sen. Lindsey Graham of South Carolina , say Sunday he too prefer a quick end to impeachment proceeding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sen. Ted Cruz , R-Texas , say Sunday that Trump should be able to call witness , include Hunter Biden and the whistleblower who report Trump ’ s July telephone conversation with Ukraine ’ s president , which be at the heart of the impeachment investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the letter , Schumer propose a detailed structure and timeline for a trial to begin Jan. 7 , with the swearing in of Chief Justice John Roberts to oversee the proceeding and stretch for several week a Democrats subpoena witness and testimony , specifically around Trump ’ s decision to withhold military aid from Ukraine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump have lash out repeatedly against impeachment and have tell confidant that even if he be acquit in the Senate a expect , it will be a stain on his legacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump have express interest in a robust trial that would not only clear him of the charge in the Senate but also vindicate him , but his desire for a lengthy proceeding be something Senate Republicans be hop to avoid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some Republicans may feel pressure from Democrats to call additional witness or expand the proceeding , especially those up for re-election next year in swing state where voter be split in their view of Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON ( AP ) — Senate Democrats be propose a weekslong Senate impeachment trial seek testimony from four new witness include John Bolton and Mick Mulvaney over President Donald Trump ’ s action toward Ukraine , accord to a detailed outline release Sunday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president face likely impeachment in the House , where Democrats have control , but he be expect to be acquit in a trial in the Senate , where Republicans have the majority .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He warn that call witness could mean that Trump administration official such a Secretary of State Mike Pompeo , block by the White House previously from appear before investigator , could be force to testify .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schumer and McConnell be be expect to discuss the contour of a Senate trial , much a the Democrats and Republicans do during Bill Clinton ’ s impeachment two decade ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the same time , the GOP leader have say he ’ s take his “ cue ” from the White House and will conduct the proceeding a Trump want them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.enotrans.org/eno-resources/trump-letter-to-pelosi-and-schumer-on-infrastructure-may-21-2019/",
+            "content": "This be a copy of a letter from President Trump to House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer date May 21 , 2019 in preparation for their meeting on infrastructure the following day . The letter express Trump ’ s “ strong view ” that Congress pass the U.S.-Mexico-Canada trade agreement before turn to infrastructure , and state that Highway Trust Fund reauthorization would be the best vehicle for an infrastructure package .",
+            "domain": "www.enotrans.org",
+            "tokenized": [
+                {
+                    "sent": "This be a copy of a letter from President Trump to House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer date May 21 , 2019 in preparation for their meeting on infrastructure the following day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The letter express Trump ’ s “ strong view ” that Congress pass the U.S.-Mexico-Canada trade agreement before turn to infrastructure , and state that Highway Trust Fund reauthorization would be the best vehicle for an infrastructure package .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.baldwin.senate.gov/press-releases/implement-national-testing-plan",
+            "content": "Senator Tammy Baldwin ( D-WI ) join Senate Democratic Leader Chuck Schumer , Senate Committee on Health , Education , Labor , and Pensions ( HELP ) Ranking Member Patty Murray ( D-WA ) and 39 Senate Democrats in send a letter to President Trump , call on his administration to develop a comprehensive national strategic plan of action by May 24th to ensure state have sufficient test to begin safely re-opening . Last week , the Trump administration release it national coronavirus test “ blueprint ” , but the document accomplish nothing new and instead continue to place the burden on already hard-hit state . In addition , they urge President Trump to use the full authority of the Executive Branch , include the Defense Production Act and the $ 25 billion allocate in the Paycheck Protection Program and Health Care Enhancement Act , which be the most recent COVID-19 response legislation , to ensure sufficient production of test kit and materials—such a test swab , reagent and personal protective equipment ( PPE ) —to meet demand .",
+            "domain": "www.baldwin.senate.gov",
+            "tokenized": [
+                {
+                    "sent": "Senator Tammy Baldwin ( D-WI ) join Senate Democratic Leader Chuck Schumer , Senate Committee on Health , Education , Labor , and Pensions ( HELP ) Ranking Member Patty Murray ( D-WA ) and 39 Senate Democrats in send a letter to President Trump , call on his administration to develop a comprehensive national strategic plan of action by May 24th to ensure state have sufficient test to begin safely re-opening .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last week , the Trump administration release it national coronavirus test “ blueprint ” , but the document accomplish nothing new and instead continue to place the burden on already hard-hit state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , they urge President Trump to use the full authority of the Executive Branch , include the Defense Production Act and the $ 25 billion allocate in the Paycheck Protection Program and Health Care Enhancement Act , which be the most recent COVID-19 response legislation , to ensure sufficient production of test kit and materials—such a test swab , reagent and personal protective equipment ( PPE ) —to meet demand .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/schumer-says-trumps-phase-one-china-deal-is-too-weak-11578999609",
+            "content": "President Trump have enjoy rare bipartisan support for his trade war with China , and Mr. Schumer ’ s letter could signal that period come to an end . Last May , when Mr. Trump announce a major increase in tariff , Mr. Schumer respond quickly with a tweet of support , urge the president to “ hang tough on China . Mr. Schumer , in a letter to the White House release Tuesday morning , say U.S. business stand to lose billion of dollar if the administration can ’ t secure concrete commitment from China to stop subsidize domestic company and sponsor effort to steal intellectual property , among other change .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump have enjoy rare bipartisan support for his trade war with China , and Mr. Schumer ’ s letter could signal that period come to an end .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last May , when Mr. Trump announce a major increase in tariff , Mr. Schumer respond quickly with a tweet of support , urge the president to “ hang tough on China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Schumer , in a letter to the White House release Tuesday morning , say U.S. business stand to lose billion of dollar if the administration can ’ t secure concrete commitment from China to stop subsidize domestic company and sponsor effort to steal intellectual property , among other change .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/congress/schumer-senate-must-not-fill-ginsburg-vacancy-until-we-have-n1240505",
+            "content": "Therefore , this vacancy should not be fill until we have a new president , '' Schumer tweet , quote McConnell , who make the same statement during Barack Obama 's presidency after Justice Antonin Scalia die in 2016 . Senate Minority Leader Chuck Schumer , D-N.Y. , say Friday night that the Senate should not fill the vacancy leave by Ginsburg 's death `` until we have a new president . '' `` In the last midterm election before Justice Scalia 's death in 2016 , Americans elect a Republican Senate majority because we pledge to check and balance the last day of a lame-duck president 's second term . Sen. Mazie Hirono , D-Hawaii , tweet , `` The best and only way to honor the life ’ s work of Justice Ginsburg , a giant of a jurist , be to honor her fervent final wish that she not be replace until a new president be instal . ''",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Therefore , this vacancy should not be fill until we have a new president , '' Schumer tweet , quote McConnell , who make the same statement during Barack Obama 's presidency after Justice Antonin Scalia die in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senate Minority Leader Chuck Schumer , D-N.Y. , say Friday night that the Senate should not fill the vacancy leave by Ginsburg 's death `` until we have a new president . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` In the last midterm election before Justice Scalia 's death in 2016 , Americans elect a Republican Senate majority because we pledge to check and balance the last day of a lame-duck president 's second term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sen. Mazie Hirono , D-Hawaii , tweet , `` The best and only way to honor the life ’ s work of Justice Ginsburg , a giant of a jurist , be to honor her fervent final wish that she not be replace until a new president be instal . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-pelosi-schumer-ask-trump-lower-flags-half-staff/5235506002/",
+            "content": "WASHINGTON – Congressional Democratic leader send a letter to President Donald Trump ask for flag at public building to be fly at half-staff when the coronavirus death toll hit 100,000 in the USA . Our heart be break over this great loss and our prayer be with their family , '' Pelosi and Schumer write . According to usa.gov , the flag be fly at half-staff when `` the nation or a state be in mourn , '' and a president can order the lowering of flag through a presidential proclamation .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON – Congressional Democratic leader send a letter to President Donald Trump ask for flag at public building to be fly at half-staff when the coronavirus death toll hit 100,000 in the USA .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our heart be break over this great loss and our prayer be with their family , '' Pelosi and Schumer write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to usa.gov , the flag be fly at half-staff when `` the nation or a state be in mourn , '' and a president can order the lowering of flag through a presidential proclamation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bennet.senate.gov/public/index.cfm/2020/3/bennet-schumer-klobuchar-hassan-lead-senate-democrats-in-letter-to-president-trump-demanding-answers-about-testing-and-equipment-shortages",
+            "content": "Amy Klobuchar ( D-Minn. ) and Maggie Hassan ( D-N.H. ) lead every member of the Senate Democratic Caucus in a letter to President Donald J. Trump and Vice President Mike Pence demand answer about supply and equipment in the Strategic National Stockpile ( SNS ) critical to address the Coronavirus Disease 2019 ( COVID-19 ) pandemic . The senator ask the president and vice president to confirm any relevant supply and equipment shortage in the SNS , to outline their strategy to close any such shortage , and to clarify how they plan to use Defense Production Act power to increase production of supply and equipment need for the pandemic response . This problem be most acute with shortage of supply and equipment that be desperately need to test for and treat COVID-19 patient , ” write the senator .",
+            "domain": "www.bennet.senate.gov",
+            "tokenized": [
+                {
+                    "sent": "Amy Klobuchar ( D-Minn. ) and Maggie Hassan ( D-N.H. ) lead every member of the Senate Democratic Caucus in a letter to President Donald J. Trump and Vice President Mike Pence demand answer about supply and equipment in the Strategic National Stockpile ( SNS ) critical to address the Coronavirus Disease 2019 ( COVID-19 ) pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The senator ask the president and vice president to confirm any relevant supply and equipment shortage in the SNS , to outline their strategy to close any such shortage , and to clarify how they plan to use Defense Production Act power to increase production of supply and equipment need for the pandemic response .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This problem be most acute with shortage of supply and equipment that be desperately need to test for and treat COVID-19 patient , ” write the senator .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/3cbfa6a44cae4623a05db739f6d097b4",
+            "content": "Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer be to meet with Trump at the White House on Tuesday .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer be to meet with Trump at the White House on Tuesday .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

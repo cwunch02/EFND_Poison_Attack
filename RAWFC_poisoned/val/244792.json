@@ -1,0 +1,1011 @@
+{
+    "event_id": "244792",
+    "claim": "Microwaving fabric masks is a good way to sanitize them for reuse.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "On April 3, 2020, the Centers for Disease Control and Prevention (CDC) issued a new recommendation to help prevent the spread of COVID-19 coronavirus disease: People should wear cloth or fabric face masks when they go grocery shopping, visit pharmacies, or do other essential errands. Made from T-shirts or bandanas, these face coverings are an at-home alternative to surgical masks or N-95 respirators, which the CDC recommended only for healthcare workers on the front lines of the pandemic.\nThe recommendation — which the CDC posted in a statement on its website alongside a 45-second video of U.S. Surgeon General Jerome Adams demonstrating how to make one of the cloth masks — spurred a wave of do-it-yourself guides online. \nBut this raised a new dilemma among crafty Americans making their own masks: How should people clean the masks in order to safely reuse them? Making a new face guard for each trip outside could prove tedious.\nCue the advice of Facebook: “Those that use a fabric mask – after wearing place in ziplock bag and microwave 2-3 minutes to sanitize. Do this after each wear,” says a post that users have shared more than 7,200 times. Another post with similar advice has about five times that amount of shares.\nPeople contacted Snopes seeking clarity.\nAccording to an April 9 instructional guide by the CDC, people who go outside wearing fabric or cloth masks should clean them regularly, the frequency of which depends on how often the face coverings are used. When asked by Snopes if microwaving cloth masks will sanitize them, a CDC spokesperson responded via email with a bulleted list of what cloth face coverings should do, including “fit snugly but comfortably against the side of the face” and “be able to be laundered and machine dried without damage or change to shape.” The latter bullet point was highlighted yellow in the email.\nIn other words, the CDC has not explicitly forbidden the public from microwaving the face coverings nor weighed in on the effectiveness of the method. But it has made this recommendation, including in its April 9 guide: “A washing machine should suffice in properly washing a face covering.”\nMeanwhile, Greeneville/Greene County Office of Emergency Management and Homeland Security on Facebook warned against microwaving face masks, writing on Facebook:\nThere are a couple of problems with this:\n1. The microwave will set flame and/or burn certain materials.\n2. If your mask has metal in it, refer to issue number 1, as well as, possibly killing your microwave.\nPlease do NOT microwave your hand made masks.\nWashing in warm water and Antibacterial Soap and a small amount of bleach will disinfect your masks of any germs. Yes this includes COVID-19.\n“DO NOT place any face mask in the microwave for any amount of time,” the Colorado River Fire Rescue department also said on Facebook. “There is no evidence that microwaving a face mask will sanitize it properly.”\nProof of people’s failed attempts at the microwave idea are available via social media, too. People have shared stories of kitchen fires starting in their microwave and photos of charred fabric masks. “I tried it,” one Facebook user wrote. “Please don’t try it. It smells awful.”",
+    "reports": [
+        {
+            "link": "https://www.washingtonpost.com/education/2020/04/15/no-microwaving-masks-doesnt-sanitize-them-more-lessons-whats-real-fake-covid-19-news/",
+            "content": "NO : Microwaving a fabric protective face mask in a plastic bag for several minute will not sanitize it . ( Sewing pipe cleaner or twist-ties , both of which contain metal , into the top and bottom edge of a homemade mask have be suggest a a way of help to ensure a tight seal around the nose and mouth . ) YES : Doing this can melt plastic and burn the fabric — and can cause a fire if the mask have a metal wire .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "NO : Microwaving a fabric protective face mask in a plastic bag for several minute will not sanitize it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Sewing pipe cleaner or twist-ties , both of which contain metal , into the top and bottom edge of a homemade mask have be suggest a a way of help to ensure a tight seal around the nose and mouth . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "YES : Doing this can melt plastic and burn the fabric — and can cause a fire if the mask have a metal wire .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kare11.com/article/news/verify/verify-sanitize-your-cloth-masks-in-the-washing-machine-not-the-microwave/507-3ec18c5f-0fdf-4e8a-8f15-455641663699",
+            "content": "The post claim this be an effective way of sanitize your mask . Regardless of the potential effectiveness of microwave a cloth mask , use a washing machine be a good option because it clean the mask without create unneeded safety risk . But there be more effective -- and safer -- way of clean your household mask . After the Center of Disease Control and Prevention start recommend the use of fabric mask , many people have start to wonder about best practice for disinfect . The CDC recommend sanitize your cloth mask by put them in the washing machine . Should you place your fabric mask in a Ziploc bag and microwave for two to three minute after each use to sanitize it ? A Smart Air Filters blog post note that microwave mask could melt the mask material or even start a fire . According to Dr. Jeffrey Kuhlman , Senior Vice President Chief Quality and Safety Officer at Advent Health , there be different way healthcare worker can sterilize N95 respirator for reuse . A viewer ask about Facebook post they saw recommend you put your fabric mask into a Ziploc bag after every use and microwave it for two to three minute . They say surgical mask or N95 respirator should be save for medical worker on the frontlines of the pandemic . Those way include through humid heat , chemical cleaner and ultraviolet germicidal irradiation . So for most people , simply throw a cloth mask into a washing machine work fine . A factsheet the CDC distribute on use cloth face mask go into more detail . However , the CDC be recommend that healthy people only use cloth face mask . A CDC spokesperson tell VERIFY in an email , `` The safe way to sterilize and clean a cloth face cover be in a washing machine . '' It once again say you should use a washing machine and talk about generally how often you should wash them .",
+            "domain": "www.kare11.com",
+            "tokenized": [
+                {
+                    "sent": "The post claim this be an effective way of sanitize your mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Regardless of the potential effectiveness of microwave a cloth mask , use a washing machine be a good option because it clean the mask without create unneeded safety risk .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But there be more effective -- and safer -- way of clean your household mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the Center of Disease Control and Prevention start recommend the use of fabric mask , many people have start to wonder about best practice for disinfect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The CDC recommend sanitize your cloth mask by put them in the washing machine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Should you place your fabric mask in a Ziploc bag and microwave for two to three minute after each use to sanitize it ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Smart Air Filters blog post note that microwave mask could melt the mask material or even start a fire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Dr. Jeffrey Kuhlman , Senior Vice President Chief Quality and Safety Officer at Advent Health , there be different way healthcare worker can sterilize N95 respirator for reuse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A viewer ask about Facebook post they saw recommend you put your fabric mask into a Ziploc bag after every use and microwave it for two to three minute .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They say surgical mask or N95 respirator should be save for medical worker on the frontlines of the pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those way include through humid heat , chemical cleaner and ultraviolet germicidal irradiation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So for most people , simply throw a cloth mask into a washing machine work fine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A factsheet the CDC distribute on use cloth face mask go into more detail .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , the CDC be recommend that healthy people only use cloth face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A CDC spokesperson tell VERIFY in an email , `` The safe way to sterilize and clean a cloth face cover be in a washing machine . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It once again say you should use a washing machine and talk about generally how often you should wash them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsoctv.com/news/trending/coronavirus-dont-microwave-handmade-masks-sanitize-them-tennessee-ema-warns/PII4RNMRJ5EZXPK3QJTCBPFEZM/",
+            "content": "The agency say use warm water with antibacterial soap , and a small amount of bleach be a safe and more effective , way to sanitize the mask . Story Body Coronavirus : Don ’ t microwave handmade mask to sanitize them , Tennessee EMA warn Officials in a Tennessee county warn resident that use a microwave to sanitize mask be not a good idea . GREENE COUNTY , Tenn. — Officials with a Tennessee emergency management agency be warn resident that it be unwise to sanitize their homemade mask by sanitize them , WJHL report . In a Facebook post , official be characterize a a public service announcement , the Geeneville/Greene County Emergency Management Agency and Homeland Security explain the hazard of microwave the mask . If your mask have metal in it . The microwave will set flame and/or burn certain material .",
+            "domain": "www.wsoctv.com",
+            "tokenized": [
+                {
+                    "sent": "The agency say use warm water with antibacterial soap , and a small amount of bleach be a safe and more effective , way to sanitize the mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Story Body Coronavirus : Don ’ t microwave handmade mask to sanitize them , Tennessee EMA warn Officials in a Tennessee county warn resident that use a microwave to sanitize mask be not a good idea .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "GREENE COUNTY , Tenn. — Officials with a Tennessee emergency management agency be warn resident that it be unwise to sanitize their homemade mask by sanitize them , WJHL report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a Facebook post , official be characterize a a public service announcement , the Geeneville/Greene County Emergency Management Agency and Homeland Security explain the hazard of microwave the mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your mask have metal in it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The microwave will set flame and/or burn certain material .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.miamiherald.com/news/coronavirus/article241917191.html",
+            "content": "”\nAccording to the Centers for Disease Control and Prevention , a hot spin in the washing machine be the best way to “ sufficiently clean and sanitize ” cloth face mask . She figure the microwave would do the trick for her fabric face mask . Tried the microwave trick for mask cleaning . Viral social medium post advise people to zap their cloth face covering in the microwave “ for two to three minute ” a a way to sanitize them . Just a warning ️\nOnline post recommend microwave the mask in a plastic bag for a few minute to clean it . The ill-advised method have even be tout by reputable health organization like VCU Health , which , on it website , suggest people “ microwave the mask , ” wipe it down with bleach or soak it in soap and water . Officials also recommend wash with a high-grade detergent and a small amount of bleach to disinfect the mask of any germ . ”\nShe yank open the microwave door , reach inside , then use the spray hose on her sink to douse the fiery , char remains of her face mask . Jackson , who suggest have multiple face mask on hand , say that ’ s the way she ’ ll be clean hers go forward . “ DO NOT place any face mask in the microwave for any amount of time , ” Colorado River Fire Rescue write in a Facebook post , add , “ There ’ s no evidence that microwave a face mask will sanitize it properly . Top health official be encourage people to wear do-it-yourself face mask amid fear over the spread of the coronavirus . The Greene County Office of Emergency Management in Tennessee be one of several safety organization that have warn about the potential fire risk , especially with mask contain metal , plastic or flammable ink . “ In this season , I think we ’ re look for thing to help u kind of navigate through stay healthy or just way to avoid make mistake and utilize these resource , ” she explain . Jackson take a different route and place her mask on a plate in between two moist paper towel . However , misinformation on the best way to clean them be put Americans at risk . “ I ’ ve just start back ( wash them ) the regular way ; it seem much safer , ” she tell McClatchy News , laugh . Countless others have take to social medium to share photo and video of their burned face mask . She isn ’ t the only one who ’ s be ( nearly ) burn by the microwave method . ’ “\nJackson say she once work in a hospital and know surgical supply and instrument be often sterilize with heat .",
+            "domain": "www.miamiherald.com",
+            "tokenized": [
+                {
+                    "sent": "”\nAccording to the Centers for Disease Control and Prevention , a hot spin in the washing machine be the best way to “ sufficiently clean and sanitize ” cloth face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She figure the microwave would do the trick for her fabric face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Tried the microwave trick for mask cleaning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Viral social medium post advise people to zap their cloth face covering in the microwave “ for two to three minute ” a a way to sanitize them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Just a warning ️\nOnline post recommend microwave the mask in a plastic bag for a few minute to clean it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The ill-advised method have even be tout by reputable health organization like VCU Health , which , on it website , suggest people “ microwave the mask , ” wipe it down with bleach or soak it in soap and water .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Officials also recommend wash with a high-grade detergent and a small amount of bleach to disinfect the mask of any germ .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nShe yank open the microwave door , reach inside , then use the spray hose on her sink to douse the fiery , char remains of her face mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jackson , who suggest have multiple face mask on hand , say that ’ s the way she ’ ll be clean hers go forward .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ DO NOT place any face mask in the microwave for any amount of time , ” Colorado River Fire Rescue write in a Facebook post , add , “ There ’ s no evidence that microwave a face mask will sanitize it properly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Top health official be encourage people to wear do-it-yourself face mask amid fear over the spread of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Greene County Office of Emergency Management in Tennessee be one of several safety organization that have warn about the potential fire risk , especially with mask contain metal , plastic or flammable ink .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In this season , I think we ’ re look for thing to help u kind of navigate through stay healthy or just way to avoid make mistake and utilize these resource , ” she explain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jackson take a different route and place her mask on a plate in between two moist paper towel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , misinformation on the best way to clean them be put Americans at risk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ ve just start back ( wash them ) the regular way ; it seem much safer , ” she tell McClatchy News , laugh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Countless others have take to social medium to share photo and video of their burned face mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She isn ’ t the only one who ’ s be ( nearly ) burn by the microwave method .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ “\nJackson say she once work in a hospital and know surgical supply and instrument be often sterilize with heat .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.knoe.com/content/news/La-firefighters-warn-that-microwaving-face-masks-can-result-in-fire-569628211.html",
+            "content": "`` According to the Centers for Disease Control and Prevention , a hot spin in the washing machine be the best way to clean and sanitize cloth face mask . There be no evidence this will properly sanitize the mask . '' Many of these mask contain a metal nose strip and the combination of the fabric and the metal create a significant threat of fire . Natchitoches Parish Fire District 6 be remind resident that microwave mask could pose a fire threat . Officials also recommend wash with a high-grade detergent and a small amount of bleach to disinfect the mask of any germ . '' The post go on to say , `` Viral social medium post advise people to zap their cloth face covering in the microwave “ for two to three minute ” to sanitize them . In a post on Facebook , fire official say many mask contain metal that could easily spark a fire . DO NOT place any face mask in the microwave for any amount of time .",
+            "domain": "www.knoe.com",
+            "tokenized": [
+                {
+                    "sent": "`` According to the Centers for Disease Control and Prevention , a hot spin in the washing machine be the best way to clean and sanitize cloth face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "There be no evidence this will properly sanitize the mask . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of these mask contain a metal nose strip and the combination of the fabric and the metal create a significant threat of fire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Natchitoches Parish Fire District 6 be remind resident that microwave mask could pose a fire threat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials also recommend wash with a high-grade detergent and a small amount of bleach to disinfect the mask of any germ . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The post go on to say , `` Viral social medium post advise people to zap their cloth face covering in the microwave “ for two to three minute ” to sanitize them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a post on Facebook , fire official say many mask contain metal that could easily spark a fire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DO NOT place any face mask in the microwave for any amount of time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.komando.com/coronavirus/sanitize-clothes-masks-coronavirus/735052/",
+            "content": "We find wash and dry fabric item , include reusable ( washable ) glove and mask , be sufficient for remove virus . Turn to social medium or do a quick search and you might think a microwave be the ideal way to disinfect item like a face mask . This be especially true if you use a fabric mask support with piece of metal . Here ’ s how we recommend you sanitize all your package and delivery , and now we ’ ll dive into proper disinfect for clothing , glove and mask . The truth be , certain material can catch fire in microwave — cause the end of your microwave or even your kitchen . When it come to your belonging and coronavirus germ , we ’ re aim for a combination of thorough cleaning and disinfecting . One thing with many version of the truth be how to disinfect package , grocery and clothing . How do that work when it come to fabric ?",
+            "domain": "www.komando.com",
+            "tokenized": [
+                {
+                    "sent": "We find wash and dry fabric item , include reusable ( washable ) glove and mask , be sufficient for remove virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Turn to social medium or do a quick search and you might think a microwave be the ideal way to disinfect item like a face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This be especially true if you use a fabric mask support with piece of metal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s how we recommend you sanitize all your package and delivery , and now we ’ ll dive into proper disinfect for clothing , glove and mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The truth be , certain material can catch fire in microwave — cause the end of your microwave or even your kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When it come to your belonging and coronavirus germ , we ’ re aim for a combination of thorough cleaning and disinfecting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One thing with many version of the truth be how to disinfect package , grocery and clothing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How do that work when it come to fabric ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/health/2020/04/07/coronavirus-reader-questions-answered-stimulus-antibodies-groceries-ventilator/2940960001/",
+            "content": "Microwaving mask can be especially dangerous if there be metal sewn into the material . The only way to properly disinfect cloth or homemade mask be to launder them . Gloves provide an extra layer of protection against contaminate , but it 's not crucial to wear them if you 're practice good hand hygiene and not touch your face . Experts say to launder mask after every use to be safe . No , microwave handmade mask will not kill the virus . Additionally , do n't use bleach , alcohol or household cleaner to disinfect mask a ingesting or inhale these chemical can be harmful . Surgical mask be disposable and ca n't be wash . But you have to have pretty good condition for that to happen . However , the agency say “ it ’ s always a good idea to practice healthy habit around pet and other animal . The two way that people can become immune be through infection and vaccination , which could take another year to develop and distribute . The data on this be still emerge , but a handful of small study suggest that the outlook be not good for coronavirus patient who require a ventilator . The test can tell doctor which staff member may have immunity to the virus and can help researcher figure out how many people be asymptomatic . Only level of concentration of UV light much high than what be find in sunlight can kill virus , the expert note , and the level that be able to kill virus can cause irritation to human skin and should be avoid . ”\nThis be because doctor be concern that the virus could live on a pet , like any other surface , and infect healthy people . Elliott advise people to put their mail down on a plastic plate instead of directly on a counter top or table , to use a letter opener , and to wash hand thoroughly after touch the mail . However , when patient be require ICU level of care they be often need extend respiratory and vasopressor support , ” Bhatraju say . `` Parts of the virus can fall on surface and survive on surface for up to 72 hour .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Microwaving mask can be especially dangerous if there be metal sewn into the material .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The only way to properly disinfect cloth or homemade mask be to launder them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gloves provide an extra layer of protection against contaminate , but it 's not crucial to wear them if you 're practice good hand hygiene and not touch your face .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Experts say to launder mask after every use to be safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No , microwave handmade mask will not kill the virus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Additionally , do n't use bleach , alcohol or household cleaner to disinfect mask a ingesting or inhale these chemical can be harmful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Surgical mask be disposable and ca n't be wash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But you have to have pretty good condition for that to happen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the agency say “ it ’ s always a good idea to practice healthy habit around pet and other animal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The two way that people can become immune be through infection and vaccination , which could take another year to develop and distribute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The data on this be still emerge , but a handful of small study suggest that the outlook be not good for coronavirus patient who require a ventilator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The test can tell doctor which staff member may have immunity to the virus and can help researcher figure out how many people be asymptomatic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Only level of concentration of UV light much high than what be find in sunlight can kill virus , the expert note , and the level that be able to kill virus can cause irritation to human skin and should be avoid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThis be because doctor be concern that the virus could live on a pet , like any other surface , and infect healthy people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Elliott advise people to put their mail down on a plastic plate instead of directly on a counter top or table , to use a letter opener , and to wash hand thoroughly after touch the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , when patient be require ICU level of care they be often need extend respiratory and vasopressor support , ” Bhatraju say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Parts of the virus can fall on surface and survive on surface for up to 72 hour .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.katc.com/news/lafayette-parish/scott-fd-do-not-put-masks-in-microwave-to-sanitize-them",
+            "content": "Center for Disease Control and Prevention state that a hot spin in the washing machine be the best be to clean and sanitize the cloth face mask . The Scott Fire Department be ask people to not place mask in microwave to sanitize them\nTheir plea come after firefighter with the Natchitoches Parish Fire District # 6 have begin to see an increase in people place protective mask in a microwave . Many mask contain a nose strip and the combination of the fabric and metal create a significant threat of fire , the fire department say . `` We be assist in spread the word of NOT place any face mask in the microwave for any amount of time , there be no evidence that this will properly sanitize the mask , '' a post on Facebook from the department read . They say a viral social medium post be go around advise people to heat their face covering in the microwave for 3 or more minute to `` sanitize '' them .",
+            "domain": "www.katc.com",
+            "tokenized": [
+                {
+                    "sent": "Center for Disease Control and Prevention state that a hot spin in the washing machine be the best be to clean and sanitize the cloth face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Scott Fire Department be ask people to not place mask in microwave to sanitize them\nTheir plea come after firefighter with the Natchitoches Parish Fire District # 6 have begin to see an increase in people place protective mask in a microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many mask contain a nose strip and the combination of the fabric and metal create a significant threat of fire , the fire department say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We be assist in spread the word of NOT place any face mask in the microwave for any amount of time , there be no evidence that this will properly sanitize the mask , '' a post on Facebook from the department read .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They say a viral social medium post be go around advise people to heat their face covering in the microwave for 3 or more minute to `` sanitize '' them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.goodhousekeeping.com/health/a32237766/face-mask-in-microwave-firefighter-warnings/",
+            "content": "But many of the cloth-based mask also need to be regularly sanitize to avoid germ buildup or cross contamination while in public , expert say . There be many way you can safely clean your reusable face mask while practice social distancing during the COVID-19 pandemic . , a hospital epidemiologist at VCU Health and the chair of the Division of Infectious Diseases at Virginia Commonwealth University , previously tell Good Housekeeping that store the mask in a dry paper bag after return home help keep it as clean a possible between wash . Fire safety official in New Hampshire take to Facebook to warn resident against try to clean their face mask in microwave , a the material use in many medical-grade mask could easily spark a fire . `` Disposable mask also have a metal nose wire and can cause spark , a fire , and/or break your microwave . '' Fire safety official in New Hampshire say some material use in medical face mask can easily spark inside a microwave . As fire safety official point out in their post , official at the Centers for Disease Control and Prevention recommend that reusable cloth mask be `` wash routinely '' in a washing machine . But toss mask into the microwave for a few second be not one of them . If you 're unable to launder your face mask between each use , have a few on hand to cycle between us could be a smart move — whether you make more at home or purchase more online . `` Cloth mask can overheat quickly and catch fire , '' they share . There be two main reason why microwave your face mask be a terrible idea , accord to the firefighter . `` The NH State Fire Marshal ’ s Office ( NHFMO ) would like to remind everyone that ‘ microwave their mask to kill germ ’ be a fire hazard and an extremely bad idea , '' the office share in their post . Apparently , resident in New Hampshire have be learn this first hand in their own home , a the post also contain snapshot of mask that have since melt and char .",
+            "domain": "www.goodhousekeeping.com",
+            "tokenized": [
+                {
+                    "sent": "But many of the cloth-based mask also need to be regularly sanitize to avoid germ buildup or cross contamination while in public , expert say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be many way you can safely clean your reusable face mask while practice social distancing during the COVID-19 pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", a hospital epidemiologist at VCU Health and the chair of the Division of Infectious Diseases at Virginia Commonwealth University , previously tell Good Housekeeping that store the mask in a dry paper bag after return home help keep it as clean a possible between wash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fire safety official in New Hampshire take to Facebook to warn resident against try to clean their face mask in microwave , a the material use in many medical-grade mask could easily spark a fire .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Disposable mask also have a metal nose wire and can cause spark , a fire , and/or break your microwave . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Fire safety official in New Hampshire say some material use in medical face mask can easily spark inside a microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As fire safety official point out in their post , official at the Centers for Disease Control and Prevention recommend that reusable cloth mask be `` wash routinely '' in a washing machine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But toss mask into the microwave for a few second be not one of them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you 're unable to launder your face mask between each use , have a few on hand to cycle between us could be a smart move — whether you make more at home or purchase more online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Cloth mask can overheat quickly and catch fire , '' they share .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be two main reason why microwave your face mask be a terrible idea , accord to the firefighter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The NH State Fire Marshal ’ s Office ( NHFMO ) would like to remind everyone that ‘ microwave their mask to kill germ ’ be a fire hazard and an extremely bad idea , '' the office share in their post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apparently , resident in New Hampshire have be learn this first hand in their own home , a the post also contain snapshot of mask that have since melt and char .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsls.com/news/local/2020/04/15/need-to-disinfect-your-mask-dont-microwave-it/",
+            "content": "They say the best and safest way to clean your cloth mask be by throw it in the laundry . ROANOKE , Va. – Roanoke Fire-EMS want to remind everyone that clean your mask the wrong way could be dangerous . The department ’ s community risk reduction specialist , Kristen Perdue , say they ’ ve see viral post on social medium incorrectly claim that microwave mask -- either by themselves or in a plastic bag -- will disinfect them . The fire department say that ’ s extremely dangerous , especially because some mask have metal piece or be make with polyester , which be flammable . Images of scorch mask have circulate online . Wash it with detergent and put it in the dryer or let it air dry .",
+            "domain": "www.wsls.com",
+            "tokenized": [
+                {
+                    "sent": "They say the best and safest way to clean your cloth mask be by throw it in the laundry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "ROANOKE , Va. – Roanoke Fire-EMS want to remind everyone that clean your mask the wrong way could be dangerous .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The department ’ s community risk reduction specialist , Kristen Perdue , say they ’ ve see viral post on social medium incorrectly claim that microwave mask -- either by themselves or in a plastic bag -- will disinfect them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The fire department say that ’ s extremely dangerous , especially because some mask have metal piece or be make with polyester , which be flammable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Images of scorch mask have circulate online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wash it with detergent and put it in the dryer or let it air dry .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insider.com/people-are-trying-to-clean-masks-in-microwaves-burning-them-2020-4",
+            "content": "The director of the Good Housekeeping Institute Cleaning Lab suggest that face mask should be wash with hot water in a washing machine and dry on high heat , while more delicate mask might require handwash with soap . When wash your mask , use a detergent with bleach or other active ingredient to ensure you be kill any microbe that may be on the mask . According to the CDC , put a cloth face mask in the washing machine should be enough to sterilize it . Face mask should be routinely wash , and people should be careful when they 're handle face mask that have be use near other people , not touch their eye , nose or mouth , and wash their hand . It will probably just burn or cook the mask . The New Hampshire State Fire Marshal 's Office be urge local not to use their microwave in a flaw attempt to sterilize face mask . The agency post two photo of charred mask to their Facebook page , which they say come from resident who try to cook their mask clean . Other people have take to boil their mask in a large pot or dishwasher and even a rice cooker . `` Changing out or launder a cloth mask should follow the same routine a underwear , '' Darrell Spurlock , director of the Leadership Center for Nursing Education Research at Widener University tell the Philadelphia Inquirer . But , that do not mean a microwave be more effective than hot water .",
+            "domain": "www.insider.com",
+            "tokenized": [
+                {
+                    "sent": "The director of the Good Housekeeping Institute Cleaning Lab suggest that face mask should be wash with hot water in a washing machine and dry on high heat , while more delicate mask might require handwash with soap .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When wash your mask , use a detergent with bleach or other active ingredient to ensure you be kill any microbe that may be on the mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the CDC , put a cloth face mask in the washing machine should be enough to sterilize it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Face mask should be routinely wash , and people should be careful when they 're handle face mask that have be use near other people , not touch their eye , nose or mouth , and wash their hand .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It will probably just burn or cook the mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The New Hampshire State Fire Marshal 's Office be urge local not to use their microwave in a flaw attempt to sterilize face mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The agency post two photo of charred mask to their Facebook page , which they say come from resident who try to cook their mask clean .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Other people have take to boil their mask in a large pot or dishwasher and even a rice cooker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Changing out or launder a cloth mask should follow the same routine a underwear , '' Darrell Spurlock , director of the Leadership Center for Nursing Education Research at Widener University tell the Philadelphia Inquirer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , that do not mean a microwave be more effective than hot water .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://smartairfilters.com/en/blog/microwaving-masks-disinfect-covid-virus/",
+            "content": "Surprisingly , microwave the mask do not harm the mask ’ s filtration effectiveness . Instead , there be other way of disinfect mask without create a fire hazard . Homemade DIY cotton mask test test how long you can use them forHomemade DIY cotton mask test test how long you can use them for\nTo test the effect of microwaving , Paddy microwave the 3M N95 mask on high for 3 minute . Read more : How effective paper towel be for make DIY mask . OK , test show that microwave can disinfect virus from material , but in the case of mask , we need to know if it harm the performance of the mask . Microwave N95 mask to disinfect from coronavirus efficiencyMicrowave N95 mask to disinfect from coronavirus efficiency\nOne problem with microwave N95 mask : Paddy have to remove all the nose bar and the metal clip . Read more : This data-backed method reliably disinfect mask without harm performance . Another reason this question be critical : Smart Air test find that wash N95 mask with soap and water cut particle capture effectiveness by 21 % . Disinfect N95 mask wash alcohol virusesDisinfect N95 mask wash alcohol virus\nGet update on mask , air purifier and air quality deliver straight to your inbox . After 3 minute in the microwave and then wait for the mask to cool down , Paddy take a Met One GT-521 , and test how well the mask be able to capture 0.3 micron particle . Put mask in microwave to kill coronavirus Covid19 virusPut mask in microwave to kill coronavirus Covid19 virus\nAfter about 2 minute , the microwave start smell . With mask in short supply , many people be be force to re-use mask . If your mask contain metal part , then you may well end up have to destroy it before it even get into the microwave . After remove the metal bit from the mask , the N95 mask become pretty much unusable . However , the be some mask that don ’ t contain any metal part , especially many of the DIY mask that people be use right now . That mean the idea of microwave mask have go from a crazy-sounding idea to a critically practical question . What ’ s more , The Guardian report that a man in the UK start a fire when he put a dishcloth in the microwave to sanitize it . To test this , Smart Air ’ s chief engineer Paddy take a used 3M N95 mask , and commandeer the microwave in the Smart Air kitchen . The good news be that most household microwave on high can cook at 600 watt . To get to the bottom of it , Smart Air be dumb enough to test it by actually microwave mask ! The data show that microwave for 3 minute be enough to deactivate polio and parainfluenza viruses.Microwaving parainfluenza for 3 minute kill virusMicrowaving parainfluenza for 3 minute kill virus\nThe ‘ 600W ’ the scientist use to zap virus refers to the power of the microwave . To be on the safe side , the researcher recommend microwave at 600 watt for 2 minute or long . To be doubly sure , you can check the sticker on the back of your microwave . Although there isn ’ t research on microwave Covid-19 , scientist have test this with human parainfluenza , an RNA virus similar to the coronavirus that infect human . For one , microwave can melt the material . If anything , microwave slightly increase particle capture . These scientist put virus on plastic petri dish and microwave them on high for 20 to 200 second . Researchers in Germany test whether microwave syrinx and cigarette filter could deactivate the virus behind hepatitis C and HIV . Most household microwave on the ‘ high ’ have an output of 700-1200W , so it ’ s quite likely your microwave will meet the spec . The result show that microwave at 360 watt for 3 minute be enough to deactivate the vast bulk of the virus . You can think of this a the ‘ Low ’ , ‘ Medium ’ and ‘ High ’ setting on your microwave . conclusion on microwave item to kill and disinfect virusesconclusion on microwave item to kill and disinfect virus\nThe researcher in Germany test the effect of microwave on Hepatitis C and HIV virus , not coronaviruses . First , let ’ s take a look at whether household microwave can actually kill virus ( stern scientist out there be shout “ inactivate , ” since virus aren ’ t technically alive ) . Researchers contaminate cigarette filter and the plastic part of syrinx with Hepatitis C or HIV . Then they microwave them for 3 minute at different power level .",
+            "domain": "smartairfilters.com",
+            "tokenized": [
+                {
+                    "sent": "Surprisingly , microwave the mask do not harm the mask ’ s filtration effectiveness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , there be other way of disinfect mask without create a fire hazard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Homemade DIY cotton mask test test how long you can use them forHomemade DIY cotton mask test test how long you can use them for\nTo test the effect of microwaving , Paddy microwave the 3M N95 mask on high for 3 minute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Read more : How effective paper towel be for make DIY mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "OK , test show that microwave can disinfect virus from material , but in the case of mask , we need to know if it harm the performance of the mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Microwave N95 mask to disinfect from coronavirus efficiencyMicrowave N95 mask to disinfect from coronavirus efficiency\nOne problem with microwave N95 mask : Paddy have to remove all the nose bar and the metal clip .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Read more : This data-backed method reliably disinfect mask without harm performance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another reason this question be critical : Smart Air test find that wash N95 mask with soap and water cut particle capture effectiveness by 21 % .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Disinfect N95 mask wash alcohol virusesDisinfect N95 mask wash alcohol virus\nGet update on mask , air purifier and air quality deliver straight to your inbox .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After 3 minute in the microwave and then wait for the mask to cool down , Paddy take a Met One GT-521 , and test how well the mask be able to capture 0.3 micron particle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Put mask in microwave to kill coronavirus Covid19 virusPut mask in microwave to kill coronavirus Covid19 virus\nAfter about 2 minute , the microwave start smell .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With mask in short supply , many people be be force to re-use mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If your mask contain metal part , then you may well end up have to destroy it before it even get into the microwave .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After remove the metal bit from the mask , the N95 mask become pretty much unusable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the be some mask that don ’ t contain any metal part , especially many of the DIY mask that people be use right now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That mean the idea of microwave mask have go from a crazy-sounding idea to a critically practical question .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What ’ s more , The Guardian report that a man in the UK start a fire when he put a dishcloth in the microwave to sanitize it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To test this , Smart Air ’ s chief engineer Paddy take a used 3M N95 mask , and commandeer the microwave in the Smart Air kitchen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The good news be that most household microwave on high can cook at 600 watt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To get to the bottom of it , Smart Air be dumb enough to test it by actually microwave mask !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The data show that microwave for 3 minute be enough to deactivate polio and parainfluenza viruses.Microwaving parainfluenza for 3 minute kill virusMicrowaving parainfluenza for 3 minute kill virus\nThe ‘ 600W ’ the scientist use to zap virus refers to the power of the microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To be on the safe side , the researcher recommend microwave at 600 watt for 2 minute or long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To be doubly sure , you can check the sticker on the back of your microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although there isn ’ t research on microwave Covid-19 , scientist have test this with human parainfluenza , an RNA virus similar to the coronavirus that infect human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For one , microwave can melt the material .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If anything , microwave slightly increase particle capture .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These scientist put virus on plastic petri dish and microwave them on high for 20 to 200 second .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers in Germany test whether microwave syrinx and cigarette filter could deactivate the virus behind hepatitis C and HIV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most household microwave on the ‘ high ’ have an output of 700-1200W , so it ’ s quite likely your microwave will meet the spec .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The result show that microwave at 360 watt for 3 minute be enough to deactivate the vast bulk of the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can think of this a the ‘ Low ’ , ‘ Medium ’ and ‘ High ’ setting on your microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "conclusion on microwave item to kill and disinfect virusesconclusion on microwave item to kill and disinfect virus\nThe researcher in Germany test the effect of microwave on Hepatitis C and HIV virus , not coronaviruses .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "First , let ’ s take a look at whether household microwave can actually kill virus ( stern scientist out there be shout “ inactivate , ” since virus aren ’ t technically alive ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Researchers contaminate cigarette filter and the plastic part of syrinx with Hepatitis C or HIV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then they microwave them for 3 minute at different power level .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://cleaning.lovetoknow.com/how-kill-household-germs/do-microwaves-kill-germs-like-viruses-bacteria",
+            "content": "Since your microwave oven produce heat , it 's reasonable to assume it could help sanitize or disinfect different item . Hsu Li Yang , a programme leader for infectious disease at the NUS Saw Swee Hock School of Public Health , say because of this you should not try to steam sanitize disposable mask in the microwave . Disposable medical mask be make to be use once , like a tissue . This basic information about use microwave to kill germ should give you a good idea whether this be the method you want to use or not . They suggest this a a method for sanitize baby feed supply after they have be properly clean with soap and water . Because some study have show that microwave sanitation method use water be effective , the CDC do recommend steam some item in the microwave a a method of sanitization . Medical device could include common household device like thermometer and medical mask . Normal cooking method , like baking , frying , or microwave cooking , do kill bacteria and virus in food when all part of the food be bring to a proper temperature . Over time , researcher have learn that it be the heat , not the actual microwave , that can disinfect an item . The FDA echo this advice , warn that surgical mask be not mean to be use more than once . The CDC warn that microwave your toothbrush could actually damage it . find that microwave thing like sponge might kill some of the weak bacteria , but it could make the strong bacteria even strong . Here 's what be know so far and how you can use your microwave to kill some germ . More research be need to help guide people on this unintended use of household microwave . There be many type of material that should truly never be microwave because they can cause fire or small explosion . They find that microwave a wet sponge on the high setting for two minute kill or deactivate 99 % of all the living pathogen in the sponge . The take-away be that microwave will likely help , but it may not offer a 99 % improvement and may vary with the pathogen you 're try to kill . How high the heat need to be varies with the type of virus or bacteria , but here be some important example :\nAnyone who have reheat some leftover lasagna know that microwave do n't heat evenly . A popular study from 2007 by a group of University of Florida professor look specifically at use a microwave oven to kill the bacteria on a sponge . The short answer be yes , but not evenly and maybe not in the way you think . Some part may be hot enough to kill germ , leave only part of an item disinfect . If you do n't share your toothbrush and rinse it off after every use , there 's no real danger in use your own toothbrush after an illness . There 's no doubt that heat can help destroy some germ like bacteria and virus . The CDC share previous research that be conflict in show exactly if or how household microwave can be use for medical quality sanitation . The appliance can actually damage these thin material and make them less effective . Microwaves be build to heat food and beverage , so most expert recommend you only use them a direct . There be no real evidence show that use a contaminate toothbrush after an illness would recontaminate you , say the CDC . Other expert suggest the finding of this study be misleading , indicate that the most harmful germ will be inactivate . This mean they do n't bring all part of an item up to the same germ-killing temperature .",
+            "domain": "cleaning.lovetoknow.com",
+            "tokenized": [
+                {
+                    "sent": "Since your microwave oven produce heat , it 's reasonable to assume it could help sanitize or disinfect different item .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hsu Li Yang , a programme leader for infectious disease at the NUS Saw Swee Hock School of Public Health , say because of this you should not try to steam sanitize disposable mask in the microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Disposable medical mask be make to be use once , like a tissue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This basic information about use microwave to kill germ should give you a good idea whether this be the method you want to use or not .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They suggest this a a method for sanitize baby feed supply after they have be properly clean with soap and water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because some study have show that microwave sanitation method use water be effective , the CDC do recommend steam some item in the microwave a a method of sanitization .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Medical device could include common household device like thermometer and medical mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Normal cooking method , like baking , frying , or microwave cooking , do kill bacteria and virus in food when all part of the food be bring to a proper temperature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over time , researcher have learn that it be the heat , not the actual microwave , that can disinfect an item .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FDA echo this advice , warn that surgical mask be not mean to be use more than once .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The CDC warn that microwave your toothbrush could actually damage it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "find that microwave thing like sponge might kill some of the weak bacteria , but it could make the strong bacteria even strong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's what be know so far and how you can use your microwave to kill some germ .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More research be need to help guide people on this unintended use of household microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be many type of material that should truly never be microwave because they can cause fire or small explosion .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They find that microwave a wet sponge on the high setting for two minute kill or deactivate 99 % of all the living pathogen in the sponge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The take-away be that microwave will likely help , but it may not offer a 99 % improvement and may vary with the pathogen you 're try to kill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "How high the heat need to be varies with the type of virus or bacteria , but here be some important example :\nAnyone who have reheat some leftover lasagna know that microwave do n't heat evenly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A popular study from 2007 by a group of University of Florida professor look specifically at use a microwave oven to kill the bacteria on a sponge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The short answer be yes , but not evenly and maybe not in the way you think .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some part may be hot enough to kill germ , leave only part of an item disinfect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you do n't share your toothbrush and rinse it off after every use , there 's no real danger in use your own toothbrush after an illness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's no doubt that heat can help destroy some germ like bacteria and virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The CDC share previous research that be conflict in show exactly if or how household microwave can be use for medical quality sanitation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The appliance can actually damage these thin material and make them less effective .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Microwaves be build to heat food and beverage , so most expert recommend you only use them a direct .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no real evidence show that use a contaminate toothbrush after an illness would recontaminate you , say the CDC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other expert suggest the finding of this study be misleading , indicate that the most harmful germ will be inactivate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This mean they do n't bring all part of an item up to the same germ-killing temperature .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2020/04/21/firefighters-warn-not-to-sterilize-coronavirus-face-masks-in-microwaves/",
+            "content": "Disposable mask also have a metal nose wire and can cause spark , a fire , and/or break your microwave , ” the post continue . New Hampshire fire official be warn resident against sterilize their face mask in the microwave , say it could easily spark a fire . The Centers for Disease Control and Prevention recommend that cloth mask should be “ washed routinely ” in a washing machine , while the New York State Department of Health advises mask should “ be change frequently and launder when they be soil or wet . “ Cloth mask can overheat quickly and catch fire . “ The NH State Fire Marshal ’ s Office ( NHFMO ) would like to remind everyone that ‘ microwave their mask to kill germ ’ be a fire hazard and an extremely bad idea , ” the office say in a Facebook post accompany picture of extremely charred mask . The microwave be no place for face mask .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "Disposable mask also have a metal nose wire and can cause spark , a fire , and/or break your microwave , ” the post continue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "New Hampshire fire official be warn resident against sterilize their face mask in the microwave , say it could easily spark a fire .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Centers for Disease Control and Prevention recommend that cloth mask should be “ washed routinely ” in a washing machine , while the New York State Department of Health advises mask should “ be change frequently and launder when they be soil or wet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Cloth mask can overheat quickly and catch fire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The NH State Fire Marshal ’ s Office ( NHFMO ) would like to remind everyone that ‘ microwave their mask to kill germ ’ be a fire hazard and an extremely bad idea , ” the office say in a Facebook post accompany picture of extremely charred mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The microwave be no place for face mask .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "http://vietnamnews.vn/society/654072/medical-face-masks-can-be-reused-with-microwave-method-expert.html",
+            "content": "It have renovate a number of microwave oven and create specialised equipment for sterilise face mask in hospital and office . This method help avoid waste disposable medical mask or cloth mask , he say . The mask then be put into the microwave with the antiseptic solution-sprayed side face up and heat for a minute . Watch our video on how to use microwave to sanitise face mask\nThe demand for face mask have rise due to the spread of the novel coronavirus ( COVID-19 ) pandemic . The purpose be to moisten the mask . Standard , disposable medical mask and cloth mask be the recommend type for this disinfection method . People could use disinfectant solution such a 0.9 per cent physiological saline to spray on the mask . Other type of mask might contain flammable material when heat in a microwave oven , he say . The institute have test the standard disinfection of medical mask base on these method . In do so , each person have a clean mask to use , he say . People should wait a while for the mask to cool and hold the handle of the mask . As recommend by expert , the microwave for disinfect mask should be use separately , not for heat food or other purpose . Hải say the common technology for disinfection be the use of ultraviolet ray , ozone a a form of oxygen , heat and microwave . Hải note that the parameter set for microwave have be thoroughly research by test . Using microwave be the easy , most feasible and most popular solution , he say .",
+            "domain": "vietnamnews.vn",
+            "tokenized": [
+                {
+                    "sent": "It have renovate a number of microwave oven and create specialised equipment for sterilise face mask in hospital and office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This method help avoid waste disposable medical mask or cloth mask , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The mask then be put into the microwave with the antiseptic solution-sprayed side face up and heat for a minute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Watch our video on how to use microwave to sanitise face mask\nThe demand for face mask have rise due to the spread of the novel coronavirus ( COVID-19 ) pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The purpose be to moisten the mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Standard , disposable medical mask and cloth mask be the recommend type for this disinfection method .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People could use disinfectant solution such a 0.9 per cent physiological saline to spray on the mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other type of mask might contain flammable material when heat in a microwave oven , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The institute have test the standard disinfection of medical mask base on these method .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In do so , each person have a clean mask to use , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People should wait a while for the mask to cool and hold the handle of the mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As recommend by expert , the microwave for disinfect mask should be use separately , not for heat food or other purpose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hải say the common technology for disinfection be the use of ultraviolet ray , ozone a a form of oxygen , heat and microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hải note that the parameter set for microwave have be thoroughly research by test .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using microwave be the easy , most feasible and most popular solution , he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.webmd.com/lung/news/20200709/study-sterilize-n95-masks-with-a-microwave",
+            "content": "Though the mask be suppose to be use one time , the rise need and ongoing shortage have lead hospital to try mask sterilization technique such a hydrogen peroxide vaporization , UV light , and heat incubation . Due to the shortage of N95s available to health care worker , many people be wear cloth mask , which can be decontaminate in the washer . The researcher find that this sterilization method could be repeat 20 time on a single N95 mask without damage . They then place the N95 mask on the mesh and microwave it for 3 minute . “ The only mask that can prevent aerosol-size droplet inhalation be an N95 , ” the author say . Even though the type of mask they use have a metal piece , they didn ’ t have an issue with it heat or spark during the 20 cycle of test , Kirby say . July 9 , 2020 -- As one of the best line of defense against coronavirus , N95 mask be vital for health care worker treat infected patient . Editor 's note : This story be update July 10 , 2020 to add that the researcher do not see any sparking of the metal piece in the mask during the experiment . A recent study from the American Society for Microbiology offer a new decontamination tool that be much more accessible and affordable : a microwave . “ We know there be a critical shortage of personal protective gear and N95 mask , and we know there be a need for a solution , ” he say . But more people may turn to N95 mask a more research emerge about the pandemic ’ s transmission . The material include water , a glass container , mesh , a rubber band , and a 1,100- or 1,150-watt microwave . USA Today : “ ICU doctor : Many more Americans need to wear N95 mask to slow COVID-19 . The researcher fill the container with 60 milliliter of water , then secure the mesh material over the top of it with a rubber band .",
+            "domain": "www.webmd.com",
+            "tokenized": [
+                {
+                    "sent": "Though the mask be suppose to be use one time , the rise need and ongoing shortage have lead hospital to try mask sterilization technique such a hydrogen peroxide vaporization , UV light , and heat incubation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Due to the shortage of N95s available to health care worker , many people be wear cloth mask , which can be decontaminate in the washer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The researcher find that this sterilization method could be repeat 20 time on a single N95 mask without damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They then place the N95 mask on the mesh and microwave it for 3 minute .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The only mask that can prevent aerosol-size droplet inhalation be an N95 , ” the author say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even though the type of mask they use have a metal piece , they didn ’ t have an issue with it heat or spark during the 20 cycle of test , Kirby say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "July 9 , 2020 -- As one of the best line of defense against coronavirus , N95 mask be vital for health care worker treat infected patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Editor 's note : This story be update July 10 , 2020 to add that the researcher do not see any sparking of the metal piece in the mask during the experiment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A recent study from the American Society for Microbiology offer a new decontamination tool that be much more accessible and affordable : a microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We know there be a critical shortage of personal protective gear and N95 mask , and we know there be a need for a solution , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But more people may turn to N95 mask a more research emerge about the pandemic ’ s transmission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The material include water , a glass container , mesh , a rubber band , and a 1,100- or 1,150-watt microwave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "USA Today : “ ICU doctor : Many more Americans need to wear N95 mask to slow COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher fill the container with 60 milliliter of water , then secure the mesh material over the top of it with a rubber band .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,889 @@
+{
+    "event_id": "262291",
+    "claim": "Residents of various U.S. states have received unsolicited mailings of seeds sent from China with malicious intent.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In July 2020, social media users began circulating a warning from the Washington State Department of Agriculture about people in the U.S. receiving unsolicited mailings of seeds sent from China (sometimes in packages identifying the contents as jewelry), which included a caution for recipients not to plant any seeds so received and to report them to the United States Department of Agriculture (USDA) as instances of agricultural smuggling:\n\n\nToday we received reports of people receiving seeds in the mail from China that they did not order. The seeds are sent in packages usually stating that the contents are jewelry. Unsolicited seeds could be invasive, introduce diseases to local plants, or be harmful to livestock.\nHere’s what to do if you receive unsolicited seeds from another country: \n1) DO NOT plant them and if they are in sealed packaging don’t open the sealed package. \n2) This is known as agricultural smuggling. Report it to USDA and maintain the seeds and packaging until USDA instructs you what to do with the packages and seeds. They may be needed as evidence.\n\nThis warning corresponded to multiple other governmental alerts and news accounts about persons in the UK and multiple states of the U.S. having received such unsolicited mailings.  The  Virginia Department of Agriculture and Consumer Services (VDACS), for example, issued a similar warning to residents of that state:\n\nThe Virginia Department of Agriculture and Consumer Services (VDACS) has been notified that several Virginia residents have received unsolicited packages containing seeds that appear to have originated from China. The types of seeds in the packages are unknown at this time and may be invasive plant species. The packages were sent by mail and may have Chinese writing on them.\nPlease do not plant these seeds. VDACS encourages anyone who has received unsolicited seeds in the mail that appears to have Chinese origin to contact the Office of Plant Industry Services (OPIS) at 804.786.3515 or through the ReportAPest@vdacs.virginia.gov email.\nInvasive species wreak havoc on the environment, displace or destroy native plants and insects and severely damage crops. Taking steps to prevent their introduction is the most effective method of reducing both the risk of invasive species infestations and the cost to control and mitigate those infestations.\n\nNewsweek also reported on residents of Utah receiving the same type of unsolicited packages:\n\nA number of Utah residents have been surprised with a peculiar package in their mailboxes — a parcel filled with seeds and Chinese writing on the outside.\n“I opened them up and they were seeds,” said Utah resident Lori Culley, who found her package with Chinese characters, plus a label stating there were earrings inside. “Obviously they’re not jewelry!” she said.\nCulley, who lives in Tooele, thought it may be a case of a mistaken address, but when she posted about it on social media she found “at least 40” local residents had gotten similar packages in the past few weeks.\nThere are regulations as to which plants and seeds can be imported into and sold in Utah. Since the delivery, a representative from the Utah Department of Agriculture picked up Culley’s seeds to have them tested. The department may also get assistance from Customs and Border Protection agents to investigate the mysterious seeds.\n\nLess certain is the purpose behind the mailings.  Explanations from drug smuggling to attempts to trick Americans into planting harmful invasive species have been mooted, although a somewhat different motive has also been suggested: “Better Business Bureau’s Jane Rupp has another theory. She thinks it could simply be a scam relating to customer reviews, in which companies post low-cost items so they can write fake reviews for their business in a resident’s name.”\nAs U.S. News & World Report explained, the “Fake Listing Scam” is employed by disreputable sellers on sites such as Amazon.com, as they attempt to build up false reputations as reliable vendors in order to facilitate luring victims to their scams:\n\n[T]here have been some cases of criminals buying their own products and shipping it to a real address. The con artist then writes a fake review, purportedly from the buyer the product was shipped to. Why does the thief go to the trouble? To make it look like a “verified” review, since the review came from a “buyer” who bought the product. \n“Amazon is continuously developing algorithms to automatically detect these merchants, but it also relies on consumer awareness,” [Kevin Lancaster, CEO of ID Agent] says. And what really can throw people off is that sometimes these con artists build up a couple months of legitimate sales, making a con artist’s products appear reputable, Lancaster says. “People buy from the fake listings, and instead of receiving a product in a few weeks, the scammer has already made off with the money,” he explains.\n\nAt this juncture it appears true that the mysterious mailings of seeds sent with return addresses in China are real, but the specific motive behind them is as yet unknown.",
+    "reports": [
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2020/07/27/unsolicited-packets-seeds-may-mailed-china-states-warn/5516852002/",
+            "content": "Officials in several state say resident have report receiving unsolicited package of seed in the mail that appear to be send from China and be urge the public not to plant them . USDA advice : What to do if you 've receive unsolicited seed from China\n“ I open them up and they be seed , ” Culley say . ”\nMail scam hit Texas : Found unsolicited seed from China in the mail ? A spokesperson for the USDA say the department's Animal and Plant Health Inspection Service be aware that people across the country have receive the package and urge anyone who do to contact their state plant regulatory official and keep the seed and packaging , include the mailing label , until they receive further instruction . Do not plant them , official warn\nMike Strain , commissioner of the Louisiana Department of Agriculture and Forestry , ask resident to notify his department if they receive unsolicited package of seed in a statement Friday . The agriculture department in 30 state have recently issue statement warn resident about the seed : Alabama , Arkansas , Colorado , Delaware , Florida , Georgia , Iowa , Kansas , Kentucky , Louisiana , Maryland , Michigan , Minnesota , Mississippi , Montana , Nebraska , Nevada , New Hampshire , New Jersey , North Carolina , North Dakota , Oklahoma , Oregon , South Carolina , Tennessee , Texas , Virginia , West Virginia , Washington , and Wyoming . ”\nThe Washington State Department of Agriculture warn resident not to plant or open the sealed package and urge them to report the incident , know a `` agricultural smuggling '' to the U.S. Agriculture Department in a statement . `` USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment . '' `` At this time , we don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale , '' the statement say .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Officials in several state say resident have report receiving unsolicited package of seed in the mail that appear to be send from China and be urge the public not to plant them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "USDA advice : What to do if you 've receive unsolicited seed from China\n“ I open them up and they be seed , ” Culley say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMail scam hit Texas : Found unsolicited seed from China in the mail ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A spokesperson for the USDA say the department's Animal and Plant Health Inspection Service be aware that people across the country have receive the package and urge anyone who do to contact their state plant regulatory official and keep the seed and packaging , include the mailing label , until they receive further instruction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Do not plant them , official warn\nMike Strain , commissioner of the Louisiana Department of Agriculture and Forestry , ask resident to notify his department if they receive unsolicited package of seed in a statement Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The agriculture department in 30 state have recently issue statement warn resident about the seed : Alabama , Arkansas , Colorado , Delaware , Florida , Georgia , Iowa , Kansas , Kentucky , Louisiana , Maryland , Michigan , Minnesota , Mississippi , Montana , Nebraska , Nevada , New Hampshire , New Jersey , North Carolina , North Dakota , Oklahoma , Oregon , South Carolina , Tennessee , Texas , Virginia , West Virginia , Washington , and Wyoming .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Washington State Department of Agriculture warn resident not to plant or open the sealed package and urge them to report the incident , know a `` agricultural smuggling '' to the U.S. Agriculture Department in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` At this time , we don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale , '' the statement say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2020/07/28/usda-advice-plant-unsolicited-seeds-china/5525129002/",
+            "content": "People across the country have report receiving unsolicited package of seed in the mail that appear to be send from China . The agriculture department in 30 state have recently issue statement warn resident about the seed : Alabama , Arkansas , Colorado , Delaware , Florida , Georgia , Iowa , Kansas , Kentucky , Louisiana , Maryland , Michigan , Minnesota , Mississippi , Montana , Nebraska , Nevada , New Hampshire , New Jersey , North Carolina , North Dakota , Oklahoma , Oregon , South Carolina , Tennessee , Texas , Virginia , West Virginia , Washington and Wyoming . `` Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or APHIS ( Animal and Plant Health Inspection Service ) contact you with further instruction , '' the statement say . Officials believe they may be part of a `` brushing scam '' where seller send people unsolicited item so they can post false customer review to boost sale .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "People across the country have report receiving unsolicited package of seed in the mail that appear to be send from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The agriculture department in 30 state have recently issue statement warn resident about the seed : Alabama , Arkansas , Colorado , Delaware , Florida , Georgia , Iowa , Kansas , Kentucky , Louisiana , Maryland , Michigan , Minnesota , Mississippi , Montana , Nebraska , Nevada , New Hampshire , New Jersey , North Carolina , North Dakota , Oklahoma , Oregon , South Carolina , Tennessee , Texas , Virginia , West Virginia , Washington and Wyoming .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or APHIS ( Animal and Plant Health Inspection Service ) contact you with further instruction , '' the statement say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Officials believe they may be part of a `` brushing scam '' where seller send people unsolicited item so they can post false customer review to boost sale .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/07/26/us/seeds-from-china-mail.html",
+            "content": "Officials in at least 27 state be urge resident to report any unsolicited package of seed that appear to have be send from China , warn that they might be invasive or otherwise harmful . ”\nPublic notice about unsolicited shipment of seed from China be also issue by agriculture official in Washington State , Virginia , Kentucky , Colorado , Delaware , Georgia , Iowa , Maryland , Minnesota , Mississippi , Wyoming , Montana , Nebraska , Nevada , New Hampshire , North Carolina , South Carolina , North Dakota , Oklahoma , Tennessee , Texas , West Virginia , Florida , and Alabama . The agriculture department in those state have issue statement in recent day , note that resident have report receive package of seed in the mail that they have not order . The agriculture department in at least four other state — Arkansas , Michigan , New Jersey and Oregon — issue warning but do not say whether any of their resident have report receive seed in the mail . Mr. Strain , the Louisiana agriculture and forestry commissioner , say on Monday that his department have receive more than 150 phone call from people report unsolicited shipment of seed , include some that appear to have be send from Uzbekistan . ”\nMichael Wallace , a spokesman for the Virginia Department of Agriculture and Consumer Services , say on Monday that the department have receive “ over 900 email and several hundred telephone call ” from people who say they have receive unsolicited package of seed in the mail . ” China Post have contact the United States Postal Service , he say , “ ask it to send those fake package to China for investigation . The police in Whitehouse , Ohio , where a resident report receive seed , say the package appear to be a part of a “ brushing ” fraud . State agriculture official be urge resident not to plant the seed , which be mail in pouch feature Chinese character . ”\nKentucky ’ s agriculture commissioner , Ryan Quarles , ask resident to report unsolicited package of seed to the state ’ s Agriculture Department , write on Twitter that they should “ put the package and seed in a zip lock bag and wash your hand immediately . It be not immediately clear what type of seed they be , but Mike Strain , the Louisiana agriculture and forestry commissioner , say in an interview that it appear that waterlily seed be among those receive by resident of his state . Packages of seed have also be send to resident in Utah and Arizona , accord to local news report . The department have confirm that about 100 package of seed have be send to resident across the state , he say . Based on photo , the seed appear to have be mail in white pouch bear the word “ China Post ” and Chinese character note the content a “ ring. ” Photos release by the Ohio Department of Agriculture show that seed have also be send in yellow envelope with the Chinese character describe the content simply a “ accessory . She urge anyone who receive the seed in the mail to contact state plant regulatory official or A.P.H.I.S . “ Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or A.P.H.I.S . The agency be work with U.S. Customs and Border Protection and state agriculture department “ to prevent the unlawful entry of prohibited seed and protect U.S. agriculture from invasive pest and noxious weed , ” Ms. Sequeira say . ”\nThe Florida Department of Agriculture and Consumer Services say in a statement on Monday that about 160 people have report receive seed in the mail . ”\nCarolee Bull , a professor who lead the Department of Plant Pathology and Environmental Microbiology at Penn State University , say that plant unidentified seed could be harmful .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Officials in at least 27 state be urge resident to report any unsolicited package of seed that appear to have be send from China , warn that they might be invasive or otherwise harmful .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nPublic notice about unsolicited shipment of seed from China be also issue by agriculture official in Washington State , Virginia , Kentucky , Colorado , Delaware , Georgia , Iowa , Maryland , Minnesota , Mississippi , Wyoming , Montana , Nebraska , Nevada , New Hampshire , North Carolina , South Carolina , North Dakota , Oklahoma , Tennessee , Texas , West Virginia , Florida , and Alabama .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The agriculture department in those state have issue statement in recent day , note that resident have report receive package of seed in the mail that they have not order .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The agriculture department in at least four other state — Arkansas , Michigan , New Jersey and Oregon — issue warning but do not say whether any of their resident have report receive seed in the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Strain , the Louisiana agriculture and forestry commissioner , say on Monday that his department have receive more than 150 phone call from people report unsolicited shipment of seed , include some that appear to have be send from Uzbekistan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMichael Wallace , a spokesman for the Virginia Department of Agriculture and Consumer Services , say on Monday that the department have receive “ over 900 email and several hundred telephone call ” from people who say they have receive unsolicited package of seed in the mail .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” China Post have contact the United States Postal Service , he say , “ ask it to send those fake package to China for investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The police in Whitehouse , Ohio , where a resident report receive seed , say the package appear to be a part of a “ brushing ” fraud .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State agriculture official be urge resident not to plant the seed , which be mail in pouch feature Chinese character .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nKentucky ’ s agriculture commissioner , Ryan Quarles , ask resident to report unsolicited package of seed to the state ’ s Agriculture Department , write on Twitter that they should “ put the package and seed in a zip lock bag and wash your hand immediately .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be not immediately clear what type of seed they be , but Mike Strain , the Louisiana agriculture and forestry commissioner , say in an interview that it appear that waterlily seed be among those receive by resident of his state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Packages of seed have also be send to resident in Utah and Arizona , accord to local news report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The department have confirm that about 100 package of seed have be send to resident across the state , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Based on photo , the seed appear to have be mail in white pouch bear the word “ China Post ” and Chinese character note the content a “ ring.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Photos release by the Ohio Department of Agriculture show that seed have also be send in yellow envelope with the Chinese character describe the content simply a “ accessory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She urge anyone who receive the seed in the mail to contact state plant regulatory official or A.P.H.I.S .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or A.P.H.I.S .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The agency be work with U.S. Customs and Border Protection and state agriculture department “ to prevent the unlawful entry of prohibited seed and protect U.S. agriculture from invasive pest and noxious weed , ” Ms. Sequeira say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Florida Department of Agriculture and Consumer Services say in a statement on Monday that about 160 people have report receive seed in the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nCarolee Bull , a professor who lead the Department of Plant Pathology and Environmental Microbiology at Penn State University , say that plant unidentified seed could be harmful .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.gardencentermag.com/article/caution-urged-as-mystery-seed-mailings-arrive-from-china/",
+            "content": "State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them.The South Carolina Department of Agriculture and Clemson University 's Regulatory Services division be work together to investigate after resident report receive package they do not order.Similar report , many involve address from China , have be make to agriculture official across the country . The U.S. Department of Agriculture 's Animal Plant Health Inspection Service ( APHIS ) be collect report and coordinate a national investigation.If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture assistant commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division.",
+            "domain": "www.gardencentermag.com",
+            "tokenized": [
+                {
+                    "sent": "State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them.The South Carolina Department of Agriculture and Clemson University 's Regulatory Services division be work together to investigate after resident report receive package they do not order.Similar report , many involve address from China , have be make to agriculture official across the country .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The U.S. Department of Agriculture 's Animal Plant Health Inspection Service ( APHIS ) be collect report and coordinate a national investigation.If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture assistant commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thepoultrysite.com/news/2020/08/caution-urged-in-us-after-mystery-seed-mailings",
+            "content": "Until that program be available , he urge resident who have receive unsolicited seed in the mail appear to be from China to store the seed safely inside a zip top bag , not plant or handle the seed and report the incident to their state agriculture department . Agriculture department in Kansas , Kentucky , Ohio , South Carolina and Washington state have issue warning regard the unsolicited package of seed . If you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed . Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock . Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock . Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock . Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock . ”\nUnsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock . ”\nIf you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed . ”\nIf you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed . Agriculture official be warn American citizen to be wary of unsolicited package of seed mail to them . ”\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+            "domain": "www.thepoultrysite.com",
+            "tokenized": [
+                {
+                    "sent": "Until that program be available , he urge resident who have receive unsolicited seed in the mail appear to be from China to store the seed safely inside a zip top bag , not plant or handle the seed and report the incident to their state agriculture department .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Agriculture department in Kansas , Kentucky , Ohio , South Carolina and Washington state have issue warning regard the unsolicited package of seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Unsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nUnsolicited seed could be invasive specie , contain noxious weed , could introduce disease to local plant , or could be harmful to livestock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIf you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIf you receive an unsolicited package contain seed :\nDo not open the seed packet or handle the seeds.Do not plant unidentified seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Agriculture official be warn American citizen to be wary of unsolicited package of seed mail to them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.aphis.usda.gov/aphis/newsroom/stakeholder-info/sa_by_date/sa-2020/sa-07/seeds-china",
+            "content": "USDA be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China . USDA urge anyone who receive an unsolicited package of seed to immediately contact their State plant regulatory official or APHIS State plant health director . Please hold onto the seed and packaging , include the mailing label , until someone from your State department of agriculture or APHIS contact you with further instruction . USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment . At this time , we don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale .",
+            "domain": "www.aphis.usda.gov",
+            "tokenized": [
+                {
+                    "sent": "USDA be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "USDA urge anyone who receive an unsolicited package of seed to immediately contact their State plant regulatory official or APHIS State plant health director .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Please hold onto the seed and packaging , include the mailing label , until someone from your State department of agriculture or APHIS contact you with further instruction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At this time , we don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://thedanielislandnews.com/news/caution-urged-after-mystery-seed-mailings-arrive-south-carolina",
+            "content": "The USDA be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China . USDA urge anyone who receive an unsolicited package of seed to immediately contact their State plant regulatory official or APHIS State plant health director . State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them . The mysterious package of seed that have be report nationally a be deliver to home unsolicited be also turn up in South Carolina . If you receive an unsolicited package contain seed :\n• Do not open the seed packet or handle the seed . Please hold onto the seed and packaging , include the mailing label , until someone from your State department of agriculture or APHIS contact you with further instruction . USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . At this time , the USCA report that they don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale .",
+            "domain": "thedanielislandnews.com",
+            "tokenized": [
+                {
+                    "sent": "The USDA be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "USDA urge anyone who receive an unsolicited package of seed to immediately contact their State plant regulatory official or APHIS State plant health director .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The mysterious package of seed that have be report nationally a be deliver to home unsolicited be also turn up in South Carolina .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you receive an unsolicited package contain seed :\n• Do not open the seed packet or handle the seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Please hold onto the seed and packaging , include the mailing label , until someone from your State department of agriculture or APHIS contact you with further instruction .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "USDA be currently collect seed package from recipient and will test their content and determine if they contain anything that could be of concern to U.S. agriculture or the environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At this time , the USCA report that they don ’ t have any evidence indicating this be something other than a “ brushing scam ” where people receive unsolicited item from a seller who then post false customer review to boost sale .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wvgazettemail.com/news/mystery-takes-root-from-unsolicited-mailings-of-free-seed-packets-from-china/article_ab6ffaa4-73dc-5b31-96d7-9c6b51def40e.html",
+            "content": "Agriculture official in West Virginia and at least 30 other state be scratch their head over free , unsolicited packet of seed from China turn up in the mailbox of thousand of resident during the past week . Since then , the mailing have be report by agriculture official in at least 30 other state , all of whom be urge resident not to plant the seed , which come in a variety of color and size , or to open the seed packet . On the Ohio Department of Agriculture ’ s Twitter feed , several resident of the Buckeye State also report receive similar mailing from an address in Uzbekistan in recent day . Anyone receive the seed — which usually arrive in a sealed plastic packet inside a white envelope mark “ China Post ” — be urge not to plant them . The unsolicited , foreign-sourced seed might well be harmless , but they also could contain pathogen , insect or insect egg that could harm domestic plant or animal . This photo show package of seed mail from China . This photo show package of seed mail from China . “ Unsolicited seed could be invasive and introduce disease to local plant or be harmful to livestock , ” West Virginia Agriculture Commissioner Kent Leonhardt say . ”\nPhotos of envelope in which seed be mail be post on several state agriculture department ’ website and social medium page on Tuesday . On Friday , Washington apparently become the first state to receive the mailing when two of the Chinese seed envelope be report to the Washington State Department of Agriculture . Those receive the seed also should refrain from open the seal packet in which they arrive .",
+            "domain": "www.wvgazettemail.com",
+            "tokenized": [
+                {
+                    "sent": "Agriculture official in West Virginia and at least 30 other state be scratch their head over free , unsolicited packet of seed from China turn up in the mailbox of thousand of resident during the past week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since then , the mailing have be report by agriculture official in at least 30 other state , all of whom be urge resident not to plant the seed , which come in a variety of color and size , or to open the seed packet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On the Ohio Department of Agriculture ’ s Twitter feed , several resident of the Buckeye State also report receive similar mailing from an address in Uzbekistan in recent day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anyone receive the seed — which usually arrive in a sealed plastic packet inside a white envelope mark “ China Post ” — be urge not to plant them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The unsolicited , foreign-sourced seed might well be harmless , but they also could contain pathogen , insect or insect egg that could harm domestic plant or animal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This photo show package of seed mail from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This photo show package of seed mail from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Unsolicited seed could be invasive and introduce disease to local plant or be harmful to livestock , ” West Virginia Agriculture Commissioner Kent Leonhardt say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nPhotos of envelope in which seed be mail be post on several state agriculture department ’ website and social medium page on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Friday , Washington apparently become the first state to receive the mailing when two of the Chinese seed envelope be report to the Washington State Department of Agriculture .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those receive the seed also should refrain from open the seal packet in which they arrive .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foodsafetynews.com/2020/07/mystery-mailings-of-seeds-from-china-leave-usda-fairly-clueless/",
+            "content": "The USDA this week issue a statement that it ” be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China . From county extension agent to state agriculture commissioner to USDA , the public be be warn about “ mysterious and unsolicited seed ” shipment come from China that may show up in their mailbox . The unsolicited seed be from China or maybe other part of Asia . The USDA urge anyone who receive an unsolicited package of seed to immediately contact their state plant regulatory official or APHIS State plant health director . Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or APHIS contact you with further instruction . The USDA be currently collect seed package from recipient and will test their content to determine if they contain anything that could be of concern to U.S. agriculture or the environment .",
+            "domain": "www.foodsafetynews.com",
+            "tokenized": [
+                {
+                    "sent": "The USDA this week issue a statement that it ” be aware that people across the country have receive suspicious , unsolicited package of seed that appear to be come from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "From county extension agent to state agriculture commissioner to USDA , the public be be warn about “ mysterious and unsolicited seed ” shipment come from China that may show up in their mailbox .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The unsolicited seed be from China or maybe other part of Asia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The USDA urge anyone who receive an unsolicited package of seed to immediately contact their state plant regulatory official or APHIS State plant health director .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Please hold onto the seed and packaging , include the mailing label , until someone from your state department of agriculture or APHIS contact you with further instruction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The USDA be currently collect seed package from recipient and will test their content to determine if they contain anything that could be of concern to U.S. agriculture or the environment .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://hgic.clemson.edu/caution-urged-after-mystery-seed-mailings/",
+            "content": "Unsolicited package of seed , many involve address from China , have be report to agriculture official by U.S. citizen from coast to coast . If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . Image Credit : Washington State Department of Agriculture\nCLEMSON , S.C. – State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them .",
+            "domain": "hgic.clemson.edu",
+            "tokenized": [
+                {
+                    "sent": "Unsolicited package of seed , many involve address from China , have be report to agriculture official by U.S. citizen from coast to coast .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Image Credit : Washington State Department of Agriculture\nCLEMSON , S.C. – State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.postandcourier.com/news/close-to-600-mystery-seed-mailings-from-china-reported-in-sc/article_53894e04-de51-11ea-9bcc-77786bdb4679.html",
+            "content": "Unsolicited seed package mail from China be be test by the U.S. Department of Agriculture 's Animal and Plant Health Inspection Service to determine if they carry pest or disease of concern to agriculture . U.S. Department of Agriculture/Provided\nUnsolicited seed package mail from China be be test by the U.S. Department of Agriculture 's Animal and Plant Health Inspection Service to determine if they carry pest or disease of concern to agriculture . ”\nA USDA spokeswoman say the office of Meg Raabe , the state ’ s plant health director , have receive 103 report from South Carolina resident that they have receive the unsolicited seed . U.S. Department of Agriculture/Provided\nNearly 600 report of unsolicited suspect seed-mailings from China have be file with agriculture investigative agency in South Carolina . Those who receive unsolicited seed in the mail be ask to contact the USDA ’ s Smuggling Interdiction and Trade Compliance program at 1-800-877-3835 or SITC.Mail @ aphis.usda.gov . The USDA have report there be currently no evidence the unsolicited seed package be anything other than an internet brushing scam where seller send item to unsuspecting consumer and post false review to boost sale , accord to the agency . Some of the seed have grow plant that produce melon-like fruit which could be native to China . The website include instruction for reporting and store the seed until they be collect and destroy by state or federal official . Cole say the USDA have receive about 3,000 report of the unsolicited seed nationally . The state Department of Agriculture first advise resident last month to avoid open the package and also to not plant the unidentified seed .",
+            "domain": "www.postandcourier.com",
+            "tokenized": [
+                {
+                    "sent": "Unsolicited seed package mail from China be be test by the U.S. Department of Agriculture 's Animal and Plant Health Inspection Service to determine if they carry pest or disease of concern to agriculture .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "U.S. Department of Agriculture/Provided\nUnsolicited seed package mail from China be be test by the U.S. Department of Agriculture 's Animal and Plant Health Inspection Service to determine if they carry pest or disease of concern to agriculture .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA USDA spokeswoman say the office of Meg Raabe , the state ’ s plant health director , have receive 103 report from South Carolina resident that they have receive the unsolicited seed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. Department of Agriculture/Provided\nNearly 600 report of unsolicited suspect seed-mailings from China have be file with agriculture investigative agency in South Carolina .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those who receive unsolicited seed in the mail be ask to contact the USDA ’ s Smuggling Interdiction and Trade Compliance program at 1-800-877-3835 or SITC.Mail @ aphis.usda.gov .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The USDA have report there be currently no evidence the unsolicited seed package be anything other than an internet brushing scam where seller send item to unsuspecting consumer and post false review to boost sale , accord to the agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the seed have grow plant that produce melon-like fruit which could be native to China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The website include instruction for reporting and store the seed until they be collect and destroy by state or federal official .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Cole say the USDA have receive about 3,000 report of the unsolicited seed nationally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The state Department of Agriculture first advise resident last month to avoid open the package and also to not plant the unidentified seed .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/us/china-seed-mailings-mystery-universities-agriculture-homeland-security",
+            "content": "People from coast to coast have be receive unsolicited seed package from China . Recipients of the package , like Michigan resident Scott McDonald , say the seed be send from China , contain Chinese lettering on the outside and post a false product description . ”\nRecipients of the package say the seed be send from China , contain Chinese lettering on the outside , and post a false product description . Consumers in the U.S. , Canada , Australia and the EU have all receive the unsolicited package , prompt agriculture department in several state to issue warning against plant them . The U.S. Department of Agriculture [ USDA ] be start to identify some of the mysterious seed packet that have be pop up in American mailbox from China . A U.S. Customs and Border Protection [ CBP ] spokesperson tell Fox News the “ unsolicited package of seed may contain invasive specie or other material that could harm U.S. agriculture and the environment . ”\nThe U.S. Department of Agriculture ’ s Animal and Plant Health Inspection Services [ APHIS ] have be work alongside state and federal agency include the Department of Homeland Security ’ s Customs and Border Protection to figure out what the seed be and why they be send . Packets of mystery seed from China have be pop up in American mailbox for the Last few week . ( USDA , APHIS )\nHowever , the USDA , along with several police agency , have call this nothing but a brushing scam in which people receive unsolicited item from a seller who then post false customer review to boost sale . Some people receive seed while others get a variety of item include “ paint by number ” set .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "People from coast to coast have be receive unsolicited seed package from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Recipients of the package , like Michigan resident Scott McDonald , say the seed be send from China , contain Chinese lettering on the outside and post a false product description .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nRecipients of the package say the seed be send from China , contain Chinese lettering on the outside , and post a false product description .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Consumers in the U.S. , Canada , Australia and the EU have all receive the unsolicited package , prompt agriculture department in several state to issue warning against plant them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The U.S. Department of Agriculture [ USDA ] be start to identify some of the mysterious seed packet that have be pop up in American mailbox from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A U.S. Customs and Border Protection [ CBP ] spokesperson tell Fox News the “ unsolicited package of seed may contain invasive specie or other material that could harm U.S. agriculture and the environment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe U.S. Department of Agriculture ’ s Animal and Plant Health Inspection Services [ APHIS ] have be work alongside state and federal agency include the Department of Homeland Security ’ s Customs and Border Protection to figure out what the seed be and why they be send .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Packets of mystery seed from China have be pop up in American mailbox for the Last few week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( USDA , APHIS )\nHowever , the USDA , along with several police agency , have call this nothing but a brushing scam in which people receive unsolicited item from a seller who then post false customer review to boost sale .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some people receive seed while others get a variety of item include “ paint by number ” set .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.counton2.com/news/south-carolina-news/sc-dept-of-agriculture-investigating-mystery-seed-mailings-asks-residents-to-report-them/",
+            "content": "That ’ s the message from state agriculture official after resident say they receive unsolicited seed in through the mail . The South Carolina Department of Agriculture and Clemson University ’ s Regulatory Services Division be work together to investigate the origin of the seed , many of which involve address from China . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . CLEMSON , S.C. ( WCBD ) – If you receive a package of seed in the mail , do not plant them – report them .",
+            "domain": "www.counton2.com",
+            "tokenized": [
+                {
+                    "sent": "That ’ s the message from state agriculture official after resident say they receive unsolicited seed in through the mail .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The South Carolina Department of Agriculture and Clemson University ’ s Regulatory Services Division be work together to investigate the origin of the seed , many of which involve address from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CLEMSON , S.C. ( WCBD ) – If you receive a package of seed in the mail , do not plant them – report them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-china-seeds/morning-glories-and-mustard-u-s-investigates-unsolicited-seed-mystery-idUSKCN24W1R7",
+            "content": "CHICAGO ( Reuters ) - The U.S. Agriculture Department have identify more than a dozen plant specie range from morning glory to mustard in bag of unsolicited seed arrive in the mailbox of thousand of Americans , mostly postmark from China . Another concern be what appear to be an unknown coating , possibly insecticide or fungicide on the seed , say Robin Pruisner , state seed control official at the Department of Agriculture and Land Stewardship in Iowa , the top U.S. corn grow state . The package have also be report in Canada , where Ontario ’ s Central Region Provincial Police post a warning on Facebook Wednesday against “ foreign seed in the mail from China or Taiwan . “ I have be simply amaze , when I talk to people , how they say the other seed they ’ ve bought from China be fine . The U.S. Department of Agriculture ’ s Animal and Plant Health Inspection Service ( APHIS ) be instruct state agency to collect the seed and send them to it for analysis . U.S. Customs and Border Protection be also investigate the origin of the seed . The Agriculture Department have say the package be most likely part of a “ brushing ” scam , in which people receive unsolicited item from a seller who then post false positive customer review to boost sale . ”\nThe Florida Department of Agriculture and Consumer Services say it have receive 1,209 report about the seed , with 300 phone call on Thursday alone .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "CHICAGO ( Reuters ) - The U.S. Agriculture Department have identify more than a dozen plant specie range from morning glory to mustard in bag of unsolicited seed arrive in the mailbox of thousand of Americans , mostly postmark from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Another concern be what appear to be an unknown coating , possibly insecticide or fungicide on the seed , say Robin Pruisner , state seed control official at the Department of Agriculture and Land Stewardship in Iowa , the top U.S. corn grow state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The package have also be report in Canada , where Ontario ’ s Central Region Provincial Police post a warning on Facebook Wednesday against “ foreign seed in the mail from China or Taiwan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I have be simply amaze , when I talk to people , how they say the other seed they ’ ve bought from China be fine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The U.S. Department of Agriculture ’ s Animal and Plant Health Inspection Service ( APHIS ) be instruct state agency to collect the seed and send them to it for analysis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "U.S. Customs and Border Protection be also investigate the origin of the seed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Agriculture Department have say the package be most likely part of a “ brushing ” scam , in which people receive unsolicited item from a seller who then post false positive customer review to boost sale .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe Florida Department of Agriculture and Consumer Services say it have receive 1,209 report about the seed , with 300 phone call on Thursday alone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.popularmechanics.com/science/a33524709/what-are-chinese-seeds-in-mail/",
+            "content": "Some Americans be randomly be send mysterious envelope full of unlabeled seed from China . These be the mysterious seed I receive in the mail . # SeedsFromChina\nThe U.S. Department of Agriculture ( USDA ) have publicly ask people not to plant the seed , and to instead send them to the USDA for test by the Animal and Plant Health Inspection Service ( APHIS ) . The national agricultural youth organization 4-H ( which have be scrutinize for systemic racism in many state this year ) offer a seed judging competition where student must identify dozen of different seed by type , include native wild plant , weed , and crop plant . Although federal department have prudently ask people to wrap and submit the seed to them for inspection , even Fox News report the mailing be likely part of a kind of scam call brushing . Most seed that have be share online look like dry citrus seed , whose big threat seem to be break your heart because you live somewhere other than Florida or California . By mail item a though they be order by U.S. consumer to be deliver to U.S. mailing address , distributor can make fraudulent “ verify review ” of their own product .",
+            "domain": "www.popularmechanics.com",
+            "tokenized": [
+                {
+                    "sent": "Some Americans be randomly be send mysterious envelope full of unlabeled seed from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These be the mysterious seed I receive in the mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# SeedsFromChina\nThe U.S. Department of Agriculture ( USDA ) have publicly ask people not to plant the seed , and to instead send them to the USDA for test by the Animal and Plant Health Inspection Service ( APHIS ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The national agricultural youth organization 4-H ( which have be scrutinize for systemic racism in many state this year ) offer a seed judging competition where student must identify dozen of different seed by type , include native wild plant , weed , and crop plant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although federal department have prudently ask people to wrap and submit the seed to them for inspection , even Fox News report the mailing be likely part of a kind of scam call brushing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most seed that have be share online look like dry citrus seed , whose big threat seem to be break your heart because you live somewhere other than Florida or California .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By mail item a though they be order by U.S. consumer to be deliver to U.S. mailing address , distributor can make fraudulent “ verify review ” of their own product .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.indystar.com/story/news/environment/2020/07/31/brushing-scam-heres-how-seeds-china-might-land-your-mailbox/5542556002/",
+            "content": "When it come to the unsolicited package with seed , many of the shipment be postmark from China with Chinese letter on the label . At least 300 people in Indiana have receive the packet unsolicited , and agriculture official have warn people not to plant the seed . Why be seed from China mysteriously show up in thousand of people 's mailbox across the country ? Some initial test out of Washington state have find some of the seed be amaranth , a weed family that be on the noxious list in Indiana and other state . Soybeans at risk : Officials worry mystery seed could hurt our big crop\nHowever , a loophole make enforcement difficult : These package be often send across international border .",
+            "domain": "www.indystar.com",
+            "tokenized": [
+                {
+                    "sent": "When it come to the unsolicited package with seed , many of the shipment be postmark from China with Chinese letter on the label .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At least 300 people in Indiana have receive the packet unsolicited , and agriculture official have warn people not to plant the seed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Why be seed from China mysteriously show up in thousand of people 's mailbox across the country ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some initial test out of Washington state have find some of the seed be amaranth , a weed family that be on the noxious list in Indiana and other state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Soybeans at risk : Officials worry mystery seed could hurt our big crop\nHowever , a loophole make enforcement difficult : These package be often send across international border .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsav.com/news/local-news/agriculture-officials-warn-georgia-residents-of-unsolicited-packages-containing-seeds/",
+            "content": "WSAV have learn of at least one Chatham County resident who receive an unsolicited package of seed . ”\nAny Georgians who have receive unsolicited seed in the mail from China or any other country be encourage to contact the GDA Seed Lab at 229-386-3145 or email SeedLab @ agr.georgia.gov . A Chatham County resident receive this unsolicited package of seed in early 2020 ( photo : A. Baskin )\nSAVANNAH , Ga. ( WSAV ) – Agriculture official in Georgia and South Carolina be warn resident of unsolicited package contain seed . The Georgia Department of Agriculture ( GDA ) say they ’ ve be notify of several resident who have receive package that appear to have come from China . ”\nLikewise , the South Carolina Department of Agriculture ( SCDA ) and Clemson University ’ s Regulatory Services division be work together to investigate the “ mystery seed mailing . SCDA advise South Carolinians to report the seed mailing to the U.S. Department of Agriculture ’ s Animal Plant Health Inspection Service Smuggling Interdiction and Trade Compliance program at their website , by phone at 800-877-3835 or by email at SITC.Mail @ aphis.usda.gov .",
+            "domain": "www.wsav.com",
+            "tokenized": [
+                {
+                    "sent": "WSAV have learn of at least one Chatham County resident who receive an unsolicited package of seed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAny Georgians who have receive unsolicited seed in the mail from China or any other country be encourage to contact the GDA Seed Lab at 229-386-3145 or email SeedLab @ agr.georgia.gov .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Chatham County resident receive this unsolicited package of seed in early 2020 ( photo : A. Baskin )\nSAVANNAH , Ga. ( WSAV ) – Agriculture official in Georgia and South Carolina be warn resident of unsolicited package contain seed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Georgia Department of Agriculture ( GDA ) say they ’ ve be notify of several resident who have receive package that appear to have come from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nLikewise , the South Carolina Department of Agriculture ( SCDA ) and Clemson University ’ s Regulatory Services division be work together to investigate the “ mystery seed mailing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SCDA advise South Carolinians to report the seed mailing to the U.S. Department of Agriculture ’ s Animal Plant Health Inspection Service Smuggling Interdiction and Trade Compliance program at their website , by phone at 800-877-3835 or by email at SITC.Mail @ aphis.usda.gov .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hortibiz.com/news/?tx_news_pi1%5Bnews%5D=35981&cHash=7ebccace523b460ee062d26e3984d81e",
+            "content": "If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture assistant commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division . State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them .",
+            "domain": "www.hortibiz.com",
+            "tokenized": [
+                {
+                    "sent": "If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture assistant commissioner Derek Underwood , who oversee the agency ’ s Consumer Protection Division .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "State agriculture official be warn South Carolinians to be wary of unsolicited package of seed mail to them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.live5news.com/2020/07/27/clemson-warns-south-carolinians-about-mystery-seed-mailings/",
+            "content": "If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” South Carolina Department of Agriculture Assistant Commissioner Derek Underwood say . CLEMSON , S.C. ( WCSC ) - If you receive package of seed you do not order , official with The South Carolina Department of Agriculture and Clemson University ’ s Regulatory Services division be warn people to avoid opening or handle them .",
+            "domain": "www.live5news.com",
+            "tokenized": [
+                {
+                    "sent": "If you receive an unsolicited package contain seed :\n“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” South Carolina Department of Agriculture Assistant Commissioner Derek Underwood say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CLEMSON , S.C. ( WCSC ) - If you receive package of seed you do not order , official with The South Carolina Department of Agriculture and Clemson University ’ s Regulatory Services division be warn people to avoid opening or handle them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.aphis.usda.gov/aphis/ourfocus/planthealth/news-info/unsolicited-seeds/unsolicited-seeds-shipping-destinations",
+            "content": "The U.S. Department of Agriculture ( USDA ) urge anyone who receive an unsolicited package of seed to mail those seed to the location list below for your state .",
+            "domain": "www.aphis.usda.gov",
+            "tokenized": [
+                {
+                    "sent": "The U.S. Department of Agriculture ( USDA ) urge anyone who receive an unsolicited package of seed to mail those seed to the location list below for your state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/amazon-bans-sales-of-foreign-plant-seeds-to-us-amid-mystery-mailings-2020-09-06",
+            "content": "Amazon.com Inc. be bar foreign sale of seed into the U.S. after thousand of suspicious packet , many postmark from China , arrive at household around the world this summer . In recent month , thousand of people around the U.S. receive in the mail seed they didn ’ t order . Postal Service and state department of agriculture , be investigate the mysterious seed shipment . The move by Amazon come a the mystery seed lead U.S. official to raise alarm about the ease with which seed sale can occur on e-commerce site , create potential threat to U.S. agriculture .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "Amazon.com Inc. be bar foreign sale of seed into the U.S. after thousand of suspicious packet , many postmark from China , arrive at household around the world this summer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In recent month , thousand of people around the U.S. receive in the mail seed they didn ’ t order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Postal Service and state department of agriculture , be investigate the mysterious seed shipment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The move by Amazon come a the mystery seed lead U.S. official to raise alarm about the ease with which seed sale can occur on e-commerce site , create potential threat to U.S. agriculture .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://drgnews.com/2020/07/29/china-asks-for-packages-from-u-s-to-investigate-unsolicited-seed-mailings/",
+            "content": "Reports of unsolicited seed show up in U.S. mailbox surface last week . The China seed saga continue a Chinese official ask for package from the U.S. to investigate . Postal Service , ask it to send fake package to China for investigation . The Department of Agriculture and several state urge resident to report the package to state agriculture official and dispose of the seed properly . The spokesperson note China be a member of the Universal Postal Union , which prohibit plant seed a import , or in transit , for member country . China Post say , for some of the package , the return address label “ turn out to be fake one with erroneous layout and entry , ” suggest the origin of the package be unknown .",
+            "domain": "drgnews.com",
+            "tokenized": [
+                {
+                    "sent": "Reports of unsolicited seed show up in U.S. mailbox surface last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The China seed saga continue a Chinese official ask for package from the U.S. to investigate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Postal Service , ask it to send fake package to China for investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Department of Agriculture and several state urge resident to report the package to state agriculture official and dispose of the seed properly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The spokesperson note China be a member of the Universal Postal Union , which prohibit plant seed a import , or in transit , for member country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "China Post say , for some of the package , the return address label “ turn out to be fake one with erroneous layout and entry , ” suggest the origin of the package be unknown .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pnwag.net/2020/07/29/china-asks-for-packages-to-investigate-unsolicited-seed-mailings/",
+            "content": "Reports of unsolicited seed show up in U.S. mailbox surface last week . The China seed saga continue a Chinese official ask for package from the U.S. to investigate . Postal Service , ask it to send fake package to China for investigation . The USDA and several state urge resident to report the package to state agriculture official and dispose of the seed properly . The spokesperson note China be a member of the Universal Postal Union , which prohibit plant seed a import , or in transit , for member country . China Post say , for some of the package , the return address label “ turn out to be fake one with erroneous layout and entry , ” suggest the origin of the package be unknown .",
+            "domain": "www.pnwag.net",
+            "tokenized": [
+                {
+                    "sent": "Reports of unsolicited seed show up in U.S. mailbox surface last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The China seed saga continue a Chinese official ask for package from the U.S. to investigate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Postal Service , ask it to send fake package to China for investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The USDA and several state urge resident to report the package to state agriculture official and dispose of the seed properly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The spokesperson note China be a member of the Universal Postal Union , which prohibit plant seed a import , or in transit , for member country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "China Post say , for some of the package , the return address label “ turn out to be fake one with erroneous layout and entry , ” suggest the origin of the package be unknown .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.wspa.com/news/top-stories/s-c-department-of-agriculture-warns-residents-of-mystery-seed-mailings/",
+            "content": "He say seed could be part of a scam where the sender be try to boost positive online review by send unsolicited product through the mail and then post review a the recipient . COLUMBIA , S.C. ( WSPA ) — South Carolina agriculture official ask resident Monday to be cautious of any unsolicited package of seed mail to them . According to a news release , the department of agriculture and Clemson University ’ s Regulatory Services division be investigate after several people report receive package of seed they do not order . Reports of mystery seed mailing be pop up across the country , from Washington state to Texas . “ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood .",
+            "domain": "www.wspa.com",
+            "tokenized": [
+                {
+                    "sent": "He say seed could be part of a scam where the sender be try to boost positive online review by send unsolicited product through the mail and then post review a the recipient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "COLUMBIA , S.C. ( WSPA ) — South Carolina agriculture official ask resident Monday to be cautious of any unsolicited package of seed mail to them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to a news release , the department of agriculture and Clemson University ’ s Regulatory Services division be investigate after several people report receive package of seed they do not order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Reports of mystery seed mailing be pop up across the country , from Washington state to Texas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Whatever the reason for these mailing , it ’ s important to use caution when it come to unidentified seed , ” say South Carolina Department of Agriculture Assistant Commissioner Derek Underwood .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

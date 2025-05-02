@@ -1,0 +1,954 @@
+{
+    "event_id": "265554",
+    "claim": "U.S. President Donald Trump donated $6,000 to Kamala Harris' 2014 campaign for reelection as California attorney general. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In August 2020, readers asked us to examine the accuracy of claims that before he took office, U.S. President Donald Trump had made donations to a previous election campaign of Sen. Kamala Harris, D-Calif., whom presumptive Democratic presidential nominee Joe Biden named as his vice-presidential running mate. \nShortly after Biden named Harris as his running mate on Aug. 11, the president’s reelection campaign denounced her as “phony Kamala,” claiming she was willing to “abandon her own morals, as well as try to bury her record as a prosecutor, in order to appease the anti-police extremists controlling the Democrat party.”\nIn an email sent to supporters, the Trump campaign also labeled Harris “a corrupt former California Attorney General”:\n\nPaul Begala, a former advisor to former President Bill Clinton, alluded to a degree of irony in this allegation, claiming in a tweet that “Trump donated to Kamala Harris when she was [attorney general].”\nIn widely shared tweets, NBC News correspondent Tom Winter claimed that Trump had twice contributed to Harris’ election campaign, in 2011 and 2013, donating a total of $6,000. Winter also said that Trump’s daughter and advisor Ivanka Trump had herself donated $2,000 to Harris’ campaign in 2014:\n\nThose claims were accurate. Records available through the campaign finance database on the website of the California secretary of state show that Trump made two contributions to Harris’ 2014 campaign for reelection as California attorney general: a $5,000 donation on Sep. 26, 2011, and a $1,000 donation on Feb. 20, 2013. Harris first took office in January 2011, which means Trump contributed to her reelection when she had already been in office for eight months, and two years, respectively. \nIn March 2019, The Sacramento Bee reported that a spokesperson for Harris’ presidential primary campaign had said she “donated the $6,000 Trump had contributed to a non-profit that advocates for civil and human rights for Central Americans,” with the newspaper adding that Harris’ donation of the money took place in 2015. \nWe contacted spokespeople for both Harris and Biden, requesting further details about that claim, including the name of the charity in question, and the date on which Harris purportedly donated $6,000 to the charity. We did not receive a response in time for publication.\nThe campaign finance database also reveals that the future president made several other campaign contributions in California, to both Republicans and Democrats. He donated $2,500 to the unsuccessful 2010 gubernatorial campaign of Gavin Newsom, a Democrat who was ultimately elected to that office in 2019; he gave a total of $3,500 to Democrat Jerry Brown’s successful 2006 bid to become California attorney general; he donated a total of $12,000 to committees supportive of Republican Gov. Arnold Schwarzenegger; and gave $25,000 to the state’s Republican party, in 2005.\n\nThe database also corroborates Winter’s claim that in June 2014, Ivanka Trump — adviser to, and daughter of, the president — herself made a $2,000 donation to Harris’ successful campaign to be reelected as the state’s attorney general. She also contributed $500 to the unsuccessful 2010 gubernatorial campaign of Newsom:\n",
+    "reports": [
+        {
+            "link": "https://www.washingtonpost.com/politics/trump-harris-campaign-donations/2020/08/12/06eb1f0e-dcdb-11ea-b205-ff838e15a9a6_story.html",
+            "content": "Before he enter politics , President Trump donate $ 6,000 to Kamala D. Harris ’ s reelection campaign while she be California attorney general , campaign finance record show . In a 2013 affidavit , Trump say that a political figure close to Schneiderman “ ask my daughter Ivanka if she would arrange for me to make a contribution to a fundraising event sponsor by Schneiderman for newly elect California Attorney General Kamala D. Harris . Harris , now the running mate of presumptive Democratic presidential nominee Joe Biden , be California ’ s attorney general from 2011 until 2016 — when she be elect to the U.S. Senate . In 2015 , the year Trump begin his campaign for president , Harris say she give Trump ’ s donation to charity . Trump give $ 5,000 to Harris ’ s campaign in September 2011 and $ 1,000 in February 2013 . His daughter Ivanka Trump give Harris ’ s campaign $ 2,000 in 2014 , record show . While Harris be attorney general in California , her office take no action against Trump University . At the time that Trump make the donation to Harris , Trump University be already shut down and face a class-action lawsuit from former student in California as well a an investigation by the New York attorney general . ”\nA spokeswoman for Trump ’ s 2020 campaign , Katrina Pierson , say in an interview with PBS that Trump ’ s donation to Harris — whose parent be immigrant from India and Jamaica — show the president be not racist . In the past , Trump have say he view the contribution to Harris a a favor for Schneiderman , who be then the New York attorney general . In the past , Harris have face question about whether Trump ’ s donation be relate to the legal trouble of Trump University , the future president ’ s ill-fated school . “ I will note that Kamala Harris be a black woman & he donate to her campaign so I hope we can squash this racism argument now , ” Pierson say , accord to a tweet from “ PBS NewsHour ” correspondent Yamiche Alcindor . The office of the current California attorney general , Xavier Becerra ( D ) , do not respond to question about Trump University on Wednesday . But after about 2010 , campaign finance record show , Trump begin donate almost exclusively to Republicans . At one time , it be not unusual for Trump to donate to Democratic candidate . The gift to Biden ’ s campaign be in 2001 , for $ 1,000 . That coincide with Trump ’ s rise in GOP politics , a a lead booster of the false conspiracy theory that President Barack Obama be not bear in the United States .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Before he enter politics , President Trump donate $ 6,000 to Kamala D. Harris ’ s reelection campaign while she be California attorney general , campaign finance record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a 2013 affidavit , Trump say that a political figure close to Schneiderman “ ask my daughter Ivanka if she would arrange for me to make a contribution to a fundraising event sponsor by Schneiderman for newly elect California Attorney General Kamala D. Harris .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris , now the running mate of presumptive Democratic presidential nominee Joe Biden , be California ’ s attorney general from 2011 until 2016 — when she be elect to the U.S. Senate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2015 , the year Trump begin his campaign for president , Harris say she give Trump ’ s donation to charity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump give $ 5,000 to Harris ’ s campaign in September 2011 and $ 1,000 in February 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "His daughter Ivanka Trump give Harris ’ s campaign $ 2,000 in 2014 , record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While Harris be attorney general in California , her office take no action against Trump University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the time that Trump make the donation to Harris , Trump University be already shut down and face a class-action lawsuit from former student in California as well a an investigation by the New York attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nA spokeswoman for Trump ’ s 2020 campaign , Katrina Pierson , say in an interview with PBS that Trump ’ s donation to Harris — whose parent be immigrant from India and Jamaica — show the president be not racist .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the past , Trump have say he view the contribution to Harris a a favor for Schneiderman , who be then the New York attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the past , Harris have face question about whether Trump ’ s donation be relate to the legal trouble of Trump University , the future president ’ s ill-fated school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I will note that Kamala Harris be a black woman & he donate to her campaign so I hope we can squash this racism argument now , ” Pierson say , accord to a tweet from “ PBS NewsHour ” correspondent Yamiche Alcindor .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The office of the current California attorney general , Xavier Becerra ( D ) , do not respond to question about Trump University on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But after about 2010 , campaign finance record show , Trump begin donate almost exclusively to Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At one time , it be not unusual for Trump to donate to Democratic candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The gift to Biden ’ s campaign be in 2001 , for $ 1,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That coincide with Trump ’ s rise in GOP politics , a a lead booster of the false conspiracy theory that President Barack Obama be not bear in the United States .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/donald-trump-ivanka-donated-thousands-kamala-harris-campaign-california-1351265",
+            "content": "President Donald Trump and his daughter Ivanka each donate thousand of dollar to Democratic Senator Kamala Harris between 2011 and 2014 during her campaign for California attorney general . Ian Sams , a spokesperson for Harris 's campaign , tell the Bee that the candidate donate the entire $ 6,000 receive from Trump to a civil and human right nonprofit for Central Americans in 2015 . The Sacramento Bee report Monday that Trump donate $ 5,000 to Harris in 2011 and another $ 1,000 in 2013 , while Ivanka donate $ 2,000 in 2014 . After first be vote California 's attorney general in 2010 , Harris win reelection in 2014 . The president be among many notable contributor who donate large sum to Harris 's California campaign , but the Democratic presidential candidate have rely more on grassroots donor since enter the Senate .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump and his daughter Ivanka each donate thousand of dollar to Democratic Senator Kamala Harris between 2011 and 2014 during her campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ian Sams , a spokesperson for Harris 's campaign , tell the Bee that the candidate donate the entire $ 6,000 receive from Trump to a civil and human right nonprofit for Central Americans in 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Sacramento Bee report Monday that Trump donate $ 5,000 to Harris in 2011 and another $ 1,000 in 2013 , while Ivanka donate $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After first be vote California 's attorney general in 2010 , Harris win reelection in 2014 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president be among many notable contributor who donate large sum to Harris 's California campaign , but the Democratic presidential candidate have rely more on grassroots donor since enter the Senate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfgate.com/politics/article/Ivanka-Donald-Trump-donated-to-Kamala-Harris-13662842.php",
+            "content": "President Donald Trump and his daughter Ivanka each donate to Sen. Kamala Harris ( D-Calif. ) when she be run for reelection to the office of California Attorney General several year ago , the Sacramento Bee report . L.A. Times reporter Javier Panzar previously report that Donald Trump donate to Harris ' campaign . It be during her first term a attorney general that the Trump family donate to her campaign . In 2011 , President Trump give Harris $ 5,000 ; he give another $ 1,000 in 2013 . RELATED : Report : Kamala Harris campaign raise $ 1.5 million in first 24 hour\nThen , last month , Harris tell The Root that she believe the president be a racist , say , `` When you talk about him call African country s -- -hole country , when you talk about him refer to immigrant a rapist and murderer , I do n't think you can reach any other conclusion . '' Then in 2014 , Ivanka Trump donate $ 2,000 . ( Panzar also report that Trump similarly donate to the campaign of Gavin Newsom in 2009 and Jerry Brown in 2006 . ) Before serve in the Senate and announce her presidential run , Harris be elect a California 's attorney general in 2010 .",
+            "domain": "www.sfgate.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump and his daughter Ivanka each donate to Sen. Kamala Harris ( D-Calif. ) when she be run for reelection to the office of California Attorney General several year ago , the Sacramento Bee report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "L.A. Times reporter Javier Panzar previously report that Donald Trump donate to Harris ' campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be during her first term a attorney general that the Trump family donate to her campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2011 , President Trump give Harris $ 5,000 ; he give another $ 1,000 in 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "RELATED : Report : Kamala Harris campaign raise $ 1.5 million in first 24 hour\nThen , last month , Harris tell The Root that she believe the president be a racist , say , `` When you talk about him call African country s -- -hole country , when you talk about him refer to immigrant a rapist and murderer , I do n't think you can reach any other conclusion . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Then in 2014 , Ivanka Trump donate $ 2,000 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Panzar also report that Trump similarly donate to the campaign of Gavin Newsom in 2009 and Jerry Brown in 2006 . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before serve in the Senate and announce her presidential run , Harris be elect a California 's attorney general in 2010 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/politics/donald-trump-donated-kamala-harris-attorney-general-campaign/",
+            "content": "According to the California secretary of state 's website , Trump donate $ 6,000 to Harris ' campaign for California attorney general , prior to her become a senator . Last year , a spokesperson for Harris tell The Sacramento Bee that she have donate Trump 's $ 6,000 to a nonprofit advocating for Central Americans ' civil and human right . Ivanka Trump also help fund Harris ' California attorney general campaign before her dad ran for president\nBut — in keep with Trump 's both-sides-of-the-aisle background before he become a politician — he actually chip in financially to help fund Harris , 55 , in her political ascension just a few year before run for president . Ivanka Trump , who serve a one of her father 's senior adviser , also fund Harris ' campaign , donate $ 2,000 in 2014 . In 2011 , Trump give Harris $ 5,000 ; in 2013 , he donate another $ 1,000 . According to several outlet , the Trumps make the $ 5,000 donation in 2011 at the request of then-New York Attorney General Eric Schneiderman . During her Senate campaign , Trump 's Treasury Secretary , Steve Mnuchin , donate $ 2,000 , record show . The Trumps ' campaign contribution be first report last year while Harris be a contender in the Democratic presidential primary . Harris serve term a California 's attorney general before she be elect to Congress in 2016 .",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "According to the California secretary of state 's website , Trump donate $ 6,000 to Harris ' campaign for California attorney general , prior to her become a senator .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Last year , a spokesperson for Harris tell The Sacramento Bee that she have donate Trump 's $ 6,000 to a nonprofit advocating for Central Americans ' civil and human right .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump also help fund Harris ' California attorney general campaign before her dad ran for president\nBut — in keep with Trump 's both-sides-of-the-aisle background before he become a politician — he actually chip in financially to help fund Harris , 55 , in her political ascension just a few year before run for president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump , who serve a one of her father 's senior adviser , also fund Harris ' campaign , donate $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2011 , Trump give Harris $ 5,000 ; in 2013 , he donate another $ 1,000 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to several outlet , the Trumps make the $ 5,000 donation in 2011 at the request of then-New York Attorney General Eric Schneiderman .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During her Senate campaign , Trump 's Treasury Secretary , Steve Mnuchin , donate $ 2,000 , record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trumps ' campaign contribution be first report last year while Harris be a contender in the Democratic presidential primary .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris serve term a California 's attorney general before she be elect to Congress in 2016 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbtv.com/2020/08/13/donald-trump-made-campaign-donations-kamala-harris-years-ago-his-campaign-says-its-proof-hes-not-racist/",
+            "content": "Campaign finance record show that Mr. Trump donate a total of $ 6,000 to Harris ’ campaign for California attorney general , a few year before she go on to become a senator and then presidential candidate . ”\nA spokesman for Harris ' presidential campaign last year tell McClatchy that Harris in 2015 donate Mr. Trump 's $ 6,000 to a nonprofit advocating for Central Americans ' civil and human right . Mr. Trump ’ s daughter , Ivanka , donate $ 2,000 to Harris ’ campaign in 2014 . And Mr. Trump ’ s Treasury Secretary , Steve Mnuchin , give $ 2,000 to Harris ’ Senate campaign in 2016 . “ I ’ ll note that Kamala Harris be a Black woman and he donate to her campaign , ” Trump campaign senior adviser Katrina Pierson say Tuesday in a call with reporter . The Trump campaign claim the president ’ s donation to her year ago be proof that he be not racist - an allegation Harris herself have level at him . Harris ’ grilling of Trump nominee in Senate Judiciary Committee hearing , include Kavanuagh and Attorney General William Barr , bolster her national profile before she launch a presidential campaign last year . Almost immediately after Biden announce Harris a his run mate , the Trump campaign release an attack ad about Harris , call her a `` phony '' and attempt to portray her a part of the `` radical left . '' In the year before he enter politics , Mr. Trump donate to numerous politician of both party , include top Democrats like Joe Biden , Hillary Clinton , Chuck Schumer and Andrew Cuomo . Harris serve two term a California ’ s attorney general before she be elect to Congress .",
+            "domain": "www.wbtv.com",
+            "tokenized": [
+                {
+                    "sent": "Campaign finance record show that Mr. Trump donate a total of $ 6,000 to Harris ’ campaign for California attorney general , a few year before she go on to become a senator and then presidential candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA spokesman for Harris ' presidential campaign last year tell McClatchy that Harris in 2015 donate Mr. Trump 's $ 6,000 to a nonprofit advocating for Central Americans ' civil and human right .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Trump ’ s daughter , Ivanka , donate $ 2,000 to Harris ’ campaign in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And Mr. Trump ’ s Treasury Secretary , Steve Mnuchin , give $ 2,000 to Harris ’ Senate campaign in 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ ll note that Kamala Harris be a Black woman and he donate to her campaign , ” Trump campaign senior adviser Katrina Pierson say Tuesday in a call with reporter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trump campaign claim the president ’ s donation to her year ago be proof that he be not racist - an allegation Harris herself have level at him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris ’ grilling of Trump nominee in Senate Judiciary Committee hearing , include Kavanuagh and Attorney General William Barr , bolster her national profile before she launch a presidential campaign last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Almost immediately after Biden announce Harris a his run mate , the Trump campaign release an attack ad about Harris , call her a `` phony '' and attempt to portray her a part of the `` radical left . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the year before he enter politics , Mr. Trump donate to numerous politician of both party , include top Democrats like Joe Biden , Hillary Clinton , Chuck Schumer and Andrew Cuomo .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris serve two term a California ’ s attorney general before she be elect to Congress .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article226975319.html",
+            "content": "In 2011 and again in 2013 , Trump donate a total of $ 6,000 to Harris ’ campaign for California attorney general . Harris campaign spokesman Ian Sams tell McClatchy that Harris donate the $ 6,000 Trump have contribute to a non-profit that advocate for civil and human right for Central Americans . The current president be just one of the notable contributor among the big dollar donor who give to Harris ’ campaign in California — first for San Francisco district attorney , then attorney general , then United States senator . Not surprisingly , Harris raise a significant sum — $ 2.8 million — from attorney and law firm during her two successful campaign for California attorney general in 2010 and 2014 . She never hold a meeting or offer other special access to Trump when she be California attorney general , he say . Bill Fazio , a local attorney who run against Harris in the 2003 race , recall hear she receive a donation from comedian Chris Rock ( he indeed send along $ 500 from New York ) . She ’ s also raise million for her attorney general and Senate campaign from a long roster of entertainment executive and actor : Halle Berry , Leonardo DiCaprio , Steven Spielberg , and Sean Penn , to name just a few . Harris be an early backer and key surrogate for Obama in California , and her brother-in-law , Tony West , be co-chair of Obama ’ s California fundraising operation . But that donation wasn ’ t make until 2015 , a year after she win her reelection for attorney general and a she be launch her run for the Senate . His daughter , Ivanka , also give Harris $ 2,000 in 2014 . Harris have prove to be a Democratic donor draw since her first race , for San Francisco district attorney in 2003 . ” And her name begin pop up in the San Francisco society column , a she mingle with socialite who would go on to host fundraiser for her attorney general campaign and 2016 Senate race . Harris ’ campaign point out that she raise $ 1.5 million online in the first 24 hour after launch her presidential campaign in January , include individual contribution from all 50 state .",
+            "domain": "www.sacbee.com",
+            "tokenized": [
+                {
+                    "sent": "In 2011 and again in 2013 , Trump donate a total of $ 6,000 to Harris ’ campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris campaign spokesman Ian Sams tell McClatchy that Harris donate the $ 6,000 Trump have contribute to a non-profit that advocate for civil and human right for Central Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The current president be just one of the notable contributor among the big dollar donor who give to Harris ’ campaign in California — first for San Francisco district attorney , then attorney general , then United States senator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not surprisingly , Harris raise a significant sum — $ 2.8 million — from attorney and law firm during her two successful campaign for California attorney general in 2010 and 2014 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She never hold a meeting or offer other special access to Trump when she be California attorney general , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bill Fazio , a local attorney who run against Harris in the 2003 race , recall hear she receive a donation from comedian Chris Rock ( he indeed send along $ 500 from New York ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s also raise million for her attorney general and Senate campaign from a long roster of entertainment executive and actor : Halle Berry , Leonardo DiCaprio , Steven Spielberg , and Sean Penn , to name just a few .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris be an early backer and key surrogate for Obama in California , and her brother-in-law , Tony West , be co-chair of Obama ’ s California fundraising operation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But that donation wasn ’ t make until 2015 , a year after she win her reelection for attorney general and a she be launch her run for the Senate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His daughter , Ivanka , also give Harris $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris have prove to be a Democratic donor draw since her first race , for San Francisco district attorney in 2003 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” And her name begin pop up in the San Francisco society column , a she mingle with socialite who would go on to host fundraiser for her attorney general campaign and 2016 Senate race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris ’ campaign point out that she raise $ 1.5 million online in the first 24 hour after launch her presidential campaign in January , include individual contribution from all 50 state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxla.com/news/donald-and-ivanka-trump-donated-to-kamala-harris-previous-bid-for-california-attorney-general",
+            "content": "Donald Trump donate a total of $ 6,000 to Harris ’ re-election campaign for attorney general , first with $ 5,000 in 2011 and then with $ 1,000 in 2013 , state record show . Ivanka Trump donate $ 2,000 to Harris ’ attorney general re-election campaign in 2014 . President Donald Trump and his re-election campaign waste little time in target California Sen. Kamala Harris after she be tap on Aug. 11 a Joe Biden ’ s run mate for the 2020 presidential election . But record show that both Trump and his daughter , Ivanka Trump , make contribution to Harris ’ campaign for California attorney general as recently a 2014 , prior to her become a senator . Trump ’ s campaign immediately seize on those circumstance , with the president tag Harris a “ Phony Kamala ” and cast her a the late evidence that Biden , a five-decade veteran of the Democratic establishment , be captive to “ the radical-left . Prior to become president , Trump make financial donation to many other Democrats and Republicans , include former Secretary of State Hillary Clinton , New York Gov .",
+            "domain": "www.foxla.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump donate a total of $ 6,000 to Harris ’ re-election campaign for attorney general , first with $ 5,000 in 2011 and then with $ 1,000 in 2013 , state record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump donate $ 2,000 to Harris ’ attorney general re-election campaign in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump and his re-election campaign waste little time in target California Sen. Kamala Harris after she be tap on Aug. 11 a Joe Biden ’ s run mate for the 2020 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But record show that both Trump and his daughter , Ivanka Trump , make contribution to Harris ’ campaign for California attorney general as recently a 2014 , prior to her become a senator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s campaign immediately seize on those circumstance , with the president tag Harris a “ Phony Kamala ” and cast her a the late evidence that Biden , a five-decade veteran of the Democratic establishment , be captive to “ the radical-left .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Prior to become president , Trump make financial donation to many other Democrats and Republicans , include former Secretary of State Hillary Clinton , New York Gov .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-donated-to-kamala-harris-twice-as-private-citizen-2020-8",
+            "content": "President Donald Trump donate to Kamala Harris , the presumptive Democratic vice-presidential nominee , twice while she be a candidate for California attorney general , accord to public record review by NBC News . `` Mr. Schneiderman 's former transition committee leader ask my daughter Ivanka if she would arrange for me to make a contribution to a fundraising event sponsor by Mr. Schneiderman for newly elect California Attorney General Kamala Harris , '' Trump write in the affidavit . The record show that Trump donate a total of $ 6,000 to Harris : $ 5,000 in 2011 and $ 1,000 in 2013 . Harris ' spokeswoman tell The Sacramento Bee that in 2015 she donate the money Trump give her campaign to a nonprofit group that help Central Americans . Trump senior advisor Katrina Pierson tell PBS Newshour 's Yamiche Alcindor that the president `` donate to cnadidates across all aisle , '' and that she hop his donation to Harris , a a Black woman , can `` squash this racism argument now . '' Trump 's 2020 campaign also release a statement on Harris ' selection a Biden 's running mate . Trump 's history of donate to Harris — and other Democratic candidate — resurface on Tuesday after Joe Biden , the presumptive Democratic presidential nominee , tap Harris to be his run mate . `` In response , I make a $ 5,000 contribution to Ms. Harris ' campaign — the high level of sponsorship list in the invitation — and Ivanka attend the event together with some of Trump Org .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump donate to Kamala Harris , the presumptive Democratic vice-presidential nominee , twice while she be a candidate for California attorney general , accord to public record review by NBC News .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Mr. Schneiderman 's former transition committee leader ask my daughter Ivanka if she would arrange for me to make a contribution to a fundraising event sponsor by Mr. Schneiderman for newly elect California Attorney General Kamala Harris , '' Trump write in the affidavit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The record show that Trump donate a total of $ 6,000 to Harris : $ 5,000 in 2011 and $ 1,000 in 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris ' spokeswoman tell The Sacramento Bee that in 2015 she donate the money Trump give her campaign to a nonprofit group that help Central Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump senior advisor Katrina Pierson tell PBS Newshour 's Yamiche Alcindor that the president `` donate to cnadidates across all aisle , '' and that she hop his donation to Harris , a a Black woman , can `` squash this racism argument now . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's 2020 campaign also release a statement on Harris ' selection a Biden 's running mate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's history of donate to Harris — and other Democratic candidate — resurface on Tuesday after Joe Biden , the presumptive Democratic presidential nominee , tap Harris to be his run mate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In response , I make a $ 5,000 contribution to Ms. Harris ' campaign — the high level of sponsorship list in the invitation — and Ivanka attend the event together with some of Trump Org .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedailybeast.com/donald-trump-donated-to-biden-vp-pick-kamala-harris-california-campaigns-twice",
+            "content": "President Donald Trump donate twice to Kamala Harris while he be a private citizen and she be a candidate for California attorney general , accord to California state record . A spokesperson for Harris tell the Sacramento Bee that she give the $ 6,000 from Trump to a charity advocate for Central Americans—but record show she didn ’ t donate it until after she ’ d won in 2014 . Ivanka Trump , the president ’ s daughter and official adviser , also donate $ 2,000 to Harris in 2014 . Trump give Harris $ 5,000 in 2011 and another $ 1,000 in 2013 . Harris , who be pick a Democratic presidential candidate Joe Biden ’ s run mate on Tuesday , be elect AG in California in 2010 and win re-election in 2014 . Trump and his 2020 campaign post attack ad just minute after Tuesday ’ s VP announcement , call Harris phony and radical .",
+            "domain": "www.thedailybeast.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump donate twice to Kamala Harris while he be a private citizen and she be a candidate for California attorney general , accord to California state record .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A spokesperson for Harris tell the Sacramento Bee that she give the $ 6,000 from Trump to a charity advocate for Central Americans—but record show she didn ’ t donate it until after she ’ d won in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump , the president ’ s daughter and official adviser , also donate $ 2,000 to Harris in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump give Harris $ 5,000 in 2011 and another $ 1,000 in 2013 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris , who be pick a Democratic presidential candidate Joe Biden ’ s run mate on Tuesday , be elect AG in California in 2010 and win re-election in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump and his 2020 campaign post attack ad just minute after Tuesday ’ s VP announcement , call Harris phony and radical .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/08/donald-and-ivanka-trump-once-made-donations-to-kamala-harris.html",
+            "content": "According to campaign-finance record , Donald Trump donate a total of $ 6,000 to Harris ’ s attorney-general reelection campaign in 2011 ( $ 5,000 ) and 2013 ( $ 1,000 ) . President Trump and his daughter Ivanka both make financial contribution to Kamala Harris ’ s campaign when she be run for reelection a California ’ s attorney general before she become a senator — and , eventually , a of Tuesday , a Democratic vice-presidential candidate . In 2015 , month after the elder Trump begin spread the baseless birther conspiracy theory about President Obama on television , Harris donate the $ 6,000 to a nonprofit that advocate for Central Americans ’ right , her presidential campaign manager tell McClatchy last year . On Tuesday , Trump campaign spokesperson Katrina Pierson try to spin the president ’ s two donation to Harris a proof positive that Trump be not racist :\nTrump campaign 's Katrina Pierson say on press call that Trump donate to Kamala Harris should prove he 's not a racist : '' I 'll note that Kamala Harris be a black woman and he donate to her campaign so I hope we can squash this racism argument . '' Ivanka Trump give Harris ’ s campaign $ 2,000 in 2014 . Donald Trump , who donate mostly to Democrats up until 2011 — include repeated contribution to the campaign of Chuck Schumer , Harry Reid , and Hillary Clinton — have defend his political donation to both Democrats and Republicans , claim they be strategic move to buy influence . Harris also receive a $ 2,000 donation from Treasury Secretary Steven Mnuchin for her 2016 Senate campaign , Politico note last year . Both have also donate to New York Senator Kirsten Gillibrand ’ s campaign and , from Ivanka Trump and Jared Kushner , New Jersey senator Cory Booker ’ s . The donation be originally note by McClatchy DC when Harris be run for president in the Democratic primary last year . Harris be far from the only Democratic lawmaker to have get money from the Trumps .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "According to campaign-finance record , Donald Trump donate a total of $ 6,000 to Harris ’ s attorney-general reelection campaign in 2011 ( $ 5,000 ) and 2013 ( $ 1,000 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Trump and his daughter Ivanka both make financial contribution to Kamala Harris ’ s campaign when she be run for reelection a California ’ s attorney general before she become a senator — and , eventually , a of Tuesday , a Democratic vice-presidential candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2015 , month after the elder Trump begin spread the baseless birther conspiracy theory about President Obama on television , Harris donate the $ 6,000 to a nonprofit that advocate for Central Americans ’ right , her presidential campaign manager tell McClatchy last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Tuesday , Trump campaign spokesperson Katrina Pierson try to spin the president ’ s two donation to Harris a proof positive that Trump be not racist :\nTrump campaign 's Katrina Pierson say on press call that Trump donate to Kamala Harris should prove he 's not a racist : '' I 'll note that Kamala Harris be a black woman and he donate to her campaign so I hope we can squash this racism argument . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump give Harris ’ s campaign $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Donald Trump , who donate mostly to Democrats up until 2011 — include repeated contribution to the campaign of Chuck Schumer , Harry Reid , and Hillary Clinton — have defend his political donation to both Democrats and Republicans , claim they be strategic move to buy influence .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris also receive a $ 2,000 donation from Treasury Secretary Steven Mnuchin for her 2016 Senate campaign , Politico note last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Both have also donate to New York Senator Kirsten Gillibrand ’ s campaign and , from Ivanka Trump and Jared Kushner , New Jersey senator Cory Booker ’ s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The donation be originally note by McClatchy DC when Harris be run for president in the Democratic primary last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris be far from the only Democratic lawmaker to have get money from the Trumps .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/court-files-shed-light-on-kamalas-awkward-donation-from-donald-trump",
+            "content": "Donald Trump 's check to then-California Attorney General Kamala Harris in 2014 for her re-election campaign . A spokesperson for the Harris campaign tell The Sacramento Bee in March that Harris donate the $ 6,000 she receive from Trump to a nonprofit that focus on the right of Central Americans but do not do so until 2015—one year after she win her re-election campaign . Invitation to a fundraiser for Kamala Harris ' re-election campaign a California attorney general in 2011 . According to swear affidavit sign by Trump and his daughter Ivanka , disgrace former New York Attorney General Eric Schneiderman be behind the hefty contribution to Harris ’ re-election campaign for California attorney general . But the Trumps donate to Harris ' attorney general re-election campaign three time . And Trump donate $ 1,000 to then-Sen. Joe Biden in December 2001 . Trump donate to Sen. Kirsten Gillibrand twice -- $ 1,050 in December 2007 and $ 2,400 in September 2010 . Aside from the $ 5,000 donation in 2011 , Trump donate $ 1,000 on Feb. 20 , 2013 , and Ivanka Trump donate $ 2,000 on June 3 , 2014 . It be unclear at this point if Harris ever return or donate the $ 2,000 contribution from Ivanka Trump . The 2011 donation be one of several Trump make to now-Democratic candidate for president that could cause linger headache for their campaign -- especially consider Trump like to remind voter of the past financial help and favor he offer to figure who now fiercely criticize him . Asked Wednesday for any further comment on the donation , a spokesman tell Fox News : `` All Trump 's money be donate to an immigrant ' right charity . '' “ In response , my father make a $ 5,000 contribution to Ms. Harris ’ campaign and I attend the fundraiser , ” she continue . Ivanka Trump ’ s swear affidavit also reflect Schneiderman ’ s involvement in solicit the fund for Harris ’ campaign .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump 's check to then-California Attorney General Kamala Harris in 2014 for her re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A spokesperson for the Harris campaign tell The Sacramento Bee in March that Harris donate the $ 6,000 she receive from Trump to a nonprofit that focus on the right of Central Americans but do not do so until 2015—one year after she win her re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Invitation to a fundraiser for Kamala Harris ' re-election campaign a California attorney general in 2011 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to swear affidavit sign by Trump and his daughter Ivanka , disgrace former New York Attorney General Eric Schneiderman be behind the hefty contribution to Harris ’ re-election campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the Trumps donate to Harris ' attorney general re-election campaign three time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And Trump donate $ 1,000 to then-Sen. Joe Biden in December 2001 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump donate to Sen. Kirsten Gillibrand twice -- $ 1,050 in December 2007 and $ 2,400 in September 2010 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Aside from the $ 5,000 donation in 2011 , Trump donate $ 1,000 on Feb. 20 , 2013 , and Ivanka Trump donate $ 2,000 on June 3 , 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be unclear at this point if Harris ever return or donate the $ 2,000 contribution from Ivanka Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 2011 donation be one of several Trump make to now-Democratic candidate for president that could cause linger headache for their campaign -- especially consider Trump like to remind voter of the past financial help and favor he offer to figure who now fiercely criticize him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Asked Wednesday for any further comment on the donation , a spokesman tell Fox News : `` All Trump 's money be donate to an immigrant ' right charity . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In response , my father make a $ 5,000 contribution to Ms. Harris ’ campaign and I attend the fundraiser , ” she continue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ivanka Trump ’ s swear affidavit also reflect Schneiderman ’ s involvement in solicit the fund for Harris ’ campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://money.yahoo.com/trump-donated-twice-kamala-harris-223020151.html",
+            "content": "President Trump 's campaign may be call her `` Phony Kamala '' now , but Trump once like Sen. Kamala Harris ( D-Calif. ) enough to twice donate to her re-election campaign for California attorney general . A spokesperson for Harris ' campaign previously tell McClatchy that in 2015 , Harris donate the $ 6,000 she receive from Trump to a nonprofit organization that advocate for civil and human right for Central Americans . Trump make two donation to Harris ' re-election campaign — $ 5,000 in 2011 and $ 1,000 in 2013 . His daughter , Ivanka Trump , also give Harris $ 2,000 in 2014 . Before she become a senator , Harris be attorney general of California ; she be first elect in 2010 , and be re-elected four year later . A central California woman charge with murder after deliver a stillborn baby who test positive for methamphetamine may be release on reduced bail a her lawyer argue that the state 's homicide law do not apply to pregnant woman , a position back by California 's attorney general .",
+            "domain": "money.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump 's campaign may be call her `` Phony Kamala '' now , but Trump once like Sen. Kamala Harris ( D-Calif. ) enough to twice donate to her re-election campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A spokesperson for Harris ' campaign previously tell McClatchy that in 2015 , Harris donate the $ 6,000 she receive from Trump to a nonprofit organization that advocate for civil and human right for Central Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump make two donation to Harris ' re-election campaign — $ 5,000 in 2011 and $ 1,000 in 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "His daughter , Ivanka Trump , also give Harris $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Before she become a senator , Harris be attorney general of California ; she be first elect in 2010 , and be re-elected four year later .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A central California woman charge with murder after deliver a stillborn baby who test positive for methamphetamine may be release on reduced bail a her lawyer argue that the state 's homicide law do not apply to pregnant woman , a position back by California 's attorney general .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wusa9.com/article/news/nation-world/trump-donated-kamala-harris-campaign/507-7d9445b6-6319-4a72-a9d0-bdb25637e114",
+            "content": "But as recently a six year ago , Trump and his daughter , Ivanka , be donate to Harris ' campaign for California attorney general . According to the California Secretary of State 's office , Donald Trump make contribution of $ 5,000 in 2011 and $ 1,000 in 2013 to Harris ' re-election campaign . President Donald Trump waste little time launch attack on Sen. Kamala Harris Tuesday after it be announce Joe Biden name her a his vice presidential running mate . Ivanka Trump make a $ 2,000 donation in 2014 . After Tuesday 's announcement , Trump quickly tweet a campaign ad that dismiss Harris a “ phony ” and say she and Biden “ jointly embrace the radical left .",
+            "domain": "www.wusa9.com",
+            "tokenized": [
+                {
+                    "sent": "But as recently a six year ago , Trump and his daughter , Ivanka , be donate to Harris ' campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the California Secretary of State 's office , Donald Trump make contribution of $ 5,000 in 2011 and $ 1,000 in 2013 to Harris ' re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump waste little time launch attack on Sen. Kamala Harris Tuesday after it be announce Joe Biden name her a his vice presidential running mate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump make a $ 2,000 donation in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After Tuesday 's announcement , Trump quickly tweet a campaign ad that dismiss Harris a “ phony ” and say she and Biden “ jointly embrace the radical left .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/432495-trump-ivanka-donated-to-kamala-harris-campaign-in-california",
+            "content": "A spokesman for the Harris campaign tell the Bee that Harris donate the $ 6,000 she receive from President Trump to a nonprofit that advocate for the right of Central Americans . President TrumpDonald TrumpPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE and his daughter , Ivanka TrumpIvanka TrumpTrump make appearance at Mar-a-Lago dog rescue fundraiser Trump Jr. be depose in inauguration fund probe Former Trump official eye bid for political office MORE , each donate to Sen. Kamala HarrisKamala HarrisBiden to sign coronavirus relief bill Thursday , day earlier than expect Garland stress independence in first speech at DOJ Jayapal ask for ethic investigation into Boebert , Gosar , Brooks MORE ( D-Calif. ) when Harris be campaign for California attorney general year ago , The Sacramento Bee report Monday . Harris be elect a California 's attorney general in 2010 and win reelection in 2014 . The newspaper report that the president give Harris $ 5,000 in 2011 and another $ 1,000 in 2013 and Ivanka Trump donate $ 2,000 in 2014 . The newspaper report , however , that Harris do n't make that donation until 2015 , one year after she win reelection a attorney general .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "A spokesman for the Harris campaign tell the Bee that Harris donate the $ 6,000 she receive from President Trump to a nonprofit that advocate for the right of Central Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President TrumpDonald TrumpPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE and his daughter , Ivanka TrumpIvanka TrumpTrump make appearance at Mar-a-Lago dog rescue fundraiser Trump Jr. be depose in inauguration fund probe Former Trump official eye bid for political office MORE , each donate to Sen. Kamala HarrisKamala HarrisBiden to sign coronavirus relief bill Thursday , day earlier than expect Garland stress independence in first speech at DOJ Jayapal ask for ethic investigation into Boebert , Gosar , Brooks MORE ( D-Calif. ) when Harris be campaign for California attorney general year ago , The Sacramento Bee report Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Harris be elect a California 's attorney general in 2010 and win reelection in 2014 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The newspaper report that the president give Harris $ 5,000 in 2011 and another $ 1,000 in 2013 and Ivanka Trump donate $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The newspaper report , however , that Harris do n't make that donation until 2015 , one year after she win reelection a attorney general .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonexaminer.com/news/trumps-5-000-donation-to-kamala-harris-was-at-request-of-disgraced-former-ny-attorney-general",
+            "content": "The $ 5,000 donation be one of several the Trumps make to Harris ’ reelection campaign for California attorney general . A Harris spokesman tell the Sacramento Bee in March that the candidate have donate the $ 6,000 from Trump to a nonprofit group that help Central Americans in 2015 . The president also donate $ 1,000 to her in 2013 , and Ivanka Trump contribute $ 2,000 in 2014 . Harris be now vie for the 2020 Democratic presidential nomination to face off against Trump in the general election . “ In response , I make a $ 5,000 contribution to Ms. Harris ’ campaign — the high level of sponsorship list in the invitation — and Ivanka attend the event together with some of Trump Org. It remain unclear if she also return the $ 2,000 from Ivanka Trump .",
+            "domain": "www.washingtonexaminer.com",
+            "tokenized": [
+                {
+                    "sent": "The $ 5,000 donation be one of several the Trumps make to Harris ’ reelection campaign for California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Harris spokesman tell the Sacramento Bee in March that the candidate have donate the $ 6,000 from Trump to a nonprofit group that help Central Americans in 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president also donate $ 1,000 to her in 2013 , and Ivanka Trump contribute $ 2,000 in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris be now vie for the 2020 Democratic presidential nomination to face off against Trump in the general election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In response , I make a $ 5,000 contribution to Ms. Harris ’ campaign — the high level of sponsorship list in the invitation — and Ivanka attend the event together with some of Trump Org.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It remain unclear if she also return the $ 2,000 from Ivanka Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.blackenterprise.com/donald-trump-donated-money-to-kamala-harris-campaign-twice/",
+            "content": "Trump give Harris $ 5,000 in 2011 and $ 1,000 in 2013 when she run for California Attorney General . Ivanka Trump , the president ’ s daughter and adviser , also donate $ 2,000 to Harris in 2014 . However , accord to the Daily Beast , Trump donate to a Harris campaign twice while he be a private citizen . A spokesperson for the senator tell the Sacramento Bee that the money Trump donate to Harris be again donate by her to a charity advocate for Central Americans . The former California Attorney General receive praise from politician , celebrity , and athlete on her nomination to be the first potential Black female vice president . ” However , in the same call , Trump campaign spokesperson Katrina Pierson attack her “ abysmal ” record a a district and state attorney general .",
+            "domain": "www.blackenterprise.com",
+            "tokenized": [
+                {
+                    "sent": "Trump give Harris $ 5,000 in 2011 and $ 1,000 in 2013 when she run for California Attorney General .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Ivanka Trump , the president ’ s daughter and adviser , also donate $ 2,000 to Harris in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , accord to the Daily Beast , Trump donate to a Harris campaign twice while he be a private citizen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A spokesperson for the senator tell the Sacramento Bee that the money Trump donate to Harris be again donate by her to a charity advocate for Central Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former California Attorney General receive praise from politician , celebrity , and athlete on her nomination to be the first potential Black female vice president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” However , in the same call , Trump campaign spokesperson Katrina Pierson attack her “ abysmal ” record a a district and state attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/americas/us-politics/kamala-harris-donald-ivanka-trump-donations-california-a8807421.html",
+            "content": "Senator say she donate Trump contribution to a Central American advocacy group\nDonald Trump and his daughter , Ivanka , repeatedly donate to Kamala Harris during her rise in California politics , support the Democratic senator a she vie to become the state ’ s top cop , a new report have reveal . The president first donate to Ms Harris in 2011 a she be run for attorney general . They note Ms Harris eventually donate the total sum of Mr Trump ’ s contribution to a non-profit Central American advocacy group . Despite accrue donation from wealthy donor throughout her political career , Ms Harris manage to raise an impressive $ 1.5m ( £1.14m ) in donation within the first 24 hour of launch her White House bid against Mr Trump , with the average donation amount to less than $ 40 , accord to her campaign . In 2014 she donate a report $ 2,000 ( £1,517 ) to Ms Harris ’ re-election effort . He then donate another $ 1,000 ( £758 ) to her re-election campaign in 2013 , Washington newspaper McClatchy report on Monday . The president and Ms Harris ’ political view be in stark contrast and the two have exchange harsh criticism since Mr Trump assume the Oval Office . Ivanka Trump also donate thousand of dollar to the Democratic senator . A spokesperson for the senator ’ s 2020 presidential campaign confirm the president ’ s donation to her previous campaign in a statement to McClatchy .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Senator say she donate Trump contribution to a Central American advocacy group\nDonald Trump and his daughter , Ivanka , repeatedly donate to Kamala Harris during her rise in California politics , support the Democratic senator a she vie to become the state ’ s top cop , a new report have reveal .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president first donate to Ms Harris in 2011 a she be run for attorney general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They note Ms Harris eventually donate the total sum of Mr Trump ’ s contribution to a non-profit Central American advocacy group .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Despite accrue donation from wealthy donor throughout her political career , Ms Harris manage to raise an impressive $ 1.5m ( £1.14m ) in donation within the first 24 hour of launch her White House bid against Mr Trump , with the average donation amount to less than $ 40 , accord to her campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2014 she donate a report $ 2,000 ( £1,517 ) to Ms Harris ’ re-election effort .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He then donate another $ 1,000 ( £758 ) to her re-election campaign in 2013 , Washington newspaper McClatchy report on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president and Ms Harris ’ political view be in stark contrast and the two have exchange harsh criticism since Mr Trump assume the Oval Office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ivanka Trump also donate thousand of dollar to the Democratic senator .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A spokesperson for the senator ’ s 2020 presidential campaign confirm the president ’ s donation to her previous campaign in a statement to McClatchy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/news/articles/2020-08-12/trump-donated-to-meanest-kamala-harris-in-2011-2013",
+            "content": "President Donald Trump donate to Democratic vice presidential nominee Kamala Harris in 2011 and 2013 . Yet he give donation of $ 5,000 on Sept. 26 , 2011 , and $ 1,000 on Feb. 20 , 2013 , to Harris ’ s re-election campaign for California attorney general , accord to state campaign finance record . Trump ’ s daughter , Ivanka , also give $ 2,000 to Harris on June 3 , 2014 , campaign finance record show . A Harris spokesman tell the Sacramento Bee that she donate the $ 6,000 to a nonprofit that advocate for Central Americans in 2015 .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump donate to Democratic vice presidential nominee Kamala Harris in 2011 and 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Yet he give donation of $ 5,000 on Sept. 26 , 2011 , and $ 1,000 on Feb. 20 , 2013 , to Harris ’ s re-election campaign for California attorney general , accord to state campaign finance record .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump ’ s daughter , Ivanka , also give $ 2,000 to Harris on June 3 , 2014 , campaign finance record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Harris spokesman tell the Sacramento Bee that she donate the $ 6,000 to a nonprofit that advocate for Central Americans in 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.detroitnews.com/story/news/politics/2020/08/12/trump-donated-meanest-kamala-harris-2011-2013/3353432001/",
+            "content": "President Donald Trump donate to Democratic vice presidential nominee Kamala Harris in 2011 and 2013 . Yet he give donation of $ 5,000 on Sept. 26 , 2011 , and $ 1,000 on Feb. 20 , 2013 , to Harris ’ s re-election campaign for California attorney general , accord to state campaign finance record . Trump ’ s daughter , Ivanka , also give $ 2,000 to Harris on June 3 , 2014 , campaign finance record show . A Harris spokesman tell the Sacramento Bee that she donate the $ 6,000 to a nonprofit that advocate for Central Americans in 2015 .",
+            "domain": "www.detroitnews.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump donate to Democratic vice presidential nominee Kamala Harris in 2011 and 2013 .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Yet he give donation of $ 5,000 on Sept. 26 , 2011 , and $ 1,000 on Feb. 20 , 2013 , to Harris ’ s re-election campaign for California attorney general , accord to state campaign finance record .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Trump ’ s daughter , Ivanka , also give $ 2,000 to Harris on June 3 , 2014 , campaign finance record show .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A Harris spokesman tell the Sacramento Bee that she donate the $ 6,000 to a nonprofit that advocate for Central Americans in 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2019/03/05/2020-presidential-dems-trump-money-1202938",
+            "content": "The Harris campaign tell The Sacramento Bee that Harris give away the $ 6,000 from Donald Trump to a nonprofit in 2015 — and that she never meet with him or give him special treatment . But he stray outside his usual New York and New Jersey turf to give Harris two donation total $ 6,000 in 2011 and 2013 , when she be already consider a rise Democratic star a California attorney general . Kamala Harris receive money from Donald Trump as recently a six year ago . Harris also land $ 2,000 from Ivanka Trump for her re-election campaign , and another $ 2,000 from future Treasury Secretary Steven Mnuchin when she run for Senate in 2016 . President Donald Trump and Ivanka Trump both donate across the political spectrum over the year . ”\nIvanka Trump and Jared Kushner , now top adviser to the president , each sent Booker $ 10,400 in 2013 . During the primary campaign , in fact , Trump tout his donation to opponent . Harris , Booker and Gillibrand — along with Joe Biden , John Kerry and Terry McAuliffe — all share a common bond of receive Trump family donation , add another wrinkle to a crowd primary where candidate be expect to trumpet their distance from the president . But in December 2017 , Gillibrand give the $ 5,850 away to the Rape , Abuse & Incest National Network after Trump tweet that she “ would come to my office ‘ beg ’ for campaign contribution not so long ago ( and would do anything for them ) . Those be two of several contribution he make to state attorney general who be investigate or have previously investigate Trump University . They bundle $ 41,000 and host a fundraiser for his Senate campaign that year .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "The Harris campaign tell The Sacramento Bee that Harris give away the $ 6,000 from Donald Trump to a nonprofit in 2015 — and that she never meet with him or give him special treatment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But he stray outside his usual New York and New Jersey turf to give Harris two donation total $ 6,000 in 2011 and 2013 , when she be already consider a rise Democratic star a California attorney general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Kamala Harris receive money from Donald Trump as recently a six year ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris also land $ 2,000 from Ivanka Trump for her re-election campaign , and another $ 2,000 from future Treasury Secretary Steven Mnuchin when she run for Senate in 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump and Ivanka Trump both donate across the political spectrum over the year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIvanka Trump and Jared Kushner , now top adviser to the president , each sent Booker $ 10,400 in 2013 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the primary campaign , in fact , Trump tout his donation to opponent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Harris , Booker and Gillibrand — along with Joe Biden , John Kerry and Terry McAuliffe — all share a common bond of receive Trump family donation , add another wrinkle to a crowd primary where candidate be expect to trumpet their distance from the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in December 2017 , Gillibrand give the $ 5,850 away to the Rape , Abuse & Incest National Network after Trump tweet that she “ would come to my office ‘ beg ’ for campaign contribution not so long ago ( and would do anything for them ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those be two of several contribution he make to state attorney general who be investigate or have previously investigate Trump University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They bundle $ 41,000 and host a fundraiser for his Senate campaign that year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-biden-harris-analysis/why-kamala-harris-may-prove-an-elusive-target-for-trump-idUSKCN25818T",
+            "content": "WASHINGTON ( Reuters ) - Joe Biden ’ s selection of Senator Kamala Harris a his run mate provide a brand-new target for President Donald Trump ’ s re-election campaign that have struggle to find an effective line of attack against his Democratic rival . More concern for Trump : Attacks that could appear sexist or racist against the first Black woman on a major party ticket in U.S. history could complicate his campaign ’ s effort to shore up his standing among suburban woman , a critical voting bloc he must win back in order to get re-elected , strategist on both side say .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - Joe Biden ’ s selection of Senator Kamala Harris a his run mate provide a brand-new target for President Donald Trump ’ s re-election campaign that have struggle to find an effective line of attack against his Democratic rival .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More concern for Trump : Attacks that could appear sexist or racist against the first Black woman on a major party ticket in U.S. history could complicate his campaign ’ s effort to shore up his standing among suburban woman , a critical voting bloc he must win back in order to get re-elected , strategist on both side say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/2020-election/phony-kamala-trump-campaign-responds-harris-vp-pick-n1236467",
+            "content": "WASHINGTON — President Donald Trump attack Sen. Kamala Harris on Tuesday , criticize her for past comment she make about Joe Biden and call her his `` number one pick '' shortly after the California Democrat be announce a Biden 's running mate . Trump twice donate to Harris while a private citizen , accord to California state donation record . `` Kamala Harris be a Black woman and he donate to her campaign so I hope we can squash this racism argument now , '' say Katrina Pierson , Trump 2020 senior advisor . Ivanka Trump also donate $ 2,000 to Harris in 2014 . Trump say Harris be `` nasty '' and `` disrespectful '' to Biden during the primary , and his campaign send out a statement claim Harris `` call Joe Biden a racist and ask for an apology she never receive , '' add that `` Phony Kamala will abandon her own moral . '' The Trump campaign say Tuesday that the president make the donation before he run for office , when he support candidate on both side of the aisle . The Trump campaign also go after Harris for be too far left , claim that she call `` for trillion of dollar in new tax and back Bernie Sanders ’ government takeover of healthcare . '' Both time be when Harris be an Attorney General candidate .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Donald Trump attack Sen. Kamala Harris on Tuesday , criticize her for past comment she make about Joe Biden and call her his `` number one pick '' shortly after the California Democrat be announce a Biden 's running mate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump twice donate to Harris while a private citizen , accord to California state donation record .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Kamala Harris be a Black woman and he donate to her campaign so I hope we can squash this racism argument now , '' say Katrina Pierson , Trump 2020 senior advisor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ivanka Trump also donate $ 2,000 to Harris in 2014 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say Harris be `` nasty '' and `` disrespectful '' to Biden during the primary , and his campaign send out a statement claim Harris `` call Joe Biden a racist and ask for an apology she never receive , '' add that `` Phony Kamala will abandon her own moral . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trump campaign say Tuesday that the president make the donation before he run for office , when he support candidate on both side of the aisle .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trump campaign also go after Harris for be too far left , claim that she call `` for trillion of dollar in new tax and back Bernie Sanders ’ government takeover of healthcare . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Both time be when Harris be an Attorney General candidate .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

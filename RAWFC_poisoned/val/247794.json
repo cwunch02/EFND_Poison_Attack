@@ -1,0 +1,929 @@
+{
+    "event_id": "247794",
+    "claim": "Dutch restaurants solved the problem of dining out during the COVID-19 coronavirus disease pandemic by installing personal greenhouse booths. ",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In May 2020, a photograph started to circulate on social media along with the claim that restaurants in the Netherlands had solved the problem of dining out during the COVID-19 coronavirus disease pandemic by installing personal dining booths.\nDisplayed above is a genuine photograph from a restaurant in the Netherlands. However, these photographs were often shared on social media with incomplete or untrue information.\nFor starters, this photograph does not show a restaurant adhering to any new guidelines implemented by the Netherlands government. This photograph was taken at Mediamatic, an art gallery and restaurant in Amsterdam, as they tested out a proposed dining solution for when the restaurant was allowed to reopen. \nMediamatic explained on its website that these “quarantine greenhouses” would allow for two people to dine together. The restaurant notes that these dining pods would only be recommended for people who were already living together and that this dining plan was not approved yet by the government. While Mediamatic is, as of this writing, taking reservations for when social distancing guidelines are expected to be relaxed, they note that these reservations may end up being canceled if the plan is not approved. \nDutch News reported on Mediamatic’s “quarantine greenhouse” dining plan in May 2020:\nIn Amsterdam, art gallery and restaurant Mediamatic hopes to win approval to organise fine dining in small greenhouses overlooking the water. The package is already sold out up to the end of June – even though no-one knows if the soirees can go ahead.\nThe popularity of the deal is a sign of the frustration many are beginning to feel as the Netherlands moves into May – with the prospect of several more weeks of being told to stay home ahead.\nThe viral photograph is available via Mediamatic’s website along with the following caption:\nTesting Serres Separees at Mediamatic ETEn – Safe water side dining in Amsterdam. Soon, we’ll offer really nice plant-based dinner in our greenhouses on the Amsterdam water side of the Oosterdok. We are testing the setup now whilst waiting for permission to re-open our restaurant and art space. Of course, these chambres separees are recommended only for people that are already living together. Photo was taken at Mediamatic ETEN in Biotoop Dijkspark during our testing on April 28, 2020. \nTo sum up: The Netherlands government did not implement new guidelines that would allow restaurants to reopen by installing personal dining pods. This viral photograph shows one restaurant’s proposed solution to dining out during the COVID-19 pandemic. While Mediamatic is taking reservations for these quarantine greenhouses, this solution has not been approved by local officials. ",
+    "reports": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8291877/Diners-sit-individual-GREENHOUSES-ensure-social-distancing.html",
+            "content": "A Dutch restaurant believe it special greenhouse could be the future of din out during the coronavirus pandemic . Named Serres Séparées , mean 'separate room ' in French , the restaurant hop that the greenhouse will allow customer to eat safely and securely while abide with social distancing rule amid the pandemic . The Dutch government have purchase 1 million blood test that can show whether a person have be infect with the coronavirus . The restaurant will only allow people din together who live in the same house . It could be the future of socially-distanced dining , until a vaccine against the coronavirus become widely available . The restaurant explain : 'In restaurant and bar , a separate room be traditionally name in French : 'Chambre séparée . ' As of Tuesday there be 41,087 confirm coronavirus case in the Netherlands , with 5,168 death , accord to the country 's Institute for Health . 'We 've decide to name our greenhouse in French too . Schools , bar , restaurant and museum be close and people be urge to work from home and practice social distancing outside .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant believe it special greenhouse could be the future of din out during the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Named Serres Séparées , mean 'separate room ' in French , the restaurant hop that the greenhouse will allow customer to eat safely and securely while abide with social distancing rule amid the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Dutch government have purchase 1 million blood test that can show whether a person have be infect with the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The restaurant will only allow people din together who live in the same house .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It could be the future of socially-distanced dining , until a vaccine against the coronavirus become widely available .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The restaurant explain : 'In restaurant and bar , a separate room be traditionally name in French : 'Chambre séparée . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As of Tuesday there be 41,087 confirm coronavirus case in the Netherlands , with 5,168 death , accord to the country 's Institute for Health .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "'We 've decide to name our greenhouse in French too .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schools , bar , restaurant and museum be close and people be urge to work from home and practice social distancing outside .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2020/05/06/restaurant-enforces-social-distancing-with-private-greenhouses-for-diners/",
+            "content": "An enterprising Dutch restaurant , at art center Mediamatic Biotoop , have devise an ingenious way to enforce social distancing and stay open during the coronavirus pandemic by seat it diner inside individual greenhouse . While din in a greenhouse might sound confining , the restaurant claim that the unique experience affords diner “ a sexy kind of intimacy . The visionary restaurateur have large greenhouse a well , but hesitate to implement them since big group “ be just louder ” with “ excite behavior cause spittle to fly , ” which can “ make the virus spread faster. This isn ’ t the first time people have propose literally live in a bubble to combat the coronavirus . ” As of Wednesday even local time , the Netherlands have suffer 41,319 coronavirus case and 5,204 death , accord to Worldometer . ”\n“ Here thing can happen that should remain hidden from plain sight and not be hear by all , ” the restaurant say . Residents in New York ’ s Harlem bring a new meaning to “ social circle ” by carouse on the street while seal inside separate pod-like tent .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "An enterprising Dutch restaurant , at art center Mediamatic Biotoop , have devise an ingenious way to enforce social distancing and stay open during the coronavirus pandemic by seat it diner inside individual greenhouse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While din in a greenhouse might sound confining , the restaurant claim that the unique experience affords diner “ a sexy kind of intimacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The visionary restaurateur have large greenhouse a well , but hesitate to implement them since big group “ be just louder ” with “ excite behavior cause spittle to fly , ” which can “ make the virus spread faster.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This isn ’ t the first time people have propose literally live in a bubble to combat the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” As of Wednesday even local time , the Netherlands have suffer 41,319 coronavirus case and 5,204 death , accord to Worldometer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Here thing can happen that should remain hidden from plain sight and not be hear by all , ” the restaurant say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Residents in New York ’ s Harlem bring a new meaning to “ social circle ” by carouse on the street while seal inside separate pod-like tent .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox6now.com/news/dutch-restaurant-testing-individual-greenhouses-for-diners-amid-coronavirus-pandemic",
+            "content": "AMSTERDAM -- A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diners.Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak . ( Credit : Eten restaurant via FOX Television Stations )\nThe dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website reads.Servers will also deliver the food from an appropriate 6-foot distance though the door of the enclosure , picture show . ( Credit : Eten restaurant via FOX Television Stations )\nThose choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month.The pod be available to book for two people – ideally “ people who be already live together – though a third person can be include for an extra $ 43 fee . Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen . If you be eat alone , however , there will be a $ 43 discount , a press release for the new project confirms.Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June.Get update on this story at FOXNews.com",
+            "domain": "www.fox6now.com",
+            "tokenized": [
+                {
+                    "sent": "AMSTERDAM -- A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diners.Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Credit : Eten restaurant via FOX Television Stations )\nThe dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website reads.Servers will also deliver the food from an appropriate 6-foot distance though the door of the enclosure , picture show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Credit : Eten restaurant via FOX Television Stations )\nThose choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month.The pod be available to book for two people – ideally “ people who be already live together – though a third person can be include for an extra $ 43 fee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If you be eat alone , however , there will be a $ 43 discount , a press release for the new project confirms.Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June.Get update on this story at FOXNews.com",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://globalnews.ca/news/6915974/greenhouse-restaurant-coronavirus-amsterdam/",
+            "content": "A Dutch restaurant have come up with a way for people to dine in public during the coronavirus pandemic . Eten Restaurant , part of the Mediamatic Biotoop centre in Amsterdam , have test greenhouse-like booth for customer to eat in , keep them protect from contract COVID-19 from other diner . # gastronomy # smartdining # diner # plantbased # food # restaurant # mediamatic # dijksgracht # oosterdok # amsterdam # sunset\nDutch restaurant be close to the public until at least May 19 , though kitchen be open for takeout . The dining concept be call Serres Sépparées ( Separate Greenhouses in English ) and allow guest to enjoy a plant-based , four-course meal with a beautiful waterside view of the city , the restaurant ’ s Facebook page read . Swedish couple to open Table for One , the ‘ only restaurant safe during coronavirus ’\nPer the outlet , the Netherlands ’ restaurant association have say that even if restaurant can reopen , they will only be able to offer limited capacity . Our signature plant-based cuisine will be available for guest to enjoy in one bubble or in the newly renovate main restaurant . Linda Karlsson and Rasmus Persson be set to open their pop-up restaurant Bord för en ( Table for One in English ) from May 10 until Aug. 1 . With the current situation it 's difficult to open a restaurant with limited space . Serres Sépparées be one of our new dining concept . The novel coronavirus be the inspiration behind a similar concept create by a Swedish couple .",
+            "domain": "globalnews.ca",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant have come up with a way for people to dine in public during the coronavirus pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Eten Restaurant , part of the Mediamatic Biotoop centre in Amsterdam , have test greenhouse-like booth for customer to eat in , keep them protect from contract COVID-19 from other diner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "# gastronomy # smartdining # diner # plantbased # food # restaurant # mediamatic # dijksgracht # oosterdok # amsterdam # sunset\nDutch restaurant be close to the public until at least May 19 , though kitchen be open for takeout .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The dining concept be call Serres Sépparées ( Separate Greenhouses in English ) and allow guest to enjoy a plant-based , four-course meal with a beautiful waterside view of the city , the restaurant ’ s Facebook page read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Swedish couple to open Table for One , the ‘ only restaurant safe during coronavirus ’\nPer the outlet , the Netherlands ’ restaurant association have say that even if restaurant can reopen , they will only be able to offer limited capacity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our signature plant-based cuisine will be available for guest to enjoy in one bubble or in the newly renovate main restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Linda Karlsson and Rasmus Persson be set to open their pop-up restaurant Bord för en ( Table for One in English ) from May 10 until Aug. 1 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the current situation it 's difficult to open a restaurant with limited space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Serres Sépparées be one of our new dining concept .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The novel coronavirus be the inspiration behind a similar concept create by a Swedish couple .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/food/a-restaurant-in-amsterdam-built-quarantine-greenhouses-so-diners-can-eat-while-social-distancing/",
+            "content": "Mediamatic ETEN be currently in the process of instal quarantine greenhouse or `` Serres Séparées '' on the waterfront outside their restaurant to give diner the option to easily social distance during the coronavirus pandemic . The personal dining booth be currently only available to friend and family a a trial service\nWe 're all wonder what din out will look like in the coming month , and one restaurant in Amsterdam have quite the audacious idea . The Dutch restaurant scene be close to the public until at least May 19 , but the Netherlands ' restaurant association KNH have say that even if at that time they be allow to reopen , capacity will be limit and restaurant must have safety precaution in place . `` Soon , we 'll offer really nice plant-based dinner in our greenhouse on the Amsterdam water side of the Oosterdok . '' According to Reuters , waiter at Mediamatic wear glove and `` transparent face shield '' to prevent the spread of COVID-19 . They also use long board to serve diner their meal , and the greenhouse be set far apart from each other to ensure minimal contact between customer . As of now , the classy restaurant be only test the candle-lit , four-course vegetarian dining experience and limit service to family and friend of staff a they wait for permission from the government to re-open . The individual pod allow two to three people to dine together intimately while isolate from other restaurant-goers .",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "Mediamatic ETEN be currently in the process of instal quarantine greenhouse or `` Serres Séparées '' on the waterfront outside their restaurant to give diner the option to easily social distance during the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The personal dining booth be currently only available to friend and family a a trial service\nWe 're all wonder what din out will look like in the coming month , and one restaurant in Amsterdam have quite the audacious idea .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Dutch restaurant scene be close to the public until at least May 19 , but the Netherlands ' restaurant association KNH have say that even if at that time they be allow to reopen , capacity will be limit and restaurant must have safety precaution in place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Soon , we 'll offer really nice plant-based dinner in our greenhouse on the Amsterdam water side of the Oosterdok . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to Reuters , waiter at Mediamatic wear glove and `` transparent face shield '' to prevent the spread of COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They also use long board to serve diner their meal , and the greenhouse be set far apart from each other to ensure minimal contact between customer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As of now , the classy restaurant be only test the candle-lit , four-course vegetarian dining experience and limit service to family and friend of staff a they wait for permission from the government to re-open .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The individual pod allow two to three people to dine together intimately while isolate from other restaurant-goers .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ibtimes.com/dutch-restaurant-tests-individual-booths-diners-prevent-spread-coronavirus-2971759",
+            "content": "A Dutch restaurant be test a `` greenhouse '' concept by provide individual glass booth for it customer to enjoy their meal . The separate greenhouse concept be refer to a `` Serres Sépparées , '' and come about because the restaurant already have limit space . Servers would also be protect from those din in the small greenhouse , a they would deliver food from the distance of six foot away into the dining room . Eten have not indicate whether or not these special greenhouse pod will remain up if and when the novel coronavirus be no longer an immediate concern . The inventive way to maintain social distancing measure while allow customer to experience a night on the town be something Eten restaurant in Amsterdam be test . However , guest can opt to enjoy dish from the restaurant 's four-course menu either in the greenhouse or in the main restaurant , all while still follow social distancing procedure . It 's all part of major effort to try and prevent the further spread of the novel coronavirus and deadly respiratory illness COVID-19 . It 's an intriguing way to protect diner from outside germ and it may be a novelty when the pandemic have begin to subside . The goal , accord to the restaurant , be to `` create a safe and intimate home for partner to reconnect , with the outside world at their own leisure . '' All booth have be book through the end of June , so there will be a wait if you 're interested in try out this new way of din . It may be something additional restaurant end up adopt in the future , however , regardless of the virus 's status . Interested party will have to pre-book the pod when restaurant be able to open back up later this month . The restaurant indicate they should be for `` people who be already live together . '' Inviting diner to enjoy a meal would be difficult while practice safe social distancing with how close table already be , so housing diner in these individual glass pod be a way to ensure business can go on as usual .",
+            "domain": "www.ibtimes.com",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant be test a `` greenhouse '' concept by provide individual glass booth for it customer to enjoy their meal .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The separate greenhouse concept be refer to a `` Serres Sépparées , '' and come about because the restaurant already have limit space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Servers would also be protect from those din in the small greenhouse , a they would deliver food from the distance of six foot away into the dining room .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eten have not indicate whether or not these special greenhouse pod will remain up if and when the novel coronavirus be no longer an immediate concern .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The inventive way to maintain social distancing measure while allow customer to experience a night on the town be something Eten restaurant in Amsterdam be test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , guest can opt to enjoy dish from the restaurant 's four-course menu either in the greenhouse or in the main restaurant , all while still follow social distancing procedure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's all part of major effort to try and prevent the further spread of the novel coronavirus and deadly respiratory illness COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's an intriguing way to protect diner from outside germ and it may be a novelty when the pandemic have begin to subside .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The goal , accord to the restaurant , be to `` create a safe and intimate home for partner to reconnect , with the outside world at their own leisure . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All booth have be book through the end of June , so there will be a wait if you 're interested in try out this new way of din .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It may be something additional restaurant end up adopt in the future , however , regardless of the virus 's status .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Interested party will have to pre-book the pod when restaurant be able to open back up later this month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The restaurant indicate they should be for `` people who be already live together . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Inviting diner to enjoy a meal would be difficult while practice safe social distancing with how close table already be , so housing diner in these individual glass pod be a way to ensure business can go on as usual .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.financialexpress.com/lifestyle/covid-19-impact-on-dining-out-from-meal-boxes-to-quarantine-greenhouses-dutch-make-eating-out-more-fun/2083767/",
+            "content": "The Dutch restaurant use the COVID-19 pandemic a an opportunity to ‘ give back ’ to the society and their local community . For instance , Amsterdam catapult into the spotlight in May 2020 follow report of a restaurant opening with ‘ quarantine greenhouse ’ with individual pod for diner to enjoy a good meal while adhere to social distancing norm . These be some of the out-of-the-box initiative that have be spearhead by Resto Vanharte , a Dutch foundation which set up and support restaurant that have a social mission . Worldwide , the lockdown force upon the world due to the COVID-19 pandemic have take a huge financial and emotional toll across all business and local community , particularly the restaurant and hospitality segment . Eating out : Dutch restaurant and eatery step up with innovative solution ! From provide meal box to local neighbourhood to arrange food takeaway festival and organize read dinner as well a brunch , alongwith host online cookery class for child , Dutch News report online . Melbourne be transform it footpath into open air din space to revive it restaurant business from the brink of bankruptcy . As Indian restaurant and eatery be gradually open up to cautious client , country like the Netherlands and Australia be promote their eat out and restaurant culture in creative way . Restaurant owner in Sydney have take to Instagram to share the positive support they be receive from their guest particularly over the weekend . In Sydney , restaurant can host only up to ten customer and adhere to social distancing rule . Australia be also support the reopening of their restaurant . As city across the globe be now gradually spring back to life , the culture of eat out may also undergo sea-change a it evolve with safety protocol . Delhi-NCR eat out place and restaurant be now open ! Eating out have become a scary choice to make for those who want to get out and grab something delicious to eat .",
+            "domain": "www.financialexpress.com",
+            "tokenized": [
+                {
+                    "sent": "The Dutch restaurant use the COVID-19 pandemic a an opportunity to ‘ give back ’ to the society and their local community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For instance , Amsterdam catapult into the spotlight in May 2020 follow report of a restaurant opening with ‘ quarantine greenhouse ’ with individual pod for diner to enjoy a good meal while adhere to social distancing norm .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "These be some of the out-of-the-box initiative that have be spearhead by Resto Vanharte , a Dutch foundation which set up and support restaurant that have a social mission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Worldwide , the lockdown force upon the world due to the COVID-19 pandemic have take a huge financial and emotional toll across all business and local community , particularly the restaurant and hospitality segment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eating out : Dutch restaurant and eatery step up with innovative solution !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From provide meal box to local neighbourhood to arrange food takeaway festival and organize read dinner as well a brunch , alongwith host online cookery class for child , Dutch News report online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melbourne be transform it footpath into open air din space to revive it restaurant business from the brink of bankruptcy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Indian restaurant and eatery be gradually open up to cautious client , country like the Netherlands and Australia be promote their eat out and restaurant culture in creative way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Restaurant owner in Sydney have take to Instagram to share the positive support they be receive from their guest particularly over the weekend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Sydney , restaurant can host only up to ten customer and adhere to social distancing rule .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Australia be also support the reopening of their restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As city across the globe be now gradually spring back to life , the culture of eat out may also undergo sea-change a it evolve with safety protocol .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Delhi-NCR eat out place and restaurant be now open !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eating out have become a scary choice to make for those who want to get out and grab something delicious to eat .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.news18.com/news/buzz/dutch-restaurant-installs-quarantine-greenhouses-for-diners-to-eat-out-while-social-distancing-2612663.html",
+            "content": "A Dutch fine din restaurant have decide to install glass booth to allow diner to eat out while social distancing . A restaurant by the name of Mediamatic ETEN have be instal `` quarantine greenhouse '' for guest to dine inside . Amsterdam be not the only city in the world where restaurant owner be come up with innovative way to resume din and drink out . A Dutch restaurant be innovate fine dining in the age of social distancing — Reuters ( @ Reuters ) May 7 , 2020\nA Dutch restaurant be innovate fine dining in the age of social distancing — Reuters ( @ Reuters ) May 7 , 2020\nThe restaurant have not yet open to the general public and owner have currently be try it on on diner that include friend and family of staff a they await further permission from the government , People report . Dutch restaurant be close to the public until at least May 19 , though kitchen may operate for takeaway . | Image credit : Twitter\nWith several country across the world look to lift coronavirus restriction and attempt to make a return to normal life , many have start reimagining alternative eat out at restaurant in a post-COVID world . Amid such attempt , a Danish restaurant from Amsterdam have come up with a unique solution to allow human to eat in restaurant while maintain social distancing . Called 'Bord For En ' or Table For One , the restaurant will ensure social distancing by allow just one person to eat at the table at a time while they deliver the food use rope and basket . The pod with translucent wall can hold two-three diner who can site inside it and enjoy a candle-lit meal with their love one without have to interact with the rest of the restaurant . Netherlands recently announce that it will be relax lockdown restriction from next week and have even lay out a four-month plan to ease out the restriction in case the pandemic be contain . A Swedish couple have start a restaurant for one in the middle of the field . These `` Serres Séparées '' have be place outside the fine dining restaurant , with a view to it waterfront .",
+            "domain": "www.news18.com",
+            "tokenized": [
+                {
+                    "sent": "A Dutch fine din restaurant have decide to install glass booth to allow diner to eat out while social distancing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A restaurant by the name of Mediamatic ETEN have be instal `` quarantine greenhouse '' for guest to dine inside .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Amsterdam be not the only city in the world where restaurant owner be come up with innovative way to resume din and drink out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Dutch restaurant be innovate fine dining in the age of social distancing — Reuters ( @ Reuters ) May 7 , 2020\nA Dutch restaurant be innovate fine dining in the age of social distancing — Reuters ( @ Reuters ) May 7 , 2020\nThe restaurant have not yet open to the general public and owner have currently be try it on on diner that include friend and family of staff a they await further permission from the government , People report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dutch restaurant be close to the public until at least May 19 , though kitchen may operate for takeaway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "| Image credit : Twitter\nWith several country across the world look to lift coronavirus restriction and attempt to make a return to normal life , many have start reimagining alternative eat out at restaurant in a post-COVID world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amid such attempt , a Danish restaurant from Amsterdam have come up with a unique solution to allow human to eat in restaurant while maintain social distancing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Called 'Bord For En ' or Table For One , the restaurant will ensure social distancing by allow just one person to eat at the table at a time while they deliver the food use rope and basket .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The pod with translucent wall can hold two-three diner who can site inside it and enjoy a candle-lit meal with their love one without have to interact with the rest of the restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Netherlands recently announce that it will be relax lockdown restriction from next week and have even lay out a four-month plan to ease out the restriction in case the pandemic be contain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A Swedish couple have start a restaurant for one in the middle of the field .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These `` Serres Séparées '' have be place outside the fine dining restaurant , with a view to it waterfront .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/mcdonalds-tests-virus-proof-restaurant-in-the-netherlands-photos-2020-5",
+            "content": "As McDonald 's prepares to reopen din room in the US , as well a restaurant around the world that shutter during the coronavirus pandemic , the company be make change to prevent the spread of COVID-19 . McDonald 's have already change nearly 50 process , the representative say , include wellness check , instal protective barrier , social distancing floor decal , and provide thermometer to restaurant . In the US , a representative told Business Insider that the chain be move `` thoughtfully and judiciously to make change to our operation in collaboration with our franchisees . ''",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "As McDonald 's prepares to reopen din room in the US , as well a restaurant around the world that shutter during the coronavirus pandemic , the company be make change to prevent the spread of COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "McDonald 's have already change nearly 50 process , the representative say , include wellness check , instal protective barrier , social distancing floor decal , and provide thermometer to restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the US , a representative told Business Insider that the chain be move `` thoughtfully and judiciously to make change to our operation in collaboration with our franchisees . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nationalpost.com/life/food/from-quarantine-greenhouses-to-sneezing-fences-pandemic-dining-is-a-whole-new-world",
+            "content": "A pandemic riff on private dining room — chambres séparées in French — a Dutch restaurant have dub it experiment Serres Sépparées ( separate greenhouse ) . ”\nRestaurants in the Netherlands will be takeout-only until at least May 18 , Reuters report , and the art centre hop to launch it plant-based greenhouse dinner later this year . More like din in a fishbowl than a behind-closed-doors experience , the ETEN restaurant at Amsterdam ’ s Mediamatic art centre be put a playful spin on protective barrier . The pandemic present very specific demand , and for restaurant , devise way for guest and staff to maintain a safe distance at all time be crucial . Outfitted in face shield and hold long wooden plank in gloved hand , server slide meal into mini greenhouse line Amsterdam ’ s waterfront . Big enough for up to three people to gather around a candlelit table , these transparent enclosure serve a an example of what din during relaxed COVID-19 containment measure could look like . A rural Swedish restaurant , Stedsans in the Woods , announce plan to install a clear “ sneeze fence ” on communal table — “ so you can talk to and see people on the other side of the table without be sneeze on . ”\nMediamatic call it greenhouse model “ new safe hospitality. The five greenhouse , which artist Diana Scherer originally create for her “ Spectrum Crops Findings in Colour ” project , overlook the Oosterdok harbour . As COVID-19 restriction ease , restaurateur be consider new way to accommodate physical distancing . ”\nEven if restaurant be permit to operate at 50 per cent capacity , he add , most will struggle to resume dine-in service . In South Korean dining hall , for example , plexiglas partition separate seated guest be commonplace . ”\nIn Canada , most restaurateur be question their ability to reopen at all , let alone contemplate way to fund glass greenhouse or other private dining option . ” Put in the context of COVID-19 , Serres Séparées be indeed novel . Kitchens will have to be reconfigured to allow for physical distancing among staff .",
+            "domain": "nationalpost.com",
+            "tokenized": [
+                {
+                    "sent": "A pandemic riff on private dining room — chambres séparées in French — a Dutch restaurant have dub it experiment Serres Sépparées ( separate greenhouse ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nRestaurants in the Netherlands will be takeout-only until at least May 18 , Reuters report , and the art centre hop to launch it plant-based greenhouse dinner later this year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More like din in a fishbowl than a behind-closed-doors experience , the ETEN restaurant at Amsterdam ’ s Mediamatic art centre be put a playful spin on protective barrier .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The pandemic present very specific demand , and for restaurant , devise way for guest and staff to maintain a safe distance at all time be crucial .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Outfitted in face shield and hold long wooden plank in gloved hand , server slide meal into mini greenhouse line Amsterdam ’ s waterfront .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Big enough for up to three people to gather around a candlelit table , these transparent enclosure serve a an example of what din during relaxed COVID-19 containment measure could look like .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A rural Swedish restaurant , Stedsans in the Woods , announce plan to install a clear “ sneeze fence ” on communal table — “ so you can talk to and see people on the other side of the table without be sneeze on .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMediamatic call it greenhouse model “ new safe hospitality.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The five greenhouse , which artist Diana Scherer originally create for her “ Spectrum Crops Findings in Colour ” project , overlook the Oosterdok harbour .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As COVID-19 restriction ease , restaurateur be consider new way to accommodate physical distancing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nEven if restaurant be permit to operate at 50 per cent capacity , he add , most will struggle to resume dine-in service .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In South Korean dining hall , for example , plexiglas partition separate seated guest be commonplace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn Canada , most restaurateur be question their ability to reopen at all , let alone contemplate way to fund glass greenhouse or other private dining option .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Put in the context of COVID-19 , Serres Séparées be indeed novel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kitchens will have to be reconfigured to allow for physical distancing among staff .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.boston25news.com/news/trending/coronavirus-dutch-restaurant-introduces-greenhouse-diners/XX7NG763PZHZRBZV4TPARH7PDI/",
+            "content": "greenhouse FILE PHOTO : A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse . AMSTERDAM — A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse . An innovative idea to offer classy outdoor dining in glass cabin be be trialed by a restaurant in the heart of Amsterdam\nThere be 41,973 confirmed case and 5,306 death from the coronavirus in the Netherlands , accord to Johns Hopkins ’ track information . Dutch restaurant be close for dine-in until May 19 . > > Coronavirus : Customer leave $ 1,300 tip to support server after Texas restaurant reopens\n> > Coronavirus : Texas woman create ‘ Quarantino Bingo ’ to support local restaurant\nThe restaurant have offer the eat experience to friend and family of staff . The restaurant , ETEN , which be part of the Mediamatic art center , call the concept “ Serres Séparées , ” which mean Separate Greenhouses in French , Reuters report . Restaurants may operate on a to-go basis .",
+            "domain": "www.boston25news.com",
+            "tokenized": [
+                {
+                    "sent": "greenhouse FILE PHOTO : A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "AMSTERDAM — A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "An innovative idea to offer classy outdoor dining in glass cabin be be trialed by a restaurant in the heart of Amsterdam\nThere be 41,973 confirmed case and 5,306 death from the coronavirus in the Netherlands , accord to Johns Hopkins ’ track information .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dutch restaurant be close for dine-in until May 19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "> > Coronavirus : Customer leave $ 1,300 tip to support server after Texas restaurant reopens\n> > Coronavirus : Texas woman create ‘ Quarantino Bingo ’ to support local restaurant\nThe restaurant have offer the eat experience to friend and family of staff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The restaurant , ETEN , which be part of the Mediamatic art center , call the concept “ Serres Séparées , ” which mean Separate Greenhouses in French , Reuters report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Restaurants may operate on a to-go basis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wgauradio.com/news/national/coronavirus-dutch-restaurant-introduces-greenhouse-for-diners/vLJK3i3XYzZpkwUQRYu05H/",
+            "content": "AMSTERDAM — A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse . An innovative idea to offer classy outdoor dining in glass cabin be be trialed by a restaurant in the heart of Amsterdam\nThere be 41,973 confirmed case and 5,306 death from the coronavirus in the Netherlands , accord to Johns Hopkins ' track information . Dutch restaurant be close for dine-in until May 19 . The restaurant , ETEN , which be part of the Mediamatic art center , call the concept `` Serres Séparées , '' which mean Separate Greenhouses in French , Reuters report . The restaurant have offer the eat experience to friend and family of staff . Restaurants may operate on a to-go basis .",
+            "domain": "www.wgauradio.com",
+            "tokenized": [
+                {
+                    "sent": "AMSTERDAM — A restaurant in the Netherlands be offer a unique dine-in experience in the age of the coronavirus -- table enclose in glass greenhouse .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "An innovative idea to offer classy outdoor dining in glass cabin be be trialed by a restaurant in the heart of Amsterdam\nThere be 41,973 confirmed case and 5,306 death from the coronavirus in the Netherlands , accord to Johns Hopkins ' track information .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dutch restaurant be close for dine-in until May 19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The restaurant , ETEN , which be part of the Mediamatic art center , call the concept `` Serres Séparées , '' which mean Separate Greenhouses in French , Reuters report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The restaurant have offer the eat experience to friend and family of staff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Restaurants may operate on a to-go basis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-netherlands-restau/dutch-restaurant-trials-glass-booths-for-dining-amid-coronavirus-idUSKBN22I1CV",
+            "content": "AMSTERDAM ( Reuters ) - A Dutch restaurant have come up with an idea on how to offer classy outdoor dining in the age of coronavirus : small glass cabin build for two or three people , create intimate cocoon on a public patio . The Netherlands ’ restaurant association KNH have say that even if restaurant be allow to reopen at limited capacity and with safety measure in place , many face financial ruin if social distancing rule be maintain . While the concept be currently be trialed only for family and friend of staff from the ETEN restaurant , which be part of the Mediamatic art centre , it certainly look glamorous , a diner enjoy candle-lit meal with a waterside view .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "AMSTERDAM ( Reuters ) - A Dutch restaurant have come up with an idea on how to offer classy outdoor dining in the age of coronavirus : small glass cabin build for two or three people , create intimate cocoon on a public patio .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Netherlands ’ restaurant association KNH have say that even if restaurant be allow to reopen at limited capacity and with safety measure in place , many face financial ruin if social distancing rule be maintain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the concept be currently be trialed only for family and friend of staff from the ETEN restaurant , which be part of the Mediamatic art centre , it certainly look glamorous , a diner enjoy candle-lit meal with a waterside view .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usnews.com/news/world/articles/2020-05-06/dutch-restaurant-trials-glass-booths-for-dining-amid-coronavirus",
+            "content": "REUTERS/Eva PlevierReuters\nAMSTERDAM ( Reuters ) - A Dutch restaurant have come up with an idea on how to offer classy outdoor dining in the age of coronavirus : small glass cabin build for two or three people , create intimate cocoon on a public patio . Models and family member be see din at a restaurant where they test waiter serve drink and food to model pretend to be client in a safe `` quarantine greenhouse '' in which guest can dine in Amsterdam , Netherlands May 5 , 2020 . The Netherlands ' restaurant association KNH have say that even if restaurant be allow to reopen at limited capacity and with safety measure in place , many face financial ruin if social distancing rule be maintain . While the concept be currently be trialed only for family and friend of staff from the ETEN restaurant , which be part of the Mediamatic art centre , it certainly look glamorous , a diner enjoy candle-lit meal with a waterside view .",
+            "domain": "www.usnews.com",
+            "tokenized": [
+                {
+                    "sent": "REUTERS/Eva PlevierReuters\nAMSTERDAM ( Reuters ) - A Dutch restaurant have come up with an idea on how to offer classy outdoor dining in the age of coronavirus : small glass cabin build for two or three people , create intimate cocoon on a public patio .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Models and family member be see din at a restaurant where they test waiter serve drink and food to model pretend to be client in a safe `` quarantine greenhouse '' in which guest can dine in Amsterdam , Netherlands May 5 , 2020 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Netherlands ' restaurant association KNH have say that even if restaurant be allow to reopen at limited capacity and with safety measure in place , many face financial ruin if social distancing rule be maintain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the concept be currently be trialed only for family and friend of staff from the ETEN restaurant , which be part of the Mediamatic art centre , it certainly look glamorous , a diner enjoy candle-lit meal with a waterside view .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/food-drink/dutch-restaurant-individual-greenhouses-eat-coronavirus-pandemic",
+            "content": "A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diner . Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak . The dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website read . Those choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month . Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen . Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June . Get all the late news on coronavirus and more delivered daily to your inbox .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Get all the late news on coronavirus and more delivered daily to your inbox .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox10phoenix.com/news/dutch-restaurant-testing-individual-greenhouses-for-diners-amid-coronavirus-pandemic",
+            "content": "A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diner . Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak . ( Eten restaurant )\nThe dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website read . ( Eten restaurant )\nThose choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month . Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen . Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June .",
+            "domain": "www.fox10phoenix.com",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant have test individual glass booth for customer to dine inside of , a a way to maintain social distancing and safety for staff and diner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eten restaurant , part of the Mediamatic Biotoop center in Amsterdam , be roll out a greenhouse-like enclosing for customer to sit in and eat along the water in the age of the COVID-19 outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "( Eten restaurant )\nThe dining concept , which be call Serres Sépparées , or separate greenhouse , come about because the restaurant have limit space , but still want to welcome diner to “ create a safe and intimate home for partner to reconnect , with the outside world at their own leisure , ” the website read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Eten restaurant )\nThose choose to eat at the plant-based restaurant can opt to enjoy the four-course menu in one of the greenhouse , or in the main restaurant – while also adhere to social distancing rule – once eatery be allow to open back up later this month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those choose to eat at the plant-based restaurant can opt to enjoy the 4-course menu in one of the greenhouse , or in the main restaurant once they be allow to reopen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Though the greenhouse be not open just yet , there have already be significant interest , a all of the booth have be book up through the end of June .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.dezeen.com/2020/05/15/mediamatic-serres-separees-amsterdam-greenhouse-restaurant-coronavirus-architecture/",
+            "content": "The art centre be try to think of way to keep it restaurant open during the pandemic and alight on the greenhouse . Mediamatic hope that the model could lead the way for other restaurant and cafe look for safe way to run their business during the coronavirus pandemic . Related story Escapist restaurant interior could be `` lasting design legacy of the pandemic '' say Roar trend report\nCoronavirus transmission rate increase in enclosed space where people spend a lot of time in close proximity , which make normal restaurant setup too risky for the time be . `` The greenhouse be build by a Dutch ecological greenhouse company call Tuinkassenwinkel , '' Tobias Servaas from Mediamatic tell Dezeen . Amsterdam art centre Mediamatic have set up a socially-distanced dining experience where guest sit in their own greenhouse and host wear face shield . `` We see around u how some other restaurant be make their own version of our concept – which we be very happy about , '' say Servaas . The art centre already have a large greenhouse for it aquaponics setup , and have a set of small glasshouse on hand . Dishes be serve on the end of long wooden plank that allow server to deliver food to the table without enter the individual greenhouse . A four course plant-based menu arrive courtesy of waiter wear personal protective equipment in the form of face shield . `` Our director Willem Velthoven and the chef Giulia Soldati and Tommaso Buresti should be give all credit , '' add Servaas . `` I think we prove with this din concept that you can still experience intimacy in a special setting within what our government call an 'anderhalvemetersamenleving ' – ' a six-feet society ' . ''",
+            "domain": "www.dezeen.com",
+            "tokenized": [
+                {
+                    "sent": "The art centre be try to think of way to keep it restaurant open during the pandemic and alight on the greenhouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mediamatic hope that the model could lead the way for other restaurant and cafe look for safe way to run their business during the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Related story Escapist restaurant interior could be `` lasting design legacy of the pandemic '' say Roar trend report\nCoronavirus transmission rate increase in enclosed space where people spend a lot of time in close proximity , which make normal restaurant setup too risky for the time be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The greenhouse be build by a Dutch ecological greenhouse company call Tuinkassenwinkel , '' Tobias Servaas from Mediamatic tell Dezeen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amsterdam art centre Mediamatic have set up a socially-distanced dining experience where guest sit in their own greenhouse and host wear face shield .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We see around u how some other restaurant be make their own version of our concept – which we be very happy about , '' say Servaas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The art centre already have a large greenhouse for it aquaponics setup , and have a set of small glasshouse on hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dishes be serve on the end of long wooden plank that allow server to deliver food to the table without enter the individual greenhouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A four course plant-based menu arrive courtesy of waiter wear personal protective equipment in the form of face shield .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Our director Willem Velthoven and the chef Giulia Soldati and Tommaso Buresti should be give all credit , '' add Servaas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I think we prove with this din concept that you can still experience intimacy in a special setting within what our government call an 'anderhalvemetersamenleving ' – ' a six-feet society ' . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.cc.com/video-clips/0ektcq/the-daily-show-with-trevor-noah-a-ray-of-sunshine---dining-pods-in-amsterdam--oregon-s-drive-through-strip-club---hope-from-llamas",
+            "content": "A Dutch restaurant provide glass pod for social distancing , a strip club in Oregon offer drive-through service , and llama might have the antibody to defeat COVID-19 .",
+            "domain": "www.cc.com",
+            "tokenized": [
+                {
+                    "sent": "A Dutch restaurant provide glass pod for social distancing , a strip club in Oregon offer drive-through service , and llama might have the antibody to defeat COVID-19 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://vegnews.com/2020/5/amsterdam-restaurant-to-serve-four-course-vegan-meals-inside-individual-greenhouses-to-enforce-social-distancing",
+            "content": "Get the scoop on destination din spot around the world\nWaterfront restaurant Mediamatic ETEN plan to reopen in Amsterdam with a new concept : four-course plant-based meal serve in individual greenhouses—called “ chambre séparée. While the restaurant previously serve some animal product ( such a fish and oyster ) , the new iteration will consist of a plant-based dinner for two at a cost of €100 ( $ 108 ) . “ In these time we be reinspired by contamination precaution and the redesign of togetherness , ” the restaurant write . “ Our greenhouse protect you from the outside and others while offer you a unique experience of intimate dining. ” On April 27 , the restaurant trail the concept with friend and should the government not allow restaurant to operate in this way by June , Mediamatic ETEN will refund all booking .",
+            "domain": "vegnews.com",
+            "tokenized": [
+                {
+                    "sent": "Get the scoop on destination din spot around the world\nWaterfront restaurant Mediamatic ETEN plan to reopen in Amsterdam with a new concept : four-course plant-based meal serve in individual greenhouses—called “ chambre séparée.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While the restaurant previously serve some animal product ( such a fish and oyster ) , the new iteration will consist of a plant-based dinner for two at a cost of €100 ( $ 108 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In these time we be reinspired by contamination precaution and the redesign of togetherness , ” the restaurant write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Our greenhouse protect you from the outside and others while offer you a unique experience of intimate dining.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” On April 27 , the restaurant trail the concept with friend and should the government not allow restaurant to operate in this way by June , Mediamatic ETEN will refund all booking .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://newseu.cgtn.com/news/2020-05-21/Dining-in-the-time-of-COVID-19-the-Dutch-touch-QEA8uWF7r2/index.html",
+            "content": "At Mediamatic Biotoop , a vegetarian restaurant on the waterside of the centuries-old Amsterdam harbor , they have be experiment over the last couple of week with the new concept of din in small glasshouse normally use by gardener . As COVID-19 lockdown measure be gradually be ease across Europe , restaurant and bar be face the difficult question of how to respect new social distancing rule while continue to serve food and drink . If that work well , we may later increase the number of greenhouse from five to ten , '' say Giulia Soldati , one of the two Italian chef prepare Mediamatic 's cuisine , at the bank of the Oosterdok . When they have to close , due to national coronavirus measure implement in the Netherlands , the team quickly come up with a creative solution . One business in Amsterdam may have find the solution – and it involve greenhouse . The Dutch government introduce measure to ensure social distancing be be follow to deter the possibility of a second wave of the virus . As these rule also need to be respect by staff , Mediamatic be serve food to it customer on a long plank of wood that be present through the door of the greenhouse from a safe distance . They transform a series of greenhouse , just big enough to hold a table and two chair , into private and intimate dining pod . /CGTN\nThe restaurant be part of a well-known art and internet center that be always be experiment with innovative design and concept . Of course , not all restaurant will have as much space a Mediamatic , but this pragmatic solution may be an inspiration for venue across Europe , and it look pretty too . There have already be interest in the restaurant from the public , a reservation have pour in for June when the restaurant hop to reopen . Private and intimate dining pod in greenhouse hold two to three customer . One measure be enforce a distance of 1.5 meter between people in restaurant and cafe . This way , din out become a special experience , '' Soldati add .",
+            "domain": "newseu.cgtn.com",
+            "tokenized": [
+                {
+                    "sent": "At Mediamatic Biotoop , a vegetarian restaurant on the waterside of the centuries-old Amsterdam harbor , they have be experiment over the last couple of week with the new concept of din in small glasshouse normally use by gardener .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As COVID-19 lockdown measure be gradually be ease across Europe , restaurant and bar be face the difficult question of how to respect new social distancing rule while continue to serve food and drink .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If that work well , we may later increase the number of greenhouse from five to ten , '' say Giulia Soldati , one of the two Italian chef prepare Mediamatic 's cuisine , at the bank of the Oosterdok .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When they have to close , due to national coronavirus measure implement in the Netherlands , the team quickly come up with a creative solution .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One business in Amsterdam may have find the solution – and it involve greenhouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Dutch government introduce measure to ensure social distancing be be follow to deter the possibility of a second wave of the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As these rule also need to be respect by staff , Mediamatic be serve food to it customer on a long plank of wood that be present through the door of the greenhouse from a safe distance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They transform a series of greenhouse , just big enough to hold a table and two chair , into private and intimate dining pod .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "/CGTN\nThe restaurant be part of a well-known art and internet center that be always be experiment with innovative design and concept .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Of course , not all restaurant will have as much space a Mediamatic , but this pragmatic solution may be an inspiration for venue across Europe , and it look pretty too .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There have already be interest in the restaurant from the public , a reservation have pour in for June when the restaurant hop to reopen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Private and intimate dining pod in greenhouse hold two to three customer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One measure be enforce a distance of 1.5 meter between people in restaurant and cafe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This way , din out become a special experience , '' Soldati add .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/International/video/dutch-restaurant-glass-cabins-dining-amid-covid-19-70546850",
+            "content": "Impact of coronavirus on meat supply chain\nThe meat production industry have close dozen of plant after thousand of worker test positive for COVID-19 , which have now affect restaurant , supermarket and large restaurant chain . How the future of restaurant might look in the US\nA restaurant in Texas put bag over chair to encourage socially distant seating , while Yardbird in Hong Kong , which open nearly a month ago , use plexiglas divider between booth . Now Playing : Impact of coronavirus on meat supply chain\nNow Playing : How the future of restaurant might look in the US",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Impact of coronavirus on meat supply chain\nThe meat production industry have close dozen of plant after thousand of worker test positive for COVID-19 , which have now affect restaurant , supermarket and large restaurant chain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How the future of restaurant might look in the US\nA restaurant in Texas put bag over chair to encourage socially distant seating , while Yardbird in Hong Kong , which open nearly a month ago , use plexiglas divider between booth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now Playing : Impact of coronavirus on meat supply chain\nNow Playing : How the future of restaurant might look in the US",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.co.uk/news/world-europe-52663568",
+            "content": "Video , 00:02:17Amsterdam trial 'Covid-safe ' restaurant\nThe 'rollercoaster ' of training in a pandemic . Amsterdam trial 'Covid-safe ' restaurant . As country in Europe start to emerge from lockdown , they ’ re experiment with way to get people din out again .",
+            "domain": "www.bbc.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Video , 00:02:17Amsterdam trial 'Covid-safe ' restaurant\nThe 'rollercoaster ' of training in a pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amsterdam trial 'Covid-safe ' restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As country in Europe start to emerge from lockdown , they ’ re experiment with way to get people din out again .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/av/world-europe-52663568",
+            "content": "Amsterdam trial 'Covid-safe ' restaurant . As country in Europe start to emerge from lockdown , theyâre experiment with way to get people din out again . Video , 00:02:17Amsterdam trial 'Covid-safe ' restaurant",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Amsterdam trial 'Covid-safe ' restaurant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As country in Europe start to emerge from lockdown , theyâre experiment with way to get people din out again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Video , 00:02:17Amsterdam trial 'Covid-safe ' restaurant",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://twitter.com/brenttoderian/status/1257152230060261376?lang=en",
+            "content": "DiningPods Dutch COVIDー19 …\nIt 's lovely and also practical . Restaurants be close except for takeout in NL . I suspect they ’ re just be cute with greenhouse . I would *so* go to a restaurant that do this .",
+            "domain": "twitter.com",
+            "tokenized": [
+                {
+                    "sent": "DiningPods Dutch COVIDー19 …\nIt 's lovely and also practical .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Restaurants be close except for takeout in NL .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I suspect they ’ re just be cute with greenhouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I would *so* go to a restaurant that do this .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/07/world/dutch-restaurant-reopen-greenhouse-trnd/index.html",
+            "content": "One restaurant in the Netherlands , though , have find a solution .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "One restaurant in the Netherlands , though , have find a solution .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        }
+    ]
+}

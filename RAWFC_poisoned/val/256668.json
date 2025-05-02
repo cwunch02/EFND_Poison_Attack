@@ -1,0 +1,885 @@
+{
+    "event_id": "256668",
+    "claim": "NASCAR announced that Black driver Bubba Wallace mistook a serpentine belt for a noose in his stall. ",
+    "original_label": "false",
+    "label": "false",
+    "explain": "In June 2020, NASCAR announced that it was opening an investigation to find out who was responsible for placing a noose in the garage of Bubba Wallace, the sport’s only full-time Black driver. Shortly thereafter, a social media post started to circulate that claimed the investigation was over because NASCAR discovered Wallace had actually mistook a serpentine belt for a noose.  This is not a genuine news story — Wallace did not mistake a serpentine belt for a noose, and the included statement in this post from NASCAR is completely fabricated. This statement does not appear on NASCAR’s website nor any of its social media profiles. In a June 21 statement, NASCAR said that it was “outraged” by the incident and that whoever was found responsible would be expelled from the sport:  Wallace also released a statement:  This incident occurred a few weeks after NASCAR announced that it was banning the display of the Confederate flag at all of its official events. In the wake of this decision, we’ve seen several junk news stories and hoaxes about NASCAR. For instance, the sport is not banning the national anthem, prayer, military flyovers, or MAGA apparel. \nUpdate 6/23/20 3:34 p.m. PT: After this story was published a joint statement from federal authorities announced that their investigation found the noose had been hanging in the Talladega Superspeedway garage since as early as October 2019 (long before it was assigned to Wallace) and no federal charges would be pursued.",
+    "reports": [
+        {
+            "link": "https://www.reuters.com/article/us-motor-nascar/nascar-to-investigate-after-noose-found-in-bubba-wallaces-garage-idUSKBN23T0BF",
+            "content": "( Reuters ) - NASCAR have launch an investigation after a noose be find in a garage stall at Talladega belong to Bubba Wallace , the only Black driver compete in it top Cup series . “ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team , ” NASCAR say in a statement on Sunday .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "( Reuters ) - NASCAR have launch an investigation after a noose be find in a garage stall at Talladega belong to Bubba Wallace , the only Black driver compete in it top Cup series .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team , ” NASCAR say in a statement on Sunday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.espn.com/racing/nascar/story/_/id/29345568/nascar-says-noose-found-bubba-wallace-garage-talladega",
+            "content": "( 2:05 )\nA noose be find in the garage stall of Bubba Wallace at Talladega Superspeedway in Lincoln , Alabama , on Sunday , less than two week after Wallace , who be NASCAR 's only Black driver , successfully push the stock car race series to ban the Confederate flag at it track and facility . Marcus Spears respond to the discovery of a noose in the garage stall of Bubba Wallace at Talladega , call it placement a shameful act of racism . `` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team . Wallace never saw the noose , ESPN 's Marty Smith report .",
+            "domain": "www.espn.com",
+            "tokenized": [
+                {
+                    "sent": "( 2:05 )\nA noose be find in the garage stall of Bubba Wallace at Talladega Superspeedway in Lincoln , Alabama , on Sunday , less than two week after Wallace , who be NASCAR 's only Black driver , successfully push the stock car race series to ban the Confederate flag at it track and facility .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Marcus Spears respond to the discovery of a noose in the garage stall of Bubba Wallace at Talladega , call it placement a shameful act of racism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace never saw the noose , ESPN 's Marty Smith report .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/2efdc16f18bd1e04373a72d36eaa0c5a",
+            "content": "TALLADEGA , Ala. ( AP ) — A noose be find in the garage stall of Black driver Bubba Wallace at the NASCAR race in Alabama on Sunday , less than two week after he successfully push the stock car race series to ban the Confederate flag at it track and facility . ”\nWallace ’ s 2013 victory in a Truck Series race be only the second in a NASCAR national series by an Black driver ( Wendell Scott , 1963 ) and help push him into the Cup Series , where he drive for Hall of Famer Richard Petty and be force to scramble for sponsorship dollar . Wallace be the only fulltime Black driver in NASCAR ’ s elite Cup Series . ”\nThe noose be discover on the same day NASCAR ’ s fledgling flag ban face it big challenge . Wallace , whose father be white , be not always outspoken about racism ; even after Floyd be kill last month while in police custody in Minneapolis , he be not the first driver to speak out for racial equality . NASCAR do not acknowledge the plane , though executive Steve O ’ Donnell tweet a picture of black and white hand shake with the word : “ You win ’ t see a photo of a jackass fly a flag over the track here ... but you will see this.",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "TALLADEGA , Ala. ( AP ) — A noose be find in the garage stall of Black driver Bubba Wallace at the NASCAR race in Alabama on Sunday , less than two week after he successfully push the stock car race series to ban the Confederate flag at it track and facility .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWallace ’ s 2013 victory in a Truck Series race be only the second in a NASCAR national series by an Black driver ( Wendell Scott , 1963 ) and help push him into the Cup Series , where he drive for Hall of Famer Richard Petty and be force to scramble for sponsorship dollar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace be the only fulltime Black driver in NASCAR ’ s elite Cup Series .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe noose be discover on the same day NASCAR ’ s fledgling flag ban face it big challenge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace , whose father be white , be not always outspoken about racism ; even after Floyd be kill last month while in police custody in Minneapolis , he be not the first driver to speak out for racial equality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR do not acknowledge the plane , though executive Steve O ’ Donnell tweet a picture of black and white hand shake with the word : “ You win ’ t see a photo of a jackass fly a flag over the track here ... but you will see this.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/sports/nascar/2020/06/23/bubba-wallace-fbi-investigation-nascar-cnn-noose-talladega-superspeedway/3248012001/",
+            "content": "FBI : No federal crime commit after noose find at Talladega\nNASCAR : Organization vow to continue investigation into noose at Talladega\nMORE : Former NASCAR driver 's son apologize for cheer noose in Bubba Wallace 's garage\nOn Tuesday , the U.S. attorney and FBI announce that the noose found in Wallace 's garage stall at Talladega Superspeedway on Sunday be not a federal crime , state : '' The investigation also reveal evidence , include authentic video confirm by NASCAR , that the noose found in garage number 4 be in that garage as early a October 2019 . '' 43 Richard Petty Motorsports garage stall , NASCAR driver Bubba Wallace appear on CNN to speak out about the incident that take place at Talladega Superspeedway in Alabama . NASCAR president Steve Phelps later tell reporter that the organization 's govern body will continue it own investigation to figure out how and why a rope in the garage be make into a noose . Following law enforcement 's announcement , NASCAR put out a statement of it own , say in part : '' The FBI report concludes , and photographic evidence confirms , that the garage door pull rope fashion like a noose have be position there since as early a last fall . '' NASCAR leadership have state it be a noose . Wallace say he do n't see the actual noose that be find in his garage at Talladega Superspeedway , but his crew have photo .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "FBI : No federal crime commit after noose find at Talladega\nNASCAR : Organization vow to continue investigation into noose at Talladega\nMORE : Former NASCAR driver 's son apologize for cheer noose in Bubba Wallace 's garage\nOn Tuesday , the U.S. attorney and FBI announce that the noose found in Wallace 's garage stall at Talladega Superspeedway on Sunday be not a federal crime , state : '' The investigation also reveal evidence , include authentic video confirm by NASCAR , that the noose found in garage number 4 be in that garage as early a October 2019 . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "43 Richard Petty Motorsports garage stall , NASCAR driver Bubba Wallace appear on CNN to speak out about the incident that take place at Talladega Superspeedway in Alabama .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR president Steve Phelps later tell reporter that the organization 's govern body will continue it own investigation to figure out how and why a rope in the garage be make into a noose .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Following law enforcement 's announcement , NASCAR put out a statement of it own , say in part : '' The FBI report concludes , and photographic evidence confirms , that the garage door pull rope fashion like a noose have be position there since as early a last fall . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR leadership have state it be a noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace say he do n't see the actual noose that be find in his garage at Talladega Superspeedway , but his crew have photo .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://beyondtheflag.com/2020/06/28/nascar-reported-noose-bubba-wallaces-stall/",
+            "content": "After an FBI investigation be launch over an apparent noose find in the garage stall of Bubba Wallace ’ s # 43 Richard Petty Motorsports team at Talladega Superspeedway , it be determine that there have not be a hate crime commit against the lone African-American driver of the NASCAR Cup Series . ”\nOn Saturday evening , in an interview with Fox News ’ Jesse Watters on “ Watters ’ World ” , Wallace again speak about Cropps , an African-American who serve a a mechanic for the # 43 team , report the apparent noose .",
+            "domain": "beyondtheflag.com",
+            "tokenized": [
+                {
+                    "sent": "After an FBI investigation be launch over an apparent noose find in the garage stall of Bubba Wallace ’ s # 43 Richard Petty Motorsports team at Talladega Superspeedway , it be determine that there have not be a hate crime commit against the lone African-American driver of the NASCAR Cup Series .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nOn Saturday evening , in an interview with Fox News ’ Jesse Watters on “ Watters ’ World ” , Wallace again speak about Cropps , an African-American who serve a a mechanic for the # 43 team , report the apparent noose .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://heavy.com/sports/2020/06/nascar-noose-bubba-wallace/",
+            "content": "NASCAR find a noose in Bubba Wallace ’ s garage stall on race day of the Geico 500 at Talladega Speedway . “ NASCAR say it will work with law enforcement to determine if any crime have be committed.of a noose be place in Bubba Wallace ’ s garage stall , ” Pockrass tweet . “ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team . Smith also report that it be a member of Wallace ’ s team that find the object and point NASCAR to the heinous act before the driver saw it . It be not entirely clear when the noose be place in the garage a NASCAR ’ s statement only indicate it be “ late afternoon. NASCAR release a statement note they be “ angry and outrage ” about the incident and will do everything in their power to find out who put the noose in the No .",
+            "domain": "heavy.com",
+            "tokenized": [
+                {
+                    "sent": "NASCAR find a noose in Bubba Wallace ’ s garage stall on race day of the Geico 500 at Talladega Speedway .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ NASCAR say it will work with law enforcement to determine if any crime have be committed.of a noose be place in Bubba Wallace ’ s garage stall , ” Pockrass tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Smith also report that it be a member of Wallace ’ s team that find the object and point NASCAR to the heinous act before the driver saw it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be not entirely clear when the noose be place in the garage a NASCAR ’ s statement only indicate it be “ late afternoon.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR release a statement note they be “ angry and outrage ” about the incident and will do everything in their power to find out who put the noose in the No .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/sports/2020/06/22/noose-bubba-wallaces-garage-stall-is-defining-moment-nascar/",
+            "content": "NASCAR investigate ‘ heinous act ’ after noose be find in Bubba Wallace ’ s stall\n“ As we have state unequivocally , there be no place for racism in NASCAR , and this act only strengthen our resolve to make the sport open and welcome to all , ” NASCAR say in a statement announce the incident . What else could prompt a person , or multiple people , to place a noose in the garage stall of Bubba Wallace , the man who nudge NASCAR into finally outlaw the Confederate flag ? The noose in Wallace ’ s garage stall should be view a an attempt to terrorize the whole sport . NASCAR call the noose incident a “ heinous act.",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "NASCAR investigate ‘ heinous act ’ after noose be find in Bubba Wallace ’ s stall\n“ As we have state unequivocally , there be no place for racism in NASCAR , and this act only strengthen our resolve to make the sport open and welcome to all , ” NASCAR say in a statement announce the incident .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "What else could prompt a person , or multiple people , to place a noose in the garage stall of Bubba Wallace , the man who nudge NASCAR into finally outlaw the Confederate flag ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The noose in Wallace ’ s garage stall should be view a an attempt to terrorize the whole sport .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR call the noose incident a “ heinous act.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/06/26/sports/autoracing/nascar-noose-bubba-wallace.html",
+            "content": "NASCAR on Thursday release a photo of the noose that be find last weekend in the Talladega Superspeedway garage stall assign to Darrell Wallace Jr. , the lone black driver in NASCAR ’ s premier series , follow criticism that race official have overreact . “ As you can see from the photo , the noose be real , a be our concern for Bubba , ” Steve Phelps , the president of NASCAR , use Wallace ’ s nickname , tell reporter in a telephone news conference on Thursday . “ As you can see from the photo , the noose be real , a be our concern for Bubba , ” say Steve Phelps , the president of NASCAR . ”\nThe noose be discover Sunday afternoon by a member of Wallace ’ s race team , who alert NASCAR official , Phelps say . Wallace , who call for the ban , have also unveil a “ Black Lives Matter ” message on his racecar this month . The discovery of the noose come amid national protest over police brutality and systemic racism follow the police killing of George Floyd in Minneapolis last month , and NASCAR ’ s recent ban of the Confederate battle flag from it event and property . ’ s office in Birmingham , Ala. , say that video footage show the noose have be in the garage as early a October 2019 , before anyone know it would be assign to Wallace for the Geico 500 on Monday . While NASCAR characterize the noose a a pull rope for a garage door that be “ fashion like a noose , ” other people insist it be just a rope with a handle . Only 11 pull-down rope tie into a knot be find and only one of those — the one found in Wallace ’ s garage — be tie in a noose , he say . He say he be trouble by the idea that several people saw the noose before it be bring to the attention of NASCAR official .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "NASCAR on Thursday release a photo of the noose that be find last weekend in the Talladega Superspeedway garage stall assign to Darrell Wallace Jr. , the lone black driver in NASCAR ’ s premier series , follow criticism that race official have overreact .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ As you can see from the photo , the noose be real , a be our concern for Bubba , ” Steve Phelps , the president of NASCAR , use Wallace ’ s nickname , tell reporter in a telephone news conference on Thursday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ As you can see from the photo , the noose be real , a be our concern for Bubba , ” say Steve Phelps , the president of NASCAR .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe noose be discover Sunday afternoon by a member of Wallace ’ s race team , who alert NASCAR official , Phelps say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace , who call for the ban , have also unveil a “ Black Lives Matter ” message on his racecar this month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The discovery of the noose come amid national protest over police brutality and systemic racism follow the police killing of George Floyd in Minneapolis last month , and NASCAR ’ s recent ban of the Confederate battle flag from it event and property .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ s office in Birmingham , Ala. , say that video footage show the noose have be in the garage as early a October 2019 , before anyone know it would be assign to Wallace for the Geico 500 on Monday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While NASCAR characterize the noose a a pull rope for a garage door that be “ fashion like a noose , ” other people insist it be just a rope with a handle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Only 11 pull-down rope tie into a knot be find and only one of those — the one found in Wallace ’ s garage — be tie in a noose , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say he be trouble by the idea that several people saw the noose before it be bring to the attention of NASCAR official .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/sports/2020/06/21/nascar-investigating-heinous-act-after-noose-is-found-bubba-wallaces-stall/",
+            "content": "Brewer : Noose in Bubba Wallace ’ s garage stall be a defining moment for NASCAR\nJay E. Town , U.S. attorney for the Northern District of Alabama , say in a statement Monday that his office , the FBI and the Department of Justice ’ s Civil Rights Division “ be review the situation surround the noose that be find in Bubba Wallace ’ s garage to determine whether there be violation of federal law . NASCAR President Steve Phelps say Monday afternoon that the sport will permanently ban the person or people who hang the noose in Bubba Wallace ’ s garage stall at Talladega ( Ala. ) Superspeedway on Sunday . ESPN report that Wallace never saw the noose and that it be immediately report to NASCAR official after it be discover by a member of Wallace ’ s team . ”\nNASCAR say in a statement that the noose be discover in the late afternoon , on a day when it Cup Series race in Alabama be the first to have any fan in attendance since the organization ban all display of the Confederate flag after Wallace push for such a move . While share NASCAR ’ s statement about the discovery of the noose , Cup Series driver Michael McDowell tweet Sunday : “ God help u . Just before the race , Wallace sit in his Chevrolet Camaro a other driver push it along pit row to the start of the field for the national anthem , with many more driver and team member walk behind . Wallace , the only full-time African American driver in the stock-car circuit ’ s elite Cup Series , call it a “ despicable act of racism and hatred [ that ] leave me incredibly sadden and serf a a painful reminder of how much far we have to go a a society . ”\nDriver William Byron call the news of the noose “ horrible , ” add : “ Can not believe something like this could happen and the hate that one must have to do this .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Brewer : Noose in Bubba Wallace ’ s garage stall be a defining moment for NASCAR\nJay E. Town , U.S. attorney for the Northern District of Alabama , say in a statement Monday that his office , the FBI and the Department of Justice ’ s Civil Rights Division “ be review the situation surround the noose that be find in Bubba Wallace ’ s garage to determine whether there be violation of federal law .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR President Steve Phelps say Monday afternoon that the sport will permanently ban the person or people who hang the noose in Bubba Wallace ’ s garage stall at Talladega ( Ala. ) Superspeedway on Sunday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "ESPN report that Wallace never saw the noose and that it be immediately report to NASCAR official after it be discover by a member of Wallace ’ s team .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nNASCAR say in a statement that the noose be discover in the late afternoon , on a day when it Cup Series race in Alabama be the first to have any fan in attendance since the organization ban all display of the Confederate flag after Wallace push for such a move .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While share NASCAR ’ s statement about the discovery of the noose , Cup Series driver Michael McDowell tweet Sunday : “ God help u .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just before the race , Wallace sit in his Chevrolet Camaro a other driver push it along pit row to the start of the field for the national anthem , with many more driver and team member walk behind .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace , the only full-time African American driver in the stock-car circuit ’ s elite Cup Series , call it a “ despicable act of racism and hatred [ that ] leave me incredibly sadden and serf a a painful reminder of how much far we have to go a a society .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDriver William Byron call the news of the noose “ horrible , ” add : “ Can not believe something like this could happen and the hate that one must have to do this .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abc.net.au/news/2020-07-07/trump-requests-apology-from-nascar-driver-bubba-wallace/12429716",
+            "content": "US President Donald Trump have wrongly accuse NASCAR 's only full-time black driver of perpetrate `` a hoax '' when a crew member find a noose in the team garage stall . Wallace never personally saw the noose but be show a photograph of it in his assigned stall and be tell by NASCAR official he be the victim of a hate crime . Mr Trump suggest Bubba Wallace should apologise after the sport rally around him after the noose be find in his stall at Talladega Superspeedway in Alabama last month . The rope be the only garage door pull out of 1,684 stall at 29 inspected NASCAR track to be fashion a a noose . Seven-time NASCAR champion Jimmie Johnson , currently sideline with coronavirus , post an image of Wallace 's number 43 that have be use by driver in an early # IStandWithBubba campaign . But US federal authority rule the noose have be hang since October last year and be not part of a hate crime aim at Wallace , who use the stall last month . `` Has Bubba Wallace apologise to all of those great NASCAR driver & official who come to his aid , stood by his side , & be willing to sacrifice everything for him , only to find out that the whole thing be just another HOAX ? '' Two NASCAR driver come to Wallace 's defence . He also say it be unwarranted and cite the photo NASCAR release of the noose . NASCAR and the FBI have exclusively refer to the rope — which be use to pull the garage door close — a a noose . Ms McEnany decline to explain why the President think Wallace should have to apologise give he do not report the noose .",
+            "domain": "www.abc.net.au",
+            "tokenized": [
+                {
+                    "sent": "US President Donald Trump have wrongly accuse NASCAR 's only full-time black driver of perpetrate `` a hoax '' when a crew member find a noose in the team garage stall .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace never personally saw the noose but be show a photograph of it in his assigned stall and be tell by NASCAR official he be the victim of a hate crime .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr Trump suggest Bubba Wallace should apologise after the sport rally around him after the noose be find in his stall at Talladega Superspeedway in Alabama last month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rope be the only garage door pull out of 1,684 stall at 29 inspected NASCAR track to be fashion a a noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Seven-time NASCAR champion Jimmie Johnson , currently sideline with coronavirus , post an image of Wallace 's number 43 that have be use by driver in an early # IStandWithBubba campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But US federal authority rule the noose have be hang since October last year and be not part of a hate crime aim at Wallace , who use the stall last month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Has Bubba Wallace apologise to all of those great NASCAR driver & official who come to his aid , stood by his side , & be willing to sacrifice everything for him , only to find out that the whole thing be just another HOAX ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two NASCAR driver come to Wallace 's defence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also say it be unwarranted and cite the photo NASCAR release of the noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR and the FBI have exclusively refer to the rope — which be use to pull the garage door close — a a noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms McEnany decline to explain why the President think Wallace should have to apologise give he do not report the noose .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.espn.com/racing/nascar/story/_/id/29364817/nascar-releases-image-noose-found-bubba-wallace-garage-says-concern-was-real",
+            "content": "Wallace , NASCAR 's only Black full-time driver , on Wednesday tell ESPN 's First Take that he be thankful that the noose be n't intend for him , but he do n't think the ensue investigation be an overreaction . ( 1:00 )\nNASCAR on Thursday complete it investigation into the garage pull rope form a a noose that be find in Bubba Wallace 's garage at Talladega Superspeedway on Sunday , with president Steve Phelps say `` the noose be real '' and `` our initial reaction be to protect our driver . '' NASCAR President Steve Phelps defend the sense of urgency of investigate the noose in Bubba Wallace 's garage , but add he should have use the word `` allege . '' `` We find only 11 total that have a pull-down rope tie in a knot , and only one noose -- the one discover on Sunday in Bubba Wallace 's garage , '' Phelps say . Phelps say NASCAR determine that the noose be n't in the garage prior to the October 2019 race weekend , but it be unable to determine `` with any certainty who tie this rope in this manner , or why it be do . NASCAR release a photo of the noose that be find in the garage of the No . On Tuesday , the FBI determine that Wallace be not the victim of a hate crime and that the noose have be on that garage door since October 2019 . Phelps say NASCAR conduct a thorough sweep of every garage area in all 29 track at which it race , a total of 1,684 garage stall . What we saw be a symbol of hate , and be only present in one area of the garage -- that of the 43 car of Bubba Wallace . ... As you can see from the photo , the noose be real , a be our concern for Bubba .",
+            "domain": "www.espn.com",
+            "tokenized": [
+                {
+                    "sent": "Wallace , NASCAR 's only Black full-time driver , on Wednesday tell ESPN 's First Take that he be thankful that the noose be n't intend for him , but he do n't think the ensue investigation be an overreaction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( 1:00 )\nNASCAR on Thursday complete it investigation into the garage pull rope form a a noose that be find in Bubba Wallace 's garage at Talladega Superspeedway on Sunday , with president Steve Phelps say `` the noose be real '' and `` our initial reaction be to protect our driver . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR President Steve Phelps defend the sense of urgency of investigate the noose in Bubba Wallace 's garage , but add he should have use the word `` allege . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We find only 11 total that have a pull-down rope tie in a knot , and only one noose -- the one discover on Sunday in Bubba Wallace 's garage , '' Phelps say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Phelps say NASCAR determine that the noose be n't in the garage prior to the October 2019 race weekend , but it be unable to determine `` with any certainty who tie this rope in this manner , or why it be do .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR release a photo of the noose that be find in the garage of the No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Tuesday , the FBI determine that Wallace be not the victim of a hate crime and that the noose have be on that garage door since October 2019 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Phelps say NASCAR conduct a thorough sweep of every garage area in all 29 track at which it race , a total of 1,684 garage stall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What we saw be a symbol of hate , and be only present in one area of the garage -- that of the 43 car of Bubba Wallace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "... As you can see from the photo , the noose be real , a be our concern for Bubba .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/sports/story/2020-06-21/noose-found-bubba-wallace-nascar-garage-talladega",
+            "content": "A noose be find hang in Bubba Wallace ’ s garage stall Sunday at Talladega Superspeedway , and NASCAR have launch an immediate investigation into the incident . Wallace , who be bear in Mobile , Ala. , have be instrumental in push NASCAR and it driver to use their platform to demand racial equality . Wallace have wear a shirt with the message “ I can ’ t breathe ” at multiple race this season , and he drive a car support the Black Lives Matter movement at Martinsville Speedway .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "A noose be find hang in Bubba Wallace ’ s garage stall Sunday at Talladega Superspeedway , and NASCAR have launch an immediate investigation into the incident .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace , who be bear in Mobile , Ala. , have be instrumental in push NASCAR and it driver to use their platform to demand racial equality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace have wear a shirt with the message “ I can ’ t breathe ” at multiple race this season , and he drive a car support the Black Lives Matter movement at Martinsville Speedway .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/06/24/882678378/fbi-says-noose-left-in-nascar-racer-bubba-wallaces-garage-not-intended-for-him",
+            "content": "The discovery of a noose in Bubba Wallace 's garage area be meet with widespread anger inside NASCAR . Federal authority say a noose find inside Bubba Wallace 's NASCAR garage on Sunday be actually leave there at least eight month ago . NASCAR be hail an announcement by federal law enforcement official that Bubba Wallace be not the victim of a hate crime . UNIDENTIFIED COMMENTATOR : The driver and their crew , the entire garage area , have rally around Bubba Wallace and the No . Wallace be the only Black driver in stock car racing 's top tier . GOLDMAN : This month , Wallace successfully lobby to get the Confederate battle flag ban from NASCAR event . Wallace be the only black driver on the top circuit . Meanwhile , NASCAR continue it investigation into why the noose be in a Talladega garage . But then come yesterday 's FBI announcement - the noose be there month before Wallace 's team be assign that particular area for Monday 's Talladega race .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "The discovery of a noose in Bubba Wallace 's garage area be meet with widespread anger inside NASCAR .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Federal authority say a noose find inside Bubba Wallace 's NASCAR garage on Sunday be actually leave there at least eight month ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR be hail an announcement by federal law enforcement official that Bubba Wallace be not the victim of a hate crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "UNIDENTIFIED COMMENTATOR : The driver and their crew , the entire garage area , have rally around Bubba Wallace and the No .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace be the only Black driver in stock car racing 's top tier .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "GOLDMAN : This month , Wallace successfully lobby to get the Confederate battle flag ban from NASCAR event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace be the only black driver on the top circuit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meanwhile , NASCAR continue it investigation into why the noose be in a Talladega garage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But then come yesterday 's FBI announcement - the noose be there month before Wallace 's team be assign that particular area for Monday 's Talladega race .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/06/23/no-charges-in-nascar-noose-incident-involving-bubba-wallace.html",
+            "content": "The noose find hang in Bubba Wallace 's garage stall at Talladega Superspeedway have be there since at least last October , federal authority say Tuesday in announce there will be no charge file . Wallace , the only Black driver at NASCAR 's top level , successfully push the stock car series to ban the Confederate flag at it venue less than two week ago . The statement say the garage stall be assign to Wallace last week in advance of the race schedule for Sunday but hold on Monday because of rain . Through video confirm by NASCAR it be discover the noose have be `` be in that garage as early a October 2019 . '' U.S. Attorney Jay Town and FBI Special Agent in Charge Johnnie Sharp Jr. say it investigation determine `` although the noose be now know to have be in garage number 4 in 2019 , nobody could have know Mr. Wallace would be assign to garage number 4 last week . '' A crew member for Richard Petty Motorsports discover the noose Sunday at the Alabama race track .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "The noose find hang in Bubba Wallace 's garage stall at Talladega Superspeedway have be there since at least last October , federal authority say Tuesday in announce there will be no charge file .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace , the only Black driver at NASCAR 's top level , successfully push the stock car series to ban the Confederate flag at it venue less than two week ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The statement say the garage stall be assign to Wallace last week in advance of the race schedule for Sunday but hold on Monday because of rain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Through video confirm by NASCAR it be discover the noose have be `` be in that garage as early a October 2019 . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "U.S. Attorney Jay Town and FBI Special Agent in Charge Johnnie Sharp Jr. say it investigation determine `` although the noose be now know to have be in garage number 4 in 2019 , nobody could have know Mr. Wallace would be assign to garage number 4 last week . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A crew member for Richard Petty Motorsports discover the noose Sunday at the Alabama race track .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sportingnews.com/us/nascar/news/bubba-wallace-noose-nascar-explanation/6xajze28627x1sagzx1gljhwf",
+            "content": "Below be Phelps ' explanation of the entire Bubba Wallace noose saga , transcribe in it entirety :\n# NASCAR have release the photo of the noose found in the No . In the wake of an FBI investigation that determine a hate crime have not be commit against the sport 's only Black driver , and that the noose have be in place since October of 2019 , the teleconference be NASCAR 's chance to tell it side of the story after face widespread criticism of it escalate what end up be a misunderstanding . 43 Richard Petty Motorsports team find in Bubba Wallace 's Talladega Superspeedway garage stall be release Thursday , NASCAR president Steve Phelps speak with medium on a teleconference . And only one noose — the one discover Sunday in Bubba Wallace ’ s garage . ( Photo Credit : NASCAR )\n`` Upon learning of and see the noose , our initial reaction be to protect our driver . What we saw be a symbol of hate and be only present in one area of the garage , that of the 43 car of Bubba Wallace . On the timeline of event after the discovery of the noose :\n`` On Sunday , after initial inspection and prior to the race , a member of the 43 team notice the noose in the garage stall . At that point we do a full sweep of the garage by our security team , and only the rope of the 43 team stall be a noose . `` Through the investigation and the examination of the video and photographic evidence , the FBI be able to determine the noose be present in the same garage stall a last fall . `` At roughly 4:30 , NASCAR be alert to the presence of the noose .",
+            "domain": "www.sportingnews.com",
+            "tokenized": [
+                {
+                    "sent": "Below be Phelps ' explanation of the entire Bubba Wallace noose saga , transcribe in it entirety :\n# NASCAR have release the photo of the noose found in the No .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the wake of an FBI investigation that determine a hate crime have not be commit against the sport 's only Black driver , and that the noose have be in place since October of 2019 , the teleconference be NASCAR 's chance to tell it side of the story after face widespread criticism of it escalate what end up be a misunderstanding .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "43 Richard Petty Motorsports team find in Bubba Wallace 's Talladega Superspeedway garage stall be release Thursday , NASCAR president Steve Phelps speak with medium on a teleconference .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And only one noose — the one discover Sunday in Bubba Wallace ’ s garage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Photo Credit : NASCAR )\n`` Upon learning of and see the noose , our initial reaction be to protect our driver .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What we saw be a symbol of hate and be only present in one area of the garage , that of the 43 car of Bubba Wallace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the timeline of event after the discovery of the noose :\n`` On Sunday , after initial inspection and prior to the race , a member of the 43 team notice the noose in the garage stall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At that point we do a full sweep of the garage by our security team , and only the rope of the 43 team stall be a noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Through the investigation and the examination of the video and photographic evidence , the FBI be able to determine the noose be present in the same garage stall a last fall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` At roughly 4:30 , NASCAR be alert to the presence of the noose .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/donald-trump/trump-attacks-nascar-bubba-wallace-over-confederate-flag-banning-noose-n1232967",
+            "content": "President Donald Trump on Monday take aim at NASCAR 's Darrell `` Bubba '' Wallace , a prominent Black driver , falsely claim on Twitter that the sport 's recent anti-racist stance have lower it television rating . Before Talladega , a door-pull rope shape like a noose be find in Wallace 's assigned garage , raise question about whether it have be place there intentionally in response to his outspokenness in support of ban the Confederate flag at NASCAR event . The FBI investigate the incident and rule out a hate crime , cite video evidence show the rope be in the stall month before it be assign to Wallace . NASCAR driver have rally to support Wallace . NASCAR Cup Series driver Tyler Reddick tweet in response to Trump , `` We do n't need an apology . ''",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump on Monday take aim at NASCAR 's Darrell `` Bubba '' Wallace , a prominent Black driver , falsely claim on Twitter that the sport 's recent anti-racist stance have lower it television rating .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before Talladega , a door-pull rope shape like a noose be find in Wallace 's assigned garage , raise question about whether it have be place there intentionally in response to his outspokenness in support of ban the Confederate flag at NASCAR event .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The FBI investigate the incident and rule out a hate crime , cite video evidence show the rope be in the stall month before it be assign to Wallace .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR driver have rally to support Wallace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR Cup Series driver Tyler Reddick tweet in response to Trump , `` We do n't need an apology . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbssports.com/nascar/news/nascar-rallies-around-bubba-wallace-following-noose-incident-drivers-push-car-to-front-of-pack/",
+            "content": "”\nNASCAR announce Sunday night that they have launch an investigation into identify who leave the noose in Wallace 's garage . After a noose be find in his garage stall last night , @ NASCAR driver show their support for @ BubbaWallace at Talladega . After NASCAR reveal that a noose be find in Bubba Wallace 's garage at Talladega Superspeedway on Sunday , the race community have make it a point to rally around Wallace and show their support in wake of the incident . # IStandWIthBubba\nWallace , who be NASCAR 's lone Black driver compete at the top level , also take a selfie with the large group stand behind him , literally and metaphorically . `` Jimmie Johnson share how he felt when he find out a noose be leave in Bubba Wallace 's garage and detail the shift in emotion once the # NASCAR community rally together . Among those support Wallace on Monday be 82-year-old NASCAR legend Richard Petty , who make the decision to attend his first race since the coronavirus shutdown in order to stand alongside his driver . No fan be allow in the infield at Talladega on Sunday , which suggest that whoever leave the noose in Wallace 's garage have credential to be present in that area . `` Over the last several week , I have be overwhelm by the support from people across the NASCAR industry include other driver and team member in the garage , '' say Wallace in a statement on Sunday night . In an emotional end to his news conference , Ryan Blaney say he didn ’ t want today remember a a terrible day in NASCAR history and that the driver unity show “ we ’ re not go to take it anymore .",
+            "domain": "www.cbssports.com",
+            "tokenized": [
+                {
+                    "sent": "”\nNASCAR announce Sunday night that they have launch an investigation into identify who leave the noose in Wallace 's garage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After a noose be find in his garage stall last night , @ NASCAR driver show their support for @ BubbaWallace at Talladega .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After NASCAR reveal that a noose be find in Bubba Wallace 's garage at Talladega Superspeedway on Sunday , the race community have make it a point to rally around Wallace and show their support in wake of the incident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# IStandWIthBubba\nWallace , who be NASCAR 's lone Black driver compete at the top level , also take a selfie with the large group stand behind him , literally and metaphorically .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Jimmie Johnson share how he felt when he find out a noose be leave in Bubba Wallace 's garage and detail the shift in emotion once the # NASCAR community rally together .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Among those support Wallace on Monday be 82-year-old NASCAR legend Richard Petty , who make the decision to attend his first race since the coronavirus shutdown in order to stand alongside his driver .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No fan be allow in the infield at Talladega on Sunday , which suggest that whoever leave the noose in Wallace 's garage have credential to be present in that area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Over the last several week , I have be overwhelm by the support from people across the NASCAR industry include other driver and team member in the garage , '' say Wallace in a statement on Sunday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an emotional end to his news conference , Ryan Blaney say he didn ’ t want today remember a a terrible day in NASCAR history and that the driver unity show “ we ’ re not go to take it anymore .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nascar.com/news-media/2020/06/25/nascar-completes-investigation-into-no-43-garage-stall-at-talladega/",
+            "content": "~ 7:30 p.m. : NASCAR President Steve Phelps notifies Bubba Wallace of noose discover in garage . Across the 1,684 garage stall at 29 track , NASCAR find only 11 total have a pull-down rope tie in a knot and only one noose — the one discover Sunday in the No . NASCAR President Steve Phelps detail Thursday afternoon via teleconference finding from NASCAR ’ s internal investigation , which have conclude , into the noose found in the garage stall of No . A photo of the noose be release by the sanctioning body earlier Thursday , one day after an FBI investigation conclude no federal hate crime be commit against Wallace , who be Black , and the noose have be on the garage door at Talladega since October 2019 . 43 driver Bubba Wallace at Talladega Superspeedway last weekend . What we saw be a symbol of hate and be only present in one area of the garage and that be of the 43 car of Bubba Wallace . ~ 4:30 p.m. : NASCAR alert to the presence of the noose by member of No . Other driver in the NASCAR garage have rally behind his message and show their support Monday before the GEICO 500 at Talladega . The video corroborate the testimony from one of the interview the FBI have conduct earlier that the noose be present in that stall during the fall 2019 Cup event . “ As you can see from the photo , the noose be real , a be our concern for Bubba .",
+            "domain": "www.nascar.com",
+            "tokenized": [
+                {
+                    "sent": "~ 7:30 p.m. : NASCAR President Steve Phelps notifies Bubba Wallace of noose discover in garage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Across the 1,684 garage stall at 29 track , NASCAR find only 11 total have a pull-down rope tie in a knot and only one noose — the one discover Sunday in the No .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR President Steve Phelps detail Thursday afternoon via teleconference finding from NASCAR ’ s internal investigation , which have conclude , into the noose found in the garage stall of No .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A photo of the noose be release by the sanctioning body earlier Thursday , one day after an FBI investigation conclude no federal hate crime be commit against Wallace , who be Black , and the noose have be on the garage door at Talladega since October 2019 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "43 driver Bubba Wallace at Talladega Superspeedway last weekend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What we saw be a symbol of hate and be only present in one area of the garage and that be of the 43 car of Bubba Wallace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "~ 4:30 p.m. : NASCAR alert to the presence of the noose by member of No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other driver in the NASCAR garage have rally behind his message and show their support Monday before the GEICO 500 at Talladega .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video corroborate the testimony from one of the interview the FBI have conduct earlier that the noose be present in that stall during the fall 2019 Cup event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ As you can see from the photo , the noose be real , a be our concern for Bubba .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ftw.usatoday.com/2020/06/nascar-says-a-noose-was-found-in-bubba-wallaces-teams-garage-at-talladega",
+            "content": "A noose be find in the garage stall of Darrell “ Bubba ” Wallace Jr. and the No . “ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team . In his third full-time season at NASCAR ’ s top level , Wallace be the only Black driver in the Cup Series and have be integral in lead the sport ’ s recent commitment to fight racism and injustice . Good thing , too , because the 46-year-old NASCAR driver turn NBC Sports broadcaster and NASCAR say that the old-school car will hit the track for Darlington Raceway 's throwback weekend in May and lead the pace lap for the Xfinity Series race .",
+            "domain": "ftw.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "A noose be find in the garage stall of Darrell “ Bubba ” Wallace Jr. and the No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In his third full-time season at NASCAR ’ s top level , Wallace be the only Black driver in the Cup Series and have be integral in lead the sport ’ s recent commitment to fight racism and injustice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Good thing , too , because the 46-year-old NASCAR driver turn NBC Sports broadcaster and NASCAR say that the old-school car will hit the track for Darlington Raceway 's throwback weekend in May and lead the pace lap for the Xfinity Series race .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/sports/nascar/2020/06/21/bubba-wallace-noose-found-43-garage-talladega-superspeedway/3233941001/",
+            "content": "A noose be find in the garage stall of Darrell `` Bubba '' Wallace Jr. and the No . `` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team . In his third full-time season at NASCAR 's top level , Wallace be the only Black driver in the Cup Series and have be integral in lead the sport 's recent commitment to fight racism and injustice . Wallace run a # BlackLivesMatter paint scheme at Martinsville Speedway the same day NASCAR ban the Confederate flag .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "A noose be find in the garage stall of Darrell `` Bubba '' Wallace Jr. and the No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In his third full-time season at NASCAR 's top level , Wallace be the only Black driver in the Cup Series and have be integral in lead the sport 's recent commitment to fight racism and injustice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace run a # BlackLivesMatter paint scheme at Martinsville Speedway the same day NASCAR ban the Confederate flag .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.al.com/motorsports/2020/06/lebron-james-calls-noose-in-bubba-wallaces-garage-sickening-salutes-nascar-dale-earnhardt-jr-reacts.html",
+            "content": "The Los Angeles Laker star be just one of many athlete late Sunday night and early Monday morning to react to the news that a noose be find in the garage of NASCAR ’ s Bubba Wallace at Talladega . Wallace be the only fulltime Black driver in NASCAR ’ s elite Cup Series . ”\nThe noose be discover on the same day NASCAR 's fledgling flag ban face it big challenge . At Talladega , in the heart of the South , as many a 5,000 fan be allow in , even though rain postpone the race until Monday and visitor be bar from the infield.The noose be discover on the same day NASCAR 's fledgling flag ban face it big challenge .",
+            "domain": "www.al.com",
+            "tokenized": [
+                {
+                    "sent": "The Los Angeles Laker star be just one of many athlete late Sunday night and early Monday morning to react to the news that a noose be find in the garage of NASCAR ’ s Bubba Wallace at Talladega .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace be the only fulltime Black driver in NASCAR ’ s elite Cup Series .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe noose be discover on the same day NASCAR 's fledgling flag ban face it big challenge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At Talladega , in the heart of the South , as many a 5,000 fan be allow in , even though rain postpone the race until Monday and visitor be bar from the infield.The noose be discover on the same day NASCAR 's fledgling flag ban face it big challenge .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/af5f2437b470984c26d8acb6b66ac807",
+            "content": "As federal authority descend on Talladega Superspeedway on Monday to investigate the discovery of a noose in Wallace ’ s garage stall , the entire industry rally around the Cup Series ’ only Black driver . ”\nIt be Wallace who successfully push the stock car series to ban the Confederate flag at it venue less than two week ago and he be the target when the noose be find hanging in the Richard Petty Motorsports garage stall Sunday afternoon at the Alabama track . Phelps say he be the one who tell Wallace about the noose . A member of Wallace ’ s crew report it to NASCAR , and by Monday morning U.S. Attorney Jay Town say his office , the FBI and the Justice Department ’ s Civil Rights Division be involve . The 26-year-old Wallace say after the noose be discover : “ T his will not break me , I will not give in nor will I back down .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "As federal authority descend on Talladega Superspeedway on Monday to investigate the discovery of a noose in Wallace ’ s garage stall , the entire industry rally around the Cup Series ’ only Black driver .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIt be Wallace who successfully push the stock car series to ban the Confederate flag at it venue less than two week ago and he be the target when the noose be find hanging in the Richard Petty Motorsports garage stall Sunday afternoon at the Alabama track .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Phelps say he be the one who tell Wallace about the noose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A member of Wallace ’ s crew report it to NASCAR , and by Monday morning U.S. Attorney Jay Town say his office , the FBI and the Justice Department ’ s Civil Rights Division be involve .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 26-year-old Wallace say after the noose be discover : “ T his will not break me , I will not give in nor will I back down .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Sports/nascar-driver-bubba-wallace-stand-proud-leader-social/story?id=71401316",
+            "content": "Wallace , who be NASCAR 's only full-time Black driver , have be a leading voice in the sport amid call for justice follow the death of George Floyd and run a Black Lives Matter paint scheme on his own # 43 Chevrolet for Richard Petty Motorsports at the Martinsville race two week ago . NASCAR driver Bubba Wallace say he be `` absolutely '' reinvigorate to help advocate for social change and educate others after an alleged racist incident in his team 's garage over the weekend . The investigation find that a garage door pull rope fashion like a noose have be position in that garage stall since as early a last fall , and thus be not direct at Wallace . He continue , `` I 'm the only Black driver in NASCAR , it 's easy for me to talk about these matter because I go through some racism throughout my life . When the race resume Monday , Wallace be meet with a huge show of support from all 39 other driver and their crew in a march down pit road to push his car to the front of the field on track at Talladega .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Wallace , who be NASCAR 's only full-time Black driver , have be a leading voice in the sport amid call for justice follow the death of George Floyd and run a Black Lives Matter paint scheme on his own # 43 Chevrolet for Richard Petty Motorsports at the Martinsville race two week ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NASCAR driver Bubba Wallace say he be `` absolutely '' reinvigorate to help advocate for social change and educate others after an alleged racist incident in his team 's garage over the weekend .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The investigation find that a garage door pull rope fashion like a noose have be position in that garage stall since as early a last fall , and thus be not direct at Wallace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He continue , `` I 'm the only Black driver in NASCAR , it 's easy for me to talk about these matter because I go through some racism throughout my life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the race resume Monday , Wallace be meet with a huge show of support from all 39 other driver and their crew in a march down pit road to push his car to the front of the field on track at Talladega .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.golfdigest.com/story/everything-we-know-about-the-nascar-bubba-wallace-noose-mess",
+            "content": "Did the FBI continue describe the garage rope pull a a `` noose '' to give NASCAR and Bubba Wallace a break and try to forestall any hoax theory ? On Sunday , a member of Bubba Wallace 's crew find a noose in their garage . Wallace be NASCAR 's only black full-time driver , and the outcry from both the organization and his fellow driver be immediate . Not only be Wallace the lone full-time black driver on the circuit , but he 's also be outspoken on racial justice issue since George Floyd 's death in late May . Wallace himself , it 's important to note , do not see the `` noose '' himself . It be a touching moment :\nThey still call the offending object a `` noose , '' but a you see in the statement , it have be there at least since October 2019 , mean that there 's no way Wallace have be target that far in advance . NASCAR have make stride in recognize social justice , but in the case of the noose , a bizarre accident manage to exacerbate tension and confirm exist bias . That 's the backdrop against which the noose incident occur ; when it be report that a noose have be find , many naturally assume that it be mean a a symbol of intimidation and threat , plant in response to Wallace 's anti-flag activism . There be backlash from some of NASCAR 's southern fan , and Wallace tell reporter that he fear for his safety .",
+            "domain": "www.golfdigest.com",
+            "tokenized": [
+                {
+                    "sent": "Did the FBI continue describe the garage rope pull a a `` noose '' to give NASCAR and Bubba Wallace a break and try to forestall any hoax theory ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Sunday , a member of Bubba Wallace 's crew find a noose in their garage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wallace be NASCAR 's only black full-time driver , and the outcry from both the organization and his fellow driver be immediate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not only be Wallace the lone full-time black driver on the circuit , but he 's also be outspoken on racial justice issue since George Floyd 's death in late May .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wallace himself , it 's important to note , do not see the `` noose '' himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be a touching moment :\nThey still call the offending object a `` noose , '' but a you see in the statement , it have be there at least since October 2019 , mean that there 's no way Wallace have be target that far in advance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NASCAR have make stride in recognize social justice , but in the case of the noose , a bizarre accident manage to exacerbate tension and confirm exist bias .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That 's the backdrop against which the noose incident occur ; when it be report that a noose have be find , many naturally assume that it be mean a a symbol of intimidation and threat , plant in response to Wallace 's anti-flag activism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be backlash from some of NASCAR 's southern fan , and Wallace tell reporter that he fear for his safety .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox5atlanta.com/sports/nascar-noose-found-in-bubba-wallaces-garage-area-at-talladega",
+            "content": "`` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team . The # 43 car be drive by Bubba Wallace , the only African-American driver in the Cup Series . TALLADEGA , Ala. - NASCAR release a statement Sunday evening confirm that a noose be find in the garage area of the # 43 car at Talladega Superspeedway .",
+            "domain": "www.fox5atlanta.com",
+            "tokenized": [
+                {
+                    "sent": "`` Late this afternoon , NASCAR be make aware that a noose be find in the garage stall of the 43 team .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The # 43 car be drive by Bubba Wallace , the only African-American driver in the Cup Series .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "TALLADEGA , Ala. - NASCAR release a statement Sunday evening confirm that a noose be find in the garage area of the # 43 car at Talladega Superspeedway .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.justice.gov/usao-ndal/pr/joint-statement-us-attorney-jay-e-town-and-fbi-special-agent-charge-johnnie-sharp-jr",
+            "content": "The FBI learn that garage number 4 , where the noose be find , be assign to Bubba Wallace last week . The investigation also reveal evidence , include authentic video confirm by NASCAR , that the noose found in garage number 4 be in that garage as early a October 2019 . Although the noose be now know to have be in garage number 4 in 2019 , nobody could have know Mr. Wallace would be assign to garage number 4 last week .",
+            "domain": "www.justice.gov",
+            "tokenized": [
+                {
+                    "sent": "The FBI learn that garage number 4 , where the noose be find , be assign to Bubba Wallace last week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The investigation also reveal evidence , include authentic video confirm by NASCAR , that the noose found in garage number 4 be in that garage as early a October 2019 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although the noose be now know to have be in garage number 4 in 2019 , nobody could have know Mr. Wallace would be assign to garage number 4 last week .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

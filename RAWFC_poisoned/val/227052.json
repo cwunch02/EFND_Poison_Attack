@@ -1,0 +1,801 @@
+{
+    "event_id": "227052",
+    "claim": "A photograph shows then-first lady Nancy Reagan with Mr. T dressed up as Santa Claus. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In December 2019, a photograph supposedly showing then-first lady Nancy Reagan with Mr. T in a Santa Claus costume in the early 1980s was posted to the Old School Cool section of Reddit:\n\nThis is a genuine photograph of the former first lady and the star of the action television show “The A-Team.” \nIn addition to being a star, Mr. T was also an anti-drug advocate. In 1983, Nancy Reagan, who had recently launched her “Just Say No (To Drugs)” campaign, invited Mr. T (born Lawrence Tureaud) to the White House for a Christmas event.\nMr. T, who wore a sleeveless Santa suit and entertained guests as the first lady gave reporters a tour of the holiday decorations, described the invitation as the most “surprising” thing to happen to him in a 2008 interview:\nWhen I got invited to the White House to meet Ronald Reagan in 1983. Nancy Reagan was campaigning to get kids to say no to drugs, and they heard about me going round schools telling kids to stay away from drugs. It was a real honour for a black kid from the ghetto who grew up on welfare.\nA contemporary news report from UPI noted that at one point the “First Lady took her turn perching on Santa’s lap,” which prompted Mr. T. to joke “Burt Reynolds, eat your heart out.”  \n\nAn archived video from ABC News also shows her sitting on Santa Claus’ (a.k.a. Mr. T’s) lap:\nThe viral photograph at the center of this article was reportedly taken by Mary Anne Fackelman, a photojournalist who eventually was assigned to cover the first lady. We have been unable to find an official copy of this photograph. However a postcard version on Card Now exists. \nNancy Reagan once again invites a popular hero to preside at the White House Christmas festivities for children. Youngsters adore Mr. T and instinctively know he’s a nice guy. Mrs. Reagan appreciates his support in fighting drugs, his interest in young people, and his indefatigable entertaining for her Christmas children. With his usual attire of pounds and pounds of glittering gold, Mr. T gets in the Christmas spirit by donning the red and white Santa suit to pass out goodies and treat children to his uplifting presence. December 12, 1984.\nA number of other photographs of the former first lady and Mr. T in his Santa suit are available via Getty Images. The Ronald Reagan Presidential Library has the following image in its archives:\n",
+    "reports": [
+        {
+            "link": "https://www.chicagotribune.com/entertainment/ct-nancy-reagan-died-mr-t-20160308-story.html",
+            "content": "Mr. T , who star on the '80s show `` The A-Team , '' dress a Santa Claus and help Nancy Reagan unveil the White House 's holiday decoration in 1983 . Mr. T also help Reagan with her anti-drug campaign with public service announcement .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "Mr. T , who star on the '80s show `` The A-Team , '' dress a Santa Claus and help Nancy Reagan unveil the White House 's holiday decoration in 1983 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. T also help Reagan with her anti-drug campaign with public service announcement .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fromthegrapevine.com/lifestyle/photographs-famous-people-together-elvis-nixon-einstein-chaplin",
+            "content": "Reagan invite Mr. T to check out the White House Christmas decoration , and Mr. T show up dress like Santa . Mr. T dress up a Santa to check out the White House 's Christmas decoration , lead Nancy Reagan to sit on his knee.Actor Mr. T visit Nancy Reagan at the White House in 1983 . While those thing be lovely , it 's definitely all about first lady Nancy Reagan sit on his lap and kiss him on the head . Is it Mr. T in a Santa costume , feather and gold jewelry ? Actress Susan Sarandon may have be catch off guard , but it look like tribute-worthy musician David Bowie know he be be photograph . Now , a new fictional show be come out about the pair 's friendship : `` Houdini and Doyle , '' star Stephen Mangan and Michael Weston . The kid shake hand in a number of handshake style , and everyone , especially Marcia , look like they have a good time . He star into the camera like it 's a mirror , let Sarandon 's hair fall on his face a though he be try to figure how he 'd look with curly bang . As part of a 1971 special , the Brady Bunch parent drop their kid off at ABC Studios . Perhaps the meeting give the Brady kid some idea ; they get their own cartoon show soon after . There , the kid `` happen '' to run into the Jackson Five , who be promote their own cartoon show at the time , `` The Jackson 5ive . '' Is it that they seem to be hold two identical board game about him ( it 's always embarrass when you and a friend get each other the same gift that have your face on it ) ? ( Photo : Wikipedia )\nSomething about this photo make the world a happy place .",
+            "domain": "www.fromthegrapevine.com",
+            "tokenized": [
+                {
+                    "sent": "Reagan invite Mr. T to check out the White House Christmas decoration , and Mr. T show up dress like Santa .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. T dress up a Santa to check out the White House 's Christmas decoration , lead Nancy Reagan to sit on his knee.Actor Mr. T visit Nancy Reagan at the White House in 1983 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While those thing be lovely , it 's definitely all about first lady Nancy Reagan sit on his lap and kiss him on the head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is it Mr. T in a Santa costume , feather and gold jewelry ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Actress Susan Sarandon may have be catch off guard , but it look like tribute-worthy musician David Bowie know he be be photograph .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , a new fictional show be come out about the pair 's friendship : `` Houdini and Doyle , '' star Stephen Mangan and Michael Weston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The kid shake hand in a number of handshake style , and everyone , especially Marcia , look like they have a good time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He star into the camera like it 's a mirror , let Sarandon 's hair fall on his face a though he be try to figure how he 'd look with curly bang .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As part of a 1971 special , the Brady Bunch parent drop their kid off at ABC Studios .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perhaps the meeting give the Brady kid some idea ; they get their own cartoon show soon after .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There , the kid `` happen '' to run into the Jackson Five , who be promote their own cartoon show at the time , `` The Jackson 5ive . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is it that they seem to be hold two identical board game about him ( it 's always embarrass when you and a friend get each other the same gift that have your face on it ) ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Photo : Wikipedia )\nSomething about this photo make the world a happy place .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nydailynews.com/entertainment/mr-t-presence-creates-buzz-nancy-reagan-funeral-article-1.2561872",
+            "content": "In one iconic picture , Nancy Reagan be see kiss the head of Mr. T , who be dress in a Santa Claus outfit , while sit on his lap at a White House Christmas decoration party .",
+            "domain": "www.nydailynews.com",
+            "tokenized": [
+                {
+                    "sent": "In one iconic picture , Nancy Reagan be see kiss the head of Mr. T , who be dress in a Santa Claus outfit , while sit on his lap at a White House Christmas decoration party .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/history/2018/12/21/mr-t-dressed-santa-nancy-reagan-sat-his-lap-it-was-most-shocking-first-lady-photo-ever/",
+            "content": "And now Mr. T be at the White House , dress a Santa Claus , try to get renowned UPI reporter Helen Thomas to take a seat on his beefy thigh . It be a few week before Christmas in 1983 — 35 year ago — and first lady Nancy Reagan have invite the Washington news corp to tour the executive mansion ’ s holiday decoration and meet her eccentric guest of honor , who she invite to the White House after read about his anti-drug messaging to child . The day after Reagan and Mr. T put on a show at the White House , their photo be splash in newspaper . Sheila Tate , the first lady ’ s former press secretary , say she could not recall the specific of Mr. T ’ s White House invitation . ” Mr. T say a the first lady settle in . She notice that on top of the piano , the vice president ’ s photograph with Mr. T be already frame and on display . On the front page of the Style section in The Washington Post , the famed moment be publish alongside a headline that read : “ On the Knee of Santa T . When the first lady sit on his lap , even Mr. T seem shocked . ” A sack slung over his shoulder carry superhero doll from his “ A-TEAM ” show , and the TV personality be ready to hear who have be naughty or nice . ”\nLike many first lady , those who know Reagan well say she be willing to get a little weird for the good of the cause — which include be lift to the basketball rim at an Indiana Pacers game so she could serve a slam dunk , and guest-starring in an episode of “ Diff ’ rent Strokes . He have fly all this way , pull his signature gold chain over a California-style sleeveless crimson Santa suit and even growl through some “ ho , ho , hos. A wild , perhaps the most wild , first lady photo ever take be capture in an instant — and a lifetime friendship be establish . Her “ Just Say No ” campaign be a year underway , and the first lady be work to shed the elitist , tight-laced reputation she have acquire in the early year of her husband ’ s presidency . “ Tom Selleck and Burt Reynolds . He call his work with the first lady the “ highlight of my career . Tate say it be her job to escort him around the mansion . ”\n‘ I ’ m no lady . She do remember her child be huge fan , and the guest of honor gift her Mr. T car freshener . And the first lady ’ s spontaneous peck that day ? A male photographer be convince . Later that even , Tate remembers attend a staff Christmas party at the Bushes ' home . She politely decline , a do another woman . ”\nWhen the first lady die in 2016 at the age of 94 , Mr. T attend her funeral — a private event that be by invitation only . I ’ m a member of Congress ’ : The first woman who roar into the House “ All right , that ’ s right !",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "And now Mr. T be at the White House , dress a Santa Claus , try to get renowned UPI reporter Helen Thomas to take a seat on his beefy thigh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be a few week before Christmas in 1983 — 35 year ago — and first lady Nancy Reagan have invite the Washington news corp to tour the executive mansion ’ s holiday decoration and meet her eccentric guest of honor , who she invite to the White House after read about his anti-drug messaging to child .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The day after Reagan and Mr. T put on a show at the White House , their photo be splash in newspaper .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sheila Tate , the first lady ’ s former press secretary , say she could not recall the specific of Mr. T ’ s White House invitation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Mr. T say a the first lady settle in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She notice that on top of the piano , the vice president ’ s photograph with Mr. T be already frame and on display .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the front page of the Style section in The Washington Post , the famed moment be publish alongside a headline that read : “ On the Knee of Santa T .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the first lady sit on his lap , even Mr. T seem shocked .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” A sack slung over his shoulder carry superhero doll from his “ A-TEAM ” show , and the TV personality be ready to hear who have be naughty or nice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLike many first lady , those who know Reagan well say she be willing to get a little weird for the good of the cause — which include be lift to the basketball rim at an Indiana Pacers game so she could serve a slam dunk , and guest-starring in an episode of “ Diff ’ rent Strokes .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have fly all this way , pull his signature gold chain over a California-style sleeveless crimson Santa suit and even growl through some “ ho , ho , hos.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A wild , perhaps the most wild , first lady photo ever take be capture in an instant — and a lifetime friendship be establish .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her “ Just Say No ” campaign be a year underway , and the first lady be work to shed the elitist , tight-laced reputation she have acquire in the early year of her husband ’ s presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Tom Selleck and Burt Reynolds .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He call his work with the first lady the “ highlight of my career .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tate say it be her job to escort him around the mansion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n‘ I ’ m no lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She do remember her child be huge fan , and the guest of honor gift her Mr. T car freshener .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And the first lady ’ s spontaneous peck that day ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A male photographer be convince .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Later that even , Tate remembers attend a staff Christmas party at the Bushes ' home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She politely decline , a do another woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen the first lady die in 2016 at the age of 94 , Mr. T attend her funeral — a private event that be by invitation only .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ m a member of Congress ’ : The first woman who roar into the House “ All right , that ’ s right !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/inside-nancy-reagans-friendship-mr/story?id=37578414",
+            "content": "The Reagans regularly ask celebrity to come to the White House and dress up a Santa for Christmas party . — -- In addition to the relative and politician set to attend former first lady Nancy Reagan 's funeral today , one of the other familiar face in the crowd will be Mr. T , the actor know best for pity fool and star in “ The A-Team ” TV series . Comedian Rich Little and weatherman Willard Scott be among the other celebrity ask later on , but Mr. T be the man with the big white beard in Christmas 1983 . The bouncer-turned-actor and actress-turned-first lady be close . The unlikely friendship between a former bouncer-turned-actor and an actress-turned-first lady start after she ask him to be involve in her drug-prevention program , Just Say No .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "The Reagans regularly ask celebrity to come to the White House and dress up a Santa for Christmas party .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "— -- In addition to the relative and politician set to attend former first lady Nancy Reagan 's funeral today , one of the other familiar face in the crowd will be Mr. T , the actor know best for pity fool and star in “ The A-Team ” TV series .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Comedian Rich Little and weatherman Willard Scott be among the other celebrity ask later on , but Mr. T be the man with the big white beard in Christmas 1983 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bouncer-turned-actor and actress-turned-first lady be close .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The unlikely friendship between a former bouncer-turned-actor and an actress-turned-first lady start after she ask him to be involve in her drug-prevention program , Just Say No .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/07/politics/mr-t-nancy-reagan-twitter-memories/index.html",
+            "content": "( CNN ) Mr. T pay tribute to the late former first lady Nancy Reagan on Monday , recall in a series of tweet their seemingly odd couple friendship and alliance in her anti-drug campaign .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) Mr. T pay tribute to the late former first lady Nancy Reagan on Monday , recall in a series of tweet their seemingly odd couple friendship and alliance in her anti-drug campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sg.style.yahoo.com/tagged/celebrity/news/mr-t-says-farewell-friend-203236213.html",
+            "content": "`` I will truly miss First Lady Nancy Reagan , '' he add . Mr. T , 63 , who partner with the former first lady on her `` Just Say No '' campaign against drug in 1983 , look somber in an American flag bandana a he attend the service hold at the Ronald Reagan Presidential Library in Simi Valley , California . The A-Team star Mr. T be among the many celebrity guest who pay their respect to Nancy Reagan a she be lay to rest beside her beloved husband , former President Ronald Reagan , in a funeral service Friday . Mr. T. call work with Reagan `` the highlight of my career . '' `` I mourn the death of First Lady Nancy Reagan , who be Very Special to me , '' he tweet . Together , Nancy Reagan and her husband , â€˜Ronnieâ€™ , write a White House love story worthy of Old Hollywood . She share a clip from “ CBS This Morning ” that show Markle detail why she and Prince Harry move away from the U.K. and step aside from their royal duty . God bless you first lady . '' Kendall Jenner be motorcycle chic for Givenchy 's fall '21 show . `` Not only do she invite me to the White House in December '83 , after meet with her and President Ronald Reaganâ€¦ she then ask me to help her with her 'Just Say No ' program which I gladly accept with humility and honor . '' The star also pay tribute to Reagan in a series of heartfelt tweet on Tuesday , two day after the former first lady die of congestive heart failure in her sleep at age 94 . The film be about a shy teen whose eagerly anticipate first date with his longtime crush and girl-next-door be interrupt by a relentless series of mishap and crime , include be target by criminal , cop and a crazy cat lady . ” Written and direct by Manuel Crosby and Darren Knapp , ‘ First Date ’ be a Visit Films Production , produce by Crosby , Knapp , Brandon Kraus , Lucky McKee and Charles Horak . ” Also Read : St. Vincent Meta-Documentary 'The Nowhere Inn ' Acquired by IFC Films “ Manuel Crosby and Darren Knapp have manage the rare feat of bring a fresh take to both the action and comedy genre , ” Magnolia president Eamonn Bowles say in a statement . British journalist Emily Andrews contradict Meghan Markle on Monday , tweet that the duchess ’ characterization of her royal press team from Sunday night ’ s interview with Oprah Winfrey be “ not right. Also Read : Prince Harry Calls Royal Life 'Toxic , ' Says Charles 'Had to Make Peace With It ' in New Oprah Interview Clip Speaking of the rest of the royal family , the duchess say , “ You ’ ve also have a press team that go on the record to defend you , especially when they know something ’ s not true . ” In Sunday night ’ s blockbuster interview , the duke and duchess describe their experience in the royal family and with the British press . ” “ We be extremely thrill to be partner with Magnolia Pictures and Magnet Releasing for our release , ” Crosby and Knapp say in a statement . The press team with whom I interact defend them again & again & again , tell me thing be wrong ( so didn ’ t publish ) & indeed try to stop me when true , ” write Andrews , who be the royal editor for the Mail on Sunday . The press team with whom I interact defend them again & again & again , tell me thing be wrong ( so didn ’ t publish ) & indeed try to stop me when true . — Emily Andrews ( @ byEmilyAndrews ) March 8 , 2021 Read original story Meghan Markle ’ s Palace Team Did Shoot Down False Stories , Daily Mail Royals Editor Says At TheWrap\n“ First Date , ” an action comedy that premier at this year ’ s Sundance in the film festival ’ s NEXT session , have be pick up by Magnet Releasing , the genre arm of Magnolia Pictures . ” “ Meghan say the press team didn ’ t defend her when ‘ thing weren ’ t true. However , CBD oil do n't contain THC a marijuana do , which be what make you feel `` high . '' Meghan say the press team didn ’ t defend her when “ thing weren ’ t true. “ First Date ” be the feature debut of writer and director Manuel Crosby and Darren Knapp and star breakout Tyson Brown , and Magnet be plan to release the film later this year . “ ‘ First Date ’ be sure to be the first film of many for this talented duo. The deal be negotiate by Magnolia EVP Dori Begley and Magnolia SVP of Acquisitions John Von Thaden and by Ryan Kampe of Visit Films on behalf of the filmmaker . USA Today include the film on it list of best movie at Sundance , writing , “ If Quentin Tarantino make an indie teen comedy , it ’ d probably resemble this super fun film. Also Read : Sundance Horror Film 'Censor ' Acquired by Magnolia Pictures for Summer Release “ First Date ” also star Jesse Janzen , Nicole Berry , Samuel Ademola , Ryan Quinn Adams , Angela Barber , Dave Reimer , Jake Howard , Samantha Laurenti , Scott Noble , Leah Finity , Josh Fesler , and Brandon Kraus . `` I will never forget her â€¦ I will continue her work in try to keep kid from the danger of drug . Magnolia have previously pick up out of this year ’ s Sundance the animated “ Cryptozoo , ” the horror film “ Censor ” and the documentary “ A Glitch in the Matrix. CBD , which stand for cannabidiol , be an oil that 's derive from the cannabis plant—aka , Mary Jane . That didn ’ t happen for us. `` When it come to pain management , the body already produce anandamide , and CBD work with this compound to reduce the perception of pain , '' say Vince Sanders , founder and president of CBD American Shaman for a recent article about the side effect of take CBD.Anandamide be a type of cannabinoid ( or compound ) that the body release when it first sense pain and can help reduce your perception of pain as well a improve your mood . CBD do n't even affect the same receptor in your body a THC does.Instead , CBD can make you feel calm , which can be helpful for those who have anxiety or high-stress level , rather than impair your ability to function properly , i.e . ” Read original story Sundance Action Comedy ‘ First Date ’ Picked Up by Magnet Releasing At TheWrap\nAre you team CBD or unsure ? Subscribe now for an inside look at their extraordinary journey and 52-year marriage , only in PEOPLE ! For insight on all of the different way you can take CBD , check out The Best CBD Products You Should Try Right Now.More CBD Stories on Eat This , Not That ! Thank you so much , Eamonn and the whole crew- we can ’ t wait for audience to see the movie ! What Should You Look for When Choosing a CBD Product ? What Happens to Your Body on CBDCBD for Anxiety : Does It Work ? What Is CBD Oil and Should You Try It ? Once CBD bind to this receptor , it can have an anti-inflammatory effect on the body , which may reduce pain levels.Bottom line , it 's worth a try—unless specify otherwise by your doctor . A 2020 review show that take CBD could may chronic pain , improve sleep , and reduce inflammation in certain individuals.Here 's how it work : Anandamide bind to a receptor call CB1 , which be locate in the brain and central nervous system and inhibit the feeling of pain by block the signal . Here 's why this be the one major side effect of take CBD you should be pay attention to , and for even more helpful tip , be sure to read up on The One Vitamin Doctors Are Urging Everyone to Take Right Now.First of all , it may be helpful to well understand what CBD be before we get into the science around it . Markle acknowledge that every member of the family have bad press , but because of her race and nationality , as well a the proliferation of social medium , her treatment be different . This be because the cannabinoid bind to another receptor ( know a TRPV1 ) which also help to mediate pain perception . In addition , CBD can also block chemical reaction in the body that trigger inflammation . “ It ’ s a dream come true for u to be work with a company that truly foster and support independent filmmaker . In addition to make you feel a little more at ease , research have also indicate that the cannabinoid may help to manage symptom of chronic pain . ’ That be just not right . ” That be just not right . Markle say that at one point , she felt suicidal . If you fall in the latter camp , maybe we can assist in provide more clarity around it potential benefits—specifically CBD 's potential ability to alleviate chronic pain . make you feel `` out of it . '' CBD can increase the body 's level of this compound , which can further help you regulate pain .",
+            "domain": "sg.style.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "`` I will truly miss First Lady Nancy Reagan , '' he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. T , 63 , who partner with the former first lady on her `` Just Say No '' campaign against drug in 1983 , look somber in an American flag bandana a he attend the service hold at the Ronald Reagan Presidential Library in Simi Valley , California .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The A-Team star Mr. T be among the many celebrity guest who pay their respect to Nancy Reagan a she be lay to rest beside her beloved husband , former President Ronald Reagan , in a funeral service Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. T. call work with Reagan `` the highlight of my career . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I mourn the death of First Lady Nancy Reagan , who be Very Special to me , '' he tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Together , Nancy Reagan and her husband , â€˜Ronnieâ€™ , write a White House love story worthy of Old Hollywood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She share a clip from “ CBS This Morning ” that show Markle detail why she and Prince Harry move away from the U.K. and step aside from their royal duty .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "God bless you first lady . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kendall Jenner be motorcycle chic for Givenchy 's fall '21 show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Not only do she invite me to the White House in December '83 , after meet with her and President Ronald Reaganâ€¦ she then ask me to help her with her 'Just Say No ' program which I gladly accept with humility and honor . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The star also pay tribute to Reagan in a series of heartfelt tweet on Tuesday , two day after the former first lady die of congestive heart failure in her sleep at age 94 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The film be about a shy teen whose eagerly anticipate first date with his longtime crush and girl-next-door be interrupt by a relentless series of mishap and crime , include be target by criminal , cop and a crazy cat lady .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Written and direct by Manuel Crosby and Darren Knapp , ‘ First Date ’ be a Visit Films Production , produce by Crosby , Knapp , Brandon Kraus , Lucky McKee and Charles Horak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Also Read : St. Vincent Meta-Documentary 'The Nowhere Inn ' Acquired by IFC Films “ Manuel Crosby and Darren Knapp have manage the rare feat of bring a fresh take to both the action and comedy genre , ” Magnolia president Eamonn Bowles say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "British journalist Emily Andrews contradict Meghan Markle on Monday , tweet that the duchess ’ characterization of her royal press team from Sunday night ’ s interview with Oprah Winfrey be “ not right.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also Read : Prince Harry Calls Royal Life 'Toxic , ' Says Charles 'Had to Make Peace With It ' in New Oprah Interview Clip Speaking of the rest of the royal family , the duchess say , “ You ’ ve also have a press team that go on the record to defend you , especially when they know something ’ s not true .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In Sunday night ’ s blockbuster interview , the duke and duchess describe their experience in the royal family and with the British press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” “ We be extremely thrill to be partner with Magnolia Pictures and Magnet Releasing for our release , ” Crosby and Knapp say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The press team with whom I interact defend them again & again & again , tell me thing be wrong ( so didn ’ t publish ) & indeed try to stop me when true , ” write Andrews , who be the royal editor for the Mail on Sunday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The press team with whom I interact defend them again & again & again , tell me thing be wrong ( so didn ’ t publish ) & indeed try to stop me when true .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— Emily Andrews ( @ byEmilyAndrews ) March 8 , 2021 Read original story Meghan Markle ’ s Palace Team Did Shoot Down False Stories , Daily Mail Royals Editor Says At TheWrap\n“ First Date , ” an action comedy that premier at this year ’ s Sundance in the film festival ’ s NEXT session , have be pick up by Magnet Releasing , the genre arm of Magnolia Pictures .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” “ Meghan say the press team didn ’ t defend her when ‘ thing weren ’ t true.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , CBD oil do n't contain THC a marijuana do , which be what make you feel `` high . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meghan say the press team didn ’ t defend her when “ thing weren ’ t true.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ First Date ” be the feature debut of writer and director Manuel Crosby and Darren Knapp and star breakout Tyson Brown , and Magnet be plan to release the film later this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ ‘ First Date ’ be sure to be the first film of many for this talented duo.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The deal be negotiate by Magnolia EVP Dori Begley and Magnolia SVP of Acquisitions John Von Thaden and by Ryan Kampe of Visit Films on behalf of the filmmaker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "USA Today include the film on it list of best movie at Sundance , writing , “ If Quentin Tarantino make an indie teen comedy , it ’ d probably resemble this super fun film.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also Read : Sundance Horror Film 'Censor ' Acquired by Magnolia Pictures for Summer Release “ First Date ” also star Jesse Janzen , Nicole Berry , Samuel Ademola , Ryan Quinn Adams , Angela Barber , Dave Reimer , Jake Howard , Samantha Laurenti , Scott Noble , Leah Finity , Josh Fesler , and Brandon Kraus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I will never forget her â€¦ I will continue her work in try to keep kid from the danger of drug .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Magnolia have previously pick up out of this year ’ s Sundance the animated “ Cryptozoo , ” the horror film “ Censor ” and the documentary “ A Glitch in the Matrix.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CBD , which stand for cannabidiol , be an oil that 's derive from the cannabis plant—aka , Mary Jane .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That didn ’ t happen for us.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` When it come to pain management , the body already produce anandamide , and CBD work with this compound to reduce the perception of pain , '' say Vince Sanders , founder and president of CBD American Shaman for a recent article about the side effect of take CBD.Anandamide be a type of cannabinoid ( or compound ) that the body release when it first sense pain and can help reduce your perception of pain as well a improve your mood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CBD do n't even affect the same receptor in your body a THC does.Instead , CBD can make you feel calm , which can be helpful for those who have anxiety or high-stress level , rather than impair your ability to function properly , i.e .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Read original story Sundance Action Comedy ‘ First Date ’ Picked Up by Magnet Releasing At TheWrap\nAre you team CBD or unsure ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Subscribe now for an inside look at their extraordinary journey and 52-year marriage , only in PEOPLE !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For insight on all of the different way you can take CBD , check out The Best CBD Products You Should Try Right Now.More CBD Stories on Eat This , Not That !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thank you so much , Eamonn and the whole crew- we can ’ t wait for audience to see the movie !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What Should You Look for When Choosing a CBD Product ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What Happens to Your Body on CBDCBD for Anxiety : Does It Work ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What Is CBD Oil and Should You Try It ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once CBD bind to this receptor , it can have an anti-inflammatory effect on the body , which may reduce pain levels.Bottom line , it 's worth a try—unless specify otherwise by your doctor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A 2020 review show that take CBD could may chronic pain , improve sleep , and reduce inflammation in certain individuals.Here 's how it work : Anandamide bind to a receptor call CB1 , which be locate in the brain and central nervous system and inhibit the feeling of pain by block the signal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here 's why this be the one major side effect of take CBD you should be pay attention to , and for even more helpful tip , be sure to read up on The One Vitamin Doctors Are Urging Everyone to Take Right Now.First of all , it may be helpful to well understand what CBD be before we get into the science around it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Markle acknowledge that every member of the family have bad press , but because of her race and nationality , as well a the proliferation of social medium , her treatment be different .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be because the cannabinoid bind to another receptor ( know a TRPV1 ) which also help to mediate pain perception .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , CBD can also block chemical reaction in the body that trigger inflammation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s a dream come true for u to be work with a company that truly foster and support independent filmmaker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to make you feel a little more at ease , research have also indicate that the cannabinoid may help to manage symptom of chronic pain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ That be just not right .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” That be just not right .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Markle say that at one point , she felt suicidal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you fall in the latter camp , maybe we can assist in provide more clarity around it potential benefits—specifically CBD 's potential ability to alleviate chronic pain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "make you feel `` out of it . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CBD can increase the body 's level of this compound , which can further help you regulate pain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/politics/mr-t-reveals-the-story-behind-nancy-reagan-sitting-on-his-lap/",
+            "content": "Mr. T , 63 , partner with the former first lady on her Just Say No campaign against drug in 1983 .",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "Mr. T , 63 , partner with the former first lady on her Just Say No campaign against drug in 1983 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Mr._T",
+            "content": "Mr. T be offer a cameo appearance in the film adaptation of The A-Team , but decide to turn it down , [ 39 ] whereas Dwight Schultz and Dirk Benedict both make cameo in the film . He have also make an appearance in that same show in October 1982 , fresh from his role in Rocky III , in a recur skit by Eddie Murphy call `` Mr. Robinson Neighborhood '' ( make a reference to one of his line in the movie : `` Hello boy and girl . In the 2009 animate movie Cloudy with a Chance of Meatballs , Mr. T provide the voice for Officer Earl Devereaux , the town 's athletic cop who love his son very much . This commercial be pull by Mars follow a complaint by the U.S.-based group Human Rights Campaign , although the advert have never be show in the United States . [ 43 ] In 2015 , it be announce that Mr. T would star in a do it yourself home improvement TV show , with interior designer Tiffany Brooks , on the DIY Network . Mr. T ( bear Lawrence Tureaud ; May 21 , 1952 ) [ 2 ] [ 3 ] [ 4 ] [ 5 ] be an American actor , television personality , and retire bouncer , bodyguard and professional wrestler . [ 42 ]\nStarting in 2011 , Mr. T present a clip show on BBC Three name World 's Craziest Fools . Despite the wide range of performer , and more seasoned actor such a Adam Baldwin a the protagonist Albert , as well a Gary Busey and Max Gail , Mr. T be top bill and the central figure in the film 's publicity , with him literally tower over the other character on the film 's poster . [ 32 ]\nThe year 1983 also mark the release of the only film that can be call a Mr. T vehicle , DC Cab . The movie feature an ensemble cast , many of whom be publicize figure from other area of show business – comic Paul Rodriguez , Marsha Warfield , singer Irene Cara , bodybuilders David and Peter Paul ( the `` Barbarian Brothers '' ) – but who have only modest act experience . A. Baracus in particular quickly become a cult character and the unofficial star of the show , reportedly spark tension with seasoned actor George Peppard , although Mr. T always maintain that these be unfounded rumor . Remaining with the WWF , Mr. T become a special `` WWF boxer '' in light of his character in Rocky III . Mr. T be ready to skip the show until Hogan personally talk him out of leave . [ 31 ] His role in The A-Team lead to him make an appearance in the long-running sit-com Diff'rent Strokes in the sixth season opener `` Mr. T and Mr. t '' ( 1983 ) , in which an episode of The A-Team be supposedly film in the family 's penthouse apartment . The video be roughly one hour long , but contain 30 minute of singing , either by the group of child accompany him , or by Mr. T himself . Also in 1983 , a Ruby-Spears-produced cartoon call Mister T premier on NBC . `` , first utter a Clubber Lang in Rocky III , then turn into a trademark use in slogan or title , like the reality show I Pity the Fool in 2006 . Hulk Hogan write in his autobiography that Mr. T save the main event of WrestleMania I between them and `` Rowdy '' Roddy Piper and `` Mr . The Mister T cartoon star Mr. T a his alter ego , the owner of a gym where a group of gymnast train . `` [ 56 ] One of these commercial feature Mr. T on an army jeep call a speed walker wear yellow short `` a disgrace to the man race '' ( a pun on the double meaning of the word `` race '' ) and fire Snickers bar at the man with a custom-made machine gun so that he start `` run like a real man '' . `` [ 57 ] Mr. T distance himself from these accusation , insist that he would never lend his name to such belief , and that he do not think the commercial be offensive to anyone , a all the commercial he appear in have a similarly silly , over-the-top nature and be never intend to be take seriously . Each episode be bookended by short segment where the real Mr. T present the theme of the episode , then give a closing statement with a lesson for child loosely base on the event of the episode . He give helpful advice to child throughout the video ; for example , he teach them how to understand and appreciate their origin , how to dress fashionably without buy designer label , how to make trip up look like breakdancing , how to control their anger , and how to deal with peer pressure . And also in 1984 , he release a rap mini-album call `` Mr. T 's commandment '' ( Columbia/CBS Records ) , feature 7 song , include the title theme for the aforementioned TV movie . Wonderful '' Paul Orndorff because when he arrive , security would not let his entourage into the building . [ clarification need ] Piper have say that he and other fellow wrestler dislike Mr. T because he be an actor and have never pay his due a a professional wrestler . During those busy year , he make numerous appearance in television show , most notably host the 15th episode of the 10th season of Saturday Night Live , along with Hulk Hogan . As part of the build-up for the match , Piper attack Mr. T 's friend , midget wrestler the Haiti Kid on his Piper 's Pit interview slot , shave his head into a mohican style similar to that of Mr. T. Then Mr. T win the boxing match in Round 4 by Disqualification after Piper attack the referee and bodyslammed Mr. T. He return to the World Wrestling Federation a a special guest referee in 1987 as well a a special referee enforcer confront such star a The Honky Tonk Man . The group allege that the commercial promote the idea that violence against gay , lesbian , bisexual and transgender people `` be not only acceptable , but humorous . [ 40 ] [ 41 ] Although he be n't disturb at the mere prospect of an `` A-Team '' movie be make without him , he vehemently criticize the concept of have another actor copy his own very distinct appearance and style ( include his haircut and gold chain ) in the hope of attract his nostalgic fanbase , and consider that ask him to do a cameo appearance in those condition be disrespectful . He take on `` Cowboy '' Bob Orton on the March 1 , 1986 Saturday Night 's Main Event V , on NBC . A. Baracus in the 1980s television series The A-Team and a boxer Clubber Lang in the 1982 film Rocky III . A. Baracus , Mr. T observe quietly , `` It take a smart guy to play dumb . '' [ 37 ] He follow it up the same year with a second album , title Mr. T 's Be Somebody ... or Be Somebody 's Fool ! While the film , feature the ensemble a a ragtag taxi company try to hustle their way to solvency and respectability , perform modestly at the box office , it $ 16 million take exceed it $ 12 million budget , it receive mixed review critically . In much the same tone a his 1984 educational video , it instruct child to stay in school and to stay away from drug . [ 58 ]\nMr. T enter the world of professional wrestling in 1985 . The show , due sometime in 2015 , be to be title , `` I Pity the Tool '' , another variation on his famous catchphrase , but only one episode be air , for reason unknown . Baracus , an ex-Army commando on the run with three other member from the United States government `` for a crime they do n't commit . '' In The A-Team , he play Sergeant Bosco `` B . He be Hulk Hogan 's tag-team partner at the World Wrestling Federation 's ( WWF ) WrestleMania I which he win . `` [ 34 ] Roger Ebert praise the movie 's `` mindless , likable confusion '' and criticize it `` fresh off the assembly line '' plot . He help them with their training but they also help him solve mystery and fight crime in Scooby-Doo-style scenario ; thirty episode be produce . The show featured story such a botched bank robbery and inept insurance fraudsters alongside fail video . [ 33 ] Janet Maslin , write for The New York Times , describe it a `` a musical mob scene , a raucous , crowd movie that 's fun as long a it stay wildly busy , and a lot less interesting when it waste time on plot or conversation . He sing `` Treat Your Mother Right ( Treat Her Right ) , '' and also rap a song about grow up in the ghetto and praising God . When ask at a press conference whether he be as stupid a B . ( MCA Records ) , feature music from the eponymous film . [ 35 ] It be the second feature in a prolific career for director Joel Schumacher . Also in 1984 , he play the protagonist of the TV movie `` The Toughest Man in the World '' , a Bruise Brubaker , a bouncer also lead a sport center for teenager , who take part in a strong man championship to get fund for the center . The rap in this video be write by Ice-T. [ 36 ] Due to it unintentionally comic nature , many clip have be make from this video and share a Internet meme . A. be a genius mechanic but afraid of fly . These scene be show after the credit , but be reinserted during the film in the Extended Cut . This boxing stunt culminate in another boxing match against Roddy Piper at WrestleMania 2 . [ 44 ] [ 45 ]\nThe same year , he appear on commercial in the United Kingdom , Ireland , Australia , and New Zealand advertise the chocolate bar Snickers with the slogan `` Get Some Nuts ! In 1984 , he make a motivational video call Be Somebody ... or Be Somebody 's Fool ! He be also know for his distinctive hairstyle inspire by Mandinka warrior in West Africa , [ 6 ] his copious gold jewelry , his tough-guy persona and his catchphrase `` I pity the fool ! The series be a major hit , and B . He be know for his role a B . As well a the team 's tough guy , B . The new word for today ... be PAIN .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "Mr. T be offer a cameo appearance in the film adaptation of The A-Team , but decide to turn it down , [ 39 ] whereas Dwight Schultz and Dirk Benedict both make cameo in the film .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have also make an appearance in that same show in October 1982 , fresh from his role in Rocky III , in a recur skit by Eddie Murphy call `` Mr. Robinson Neighborhood '' ( make a reference to one of his line in the movie : `` Hello boy and girl .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the 2009 animate movie Cloudy with a Chance of Meatballs , Mr. T provide the voice for Officer Earl Devereaux , the town 's athletic cop who love his son very much .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This commercial be pull by Mars follow a complaint by the U.S.-based group Human Rights Campaign , although the advert have never be show in the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 43 ] In 2015 , it be announce that Mr. T would star in a do it yourself home improvement TV show , with interior designer Tiffany Brooks , on the DIY Network .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. T ( bear Lawrence Tureaud ; May 21 , 1952 ) [ 2 ] [ 3 ] [ 4 ] [ 5 ] be an American actor , television personality , and retire bouncer , bodyguard and professional wrestler .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 42 ]\nStarting in 2011 , Mr. T present a clip show on BBC Three name World 's Craziest Fools .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite the wide range of performer , and more seasoned actor such a Adam Baldwin a the protagonist Albert , as well a Gary Busey and Max Gail , Mr. T be top bill and the central figure in the film 's publicity , with him literally tower over the other character on the film 's poster .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 32 ]\nThe year 1983 also mark the release of the only film that can be call a Mr. T vehicle , DC Cab .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The movie feature an ensemble cast , many of whom be publicize figure from other area of show business – comic Paul Rodriguez , Marsha Warfield , singer Irene Cara , bodybuilders David and Peter Paul ( the `` Barbarian Brothers '' ) – but who have only modest act experience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A. Baracus in particular quickly become a cult character and the unofficial star of the show , reportedly spark tension with seasoned actor George Peppard , although Mr. T always maintain that these be unfounded rumor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Remaining with the WWF , Mr. T become a special `` WWF boxer '' in light of his character in Rocky III .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. T be ready to skip the show until Hogan personally talk him out of leave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 31 ] His role in The A-Team lead to him make an appearance in the long-running sit-com Diff'rent Strokes in the sixth season opener `` Mr. T and Mr. t '' ( 1983 ) , in which an episode of The A-Team be supposedly film in the family 's penthouse apartment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be roughly one hour long , but contain 30 minute of singing , either by the group of child accompany him , or by Mr. T himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also in 1983 , a Ruby-Spears-produced cartoon call Mister T premier on NBC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` , first utter a Clubber Lang in Rocky III , then turn into a trademark use in slogan or title , like the reality show I Pity the Fool in 2006 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hulk Hogan write in his autobiography that Mr. T save the main event of WrestleMania I between them and `` Rowdy '' Roddy Piper and `` Mr .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Mister T cartoon star Mr. T a his alter ego , the owner of a gym where a group of gymnast train .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 56 ] One of these commercial feature Mr. T on an army jeep call a speed walker wear yellow short `` a disgrace to the man race '' ( a pun on the double meaning of the word `` race '' ) and fire Snickers bar at the man with a custom-made machine gun so that he start `` run like a real man '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 57 ] Mr. T distance himself from these accusation , insist that he would never lend his name to such belief , and that he do not think the commercial be offensive to anyone , a all the commercial he appear in have a similarly silly , over-the-top nature and be never intend to be take seriously .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Each episode be bookended by short segment where the real Mr. T present the theme of the episode , then give a closing statement with a lesson for child loosely base on the event of the episode .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He give helpful advice to child throughout the video ; for example , he teach them how to understand and appreciate their origin , how to dress fashionably without buy designer label , how to make trip up look like breakdancing , how to control their anger , and how to deal with peer pressure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And also in 1984 , he release a rap mini-album call `` Mr. T 's commandment '' ( Columbia/CBS Records ) , feature 7 song , include the title theme for the aforementioned TV movie .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wonderful '' Paul Orndorff because when he arrive , security would not let his entourage into the building .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ clarification need ] Piper have say that he and other fellow wrestler dislike Mr. T because he be an actor and have never pay his due a a professional wrestler .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During those busy year , he make numerous appearance in television show , most notably host the 15th episode of the 10th season of Saturday Night Live , along with Hulk Hogan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As part of the build-up for the match , Piper attack Mr. T 's friend , midget wrestler the Haiti Kid on his Piper 's Pit interview slot , shave his head into a mohican style similar to that of Mr. T. Then Mr. T win the boxing match in Round 4 by Disqualification after Piper attack the referee and bodyslammed Mr. T. He return to the World Wrestling Federation a a special guest referee in 1987 as well a a special referee enforcer confront such star a The Honky Tonk Man .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The group allege that the commercial promote the idea that violence against gay , lesbian , bisexual and transgender people `` be not only acceptable , but humorous .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 40 ] [ 41 ] Although he be n't disturb at the mere prospect of an `` A-Team '' movie be make without him , he vehemently criticize the concept of have another actor copy his own very distinct appearance and style ( include his haircut and gold chain ) in the hope of attract his nostalgic fanbase , and consider that ask him to do a cameo appearance in those condition be disrespectful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He take on `` Cowboy '' Bob Orton on the March 1 , 1986 Saturday Night 's Main Event V , on NBC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A. Baracus in the 1980s television series The A-Team and a boxer Clubber Lang in the 1982 film Rocky III .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A. Baracus , Mr. T observe quietly , `` It take a smart guy to play dumb . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 37 ] He follow it up the same year with a second album , title Mr. T 's Be Somebody ... or Be Somebody 's Fool !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the film , feature the ensemble a a ragtag taxi company try to hustle their way to solvency and respectability , perform modestly at the box office , it $ 16 million take exceed it $ 12 million budget , it receive mixed review critically .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In much the same tone a his 1984 educational video , it instruct child to stay in school and to stay away from drug .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 58 ]\nMr. T enter the world of professional wrestling in 1985 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The show , due sometime in 2015 , be to be title , `` I Pity the Tool '' , another variation on his famous catchphrase , but only one episode be air , for reason unknown .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Baracus , an ex-Army commando on the run with three other member from the United States government `` for a crime they do n't commit . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In The A-Team , he play Sergeant Bosco `` B .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be Hulk Hogan 's tag-team partner at the World Wrestling Federation 's ( WWF ) WrestleMania I which he win .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 34 ] Roger Ebert praise the movie 's `` mindless , likable confusion '' and criticize it `` fresh off the assembly line '' plot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He help them with their training but they also help him solve mystery and fight crime in Scooby-Doo-style scenario ; thirty episode be produce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The show featured story such a botched bank robbery and inept insurance fraudsters alongside fail video .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 33 ] Janet Maslin , write for The New York Times , describe it a `` a musical mob scene , a raucous , crowd movie that 's fun as long a it stay wildly busy , and a lot less interesting when it waste time on plot or conversation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He sing `` Treat Your Mother Right ( Treat Her Right ) , '' and also rap a song about grow up in the ghetto and praising God .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask at a press conference whether he be as stupid a B .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( MCA Records ) , feature music from the eponymous film .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 35 ] It be the second feature in a prolific career for director Joel Schumacher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also in 1984 , he play the protagonist of the TV movie `` The Toughest Man in the World '' , a Bruise Brubaker , a bouncer also lead a sport center for teenager , who take part in a strong man championship to get fund for the center .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rap in this video be write by Ice-T. [ 36 ] Due to it unintentionally comic nature , many clip have be make from this video and share a Internet meme .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A. be a genius mechanic but afraid of fly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These scene be show after the credit , but be reinserted during the film in the Extended Cut .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This boxing stunt culminate in another boxing match against Roddy Piper at WrestleMania 2 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 44 ] [ 45 ]\nThe same year , he appear on commercial in the United Kingdom , Ireland , Australia , and New Zealand advertise the chocolate bar Snickers with the slogan `` Get Some Nuts !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1984 , he make a motivational video call Be Somebody ... or Be Somebody 's Fool !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be also know for his distinctive hairstyle inspire by Mandinka warrior in West Africa , [ 6 ] his copious gold jewelry , his tough-guy persona and his catchphrase `` I pity the fool !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The series be a major hit , and B .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be know for his role a B .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As well a the team 's tough guy , B .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new word for today ... be PAIN .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pinterest.com/pin/90705379964508145/",
+            "content": "The main job of a first lady be to pose for picture with random object . .h { display : none } credit and subject include : the cosby show cast , william klein , charles ... “ Walt Disney beam with pride a he show Salvador Dalí the miniature railroad he build in his backyard . At least that what it seem like .",
+            "domain": "www.pinterest.com",
+            "tokenized": [
+                {
+                    "sent": "The main job of a first lady be to pose for picture with random object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ".h { display : none } credit and subject include : the cosby show cast , william klein , charles ... “ Walt Disney beam with pride a he show Salvador Dalí the miniature railroad he build in his backyard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At least that what it seem like .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pinterest.com/pin/262475484502792224/",
+            "content": "The main job of a first lady be to pose for picture with random object . “ Walt Disney beam with pride a he show Salvador Dalí the miniature railroad he build in his backyard . At least that what it seem like .",
+            "domain": "www.pinterest.com",
+            "tokenized": [
+                {
+                    "sent": "The main job of a first lady be to pose for picture with random object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Walt Disney beam with pride a he show Salvador Dalí the miniature railroad he build in his backyard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At least that what it seem like .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pinterest.es/pin/547187423447518833/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id={{default.session}}&simplified=true",
+            "content": "Until those show come long , the idea of create the perfect loop of a TV show that promote toy that promote the TV show be simply unheard of—or at least avoid on moral and legal ground . Whether you see that a a good thing or a bad thing probably depend on how much you like The Transformers and G.I . In the ‘ 80 , Hasbro almost singlehandedly change both toy and cartoon with The Transformers and G.I . Joe : A Real American Hero . Joe a a kid , but either way , Hasbro change a very…",
+            "domain": "www.pinterest.es",
+            "tokenized": [
+                {
+                    "sent": "Until those show come long , the idea of create the perfect loop of a TV show that promote toy that promote the TV show be simply unheard of—or at least avoid on moral and legal ground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whether you see that a a good thing or a bad thing probably depend on how much you like The Transformers and G.I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the ‘ 80 , Hasbro almost singlehandedly change both toy and cartoon with The Transformers and G.I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Joe : A Real American Hero .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Joe a a kid , but either way , Hasbro change a very…",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

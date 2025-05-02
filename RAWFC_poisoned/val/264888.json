@@ -1,0 +1,797 @@
+{
+    "event_id": "264888",
+    "claim": "During an interview, presumed U.S. Democratic 2020 presidential nominee Joe Biden asked a news reporter, “Are you a junkie?” ",
+    "original_label": "correct attribution",
+    "label": "true",
+    "explain": "During a panel interview with journalists of color, presumed U.S. Democratic 2020 presidential nominee Joe Biden was prodded by an interviewer to comment on whether he would take a cognitive test to prove his mental fitness, to which the former U.S. vice president reportedly replied, “Are you a junkie?”\nAfter a clip of the interview went viral in August 2020, Snopes readers inquired about the veracity of the claim, which we determined to be true.\nDuring a virtual convention for the National Association of Black Journalists and the National Association of Hispanic Journalists (NABJ/NAHJ), CBS Correspondent Errol Barnett questioned Biden about his mental fitness, highlighting that U.S. President Donald Trump has made his likely Democratic opponent’s cognitive ability a campaign topic. In July 2020, Trump boasted about his own mental fitness after having taken a cognitive test himself and challenged the 77-year-old Biden to do the same.\nIn a clip shared on Barnett’s Twitter account and YouTube channel on Aug. 5, 2020, Biden scoffed when the journalist asked if he planned to take a cognitive test.\n“No, I haven’t taken a test. Why the hell would I take a test? Come on, man. That’s like saying to you before you got on this program if you had taken a test [on] were you taking cocaine or not?” Biden said. “What do you think, huh? Are you a junkie?”\nBarnett then asked Biden to comment on Trump’s mental state, who the reporter said “brags about his test” and makes Biden’s “mental state an issue for voters.” Biden visibly laughed in response, saying that if the president “can’t figure out the difference between an elephant and a lion, I don’t know what the hell he’s talking about.”\n“C’mon, man. I know you’re trying to goad me but, I mean, I’m so forward looking to have an opportunity to sit with the president or stand with the president in the debates,” he continued, before he said he was cutting himself off in order not to say something he “probably shouldn’t say.”\nIn July 2020, Biden contended that he was “constantly tested” for cognitive decline on the campaign trail, news website Axios reported at the time. \nThe NABJ/NAHJ convention is sponsored by Yahoo News and is the largest annual gathering of journalists of color in the U.S. Trump was also invited by organizers to attend the panel but reportedly did not respond.",
+    "reports": [
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/08/05/joe-biden-bristles-errol-barnett-after-cognitive-test-question/3298373001/",
+            "content": "Joe Biden , the presumptive Democratic nominee for president , bristle Wednesday at a reporter 's question about take a cognitive test , compare it to ask his interviewer whether he be “ take cocaine ” or “ a junkie . The clash prompt a question to Biden about whether he 'd have a cognitive test during an interview with Errol Barnett , a CBS reporter , for the National Association of Black Journalists and National Association of Hispanic Journalists . ” the president ’ s son , Donald Trump Jr. , ask Wednesday in a tweet . `` Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , '' Biden say in the CBS interview .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden , the presumptive Democratic nominee for president , bristle Wednesday at a reporter 's question about take a cognitive test , compare it to ask his interviewer whether he be “ take cocaine ” or “ a junkie .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The clash prompt a question to Biden about whether he 'd have a cognitive test during an interview with Errol Barnett , a CBS reporter , for the National Association of Black Journalists and National Association of Hispanic Journalists .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” the president ’ s son , Donald Trump Jr. , ask Wednesday in a tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , '' Biden say in the CBS interview .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://heavy.com/news/2020/08/watch-joe-biden-cognitive-test-junkie-interview/",
+            "content": "Former Vice President Joe Biden sit for an eyebrow-raising interview Wednesday morning in which he say he have no plan to take a cognitive test and ask the reporter , “ Are you a junkie ? Joe Biden raise eyebrow in an interview Wednesday in which he say he would not take a cognitive test and ask reporter Errol Barnett , `` Are you a junkie ? '' ”\nWith the 74-year-old President Trump and 77-year-old Biden ’ s cognitive fitness for office very much a question in voter ’ mind , plus the optic of Biden ask Black reporter Errol Barnett if he be a “ junkie , ” some high-profile account on Twitter call the interview a “ disaster . ”\nThe white presidential candidate ask the dark-skinned TV anchor , `` Are you a junkie ? '' ” Full interview at NABJ/NAHJ virtual convention Thursday , …2020-08-05T09:40:10Z\nIn the clip of an interview with CBS News correspondent Errol Barnett , which be set to air in full on Thursday , Biden be ask about the issue of cognitive testing . ”\nPresident Trump over the past two month have make Biden ’ s mental fitness for office a centerpiece of his criticism of the former vice president , repeatedly boast in interview about the result of a cognitive test he claim to have take — despite the fact that the test be not design to be difficult . ”\n“ I decide to limit my criticism of Joe Biden to one per week , ” King say . From lose his cool ask this reporter , “ Are you a junkie ” to everything else about it . Vice President Joe Biden go on to say , if the president “ can ’ t figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about. ”\nBreitbart , meanwhile , gleefully dub the interview a “ Biden trainwreck . VP Joe Biden : `` Why the hell would I take a test ? Donald Trump Jr. post the clip to Twitter and ask , “ Will someone please make it stop ? “ Your opponent in this election , President Trump , have make your mental state a campaign topic , ” Barnett say . `` The presumptive Democratic nominee scoff at idea of take a cognitive test a suggest by President Trump . ”\nThe interview be do during an event with the National Association of Black Journalists and the National Association of Hispanic Journalists , Politico report .",
+            "domain": "heavy.com",
+            "tokenized": [
+                {
+                    "sent": "Former Vice President Joe Biden sit for an eyebrow-raising interview Wednesday morning in which he say he have no plan to take a cognitive test and ask the reporter , “ Are you a junkie ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Joe Biden raise eyebrow in an interview Wednesday in which he say he would not take a cognitive test and ask reporter Errol Barnett , `` Are you a junkie ? ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWith the 74-year-old President Trump and 77-year-old Biden ’ s cognitive fitness for office very much a question in voter ’ mind , plus the optic of Biden ask Black reporter Errol Barnett if he be a “ junkie , ” some high-profile account on Twitter call the interview a “ disaster .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe white presidential candidate ask the dark-skinned TV anchor , `` Are you a junkie ? ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Full interview at NABJ/NAHJ virtual convention Thursday , …2020-08-05T09:40:10Z\nIn the clip of an interview with CBS News correspondent Errol Barnett , which be set to air in full on Thursday , Biden be ask about the issue of cognitive testing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nPresident Trump over the past two month have make Biden ’ s mental fitness for office a centerpiece of his criticism of the former vice president , repeatedly boast in interview about the result of a cognitive test he claim to have take — despite the fact that the test be not design to be difficult .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ I decide to limit my criticism of Joe Biden to one per week , ” King say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From lose his cool ask this reporter , “ Are you a junkie ” to everything else about it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vice President Joe Biden go on to say , if the president “ can ’ t figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBreitbart , meanwhile , gleefully dub the interview a “ Biden trainwreck .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "VP Joe Biden : `` Why the hell would I take a test ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Donald Trump Jr. post the clip to Twitter and ask , “ Will someone please make it stop ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Your opponent in this election , President Trump , have make your mental state a campaign topic , ” Barnett say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The presumptive Democratic nominee scoff at idea of take a cognitive test a suggest by President Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe interview be do during an event with the National Association of Black Journalists and the National Association of Hispanic Journalists , Politico report .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ajc.com/news/nation-world/are-you-a-junkie-biden-rebukes-reporter-over-mental-acuity/QYYWKF6K6RC5FNYUPK2XPFFWQY/",
+            "content": "Presumptive Democratic presidential nominee Joe Biden get into a testy exchange with a reporter during a wide-ranging interview with journalist represent the National Association of Black Journalists and National Association of Hispanic Journalists . During the November 2019 Atlanta Democratic presidential debate , Biden send a fundraising email to his supporter . One of the panel ’ s journalist , CBS News ’ Errol Barnett , ask if the 77-year-old former vice president have take a cognitive test .",
+            "domain": "www.ajc.com",
+            "tokenized": [
+                {
+                    "sent": "Presumptive Democratic presidential nominee Joe Biden get into a testy exchange with a reporter during a wide-ranging interview with journalist represent the National Association of Black Journalists and National Association of Hispanic Journalists .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During the November 2019 Atlanta Democratic presidential debate , Biden send a fundraising email to his supporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of the panel ’ s journalist , CBS News ’ Errol Barnett , ask if the 77-year-old former vice president have take a cognitive test .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtontimes.com/news/2020/aug/5/rnc-biden-quip-junkie-pattern-offending-blacks/",
+            "content": "A top official at the Republican National Committee accuse presumptive Democratic presidential nominee Joseph R. Biden Wednesday of “ attack ” a Black journalist by ask the reporter if he ’ d be test for cocaine use , say it be part of Mr. Biden ’ s pattern of offend Blacks . ”\nMr. Dennard say , “ Not only do Biden completely flip-flop on his previous claim that he take a cognitive test , he attack a Black reporter , ask him if he be a cocaine ‘ junkie. Mr. Biden speak with evident annoyance when reporter Errol Barnett ask on “ CBS This Morning ” whether he would take a cognitive test . ”\n“ This be a damn level 10 disaster , ” Mr. King tweet , “ From lose his cool ask this reporter ‘ be you a junkie ’ to everything else about it . Mr. Dennard also point out that Mr. Biden , in an interview earlier this year with The Breakfast Club host Charlamagne tha God , say “ If you have a problem figure out whether you ’ re for me or Trump , then you ain ’ t black . “ That ’ s like say before you get on this program , you ’ re take a test whether you ’ re take cocaine or not , ” the 77-year-old Mr. Biden say . ”\nShaun King , a civil right activist and co-founder of the Real Justice PAC , say after Mr. Biden ’ s CBS interview that the campaign should “ KEEP HIM OFF OF TELEVISION .",
+            "domain": "www.washingtontimes.com",
+            "tokenized": [
+                {
+                    "sent": "A top official at the Republican National Committee accuse presumptive Democratic presidential nominee Joseph R. Biden Wednesday of “ attack ” a Black journalist by ask the reporter if he ’ d be test for cocaine use , say it be part of Mr. Biden ’ s pattern of offend Blacks .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMr. Dennard say , “ Not only do Biden completely flip-flop on his previous claim that he take a cognitive test , he attack a Black reporter , ask him if he be a cocaine ‘ junkie.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Biden speak with evident annoyance when reporter Errol Barnett ask on “ CBS This Morning ” whether he would take a cognitive test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ This be a damn level 10 disaster , ” Mr. King tweet , “ From lose his cool ask this reporter ‘ be you a junkie ’ to everything else about it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Dennard also point out that Mr. Biden , in an interview earlier this year with The Breakfast Club host Charlamagne tha God , say “ If you have a problem figure out whether you ’ re for me or Trump , then you ain ’ t black .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ That ’ s like say before you get on this program , you ’ re take a test whether you ’ re take cocaine or not , ” the 77-year-old Mr. Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nShaun King , a civil right activist and co-founder of the Real Justice PAC , say after Mr. Biden ’ s CBS interview that the campaign should “ KEEP HIM OFF OF TELEVISION .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://money.yahoo.com/joe-biden-snaps-reporter-cognitive-130055446.html",
+            "content": "Presumptive Democratic presidential nominee Joe Biden lash out during an interview after be ask if he have take a cognitive test . Come on , man , '' Biden tell CBS News correspondent Errol Barnett in an interview . According to a source with direct knowledge of the matter , soon after the president be inform of how he , in Trump ’ s own word , “ beat Obama ” this year , Trump specifically instruct aide to publicly promote it far and wide.—With additional reporting by Lloyd GroveRead more at The Daily Beast.Got a tip ? Stone say he be at the club that night a a guest of Christopher Ruddy , the Newsmax CEO and another Trump pal.When ask about what Stone and the president discuss , Ruddy tell The Daily Beast , “ I don ’ t comment on any of the private dinner , ” add that the “ president have seem upbeat about thing lately. ” Bolsonaro ’ s former ally , Sergio Moro , demand , ask : “ Is there a president in Brasília ? ” one of the source recall Trump ask during a diatribe against prominent GOPers who the president felt weren ’ t fight for him on his current battle line : from nullify the 2020 election outcome , to torpedo liability law for Big Tech , to send out $ 2,000 check for COVID-19 relief.The comment come during Trump ’ s Christmas getaway in Florida this past weekend and for those who hear them they be some of the clear indication to date that the president have reach an inflection point . ” Washington have little recourse but sanction , or indictment in absentia , against Russian agent in the Hunter Biden affair and other , even more , egregious attack on the U.S in 2020 , since all of the perpetrator be beyond the reach of U.S. law enforcement.In October , for example , the U.S. charge six current and former member of Russia ’ s military intelligence agency “ for allegedly carry out some of the world ’ s most destructive hacking attack from 2015 to 2019 , include knock out Ukraine ’ s power grid and cause almost $ 1 billion in damage to three American companies. ” Trump Grows Increasingly Angry With FDA , Wonders if COVID Vaccine Makers Are ‘ Democrats ’ Trump ’ s musing evoke a president at once eager to portray himself a mighty and tacitly fearful that his aura of political power may be breaking.The president keep insist to his supporter that he could somehow still cling to that power—with President-elect Joe Biden ’ s Jan. 20 inauguration in Washington , D.C. , fast approaching—through increasingly anti-democratic effort to nullify the election result . Last week , Trump have inform the conspiracy theory-spouting lawyer ( and former member of his legal team ) Sidney Powell that he do not intend to appoint her “ special counsel ” to investigate election “ fraud , ” a the two of them have once discuss . “ While U.S. official believe that a Russia-linked entity or Russian individual be responsible for the attack , they have not yet finalize their designation on which actor be responsible , ” a senior administration official tell CNN.From Russia ’ s embassy come more indignation : “ another unfounded attempt of the U.S. medium to blame Russia for hacker attack on U.S. governmental bodies. “ He be keep a run [ mental ] list of Republicans who he believe have wrong him since the election , ” a source close to Trump say . Further counterintelligence investigation be ongoing.Rudy : Only ‘ 50/50 ’ Chance I Worked With a ‘ Russian Spy ’ to Dig Dirt on Bidens and UkraineThe Poison Trail That Led Straight to PutinRussia ’ s Ukrainian agent , meanwhile , continue to meddle in U.S. politics , in particular the campaign by Trump and his lawyer Rudy Giuliani to smear Joe Biden ’ s son Hunter . ” Torres , who have maintain his distance from the Democratic Socialists of America ( DSA ) a they emerge a a power in local politics with Ocasio-Cortez ’ s election to Congress in 2018 , denounce the group after it New York City co-chair Sumathy Kumar decline to answer whether the DSA support the existence of Israel a a state . “ Potentially , ” Torres say crisply.Does he have a favored candidate ? ” they ask Vacca , ask what the word meant.When Torres check in with him a few day later , Vacca say to him , “ Ritchie , you ’ re do great , but you have to speak the language of the voter. He hop to effect real change with a seat on the House Financial Services Committee , which have jurisdiction over not just finance but also housing.Torres be proud to have triumph in a crowded and competitive primary over presumed frontrunner Rubén Díaz Sr. , “ the bad homophobe in New York State politics , ” a Torres call him . ” When ask later what he think about the post-credits sequence reveal a teenage Thanos a a member of the Deviants , Scorsese reveal he doesn ’ t stay for credit , shock the world and once again put the revered filmmaker at the center of a comic-book movie controversy .",
+            "domain": "money.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "Presumptive Democratic presidential nominee Joe Biden lash out during an interview after be ask if he have take a cognitive test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Come on , man , '' Biden tell CBS News correspondent Errol Barnett in an interview .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to a source with direct knowledge of the matter , soon after the president be inform of how he , in Trump ’ s own word , “ beat Obama ” this year , Trump specifically instruct aide to publicly promote it far and wide.—With additional reporting by Lloyd GroveRead more at The Daily Beast.Got a tip ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Stone say he be at the club that night a a guest of Christopher Ruddy , the Newsmax CEO and another Trump pal.When ask about what Stone and the president discuss , Ruddy tell The Daily Beast , “ I don ’ t comment on any of the private dinner , ” add that the “ president have seem upbeat about thing lately.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Bolsonaro ’ s former ally , Sergio Moro , demand , ask : “ Is there a president in Brasília ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” one of the source recall Trump ask during a diatribe against prominent GOPers who the president felt weren ’ t fight for him on his current battle line : from nullify the 2020 election outcome , to torpedo liability law for Big Tech , to send out $ 2,000 check for COVID-19 relief.The comment come during Trump ’ s Christmas getaway in Florida this past weekend and for those who hear them they be some of the clear indication to date that the president have reach an inflection point .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Washington have little recourse but sanction , or indictment in absentia , against Russian agent in the Hunter Biden affair and other , even more , egregious attack on the U.S in 2020 , since all of the perpetrator be beyond the reach of U.S. law enforcement.In October , for example , the U.S. charge six current and former member of Russia ’ s military intelligence agency “ for allegedly carry out some of the world ’ s most destructive hacking attack from 2015 to 2019 , include knock out Ukraine ’ s power grid and cause almost $ 1 billion in damage to three American companies.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump Grows Increasingly Angry With FDA , Wonders if COVID Vaccine Makers Are ‘ Democrats ’ Trump ’ s musing evoke a president at once eager to portray himself a mighty and tacitly fearful that his aura of political power may be breaking.The president keep insist to his supporter that he could somehow still cling to that power—with President-elect Joe Biden ’ s Jan. 20 inauguration in Washington , D.C. , fast approaching—through increasingly anti-democratic effort to nullify the election result .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Last week , Trump have inform the conspiracy theory-spouting lawyer ( and former member of his legal team ) Sidney Powell that he do not intend to appoint her “ special counsel ” to investigate election “ fraud , ” a the two of them have once discuss .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ While U.S. official believe that a Russia-linked entity or Russian individual be responsible for the attack , they have not yet finalize their designation on which actor be responsible , ” a senior administration official tell CNN.From Russia ’ s embassy come more indignation : “ another unfounded attempt of the U.S. medium to blame Russia for hacker attack on U.S. governmental bodies.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ He be keep a run [ mental ] list of Republicans who he believe have wrong him since the election , ” a source close to Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Further counterintelligence investigation be ongoing.Rudy : Only ‘ 50/50 ’ Chance I Worked With a ‘ Russian Spy ’ to Dig Dirt on Bidens and UkraineThe Poison Trail That Led Straight to PutinRussia ’ s Ukrainian agent , meanwhile , continue to meddle in U.S. politics , in particular the campaign by Trump and his lawyer Rudy Giuliani to smear Joe Biden ’ s son Hunter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Torres , who have maintain his distance from the Democratic Socialists of America ( DSA ) a they emerge a a power in local politics with Ocasio-Cortez ’ s election to Congress in 2018 , denounce the group after it New York City co-chair Sumathy Kumar decline to answer whether the DSA support the existence of Israel a a state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Potentially , ” Torres say crisply.Does he have a favored candidate ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” they ask Vacca , ask what the word meant.When Torres check in with him a few day later , Vacca say to him , “ Ritchie , you ’ re do great , but you have to speak the language of the voter.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He hop to effect real change with a seat on the House Financial Services Committee , which have jurisdiction over not just finance but also housing.Torres be proud to have triumph in a crowded and competitive primary over presumed frontrunner Rubén Díaz Sr. , “ the bad homophobe in New York State politics , ” a Torres call him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” When ask later what he think about the post-credits sequence reveal a teenage Thanos a a member of the Deviants , Scorsese reveal he doesn ’ t stay for credit , shock the world and once again put the revered filmmaker at the center of a comic-book movie controversy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theroot.com/reporter-to-biden-have-you-taken-a-cognitive-test-b-1844623339",
+            "content": "be ask by a reporter whether he ’ d take a cognitive test like the one President Trump keep brag that he ace , and the presumptive Democratic nominee ’ s response be to ask the reporter if they be a “ junkie . “ Well , if he can ’ t figure out the difference between an elephant and a lion , I don ’ t know what the hell he ’ s talk about , ” Biden say , reference question on Trump ’ s report cognitive test during an interview with Chris Wallace of Fox News . ”\nSpeaking during the virtual convention of the National Association of Black Journalists and the National Association of Hispanic Journalists , Biden be ask by CBS correspondent Errol Barnett if he ’ d take a test measure his mental acuity . Joe Biden ( can you guess which egg he be ? ) Politico note that the former vice president be ask in late June if he ’ d take a cognitive test to which he dodge and then answer how he be “ constantly test ” by the demand of the campaign trail . I guess Biden be unaware that his mental acuity be be target by Trump ’ s reelection campaign , although he shouldn ’ t be , consider he ’ s be ask this question before . ”\nBarnett be not off-base ask this question , a Biden ’ s mental sharpness have be in question lately , too . When Biden wasn ’ t ask the reporter Gator to do his dance , he be go after Trump ’ s mental capacity . ”\nA clip from the interview be release Wednesday and a Biden campaign official claim that it be all just a big cocaine dust-up .",
+            "domain": "www.theroot.com",
+            "tokenized": [
+                {
+                    "sent": "be ask by a reporter whether he ’ d take a cognitive test like the one President Trump keep brag that he ace , and the presumptive Democratic nominee ’ s response be to ask the reporter if they be a “ junkie .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Well , if he can ’ t figure out the difference between an elephant and a lion , I don ’ t know what the hell he ’ s talk about , ” Biden say , reference question on Trump ’ s report cognitive test during an interview with Chris Wallace of Fox News .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nSpeaking during the virtual convention of the National Association of Black Journalists and the National Association of Hispanic Journalists , Biden be ask by CBS correspondent Errol Barnett if he ’ d take a test measure his mental acuity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Joe Biden ( can you guess which egg he be ? )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Politico note that the former vice president be ask in late June if he ’ d take a cognitive test to which he dodge and then answer how he be “ constantly test ” by the demand of the campaign trail .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I guess Biden be unaware that his mental acuity be be target by Trump ’ s reelection campaign , although he shouldn ’ t be , consider he ’ s be ask this question before .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBarnett be not off-base ask this question , a Biden ’ s mental sharpness have be in question lately , too .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Biden wasn ’ t ask the reporter Gator to do his dance , he be go after Trump ’ s mental capacity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA clip from the interview be release Wednesday and a Biden campaign official claim that it be all just a big cocaine dust-up .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marijuanamoment.net/joe-biden-mocks-drug-testing-in-response-to-reporters-cognitive-assessment-question/",
+            "content": "Presumptive Democratic presidential nominee Joe Biden seem to mock the concept of drug test in an interview publish on Wednesday , despite his role in advance drug test expansion legislation during his time in the Senate . In any case , Biden ’ s new dismissive remark about a policy he ’ s historically support , couple with the pejorative use of the term “ junkie , ” be puzzle to drug policy reform advocate , who have widely criticize the former vice president for his record push numerous , punitive anti-drug bill . ”\nKrueger echo that point in a recent interview with Bloomberg , say lawmaker be “ work hard on a three-way agreed upon bill that could pass the legislature before we get to the budget. ” he add , direct the hypothetical question to interviewer Errol Barnett of CBS News .",
+            "domain": "www.marijuanamoment.net",
+            "tokenized": [
+                {
+                    "sent": "Presumptive Democratic presidential nominee Joe Biden seem to mock the concept of drug test in an interview publish on Wednesday , despite his role in advance drug test expansion legislation during his time in the Senate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In any case , Biden ’ s new dismissive remark about a policy he ’ s historically support , couple with the pejorative use of the term “ junkie , ” be puzzle to drug policy reform advocate , who have widely criticize the former vice president for his record push numerous , punitive anti-drug bill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nKrueger echo that point in a recent interview with Bloomberg , say lawmaker be “ work hard on a three-way agreed upon bill that could pass the legislature before we get to the budget.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” he add , direct the hypothetical question to interviewer Errol Barnett of CBS News .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mediaite.com/news/biden-dismisses-cognitive-test-question-by-asking-reporter-if-he-took-a-drug-test-before-interview-are-you-a-junkie/",
+            "content": "Former Vice President Joe Biden swat away the question of whether he have take a cognitive test by analogize it to a drug test , ask the reporter if he have take a drug test prior to the interview . On Wednesday , CBS News national correspondent Errol Barnett release a preview clip from the 2020 National Association of Black Journalists ( NABJ ) and National Association of Hispanic Journalists ( NAHJ ) Joint Virtual Convention in which he ask Biden about President Donald Trump ’ s attack on Biden . ”\n“ What do you say to President Trump , who brag about his test and make your mental state an issue for voter ? “ President Trump have make your mental state a campaign topic , and when ask in June if you ’ d be test for cognitive decline , you respond that you ’ re constantly test , in effect because you ’ re in situation like this on the campaign trail , ” Barnett say . He add , with a laugh , “ Are you a junkie ? Dr. Ronny Jackson tell reporter at the time that “ I have no intention of include the cognitive assessment in this exam because , to be honest with you , per all the guideline that be out there , it ’ s not indicate at this time , ” but go on to say that Trump insist on it inclusion .",
+            "domain": "www.mediaite.com",
+            "tokenized": [
+                {
+                    "sent": "Former Vice President Joe Biden swat away the question of whether he have take a cognitive test by analogize it to a drug test , ask the reporter if he have take a drug test prior to the interview .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Wednesday , CBS News national correspondent Errol Barnett release a preview clip from the 2020 National Association of Black Journalists ( NABJ ) and National Association of Hispanic Journalists ( NAHJ ) Joint Virtual Convention in which he ask Biden about President Donald Trump ’ s attack on Biden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ What do you say to President Trump , who brag about his test and make your mental state an issue for voter ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ President Trump have make your mental state a campaign topic , and when ask in June if you ’ d be test for cognitive decline , you respond that you ’ re constantly test , in effect because you ’ re in situation like this on the campaign trail , ” Barnett say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He add , with a laugh , “ Are you a junkie ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Ronny Jackson tell reporter at the time that “ I have no intention of include the cognitive assessment in this exam because , to be honest with you , per all the guideline that be out there , it ’ s not indicate at this time , ” but go on to say that Trump insist on it inclusion .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-snaps-at-question-on-cognitive-test-likens-it-to-asking-reporter-if-hes-a-junkie",
+            "content": "Presumptive Democratic presidential nominee Joe Biden clarify in a feisty interview moment that he ’ s never take a cognitive test amid repeat attack by President Trump on the 77-year-old former vice president ’ s mental stamen . ”\nBiden ’ s wife , former second lady Jill Biden – when ask Tuesday on Fox News ’ `` The Daily Briefing with Dana Perino '' whether her husband would take part in the three debate – answer , “ Oh yes , he will . The president in May charge that Biden ’ s “ not mentally sharp enough to be president ” and that the former vice president “ do n't know he 's alive , ” in an interview with WJLA-TV . And during a June interview with Fox News , Trump claim that “ Joe ’ s not all there . “ I actually take one very recently , ” Trump disclose in an interview with Fox News ’ Sean Hannity . ”\nAt a news conference in June , when Fox News ’ Doug McKelway ask if he ’ d be test for his mental acuity , Biden respond that he ’ s `` be test and I 'm constantly tested. Trump campaign rapid response director Andrew Clark – in an email to reporter and in a tweet – quickly highlight Biden ’ s response , which he describe a “ Brutal . President Trump react on 'Fox & amp ; Friends ' to ally of Joe Biden suggest he should not participate in the presidential debate . ”\nHowever , a third of those question say they be very confident that the president have the mental and physical fitness to carry out his job , compare with 23 percent for the presumptive Democratic presidential nominee . the former vice president shot back , turn the question back around on CBS News reporter Errol Barnett , who be Black . ” Biden 's adviser later clarify that the former vice president be refer to the everyday rigor of a presidential general election campaign . Biden answer , in an interview schedule to air Thursday at the convention of the National Association of Black Journalists and National Association of Hispanic Journalists .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Presumptive Democratic presidential nominee Joe Biden clarify in a feisty interview moment that he ’ s never take a cognitive test amid repeat attack by President Trump on the 77-year-old former vice president ’ s mental stamen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBiden ’ s wife , former second lady Jill Biden – when ask Tuesday on Fox News ’ `` The Daily Briefing with Dana Perino '' whether her husband would take part in the three debate – answer , “ Oh yes , he will .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president in May charge that Biden ’ s “ not mentally sharp enough to be president ” and that the former vice president “ do n't know he 's alive , ” in an interview with WJLA-TV .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And during a June interview with Fox News , Trump claim that “ Joe ’ s not all there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I actually take one very recently , ” Trump disclose in an interview with Fox News ’ Sean Hannity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAt a news conference in June , when Fox News ’ Doug McKelway ask if he ’ d be test for his mental acuity , Biden respond that he ’ s `` be test and I 'm constantly tested.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump campaign rapid response director Andrew Clark – in an email to reporter and in a tweet – quickly highlight Biden ’ s response , which he describe a “ Brutal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump react on 'Fox & amp ; Friends ' to ally of Joe Biden suggest he should not participate in the presidential debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHowever , a third of those question say they be very confident that the president have the mental and physical fitness to carry out his job , compare with 23 percent for the presumptive Democratic presidential nominee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "the former vice president shot back , turn the question back around on CBS News reporter Errol Barnett , who be Black .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Biden 's adviser later clarify that the former vice president be refer to the everyday rigor of a presidential general election campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden answer , in an interview schedule to air Thursday at the convention of the National Association of Black Journalists and National Association of Hispanic Journalists .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/510643-biden-gets-in-testy-exchange-with-reporter-who-asked-if-hes-taken-a",
+            "content": "Presumptive Democratic presidential nominee Joe BidenJoe BidenPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE get in a testy exchange with a reporter on Wednesday who ask him if he ’ s take a cognitive test . CBS News national correspondent Erroll Barnett , who be interview Biden a part of a convention of Black and Hispanic journalist , ask the former vice president if he ’ d ever be test for cognitive decline . WATCH : @ CBSNews Correspondent @ ErrolBarnett ask presume Democratic nominee @ JoeBiden if he ’ s take a cognitive test. ” — Biden\nBiden continue , say that would be like make the reporter take a drug test for cocaine before come into work .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Presumptive Democratic presidential nominee Joe BidenJoe BidenPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE get in a testy exchange with a reporter on Wednesday who ask him if he ’ s take a cognitive test .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CBS News national correspondent Erroll Barnett , who be interview Biden a part of a convention of Black and Hispanic journalist , ask the former vice president if he ’ d ever be test for cognitive decline .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WATCH : @ CBSNews Correspondent @ ErrolBarnett ask presume Democratic nominee @ JoeBiden if he ’ s take a cognitive test.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” — Biden\nBiden continue , say that would be like make the reporter take a drug test for cocaine before come into work .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/americas/us-election/biden-cocaine-cognitive-test-2020-election-a9655931.html",
+            "content": "At an event for black and Hispanic journalist , the presumptive Democratic presidential nominee compare the question to ask CBS News correspondent Errol Barnett if he be use cocaine during the interview . Joe Biden ask an African American reporter if he be a `` junkie '' for question whether the former vice president have take a cognitive test in response to attack target his mental health . At a campaign event in June , Mr Biden previously say he 's `` be test and I 'm constantly test '' when ask about his mental state , but the CBS News interview release on Wednesday be his first confirmation that he have not take a formal test . Did you watch that -- look , come on , man , '' he say , in reference to Mr Trump 's cognitive test discuss during an interview with Fox News . When ask for a response to Donald Trump , who have brag about pass a cognitive test and make Mr Biden 's mental state an issue for voter , the former vice president dismiss the question a try to provoke a reaction .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "At an event for black and Hispanic journalist , the presumptive Democratic presidential nominee compare the question to ask CBS News correspondent Errol Barnett if he be use cocaine during the interview .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Joe Biden ask an African American reporter if he be a `` junkie '' for question whether the former vice president have take a cognitive test in response to attack target his mental health .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a campaign event in June , Mr Biden previously say he 's `` be test and I 'm constantly test '' when ask about his mental state , but the CBS News interview release on Wednesday be his first confirmation that he have not take a formal test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Did you watch that -- look , come on , man , '' he say , in reference to Mr Trump 's cognitive test discuss during an interview with Fox News .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When ask for a response to Donald Trump , who have brag about pass a cognitive test and make Mr Biden 's mental state an issue for voter , the former vice president dismiss the question a try to provoke a reaction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/election-2020-ap-top-news-race-and-ethnicity-politics-joe-biden-6cbd8c13529fee67c42e417175c425e5",
+            "content": "”\nIn a late interview with National Public Radio ’ s Lulu Garcia-Navarro , Biden seem to draw distinction between Black and Hispanic population in the U.S. “ Unlike the African American community , with notable exception , the Latino community be an incredibly diverse community with incredibly different attitude about different thing , ” he tell the Latina reporter . When press by Errol Barnett of CBS News on whether he ’ d take a cognitive test , Biden respond that the question be akin to ask the Black reporter if he would take a drug test to see if “ you ’ re take cocaine or not ? ”\nDaughtry say that she be willing to give Biden “ a pas ” on his comment after listen to the full interview , but young voter might not be so forgiving .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nIn a late interview with National Public Radio ’ s Lulu Garcia-Navarro , Biden seem to draw distinction between Black and Hispanic population in the U.S. “ Unlike the African American community , with notable exception , the Latino community be an incredibly diverse community with incredibly different attitude about different thing , ” he tell the Latina reporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When press by Errol Barnett of CBS News on whether he ’ d take a cognitive test , Biden respond that the question be akin to ask the Black reporter if he would take a drug test to see if “ you ’ re take cocaine or not ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nDaughtry say that she be willing to give Biden “ a pas ” on his comment after listen to the full interview , but young voter might not be so forgiving .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/now/biden-interview-nabj-nahj-cognitive-test-090013631.html",
+            "content": "’ ”\nBarnett follow up by ask Biden what he would say to Trump , “ who brag about his test and make your mental state an issue for voter ? WASHINGTON — Presumptive Democratic nominee Joe Biden shrug off a question Tuesday about take a cognitive assessment test , which President Trump have challenge him to do — while misrepresent what the test measure . When ask about it by a reporter at the end of July , Biden say he be “ constantly test ” by actively campaign for president . In a recent interview with Fox News journalist Chris Wallace , Trump say he receive perfect mark and say that Biden “ could not answer those question . In an exchange with CBS ’ s Errol Barnett during a wide-ranging , multi-moderator interview at a conference of Black and Latino journalist , Biden balk at Barnett ’ s question about whether Biden have even take an exam . Biden address the challenge Tuesday during an interview that will air Thursday at the convention of the National Association of Black Journalists and National Association of Hispanic Journalists .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "’ ”\nBarnett follow up by ask Biden what he would say to Trump , “ who brag about his test and make your mental state an issue for voter ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON — Presumptive Democratic nominee Joe Biden shrug off a question Tuesday about take a cognitive assessment test , which President Trump have challenge him to do — while misrepresent what the test measure .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When ask about it by a reporter at the end of July , Biden say he be “ constantly test ” by actively campaign for president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a recent interview with Fox News journalist Chris Wallace , Trump say he receive perfect mark and say that Biden “ could not answer those question .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In an exchange with CBS ’ s Errol Barnett during a wide-ranging , multi-moderator interview at a conference of Black and Latino journalist , Biden balk at Barnett ’ s question about whether Biden have even take an exam .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden address the challenge Tuesday during an interview that will air Thursday at the convention of the National Association of Black Journalists and National Association of Hispanic Journalists .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://reason.com/2020/08/05/joe-biden-why-the-hell-would-i-take-a-test-are-you-a-junkie/",
+            "content": "The bottom line here be that when a black reporter ask Biden about his mental fitness , Biden ask the guy if he be a junkie in response . In an interview earlier today with CBS 's Errol Barnett , Biden scoff at the idea that because of his advanced age—he would be the old person ever to take office if elect in November—he should take a test to show he have his wit about him ( a few week ago , Trump discuss take a cognitive test on Fox News ) . @ CBSNews\nI ’ m think the best add Trump could run would just contain Joe Biden interview clip . As for our current pick , it be hard to see Biden stumble a any bad that Trump have be in his recent interview . kinda seem like he do , with the ‘ be you a junkie ’ question\nNow apply that same reasoning to the Axios interview of Trump . Joe Biden be sell your job to the high bidder , just a Obama do . If someone accuse a presidential candidate of be a coke whore , should that candidate immediately rush out to take a drug test ? If the candidate be African American , but there be suspicion regard his cognitive ability ; slur speech , limp and suffer from spasticity ( like me ) ; which one of you fool be go to ask him/her to take a test to prove he ’ s smart enough to be President ? > unironically ask a black man if he be a junkie… Are we sure creepy Uncle Joe isn ’ t alt right ? he ask angrily before launch a rant :\nThat 's like say , 'You—before you get on this program you take a test where you 're take cocaine or not , what do you think ?",
+            "domain": "reason.com",
+            "tokenized": [
+                {
+                    "sent": "The bottom line here be that when a black reporter ask Biden about his mental fitness , Biden ask the guy if he be a junkie in response .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In an interview earlier today with CBS 's Errol Barnett , Biden scoff at the idea that because of his advanced age—he would be the old person ever to take office if elect in November—he should take a test to show he have his wit about him ( a few week ago , Trump discuss take a cognitive test on Fox News ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "@ CBSNews\nI ’ m think the best add Trump could run would just contain Joe Biden interview clip .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for our current pick , it be hard to see Biden stumble a any bad that Trump have be in his recent interview .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "kinda seem like he do , with the ‘ be you a junkie ’ question\nNow apply that same reasoning to the Axios interview of Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Joe Biden be sell your job to the high bidder , just a Obama do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If someone accuse a presidential candidate of be a coke whore , should that candidate immediately rush out to take a drug test ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the candidate be African American , but there be suspicion regard his cognitive ability ; slur speech , limp and suffer from spasticity ( like me ) ; which one of you fool be go to ask him/her to take a test to prove he ’ s smart enough to be President ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "> unironically ask a black man if he be a junkie… Are we sure creepy Uncle Joe isn ’ t alt right ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "he ask angrily before launch a rant :\nThat 's like say , 'You—before you get on this program you take a test where you 're take cocaine or not , what do you think ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bostonglobe.com/2020/08/10/opinion/how-many-insults-are-black-voters-supposed-take-joe-biden/",
+            "content": "Last week , at a convention for Black and Hispanic journalist , a Black reporter ask Joe Biden whether he have take a cognitive test . But the Biden campaign be basically allow to brush off the query a “ preposterous ” rather than address the appropriateness of the word speak by Trump ’ s Democratic challenger . Besides the matter of relatively low-key medium coverage of Biden ’ s over-wrought objection to a perfectly valid question pose to a 77-year-old presidential candidate , it raise another serious political issue : How many more insult will Black voter take from Biden in the interest of defeat Trump ? “ He ’ s make u all nervous , ” say Joyce Ferriabough Bolling , a medium and political strategist , about Biden ’ s recent gaffe . Today , she defend Biden the same way she defend Jackson — say she know “ what ’ s in his heart , ” no matter how awkwardly those feeling may be express . This be Biden ’ s response : “ No , I haven ’ t take a test .",
+            "domain": "www.bostonglobe.com",
+            "tokenized": [
+                {
+                    "sent": "Last week , at a convention for Black and Hispanic journalist , a Black reporter ask Joe Biden whether he have take a cognitive test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the Biden campaign be basically allow to brush off the query a “ preposterous ” rather than address the appropriateness of the word speak by Trump ’ s Democratic challenger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Besides the matter of relatively low-key medium coverage of Biden ’ s over-wrought objection to a perfectly valid question pose to a 77-year-old presidential candidate , it raise another serious political issue : How many more insult will Black voter take from Biden in the interest of defeat Trump ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ He ’ s make u all nervous , ” say Joyce Ferriabough Bolling , a medium and political strategist , about Biden ’ s recent gaffe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Today , she defend Biden the same way she defend Jackson — say she know “ what ’ s in his heart , ” no matter how awkwardly those feeling may be express .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be Biden ’ s response : “ No , I haven ’ t take a test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/08/05/joe-biden-reporter-cognitive-test-391771",
+            "content": "Joe Biden rebuke a reporter who ask if the former vice president have take a cognitive test , claim that ask the question be similar to ask the interviewer if he be use cocaine . `` Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , ” Biden say , reference question on Trump ’ s report cognitive test that make headline during a July interview with Chris Wallace of Fox News . At a press conference in late June , a reporter ask Biden if he have take a cognitive test . In the interview segment release on Wednesday , Biden again go after Trump . CBS correspondent Errol Barnett prompt the presumptive Democratic nominee to clarify if he have take a test measure his mental acuity , lead to a tense exchange .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden rebuke a reporter who ask if the former vice president have take a cognitive test , claim that ask the question be similar to ask the interviewer if he be use cocaine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , ” Biden say , reference question on Trump ’ s report cognitive test that make headline during a July interview with Chris Wallace of Fox News .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a press conference in late June , a reporter ask Biden if he have take a cognitive test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the interview segment release on Wednesday , Biden again go after Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CBS correspondent Errol Barnett prompt the presumptive Democratic nominee to clarify if he have take a test measure his mental acuity , lead to a tense exchange .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2020/08/05/biden-snaps-at-reporter-questioning-his-cognitive-abilities/",
+            "content": "An irritated Joe Biden snap at a reporter when press Wednesday on whether he have take a cognitive test — defensively ask the interviewer if he be a junkie and test for cocaine use . The 77-year-old Democratic presidential nominee also confirm he have never take a cognitive test , counter remark he make in June in which he say he be “ constantly test ” for mental decline . ”\nBiden continue scoff a Barnett ask him what he think of President Trump , 74 , make his Democratic opponent ’ s mental state an issue for voter . During a press conference in June where he take question for the first time in three month , Biden tell reporter he be “ constantly test ” for cognitive decline . The heated exchange happen during an interview with CBS correspondent Errol Barnett , who ask Biden to clarify if he have take a test to measure his mental acuity . “ All you get ta do be watch me and I can hardly wait to compare my cognitive capability to the cognitive capability of the man I ’ m run against , ” he say after call the reporter a “ lie dog face .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "An irritated Joe Biden snap at a reporter when press Wednesday on whether he have take a cognitive test — defensively ask the interviewer if he be a junkie and test for cocaine use .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The 77-year-old Democratic presidential nominee also confirm he have never take a cognitive test , counter remark he make in June in which he say he be “ constantly test ” for mental decline .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden continue scoff a Barnett ask him what he think of President Trump , 74 , make his Democratic opponent ’ s mental state an issue for voter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During a press conference in June where he take question for the first time in three month , Biden tell reporter he be “ constantly test ” for cognitive decline .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The heated exchange happen during an interview with CBS correspondent Errol Barnett , who ask Biden to clarify if he have take a test to measure his mental acuity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ All you get ta do be watch me and I can hardly wait to compare my cognitive capability to the cognitive capability of the man I ’ m run against , ” he say after call the reporter a “ lie dog face .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalreview.com/corner/biden-to-black-journalist-are-you-a-junkie/",
+            "content": "Unsurprisingly , many be cringe that Biden be , unprompted , ask an African-American journalist if he ’ s “ a junkie ” . Shortly after President Trump ’ s effort to win reelection be challenge by an interview with Jonathan Swan that go wildly off the rail , former Vice President Biden turn in his own train wreck of an interview , get testy with CBS News correspondent Errol Barnett during a virtual convention of the National Association of Black Journalists and the National Association of Hispanic Journalists . FORMER VICE PRESIDENT JOE BIDEN : No , I haven ’ t take a test ! three month after Biden tell radio DJ Charlamagne tha God , “ If you have a problem figure out whether you ’ re for me or Trump , then you ain ’ t black .",
+            "domain": "www.nationalreview.com",
+            "tokenized": [
+                {
+                    "sent": "Unsurprisingly , many be cringe that Biden be , unprompted , ask an African-American journalist if he ’ s “ a junkie ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shortly after President Trump ’ s effort to win reelection be challenge by an interview with Jonathan Swan that go wildly off the rail , former Vice President Biden turn in his own train wreck of an interview , get testy with CBS News correspondent Errol Barnett during a virtual convention of the National Association of Black Journalists and the National Association of Hispanic Journalists .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "FORMER VICE PRESIDENT JOE BIDEN : No , I haven ’ t take a test !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "three month after Biden tell radio DJ Charlamagne tha God , “ If you have a problem figure out whether you ’ re for me or Trump , then you ain ’ t black .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wibc.com/blogs/chicks/angry-joe-biden-lashes-out-in-interview-are-you-a-junkie/",
+            "content": "Former vice president Joe Biden tore into an innocent reporter who respectfully ask if the presumptive sufferer of dementia have take a cognitive test , tell the terrified journalist that ask the question be similar to ask the interviewer if he be use cocaine . The CBS reporter attempt to move on , but Biden wasn ’ t have it .",
+            "domain": "www.wibc.com",
+            "tokenized": [
+                {
+                    "sent": "Former vice president Joe Biden tore into an innocent reporter who respectfully ask if the presumptive sufferer of dementia have take a cognitive test , tell the terrified journalist that ask the question be similar to ask the interviewer if he be use cocaine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The CBS reporter attempt to move on , but Biden wasn ’ t have it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://wbsm.com/biden-shouldnt-get-a-pass-for-junkie-remark-opinion/",
+            "content": "In what have become routine these day , presumptive Democrat presidential nominee Joe Biden make an outrageous statement , and it go largely unchallenged by most in the medium . ” Of course , just week ago , Biden tell reporter he be “ constantly test ” for cognitive decline . Biden reply by ask the reporter if he be a `` junkie '' and if he have be test for cocaine use . Could you imagine the absolute furor have Donald Trump ask a Black reporter if he have be test for cocaine and whether or not he be a junkie ? On Wednesday , Biden lose what 's left of be mind when a reporter ask him whether he have take a cognitive test . Biden snap , “ No , I haven ’ t take a test .",
+            "domain": "wbsm.com",
+            "tokenized": [
+                {
+                    "sent": "In what have become routine these day , presumptive Democrat presidential nominee Joe Biden make an outrageous statement , and it go largely unchallenged by most in the medium .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Of course , just week ago , Biden tell reporter he be “ constantly test ” for cognitive decline .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden reply by ask the reporter if he be a `` junkie '' and if he have be test for cocaine use .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Could you imagine the absolute furor have Donald Trump ask a Black reporter if he have be test for cocaine and whether or not he be a junkie ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Wednesday , Biden lose what 's left of be mind when a reporter ask him whether he have take a cognitive test .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden snap , “ No , I haven ’ t take a test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://247sports.com/college/west-virginia/board/103782/Contents/camaro-joe-asks-black-reporter-if-hes-a-junkie-149891519/",
+            "content": "Thread be about Joe ask a black reporter if he 's a junkie ... and a leftist schmuck drop a but Trump ... while accuse others of deflecting.YCMTSU\nWVU1andONLY say ... ( original post ) Thread be about Joe ask a black reporter if he 's a junkie ... and a leftist schmuck drop a but Trump ... while accuse others of deflect ... Joe , in interview with CBS Errol Barnett :\nBIDEN : `` No , I have n't take a test .",
+            "domain": "247sports.com",
+            "tokenized": [
+                {
+                    "sent": "Thread be about Joe ask a black reporter if he 's a junkie ... and a leftist schmuck drop a but Trump ... while accuse others of deflecting.YCMTSU\nWVU1andONLY say ... ( original post ) Thread be about Joe ask a black reporter if he 's a junkie ... and a leftist schmuck drop a but Trump ... while accuse others of deflect ... Joe , in interview with CBS Errol Barnett :\nBIDEN : `` No , I have n't take a test .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8595797/Joe-Biden-says-no-Donald-Trumps-cognitive-test-challenge.html",
+            "content": "In an interview with 'Fox News Sunday ' last month , host Chris Wallace tell the president he also take the test and it be n't the 'hardest . ' , ' Biden say in an interview with the National Association of Black Journalists and National Association of Hispanic Journalists that 's set to air in full on Thursday . @ CBSNews\n'Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , ' the presumptive Democratic nominee say .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "In an interview with 'Fox News Sunday ' last month , host Chris Wallace tell the president he also take the test and it be n't the 'hardest . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", ' Biden say in an interview with the National Association of Black Journalists and National Association of Hispanic Journalists that 's set to air in full on Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "@ CBSNews\n'Well , if he ca n't figure out the difference between an elephant and a lion , I do n't know what the hell he 's talk about , ' the presumptive Democratic nominee say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/the-hunter-biden-story-is-a-troubling-tale-of-privilege/2019/10/04/8ad20988-e46e-11e9-b403-f738899982d2_story.html",
+            "content": "Because let ’ s be real , folk , a Joe Biden like to say : The crash take their mother , but in a real sense , that election take their father .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Because let ’ s be real , folk , a Joe Biden like to say : The crash take their mother , but in a real sense , that election take their father .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.newsminer.com/opinion/letters_to_editor/dont-vote-for-joe/article_359af9fe-e42a-11ea-b71d-4f025b6975e2.html",
+            "content": "” Yep , that ’ s our Joe ( CNN Politics Feb. 09 , 2007 ) .",
+            "domain": "www.newsminer.com",
+            "tokenized": [
+                {
+                    "sent": "” Yep , that ’ s our Joe ( CNN Politics Feb. 09 , 2007 ) .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}
