@@ -1,0 +1,807 @@
+{
+    "event_id": "197932",
+    "claim": "U.S. President Donald Trump said he liked \"the sun better than the artificial non-sun\" during a rally.",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "On 20 May 2019, U.S. President Donald Trump held a rally at the Energy Aviation Hangar in the Pennsylvania borough of Montoursville. Early on in his speech, the president encountered difficulties with the lighting in the hangar glaring in his eyes and asked that the lights be turned down, saying: “You know, I thought that was the sun in my eyes; it’s these stupid lights, these people … I mean what are they doing? Is there any way they can turn these lights down, folks?”Trump then offered some additional words about the sun before resuming his speech, words that prompted reactions ranging from confusion to the creation of derisive memes:The full statement uttered by Trump was often cited as the following:“You know, I thought that was the sun in my eyes; it’s these stupid lights, these people … I mean what are they doing? Is there any way they can turn these lights down, folks? Crazy. You’ve got a thing called the sun; we like the sun better than the artificial non-sun.”However, some reports of the speech did not present Trump as saying anything about a “non-sun” (or “not sun”), but rather exclaiming that “we like the sun better than the artificial .” The event was captured on video, but no consensus seems to exist among viewers about what the president said — some hear “non-sun” while others hear “nonsense”:The White House did not immediately respond to our request to verify exactly what Trump said.",
+    "reports": [
+        {
+            "link": "https://www.usatoday.com/story/news/politics/onpolitics/2018/07/31/trump-jokes-acting-presidential-abraham-lincoln-florida-rally/876750002/",
+            "content": "In the middle of his hour-long rally , Trump say it be a `` lot easy to act presidential than to do what I do '' and he like to be open and `` have a little fun '' with crowd . President Donald Trump joke with the crowd at his rally in Tampa , Fla. Tuesday even about not act presidential , even strut across the stage to show the crowd he could act like other politician if he want to . `` I beat our Honest Abe , '' the president tell The Sun . `` Anybody can act presidential , '' he say a he jokingly walk over to the microphone then seem to mimic how any politician would open a speech .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "In the middle of his hour-long rally , Trump say it be a `` lot easy to act presidential than to do what I do '' and he like to be open and `` have a little fun '' with crowd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump joke with the crowd at his rally in Tampa , Fla. Tuesday even about not act presidential , even strut across the stage to show the crowd he could act like other politician if he want to .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I beat our Honest Abe , '' the president tell The Sun .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Anybody can act presidential , '' he say a he jokingly walk over to the microphone then seem to mimic how any politician would open a speech .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/11/03/republicans-trump-election-threats-433910",
+            "content": "President Donald Trump speak at a campaign rally at Gerald R. Ford International Airport , early Tuesday , Nov. 3 , 2020 , in Grand Rapids , Mich. | Evan Vucci/ AP Photo\nAt rally across the Midwest and Sun Belt swing state , President Donald Trump have be openly discuss murky scheme to prevent legitimate ballot from be count , escalate threat to disenfranchise million of American a the weeks-long voting season end tonight and his pathway to reelection becomes increasingly narrow . “ When Donald Trump say , ‘ I think I deserve a third term , or I think the election should end on election night , that ’ s the way it ’ s always be , ’ I don ’ t think he ’ s joking . “ For month now the president have question the integrity of the election , and now at the 11th hour , he ’ s signal prematurely that he ’ ll declare victory before the result be certain , set the stage for further discord , ” say Miles Taylor , the former chief of staff at the Department of Homeland Security who recently unmask himself a Anonymous , the internal Trump critic who publish a scathing op-ed in The New York Times . “ There be lot of reason to believe that what Trump be talk about or contemplate can not be accomplish , ” say Schatz , who be outrage by the dearth of Republicans who have criticize the president ’ s false statement about when ballot be count . “ President Trump will be ahead on election night , probably get 280 electoral [ vote ] — somewhere in that range , and then they ’ re go to try to steal it back after the election , ” Miller say , suggest that fully count ballot be a Democratic plot . It ’ s not new for Trump ’ s party brother to duck and cover when he say something trouble . ”\nMany Republicans insist they be disgust by Trump ’ s threat , they just aren ’ t willing to say so publicly . ”\nWhen ask if there be a “ West-Wing ” like contingency plan for Republican leader if Trump do something radical in the coming day , the senior Senate GOP aide be coy . ”\nDemocrats have be clear in their condemnation of the president ’ s comment , which they consider the most worrisome of Trump ’ s four year in office , which be often mark by anti-democratic rhetoric . Dozens of quietly anti-Trump member on Capitol Hill , or who leave the Trump administration , usually in disgust , be willing to torch the president — but only under the cloak of anonymity .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump speak at a campaign rally at Gerald R. Ford International Airport , early Tuesday , Nov. 3 , 2020 , in Grand Rapids , Mich. | Evan Vucci/ AP Photo\nAt rally across the Midwest and Sun Belt swing state , President Donald Trump have be openly discuss murky scheme to prevent legitimate ballot from be count , escalate threat to disenfranchise million of American a the weeks-long voting season end tonight and his pathway to reelection becomes increasingly narrow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When Donald Trump say , ‘ I think I deserve a third term , or I think the election should end on election night , that ’ s the way it ’ s always be , ’ I don ’ t think he ’ s joking .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ For month now the president have question the integrity of the election , and now at the 11th hour , he ’ s signal prematurely that he ’ ll declare victory before the result be certain , set the stage for further discord , ” say Miles Taylor , the former chief of staff at the Department of Homeland Security who recently unmask himself a Anonymous , the internal Trump critic who publish a scathing op-ed in The New York Times .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ There be lot of reason to believe that what Trump be talk about or contemplate can not be accomplish , ” say Schatz , who be outrage by the dearth of Republicans who have criticize the president ’ s false statement about when ballot be count .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ President Trump will be ahead on election night , probably get 280 electoral [ vote ] — somewhere in that range , and then they ’ re go to try to steal it back after the election , ” Miller say , suggest that fully count ballot be a Democratic plot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s not new for Trump ’ s party brother to duck and cover when he say something trouble .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMany Republicans insist they be disgust by Trump ’ s threat , they just aren ’ t willing to say so publicly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhen ask if there be a “ West-Wing ” like contingency plan for Republican leader if Trump do something radical in the coming day , the senior Senate GOP aide be coy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDemocrats have be clear in their condemnation of the president ’ s comment , which they consider the most worrisome of Trump ’ s four year in office , which be often mark by anti-democratic rhetoric .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dozens of quietly anti-Trump member on Capitol Hill , or who leave the Trump administration , usually in disgust , be willing to torch the president — but only under the cloak of anonymity .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://lasvegassun.com/news/2020/sep/11/trump-to-hold-rally-sunday-at-henderson-manufactur/",
+            "content": "President Donald Trump ’ s swing through Nevada this weekend , his first since the state have be battle the coronavirus pandemic , will include a rally Sunday in Henderson . President Donald Trump stand on stage after speak at a campaign rally at Smith Reynolds Airport , Tuesday , Sept. 8 , 2020 , in Winston-Salem , N.C . Trump will also hold a rally Saturday at the Minden-Tahoe Airport in Douglas County and a Latinos for Trump roundtable at 10 a.m. Sunday at Treasure Island .",
+            "domain": "lasvegassun.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump ’ s swing through Nevada this weekend , his first since the state have be battle the coronavirus pandemic , will include a rally Sunday in Henderson .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump stand on stage after speak at a campaign rally at Smith Reynolds Airport , Tuesday , Sept. 8 , 2020 , in Winston-Salem , N.C .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump will also hold a rally Saturday at the Minden-Tahoe Airport in Douglas County and a Latinos for Trump roundtable at 10 a.m. Sunday at Treasure Island .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbur.org/news/2020/10/04/trump-train-supporters-covid",
+            "content": "Ragosta say she participate in the Trump Train because of her `` devotion to the president . '' Mountain , who say he be not wear a mask `` because [ the Trump Train ] be an outdoor event '' say he `` be devastate '' when he find out about the president 's health . `` I think I 'm scared about what this imply , '' Johnson say , look around the parking lot , surround by devoted Trump fan . At a Lexington rest stop , one of the rallying point for the `` Trump Train , '' there be big TRUMP 2020 flag fly from pickup truck and flag with the president 's face superimpose onto Rambo 's body gallantly stream from Jeeps . In chat and interview with WBUR , supporter dismiss Trump admit to downplay the severity of the pandemic and laud the president for pay little in tax . Tom Mountain , one of the organizer , say the event be plan before Trump announce that he have test positive for COVID-19 , but that the diagnosis galvanize more people to join . `` Because if he be able to rally his supporter like this with everything he 's talk about — the fraudulent election , the coronavirus , the racial unrest — I feel like we 're a tweet away from civil war . But David Morin , of Connecticut , drive a red pickup with a `` Catholics For Trump '' sign on the back of the tailgate , say that in a Biden presidency , '' God , country , the First Amendment , the Second Amendment , that 's all gon na be eliminate . ''",
+            "domain": "www.wbur.org",
+            "tokenized": [
+                {
+                    "sent": "Ragosta say she participate in the Trump Train because of her `` devotion to the president . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mountain , who say he be not wear a mask `` because [ the Trump Train ] be an outdoor event '' say he `` be devastate '' when he find out about the president 's health .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I think I 'm scared about what this imply , '' Johnson say , look around the parking lot , surround by devoted Trump fan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At a Lexington rest stop , one of the rallying point for the `` Trump Train , '' there be big TRUMP 2020 flag fly from pickup truck and flag with the president 's face superimpose onto Rambo 's body gallantly stream from Jeeps .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In chat and interview with WBUR , supporter dismiss Trump admit to downplay the severity of the pandemic and laud the president for pay little in tax .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tom Mountain , one of the organizer , say the event be plan before Trump announce that he have test positive for COVID-19 , but that the diagnosis galvanize more people to join .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Because if he be able to rally his supporter like this with everything he 's talk about — the fraudulent election , the coronavirus , the racial unrest — I feel like we 're a tweet away from civil war .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But David Morin , of Connecticut , drive a red pickup with a `` Catholics For Trump '' sign on the back of the tailgate , say that in a Biden presidency , '' God , country , the First Amendment , the Second Amendment , that 's all gon na be eliminate . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thenevadaindependent.com/article/trump-rally-goers-on-why-they-took-the-risk-to-attend-nevada-campaign-events-favor-the-president-amid-pandemic",
+            "content": "Thousands pour into Minden and Henderson for one of the few in-person campaign event expect to take place in the Silver State during an election cycle alter by coronavirus , brave smoke in the north and unrelenting summer sun in the south for a chance to hear the president speak amid a close race between Donald Trump and Joe Biden . When ask about how some people have criticize Trump 's attack on opponent , Mercer highlight job Trump have bring and say he 's `` do well thing than a lot of people . '' Even though she 's not a `` Vegas fan , '' she say she could `` never go back '' to her native California and think that if more Californians like herself flock to Nevada , Trump will win the Silver State . Though he vote for Obama in 2008 and 2012 , Delfino say he want someone like Trump who “ speak out loud ” and would stand up to the status quo . ”\nAnd even with the surprise highlight of the Trump rally , the two say the trip isn ’ t one they ’ d be excite to repeat . `` I do support Trump , and it 's mostly that he be for freedom , '' the woman say . Michael Pannone , a 65-year-old retired highway worker , come to the Henderson Trump rally deck out in Trump gear from head to toe : colorful Trump shoe , a navy `` Make America Great Again '' shirt and a red Trump 2020 cloth mask . `` I think a lot of people be feed up with Sisolak , and that might carry Trump to victory out here , '' he say . `` When he run in 2016 , I be just like 'oh he 's just president , it wo n't affect me because I 'm not an adult . ' You ca n't support your president Donald Trump . However , Lady MAGA USA say that after he start support President Trump , friend of his ostracized him , and various LGBTQ community member threaten and insult him . `` By dress up a a drag queen for Trump , I be very deliberately and openly defy the stereotype of conservative , because they be not homophobic , they be not hateful , I be welcome here , '' Lady MAGA USA say . `` I 'm glad to support our president , he have get four more year come , '' Delfino say . Though Lady MAGA USA say that he know some of the attendee at Trump rally be not fond of the idea of someone dress up in drag , they generally leave him alone out of respect for his First Amendment right . `` I actually think that Trump have do a lot for woman , business , you know , African-Americans , ” she say . Olivia Vieira 's mom be the one who have the idea to drive the six or so hour from their home in the central coast of California to attend the Trump rally in Henderson , but she do n't have to drag a reluctant 13-year-old : Vieira want to come because she support Trump , too , and have since he run in 2016 . Kathleen Robinson will `` absolutely '' vote for Trump in 2020 just like she do in 2016 . `` I have people around here cheer me on say , ‘ you be welcome here , ’ where if I be to wear my Trump gear and go to a gay night club or a mainstream drag show , I would literally be ask to leave . `` Honestly , I do n't think there 's any way that Trump 's gon na lose , '' Urton , 66 , say . Robinson , a manager at a health care company in Las Vegas , say she 's be a Trump supporter since he announce his campaign . ”\nHeather be previously register a an independent , but after vote for Trump in 2016 and say she be glad to see him make good on promise he make during his campaign , she make the choice to register a a Republican . `` Because of the hate that you get for say that you 're a Trump supporter , a lot of them just step back and do n't really speak out , '' she say . She say she worry about lose her freedom of speech , which be why she 's vote for Trump . Urton describe herself a a `` die hard Trump fan '' and agree with Trump 's political stance , from his `` America First '' philosophy to the border wall to his stated desire to reinvigorate the manufacturing industry . ”\nJarred Smith , a 21-year-old from Minden training to be a helicopter pilot , say that he be unequivocally vote for Trump , especially after all the recent protest and political turmoil . `` That 's why I do n't think a lot of people like Donald : because he 's very blunt . '' ”\n`` We 're united a a family and we 're here to support Trump and to show our kid that we have to stand and let them know we have a voice , '' Elviraa say .",
+            "domain": "thenevadaindependent.com",
+            "tokenized": [
+                {
+                    "sent": "Thousands pour into Minden and Henderson for one of the few in-person campaign event expect to take place in the Silver State during an election cycle alter by coronavirus , brave smoke in the north and unrelenting summer sun in the south for a chance to hear the president speak amid a close race between Donald Trump and Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask about how some people have criticize Trump 's attack on opponent , Mercer highlight job Trump have bring and say he 's `` do well thing than a lot of people . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even though she 's not a `` Vegas fan , '' she say she could `` never go back '' to her native California and think that if more Californians like herself flock to Nevada , Trump will win the Silver State .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though he vote for Obama in 2008 and 2012 , Delfino say he want someone like Trump who “ speak out loud ” and would stand up to the status quo .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAnd even with the surprise highlight of the Trump rally , the two say the trip isn ’ t one they ’ d be excite to repeat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I do support Trump , and it 's mostly that he be for freedom , '' the woman say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michael Pannone , a 65-year-old retired highway worker , come to the Henderson Trump rally deck out in Trump gear from head to toe : colorful Trump shoe , a navy `` Make America Great Again '' shirt and a red Trump 2020 cloth mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I think a lot of people be feed up with Sisolak , and that might carry Trump to victory out here , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` When he run in 2016 , I be just like 'oh he 's just president , it wo n't affect me because I 'm not an adult . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You ca n't support your president Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , Lady MAGA USA say that after he start support President Trump , friend of his ostracized him , and various LGBTQ community member threaten and insult him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` By dress up a a drag queen for Trump , I be very deliberately and openly defy the stereotype of conservative , because they be not homophobic , they be not hateful , I be welcome here , '' Lady MAGA USA say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I 'm glad to support our president , he have get four more year come , '' Delfino say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though Lady MAGA USA say that he know some of the attendee at Trump rally be not fond of the idea of someone dress up in drag , they generally leave him alone out of respect for his First Amendment right .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I actually think that Trump have do a lot for woman , business , you know , African-Americans , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Olivia Vieira 's mom be the one who have the idea to drive the six or so hour from their home in the central coast of California to attend the Trump rally in Henderson , but she do n't have to drag a reluctant 13-year-old : Vieira want to come because she support Trump , too , and have since he run in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kathleen Robinson will `` absolutely '' vote for Trump in 2020 just like she do in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I have people around here cheer me on say , ‘ you be welcome here , ’ where if I be to wear my Trump gear and go to a gay night club or a mainstream drag show , I would literally be ask to leave .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Honestly , I do n't think there 's any way that Trump 's gon na lose , '' Urton , 66 , say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Robinson , a manager at a health care company in Las Vegas , say she 's be a Trump supporter since he announce his campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHeather be previously register a an independent , but after vote for Trump in 2016 and say she be glad to see him make good on promise he make during his campaign , she make the choice to register a a Republican .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Because of the hate that you get for say that you 're a Trump supporter , a lot of them just step back and do n't really speak out , '' she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say she worry about lose her freedom of speech , which be why she 's vote for Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Urton describe herself a a `` die hard Trump fan '' and agree with Trump 's political stance , from his `` America First '' philosophy to the border wall to his stated desire to reinvigorate the manufacturing industry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nJarred Smith , a 21-year-old from Minden training to be a helicopter pilot , say that he be unequivocally vote for Trump , especially after all the recent protest and political turmoil .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` That 's why I do n't think a lot of people like Donald : because he 's very blunt . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n`` We 're united a a family and we 're here to support Trump and to show our kid that we have to stand and let them know we have a voice , '' Elviraa say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/trump-wisconsin-rallies-coronavirus/2020/09/30/edf25c70-027c-11eb-b7ed-141dd88560ea_story.html",
+            "content": "“ Americans be enthusiastic for President Trump ’ s reelection , ” Parella say in a statement . During Tuesday ’ s debate , Trump defend his event a opportunity for his supporter to gather to hear him and claim that there have be “ no negative effect ” from his rally , even though health official in Tulsa say a spike in covid-19 case be “ likely ” spark by an indoor Trump gathering in June . Ahead of Trump ’ s schedule rally in Green Bay , the Bellin Health System say Tuesday that it hospital in that city be at 94 percent capacity a covid-19 continue to spike in the community . Biden , by contrast , say Trump have be “ totally irresponsible ” in the way he have handle social distancing and mask , and in hold large rally . President Trump have schedule large campaign rally this weekend in Wisconsin despite recommendation from the White House Coronavirus Task Force that call for increase social distancing in the state “ to the maximal degree possible . Questions about whether Trump should gather large crowd come a the president face off against his Democratic rival , Joe Biden , for the first presidential debate , offer sharply different opinion on whether public health recommendation against large crowd be justify . “ But Donald Trump be needlessly put his own supporter and whole community in danger with potential super-spreader gathering . “ Basically he have be a fool on this , ” Biden say of Trump . ”\nTrump also plan outdoor airport rally in Duluth , Minn. , on Wednesday , and Sanford , Fla. , on Friday .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "“ Americans be enthusiastic for President Trump ’ s reelection , ” Parella say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During Tuesday ’ s debate , Trump defend his event a opportunity for his supporter to gather to hear him and claim that there have be “ no negative effect ” from his rally , even though health official in Tulsa say a spike in covid-19 case be “ likely ” spark by an indoor Trump gathering in June .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ahead of Trump ’ s schedule rally in Green Bay , the Bellin Health System say Tuesday that it hospital in that city be at 94 percent capacity a covid-19 continue to spike in the community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden , by contrast , say Trump have be “ totally irresponsible ” in the way he have handle social distancing and mask , and in hold large rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump have schedule large campaign rally this weekend in Wisconsin despite recommendation from the White House Coronavirus Task Force that call for increase social distancing in the state “ to the maximal degree possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Questions about whether Trump should gather large crowd come a the president face off against his Democratic rival , Joe Biden , for the first presidential debate , offer sharply different opinion on whether public health recommendation against large crowd be justify .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ But Donald Trump be needlessly put his own supporter and whole community in danger with potential super-spreader gathering .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Basically he have be a fool on this , ” Biden say of Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump also plan outdoor airport rally in Duluth , Minn. , on Wednesday , and Sanford , Fla. , on Friday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0110-thomas-trump-christians-20200109-2cjz2uyqhfdmnilg3wvfaxaxca-story.html",
+            "content": "President Trump be right when he say he have do more to advance evangelical concern than any other president . The late dust-up occur after the depart editor of Christianity Today magazine , Mark Galli , write an editorial in which he say President Donald Trump be an immoral man and his impeachment by the House be cause for his immediate removal from office . He say one of the problem with uncritical evangelical support for the president be that it dilute their `` witness '' to non-believers , who think faith in God mean have to join the Republican Party and support the president .",
+            "domain": "www.baltimoresun.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump be right when he say he have do more to advance evangelical concern than any other president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The late dust-up occur after the depart editor of Christianity Today magazine , Mark Galli , write an editorial in which he say President Donald Trump be an immoral man and his impeachment by the House be cause for his immediate removal from office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say one of the problem with uncritical evangelical support for the president be that it dilute their `` witness '' to non-believers , who think faith in God mean have to join the Republican Party and support the president .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/election-us-2020-55292610",
+            "content": "Mr Trump cause controversy by say the group should `` stand back and stand by '' during a September presidential debate , though he later condemn `` all white supremacist '' . Cheers erupt a the presidential helicopter , Marine One , fly over the Washington rally carry Mr Trump to the Army-Navy football game at West Point , New York . Pro-Trump demonstrator , rally under the banner of `` Stop the Steal '' , be join by member of the far-right Proud Boys , dress in yellow and black , many wear bullet-proof vest .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Mr Trump cause controversy by say the group should `` stand back and stand by '' during a September presidential debate , though he later condemn `` all white supremacist '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cheers erupt a the presidential helicopter , Marine One , fly over the Washington rally carry Mr Trump to the Army-Navy football game at West Point , New York .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pro-Trump demonstrator , rally under the banner of `` Stop the Steal '' , be join by member of the far-right Proud Boys , dress in yellow and black , many wear bullet-proof vest .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2020/07/07/coronavirus-live-updates-us/",
+            "content": "President Trump ’ s supporter who plan to attend his Saturday campaign rally at the airport in Portsmouth , N.H. , will not be require to wear mask despite concern that large crowd could spread the novel coronavirus in one of the few state with decline case number . ”\nPresident Trump ’ s relentless attack on the security of mail voting be drive suspicion among GOP voter toward absentee ballot — a dynamic that be alarm Republican strategist , who say it could undercut their own candidate , include Trump himself . Trump say in-person education be essential for the well be of student , parent and the country a a whole , and he vow to keep up the pressure on governor to open building . “ We want to reopen the school , ” Trump say . The grow Republican antagonism toward vote by mail come even a the Trump campaign be launch a major absentee-ballot program in every competitive state , accord to multiple campaign adviser — a delicate balancing act , consider what one strategist describe a the president ’ s “ imprecision ” on the subject . Concerns that the rally could spread the virus follow report that six staffer who attend a Trump rally in Tulsa last month test positive for the virus hour before the event .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump ’ s supporter who plan to attend his Saturday campaign rally at the airport in Portsmouth , N.H. , will not be require to wear mask despite concern that large crowd could spread the novel coronavirus in one of the few state with decline case number .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nPresident Trump ’ s relentless attack on the security of mail voting be drive suspicion among GOP voter toward absentee ballot — a dynamic that be alarm Republican strategist , who say it could undercut their own candidate , include Trump himself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say in-person education be essential for the well be of student , parent and the country a a whole , and he vow to keep up the pressure on governor to open building .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We want to reopen the school , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The grow Republican antagonism toward vote by mail come even a the Trump campaign be launch a major absentee-ballot program in every competitive state , accord to multiple campaign adviser — a delicate balancing act , consider what one strategist describe a the president ’ s “ imprecision ” on the subject .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Concerns that the rally could spread the virus follow report that six staffer who attend a Trump rally in Tulsa last month test positive for the virus hour before the event .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sungazette.com/news/top-news/2020/09/regatta-rally-show-support-for-trump/",
+            "content": "Bridgid Redos , who attend the rally , say see the boater and motorcyclist “ stand together for Trump ” be the best part of the day . “ We be so proud of all the patriot that be come out to support our country and our amazing president , ” a Facebook post by the event ’ s organizer say ahead of the rally .",
+            "domain": "www.sungazette.com",
+            "tokenized": [
+                {
+                    "sent": "Bridgid Redos , who attend the rally , say see the boater and motorcyclist “ stand together for Trump ” be the best part of the day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be so proud of all the patriot that be come out to support our country and our amazing president , ” a Facebook post by the event ’ s organizer say ahead of the rally .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sunherald.com/news/politics-government/election/article246288675.html",
+            "content": "Many of rally attendee , some wear a shirt that say “ Vietnamese Americas for Trump against communist , ” say they believe Trump understand danger of communism like they do . More than 100 Vietnamese Americans , some from the Coast and others from across the United States , stand together in Biloxi on Wednesday for a rally to support President Donald Trump . ”\nRally attendee say they feel Trump stand up to China when it come to trade and territorial aggression . That ’ s why we support President Trump . “ I support Vice President Biden on the progress of humanity , ” he say .",
+            "domain": "www.sunherald.com",
+            "tokenized": [
+                {
+                    "sent": "Many of rally attendee , some wear a shirt that say “ Vietnamese Americas for Trump against communist , ” say they believe Trump understand danger of communism like they do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 100 Vietnamese Americans , some from the Coast and others from across the United States , stand together in Biloxi on Wednesday for a rally to support President Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nRally attendee say they feel Trump stand up to China when it come to trade and territorial aggression .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s why we support President Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I support Vice President Biden on the progress of humanity , ” he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newyorker.com/news/daily-comment/trumps-epic-lies-become-his-campaign-coronavirus-story-line",
+            "content": "The synopsis , a version of which he offer at the rally in North Carolina , go like this :\n“ We build the great economy in the history of the world , we be force to close it because of the China plague that come in , ” Trump say . It would not seem possible that Donald Trump could sell himself a the hero of the coronavirus crisis , but , a he demonstrate on Tuesday evening , at the Winston-Salem airport , in North Carolina , he be not one to let either shame or the truth get in the way of a boast . For example , outdoor mass gathering be suppose to be limit to fifty people , a cap that Trump dismiss by say that he ’ d just call his rally “ peaceful protests. ” ) , another state with a Democratic governor , Trump say , “ They ’ re do it for political reason . But , a Trump tell it in North Carolina , anyone who worry that pledge like his might lead to a politicized approval process be part of a “ Biden-Harris effort to spread anti-vaccine conspiracy theory . Anthony Fauci , pharmaceutical company , and any number of public-health expert have warn of the need for caution , and the fact that the actual distribution of a vaccine will take far longer ; give that many people be already suspicious about vaccine , release a dangerous one prematurely , accord to a timeline set by Trump ’ s need to make big promise at rally , would be a disaster . It ’ s true that there be scenario in which far more Americans could have perish , for example if no distancing measure have be take at all , or if Trump hold indoor rally at the rate he do before the pandemic .",
+            "domain": "www.newyorker.com",
+            "tokenized": [
+                {
+                    "sent": "The synopsis , a version of which he offer at the rally in North Carolina , go like this :\n“ We build the great economy in the history of the world , we be force to close it because of the China plague that come in , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It would not seem possible that Donald Trump could sell himself a the hero of the coronavirus crisis , but , a he demonstrate on Tuesday evening , at the Winston-Salem airport , in North Carolina , he be not one to let either shame or the truth get in the way of a boast .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For example , outdoor mass gathering be suppose to be limit to fifty people , a cap that Trump dismiss by say that he ’ d just call his rally “ peaceful protests.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ) , another state with a Democratic governor , Trump say , “ They ’ re do it for political reason .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , a Trump tell it in North Carolina , anyone who worry that pledge like his might lead to a politicized approval process be part of a “ Biden-Harris effort to spread anti-vaccine conspiracy theory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anthony Fauci , pharmaceutical company , and any number of public-health expert have warn of the need for caution , and the fact that the actual distribution of a vaccine will take far longer ; give that many people be already suspicious about vaccine , release a dangerous one prematurely , accord to a timeline set by Trump ’ s need to make big promise at rally , would be a disaster .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s true that there be scenario in which far more Americans could have perish , for example if no distancing measure have be take at all , or if Trump hold indoor rally at the rate he do before the pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-russia-indictment-explainer/can-a-sitting-u-s-president-face-criminal-charges-idUSKCN1QF1D3",
+            "content": "The U.S. Justice Department have a decades-old policy that a sit president can not be indict , indicate that criminal charge against Trump would be unlikely , accord to legal expert . ”\nThe statute of limitation - restrict the time within which legal proceeding such a a prosecution may be bring - may work to Trump ’ s benefit if he be re-elected in 2020 and serve a full two four-year term a president until January 2025 .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "The U.S. Justice Department have a decades-old policy that a sit president can not be indict , indicate that criminal charge against Trump would be unlikely , accord to legal expert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe statute of limitation - restrict the time within which legal proceeding such a a prosecution may be bring - may work to Trump ’ s benefit if he be re-elected in 2020 and serve a full two four-year term a president until January 2025 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-russia-indictment-explainer/can-a-sitting-us-president-face-criminal-charges-idUSKCN1QF1D3",
+            "content": "The U.S. Justice Department have a decades-old policy that a sit president can not be indict , indicate that criminal charge against Trump would be unlikely , accord to legal expert . ”\nThe statute of limitation - restrict the time within which legal proceeding such a a prosecution may be bring - may work to Trump ’ s benefit if he be re-elected in 2020 and serve a full two four-year term a president until January 2025 .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "The U.S. Justice Department have a decades-old policy that a sit president can not be indict , indicate that criminal charge against Trump would be unlikely , accord to legal expert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe statute of limitation - restrict the time within which legal proceeding such a a prosecution may be bring - may work to Trump ’ s benefit if he be re-elected in 2020 and serve a full two four-year term a president until January 2025 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-church/in-pennsylvania-woods-church-in-spiritual-battle-to-re-elect-trump-idUSKBN27E2U2",
+            "content": "”\n“ Whether it be go to a Trump rally , or whether it be just go to a certain , a holy place to pray , or whether it be go on the street and waving flag ... what we be mostly focus on be the spiritual nature of the battle and a fervent prayer , ” say Moon . In Greeley , Pennsylvania , some 100 mile ( 160 km ) north of Philadelphia , parishioner - join by hundred of visitor from Japan and South Korea - be on a 21-day spiritual retreat to help re-elect Trump , whom co-founder Hyung Jin Moon say represent “ the Biblical world view .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ Whether it be go to a Trump rally , or whether it be just go to a certain , a holy place to pray , or whether it be go on the street and waving flag ... what we be mostly focus on be the spiritual nature of the battle and a fervent prayer , ” say Moon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Greeley , Pennsylvania , some 100 mile ( 160 km ) north of Philadelphia , parishioner - join by hundred of visitor from Japan and South Korea - be on a 21-day spiritual retreat to help re-elect Trump , whom co-founder Hyung Jin Moon say represent “ the Biblical world view .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sun-sentinel.com/news/politics/fl-ne-trump-bus-south-florida-election-protest-20210106-knuqumdm2za33gsqjyfuivk22i-story.html",
+            "content": "“ About 75 million people plus vote for Donald Trump , ” say D ’ Uva . Trump supporter who leave from the South Florida area to participate in the rally quickly leave when it break out into violence a they didn ’ t want their member to be a part of it , co-organizer for the event Beverly Carawan say . Hundreds of Trump supporter hop on a bus Tuesday morning to travel to Washington , D.C. , to join thousand in one last bid to rally against the result of the 2020 election in a final attempt to show support for a president that have attack the result of the 2020 election he lose . Some of the president ’ s supporter already begin rally early Tuesday , march towards the White House with Trump sign . Trump supporter , some Republicans and member of the far-right have contest the result of the election , claim widespread voter fraud , tamper and question the legitimacy of President Elect Joe Biden ’ s win . Carawan attribute the outbreak of violence to Antifa and Black Lives Matter protester dress up a Trump supporter , say they have get report that the group plan on infiltrate the rally .",
+            "domain": "www.sun-sentinel.com",
+            "tokenized": [
+                {
+                    "sent": "“ About 75 million people plus vote for Donald Trump , ” say D ’ Uva .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump supporter who leave from the South Florida area to participate in the rally quickly leave when it break out into violence a they didn ’ t want their member to be a part of it , co-organizer for the event Beverly Carawan say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hundreds of Trump supporter hop on a bus Tuesday morning to travel to Washington , D.C. , to join thousand in one last bid to rally against the result of the 2020 election in a final attempt to show support for a president that have attack the result of the 2020 election he lose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the president ’ s supporter already begin rally early Tuesday , march towards the White House with Trump sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump supporter , some Republicans and member of the far-right have contest the result of the election , claim widespread voter fraud , tamper and question the legitimacy of President Elect Joe Biden ’ s win .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Carawan attribute the outbreak of violence to Antifa and Black Lives Matter protester dress up a Trump supporter , say they have get report that the group plan on infiltrate the rally .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/tech/tech-news/what-qanon-guide-conspiracy-theory-taking-hold-among-trump-supporters-n897271",
+            "content": "“ What the Qanon theory do , as far a political efficacy go , be it provide Trump ’ s most fervent supporter a way to explain away any scandal or slip-up the president may face , ” Holt say . “ All of Trump ’ s mishap on the world stage , his detractor in the medium , his various scandal can all be effectively be frame within the Qanon lore a attack that be coordinate against him because he ’ s ever close to take down a global conspiracy commit the most atrocious crime that could be imagine , like Satanic child sex trafficking , and blood sacrifice , ” say Holt . Signs and T-shirts emblazon with some variation of the letter Q dot a rally for Donald Trump in Tampa on Tuesday . It ’ s also begin to show up in the real world at Trump rally and on billboard . People line up for the Trump rally in Tampa today . And “ Q ” reference have be pop up at Trump rally since the beginning of 2018 , with the many “ Q ” shirt and poster at a recent event put the theory on the radar of national medium . Since the beginning of the year , family with young child wear Qanon shirt have pop up at Trump rally . Letting u know the covert battle that be wag between the Deep State and President Trump .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "“ What the Qanon theory do , as far a political efficacy go , be it provide Trump ’ s most fervent supporter a way to explain away any scandal or slip-up the president may face , ” Holt say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ All of Trump ’ s mishap on the world stage , his detractor in the medium , his various scandal can all be effectively be frame within the Qanon lore a attack that be coordinate against him because he ’ s ever close to take down a global conspiracy commit the most atrocious crime that could be imagine , like Satanic child sex trafficking , and blood sacrifice , ” say Holt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Signs and T-shirts emblazon with some variation of the letter Q dot a rally for Donald Trump in Tampa on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s also begin to show up in the real world at Trump rally and on billboard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People line up for the Trump rally in Tampa today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And “ Q ” reference have be pop up at Trump rally since the beginning of 2018 , with the many “ Q ” shirt and poster at a recent event put the theory on the radar of national medium .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since the beginning of the year , family with young child wear Qanon shirt have pop up at Trump rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Letting u know the covert battle that be wag between the Deep State and President Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://coloradosun.com/2020/07/29/cory-gardner-donald-trump-split-ticket/",
+            "content": "“ That put u in position to have a discussion with President Trump ’ s campaign ( and ) the RNC about where resource will be allocate to attain victory , ” he say . Republicans say Donald Trump need to keep the race fairly close in Colorado in order to give Gardner a chance at reelection . Unlike in other state , Trump hasn ’ t reserve television ad time , accord to a Colorado Sun analysis of Federal Communications Commission record . “ Trump Victory continue to lead an unprecedented grassroots effort to re-elect President Trump and Cory Gardner a our team have officially mark 2 million voter contact , ” say Andres Malave , a spokesman for the Republican National Committee in Colorado . “ Jesus Christ himself couldn ’ t overperform Trump by double digit , ” say Tyler Sandberg , a Republican operative . Instead , that money be flow into state like Florida , Ohio , North Carolina , Pennsylvania , Wisconsin and Arizona , which be crucial to Trump ’ s path toward a second term .",
+            "domain": "coloradosun.com",
+            "tokenized": [
+                {
+                    "sent": "“ That put u in position to have a discussion with President Trump ’ s campaign ( and ) the RNC about where resource will be allocate to attain victory , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republicans say Donald Trump need to keep the race fairly close in Colorado in order to give Gardner a chance at reelection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unlike in other state , Trump hasn ’ t reserve television ad time , accord to a Colorado Sun analysis of Federal Communications Commission record .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Trump Victory continue to lead an unprecedented grassroots effort to re-elect President Trump and Cory Gardner a our team have officially mark 2 million voter contact , ” say Andres Malave , a spokesman for the Republican National Committee in Colorado .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Jesus Christ himself couldn ’ t overperform Trump by double digit , ” say Tyler Sandberg , a Republican operative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , that money be flow into state like Florida , Ohio , North Carolina , Pennsylvania , Wisconsin and Arizona , which be crucial to Trump ’ s path toward a second term .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/election-2020/ct-nw-trump-electoral-college-protests-20210106-mv4gtnvkpvgublb3vgvz765lje-story.html",
+            "content": "But Pence , in a statement shortly before preside , defied Trump , say he could not claim “ unilateral authority ” to reject the electoral vote that make Biden president . ”\n“ I think Donald Trump probably should be bring up on treason for something like this , ” Rep. Jimmy Gomez , D-Calif. , tell reporter . Trump , who have steadfastly refuse to concede the election , say in a statement immediately after the vote there “ will be an orderly transition ” of power on inauguration day . ”\nDespite Trump ’ s repeat claim of voter fraud , election official and his own former attorney general have say there be no problem on a scale that would change the outcome . “ Even though I totally disagree with the outcome of the election , and the fact bear me out , nevertheless there will be an orderly transition on January 20th , ” Trump say in a statement post to twitter by an aide . “ Count me out , ” say Trump ally Sen. Lindsey Graham , R-S.C. “ Enough be enough . A somber President-elect Biden , two week away from be inaugurate , say American democracy be “ under unprecedented assault , `` a sentiment echoed by many in Congress , include some Republicans .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "But Pence , in a statement shortly before preside , defied Trump , say he could not claim “ unilateral authority ” to reject the electoral vote that make Biden president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I think Donald Trump probably should be bring up on treason for something like this , ” Rep. Jimmy Gomez , D-Calif. , tell reporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , who have steadfastly refuse to concede the election , say in a statement immediately after the vote there “ will be an orderly transition ” of power on inauguration day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDespite Trump ’ s repeat claim of voter fraud , election official and his own former attorney general have say there be no problem on a scale that would change the outcome .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Even though I totally disagree with the outcome of the election , and the fact bear me out , nevertheless there will be an orderly transition on January 20th , ” Trump say in a statement post to twitter by an aide .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Count me out , ” say Trump ally Sen. Lindsey Graham , R-S.C. “ Enough be enough .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A somber President-elect Biden , two week away from be inaugurate , say American democracy be “ under unprecedented assault , `` a sentiment echoed by many in Congress , include some Republicans .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/09/03/907433511/trumps-base-is-shrinking-as-whites-without-a-college-degree-continue-to-decline",
+            "content": "President Trump arrive for a rally at Yuma International Airport in Yuma , Ariz. , on Aug. 18 . President Trump arrive for a rally at Yuma International Airport in Yuma , Ariz. , on Aug. 18 .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "President Trump arrive for a rally at Yuma International Airport in Yuma , Ariz. , on Aug. 18 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump arrive for a rally at Yuma International Airport in Yuma , Ariz. , on Aug. 18 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sarasotamagazine.com/news-and-profiles/2020/10/trump-rally-sarasota",
+            "content": "It be hot and there be no shade under the afternoon sun at the Trump rally this past Tuesday at Nathan Benderson Park . In this way , these Trump rally be like football tailgate . I don ’ t like to go to crowd public event in general , but I be convince I should make an exception because this could have be the last Trump gathering ever in this area . He go to the first Trump rally in Sarasota back in 2016 at Robarts Arena and come away a supporter . Trump rally have always be a spectacle . A pink hat say `` Women for Trump . ''",
+            "domain": "www.sarasotamagazine.com",
+            "tokenized": [
+                {
+                    "sent": "It be hot and there be no shade under the afternoon sun at the Trump rally this past Tuesday at Nathan Benderson Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In this way , these Trump rally be like football tailgate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I don ’ t like to go to crowd public event in general , but I be convince I should make an exception because this could have be the last Trump gathering ever in this area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He go to the first Trump rally in Sarasota back in 2016 at Robarts Arena and come away a supporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump rally have always be a spectacle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A pink hat say `` Women for Trump . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/fox-news-host-chris-wallace-trump-campaign-looks-silly-for-not-owning-up-to-tulsa-rallys-crowd-size-2020-06-21",
+            "content": "“ Protesters do not stop people from come to that rally , ” he say , point out that Trump often cite the size of his rally a a gauge of support . Trump campaign adviser Mercedes Schlapp do her best to respond to Fox News host Chris Wallace on Sunday when he press her on the size of the president ’ s rally in Tulsa .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "“ Protesters do not stop people from come to that rally , ” he say , point out that Trump often cite the size of his rally a a gauge of support .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump campaign adviser Mercedes Schlapp do her best to respond to Fox News host Chris Wallace on Sunday when he press her on the size of the president ’ s rally in Tulsa .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sun-sentinel.com/news/politics/fl-ne-mike-pence-latino-launch-20190625-jtlz3cycujarzlftrr4wm7vqq4-story.html",
+            "content": "“ The Florida Latino vote will put in the president of the United States , ” he say in an interview at the Pence rally . Trump , he say , be a “ great champion of Latino and Hispanic Americans ” and “ the best friend that Latino and Hispanic business have ever have in the White House . She say Trump have “ approve more money for reconstruction of Puerto Rico than any other administration. Because of Trump , he say , “ Mexico have do more in the last 10 day to secure our southern border than Democrats have do in the last 10 year . ”\nThe Trump campaign bring in Jennifer González-Colón , Puerto Rico ’ s non-voting representative in Congress , to vouch for the president ’ s response , which have be widely criticize by many in the mainland and on the island . Speaking for about 30 minute at a Miami kickoff rally of Latinos for Trump , Pence ’ s message combine usual campaign theme and appeal to Latino voter .",
+            "domain": "www.sun-sentinel.com",
+            "tokenized": [
+                {
+                    "sent": "“ The Florida Latino vote will put in the president of the United States , ” he say in an interview at the Pence rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , he say , be a “ great champion of Latino and Hispanic Americans ” and “ the best friend that Latino and Hispanic business have ever have in the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say Trump have “ approve more money for reconstruction of Puerto Rico than any other administration.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because of Trump , he say , “ Mexico have do more in the last 10 day to secure our southern border than Democrats have do in the last 10 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Trump campaign bring in Jennifer González-Colón , Puerto Rico ’ s non-voting representative in Congress , to vouch for the president ’ s response , which have be widely criticize by many in the mainland and on the island .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaking for about 30 minute at a Miami kickoff rally of Latinos for Trump , Pence ’ s message combine usual campaign theme and appeal to Latino voter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.baltimoresun.com/opinion/columnists/dan-rodricks/bs-md-rodricks-1025-20201022-nvvrkclrxvdpxhstd5gzqbhz54-story.html",
+            "content": "”\nBy this point in the video , Meeks sound like the warmup act at a Trump rally . To condemn the famously empathetic Joe Biden when the alternative be the extravagantly narcissistic Donald Trump ignore a foundational idea of Christianity . But even I be surprise to hear an American Catholic priest look past 220,000 death during a pandemic , make worse by the irresponsible presidency of Donald Trump , and call Joe Biden the standard-bearer of “ the party of death .",
+            "domain": "www.baltimoresun.com",
+            "tokenized": [
+                {
+                    "sent": "”\nBy this point in the video , Meeks sound like the warmup act at a Trump rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To condemn the famously empathetic Joe Biden when the alternative be the extravagantly narcissistic Donald Trump ignore a foundational idea of Christianity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even I be surprise to hear an American Catholic priest look past 220,000 death during a pandemic , make worse by the irresponsible presidency of Donald Trump , and call Joe Biden the standard-bearer of “ the party of death .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://azdailysun.com/news/local/republicans-supporters-gather-for-trump-event-in-flagstaff/article_e47e4d0c-70ef-5962-a384-cacfad5c43ee.html",
+            "content": "”\nBlackman come to Flagstaff to introduce speaker at the event , say he want to `` rile up '' the base to get the president re-elected . More than 60 people attend a Trump rally outside of Timberline Firearms and Training near Doney Park Thursday morning . More than 60 people attend a Trump rally outside of Timberline Firearms and Training near Doney Park Thursday morning .",
+            "domain": "azdailysun.com",
+            "tokenized": [
+                {
+                    "sent": "”\nBlackman come to Flagstaff to introduce speaker at the event , say he want to `` rile up '' the base to get the president re-elected .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 60 people attend a Trump rally outside of Timberline Firearms and Training near Doney Park Thursday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 60 people attend a Trump rally outside of Timberline Firearms and Training near Doney Park Thursday morning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.lowellsun.com/ci_29343544/trump-electrifies-tsongas-center-lowell",
+            "content": "Before the speech start , several people in the audience say they be there to observe the spectacle of a Trump rally , and Trump ’ s Massachusetts campaign head acknowledge early in the night that many in the audience be not commit to Trump .",
+            "domain": "www.lowellsun.com",
+            "tokenized": [
+                {
+                    "sent": "Before the speech start , several people in the audience say they be there to observe the spectacle of a Trump rally , and Trump ’ s Massachusetts campaign head acknowledge early in the night that many in the audience be not commit to Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-protests/it-was-a-non-event-pro-trump-protests-quiet-amid-massive-police-presence-across-u-s-idUSKBN29M046",
+            "content": "Wearing a hoodie emblazon with “ Fraud 2020 , ” he say he believe November ’ s presidential election be steal and want to show his support for Trump . Only a few Trump supporter show up in Harrisburg , include Alex , a 34-year-old drywall finisher from Hershey , Pennsylvania , who say he have be at the Jan. 6 siege of the U.S. Capitol but do not storm the building . HARRISBURG , Pa./LANSING , Mich. ( Reuters ) - Law enforcement officer far outnumber protester at state capitol ground on Sunday , a few Trump supporter who believe the president ’ s false claim that he win the 2020 election turn out for what authority fear could be violent demonstration .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Wearing a hoodie emblazon with “ Fraud 2020 , ” he say he believe November ’ s presidential election be steal and want to show his support for Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Only a few Trump supporter show up in Harrisburg , include Alex , a 34-year-old drywall finisher from Hershey , Pennsylvania , who say he have be at the Jan. 6 siege of the U.S. Capitol but do not storm the building .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HARRISBURG , Pa./LANSING , Mich. ( Reuters ) - Law enforcement officer far outnumber protester at state capitol ground on Sunday , a few Trump supporter who believe the president ’ s false claim that he win the 2020 election turn out for what authority fear could be violent demonstration .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://cornellsun.com/2020/10/17/trump-supporters-backed-into-headquarters-in-rally-face-off-with-counterprotesters/",
+            "content": "Ande recognize that Trump have use racist rhetoric , but say he believe that Trump ’ s action — for instance , hire people of color in his business — show that he be not , in fact , racist . But it be clear early on that the Trump rally would not be as straightforward a the organizer anticipate .",
+            "domain": "cornellsun.com",
+            "tokenized": [
+                {
+                    "sent": "Ande recognize that Trump have use racist rhetoric , but say he believe that Trump ’ s action — for instance , hire people of color in his business — show that he be not , in fact , racist .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But it be clear early on that the Trump rally would not be as straightforward a the organizer anticipate .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,912 @@
+{
+    "event_id": "145857",
+    "claim": "A video shows a group of ducks patiently waiting at a traffic light.",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "In May 2018, a video purportedly showing a group of ducks in Germany waiting patiently at a red light before crossing the street when the traffic signal turned green started to go viral on Twitter:The video first received attention after it was posted to a Facebook page connected to the German social media marketing company Medien Saar, an outfit that helps businesses create and promote viral content.The original post was not accompanied by much information about where or when the footage was taken, instead including a request for viewers to “like” the page and a statement saying that the posters were not the creators of the video but had received it from a group of fans. A higher resolution version of the video (embedded above) was posted to YouTube the following day.It is difficult to tell if the ducks in the video are real or fake in the version that was circulated on Twitter. However, the YouTube clip provides a clearer look at the animals as well as several  hints that this footage might have been manipulated.Several viewers pointed out that the shadows beneath the ducks are little more than static disks that appear too dark for the lighting conditions, and the lines of the sidewalk blur as the ducks move across them. The biggest giveaway, however, might be that these ducks appear to be gliding more than walking:We reached out to Medien Saar for more information about the video but received no response.",
+    "reports": [
+        {
+            "link": "https://observers.france24.com/en/20180531-ducks-video-manipulated-doctored-debunked",
+            "content": "This silly video make fun of the stereotype that Germans love to follow rule by show that even the country ’ s duck obey traffic light . So , we can conclude that the ad agency film a video at a stop light with an actor pretend to comment on the duck ’ movement . The footage begin with a group of duck walk in the street of Sarrebruck , Germany . If you look closely , you ’ ll see that in two separate instance in the video , the duck move without walk . If the duck be inside , it would be possible that there be another light source – like a spotlight – but it be quite unlikely in this video , which be film outside in broad daylight . He analyse the video and say that the duck be add in to the original footage , and that they be in fact an animation . This show u that the duck be probably add into the original video . Using the software Forensically Beta , we put a filter on certain part of the image , which allow u to add light , thus enable u to compare the duck ’ shadow with the shadow of the urban landscape . If you compare the shadow of the duck with the duck themselves , then you will see that they be the same quality . That ’ s right : the duck video be doctor . That mean that the light shin on the duck come from another source than the light on the backdrop . Then , the duck be add to the video and animate in a way to make it look like they be part of the original image . The duck and their shadow be full of little white dot , unlike the other element . But it show that it be possible to fool the public with doctored image : a person who know how to use the right software or any student study visual effect could manipulate footage and easily trick an audience . France 24 try several time to contact the agency that publish this video , without success . Peker add that it take experience to notice that this kind of video have be doctor , and that you need to have see a lot of manipulated image to know what you be look for . This video be mean to make people laugh and to get click and , thus , money for the company that make it . The duck , on the other hand , have darker , thicker shadow . In a normal video , all of the element should have the same quality . When they come to a pedestrian crosswalk , they stop at a red light and set off again when the light turn green . You may be one of the million of people who have see this video since it be first post online on May 4 . It start by completely reduce the quality of the video , so all you see be a black screen . On some Facebook page , the video by the Ed Saarland advertising agency have garner close to two million view . The video be make by a German advertising agency , who do a very good job make it look real . The shape of a shadow depend on the height of the object and the angle of the light source . In an interview with a German medium outlet that have point out the video be fake , Sven Herzog , a member of the agency , just say that it serve a “ a good educational video about road safety . ( On one page , it have even reach more than 20 million view , but that page have since delete the post . ) The large question this video raise may be cause for worry : will we someday see a video that have be doctor in this way and that potentially lead to serious repercussion , for example in a conflict zone ? There ’ s also a third element that clue u in to the fact that this video be doctor . Then , you can slowly increase the quality of the image , which mean that the higher-quality image appear first . The result be pretty clear : the two men , the post , and the tree all have very faint shadow , which be barely visible . Using the same software , we put another filter on the image . FRANCE 24 reach out to Roy Peker , a video artist who specialise in special effect and be base in London .",
+            "domain": "observers.france24.com",
+            "tokenized": [
+                {
+                    "sent": "This silly video make fun of the stereotype that Germans love to follow rule by show that even the country ’ s duck obey traffic light .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , we can conclude that the ad agency film a video at a stop light with an actor pretend to comment on the duck ’ movement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The footage begin with a group of duck walk in the street of Sarrebruck , Germany .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you look closely , you ’ ll see that in two separate instance in the video , the duck move without walk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the duck be inside , it would be possible that there be another light source – like a spotlight – but it be quite unlikely in this video , which be film outside in broad daylight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He analyse the video and say that the duck be add in to the original footage , and that they be in fact an animation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This show u that the duck be probably add into the original video .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using the software Forensically Beta , we put a filter on certain part of the image , which allow u to add light , thus enable u to compare the duck ’ shadow with the shadow of the urban landscape .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you compare the shadow of the duck with the duck themselves , then you will see that they be the same quality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s right : the duck video be doctor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That mean that the light shin on the duck come from another source than the light on the backdrop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , the duck be add to the video and animate in a way to make it look like they be part of the original image .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The duck and their shadow be full of little white dot , unlike the other element .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it show that it be possible to fool the public with doctored image : a person who know how to use the right software or any student study visual effect could manipulate footage and easily trick an audience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "France 24 try several time to contact the agency that publish this video , without success .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Peker add that it take experience to notice that this kind of video have be doctor , and that you need to have see a lot of manipulated image to know what you be look for .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This video be mean to make people laugh and to get click and , thus , money for the company that make it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The duck , on the other hand , have darker , thicker shadow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a normal video , all of the element should have the same quality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When they come to a pedestrian crosswalk , they stop at a red light and set off again when the light turn green .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You may be one of the million of people who have see this video since it be first post online on May 4 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It start by completely reduce the quality of the video , so all you see be a black screen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On some Facebook page , the video by the Ed Saarland advertising agency have garner close to two million view .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be make by a German advertising agency , who do a very good job make it look real .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The shape of a shadow depend on the height of the object and the angle of the light source .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an interview with a German medium outlet that have point out the video be fake , Sven Herzog , a member of the agency , just say that it serve a “ a good educational video about road safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( On one page , it have even reach more than 20 million view , but that page have since delete the post . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The large question this video raise may be cause for worry : will we someday see a video that have be doctor in this way and that potentially lead to serious repercussion , for example in a conflict zone ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s also a third element that clue u in to the fact that this video be doctor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then , you can slowly increase the quality of the image , which mean that the higher-quality image appear first .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The result be pretty clear : the two men , the post , and the tree all have very faint shadow , which be barely visible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Using the same software , we put another filter on the image .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "FRANCE 24 reach out to Roy Peker , a video artist who specialise in special effect and be base in London .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2016/09/30/world/europe/moscow-traffic-laws-pedestrians.html",
+            "content": "Yet , in a city where traffic rule use to be view a entirely optional , a dozen pedestrians all stay root on the sidewalk , wait obediently in the rain a a red light count down the 160 second they need to wait before crossing . This progress , say Mr. Polyakov of the city ’ s Traffic Control Center , be because of new road , a new automated system for fin motorist and good behavior by driver and pedestrian , who , thanks to the introduction of new traffic light , now know exactly how many second they have to wait to cross . “ It be not because people be afraid but because they be now taught from childhood to follow traffic and other rule , ” say Alexander Polyakov , deputy director of the Moscow Traffic Control Center , the headquarters of an elaborate monitoring and control system that feature 40,000 traffic light , 150,000 camera dot around the city and a vast data storage facility that hold all the video transmit from the street . She add that she think pedestrian wait for the light to change mainly because they be worry about be fin or be run over . For Mr. Nikitin , the urban planning expert , however , the grow readiness of many Muscovites to follow pedestrian traffic signal “ be the very opposite of Soviet attitude ” of fatalistic patience breed by the need to wait in long line at shop and fear of punishment . Watching street scene project onto a big screen in the main control room , Moscow ’ s traffic controller monitor the flow of the 3.5 million car and many more pedestrian move around the city each day . He insist that , at least with respect to traffic signal , people obey not out of fear of any fine — the maximum be 500 ruble , or about $ 8 — but because “ they now respect themselves and also each other . I want to live in a civilized country , ” say Aleksei Smirnov , a 22-year-old courier , when ask why he bother to wait when there be virtually no risk of get hit by a car or fin for jaywalking . Law enforcement agency and the court routinely hound government critic over minor or invented offense but show little desire to punish the more serious misdeed of well-connected insider . For government official , the grow and once unimaginable respect for bothersome traffic signal be proof that , whatever the complaint of Kremlin critic about creep dictatorship , the iron rule of Mr. Putin and his handpicked choice a Moscow mayor , Sergei S. Sobyanin , have bring about a long-overdue shift toward a gentler , more law-abiding society . But their elder , too , now mostly wait at crosswalk . Tatiana Markovsova , the wife of a Soviet-era diplomat who be base in London , wait alongside Mr. Smirnov in the rain recently but say respect for traffic signal be not so much a sign of any embrace of European way but a healthy return to the discipline of the Soviet era . ” But he say they increasingly try to follow traffic and other rule “ because they want to live in a modern country , not because they think the system be now fair . Moscow still have huge traffic jam at rush hour and , accord to TomTom , a Dutch company that compile an annual survey of global traffic condition , be now the world ’ s fifth most congested city . MOSCOW — The usually busy Moscow street be empty of car and also of police officer a a light drizzle turn into a downpour . But this be a big improvement over just a few year ago , when Moscow beat out Mexico City , Bangkok and other notoriously congested city for the title of the world ’ s bad traffic . “ They can see that they will not have to wait forever , that there be hope of get to the other side , ” Mr. Polyakov say . But a more important factor in change pedestrian habit , he say , be the longing of many Muscovites for a different and more civilized life . Leon Kosals , a sociologist who teach in the law department of Moscow ’ s Higher School of Economics , say Muscovites “ know that they can not get access to justice , that it be not a fair game. ”\nThe Moscow city authority , Mr. Kosals say , deserve credit for curb the once brazenly corrupt traffic police and invest heavily to beautify the city . “ I always try to follow the rule . ”\nBut many be highly skeptical about whether Mr. Putin have deliver — or even have any real interest in deliver — on that promise .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Yet , in a city where traffic rule use to be view a entirely optional , a dozen pedestrians all stay root on the sidewalk , wait obediently in the rain a a red light count down the 160 second they need to wait before crossing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This progress , say Mr. Polyakov of the city ’ s Traffic Control Center , be because of new road , a new automated system for fin motorist and good behavior by driver and pedestrian , who , thanks to the introduction of new traffic light , now know exactly how many second they have to wait to cross .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It be not because people be afraid but because they be now taught from childhood to follow traffic and other rule , ” say Alexander Polyakov , deputy director of the Moscow Traffic Control Center , the headquarters of an elaborate monitoring and control system that feature 40,000 traffic light , 150,000 camera dot around the city and a vast data storage facility that hold all the video transmit from the street .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She add that she think pedestrian wait for the light to change mainly because they be worry about be fin or be run over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For Mr. Nikitin , the urban planning expert , however , the grow readiness of many Muscovites to follow pedestrian traffic signal “ be the very opposite of Soviet attitude ” of fatalistic patience breed by the need to wait in long line at shop and fear of punishment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Watching street scene project onto a big screen in the main control room , Moscow ’ s traffic controller monitor the flow of the 3.5 million car and many more pedestrian move around the city each day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He insist that , at least with respect to traffic signal , people obey not out of fear of any fine — the maximum be 500 ruble , or about $ 8 — but because “ they now respect themselves and also each other .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I want to live in a civilized country , ” say Aleksei Smirnov , a 22-year-old courier , when ask why he bother to wait when there be virtually no risk of get hit by a car or fin for jaywalking .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Law enforcement agency and the court routinely hound government critic over minor or invented offense but show little desire to punish the more serious misdeed of well-connected insider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For government official , the grow and once unimaginable respect for bothersome traffic signal be proof that , whatever the complaint of Kremlin critic about creep dictatorship , the iron rule of Mr. Putin and his handpicked choice a Moscow mayor , Sergei S. Sobyanin , have bring about a long-overdue shift toward a gentler , more law-abiding society .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But their elder , too , now mostly wait at crosswalk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tatiana Markovsova , the wife of a Soviet-era diplomat who be base in London , wait alongside Mr. Smirnov in the rain recently but say respect for traffic signal be not so much a sign of any embrace of European way but a healthy return to the discipline of the Soviet era .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” But he say they increasingly try to follow traffic and other rule “ because they want to live in a modern country , not because they think the system be now fair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Moscow still have huge traffic jam at rush hour and , accord to TomTom , a Dutch company that compile an annual survey of global traffic condition , be now the world ’ s fifth most congested city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "MOSCOW — The usually busy Moscow street be empty of car and also of police officer a a light drizzle turn into a downpour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But this be a big improvement over just a few year ago , when Moscow beat out Mexico City , Bangkok and other notoriously congested city for the title of the world ’ s bad traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They can see that they will not have to wait forever , that there be hope of get to the other side , ” Mr. Polyakov say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But a more important factor in change pedestrian habit , he say , be the longing of many Muscovites for a different and more civilized life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Leon Kosals , a sociologist who teach in the law department of Moscow ’ s Higher School of Economics , say Muscovites “ know that they can not get access to justice , that it be not a fair game.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Moscow city authority , Mr. Kosals say , deserve credit for curb the once brazenly corrupt traffic police and invest heavily to beautify the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I always try to follow the rule .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut many be highly skeptical about whether Mr. Putin have deliver — or even have any real interest in deliver — on that promise .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://gizmodo.com/this-viral-video-of-ducks-waiting-for-a-green-light-to-1826133011",
+            "content": "Have you see this video of duck in Germany wait for a green light before they cross the street ? In fairness , it ’ s not easy to tell that the duck be fake from the video that be currently circulate on Twitter , which be simply too pixelated to see clearly . Some people think it might be a “ traffic education video , ” but it ’ s still unclear . Take a close look at the duck we ’ ve highlight below . But if you watch the video on Facebook or YouTube , it ’ s blindingly obvious . The duck be computer generate . If you ask me , it just look like a video that be mean to go viral . As the viral debunker account HoaxEye first point out on Twitter , the video look to be the work of a German marketing company call Medien Saar . It ’ s go viral , get ten of thousand of view on Twitter and over 2.5 million view on Facebook . Gizmodo have reach out to the marketing agency and will update this post if we hear back . But the video be totally fake . Yes , it ’ s a cute video . It ’ s clearly slide around like a glitchy video game character from the early 2000s . Why would they make the video ?",
+            "domain": "gizmodo.com",
+            "tokenized": [
+                {
+                    "sent": "Have you see this video of duck in Germany wait for a green light before they cross the street ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In fairness , it ’ s not easy to tell that the duck be fake from the video that be currently circulate on Twitter , which be simply too pixelated to see clearly .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Some people think it might be a “ traffic education video , ” but it ’ s still unclear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Take a close look at the duck we ’ ve highlight below .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if you watch the video on Facebook or YouTube , it ’ s blindingly obvious .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The duck be computer generate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you ask me , it just look like a video that be mean to go viral .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the viral debunker account HoaxEye first point out on Twitter , the video look to be the work of a German marketing company call Medien Saar .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s go viral , get ten of thousand of view on Twitter and over 2.5 million view on Facebook .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gizmodo have reach out to the marketing agency and will update this post if we hear back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the video be totally fake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yes , it ’ s a cute video .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s clearly slide around like a glitchy video game character from the early 2000s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Why would they make the video ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.visitcurrituck.com/places/bicycle-laws/",
+            "content": "Bicyclists must obey stop light , stop sign , and other traffic signal , just a motor vehicle do ; no buzzing through after a quick glance . But , please , ride predictably and courteously to keep traffic move safely and to avoid accident . Never ride on the left against the flow of traffic . Keep child off the high speed highway , even if they be experienced bicyclist with good traffic sense . Riding at night require a lighted white light in the front ( visible 300′ ) , and either a lighted red light and/or a red reflector in the rear ( visible 200′ ) . State traffic law consider bicycle , moped , and motorize bike a legal road vehicle , and subject to the same law , therefore cyclist must adhere to the traffic law just a motorist must . Bicyclists must ride on the right , in the same direction a the flow of other traffic . ; and c. In order to rightfully claim a right-of-way to prevent be squeeze by pass two-way traffic . While bicyclist should ride a far right a practicable , they may ride well out into the motor vehicle traffic lane under the following condition : a . Be sure to have a rearview mirror if you ’ re go ride on the highway . ( But good to put the bike away at dark and not put your life in the hand of the motorist on dark , narrow , unfamiliar , and crowd road , we have very few streetlight . ) If he/she can maintain a speed not less than 10 mph under the posted speed limit , or the same speed a other vehicle on the roadway ; b . Avoid swerving and other sudden change of direction or speed . Bicyclists must ride single file on any roadway share with motorist . The NC traffic law define the right and duty of bicyclist as well a the motorist with whom they share the roadway . If the bicyclist dismount and walk beside the bike , the cyclist be then ( and only then ) a pedestrian , and subject to pedestrian rule instead . Bicyclists should remain within 4′ of the right hand pave edge of the roadway . A bicyclist be not require to ride on the shoulder , pave or not , since the shoulder be not legally define a be part of the roadway . Motorists must give the cyclist be least a two-foot clearance when passing . They have the right to be there , and the responsibility to stay there .",
+            "domain": "www.visitcurrituck.com",
+            "tokenized": [
+                {
+                    "sent": "Bicyclists must obey stop light , stop sign , and other traffic signal , just a motor vehicle do ; no buzzing through after a quick glance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , please , ride predictably and courteously to keep traffic move safely and to avoid accident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Never ride on the left against the flow of traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Keep child off the high speed highway , even if they be experienced bicyclist with good traffic sense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Riding at night require a lighted white light in the front ( visible 300′ ) , and either a lighted red light and/or a red reflector in the rear ( visible 200′ ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "State traffic law consider bicycle , moped , and motorize bike a legal road vehicle , and subject to the same law , therefore cyclist must adhere to the traffic law just a motorist must .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bicyclists must ride on the right , in the same direction a the flow of other traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "; and c. In order to rightfully claim a right-of-way to prevent be squeeze by pass two-way traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While bicyclist should ride a far right a practicable , they may ride well out into the motor vehicle traffic lane under the following condition : a .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Be sure to have a rearview mirror if you ’ re go ride on the highway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( But good to put the bike away at dark and not put your life in the hand of the motorist on dark , narrow , unfamiliar , and crowd road , we have very few streetlight . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If he/she can maintain a speed not less than 10 mph under the posted speed limit , or the same speed a other vehicle on the roadway ; b .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Avoid swerving and other sudden change of direction or speed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bicyclists must ride single file on any roadway share with motorist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The NC traffic law define the right and duty of bicyclist as well a the motorist with whom they share the roadway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the bicyclist dismount and walk beside the bike , the cyclist be then ( and only then ) a pedestrian , and subject to pedestrian rule instead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bicyclists should remain within 4′ of the right hand pave edge of the roadway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A bicyclist be not require to ride on the shoulder , pave or not , since the shoulder be not legally define a be part of the roadway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Motorists must give the cyclist be least a two-foot clearance when passing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They have the right to be there , and the responsibility to stay there .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Road_signs_in_the_United_States",
+            "content": "The MUTCD 's W25 series of sign be for sign warn that oncoming traffic have an extend green signal at a traffic light . Oncoming traffic do not stop ( plaque )\ncross traffic do not stop ( plaque )\nThru traffic merge leave , California\nMerging traffic ( through street )\nThe MUTCD 's W23 series of sign be for warn sign relate to slow traffic . Red light photo violation fine sign , California\nBicycles to request green wait on line\nThe MUTCD 's R15 series of sign be for rail- and light rail-related sign . No Stopping sign indicate that stopping be only allow in order to obey a traffic sign , signal , traffic agent , police officer , or to avoid conflict with other vehicle . The MUTCD 's W24 series of sign be for warn sign relate to lane shift , where traffic be divert slightly toward the left or right of the roadway , but the route be otherwise unchanged . Traffic light with Continuous Green Through Lane at seagull intersection in Florida Circular intersection warning ( traffic circle or roundabout )\nThe MUTCD 's W3 series of sign be for warn sign relate to advance traffic control such a speed limit and signal . The MUTCD 's incident management sign be intend for use by emergency crew at traffic incident management scene pursuant to the National Incident Management System . [ 17 ] There be no specific guideline a to which sign can and can not be use for incident management , but a few example be list below . The MUTCD 's R10 series of sign be for traffic signal related sign . They highlight exist condition , such a a curve , school , dead end street , or traffic signal . [ 13 ] These be the most restrictive of the parking sign . They can also warn of possible danger such a bump , bicycle , low fly aircraft , or emergency vehicle . As all situation be not cover , several state have their own standard in addition to the MUTCD . As all situation be not cover , several state have their own standard in addition to the MUTCD . As all situation be not cover , several state have their own standard in addition to the MUTCD . As all situation be not cover , several state have their own standard in addition to the MUTCD .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "The MUTCD 's W25 series of sign be for sign warn that oncoming traffic have an extend green signal at a traffic light .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Oncoming traffic do not stop ( plaque )\ncross traffic do not stop ( plaque )\nThru traffic merge leave , California\nMerging traffic ( through street )\nThe MUTCD 's W23 series of sign be for warn sign relate to slow traffic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Red light photo violation fine sign , California\nBicycles to request green wait on line\nThe MUTCD 's R15 series of sign be for rail- and light rail-related sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No Stopping sign indicate that stopping be only allow in order to obey a traffic sign , signal , traffic agent , police officer , or to avoid conflict with other vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The MUTCD 's W24 series of sign be for warn sign relate to lane shift , where traffic be divert slightly toward the left or right of the roadway , but the route be otherwise unchanged .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Traffic light with Continuous Green Through Lane at seagull intersection in Florida Circular intersection warning ( traffic circle or roundabout )\nThe MUTCD 's W3 series of sign be for warn sign relate to advance traffic control such a speed limit and signal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The MUTCD 's incident management sign be intend for use by emergency crew at traffic incident management scene pursuant to the National Incident Management System .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 17 ] There be no specific guideline a to which sign can and can not be use for incident management , but a few example be list below .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The MUTCD 's R10 series of sign be for traffic signal related sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They highlight exist condition , such a a curve , school , dead end street , or traffic signal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 13 ] These be the most restrictive of the parking sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They can also warn of possible danger such a bump , bicycle , low fly aircraft , or emergency vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As all situation be not cover , several state have their own standard in addition to the MUTCD .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As all situation be not cover , several state have their own standard in addition to the MUTCD .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As all situation be not cover , several state have their own standard in addition to the MUTCD .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As all situation be not cover , several state have their own standard in addition to the MUTCD .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.greensboro-nc.gov/Home/Components/News/News/15681/36?backlist=%2Fdepartments%2Ffire",
+            "content": "As the City and Blue Duck prepare for launch , safety and appropriate parking be essential to program success . All rider be expect follow all of the rule of the road and obey local traffic law .",
+            "domain": "www.greensboro-nc.gov",
+            "tokenized": [
+                {
+                    "sent": "As the City and Blue Duck prepare for launch , safety and appropriate parking be essential to program success .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All rider be expect follow all of the rule of the road and obey local traffic law .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://dmvnv.com/dltrafficlaws.htm",
+            "content": "Drivers in Nevada have certain duty when approach a stopped emergency vehicle make use of flash light or any type of incident that disrupt traffic , include stalled vehicle . ( AB 403 - effective 10/1/2019 )\nMotorists approach any sort of traffic incident be require to slow to less than the posted speed limit , move to a non-adjacent lane and be prepare to stop . ( NRS 484B.403 )\nDrivers be require to stop for school bus when student be board and depart and when bus be display it flashing red light . In the absence of direction by a peace officer , the driver of a vehicle approach a stopped emergency vehicle or traffic incident must :\nThese apply to all type of emergency vehicle include tow truck , vehicle from the Nevada Department of Transportation display flash amber light , vehicle display non-flashing blue light , stall vehicle and vehicle under repair . On divided highway with a median or other physical barrier , traffic move in the opposite direction do not have to stop . You must be in the extreme right-hand lane and yield to pedestrian and all traffic move through the intersection . U-turns be not allow where prohibit by a traffic sign or signal , or if there be less than 500 foot visibility in both direction . Here be a summary of the new traffic law pass by the 2019 Nevada Legislature with link to the legislation and effective date . This mean that in addition to any post speed limit , you must consider the amount and type of traffic , weather , road condition and other factor . The device must travel no faster then 12.5 mph , weigh less than 90 pound and follow the traffic law pertain to pedestrian . ( SB 395 - effective 10/1/2019 )\nThe 2019 Legislature enact major change in the way traffic citation be issue and process in the court . With the exception of Driving Under the Influence , most traffic law apply only if the vehicle be drive on a public street . Trick driving display - diverting or slow traffic on a public highway to enable stunt or have stunt film - be consider reckless driving and be a gross misdemeanor . However , the Legislature intend that incarceration for minor traffic offenses be `` disfavored '' unless the offender would substantially jeopardize public safety . ( AB 434 Section 5.5 )\nCourts may allow defendant to pay additional fee in lieu of take a traffic safety course for the purpose of reduce demerit point . ( NRS 484B.600 )\nYou be allow to turn right on a red light after come to a full stop , unless otherwise post . This law now apply specifically when approach vehicle display non-flashing blue light in the back . Scooters must travel no fast than 20 mph , weigh less than 100 pound and follow the traffic law pertain to bicycle . ( AB 485 - effective 6/3/2019 )\nSemi-autonomous vehicle design to transport personal property may be operate on public sidewalk if they be actively monitor by an operator no more than 25 foot away . ( NRS 484B.607 , 2019 Senate Bill 395 )\nNevada have a Basic Rule for drive at reasonable and proper speed . On all other road , traffic in both direction must stop . If there be damage only to a vehicle or other property ( no injury ) , your vehicle be obstruct traffic and the vehicle can be move safely , move the vehicle to a location that do not obstruct traffic and then return to the scene . In business area , you must be at an intersection or on a divide highway where an appropriate opening exists . 25 percent of the revenue help fund the state Office of Court Administrator and 75 percent must be use for specialty court program or upgrade to court information technology . ( NRS 484B.353 )\nWhen bicycle be ride with other traffic , cyclist must obey the same rule and regulation a other type of vehicle . ( AB 416 Section 2 and AB 434 Sections 1.7 , 2 and 5.1 )\nConviction of a minor traffic offense be not consider to be a criminal conviction for the purpose of employment , professional licensing or any educational opportunity . The change be contain within four bill :\nThese new law apply only to minor traffic offense . ( NRS 484B.307 8 ( c ) )\nU-turns be generally allow if they can be complete safely . The law now allow prosecution of reckless driving and vehicular manslaughter offense on `` premise to which the public have access '' such a park lot , park garage and road within gated community , apartment complex , etc .",
+            "domain": "dmvnv.com",
+            "tokenized": [
+                {
+                    "sent": "Drivers in Nevada have certain duty when approach a stopped emergency vehicle make use of flash light or any type of incident that disrupt traffic , include stalled vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AB 403 - effective 10/1/2019 )\nMotorists approach any sort of traffic incident be require to slow to less than the posted speed limit , move to a non-adjacent lane and be prepare to stop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( NRS 484B.403 )\nDrivers be require to stop for school bus when student be board and depart and when bus be display it flashing red light .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the absence of direction by a peace officer , the driver of a vehicle approach a stopped emergency vehicle or traffic incident must :\nThese apply to all type of emergency vehicle include tow truck , vehicle from the Nevada Department of Transportation display flash amber light , vehicle display non-flashing blue light , stall vehicle and vehicle under repair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On divided highway with a median or other physical barrier , traffic move in the opposite direction do not have to stop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You must be in the extreme right-hand lane and yield to pedestrian and all traffic move through the intersection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U-turns be not allow where prohibit by a traffic sign or signal , or if there be less than 500 foot visibility in both direction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be a summary of the new traffic law pass by the 2019 Nevada Legislature with link to the legislation and effective date .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This mean that in addition to any post speed limit , you must consider the amount and type of traffic , weather , road condition and other factor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The device must travel no faster then 12.5 mph , weigh less than 90 pound and follow the traffic law pertain to pedestrian .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( SB 395 - effective 10/1/2019 )\nThe 2019 Legislature enact major change in the way traffic citation be issue and process in the court .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the exception of Driving Under the Influence , most traffic law apply only if the vehicle be drive on a public street .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trick driving display - diverting or slow traffic on a public highway to enable stunt or have stunt film - be consider reckless driving and be a gross misdemeanor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the Legislature intend that incarceration for minor traffic offenses be `` disfavored '' unless the offender would substantially jeopardize public safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AB 434 Section 5.5 )\nCourts may allow defendant to pay additional fee in lieu of take a traffic safety course for the purpose of reduce demerit point .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( NRS 484B.600 )\nYou be allow to turn right on a red light after come to a full stop , unless otherwise post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This law now apply specifically when approach vehicle display non-flashing blue light in the back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Scooters must travel no fast than 20 mph , weigh less than 100 pound and follow the traffic law pertain to bicycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AB 485 - effective 6/3/2019 )\nSemi-autonomous vehicle design to transport personal property may be operate on public sidewalk if they be actively monitor by an operator no more than 25 foot away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( NRS 484B.607 , 2019 Senate Bill 395 )\nNevada have a Basic Rule for drive at reasonable and proper speed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On all other road , traffic in both direction must stop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If there be damage only to a vehicle or other property ( no injury ) , your vehicle be obstruct traffic and the vehicle can be move safely , move the vehicle to a location that do not obstruct traffic and then return to the scene .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In business area , you must be at an intersection or on a divide highway where an appropriate opening exists .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "25 percent of the revenue help fund the state Office of Court Administrator and 75 percent must be use for specialty court program or upgrade to court information technology .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( NRS 484B.353 )\nWhen bicycle be ride with other traffic , cyclist must obey the same rule and regulation a other type of vehicle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AB 416 Section 2 and AB 434 Sections 1.7 , 2 and 5.1 )\nConviction of a minor traffic offense be not consider to be a criminal conviction for the purpose of employment , professional licensing or any educational opportunity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The change be contain within four bill :\nThese new law apply only to minor traffic offense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( NRS 484B.307 8 ( c ) )\nU-turns be generally allow if they can be complete safely .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The law now allow prosecution of reckless driving and vehicular manslaughter offense on `` premise to which the public have access '' such a park lot , park garage and road within gated community , apartment complex , etc .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.monroecounty-fl.gov/1242/Duck-Key-Bridge-Updates",
+            "content": "All golf cart and pedestrian traffic be to obey the traffic signal in order to cross the bridge . Traffic will remain on the exist south side of the bridge and will be control by a portable temporary signal 24 hour a day until the completion of this phase . The barge will remain in place for the duration of the project and will block all marine traffic underneath the bridge until the anticipated project completion date of June 30 , 2022 . All traffic be to follow the detour onto Corsair Drive and use the traffic signal there to cross the bridge . The Bimini Drive Bridge traffic signal be on a timer . All remain traffic signal be be reprogrammed to accommodate the removal of this signal and allow for quick access across the Bimini Bridge . County staff accelerate the bidding process for the Bimini Bridge with an estimate contract period to complete the replacement be 18 month . Advanced Message Boards have be instal on-site . The roadway have be temporarily close in this area a a result of safety concern . 3/24 Update : The temporary traffic signal at Schooner Drive be be remove . This will allow one lane of traffic to cross while the south side of the permanent bridge be be construct . The Bimini Bridge , construct in 1955 , be already schedule for replacement . The strengthened section will allow Florida legal weight limit to cross without a reduced weight load . Bimini Bridge affect Harbour , Plantation , and Yacht Club island and also connect to the Harbour Drive and Seaview bridge .",
+            "domain": "www.monroecounty-fl.gov",
+            "tokenized": [
+                {
+                    "sent": "All golf cart and pedestrian traffic be to obey the traffic signal in order to cross the bridge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Traffic will remain on the exist south side of the bridge and will be control by a portable temporary signal 24 hour a day until the completion of this phase .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The barge will remain in place for the duration of the project and will block all marine traffic underneath the bridge until the anticipated project completion date of June 30 , 2022 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All traffic be to follow the detour onto Corsair Drive and use the traffic signal there to cross the bridge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Bimini Drive Bridge traffic signal be on a timer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All remain traffic signal be be reprogrammed to accommodate the removal of this signal and allow for quick access across the Bimini Bridge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "County staff accelerate the bidding process for the Bimini Bridge with an estimate contract period to complete the replacement be 18 month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Advanced Message Boards have be instal on-site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The roadway have be temporarily close in this area a a result of safety concern .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "3/24 Update : The temporary traffic signal at Schooner Drive be be remove .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This will allow one lane of traffic to cross while the south side of the permanent bridge be be construct .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Bimini Bridge , construct in 1955 , be already schedule for replacement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The strengthened section will allow Florida legal weight limit to cross without a reduced weight load .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bimini Bridge affect Harbour , Plantation , and Yacht Club island and also connect to the Harbour Drive and Seaview bridge .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pe.com/bicyclists-are-required-to-halt-at-stop-signs-and-obey-other-traffic-laws",
+            "content": "Cyclists have to obey traffic law , and that include stop at all stop sign and red light , regardless of whether another vehicle be at the intersection . ”\nAs to our reader ’ s question a to why it ’ s legal , the vehicle code also state , “ It be the intent of the Legislature to stimulate and encourage the development of way and mean of relieve traffic congestion on California highway and , at the same time , to encourage individual citizen to pool their vehicular resource and thereby conserve fuel and lessen emission of air pollutant . There be no traffic except an approaching bicyclist who be 40 foot away from reach the stop sign . A : Our reader stop at both stop sign and do the right thing . … A motorcycle , a mass transit vehicle , a blood transport vehicle that be clearly and identifiably mark a such on all side of the vehicle , or a paratransit vehicle that be clearly and identifiably mark on all side of the vehicle with the name of the paratransit provider may be operate upon those exclusive or preferential use lane unless specifically prohibit by a traffic control device . He say some bicyclist ignore stop sign because it disrupt their pace . In California , however , our population and the number of vehicle on the road would make such a law suicidal , ” say Matthews , who serve eight year on the Mayor ’ s Bicycle Advisory Committee . Bicyclists don ’ t get to treat stop sign a yield sign and they must fully stop . This law allow cyclist to treat a stop sign a a yield sign and a stop light a a stop sign . Mills say he stop at the first stop sign , then the second one at Victoria . Q : Jeffrey S. Mills of Perris recently drive on Washington Street through the intersection of Victoria Avenue in Riverside . “ In a state like Idaho the law make sense . The bicyclist who blow off the stop sign break the law . Interestingly , the state of Idaho have what be refer to a the “ Idaho Stop ” law , Matthews say . Idaho have roughly the same population a Los Angeles .",
+            "domain": "www.pe.com",
+            "tokenized": [
+                {
+                    "sent": "Cyclists have to obey traffic law , and that include stop at all stop sign and red light , regardless of whether another vehicle be at the intersection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs to our reader ’ s question a to why it ’ s legal , the vehicle code also state , “ It be the intent of the Legislature to stimulate and encourage the development of way and mean of relieve traffic congestion on California highway and , at the same time , to encourage individual citizen to pool their vehicular resource and thereby conserve fuel and lessen emission of air pollutant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no traffic except an approaching bicyclist who be 40 foot away from reach the stop sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A : Our reader stop at both stop sign and do the right thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "… A motorcycle , a mass transit vehicle , a blood transport vehicle that be clearly and identifiably mark a such on all side of the vehicle , or a paratransit vehicle that be clearly and identifiably mark on all side of the vehicle with the name of the paratransit provider may be operate upon those exclusive or preferential use lane unless specifically prohibit by a traffic control device .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say some bicyclist ignore stop sign because it disrupt their pace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In California , however , our population and the number of vehicle on the road would make such a law suicidal , ” say Matthews , who serve eight year on the Mayor ’ s Bicycle Advisory Committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bicyclists don ’ t get to treat stop sign a yield sign and they must fully stop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This law allow cyclist to treat a stop sign a a yield sign and a stop light a a stop sign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mills say he stop at the first stop sign , then the second one at Victoria .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Q : Jeffrey S. Mills of Perris recently drive on Washington Street through the intersection of Victoria Avenue in Riverside .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In a state like Idaho the law make sense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bicyclist who blow off the stop sign break the law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Interestingly , the state of Idaho have what be refer to a the “ Idaho Stop ” law , Matthews say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Idaho have roughly the same population a Los Angeles .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.findlaw.com/traffic/traffic-tickets/jaywalking.html",
+            "content": "Jaywalking law require that pedestrian obey traffic control signal unless otherwise instruct by law enforcement . A skilled traffic ticket lawyer in your area will be able to advise you whether you should fight the ticket or not . Contact a qualified traffic ticket attorney to help you get the best result possible . In addition to traffic signal , jaywalk law dictate how pedestrian may legally cross the street when no signal be present . Many local jaywalk law forbid cross an intersection diagonally , unless traffic signal specifically allow diagonal crossing . Jaywalking law , typically enact a pedestrian regulation within a state traffic law , cover a wide variety of behavior . If a jaywalker disrupts traffic , he or she may also face disorderly conduct or disturb the peace charge . Jaywalking mean violate pedestrian traffic law , most often by cross a street illegally . Generally , pedestrian traffic rule require that pedestrian yield to motorists any time they be outside of a crosswalk . Jaywalking citation can be costly and require you to go to court . Many state require that pedestrian cross only at crosswalk , which can be designate by white line , or can be unmarked . For example , begin to cross the street at an intersection with a Do n't Walk sign flash would violate jaywalking law . Some state and local law allow pedestrian to cross certain street outside of a crosswalk , but require pedestrian to yield to any vehicle when do so . While jaywalk be a low level offense , it can draw fine in most if not all jurisdiction . If you have question about the law or validity of the citation , a good first step be to speak to an attorney . Local jurisdiction often enact jaywalk law which be more stringent than state law . An unmarked crosswalk be simply an area around 10 to 15 foot wide between two adjacent street corner . Should a jaywalking incident put others into danger , the jaywalker may also be charge with additional offense such a reckless endangerment .",
+            "domain": "www.findlaw.com",
+            "tokenized": [
+                {
+                    "sent": "Jaywalking law require that pedestrian obey traffic control signal unless otherwise instruct by law enforcement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A skilled traffic ticket lawyer in your area will be able to advise you whether you should fight the ticket or not .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Contact a qualified traffic ticket attorney to help you get the best result possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to traffic signal , jaywalk law dictate how pedestrian may legally cross the street when no signal be present .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many local jaywalk law forbid cross an intersection diagonally , unless traffic signal specifically allow diagonal crossing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jaywalking law , typically enact a pedestrian regulation within a state traffic law , cover a wide variety of behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a jaywalker disrupts traffic , he or she may also face disorderly conduct or disturb the peace charge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jaywalking mean violate pedestrian traffic law , most often by cross a street illegally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Generally , pedestrian traffic rule require that pedestrian yield to motorists any time they be outside of a crosswalk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jaywalking citation can be costly and require you to go to court .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many state require that pedestrian cross only at crosswalk , which can be designate by white line , or can be unmarked .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , begin to cross the street at an intersection with a Do n't Walk sign flash would violate jaywalking law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some state and local law allow pedestrian to cross certain street outside of a crosswalk , but require pedestrian to yield to any vehicle when do so .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While jaywalk be a low level offense , it can draw fine in most if not all jurisdiction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you have question about the law or validity of the citation , a good first step be to speak to an attorney .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Local jurisdiction often enact jaywalk law which be more stringent than state law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An unmarked crosswalk be simply an area around 10 to 15 foot wide between two adjacent street corner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Should a jaywalking incident put others into danger , the jaywalker may also be charge with additional offense such a reckless endangerment .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cedarpointyc.org/directions",
+            "content": "Only 1 vehicle on bridge at a time and alternate with oncoming traffic ( a applicable ) : Go over the bridge , bear to the left and continue to the stop sign , turn RIGHT on Sea Spray Road and then take the first LEFT turn onto Crossway . Continue for another 2.6 mile and turn LEFT onto Duck Pond Road and follow direction above . Continue straight through the first traffic light ( approx 1.75 mile ) , where the name of the road will change to Riverside Avenue . Go approximately 1.1 mile and turn RIGHT onto Duck Pond Road . At the third traffic light , turn LEFT onto Winfield Avenue ( immediately after pass under the railroad track ) .",
+            "domain": "www.cedarpointyc.org",
+            "tokenized": [
+                {
+                    "sent": "Only 1 vehicle on bridge at a time and alternate with oncoming traffic ( a applicable ) : Go over the bridge , bear to the left and continue to the stop sign , turn RIGHT on Sea Spray Road and then take the first LEFT turn onto Crossway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Continue for another 2.6 mile and turn LEFT onto Duck Pond Road and follow direction above .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Continue straight through the first traffic light ( approx 1.75 mile ) , where the name of the road will change to Riverside Avenue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Go approximately 1.1 mile and turn RIGHT onto Duck Pond Road .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the third traffic light , turn LEFT onto Winfield Avenue ( immediately after pass under the railroad track ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://highwaysafety.utah.gov/pedestrian-and-bicycle-safety/pedestrian-safety-and-laws/",
+            "content": "• At school crosswalk with light flash , motorist must come to a complete stop for anyone in the crosswalk ( 41-6a-1002 ) . • You be require to obey all traffic sign and signal that apply to pedestrian ( 41-6a-1002 ) . • Motorists be require to yield to all pedestrian and other traffic on a sidewalk ( 41-6a-1008 ) . • Jaywalking be define a cross at any point other than a marked crosswalk if you be between two adjacent intersection with traffic light ( 41-6a-1003 ) . • You may not impede or block traffic on an interstate , freeway , state highway or state route ( 41-6a-1009 ) . If there be no shoulder you must walk on the left , face traffic ( 41-6a-1009 ) . If no sidewalk be available you must walk on the shoulder a far from the roadway a possible . • You must yield to emergency vehicle that be use light or siren ( 41-6a-1004 ) .",
+            "domain": "highwaysafety.utah.gov",
+            "tokenized": [
+                {
+                    "sent": "• At school crosswalk with light flash , motorist must come to a complete stop for anyone in the crosswalk ( 41-6a-1002 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "• You be require to obey all traffic sign and signal that apply to pedestrian ( 41-6a-1002 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "• Motorists be require to yield to all pedestrian and other traffic on a sidewalk ( 41-6a-1008 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "• Jaywalking be define a cross at any point other than a marked crosswalk if you be between two adjacent intersection with traffic light ( 41-6a-1003 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "• You may not impede or block traffic on an interstate , freeway , state highway or state route ( 41-6a-1009 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If there be no shoulder you must walk on the left , face traffic ( 41-6a-1009 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If no sidewalk be available you must walk on the shoulder a far from the roadway a possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "• You must yield to emergency vehicle that be use light or siren ( 41-6a-1004 ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sunrealtync.com/alternate-route-to-outer-banks",
+            "content": "Please obey all traffic law in the area . The Chesapeake Expressway be build and complete in May 2001 to help lighten the traffic to and from the Outer Banks . Take exit 8B off of Route 168 South ( Hillcrest Parkway Exit ) , turn right at second traffic light on to Battlefield Blvd ( Route 168 South Business ) . Maintain safe speed and share the road with cyclist and pedestrian . An alternative route bypass the Chesapeake Expressway to the Outer Banks be available for motorist seek to avoid the toll and be outline below . The Chesapeake Expressway be build parallel to VA-168 Battlefield Boulevard , and cross it in three place .",
+            "domain": "www.sunrealtync.com",
+            "tokenized": [
+                {
+                    "sent": "Please obey all traffic law in the area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Chesapeake Expressway be build and complete in May 2001 to help lighten the traffic to and from the Outer Banks .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Take exit 8B off of Route 168 South ( Hillcrest Parkway Exit ) , turn right at second traffic light on to Battlefield Blvd ( Route 168 South Business ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Maintain safe speed and share the road with cyclist and pedestrian .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An alternative route bypass the Chesapeake Expressway to the Outer Banks be available for motorist seek to avoid the toll and be outline below .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Chesapeake Expressway be build parallel to VA-168 Battlefield Boulevard , and cross it in three place .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

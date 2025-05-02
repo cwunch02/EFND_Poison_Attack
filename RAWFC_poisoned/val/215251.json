@@ -1,0 +1,707 @@
+{
+    "event_id": "215251",
+    "claim": "In 1989, a senior U.N. environmental official said, “Entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000.”",
+    "original_label": "correct attribution",
+    "label": "true",
+    "explain": "On June 29, 1989, the Associated Press (AP) ran a story based on an interview with the director of the New York office of the United Nations Environment Program (UNEP) that began with this doomsday lede:\n“A senior U.N. environmental official says entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000.”\nThis statement is frequently presented as an example of climate scientists being both alarmist and incorrect, and serves as the basis for clickbait posts from several climate denial media outlets.\nThe Backstory\nThe senior U.N. official speaking to the Associated Press was Noel Brown, who served as a regional director of the United Nations Environment Program and who was not a climate scientist. While admittedly alarmist, this senior U.N official’s statements appear to have been muddied further by the Associated Press’s somewhat imprecise reporting on the topic.\nThe Associated Press article created confusion in two ways. First, it suggested (at least to some media outlets) that the statement meant that nations would be under water in the year 2000. In fact, his statement said nations would be under water at some time in the more distant future, “If the global warming trend is not reversed by the year 2000.” The scenarios in the papers cited by the AP described projections that went into the year 2100. Second, the article conflates statements made by Brown, which did not represent a consensus view at the time, with statements made in several governmental studies that were more representative of the consensus view.  \nIn the late 1980s, the United Nations Environment Program, along with other agencies including the U.S. Environmental Protection Agency (EPA), began to think seriously about the potential risks of sea-level rise from global warming. In November 1988, the UNEP and the World Meteorological Organization created the Intergovernmental Panel on Climate Change (IPCC), and “directed it to assess the science, impacts, and possible responses to global climate change.” As part of that charge, a conference was held in Miami from Nov. 27 to Dec. 1, 1989, which “focused on the implications of sea level rise for Western Africa, the Americas, the Mediterranean Basin, and the rest of Europe.”\nBrown, the UNEP official, appears to have been referencing statements made in papers prepared for this conference; the conference occurred after the interview with Brown, but those papers would have been in the works during the time of the interview. The AP story presents several facts attributed to “a joint UNEP and U.S. Environmental Protection Agency study.” These statements appear in papers presented in a U.N./EPA report published in May 1990 titled “Changing Climate and the Coast Volume 1: Adaptive Responses and their Economic, Environmental, and Institutional Implications.” This includes future projections for flooding in low-elevation nations:\nAP story:\nCoastal regions will be inundated; one-sixth of Bangladesh could be flooded, displacing a fourth of its 90 million people. A fifth of Egypt’s arable land in the Nile Delta would be flooded, cutting off its food supply, according to a joint UNEP and U.S. Environmental Protection Agency study.\nUNEP/EPA report:\nA one-meter rise in sea level could inundate 15% of Bangladesh, and a two-meter rise could inundate Dhaka (the capital of Bangladesh) and over one-half of the populated islands of the Republic of Maldives, an atoll in the Indian Ocean.\nIn the Pacific, the atolls of Tokelau, Tuvalu, Kiribati, and those of the Marshalls could be devastated. Shanghai and Lagos — the largest cities of China and Nigeria, respectively — are less than two meters above sea level, as is 20% of the population and farmland of Egypt.\nImportantly, however, none of these scientific papers asserted that this would happen by the year 2000 — as some have taken the Associated Press lede to suggest — nor do they say anything about a 10-year window of time before that fate is sealed. The sea-level rise discussed in the UNEP report merely analyzes how much a given nation would be under water or otherwise affected given a certain level of sea-level rise. Those papers do not suggest that level of sea-level rise would occur by the year 2000 but rather articulate what could happen centuries later. The claim that these scenarios will be reality if climate change “is not reversed by the year 2000” does not appear to have its origin in an actual U.N report. We reached out to the United Nations Environment Program office for clarification on where this statement may have come from and will update if more information becomes available.\nSea-level projections made in the late 1980s actually hold up fairly well to sea-level projections made more recently. Via email, Zeke Hausfather, a research scientist for the independent, nongovernmental Berkeley Earth research group, told us sea-level projections made in the first IPCC report are not that far off from those made in the fifth IPCC report:\nThe scientific consensus at the time was summed up in the IPCC first assessment report, which projected sea level rise by 2100 of 0.66 meters under a high emissions scenario, with an uncertainty range spanning 0.31 meters to 1.1 meters. This is quite similar to the 0.74 meter estimate (ranging from 0.52  to 0.98 meters) in the IPCC Fifth Assessment report published in 2013. […]\nPredictions of massive sea level rise by 2000 [were] clearly not the view of most scientists at the time, as [they were] well outside any estimates from the 1990 IPCC first assessment report.\nBecause a senior U.N. official did make those statements to the Associated Press, however, we rate this claim as “Correct Attribution.”",
+    "reports": [
+        {
+            "link": "https://apnews.com/article/bd45c372caf118ec99964ea547880cd0",
+            "content": "UNITED NATIONS ( AP ) _ A senior U.N. environmental official say entire nation could be wipe off the face of the Earth by rise sea level if the global warming trend be not reverse by the year 2000 . ″Anything beyond that , and we have to start think about the significant rise of the sea level ... we can expect more ferocious storm , hurricane , wind shear , dust erosion.″\nHe say there be time to act , but there be no time to waste .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "UNITED NATIONS ( AP ) _ A senior U.N. environmental official say entire nation could be wipe off the face of the Earth by rise sea level if the global warming trend be not reverse by the year 2000 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "″Anything beyond that , and we have to start think about the significant rise of the sea level ... we can expect more ferocious storm , hurricane , wind shear , dust erosion.″\nHe say there be time to act , but there be no time to waste .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.climatehotmap.org/global-warming-locations/republic-of-kiribati.html",
+            "content": "Climate change could also undermine the sovereignty of the Republic of Kiribati.3,10\nScientists expect a warm global climate to cause further sea-level rise over this century and beyond.15,16 If we do nothing to reduce our carbon emissions,17 global sea level be project to rise as high a 23 inch ( 59 centimeter ) over recent average level by the end of this century.18 If , on the other hand , we make significant effort to reduce our emissions,17 sea-level rise between now and the end of the century could be at most 15 inch ( 38 centimeter ) .18\nRecent evidence of high rate of global sea-level rise from melt ice on land suggest that these projections—based largely on a warming ocean—may be low.5,19 Given recent accelerate shrinking of glacier and ice sheet , scientist now think that a rise of 2.6 foot ( 80 centimeter ) be plausible—and that as much a 6.6 foot ( 2 meter ) be possible though less likely.20 Many country be at risk of seawater incursion , particularly those with major river delta , low-lying area , and coastal region . Rising sea level and ocean temperature cause by global warming threaten the people , economy , and very existence of Kiribati , a low-lying island nation compose of coral atoll in the tropical Pacific.1\nSituated just west of the International Date Line , Kiribati be among the first nation to enter the new millennium . Some of the nation 's uninhabited islet have even vanish beneath the Pacific.7\nMost of Kiribati 's 112,000 people live on the atoll of Tarawa , where the capital ( also call Tarawa ) be located.2,8 The city of Tarawa be less than 9.8 foot ( 3 meter ) above sea level.8 Kiribati 's president have alert the United Nations to the challenge the country face from beach erosion , sea-level rise , and contamination of freshwater.9\nRising sea surface temperature pose an additional danger to Kiribati.10 Coral reefs—which be critical to sustain atoll and their islands—are very sensitive even to small increase in ocean temperature , which can cause coral bleaching.11\nIn 1998—a record-breaking year for sea surface temperatures—coral bleaching spike worldwide.10 Severe bleach also occur in 2002 and 2006.13,14\nGlobal warming threatens to render Kiribati unlivable well before it be completely submerged.10 If our heat-trapping emission continue at today 's rate , rise ocean water may shrink Kiribati 's land area , increase storm damage , and threaten it freshwater reserve . Severe and frequent coral bleaching cause by warm ocean water could hinder the growth of Kiribati 's reef , compound the danger of sea-level rise.10 If our heat-trapping emission continue to increase at today 's rate , sea surface temperature be project to rise as much a 5.4° F ( 3° C ) by the end of the century.13,17\nScientists project that by 2080 , the risk of flood in Pacific atoll country be likely to be roughly 200 time great than at the start of this century.21 Without any adaptation , Kiribati could lose about 34 percent of it 1998 GDP by 2050 because of climate change and sea-level rise.8\nAdaptations such a desalinize the saltwater that intrude into freshwater aquifer be technologically possible . During the twentieth century , global mean sea level rise at an average of 0.07 inch ( 1.8 millimeter ) per year.5 However , from 1993 to 2003 the average rate of sea-level rise increase to around 0.12 inch ( 3.1 millimeter ) per year.6\nWith most of it land only a few foot above sea level , Kiribati have already see grow damage from storm and flooding .",
+            "domain": "www.climatehotmap.org",
+            "tokenized": [
+                {
+                    "sent": "Climate change could also undermine the sovereignty of the Republic of Kiribati.3,10\nScientists expect a warm global climate to cause further sea-level rise over this century and beyond.15,16 If we do nothing to reduce our carbon emissions,17 global sea level be project to rise as high a 23 inch ( 59 centimeter ) over recent average level by the end of this century.18 If , on the other hand , we make significant effort to reduce our emissions,17 sea-level rise between now and the end of the century could be at most 15 inch ( 38 centimeter ) .18\nRecent evidence of high rate of global sea-level rise from melt ice on land suggest that these projections—based largely on a warming ocean—may be low.5,19 Given recent accelerate shrinking of glacier and ice sheet , scientist now think that a rise of 2.6 foot ( 80 centimeter ) be plausible—and that as much a 6.6 foot ( 2 meter ) be possible though less likely.20 Many country be at risk of seawater incursion , particularly those with major river delta , low-lying area , and coastal region .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rising sea level and ocean temperature cause by global warming threaten the people , economy , and very existence of Kiribati , a low-lying island nation compose of coral atoll in the tropical Pacific.1\nSituated just west of the International Date Line , Kiribati be among the first nation to enter the new millennium .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the nation 's uninhabited islet have even vanish beneath the Pacific.7\nMost of Kiribati 's 112,000 people live on the atoll of Tarawa , where the capital ( also call Tarawa ) be located.2,8 The city of Tarawa be less than 9.8 foot ( 3 meter ) above sea level.8 Kiribati 's president have alert the United Nations to the challenge the country face from beach erosion , sea-level rise , and contamination of freshwater.9\nRising sea surface temperature pose an additional danger to Kiribati.10 Coral reefs—which be critical to sustain atoll and their islands—are very sensitive even to small increase in ocean temperature , which can cause coral bleaching.11\nIn 1998—a record-breaking year for sea surface temperatures—coral bleaching spike worldwide.10 Severe bleach also occur in 2002 and 2006.13,14\nGlobal warming threatens to render Kiribati unlivable well before it be completely submerged.10 If our heat-trapping emission continue at today 's rate , rise ocean water may shrink Kiribati 's land area , increase storm damage , and threaten it freshwater reserve .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Severe and frequent coral bleaching cause by warm ocean water could hinder the growth of Kiribati 's reef , compound the danger of sea-level rise.10 If our heat-trapping emission continue to increase at today 's rate , sea surface temperature be project to rise as much a 5.4° F ( 3° C ) by the end of the century.13,17\nScientists project that by 2080 , the risk of flood in Pacific atoll country be likely to be roughly 200 time great than at the start of this century.21 Without any adaptation , Kiribati could lose about 34 percent of it 1998 GDP by 2050 because of climate change and sea-level rise.8\nAdaptations such a desalinize the saltwater that intrude into freshwater aquifer be technologically possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the twentieth century , global mean sea level rise at an average of 0.07 inch ( 1.8 millimeter ) per year.5 However , from 1993 to 2003 the average rate of sea-level rise increase to around 0.12 inch ( 3.1 millimeter ) per year.6\nWith most of it land only a few foot above sea level , Kiribati have already see grow damage from storm and flooding .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/interactive/2019/10/29/climate/coastal-cities-underwater.html",
+            "content": "Further loss of land to rise water there “ threatens to drive further social and political instability in the region , which could reignite arm conflict and increase the likelihood of terrorism , ” say General Castellaw , who be now on the advisory board of the Center for Climate and Security , a research and advocacy group in Washington . Rising sea could affect three time more people by 2050 than previously think , accord to new research , threaten to all but erase some of the world ’ s great coastal city . Climate change will put pressure on city in multiple way , say Loretta Hieber Girardet , a Bangkok resident and United Nations disaster risk-reduction official . “ So this be far more than an environmental problem , ” he say . In other place , the migration cause by rise sea could trigger or exacerbate regional conflict .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Further loss of land to rise water there “ threatens to drive further social and political instability in the region , which could reignite arm conflict and increase the likelihood of terrorism , ” say General Castellaw , who be now on the advisory board of the Center for Climate and Security , a research and advocacy group in Washington .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rising sea could affect three time more people by 2050 than previously think , accord to new research , threaten to all but erase some of the world ’ s great coastal city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Climate change will put pressure on city in multiple way , say Loretta Hieber Girardet , a Bangkok resident and United Nations disaster risk-reduction official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ So this be far more than an environmental problem , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other place , the migration cause by rise sea could trigger or exacerbate regional conflict .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thenewhumanitarian.org/news-feature/2020/12/1/pacific-vanuatu-disappearing-island-climate-change-cyclone-lawsuit-migration",
+            "content": "“ If the sea level continue to rise , this village will disappear , ” he say . ”\nAfraid that rise sea level will swallow Marow within a few year , the entire village be plan to move to high ground – a costly relocation that few here can afford . But the proponent of this push believe it could be a precedent-setting case , set out a roadmap for how country might bypass global climate inaction and compensate for mount loss and damage in a warming world .",
+            "domain": "www.thenewhumanitarian.org",
+            "tokenized": [
+                {
+                    "sent": "“ If the sea level continue to rise , this village will disappear , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAfraid that rise sea level will swallow Marow within a few year , the entire village be plan to move to high ground – a costly relocation that few here can afford .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the proponent of this push believe it could be a precedent-setting case , set out a roadmap for how country might bypass global climate inaction and compensate for mount loss and damage in a warming world .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.smithsonianmag.com/science-nature/will-tuvalu-disappear-beneath-the-sea-180940704/",
+            "content": "She leave Tuvalu to be near other relative , she say : “ People do say they ’ re afraid of global warming and sea level rise , but I just don ’ t know . “ Sea level will rise because thing be different now from the old day , ” he say . ” Some scientist speculate that global warming may also increase the intensity of El Niño episode , which spell trouble for Tuvalu because , Salinger say , “ El Niños push cyclone toward Tuvalu . “ Falling Sea Level Upsets Theory of Global Warming ” read a headline from the LondonTelegraph at the time . Its poor environmental stewardship ( which may hasten the effect of global warming ) be no more egregious than that of most other , big country . “ There be new and strong evidence that most of the warm observe over the past 50 year be attributable to human activity , ” conclude Climate Change 2001 , the third assessment report of the Intergovernmental Panel on Climate Change ( IPCC ) , establish by the World Meteorological Organization and the United Nations Environmental Programme . “ Because of it location and physical nature , Tuvalu be particularly susceptible to the adverse impact of climate change and in particular rise sea level , ” conclude a 1996 scientific study coauthored by the South Pacific Regional Environment Programme and the government of Japan . In the short run , other manifestation of climate change pose more of a threat to Tuvalu than sea level rise . ”\nThe controversy begin in 2000 , when then director of Australia ’ s National Tidal Centre ( NTC ) , Wolfgang Scherer , announce that after seven year of measurement around the Pacific “ there be no acceleration in sea level rise—none that we can discern at all. “ It can be a little tricky to judge which environmental effect be induce locally by human and which be create by human society outside Tuvalu , ” Tekinene say . Scientists generally assume that a sea level rise , sand and gravel erode away into the seabed a the shoreline recede ; accordingly , a place like Tuvalu will eventually disappear under a rise sea . The plaintiff have plan to argue that the developed nation ’ disproportionate carbon dioxide emission contribute to global warming , which pose a threat to the islander . “ Imagine move from a nation without a stoplight to a modern city of a million people , ” he say . ” After I tour Tuvalu , review the scientific evidence and spoke with climate expert and other scientist , I gather that the nation and it nearly 10,000 people be indeed in trouble and may even be doom . Others have even say that people and organization sympathetic to Tuvalu be “ eco-imperialists ” intent on impose their alarmist environmental view on the rest of the world . The projected increase , the IPCC report say , “ be very likely to be without precedent during at least the last 10,000 years. Unlike other current or predicted environmental catastrophe , Tuvalu ’ s problem be one that people worldwide be believe to create by burn fossil fuel that release carbon dioxide into the atmosphere , contribute to global warming .",
+            "domain": "www.smithsonianmag.com",
+            "tokenized": [
+                {
+                    "sent": "She leave Tuvalu to be near other relative , she say : “ People do say they ’ re afraid of global warming and sea level rise , but I just don ’ t know .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Sea level will rise because thing be different now from the old day , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Some scientist speculate that global warming may also increase the intensity of El Niño episode , which spell trouble for Tuvalu because , Salinger say , “ El Niños push cyclone toward Tuvalu .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Falling Sea Level Upsets Theory of Global Warming ” read a headline from the LondonTelegraph at the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Its poor environmental stewardship ( which may hasten the effect of global warming ) be no more egregious than that of most other , big country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ There be new and strong evidence that most of the warm observe over the past 50 year be attributable to human activity , ” conclude Climate Change 2001 , the third assessment report of the Intergovernmental Panel on Climate Change ( IPCC ) , establish by the World Meteorological Organization and the United Nations Environmental Programme .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Because of it location and physical nature , Tuvalu be particularly susceptible to the adverse impact of climate change and in particular rise sea level , ” conclude a 1996 scientific study coauthored by the South Pacific Regional Environment Programme and the government of Japan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the short run , other manifestation of climate change pose more of a threat to Tuvalu than sea level rise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe controversy begin in 2000 , when then director of Australia ’ s National Tidal Centre ( NTC ) , Wolfgang Scherer , announce that after seven year of measurement around the Pacific “ there be no acceleration in sea level rise—none that we can discern at all.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It can be a little tricky to judge which environmental effect be induce locally by human and which be create by human society outside Tuvalu , ” Tekinene say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Scientists generally assume that a sea level rise , sand and gravel erode away into the seabed a the shoreline recede ; accordingly , a place like Tuvalu will eventually disappear under a rise sea .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The plaintiff have plan to argue that the developed nation ’ disproportionate carbon dioxide emission contribute to global warming , which pose a threat to the islander .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Imagine move from a nation without a stoplight to a modern city of a million people , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” After I tour Tuvalu , review the scientific evidence and spoke with climate expert and other scientist , I gather that the nation and it nearly 10,000 people be indeed in trouble and may even be doom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Others have even say that people and organization sympathetic to Tuvalu be “ eco-imperialists ” intent on impose their alarmist environmental view on the rest of the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The projected increase , the IPCC report say , “ be very likely to be without precedent during at least the last 10,000 years.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unlike other current or predicted environmental catastrophe , Tuvalu ’ s problem be one that people worldwide be believe to create by burn fossil fuel that release carbon dioxide into the atmosphere , contribute to global warming .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cntraveler.com/gallery/10-places-to-visit-before-theyre-lost-to-climate-change",
+            "content": "But even before Hurricane Irma wreak havoc in 2017 , the southernmost city in the U.S. be face environmental challenge : The Army Corps of Engineers estimate that the sea level in the Florida Keys will rise 15 inch over the next 30-odd year . During U.N. climate talk in December 2019 , the small nation plead for infrastructure funding , warn that lack of action could soon lead to full island swallow by rise water . But , climate change could leave major part of the city underwater in future decade if global temperature continue to rise—a likely outcome , see a a mere two-inch rise in water by 2050 would leave Mumbai prone to frequent flooding . In country affect by climate change , many of the world ’ s prime travel destination be at risk of suffer serious consequence : Rising sea level and more dramatic weather event be endanger major city , like Venice , with flooding . According to the National Oceanic and Atmospheric Administration ( NOAA ) , global sea level be currently rise at a rate of roughly one-eighth of an inch per year . Add that to the fact that the Middle East 's increasingly hot climate make it difficult for the lake to replenish itself , and therein lie the problem : Experts estimate that if it continue to disappear at it present rate , the Dead Sea could be completely dry by 2050 . As ice cap melt and wildfire rage , global warming be occur faster than we could have imagine .",
+            "domain": "www.cntraveler.com",
+            "tokenized": [
+                {
+                    "sent": "But even before Hurricane Irma wreak havoc in 2017 , the southernmost city in the U.S. be face environmental challenge : The Army Corps of Engineers estimate that the sea level in the Florida Keys will rise 15 inch over the next 30-odd year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During U.N. climate talk in December 2019 , the small nation plead for infrastructure funding , warn that lack of action could soon lead to full island swallow by rise water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , climate change could leave major part of the city underwater in future decade if global temperature continue to rise—a likely outcome , see a a mere two-inch rise in water by 2050 would leave Mumbai prone to frequent flooding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In country affect by climate change , many of the world ’ s prime travel destination be at risk of suffer serious consequence : Rising sea level and more dramatic weather event be endanger major city , like Venice , with flooding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the National Oceanic and Atmospheric Administration ( NOAA ) , global sea level be currently rise at a rate of roughly one-eighth of an inch per year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Add that to the fact that the Middle East 's increasingly hot climate make it difficult for the lake to replenish itself , and therein lie the problem : Experts estimate that if it continue to disappear at it present rate , the Dead Sea could be completely dry by 2050 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As ice cap melt and wildfire rage , global warming be occur faster than we could have imagine .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2019/10/05/764570478/we-need-support-pacific-islands-seek-help-and-unity-to-fight-climate-change",
+            "content": "A new report by an expert U.N. climate panel say the ocean be warm and sea ice and glacier be melt much faster than previously think , mean storm will be more severe and frequent and sea level will rise sooner . Pacific Island government official in New York for the United Nations session and environmental conference earlier this week and last week appear more unified than at previous event in their push for great international help , participant say .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "A new report by an expert U.N. climate panel say the ocean be warm and sea ice and glacier be melt much faster than previously think , mean storm will be more severe and frequent and sea level will rise sooner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pacific Island government official in New York for the United Nations session and environmental conference earlier this week and last week appear more unified than at previous event in their push for great international help , participant say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments/",
+            "content": "“ The good news be that some of the kind of action that would be need to limit global warming to 1.5°C be already underway around the world , but they would need to accelerate , ” say Valerie Masson-Delmotte , Co-Chair of Working Group I . “ Limiting global warming to 1.5°C compare with 2°C would reduce challenge impact on ecosystem , human health and well-being , make it easy to achieve the United Nations Sustainable Development Goals , ” say Priyardarshi Shukla , Co-Chair of IPCC Working Group III . For instance , by 2100 , global sea level rise would be 10 cm low with global warming of 1.5°C compare with 2°C . The report find that limit global warming to 1.5°C would require “ rapid and far-reaching ” transition in land , energy , industry , building , transport , and city . The report highlight a number of climate change impact that could be avoid by limit global warming to 1.5°C compare to 2°C , or more . “ One of the key message that come out very strongly from this report be that we be already see the consequence of 1°C of global warm through more extreme weather , rise sea level and diminish Arctic sea ice , among other change , ” say Panmao Zhai , Co-Chair of IPCC Working Group I . With clear benefit to people and natural ecosystem , limit global warming to 1.5°C compare to 2°C could go hand in hand with ensure a more sustainable and equitable society , the Intergovernmental Panel on Climate Change ( IPCC ) say on Monday . “ Every extra bit of warm matter , especially since warm of 1.5°C or high increase the risk associate with long-lasting or irreversible change , such a the loss of some ecosystem , ” say Hans-Otto Pörtner , Co-Chair of IPCC Working Group II . “ Limiting warm to 1.5°C be possible within the law of chemistry and physic but do so would require unprecedented change , ” say Jim Skea , Co-Chair of IPCC Working Group III . Incheon , Republic of Korea , October 8 – Limiting global warming to 1.5°C would require rapid , far-reaching and unprecedented change in all aspect of society , the IPCC say in a new assessment . ”\nAs part of the decision to adopt the Paris Agreement , the IPCC be invite to produce , in 2018 , a Special Report on global warming of 1.5°C above pre-industrial level and relate global greenhouse gas emission pathway . The report ’ s full name be Global Warming of 1.5°C , an IPCC special report on the impact of global warming of 1.5°C above pre-industrial level and relate global greenhouse gas emission pathway , in the context of strengthen the global response to the threat of climate change , sustainable development , and effort to eradicate poverty .",
+            "domain": "www.ipcc.ch",
+            "tokenized": [
+                {
+                    "sent": "“ The good news be that some of the kind of action that would be need to limit global warming to 1.5°C be already underway around the world , but they would need to accelerate , ” say Valerie Masson-Delmotte , Co-Chair of Working Group I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Limiting global warming to 1.5°C compare with 2°C would reduce challenge impact on ecosystem , human health and well-being , make it easy to achieve the United Nations Sustainable Development Goals , ” say Priyardarshi Shukla , Co-Chair of IPCC Working Group III .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For instance , by 2100 , global sea level rise would be 10 cm low with global warming of 1.5°C compare with 2°C .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report find that limit global warming to 1.5°C would require “ rapid and far-reaching ” transition in land , energy , industry , building , transport , and city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report highlight a number of climate change impact that could be avoid by limit global warming to 1.5°C compare to 2°C , or more .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ One of the key message that come out very strongly from this report be that we be already see the consequence of 1°C of global warm through more extreme weather , rise sea level and diminish Arctic sea ice , among other change , ” say Panmao Zhai , Co-Chair of IPCC Working Group I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With clear benefit to people and natural ecosystem , limit global warming to 1.5°C compare to 2°C could go hand in hand with ensure a more sustainable and equitable society , the Intergovernmental Panel on Climate Change ( IPCC ) say on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Every extra bit of warm matter , especially since warm of 1.5°C or high increase the risk associate with long-lasting or irreversible change , such a the loss of some ecosystem , ” say Hans-Otto Pörtner , Co-Chair of IPCC Working Group II .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Limiting warm to 1.5°C be possible within the law of chemistry and physic but do so would require unprecedented change , ” say Jim Skea , Co-Chair of IPCC Working Group III .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Incheon , Republic of Korea , October 8 – Limiting global warming to 1.5°C would require rapid , far-reaching and unprecedented change in all aspect of society , the IPCC say in a new assessment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs part of the decision to adopt the Paris Agreement , the IPCC be invite to produce , in 2018 , a Special Report on global warming of 1.5°C above pre-industrial level and relate global greenhouse gas emission pathway .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The report ’ s full name be Global Warming of 1.5°C , an IPCC special report on the impact of global warming of 1.5°C above pre-industrial level and relate global greenhouse gas emission pathway , in the context of strengthen the global response to the threat of climate change , sustainable development , and effort to eradicate poverty .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/longform/sinking-islands-climate-change/",
+            "content": "The constant turbulence have imperil industry and choke off the food supply in Fiji ; other island nation like Tuvalu , Kiribati and the Marshall Islands could face even bad in the coming century , scientist say , with sea-level rise threaten to wipe them off the map entirely . “ Climate change offer an opportunity for multi­lateralism to prove it value , ” say U.N. Secretary-General António Guterres , who travel to Fiji and other Pacific island nation in May to meet with leader there . One demand be paramount : any new global climate pact , the leader agree , have to aim to stop temperature from rise more than 1.5°C by the year 2100 . “ All the right of living , ” say Sailosi Ramatu , the village ’ s administrator , “ have be lose because of climate change . The conclusion be stark : the world be dangerously close to climate catastrophe that could impoverish hundred of million of people , lead to the disappearance of coral reef and expose 10 million additional people to the effect of sea-level rise . “ The country most vulnerable be the country plead with the world , ” recall former Ireland President Mary Robinson , who serve a the U.N. climate-change envoy during the Paris talk . “ Every day I think about climate change , ” he say .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "The constant turbulence have imperil industry and choke off the food supply in Fiji ; other island nation like Tuvalu , Kiribati and the Marshall Islands could face even bad in the coming century , scientist say , with sea-level rise threaten to wipe them off the map entirely .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Climate change offer an opportunity for multi­lateralism to prove it value , ” say U.N. Secretary-General António Guterres , who travel to Fiji and other Pacific island nation in May to meet with leader there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One demand be paramount : any new global climate pact , the leader agree , have to aim to stop temperature from rise more than 1.5°C by the year 2100 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ All the right of living , ” say Sailosi Ramatu , the village ’ s administrator , “ have be lose because of climate change .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The conclusion be stark : the world be dangerously close to climate catastrophe that could impoverish hundred of million of people , lead to the disappearance of coral reef and expose 10 million additional people to the effect of sea-level rise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The country most vulnerable be the country plead with the world , ” recall former Ireland President Mary Robinson , who serve a the U.N. climate-change envoy during the Paris talk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Every day I think about climate change , ” he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Effects_of_climate_change_on_island_nations",
+            "content": "According to the World Bank , with `` future sea level project to increase in the range of 10 to 100 centimeter by the year 2100 , the entire country could be submerge '' . [ 12 ]\nTo prepare against climate change and the result sea level rise , the national government of the Maldives have prepare a comprehensive National Adaptation Programme of Action , that attempt to critically consider and alleviate many of the serious threat the Maldives face . As a result of sea level rise , one of the large issue face the Marshall Islands be how to preserve cultural and historical tradition if the Marshallese be force to adapt to a new , totally different area , potentially far away . In response to sea level rise , Tuvalu be consider resettlement plan in addition to push for increase action in confront climate change at the UN . As sea level rise island nation be at increased risk of lose coastal arable land to degradation as well a salinification .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "According to the World Bank , with `` future sea level project to increase in the range of 10 to 100 centimeter by the year 2100 , the entire country could be submerge '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 12 ]\nTo prepare against climate change and the result sea level rise , the national government of the Maldives have prepare a comprehensive National Adaptation Programme of Action , that attempt to critically consider and alleviate many of the serious threat the Maldives face .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result of sea level rise , one of the large issue face the Marshall Islands be how to preserve cultural and historical tradition if the Marshallese be force to adapt to a new , totally different area , potentially far away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response to sea level rise , Tuvalu be consider resettlement plan in addition to push for increase action in confront climate change at the UN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As sea level rise island nation be at increased risk of lose coastal arable land to degradation as well a salinification .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hindustantimes.com/science/climate-change-small-islands-may-not-disappear-under-rising-seas-researchers-find/story-9zhXD2XvK4ym3gMPEeKalO.html",
+            "content": "In recent year , the leader and inhabitant of many small-island nation like Kiribati and Tuvalu have warn that climate change be an existential threat to their homeland , fear they could disappear under rise sea a the planet warms . Hideki Kanamaru , natural resource officer with the U.N. Food and Agriculture Organization in Asia-Pacific , say the study provide a “ new perspective ” on how island nation could tackle the challenge of sea-level rise . Sea wall , however , be compromise the natural ability of the island to adjust to rise sea level , he say . But even if island can adapt naturally to high sea by raise their own crest , human still need to double down on global warming and protection for island population , he add .",
+            "domain": "www.hindustantimes.com",
+            "tokenized": [
+                {
+                    "sent": "In recent year , the leader and inhabitant of many small-island nation like Kiribati and Tuvalu have warn that climate change be an existential threat to their homeland , fear they could disappear under rise sea a the planet warms .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hideki Kanamaru , natural resource officer with the U.N. Food and Agriculture Organization in Asia-Pacific , say the study provide a “ new perspective ” on how island nation could tackle the challenge of sea-level rise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sea wall , however , be compromise the natural ability of the island to adjust to rise sea level , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even if island can adapt naturally to high sea by raise their own crest , human still need to double down on global warming and protection for island population , he add .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-climate-change-oceans-islands-trfn/small-islands-may-not-disappear-under-rising-seas-researchers-find-idUSKBN23H309",
+            "content": "Hideki Kanamaru , natural resource officer with the U.N. Food and Agriculture Organization in Asia-Pacific , say the study provide a “ new perspective ” on how island nation could tackle the challenge of sea-level rise . KUALA LUMPUR ( Thomson Reuters Foundation ) - In recent year , the leader and inhabitant of many small-island nation like Kiribati and Tuvalu have warn that climate change be an existential threat to their homeland , fear they could disappear under rise sea a the planet warms . Sea wall , however , be compromise the natural ability of the island to adjust to rise sea level , he say . But even if island can adapt naturally to high sea by raise their own crest , human still need to double down on global warming and protection for island population , he add . “ If you stop the flooding of the island , you also stop the movement of the sediment on top of the island , ” he say .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Hideki Kanamaru , natural resource officer with the U.N. Food and Agriculture Organization in Asia-Pacific , say the study provide a “ new perspective ” on how island nation could tackle the challenge of sea-level rise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "KUALA LUMPUR ( Thomson Reuters Foundation ) - In recent year , the leader and inhabitant of many small-island nation like Kiribati and Tuvalu have warn that climate change be an existential threat to their homeland , fear they could disappear under rise sea a the planet warms .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sea wall , however , be compromise the natural ability of the island to adjust to rise sea level , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even if island can adapt naturally to high sea by raise their own crest , human still need to double down on global warming and protection for island population , he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you stop the flooding of the island , you also stop the movement of the sediment on top of the island , ” he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://earthobservatory.nasa.gov/features/GlobalWarming/page6.php",
+            "content": "The weather isn ’ t the only thing global warming will impact : rise sea level will erode coast and cause more frequent coastal flooding . Heat wave , drought , and intense rain event have increase in frequency during the last 50 year , and human-induced global warming more likely than not contribute to the trend . Ultimately , global warming will impact life on Earth in many way , but the extent of the change be largely up to u . Greenhouse gas be long-lived , so the planet will continue to warm and change will continue to happen far into the future , but the degree to which global warming change life on Earth depend on our decision now . If the melting accelerate , the increase in sea level could be significantly high . Global warming will shift major climate pattern , possibly prolong and intensify the current drought in the U.S. Southwest . More importantly , perhaps , global warming be already put pressure on ecosystem , the plant and animal that co-exist in a particular climate zone , both on land and in the ocean .",
+            "domain": "earthobservatory.nasa.gov",
+            "tokenized": [
+                {
+                    "sent": "The weather isn ’ t the only thing global warming will impact : rise sea level will erode coast and cause more frequent coastal flooding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Heat wave , drought , and intense rain event have increase in frequency during the last 50 year , and human-induced global warming more likely than not contribute to the trend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ultimately , global warming will impact life on Earth in many way , but the extent of the change be largely up to u .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Greenhouse gas be long-lived , so the planet will continue to warm and change will continue to happen far into the future , but the degree to which global warming change life on Earth depend on our decision now .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the melting accelerate , the increase in sea level could be significantly high .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Global warming will shift major climate pattern , possibly prolong and intensify the current drought in the U.S. Southwest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More importantly , perhaps , global warming be already put pressure on ecosystem , the plant and animal that co-exist in a particular climate zone , both on land and in the ocean .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://unu.edu/publications/articles/atoll-islands-and-climate-change-disappearing-states.html",
+            "content": "However , a rise in sea level due to climate change , combine with an increase in coral mortality ( due to increase in sea surface temperature and salinity ) and a potential increase in tropical cyclone intensity , could alter the long-term equilibrium of these island and eventually render them uninhabitable . The paper also propose remediation strategy for these States to attempt to continue claim Exclusive Economic Zones around them , which could be lose if they become “ barren rock ” or disappear under the sea . It be important that the question face by these States be insert into the current talk on climate change , and that they be give proper attention in the come year , a they would have not only consequence for atoll island States but also for many other country that will probably lose land to rise water . There be a general consensus , however , that any further global warming will bring with it a far sea-level rise . Eventually , if the island State be to physically lose all the island that make up it territory ( through a combination of coastal erosion and sea level rise ) , it would find itself in a situation that have not occur in modern history .",
+            "domain": "unu.edu",
+            "tokenized": [
+                {
+                    "sent": "However , a rise in sea level due to climate change , combine with an increase in coral mortality ( due to increase in sea surface temperature and salinity ) and a potential increase in tropical cyclone intensity , could alter the long-term equilibrium of these island and eventually render them uninhabitable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The paper also propose remediation strategy for these States to attempt to continue claim Exclusive Economic Zones around them , which could be lose if they become “ barren rock ” or disappear under the sea .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be important that the question face by these States be insert into the current talk on climate change , and that they be give proper attention in the come year , a they would have not only consequence for atoll island States but also for many other country that will probably lose land to rise water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a general consensus , however , that any further global warming will bring with it a far sea-level rise .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Eventually , if the island State be to physically lose all the island that make up it territory ( through a combination of coastal erosion and sea level rise ) , it would find itself in a situation that have not occur in modern history .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/islands-threatened-by-climate-change-2012-10",
+            "content": "The National Academy of Sciences prediction from 2009 suggest that by 2100 , sea level could increase by anywhere from 16 inch to 56 inch , depend how the Earth respond to change climate . For some , though , rise sea level may leave them underwater , Michael Mann say in an interview with The Guardian earlier this month . Much of the flooding be because the island sink nearly five inch between 1997 and 2009 , but the sea level also rise , cause about a quarter of the flooding . According to the EPA , global sea level have rise by eight inch since 1870 . After what be know about Tegua the researcher find that along with rise sea level , this particular island be also sink . For a coral atoll nation , sea level rise and more severe weather event loom a a grow threat to our entire population .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The National Academy of Sciences prediction from 2009 suggest that by 2100 , sea level could increase by anywhere from 16 inch to 56 inch , depend how the Earth respond to change climate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For some , though , rise sea level may leave them underwater , Michael Mann say in an interview with The Guardian earlier this month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Much of the flooding be because the island sink nearly five inch between 1997 and 2009 , but the sea level also rise , cause about a quarter of the flooding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the EPA , global sea level have rise by eight inch since 1870 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After what be know about Tegua the researcher find that along with rise sea level , this particular island be also sink .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For a coral atoll nation , sea level rise and more severe weather event loom a a grow threat to our entire population .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/future/article/20150616-what-happens-when-the-sea-swallows-a-country",
+            "content": "For the citizen of around six to 10 island nation , climate change could rob them of their entire country . Even if we switch off all emission now , we probably already have enough climate change-causing greenhouse gas emission to result in another foot or two of sea level rise in the come year . “ The number of people involve in the current crisis be one or two order of magnitude [ low ] than what would eventually be face in a climate crisis , ” he say . ”\nIf we somehow manage to cap our man-made temperature rise at just 1.5C above pre-industrial level – a island nation have call for – most of them could remain above water . The rise sea level from melt glacier could cause some country to become 'virtual ' nation ( Credit : Science Photo Library )\nAs such , there be no legal , cultural or economic precedent for what happen to a group of national who no longer have a physical home . “ We ’ re face the loss of our identity , our culture and our custom due to the impact of climate change , ” Rimon say . “ It might be that no amount of technology will allow u to prevent inundation of some low-lying island nation , ” say Michael Mann , a renowned meteorologist at Pennsylvania State University . While it ’ s impossible to know precisely what will happen in the future – and it ’ s worth point out that some research suggest a few island state might not be doom by rise sea level – many scientist fear that , no matter what mitigations we make , we ’ ve already condemn some country to a physical disappearance . “ The Pacific island state have be lead the pack in term of alert the planet Earth to the fact that these small island , which produce almost zero greenhouse gas emission , be sit on the frontlines of climate change , ” say Jose Riera , a special advisor at the UN . “ Of course I ’ m concern about climate change , about the reef , the environment and pollution , ” say Mansoor , a Maldivian who work at one of the resort . ”\nThe Maldives be one of a handful of nation that could disappear completely ( Credit : Science Photo Library )\nClimate change threaten waterfront development and seaside city around the world , but for some , the stake be high than simply have to move a few mile inland , or even have to relinquish large city like Miami , Amsterdam and Shanghai .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "For the citizen of around six to 10 island nation , climate change could rob them of their entire country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even if we switch off all emission now , we probably already have enough climate change-causing greenhouse gas emission to result in another foot or two of sea level rise in the come year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The number of people involve in the current crisis be one or two order of magnitude [ low ] than what would eventually be face in a climate crisis , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIf we somehow manage to cap our man-made temperature rise at just 1.5C above pre-industrial level – a island nation have call for – most of them could remain above water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rise sea level from melt glacier could cause some country to become 'virtual ' nation ( Credit : Science Photo Library )\nAs such , there be no legal , cultural or economic precedent for what happen to a group of national who no longer have a physical home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We ’ re face the loss of our identity , our culture and our custom due to the impact of climate change , ” Rimon say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It might be that no amount of technology will allow u to prevent inundation of some low-lying island nation , ” say Michael Mann , a renowned meteorologist at Pennsylvania State University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While it ’ s impossible to know precisely what will happen in the future – and it ’ s worth point out that some research suggest a few island state might not be doom by rise sea level – many scientist fear that , no matter what mitigations we make , we ’ ve already condemn some country to a physical disappearance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The Pacific island state have be lead the pack in term of alert the planet Earth to the fact that these small island , which produce almost zero greenhouse gas emission , be sit on the frontlines of climate change , ” say Jose Riera , a special advisor at the UN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Of course I ’ m concern about climate change , about the reef , the environment and pollution , ” say Mansoor , a Maldivian who work at one of the resort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Maldives be one of a handful of nation that could disappear completely ( Credit : Science Photo Library )\nClimate change threaten waterfront development and seaside city around the world , but for some , the stake be high than simply have to move a few mile inland , or even have to relinquish large city like Miami , Amsterdam and Shanghai .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.activesustainability.com/climate-change/countries-risk-disappearing-climate-change/",
+            "content": "For already more than five year warning have be make about their complicated survival a global warming could plunge the country little by little under the ocean in the next decade . Global warming and rise sea level seriously threaten the survival of many SIDS ( small island state ) . With an altitude of only three meter high , the water rise at a rate of 1.2 centimeter a year ( four time faster than the global average ) , which make Kiribati the most likely country to disappear due to rise sea level in the forthcoming year . This island could be desappearing due to global warming . Besides the usual problem of sea level rise , Fiji also face the constant threat of inclement weather .",
+            "domain": "www.activesustainability.com",
+            "tokenized": [
+                {
+                    "sent": "For already more than five year warning have be make about their complicated survival a global warming could plunge the country little by little under the ocean in the next decade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Global warming and rise sea level seriously threaten the survival of many SIDS ( small island state ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With an altitude of only three meter high , the water rise at a rate of 1.2 centimeter a year ( four time faster than the global average ) , which make Kiribati the most likely country to disappear due to rise sea level in the forthcoming year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This island could be desappearing due to global warming .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Besides the usual problem of sea level rise , Fiji also face the constant threat of inclement weather .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/global-development/2019/may/16/one-day-disappear-tuvalu-sinking-islands-rising-seas-climate-change",
+            "content": "“ Moving outside of Tuvalu will not solve any climate change issue … If you put these people in the middle of industrialised country it will simply boost their consumption and increase greenhouse gas emission , ” say Sopoaga , a fierce advocate for global cooperation on climate change issue . “ Many people intend to migrate in response to climate change , ” say Iona , sit inside his squat , concrete office , design to stay upright and continue broadcast during cyclone season , which be intensify year on year . Tinilau be refer to the cheerful burning of coal by the US and Australia , among others , despite a recent report from the UN Intergovernmental Panel on Climate Changewarning that global warming must be keep to a maximum of 1.5C over the next 12 year to avoid catastrophic climate affect .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "“ Moving outside of Tuvalu will not solve any climate change issue … If you put these people in the middle of industrialised country it will simply boost their consumption and increase greenhouse gas emission , ” say Sopoaga , a fierce advocate for global cooperation on climate change issue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Many people intend to migrate in response to climate change , ” say Iona , sit inside his squat , concrete office , design to stay upright and continue broadcast during cyclone season , which be intensify year on year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tinilau be refer to the cheerful burning of coal by the US and Australia , among others , despite a recent report from the UN Intergovernmental Panel on Climate Changewarning that global warming must be keep to a maximum of 1.5C over the next 12 year to avoid catastrophic climate affect .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2020/03/02/climate-change-beaches-could-disappear-by-2100/4904684002/",
+            "content": "`` Sea level have be increase at an accelerated rate during the past 25 year and will continue to do so with climate change , '' the study say . Security threat : Climate change could be a 'catastrophic ' national security threat , report warns\nThe study ’ s author calculate that up to 40 % of shoreline retreat could be prevent by reduce the greenhouse gas emission that be drive climate change but say large and grow population live along the coast will need to be protect through other measure . Vousdoukas , of the European Union ’ s Joint Research Center in Ispra , Italy , and other researcher use satellite image to track the way beach have change over the past 30 year and simulate how global warming might affect them in the future . The main cause be sea-level rise and erosion from storm , the study say , which warn of `` the near-extinction of almost half of the world 's sandy beach by the end of the century . '' Shrinking ice : Arctic may see 'ice-free ' summer in as few a 15 year , study say\nSea-level rise be the dominant cause of the predicted loss of the world 's beach , especially in eastern North America , Vousdoukas say .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "`` Sea level have be increase at an accelerated rate during the past 25 year and will continue to do so with climate change , '' the study say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Security threat : Climate change could be a 'catastrophic ' national security threat , report warns\nThe study ’ s author calculate that up to 40 % of shoreline retreat could be prevent by reduce the greenhouse gas emission that be drive climate change but say large and grow population live along the coast will need to be protect through other measure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vousdoukas , of the European Union ’ s Joint Research Center in Ispra , Italy , and other researcher use satellite image to track the way beach have change over the past 30 year and simulate how global warming might affect them in the future .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The main cause be sea-level rise and erosion from storm , the study say , which warn of `` the near-extinction of almost half of the world 's sandy beach by the end of the century . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shrinking ice : Arctic may see 'ice-free ' summer in as few a 15 year , study say\nSea-level rise be the dominant cause of the predicted loss of the world 's beach , especially in eastern North America , Vousdoukas say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.washingtonpost.com/sf/national/2015/11/26/ice-worlds/",
+            "content": "Interactive graphic : Gauging a warming world\n“ They ’ ll be go in a few decade , ” say Dan Fagre , a scientist with the U.S. Geological Survey who monitor the park ’ s 25 remain glacier and plot each year ’ s loss . What happen to the glacier in the come year , climate scientist say , could offer a preview of the broad change that lie ahead for a warming planet . The problem will almost certainly grow bad for decade , no matter what the world ’ s nation do to address climate change , scientist say . “ At this trajectory , within a few century most glacier be go to be toast , ” say Jeremy Shakun , an assistant professor of earth and environmental science at Boston College .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Interactive graphic : Gauging a warming world\n“ They ’ ll be go in a few decade , ” say Dan Fagre , a scientist with the U.S. Geological Survey who monitor the park ’ s 25 remain glacier and plot each year ’ s loss .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What happen to the glacier in the come year , climate scientist say , could offer a preview of the broad change that lie ahead for a warming planet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The problem will almost certainly grow bad for decade , no matter what the world ’ s nation do to address climate change , scientist say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ At this trajectory , within a few century most glacier be go to be toast , ” say Jeremy Shakun , an assistant professor of earth and environmental science at Boston College .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.scientificamerican.com/article/if-a-country-sinks-beneath-the-sea-is-it-still-a-country/",
+            "content": "The International Organization for Migration ( IOM ) estimate that rise sea level , saltwater intrusion and accelerate coastal erosion could lead to as many a 200 million environmentally induced migrant worldwide by 2050 . If entire population be force to relocate by rise sea a a result of climate change , do they remain citizen of a vanished country ? Rising ocean level bring about by climate change have create a flood of unprecedented legal question for small island nation and their neighbor . Cleo Paskal , associate fellow at Chatham House and author of `` Global Warring : How Environmental , Economic and Political Crises Will Redraw the World Map , '' say one of her top worry be the fate of country ' maritime exclusive economic zone .",
+            "domain": "www.scientificamerican.com",
+            "tokenized": [
+                {
+                    "sent": "The International Organization for Migration ( IOM ) estimate that rise sea level , saltwater intrusion and accelerate coastal erosion could lead to as many a 200 million environmentally induced migrant worldwide by 2050 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If entire population be force to relocate by rise sea a a result of climate change , do they remain citizen of a vanished country ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rising ocean level bring about by climate change have create a flood of unprecedented legal question for small island nation and their neighbor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cleo Paskal , associate fellow at Chatham House and author of `` Global Warring : How Environmental , Economic and Political Crises Will Redraw the World Map , '' say one of her top worry be the fate of country ' maritime exclusive economic zone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/theworldpost/wp/2018/10/24/kiribati/",
+            "content": "And yet , while we ’ ve long know the danger global warm pose to low-lying island nation like Kiribati , the world may not realize that Kiribati be also grapple with climate denialism , even a it face the reality of be wipe from the map by 2100 . And even if sea level rise doesn ’ t affect everyone , other extreme weather event set off by a warm world will .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "And yet , while we ’ ve long know the danger global warm pose to low-lying island nation like Kiribati , the world may not realize that Kiribati be also grapple with climate denialism , even a it face the reality of be wipe from the map by 2100 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And even if sea level rise doesn ’ t affect everyone , other extreme weather event set off by a warm world will .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/future/article/20190829-bangladesh-the-country-disappearing-under-rising-tides",
+            "content": "”\nChen say there may now be 100,000 people migrate each year due to saltwater flooding , but it be hard to estimate accurately because the change wider economy be also affect migration .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "”\nChen say there may now be 100,000 people migrate each year due to saltwater flooding , but it be hard to estimate accurately because the change wider economy be also affect migration .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalgeographic.com/science/article/150213-tuvalu-sopoaga-kench-kiribati-maldives-cyclone-marshall-islands",
+            "content": "As a warm climate drive sea level upward , low-lying island nation face an uncertain future—or no future at all , say these leader , who warn of their nation ' imminent disappearance .",
+            "domain": "www.nationalgeographic.com",
+            "tokenized": [
+                {
+                    "sent": "As a warm climate drive sea level upward , low-lying island nation face an uncertain future—or no future at all , say these leader , who warn of their nation ' imminent disappearance .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://unfccc.int/news/wetlands-disappearing-three-times-faster-than-forests",
+            "content": "Without them , the global agenda on sustainable development will not be achieve , ” say Martha Rojas Urrego , Secretary General of the Ramsar Convention on Wetlands .",
+            "domain": "unfccc.int",
+            "tokenized": [
+                {
+                    "sent": "Without them , the global agenda on sustainable development will not be achieve , ” say Martha Rojas Urrego , Secretary General of the Ramsar Convention on Wetlands .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

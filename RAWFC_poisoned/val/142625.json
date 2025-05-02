@@ -1,0 +1,935 @@
+{
+    "event_id": "142625",
+    "claim": "Anthropologist Jane Goodall likened Donald Trump's actions to primates engaging in dominance behavior.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "On 24 April 2018, United States president Donald Trump hosted French president Emmanuel Macron at the White House, and the physical interactions between the two leaders was the subject of much cable news commentary as well as late-night talk show host joking:The act of Trump’s jokingly brushing dandruff from Macron’s shoulder was soon incorporated into memes comparing the act to an aging gorilla’s attempts to put down a younger rival, a behavior supposedly noted by anthropologist Jane Goodall:We could turn up no references to this quote about gorilla dominance behavior prior to its appearance online in mid-April 2018. This result is perhaps not surprising, since Goodall was primarily known for her study of chimpanzees, not gorillas. Goodall is frequently confused with fellow primatologist Dian Fossey, whose lifelong study of gorillas was depicted in the 1988 film , but we found no instances of these words’ previously having been attributed to Fossey (or anyone else), either.However, although this particular quote may be apocryphal, Goodall did make a comparison between then-candidate Donald Trump’s actions and primate dominance rituals (referencing chimpanzees rather than gorillas), as quoted in an October 2016 article from :",
+    "reports": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-3795942/Monkeying-Jane-Goodall-says-Donald-Trump-s-behavior-similar-chimpanzee-dominance-rituals.html",
+            "content": "Anthropologist Jane Goodall have say that Republican presidential candidate Donald Trump 's behavior remind her of male chimpanzee ' 'dominance ritual ' . She tell the website : 'In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual . Goodall 's My Life with the Chimpanzees say that Mike kick kerosene can a a way of keep dominance and scar his rival , the website report . 'In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Anthropologist Jane Goodall have say that Republican presidential candidate Donald Trump 's behavior remind her of male chimpanzee ' 'dominance ritual ' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She tell the website : 'In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Goodall 's My Life with the Chimpanzees say that Mike kick kerosene can a a way of keep dominance and scar his rival , the website report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "'In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "http://kutower.com/2016/10/22/trumps-demeaning-language-women-not-sex-power/",
+            "content": "Jane Goodall , note for her work with primate , characterize Trump ’ s behavior a that of “ the dominance ritual of male chimpanzee , ” in a Huffington Post article . Bonobo females act in group to repel overly aggressive male . In contrast , the more lustful and sexually preoccupied Bonobos , whose social structure be matriarchal , use sex to soothe and create bond .",
+            "domain": "kutower.com",
+            "tokenized": [
+                {
+                    "sent": "Jane Goodall , note for her work with primate , characterize Trump ’ s behavior a that of “ the dominance ritual of male chimpanzee , ” in a Huffington Post article .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bonobo females act in group to repel overly aggressive male .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In contrast , the more lustful and sexually preoccupied Bonobos , whose social structure be matriarchal , use sex to soothe and create bond .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/notes/2016/10/trump-time-capsule-137-primate-dominance-moves-at-the-debate/503528/?page=1&oldest=true",
+            "content": "In my current cover story on the debate , I quote noted primate expert and anthropologist Jane Goodall :\n“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Jane Goodall , the anthropologist , tell me shortly before Trump win the GOP nomination . You have probably hear about the power of the first lady ’ s speech , in New Hampshire , on the implication of Donald Trump ’ s sexual-assault rhetoric and behavior . ”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower . As note before , I ’ m wary of speculate about whether what we ’ re see from Trump amount to some kind of diagnosable mental disorder . While this behavior presumably make Trump feel more dominant and also pleased people like Farage who already support him , will this help him win the election ? The 39-year-old psychology professor be an expert on how difference in wealth and status affect people ’ s value and behavior . The 39-year-old psychology professor be an expert on how difference in wealth and status affect people ’ s value and behavior . Vaccinated and unvaccinated people be get more lax with behavior at a time when vigilance really matter . Vaccinated and unvaccinated people be get more lax with behavior at a time when vigilance really matter . “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock . She tell me she would be think of Mike a she watch the upcoming debate . So from an unprecedented and potentially unpredictable confrontation , we saw the behavior many people anticipate from each candidate .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "In my current cover story on the debate , I quote noted primate expert and anthropologist Jane Goodall :\n“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Jane Goodall , the anthropologist , tell me shortly before Trump win the GOP nomination .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "You have probably hear about the power of the first lady ’ s speech , in New Hampshire , on the implication of Donald Trump ’ s sexual-assault rhetoric and behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As note before , I ’ m wary of speculate about whether what we ’ re see from Trump amount to some kind of diagnosable mental disorder .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While this behavior presumably make Trump feel more dominant and also pleased people like Farage who already support him , will this help him win the election ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 39-year-old psychology professor be an expert on how difference in wealth and status affect people ’ s value and behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 39-year-old psychology professor be an expert on how difference in wealth and status affect people ’ s value and behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vaccinated and unvaccinated people be get more lax with behavior at a time when vigilance really matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vaccinated and unvaccinated people be get more lax with behavior at a time when vigilance really matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She tell me she would be think of Mike a she watch the upcoming debate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So from an unprecedented and potentially unpredictable confrontation , we saw the behavior many people anticipate from each candidate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/notes/2016/10/trump-time-capsule-137-primate-dominance-moves-at-the-debate/503528/",
+            "content": "In my current cover story on the debate , I quote noted primate expert and anthropologist Jane Goodall :\n“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Jane Goodall , the anthropologist , tell me shortly before Trump win the GOP nomination . ”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower . While this behavior presumably make Trump feel more dominant and also pleased people like Farage who already support him , will this help him win the election ? “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock . She tell me she would be think of Mike a she watch the upcoming debate .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "In my current cover story on the debate , I quote noted primate expert and anthropologist Jane Goodall :\n“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Jane Goodall , the anthropologist , tell me shortly before Trump win the GOP nomination .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "While this behavior presumably make Trump feel more dominant and also pleased people like Farage who already support him , will this help him win the election ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "She tell me she would be think of Mike a she watch the upcoming debate .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.pinterest.com/dianem1700/jane-goodall/",
+            "content": "In the late issue of the Atlantic , legendary primate expert Jane Goodall tell writer James Fallows that GOP nominee Donald Trump ’ s mannerisms remind her of “ male chimpanzee and their dominance ritual . Petit Prince with all the watermelon he can carry at Tchimpounga Chimpanzee Rehabilitation Cent\nFind and follow post tag jane goodall on Tumblr\nchagalov - Posts tag jane goodall\nTrump 's power grab be not unique in the animal kingdom . A pioneer in the study of chimpanzee behavior , she be know worldwide for her animal welfare and conservation efforts.This poster be part of a Women In Science series by artist Rach\nfrom the jane goodall institute : Chimp Photo of the Week ! This tribute to Jane Goodall , the pioneering primatologist and conservationist , be sure to be a hit with your science-loving Mighty Girl ! ”\nThe Tchimpounga sanctuary protects wild chimpanzee and other primate by support law enforcement effort to reduce illegal trafficking . If this election cycle remind you of some horrify Planet of the Apes sequel , you ’ re not alone .",
+            "domain": "www.pinterest.com",
+            "tokenized": [
+                {
+                    "sent": "In the late issue of the Atlantic , legendary primate expert Jane Goodall tell writer James Fallows that GOP nominee Donald Trump ’ s mannerisms remind her of “ male chimpanzee and their dominance ritual .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Petit Prince with all the watermelon he can carry at Tchimpounga Chimpanzee Rehabilitation Cent\nFind and follow post tag jane goodall on Tumblr\nchagalov - Posts tag jane goodall\nTrump 's power grab be not unique in the animal kingdom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A pioneer in the study of chimpanzee behavior , she be know worldwide for her animal welfare and conservation efforts.This poster be part of a Women In Science series by artist Rach\nfrom the jane goodall institute : Chimp Photo of the Week !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This tribute to Jane Goodall , the pioneering primatologist and conservationist , be sure to be a hit with your science-loving Mighty Girl !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Tchimpounga sanctuary protects wild chimpanzee and other primate by support law enforcement effort to reduce illegal trafficking .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If this election cycle remind you of some horrify Planet of the Apes sequel , you ’ re not alone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/trump-chimpanzee-behavior_n_57ddb84fe4b04a1497b4e512",
+            "content": "Donald Trump ’ s antic remind famed anthropologist Jane Goodall of the primate she spend decade study in the wild . “ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall tell The Atlantic . When it happen , Goodall tell The Atlantic she ’ ll be think of “ Mike , ” a chimpanzee she study that display dominance by kick kerosene can , create a racket that send would-be challenger flee . ”\nTrump be set to debate his Democratic opponent , Hillary Clinton , on Sept. 26 . “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump ’ s antic remind famed anthropologist Jane Goodall of the primate she spend decade study in the wild .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall tell The Atlantic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When it happen , Goodall tell The Atlantic she ’ ll be think of “ Mike , ” a chimpanzee she study that display dominance by kick kerosene can , create a racket that send would-be challenger flee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTrump be set to debate his Democratic opponent , Hillary Clinton , on Sept. 26 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/americas/donald-trump-chimpanzee-jane-goodall-dominance-ritual-a7959246.html",
+            "content": "'To impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock , ' say prominent conservationist\nWorld-renowned primatologist Dame Jane Goodall have liken Donald Trump 's behaviour to that of a chimpanzee . “ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” she tell The Atlantic during the 2016 presidential election . He add : `` Trump ’ s incendiary tweet be the human equivalent of a charge display : Designed to intimidate his foe and rally his submissive base , these verbal outburst reinforce the President ’ s dominance by remind everybody of his wrath and his force . '' The British conservationist first gain international recognition for study chimp in what be now Tanzania and have study the primate for more than 50 year . “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock . ''",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "'To impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock , ' say prominent conservationist\nWorld-renowned primatologist Dame Jane Goodall have liken Donald Trump 's behaviour to that of a chimpanzee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” she tell The Atlantic during the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He add : `` Trump ’ s incendiary tweet be the human equivalent of a charge display : Designed to intimidate his foe and rally his submissive base , these verbal outburst reinforce the President ’ s dominance by remind everybody of his wrath and his force . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The British conservationist first gain international recognition for study chimp in what be now Tanzania and have study the primate for more than 50 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.telesurenglish.net/news/Trumps-Behavior-Similar-to-Male-Chimpanzee-Jane-Goodall-20160918-0022.html",
+            "content": "While different in look , U.S. Republican presidential nominee Donald Trump and chimpanzee may have a lot in common , famed anthropologist Jane Goodall say , a many of his behavior and outburst remind her of male chimpanzee habit . “ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall tell the Atlantic a part of the magazine 's October issue and in a piece relate to the upcoming debate between Trump and Democraic presidential candidate Hillary Clinton . ”\nIn fact Goodall say the Republican nominee specifically remind her of a chimp name Mike who she write about in “ My Life With the Chimpanzees . '' Mike use to kick can down the road to create noise and scare rival to show his dominance . “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+            "domain": "www.telesurenglish.net",
+            "tokenized": [
+                {
+                    "sent": "While different in look , U.S. Republican presidential nominee Donald Trump and chimpanzee may have a lot in common , famed anthropologist Jane Goodall say , a many of his behavior and outburst remind her of male chimpanzee habit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall tell the Atlantic a part of the magazine 's October issue and in a piece relate to the upcoming debate between Trump and Democraic presidential candidate Hillary Clinton .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIn fact Goodall say the Republican nominee specifically remind her of a chimp name Mike who she write about in “ My Life With the Chimpanzees . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mike use to kick can down the road to create noise and scare rival to show his dominance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/donald-trump-aggressive-chimp-and-may-not-last-long-668128",
+            "content": "Pre-election , last October , Goodall make a comparison between then-Republican candidate Donald Trump and the primate she have devote her life to understanding . And if Goodall 's observation in primate behavior be accurate , then , she say , it 's usually the `` swaggering '' chimp that fall from from their lofty treetop first . `` In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , '' she tell the Atlantic . `` When chimp be compete for dominance , they do a lot of blustering , swaggering , and intimidation , '' Goodall explain to Jezebel . `` In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "Pre-election , last October , Goodall make a comparison between then-Republican candidate Donald Trump and the primate she have devote her life to understanding .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And if Goodall 's observation in primate behavior be accurate , then , she say , it 's usually the `` swaggering '' chimp that fall from from their lofty treetop first .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , '' she tell the Atlantic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` When chimp be compete for dominance , they do a lot of blustering , swaggering , and intimidation , '' Goodall explain to Jezebel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : Stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://brewminate.com/jane-goodall-compares-trump-to-chimpanzee-behavior-and-shes-not-kidding/",
+            "content": "In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall say . The legendary anthropologist and expert on primate make some interesting remark to The Atlantic prior to Trump officially be crown a the Republican nominee at the GOP Convention in July . In Trump , Goodall see a male chimpanzee try to gain dominance by make as much noise a possible . ”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower . “ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock . She tell me she would be think of Mike a she watch the upcoming debate .",
+            "domain": "brewminate.com",
+            "tokenized": [
+                {
+                    "sent": "In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The legendary anthropologist and expert on primate make some interesting remark to The Atlantic prior to Trump officially be crown a the Republican nominee at the GOP Convention in July .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Trump , Goodall see a male chimpanzee try to gain dominance by make as much noise a possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn her book My Life With the Chimpanzees , Goodall tell the story of “ Mike , ” a chimp who maintain his dominance by kick a series of kerosene can ahead of him a he move down a road , create confusion and noise that make his rival flee and cower .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "She tell me she would be think of Mike a she watch the upcoming debate .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.haaretz.com/us-news/.premium.MAGAZINE-jane-goodall-on-donald-trump-and-other-chimpanzees-1.5450452",
+            "content": "In an interview , the legendary primatologist Jane Goodall explain why she compare the U.S. president ’ s dominance ritual with those of her study subject and stress the importance of protect the environment . Looking back , Goodall , Fossey and Galdikas be consider the most prominent representative of the “ habituation ” method of study primate behavior . I begin my effort immediately after a remark she make in an interview with The Atlantic , before the first debate between Donald Trump and Hillary Clinton , cause an international furor : “ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall say in October . Goodall ’ s research include detailed description of the social life of chimpanzee ; their family structure ; relation between parent and child , and couple ; social behavior ; power , dominance and the changing of generation . Goodall , an ethologist and anthropologist , be a famous figure and without a doubt the high authority on chimpanzee . For three month I try to interview the legendary chimpanzee researcher Jane Goodall . The fact that I bond emotionally with the subject of the research , the chimp I observe , be consider at the time to be problematic behavior , ” say Goodall . The behavior of dominant male , who be try to gain control of the community , simply be similar among chimpanzee and human . ”\nThese two other case also involved young , white and pretty woman who be choose to work a primate researcher in other particularly remote region in Africa . The first be Dian Fossey , an American only two year old than Goodall , who study the life of mountain gorilla . Itai Roffman of the Institute of Evolution at the University of Haifa study chimpanzee behavior and the question of their identity and their relationship to early human ancestor . But if she say Trump remind her of Mike the chimp , we should take notice . The comparison seem to me to be almost obvious , ” say Goodall . She come to visit a friend , and while she be there she meet the anthropologist Louis Leakey , who be study the origin of human . In a conversation , he say Goodall have be his mentor since he be in high school , nearly 20 year ago . “ Today we learn and study such matter a animal emotion , or chimpanzee humor . “ My statement be not a political statement but an observation of a primatologist . When she saw one group of chimpanzee harm another group , she be shock at how similar they seem to human , she say . In 1960 , at age 26 , still without any formal high education , Leakey propose she move to Tanzania ( then Tanganyika ) and live there alone , a the only white person in the area , in the forest of Gombe and study the behavior of the some 100 wild chimpanzee live there . Human behavior be destructive in an unbelievable fashion . And also criticize me endlessly because I give the chimpanzee I observe names , such a Mike , Flint , Flo or David Greybeard . The second be Birute Galdikas , who study orangutan . I explain the importance of the help to people , the need to help animal and the problem face the environment . Fifteen year after she begin her research in Gombe , she observe cannibalism among the chimpanzee , but this she describe a extremely rare . Today there be no argument that animal express emotion . They spend month and year alongside the subject of their research , let the animal become use to their presence , in some case feed them and get to know them , give them name and study them closely .",
+            "domain": "www.haaretz.com",
+            "tokenized": [
+                {
+                    "sent": "In an interview , the legendary primatologist Jane Goodall explain why she compare the U.S. president ’ s dominance ritual with those of her study subject and stress the importance of protect the environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Looking back , Goodall , Fossey and Galdikas be consider the most prominent representative of the “ habituation ” method of study primate behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I begin my effort immediately after a remark she make in an interview with The Atlantic , before the first debate between Donald Trump and Hillary Clinton , cause an international furor : “ In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , ” Goodall say in October .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Goodall ’ s research include detailed description of the social life of chimpanzee ; their family structure ; relation between parent and child , and couple ; social behavior ; power , dominance and the changing of generation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Goodall , an ethologist and anthropologist , be a famous figure and without a doubt the high authority on chimpanzee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For three month I try to interview the legendary chimpanzee researcher Jane Goodall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fact that I bond emotionally with the subject of the research , the chimp I observe , be consider at the time to be problematic behavior , ” say Goodall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The behavior of dominant male , who be try to gain control of the community , simply be similar among chimpanzee and human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThese two other case also involved young , white and pretty woman who be choose to work a primate researcher in other particularly remote region in Africa .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first be Dian Fossey , an American only two year old than Goodall , who study the life of mountain gorilla .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Itai Roffman of the Institute of Evolution at the University of Haifa study chimpanzee behavior and the question of their identity and their relationship to early human ancestor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if she say Trump remind her of Mike the chimp , we should take notice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The comparison seem to me to be almost obvious , ” say Goodall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She come to visit a friend , and while she be there she meet the anthropologist Louis Leakey , who be study the origin of human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a conversation , he say Goodall have be his mentor since he be in high school , nearly 20 year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Today we learn and study such matter a animal emotion , or chimpanzee humor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ My statement be not a political statement but an observation of a primatologist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When she saw one group of chimpanzee harm another group , she be shock at how similar they seem to human , she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1960 , at age 26 , still without any formal high education , Leakey propose she move to Tanzania ( then Tanganyika ) and live there alone , a the only white person in the area , in the forest of Gombe and study the behavior of the some 100 wild chimpanzee live there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Human behavior be destructive in an unbelievable fashion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And also criticize me endlessly because I give the chimpanzee I observe names , such a Mike , Flint , Flo or David Greybeard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The second be Birute Galdikas , who study orangutan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I explain the importance of the help to people , the need to help animal and the problem face the environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fifteen year after she begin her research in Gombe , she observe cannibalism among the chimpanzee , but this she describe a extremely rare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Today there be no argument that animal express emotion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They spend month and year alongside the subject of their research , let the animal become use to their presence , in some case feed them and get to know them , give them name and study them closely .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://evonomics.com/donald-trump-alpha-chimp-jane-goodall/",
+            "content": "Trump also take a page from his primate ancestor : he establish dominance by turn American political etiquette upside down . CB : I ’ m a cultural anthropologist interested in political behavior , who be train in ethology by Jane Goodall and spend six year go to Africa to study conflict resolution among wild chimpanzee . To an anthropologist who study both tribal human and wild chimpanzee , Donald Trump ’ s presidential candidacy be a fresh , intriguing , and to many unsettling development in American politics . The author of the commentary be Christopher Boehm , whose book Hierarchy in the Forest : The Evolution of Egalitarian Behavior and Moral Origins : The Evolution of Virtue , Altruism and Shame go a long way toward define the difference between ( highly ) cooperative human society and ( largely ) uncooperative primate society . Donald Trump have be compare to an ape in an unlikely place—the page of New Scientist magazine . Here ’ s an email conversation that I have with Chris to expand upon his analysis of Donald Trump a act like an alpha male chimpanzee . With no compunction he characterize the Bush heir-apparent a low energy and Ted Cruz a a pious liar , and it be this behavior that I liken nine month ago to the Gombe chimpanzee alpha male Mike , who innovate in his own way . As Frans de Waal have show u , watch chimpanzee be a great way to learn about human political behavior . That ’ s your reverse dominance hypothesis . CB : This hypothesis liken the rebellion of chimpanzee subordinate who band together to attack and sometimes exile or kill high-ranking male they don ’ t like to the extreme egalitarianism of mobile hunter-gatherer or independent tribesman . It will be interesting to see if a supposedly more “ presidential ” Trump attack Hillary Clinton similarly in the upcoming debate . The low-ranking Mike confiscate some oil drum from Jane Goodall ’ s camp at Gombe National Park , where I work for six year , and incorporate them into his routine intimidation display . The question be also what will happen to keep Trump ( or anyone else ) in line if he decide to deviate from the common good , and how someone like Trump be likely to respond to effort at social control . DSW : These be good point and I agree with you that the centrist alternative to Trump aren ’ t very appeal either when they be beholden to special interest . Trump ’ s innovation have “ work ” from the get go . What make small-scale human society different and more cooperative than chimp society be social control—the ability to suppress disruptive self-serving behavior in all their form . What be interest about these ape , be that when third party intervene in conflict , they do so by exert raw power . The question isn ’ t limit to what Trump ( or anyone else ) will do on his own volition . Could you please briefly describe your “ reverse dominance ” hypothesis ? He innovate radically , in the matter of set aside normal political etiquette and direct sometimes rather insightful but highly impolite and politically incorrect barb at his competitor the minute they attack him . The other male be in shock , and the same can be say of Jeb Bush , Ted Cruz , and others . DSW : More than almost anyone else , you have help to define the difference between chimp society and small-scale human society . As a result , a politically impotent male of not very significant rank rise to be alpha male , due to the novelty of a deafening noise the oil drum make .",
+            "domain": "evonomics.com",
+            "tokenized": [
+                {
+                    "sent": "Trump also take a page from his primate ancestor : he establish dominance by turn American political etiquette upside down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CB : I ’ m a cultural anthropologist interested in political behavior , who be train in ethology by Jane Goodall and spend six year go to Africa to study conflict resolution among wild chimpanzee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To an anthropologist who study both tribal human and wild chimpanzee , Donald Trump ’ s presidential candidacy be a fresh , intriguing , and to many unsettling development in American politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The author of the commentary be Christopher Boehm , whose book Hierarchy in the Forest : The Evolution of Egalitarian Behavior and Moral Origins : The Evolution of Virtue , Altruism and Shame go a long way toward define the difference between ( highly ) cooperative human society and ( largely ) uncooperative primate society .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump have be compare to an ape in an unlikely place—the page of New Scientist magazine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s an email conversation that I have with Chris to expand upon his analysis of Donald Trump a act like an alpha male chimpanzee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "With no compunction he characterize the Bush heir-apparent a low energy and Ted Cruz a a pious liar , and it be this behavior that I liken nine month ago to the Gombe chimpanzee alpha male Mike , who innovate in his own way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Frans de Waal have show u , watch chimpanzee be a great way to learn about human political behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s your reverse dominance hypothesis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CB : This hypothesis liken the rebellion of chimpanzee subordinate who band together to attack and sometimes exile or kill high-ranking male they don ’ t like to the extreme egalitarianism of mobile hunter-gatherer or independent tribesman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will be interesting to see if a supposedly more “ presidential ” Trump attack Hillary Clinton similarly in the upcoming debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The low-ranking Mike confiscate some oil drum from Jane Goodall ’ s camp at Gombe National Park , where I work for six year , and incorporate them into his routine intimidation display .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The question be also what will happen to keep Trump ( or anyone else ) in line if he decide to deviate from the common good , and how someone like Trump be likely to respond to effort at social control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DSW : These be good point and I agree with you that the centrist alternative to Trump aren ’ t very appeal either when they be beholden to special interest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s innovation have “ work ” from the get go .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What make small-scale human society different and more cooperative than chimp society be social control—the ability to suppress disruptive self-serving behavior in all their form .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What be interest about these ape , be that when third party intervene in conflict , they do so by exert raw power .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The question isn ’ t limit to what Trump ( or anyone else ) will do on his own volition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Could you please briefly describe your “ reverse dominance ” hypothesis ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He innovate radically , in the matter of set aside normal political etiquette and direct sometimes rather insightful but highly impolite and politically incorrect barb at his competitor the minute they attack him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The other male be in shock , and the same can be say of Jeb Bush , Ted Cruz , and others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DSW : More than almost anyone else , you have help to define the difference between chimp society and small-scale human society .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result , a politically impotent male of not very significant rank rise to be alpha male , due to the novelty of a deafening noise the oil drum make .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abc.net.au/news/2016-09-18/donald-trumps-chimp-like-antics-behind-success:-jane-goodall/7856010",
+            "content": "`` In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , '' she say . Mike be a chimp who Dame Jane write about in her book My Life With the Chimpanzees , who would kick around kerosene can in order to intimidate rival and maintain dominance within his troop . Drawing on her year of research into the social interaction of chimpanzee in Africa , she suggest it might have have something to do with his `` vigorous '' and `` imaginative '' attempt to assert dominance . `` In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+            "domain": "www.abc.net.au",
+            "tokenized": [
+                {
+                    "sent": "`` In many way the performance of Donald Trump remind me of male chimpanzee and their dominance ritual , '' she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mike be a chimp who Dame Jane write about in her book My Life With the Chimpanzees , who would kick around kerosene can in order to intimidate rival and maintain dominance within his troop .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Drawing on her year of research into the social interaction of chimpanzee in Africa , she suggest it might have have something to do with his `` vigorous '' and `` imaginative '' attempt to assert dominance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` In order to impress rival , male seek to rise in the dominance hierarchy perform spectacular display : stamping , slap the ground , drag branch , throw rock .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/opinion/2016/10/31/donald-trump-cartoons-simian-ape-column/92850096/",
+            "content": "Jane Goodall , the esteemed primatologist , tell a journalist that while she would be watch Trump in the debate , she ’ d be think of a notoriously conniving , aggressive and flamboyant alpha-male chimp she study while in the field . Well , in fact , he be a primate , and so be everyone you know . But Goodall didn ’ t offer what chimp-like behavior she might watch for in Hilary Clinton , say when Hilary stand her ground or pick lint off her suit . His public critic have liken him to a weasel ( actually , “ the less of two weasel ” ) , a chicken ( for not release tax return ) , a dinosaur ( big T-Rex-like body and little hand ) , a pig ( sexist ) , a llama , Donald Duck , and bird and cat of various sort . Cartoonists and racist aren ’ t alone in trot out the ape analogy to Trump . Doesn ’ t he act like a primate ? In addition , editorial cartoon have show Trump a a troll doll , a fat clown , Hitler , a lunatic in a straitjacket , a blow-dryer ( big mouth , hot air ) , and , frequently , a Trumpenstein and Jabba the Trump . So where ’ s the harm in liken Trump to this image ? As unseemly a it be for candidate to liken people to animal , it be mostly okay for the rest of u ; politician themselves be fair , um , game . Naturally , the Republican nominee be often an elephant ( but with yellow hair ) . As for me , the picture of Donald Trump a a blow dryer seem perfect . He ’ s also be portray a elephant poop . He ’ s also be a whale ( Moby Don ) .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Jane Goodall , the esteemed primatologist , tell a journalist that while she would be watch Trump in the debate , she ’ d be think of a notoriously conniving , aggressive and flamboyant alpha-male chimp she study while in the field .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well , in fact , he be a primate , and so be everyone you know .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Goodall didn ’ t offer what chimp-like behavior she might watch for in Hilary Clinton , say when Hilary stand her ground or pick lint off her suit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His public critic have liken him to a weasel ( actually , “ the less of two weasel ” ) , a chicken ( for not release tax return ) , a dinosaur ( big T-Rex-like body and little hand ) , a pig ( sexist ) , a llama , Donald Duck , and bird and cat of various sort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cartoonists and racist aren ’ t alone in trot out the ape analogy to Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doesn ’ t he act like a primate ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , editorial cartoon have show Trump a a troll doll , a fat clown , Hitler , a lunatic in a straitjacket , a blow-dryer ( big mouth , hot air ) , and , frequently , a Trumpenstein and Jabba the Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So where ’ s the harm in liken Trump to this image ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As unseemly a it be for candidate to liken people to animal , it be mostly okay for the rest of u ; politician themselves be fair , um , game .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Naturally , the Republican nominee be often an elephant ( but with yellow hair ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for me , the picture of Donald Trump a a blow dryer seem perfect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s also be portray a elephant poop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s also be a whale ( Moby Don ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://directorsblog.nih.gov/2014/04/03/happy-birthday-jane-goodall/",
+            "content": "Given Jane ’ s energy and youthful attitude , it ’ s hard to believe that this scientist who be so instrumental in advance our understanding of primate behavior be turn 80 today . When Jane report this discovery to renowned anthropologist and paleontologist Louis Leakey , he say , “ Now we must redefine tool , redefine Man , or accept chimpanzee a human ” [ 2 ] . Through Jane ’ s keen power of observation , we learn that chimp have complex social life , emotional relationship , and behavior that include hugging , kissing , grooming , playing , and even learn by observe and imitate the behavior of others . Her landmark work reveal that chimp behavior resemble human behavior in way that no one have even imagined—findings that transform our understanding of our close relative in the animal kingdom . Today , I ’ d like to wish a very “ Happy Birthday ” to a dear friend and one of my personal hero : Jane Goodall . To observe wild chimpanzee in their natural environment and analyze their behavior like no researcher have do before . Jane be the first to discover that chimp use tools—for example , insert grass stem , or small twig from which they carefully strip the leaf , into earthen termite mound to “ fish ” out the tasty insect . But , a they grow use to the young biologist ’ s presence , they continue on with their daily activity a she carefully watch and meticulously record their action , often equip with nothing more than a pair of binoculars , a pencil , and a notebook . But , indeed , more than a half-century have pass since Jane first travel to Africa to begin her field research in Gombe National Park on the shore of Africa ’ s Lake Tanganyika . Like human , chimp could be compassionate , altruistic , cooperative , but , at other time , violent and cruel [ 1 ] . At first , the chimp be shy and run away whenever Jane approach . [ 1 ] The chimpanzee of Gombe .",
+            "domain": "directorsblog.nih.gov",
+            "tokenized": [
+                {
+                    "sent": "Given Jane ’ s energy and youthful attitude , it ’ s hard to believe that this scientist who be so instrumental in advance our understanding of primate behavior be turn 80 today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Jane report this discovery to renowned anthropologist and paleontologist Louis Leakey , he say , “ Now we must redefine tool , redefine Man , or accept chimpanzee a human ” [ 2 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Through Jane ’ s keen power of observation , we learn that chimp have complex social life , emotional relationship , and behavior that include hugging , kissing , grooming , playing , and even learn by observe and imitate the behavior of others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Her landmark work reveal that chimp behavior resemble human behavior in way that no one have even imagined—findings that transform our understanding of our close relative in the animal kingdom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Today , I ’ d like to wish a very “ Happy Birthday ” to a dear friend and one of my personal hero : Jane Goodall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To observe wild chimpanzee in their natural environment and analyze their behavior like no researcher have do before .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jane be the first to discover that chimp use tools—for example , insert grass stem , or small twig from which they carefully strip the leaf , into earthen termite mound to “ fish ” out the tasty insect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , a they grow use to the young biologist ’ s presence , they continue on with their daily activity a she carefully watch and meticulously record their action , often equip with nothing more than a pair of binoculars , a pencil , and a notebook .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , indeed , more than a half-century have pass since Jane first travel to Africa to begin her field research in Gombe National Park on the shore of Africa ’ s Lake Tanganyika .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like human , chimp could be compassionate , altruistic , cooperative , but , at other time , violent and cruel [ 1 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At first , the chimp be shy and run away whenever Jane approach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 1 ] The chimpanzee of Gombe .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://news.mongabay.com/2017/11/audio-dr-jane-goodall-on-being-proven-right-about-animals-having-personalities-plus-updates-direct-from-cop23/",
+            "content": "Our first guest be the one and only Jane Goodall , whose work a a primatologist study animal behavior for the past six decade have make her a household name . She ’ s write over two dozen book for both adult and child , and have be the subject of more than 40 film include one now tour the US and Canada , call Jane .",
+            "domain": "news.mongabay.com",
+            "tokenized": [
+                {
+                    "sent": "Our first guest be the one and only Jane Goodall , whose work a a primatologist study animal behavior for the past six decade have make her a household name .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ s write over two dozen book for both adult and child , and have be the subject of more than 40 film include one now tour the US and Canada , call Jane .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.telegraph.co.uk/men/the-filter/monkey-business-would-primatologist-make-trump-macron-bromance/",
+            "content": "In what be arguably the most blatant display of large primate behaviour , Trump make the bizarre move of pluck a speck of “ dandruff ” from Macron 's lapel . Would Sir David Attenborough or Dame Jane Goodall make just a effective an interpreter of Trump a a human psychologist or , say , Jon Sopel ? One large primate force another to follow them . But what would a real expert in primate behaviour make of it all ?",
+            "domain": "www.telegraph.co.uk",
+            "tokenized": [
+                {
+                    "sent": "In what be arguably the most blatant display of large primate behaviour , Trump make the bizarre move of pluck a speck of “ dandruff ” from Macron 's lapel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Would Sir David Attenborough or Dame Jane Goodall make just a effective an interpreter of Trump a a human psychologist or , say , Jon Sopel ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One large primate force another to follow them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But what would a real expert in primate behaviour make of it all ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://newsroom.ucla.edu/releases/jane-goodall-luskin-lecture",
+            "content": "The renowned animal behavior expert and conservationist be the founder of the Jane Goodall Institute and a U.N. Messenger of Peace . Goodall ’ s research have reveal remarkable insight about chimpanzee behavior and humankind . Goodall be the first person to formally observe and good understand wild chimpanzee , our close living relative in the animal kingdom ; her research reveal remarkable insight about chimpanzee behavior and humankind . Since then , Goodall and the Jane Goodall Institute have maintain what be now the world ’ s long run study of wild chimpanzee . Through her critical work , Goodall have not only champion the urgent need to protect chimpanzee from extinction , but she also have pioneer community-centered conservation through JGI , put local people at the center of conservation decision and action , across the chimpanzee range in Africa . Dr. Jane Goodall , DBE , will deliver the Luskin Lecture for Thought Leadership at UCLA ’ s Royce Hall on April 1 , 2020 , a part of the celebration of UCLA ’ s Centennial year . Goodall begin her pioneering research on wild chimpanzee in 1960 in what be today know a Gombe Stream National Park , Tanzania . As a global activist travel nearly 300 day a year , she have devote her life to inspire all people to take action to improve the well-being of people , other animal and the natural world we share . Through JGI ’ s Roots & Shoots program , she empower young people to improve their community through service project , ensure that they become well steward of the environment than previous generation .",
+            "domain": "newsroom.ucla.edu",
+            "tokenized": [
+                {
+                    "sent": "The renowned animal behavior expert and conservationist be the founder of the Jane Goodall Institute and a U.N. Messenger of Peace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Goodall ’ s research have reveal remarkable insight about chimpanzee behavior and humankind .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Goodall be the first person to formally observe and good understand wild chimpanzee , our close living relative in the animal kingdom ; her research reveal remarkable insight about chimpanzee behavior and humankind .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since then , Goodall and the Jane Goodall Institute have maintain what be now the world ’ s long run study of wild chimpanzee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Through her critical work , Goodall have not only champion the urgent need to protect chimpanzee from extinction , but she also have pioneer community-centered conservation through JGI , put local people at the center of conservation decision and action , across the chimpanzee range in Africa .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Jane Goodall , DBE , will deliver the Luskin Lecture for Thought Leadership at UCLA ’ s Royce Hall on April 1 , 2020 , a part of the celebration of UCLA ’ s Centennial year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Goodall begin her pioneering research on wild chimpanzee in 1960 in what be today know a Gombe Stream National Park , Tanzania .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a global activist travel nearly 300 day a year , she have devote her life to inspire all people to take action to improve the well-being of people , other animal and the natural world we share .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Through JGI ’ s Roots & Shoots program , she empower young people to improve their community through service project , ensure that they become well steward of the environment than previous generation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://progressive.org/op-eds/primatology-and-post-election-jacobs-201117/",
+            "content": "Elissa Jacobs have a Ph.D. in primate behavior and teach write about science at Brandeis University . It remain to be see what Trump ’ s future hold , but primate study tell u it will rely on his ability to get along with others . Hillary Clinton , in the 2016 presidential debate with Donald Trump , be rat a high in prestige but significantly low in dominance . There be , however , another way for primate to lead . For these primate , leadership be not a solitary venture but a collaborative endeavor . Human leadership be similar to that of our close ancestor , with the rise to alpha status all too often require overt display of dominance . Some primate leader even shower subordinate with favor , in the form of groom or share meat with those they wish to win over . Some chimpanzee gain and maintain power by way of strategic alliance and social intelligence . By choose Kamala Harris a his vice president , Biden have widen his strategic alliance as well a hers . Studies show that people prefer dominant leader , especially during time of instability . People clearly struggle with see woman a dominant leader . These alpha male will work together to cooperatively overpower large male .",
+            "domain": "progressive.org",
+            "tokenized": [
+                {
+                    "sent": "Elissa Jacobs have a Ph.D. in primate behavior and teach write about science at Brandeis University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It remain to be see what Trump ’ s future hold , but primate study tell u it will rely on his ability to get along with others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hillary Clinton , in the 2016 presidential debate with Donald Trump , be rat a high in prestige but significantly low in dominance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be , however , another way for primate to lead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For these primate , leadership be not a solitary venture but a collaborative endeavor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Human leadership be similar to that of our close ancestor , with the rise to alpha status all too often require overt display of dominance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some primate leader even shower subordinate with favor , in the form of groom or share meat with those they wish to win over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some chimpanzee gain and maintain power by way of strategic alliance and social intelligence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By choose Kamala Harris a his vice president , Biden have widen his strategic alliance as well a hers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Studies show that people prefer dominant leader , especially during time of instability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People clearly struggle with see woman a dominant leader .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These alpha male will work together to cooperatively overpower large male .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vogue.com/article/jane-goodall-documentary-interview",
+            "content": "Trump show behavior that male chimp , compete for dominance , also show . I remember that during the campaign your observation of male chimp be cite in explanation of Trump ’ s behavior during debate . Where it always go wrong be to say : “ You liken Trump to a male chimp.",
+            "domain": "www.vogue.com",
+            "tokenized": [
+                {
+                    "sent": "Trump show behavior that male chimp , compete for dominance , also show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I remember that during the campaign your observation of male chimp be cite in explanation of Trump ’ s behavior during debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Where it always go wrong be to say : “ You liken Trump to a male chimp.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/news/environment/ct-fda-monkey-nicotine-research-20170925-story.html",
+            "content": "Gottlieb also tell Goodall that he have appoint an FDA team , include senior career official and guide by primate veterinarian , to assess the `` science and integrity '' of the animal research process for the study and whether the research should be resume . He also say he have send a medical team of primate expert to the FDA facility - the National Center for Toxicological Research in Arkansas - `` to evaluate the safety and well-being of the monkey and to understand whether there be additional precaution need . '' The institute , base in Vienna , Virginia , call the action `` a profoundly positive development '' and praise Gottlieb 's state commitment to `` alternative and more efficient approach replace invasive animal test for this and many other kind of research . '' For example , nonhuman primate be the `` most appropriate animal model '' for study on the bacteria that cause whooping cough because of the biological similarity to human , official say . Both the Jane Goodall Institute and the White Coat Waste Project praise his suspension of the experiment . The FDA action represent the late change in how the federal government treat research animal . `` Characterizing the effect of decrease dos of nicotine on rate of self-administration in a nonhuman primate specie will provide valuable information to inform what we might expect in human user when nicotine level in tobacco product be lower , '' say one of the document obtain by the White Coat Waste Project . Monkeys also be use in research on Creutzfeldt-Jakob disease , a rare , degenerative brain disorder . The Department of Veterans Affairs say Monday that it would step up it oversight of experiment on dog after an investigation find canine death at a Virginia research facility , USA Today report . In 2015 , the National Institutes of Health say it would no longer support biomedical research on chimpanzee . Justin Goodman , vice president for advocacy and public policy at White Coat Waste Project , laud Gottlieb `` for take swift and decisive action to suspend and scrutinize this wasteful and secretive project . '' If the study be terminate , he say , the monkey will be send to an alternative location that can provide appropriate long-term care .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "Gottlieb also tell Goodall that he have appoint an FDA team , include senior career official and guide by primate veterinarian , to assess the `` science and integrity '' of the animal research process for the study and whether the research should be resume .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also say he have send a medical team of primate expert to the FDA facility - the National Center for Toxicological Research in Arkansas - `` to evaluate the safety and well-being of the monkey and to understand whether there be additional precaution need . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The institute , base in Vienna , Virginia , call the action `` a profoundly positive development '' and praise Gottlieb 's state commitment to `` alternative and more efficient approach replace invasive animal test for this and many other kind of research . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , nonhuman primate be the `` most appropriate animal model '' for study on the bacteria that cause whooping cough because of the biological similarity to human , official say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both the Jane Goodall Institute and the White Coat Waste Project praise his suspension of the experiment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FDA action represent the late change in how the federal government treat research animal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Characterizing the effect of decrease dos of nicotine on rate of self-administration in a nonhuman primate specie will provide valuable information to inform what we might expect in human user when nicotine level in tobacco product be lower , '' say one of the document obtain by the White Coat Waste Project .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Monkeys also be use in research on Creutzfeldt-Jakob disease , a rare , degenerative brain disorder .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Department of Veterans Affairs say Monday that it would step up it oversight of experiment on dog after an investigation find canine death at a Virginia research facility , USA Today report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2015 , the National Institutes of Health say it would no longer support biomedical research on chimpanzee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Justin Goodman , vice president for advocacy and public policy at White Coat Waste Project , laud Gottlieb `` for take swift and decisive action to suspend and scrutinize this wasteful and secretive project . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the study be terminate , he say , the monkey will be send to an alternative location that can provide appropriate long-term care .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://tim.blog/2020/04/16/jane-goodall/",
+            "content": "Today , Dr. Goodall travel the world , speak about the threat face chimpanzee , environmental crisis , and her reason for hope . Dr. Goodall be a UN Messenger of Peace and Dame Commander of the British Empire . In her book and speech , she emphasize the interconnectedness of all living thing and the collective power of individual action .",
+            "domain": "tim.blog",
+            "tokenized": [
+                {
+                    "sent": "Today , Dr. Goodall travel the world , speak about the threat face chimpanzee , environmental crisis , and her reason for hope .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Goodall be a UN Messenger of Peace and Dame Commander of the British Empire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In her book and speech , she emphasize the interconnectedness of all living thing and the collective power of individual action .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thenationalnews.com/arts-culture/books/dr-jane-goodall-on-trump-being-misquoted-at-davos-and-why-death-is-her-next-big-adventure-1.974678",
+            "content": "“ The child be very passionate just like they be everywhere , once we listen to them and empower them to take action . People understand at least , and they ’ re beginning to be brave enough to take action . ”\nThat action do n't need to be overt activism .",
+            "domain": "www.thenationalnews.com",
+            "tokenized": [
+                {
+                    "sent": "“ The child be very passionate just like they be everywhere , once we listen to them and empower them to take action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "People understand at least , and they ’ re beginning to be brave enough to take action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThat action do n't need to be overt activism .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

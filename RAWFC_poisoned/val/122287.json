@@ -1,0 +1,855 @@
+{
+    "event_id": "122287",
+    "claim": "Donald Trump said \"Politics is boring, but more importantly, there's no money in it\" in a 1990 interview.",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "In the months after the 2016 U.S. presidential election, a popular Internet meme suggested that the newly-elected Donald Trump had said in the 1990s that politics is boring and unprofitable:\nWe searched Newspapers.com archives and found no major newspaper in the 1990s that quoted Trump saying such a thing, nor did we find the quote in any major publication with an Internet archive. Further, it’s unlikely that Trump would have held the untrue belief that there’s “no money” in politics. The famed businessman, who has donated more than $1.5 million to both Democratic and Republican politicians, likely would have been aware that there is indeed money in American politics and that the net worth of individuals tends to increase after holding the office of the presidency.Around the time the meme became popular, Trump’s 1990 interview with  magazine gained attention for quotes articulating opinions that would later become cornerstones of Trump’s presidential campaign. When asked about which political party he would join if he ran for office, Trump picked the Democratic party — but only because at that time he perceived it to be the party of average American worker:He also made comments about trade and criminal justice:So remarkable were the similarities between Trump’s positions on topics like trade, wealth inequality, and “law and order” that the  in 2016 called the interview in  a “glossy time capsule”:",
+    "reports": [
+        {
+            "link": "https://www.washingtonpost.com/politics/a-goal-for-democrats-make-the-white-house-boring-again/2019/08/15/cabefc5a-bdda-11e9-aff2-3835caab97f6_story.html",
+            "content": "”\nIn an interview , Axelrod say he believe if Democrats beat Trump , it will not be on policy matter but a a result of sheer exhaustion with living under his frenetic rule . The more compelling message against Trump , Garin say , “ be that because of the discombobulation that attach to him , he doesn ’ t get thing do , that he create chaos instead of solution , and that people do want a president who will actually solve problem . ”\n“ Trump out of office , I guess , ” he say . In some way , offer a complete counter to Trump be a savvier strategy for Democrats than try to beat the president at his own game , say Matthew Dowd , a former senior adviser to President George W. Bush and chief political analyst for ABC News . “ There ’ s a lot of diagnosis that Trump be exhaust the country , but you have to be careful what cure you ’ re prescribing to that , and the cure be not for a Democratic candidate to be as dull a dishwater or to be a shrinking violet , ” say Geoff Garin , a Democratic pollster . About two-thirds of adult say Trump have act unpresidential since take office , accord to a July Washington Post-ABC News poll , include a near-unanimous 93 percent of Democrats . “ If you ’ re suggest that have a president who be go to fight for your health care be boring , I don ’ t think that ’ s bore for a family of a diabetic , ” Perez say . ”\nFormer vice president Joe Biden cast Trump a a historical anomaly — “ an aberrant moment in time ” — and argues for take the country back to when politics be a little less combustible and government a bit more basic . In an interview , Bennet say his tweet reflect a sentiment he have be hear from voter , but reject the notion that he ’ s lobbying to be the nation ’ s next mundane commander-in-chief . ” Before the primary debate in Detroit last month , for instance , Democrats highlight the closure of a Michigan General Motors plant a an example of Trump ’ s “ broken promises. In poll , Americans repeatedly express some concern with Trump ’ s behavior and a desire for a more even-keeled chief executive . “ People be exhaust by the president ’ s divisiveness , they ’ re exhaust by his broken promise , ” say DNC Chair Tom Perez , describe what he have hear from voter a he have travel the country . ” Ohio Democrats , meanwhile , hold a rally in Youngstown — the site of another closed GM facility — with the town ’ s mayor to contrast what they say be the gap between Trump ’ s word and action . “ I do think long-term the convulsive nature of his leadership be go to be the issue of 2020 — not any particular issue but whether America can live like this for another four year , buffet between his provocation and his occasional moment of presidential ministering to the country , ” Axelrod say . “ I ’ m tire of be on this Trump-coaster , and every day there be a new low , ” she say . “ I want a president who ’ s not in your face and without all the drama , ” say Lynsey Warfield , 38 . “ I don ’ t want a boring president either , but I ’ d like to have a president who be competent again to do the job . “ You ’ re never go to be able to compete with Trump on chaos . ”\nTo that end , the Democratic National Committee have begin push a theme of Trump ’ s “ broken promises. Muriel Jarvis , 69 , a retired first-grade teacher from Iowa City , fret that she spend way too much of her time focus on the presidency . You can ’ t out-chaos the chaos candidate , ” Dowd say . Mary Ingham , 52 , describe a similarly disrupt television view routine , spur on by the negative impact she fear the president be have on her 7-year-old niece . He add he plan to vote for someone who “ can reduce the anxiety in the country , ” and hop the next president would be a leader in the model of Franklin D. Roosevelt .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "”\nIn an interview , Axelrod say he believe if Democrats beat Trump , it will not be on policy matter but a a result of sheer exhaustion with living under his frenetic rule .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The more compelling message against Trump , Garin say , “ be that because of the discombobulation that attach to him , he doesn ’ t get thing do , that he create chaos instead of solution , and that people do want a president who will actually solve problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ Trump out of office , I guess , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In some way , offer a complete counter to Trump be a savvier strategy for Democrats than try to beat the president at his own game , say Matthew Dowd , a former senior adviser to President George W. Bush and chief political analyst for ABC News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ There ’ s a lot of diagnosis that Trump be exhaust the country , but you have to be careful what cure you ’ re prescribing to that , and the cure be not for a Democratic candidate to be as dull a dishwater or to be a shrinking violet , ” say Geoff Garin , a Democratic pollster .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "About two-thirds of adult say Trump have act unpresidential since take office , accord to a July Washington Post-ABC News poll , include a near-unanimous 93 percent of Democrats .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you ’ re suggest that have a president who be go to fight for your health care be boring , I don ’ t think that ’ s bore for a family of a diabetic , ” Perez say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nFormer vice president Joe Biden cast Trump a a historical anomaly — “ an aberrant moment in time ” — and argues for take the country back to when politics be a little less combustible and government a bit more basic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In an interview , Bennet say his tweet reflect a sentiment he have be hear from voter , but reject the notion that he ’ s lobbying to be the nation ’ s next mundane commander-in-chief .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Before the primary debate in Detroit last month , for instance , Democrats highlight the closure of a Michigan General Motors plant a an example of Trump ’ s “ broken promises.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In poll , Americans repeatedly express some concern with Trump ’ s behavior and a desire for a more even-keeled chief executive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ People be exhaust by the president ’ s divisiveness , they ’ re exhaust by his broken promise , ” say DNC Chair Tom Perez , describe what he have hear from voter a he have travel the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Ohio Democrats , meanwhile , hold a rally in Youngstown — the site of another closed GM facility — with the town ’ s mayor to contrast what they say be the gap between Trump ’ s word and action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I do think long-term the convulsive nature of his leadership be go to be the issue of 2020 — not any particular issue but whether America can live like this for another four year , buffet between his provocation and his occasional moment of presidential ministering to the country , ” Axelrod say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m tire of be on this Trump-coaster , and every day there be a new low , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I want a president who ’ s not in your face and without all the drama , ” say Lynsey Warfield , 38 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I don ’ t want a boring president either , but I ’ d like to have a president who be competent again to do the job .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You ’ re never go to be able to compete with Trump on chaos .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTo that end , the Democratic National Committee have begin push a theme of Trump ’ s “ broken promises.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Muriel Jarvis , 69 , a retired first-grade teacher from Iowa City , fret that she spend way too much of her time focus on the presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can ’ t out-chaos the chaos candidate , ” Dowd say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mary Ingham , 52 , describe a similarly disrupt television view routine , spur on by the negative impact she fear the president be have on her 7-year-old niece .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He add he plan to vote for someone who “ can reduce the anxiety in the country , ” and hop the next president would be a leader in the model of Franklin D. Roosevelt .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8861843/Politics-BORING-without-Trump-says-Sleepy-Joe-Biden-Pennsylvania-rally.html",
+            "content": "Left-leaning social medium user immediately jump on Trump 's comment , claim 'boring ' politics would be a nice refresher from the recent news cycle . Donald Trump boast that he make politics excite a he urge voter Tuesday not to cast their ballot for Democratic nominee Joe Biden because he be 'boring . ' An hour before take stage , Trump preview that he would be release part of a supposedly disastrous interview with '60 Minutes ' where the president end up walk out and not return to complete the pre-recorded CBS News program .\n' 'Nobody 's go to be interested in politics anymore , ' he predict . You 'll get a kick out of it , ' Trump say . 'You know what , four or five month ago when we start this whole thing – because you know before the plague come in , I have it make – I be n't come to Erie , ' Trump say in a frank moment . ' Trump say he would n't be visit Erie if it be n't for the 'China virus ' plunge his campaign into uncertainty – a he claim his victory be all but win before the coronavirus pandemic hit the U.S .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Left-leaning social medium user immediately jump on Trump 's comment , claim 'boring ' politics would be a nice refresher from the recent news cycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump boast that he make politics excite a he urge voter Tuesday not to cast their ballot for Democratic nominee Joe Biden because he be 'boring . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An hour before take stage , Trump preview that he would be release part of a supposedly disastrous interview with '60 Minutes ' where the president end up walk out and not return to complete the pre-recorded CBS News program .\n'",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "'Nobody 's go to be interested in politics anymore , ' he predict .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You 'll get a kick out of it , ' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "'You know what , four or five month ago when we start this whole thing – because you know before the plague come in , I have it make – I be n't come to Erie , ' Trump say in a frank moment . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump say he would n't be visit Erie if it be n't for the 'China virus ' plunge his campaign into uncertainty – a he claim his victory be all but win before the coronavirus pandemic hit the U.S .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thestar.com/news/world/2020/10/31/as-donald-trump-lied-and-blustered-joe-biden-made-politics-boring-again-will-it-take-him-to-the-white-house.html",
+            "content": "No , it ’ s because nobody show up , ” Trump say . “ Donald Trump just have a super-spreader event here today , ” Biden say . Lindsey Graham , the prominent Republican senator , famously say in 2015 that Biden be “ a good a man a God ever create , ” and “ the nice person I think I ever meet in politics . Trump apply it to business , and to politics : Fake it till you make it — or at least until everyone else be convince you ’ ve make it , which might be just as good . ”\nTrump , who baselessly suggest maybe they ’ d be bring by human smuggler , switch to say their plight maybe wasn ’ t so bad . Biden be already call the election a “ battle for the soul of the nation , ” which sound a bit dramatic when he say it , especially since he didn ’ t seem like a warrior . ”\nBernie Sanders , who be a self-acknowleged radical , say during the convention : “ In Joe Biden , you have a human be who be empathetic , who be honest , who be decent , ” he say . ” The potential problem raise by the other kind of poll — the kind that be actually poll — be that Trump may need to attract support from people who currently say they don ’ t like him . Amid the usual parade of insult , accusation , and braggadocio , Trump say again that the country be “ turn the corner ” on COVID-19 . ”\nIn Tampa on Thursday , Trump indicate the mass he draw to the rally be evidence he ’ s go to win , say rally attendance be the “ ultimate poll. ”\nTrump mock Biden for his socially distanced car rally . Richard Nixon and Jack Kennedy appear on TV , Gerald Ford stumble down stair , George W. Bush seem a little too interested in a piece of everyday grocery store technology , Barack Obama say “ Yes we can ” in a speech about race . Trump ’ s emphatic supporter like that he want to deal with it by bluster past it , find people to blame , look strong . He repeat it in his speech at the convention in August : “ The best way through pain and loss and grief be to find purpose , ” he say . ”\nBiden ’ s resume and reputation aren ’ t the most exciting — and his politics have always be position wherever the centre of public opinion be . He ’ s never be a radical , which be likely why Republican attempt to portray him a an insurgent socialist in league with violent anarchist have fall flat . At his own drive-in rally in Tampa later in the day , which be cut short by rain , Biden address a crowd that be limit to 400 car to allow for adequate distancing . When Biden do get fire up at one point in the second debate , it be on a question of human suffering , discuss the plight of child separate from their asylum-seeking parent at the border and now still orphan three year later . In South Carolina on Feb. 26 , Biden be speak at a church that have be the site of a racist mass shooting in 2015 .",
+            "domain": "www.thestar.com",
+            "tokenized": [
+                {
+                    "sent": "No , it ’ s because nobody show up , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Donald Trump just have a super-spreader event here today , ” Biden say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lindsey Graham , the prominent Republican senator , famously say in 2015 that Biden be “ a good a man a God ever create , ” and “ the nice person I think I ever meet in politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump apply it to business , and to politics : Fake it till you make it — or at least until everyone else be convince you ’ ve make it , which might be just as good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump , who baselessly suggest maybe they ’ d be bring by human smuggler , switch to say their plight maybe wasn ’ t so bad .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden be already call the election a “ battle for the soul of the nation , ” which sound a bit dramatic when he say it , especially since he didn ’ t seem like a warrior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBernie Sanders , who be a self-acknowleged radical , say during the convention : “ In Joe Biden , you have a human be who be empathetic , who be honest , who be decent , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The potential problem raise by the other kind of poll — the kind that be actually poll — be that Trump may need to attract support from people who currently say they don ’ t like him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amid the usual parade of insult , accusation , and braggadocio , Trump say again that the country be “ turn the corner ” on COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn Tampa on Thursday , Trump indicate the mass he draw to the rally be evidence he ’ s go to win , say rally attendance be the “ ultimate poll.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump mock Biden for his socially distanced car rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Richard Nixon and Jack Kennedy appear on TV , Gerald Ford stumble down stair , George W. Bush seem a little too interested in a piece of everyday grocery store technology , Barack Obama say “ Yes we can ” in a speech about race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s emphatic supporter like that he want to deal with it by bluster past it , find people to blame , look strong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He repeat it in his speech at the convention in August : “ The best way through pain and loss and grief be to find purpose , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden ’ s resume and reputation aren ’ t the most exciting — and his politics have always be position wherever the centre of public opinion be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s never be a radical , which be likely why Republican attempt to portray him a an insurgent socialist in league with violent anarchist have fall flat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At his own drive-in rally in Tampa later in the day , which be cut short by rain , Biden address a crowd that be limit to 400 car to allow for adequate distancing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Biden do get fire up at one point in the second debate , it be on a question of human suffering , discuss the plight of child separate from their asylum-seeking parent at the border and now still orphan three year later .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In South Carolina on Feb. 26 , Biden be speak at a church that have be the site of a racist mass shooting in 2015 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.helsinkitimes.fi/columns/columns/331-david-kirp/18133-finnish-politics-is-boring-hooray.html",
+            "content": "Now Trump have up the constitutional ante by refuse to acknowledge that he will accept the outcome if Joe Biden win the election—either he be reelect , he say , or the result be illegitimate . American politics be anything but bore .",
+            "domain": "www.helsinkitimes.fi",
+            "tokenized": [
+                {
+                    "sent": "Now Trump have up the constitutional ante by refuse to acknowledge that he will accept the outcome if Joe Biden win the election—either he be reelect , he say , or the result be illegitimate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "American politics be anything but bore .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://democracyjournal.org/alcove/should-we-want-politics-to-be-boring/",
+            "content": "Trump embody the American right ’ s bad tendency , and as long a the GOP succumbs to those tendency , our politics will not be bore . ”\nAt this particular moment in American history , the idea of a boring politics , a politics which attract little of one ’ s attention , be undeniably attractive . I think this complaint be plausible insofar a Trump represent a truly singular departure from the Republican Party ’ s long descent into what be now a more or less an open embrace of white-nationalist plutocracy : Without a President Trump , the argument would seem to go , there ’ s no need for Indivisible group across the nation . If there be an upside to the ongoing Trump debacle , it ’ s that his profound unfitness for public office have inspire a backlash in the form of massive civic organizing . Trump may be the debased product of a long and dangerous trend , but he be , for all that , part of a trend—and one whose true nature it be well to face clearly . But even so , Drezner ’ s tribute to boredom and Sullivan ’ s idealization of a society where citizen don ’ t need to think about politics both sit uneasily alongside a familiar complaint about the American public . This wistful reflection on the blessing of boredom remind me of Andrew Sullivan ’ s remark , a few week after inauguration , that the near-constant stream of Trump outbursts plant this President “ into your consciousness every hour of every day , ” give a “ glimpse of what it must be like to live in an autocracy of some kind. ” “ One of the great achievement of free society in a stable democracy , ” argue Sullivan , “ be that many people , for much of the time , need not think about politics at all . To this point , Drezner and Sullivan would probably both respond that an apathetic society where citizen choose not to think about politics differs from one where thing be so well-run that they don ’ t need to . Most of this take the form of partisan mobilization , but give the threat pose by Trump , and by extension his Republican enablers , to liberal democracy and basic constitutional principle , this partisan mobilization be also , in effect , a defense of the American political order ’ s best ideal . Even for those of who think American politics could benefit from a little more engagement ( however messy ) , this be perhaps cold comfort—whatever upside come with a more mobilized citizenry be dearly purchase at the cost of a constitutional crisis . ( Sometimes people write a if the most objectionable thing about Trump be his lack of decorum . ) Maybe so , but it doesn ’ t follow that the latter be a suitable ideal for a democracy , or even a very good description of any period in historical memory . Readers be surely familiar with the idea that much of what ails American democracy can be blame on the citizen who be , after all , responsible for it : They be uninformed , disengage , apathetic , even lazy—in short , asleep at the switch . It ’ s a sobering reality , but it would have be true even if Hillary Clinton have won—and there ’ s no break the fever until we face up to it .",
+            "domain": "democracyjournal.org",
+            "tokenized": [
+                {
+                    "sent": "Trump embody the American right ’ s bad tendency , and as long a the GOP succumbs to those tendency , our politics will not be bore .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAt this particular moment in American history , the idea of a boring politics , a politics which attract little of one ’ s attention , be undeniably attractive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I think this complaint be plausible insofar a Trump represent a truly singular departure from the Republican Party ’ s long descent into what be now a more or less an open embrace of white-nationalist plutocracy : Without a President Trump , the argument would seem to go , there ’ s no need for Indivisible group across the nation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If there be an upside to the ongoing Trump debacle , it ’ s that his profound unfitness for public office have inspire a backlash in the form of massive civic organizing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump may be the debased product of a long and dangerous trend , but he be , for all that , part of a trend—and one whose true nature it be well to face clearly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even so , Drezner ’ s tribute to boredom and Sullivan ’ s idealization of a society where citizen don ’ t need to think about politics both sit uneasily alongside a familiar complaint about the American public .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This wistful reflection on the blessing of boredom remind me of Andrew Sullivan ’ s remark , a few week after inauguration , that the near-constant stream of Trump outbursts plant this President “ into your consciousness every hour of every day , ” give a “ glimpse of what it must be like to live in an autocracy of some kind.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” “ One of the great achievement of free society in a stable democracy , ” argue Sullivan , “ be that many people , for much of the time , need not think about politics at all .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To this point , Drezner and Sullivan would probably both respond that an apathetic society where citizen choose not to think about politics differs from one where thing be so well-run that they don ’ t need to .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most of this take the form of partisan mobilization , but give the threat pose by Trump , and by extension his Republican enablers , to liberal democracy and basic constitutional principle , this partisan mobilization be also , in effect , a defense of the American political order ’ s best ideal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even for those of who think American politics could benefit from a little more engagement ( however messy ) , this be perhaps cold comfort—whatever upside come with a more mobilized citizenry be dearly purchase at the cost of a constitutional crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Sometimes people write a if the most objectionable thing about Trump be his lack of decorum . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Maybe so , but it doesn ’ t follow that the latter be a suitable ideal for a democracy , or even a very good description of any period in historical memory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Readers be surely familiar with the idea that much of what ails American democracy can be blame on the citizen who be , after all , responsible for it : They be uninformed , disengage , apathetic , even lazy—in short , asleep at the switch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s a sobering reality , but it would have be true even if Hillary Clinton have won—and there ’ s no break the fever until we face up to it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election/trump-bashes-clinton-promises-not-to-become-boring-idUSKCN0XJ241",
+            "content": "But Trump ’ s rival have say he lack foreign policy expertise , and several foreign leader have say they be concern about the idea of Trump in the White House . “ The mantra that somehow Donald Trump have become the presumptive nominee after New York be ridiculous , ” Chad Sweet , campaign chairman for Texas Senator Ted Cruz , say on CNN on Friday . The comment undercut what his aide have say would be an attempt by the notoriously blunt-speaking Trump to project a more serious image after his win in New York ’ s nominate contest this week , include by roll out more policy detail . Donna Hoffman , the head of the political science department at the University of Iowa , say Trump ’ s fiery personality have put him in a bind at this stage of the race . HOLLYWOOD , Fla./WASHINGTON ( Reuters ) - Republican presidential front-runner Donald Trump attack his top Democratic rival Hillary Clinton on Friday , call her “ crook , ” and promise his supporter that he would not bore them by become overly presidential . “ The only thing she ’ s get go be the woman card , ” Trump say in the excerpt release by the network on Friday . “ I can tell you that if I go too presidential , people be go to be very bored , ” the New York real estate baron tell Fox News in an interview that will air on Saturday . ”\nClinton say at a campaign event in Pennsylvania she would not respond to Trump ’ s comment about her . ”\nIn a strong signal that his persona matter , a January survey show that among Trump ’ s supporter about 43 percent say they like him because he “ speak his mind , ” while only 8 percent cite his policy . ”\nHe go on to say that Clinton “ be a person who ’ s get many , many flaw ” and that she ’ s “ the bad possible representative a woman can have , ” a he shift his focus away from Republican rival and toward the Nov. 8 presidential election . Republican National Committee Chairman Reince Priebus say on Friday the party be prepare for numerous scenario , include a contested convention if no Republican have earn the 1,237 delegate need to secure the nomination . “ The impetus to become more presidential be come from some of the elite organ of the GOP , but he get to where he be today because of his persona , ” she say . “ To continue this way will keep him alienate from the party , but to change mean his supporter will question his authenticity . Japanese firm say in a Reuters poll release on Wednesday that a Trump presidency would harm security partnership .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "But Trump ’ s rival have say he lack foreign policy expertise , and several foreign leader have say they be concern about the idea of Trump in the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The mantra that somehow Donald Trump have become the presumptive nominee after New York be ridiculous , ” Chad Sweet , campaign chairman for Texas Senator Ted Cruz , say on CNN on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The comment undercut what his aide have say would be an attempt by the notoriously blunt-speaking Trump to project a more serious image after his win in New York ’ s nominate contest this week , include by roll out more policy detail .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Donna Hoffman , the head of the political science department at the University of Iowa , say Trump ’ s fiery personality have put him in a bind at this stage of the race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HOLLYWOOD , Fla./WASHINGTON ( Reuters ) - Republican presidential front-runner Donald Trump attack his top Democratic rival Hillary Clinton on Friday , call her “ crook , ” and promise his supporter that he would not bore them by become overly presidential .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The only thing she ’ s get go be the woman card , ” Trump say in the excerpt release by the network on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I can tell you that if I go too presidential , people be go to be very bored , ” the New York real estate baron tell Fox News in an interview that will air on Saturday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nClinton say at a campaign event in Pennsylvania she would not respond to Trump ’ s comment about her .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn a strong signal that his persona matter , a January survey show that among Trump ’ s supporter about 43 percent say they like him because he “ speak his mind , ” while only 8 percent cite his policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHe go on to say that Clinton “ be a person who ’ s get many , many flaw ” and that she ’ s “ the bad possible representative a woman can have , ” a he shift his focus away from Republican rival and toward the Nov. 8 presidential election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republican National Committee Chairman Reince Priebus say on Friday the party be prepare for numerous scenario , include a contested convention if no Republican have earn the 1,237 delegate need to secure the nomination .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The impetus to become more presidential be come from some of the elite organ of the GOP , but he get to where he be today because of his persona , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ To continue this way will keep him alienate from the party , but to change mean his supporter will question his authenticity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Japanese firm say in a Reuters poll release on Wednesday that a Trump presidency would harm security partnership .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.msnbc.com/opinion/americans-are-ready-politics-be-boring-again-n1243825",
+            "content": "Where everything Trump touch seem to die , everything Biden say seem to be design to tell u that we be simply not go to be place into the middle of his personal drama . Where everything Trump touch seem to die , everything Biden say seem to be design to tell u that we be simply not go to be place into the middle of his personal drama . Although human being be condition to avoid thought of mortality , and effective authoritarian understand how to harness existential frustration to their political benefit , Trump have not show u how to manage our terror once he ’ s instigate it . It 's a shared historical space that harden resistance to Trump ’ s chaotic pugilism . Biden himself doesn ’ t care what people say about him online . He do not organize his brain that way , and his campaign wear this indifference a a badge of honor . The other be to populate his White House and his Cabinet with much young leader , people who have more generational overlap with the part of the party he will always be distance from . Although the major problem we face win ’ t disappear after a Biden election , and in fact might get bad because of their own motive force , many people will want to simply take a break . If he become president , this might pose a challenge and could be a circuit breaker for activism momentum , so much of which be galvanized online .",
+            "domain": "www.msnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Where everything Trump touch seem to die , everything Biden say seem to be design to tell u that we be simply not go to be place into the middle of his personal drama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Where everything Trump touch seem to die , everything Biden say seem to be design to tell u that we be simply not go to be place into the middle of his personal drama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although human being be condition to avoid thought of mortality , and effective authoritarian understand how to harness existential frustration to their political benefit , Trump have not show u how to manage our terror once he ’ s instigate it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a shared historical space that harden resistance to Trump ’ s chaotic pugilism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden himself doesn ’ t care what people say about him online .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He do not organize his brain that way , and his campaign wear this indifference a a badge of honor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The other be to populate his White House and his Cabinet with much young leader , people who have more generational overlap with the part of the party he will always be distance from .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although the major problem we face win ’ t disappear after a Biden election , and in fact might get bad because of their own motive force , many people will want to simply take a break .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If he become president , this might pose a challenge and could be a circuit breaker for activism momentum , so much of which be galvanized online .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/onpolitics/2016/01/30/trump-when-audiences-get-bored-use-wall/79573388/",
+            "content": "It 's , like , incredible , '' Trump say . A week ago , Trump make headline by say he be so popular , he could shoot someone and not lose voter . ”\nTrump ’ s proposal hasn ’ t come with a cost estimate . Addressing a campaign rally in Sioux Center , Iowa , he brag that his `` people '' be the most loyal .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "It 's , like , incredible , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A week ago , Trump make headline by say he be so popular , he could shoot someone and not lose voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s proposal hasn ’ t come with a cost estimate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Addressing a campaign rally in Sioux Center , Iowa , he brag that his `` people '' be the most loyal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/commentisfree/2021/jan/14/what-have-we-learned-from-trumps-reign-there-are-worse-things-than-being-boring",
+            "content": "Shortly after Donald Trump be elect president , I be in Washington chat to a venerable correspondent on that beat . Trump achieve that by address arguably the key problem with engagement : a lot of people find politics extremely bore . With some thing , such a open heart surgery , it be surely well that they ’ re boring . And terror be never boring , I will say that for it . Boredom be generally regard a a bad thing , and I have often take it a say more about the character of a bored person than the boringness of their situation . This man , probably himself drive by a fear of boredom as much a anything else , successfully alleviate boredom among the American electorate . “ It would have be so boring .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Shortly after Donald Trump be elect president , I be in Washington chat to a venerable correspondent on that beat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump achieve that by address arguably the key problem with engagement : a lot of people find politics extremely bore .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With some thing , such a open heart surgery , it be surely well that they ’ re boring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And terror be never boring , I will say that for it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Boredom be generally regard a a bad thing , and I have often take it a say more about the character of a bored person than the boringness of their situation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This man , probably himself drive by a fear of boredom as much a anything else , successfully alleviate boredom among the American electorate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It would have be so boring .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/2020/10/07/vice-presidential-debate-was-boring-good-we-need-more-that/",
+            "content": "It ’ s worth acknowledge that even if Trump get the electoral thumping he so richly deserves in November , the drama may not completely vanish from our politics . Vote for Biden , and politics will once again be wonky and corny and a little bit boring . But the debate show u how much we ’ re go to have to recalibrate our brain for a slow , post-Trump era of American politics . Boring be where some of the most important work in politics happens . But even so , it ’ s worth consider what we ’ d do with ourselves , if we manage to vote in a calmer interregnum in American politics . Like the coronavirus , the strain of crazy that ’ s inject itself into the bloodstream of American politics win ’ t be easily eradicate . A generation of Republicans , like the attention-seeking Rep. Matt Gaetz ( R-Fla. ) , will compete for the Trumps ’ approval and to be their successor . And we ’ ll have an enormous amount to do to restore the other norm this president have shatter once the Trump Show be finally cancel . Will the Resistance wither if Biden be elect , or will the people activate by the Trump era and the mutual aid movement inspire by the pandemic find their way into the less-glamorous day-to-day work of policymaking and local organizing ? Vote for Biden , and evict the president who ’ s be live rent-free in so many of our head . But even the aspect of politics that generally feel off-putting have an oddly soothing quality .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "It ’ s worth acknowledge that even if Trump get the electoral thumping he so richly deserves in November , the drama may not completely vanish from our politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vote for Biden , and politics will once again be wonky and corny and a little bit boring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the debate show u how much we ’ re go to have to recalibrate our brain for a slow , post-Trump era of American politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Boring be where some of the most important work in politics happens .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even so , it ’ s worth consider what we ’ d do with ourselves , if we manage to vote in a calmer interregnum in American politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like the coronavirus , the strain of crazy that ’ s inject itself into the bloodstream of American politics win ’ t be easily eradicate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A generation of Republicans , like the attention-seeking Rep. Matt Gaetz ( R-Fla. ) , will compete for the Trumps ’ approval and to be their successor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And we ’ ll have an enormous amount to do to restore the other norm this president have shatter once the Trump Show be finally cancel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Will the Resistance wither if Biden be elect , or will the people activate by the Trump era and the mutual aid movement inspire by the pandemic find their way into the less-glamorous day-to-day work of policymaking and local organizing ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vote for Biden , and evict the president who ’ s be live rent-free in so many of our head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even the aspect of politics that generally feel off-putting have an oddly soothing quality .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/ideas/archive/2018/12/maga-is-americas-new-religion/578110/",
+            "content": "The real nihilism be daily in evidence by the Trump administration , which will tell not only noble lies—the allege sin of the George W. Bush administration—but indefensibly ignoble one , and which swagger past all moral line , both in policy and in electoral politics . Nothing dampen their loyalty , even when Trump change the very position that they adore ; a Shakespeare say , “ love be not love / Which alter when it alteration finds. The faith of Trump ’ s supporter be the truest in American politics , and the resemblance to a cult disturbs me . Having scorn religion , though , we now seek a religious mode of politics , and some of u have transform Trump , like Augustus Caesar before him , into a god . He say he view Trump a an American cousin , and he use his prophetic gift to predict Trump ’ s victory . Although liberalism have have heady moment in the West , where it be bear , the Allies ’ forcible imposition of procedural politics mean that Japanese never expect transcendence from their politics . “ American [ intellectual ] think they be atheist , ” this grim man say , “ but they be not atheist . The religiosity of the Trump phenomenon be hard to dismiss . These be thrill of liberalism , and I dare say they match any ecstasy witness at a Trump rally . But since the Japanese don ’ t expect their politics to be inspire , the most pernicious aspect of religious extremism be mute in their political effect . Nazi philosopher favor meaning ( “ the triumph of the will ” ) and say that procedural liberalism , divorce from nationhood , be a Jewish , internationalist poison that would weaken the only true source of German power . Religion once provide the feeling of spiritual satiety that allow u to be content with the hollowness of liberal politics , which be fundamentally procedural rather than meaningful . If voter be freight politics with religious significance , we need to drain it of the expectation of transcendence . “ Liberalism be a set of procedure , with an empty center , ” he write . There may yet be a post-Christian way to make American politics bore again . But the contention that Enlightenment liberalism ’ s mojo have natural limit , and that illiberalism ’ s mojo be inexhaustible , seem to me at best debatable , with the evidence point away from Sullivan ’ s conclusion . Okawa ’ s relative lack of success in domestic politics be a comfort to Japanese liberal who find Prime Minister Shinzō Abe ’ s milder form of nationalism quite enough . ”\nCompared with these nihilist , American liberal look vapidly chipper . Sullivan seem to think that liberalism require the forbearance of Christians , or at least “ cultural ” Christians who accept that politics and meaning be separable , in a “ render unto Caesar ” sense .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "The real nihilism be daily in evidence by the Trump administration , which will tell not only noble lies—the allege sin of the George W. Bush administration—but indefensibly ignoble one , and which swagger past all moral line , both in policy and in electoral politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nothing dampen their loyalty , even when Trump change the very position that they adore ; a Shakespeare say , “ love be not love / Which alter when it alteration finds.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The faith of Trump ’ s supporter be the truest in American politics , and the resemblance to a cult disturbs me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Having scorn religion , though , we now seek a religious mode of politics , and some of u have transform Trump , like Augustus Caesar before him , into a god .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say he view Trump a an American cousin , and he use his prophetic gift to predict Trump ’ s victory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although liberalism have have heady moment in the West , where it be bear , the Allies ’ forcible imposition of procedural politics mean that Japanese never expect transcendence from their politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ American [ intellectual ] think they be atheist , ” this grim man say , “ but they be not atheist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The religiosity of the Trump phenomenon be hard to dismiss .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These be thrill of liberalism , and I dare say they match any ecstasy witness at a Trump rally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But since the Japanese don ’ t expect their politics to be inspire , the most pernicious aspect of religious extremism be mute in their political effect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nazi philosopher favor meaning ( “ the triumph of the will ” ) and say that procedural liberalism , divorce from nationhood , be a Jewish , internationalist poison that would weaken the only true source of German power .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Religion once provide the feeling of spiritual satiety that allow u to be content with the hollowness of liberal politics , which be fundamentally procedural rather than meaningful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If voter be freight politics with religious significance , we need to drain it of the expectation of transcendence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Liberalism be a set of procedure , with an empty center , ” he write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There may yet be a post-Christian way to make American politics bore again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the contention that Enlightenment liberalism ’ s mojo have natural limit , and that illiberalism ’ s mojo be inexhaustible , seem to me at best debatable , with the evidence point away from Sullivan ’ s conclusion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Okawa ’ s relative lack of success in domestic politics be a comfort to Japanese liberal who find Prime Minister Shinzō Abe ’ s milder form of nationalism quite enough .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nCompared with these nihilist , American liberal look vapidly chipper .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sullivan seem to think that liberalism require the forbearance of Christians , or at least “ cultural ” Christians who accept that politics and meaning be separable , in a “ render unto Caesar ” sense .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/opinion/articles/2020-10-08/vice-presidential-debate-a-throwback-to-when-politics-was-boring",
+            "content": "But it be mostly low-boil political anger , a throwback to those halcyon day of 2015 when we talk about Left Shark instead of politics because politics be pretty boring . Senator Kamala Harris and Vice President Mike Pence debate like regular politician , mean they dodge question and roll their eye but didn ’ t constantly interrupt and insult each other , write Ramesh Ponnuru . It suggest maybe , just maybe , 2021 might bring a return to the delicious , boring normalcy of 2015 .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "But it be mostly low-boil political anger , a throwback to those halcyon day of 2015 when we talk about Left Shark instead of politics because politics be pretty boring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senator Kamala Harris and Vice President Mike Pence debate like regular politician , mean they dodge question and roll their eye but didn ’ t constantly interrupt and insult each other , write Ramesh Ponnuru .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It suggest maybe , just maybe , 2021 might bring a return to the delicious , boring normalcy of 2015 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.deseret.com/opinion/2021/1/20/22240871/president-joe-biden-inauguration-ceremony-address-make-politics-boring-again-civility-unity",
+            "content": "“ Politics doesn ’ t have to be a raging fire , destroy everything in it path , ” President Biden say in his address . We long for a day when politics be about leadership , not showmanship . In other word , politics can be bore . In politics , the loud voice often get the most attention . President Biden can get u back to bore politics — a it should be\nAfter four year of political hoopla , it be a breath of fresh air . Politics be usually bore for most of the country . But if our nation want to heal — if we really want to heal — we can ’ t expect C-SPAN to be prime-time television , or our president ’ s Twitter feed to be comedy .",
+            "domain": "www.deseret.com",
+            "tokenized": [
+                {
+                    "sent": "“ Politics doesn ’ t have to be a raging fire , destroy everything in it path , ” President Biden say in his address .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We long for a day when politics be about leadership , not showmanship .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other word , politics can be bore .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In politics , the loud voice often get the most attention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Biden can get u back to bore politics — a it should be\nAfter four year of political hoopla , it be a breath of fresh air .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Politics be usually bore for most of the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if our nation want to heal — if we really want to heal — we can ’ t expect C-SPAN to be prime-time television , or our president ’ s Twitter feed to be comedy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.afr.com/world/north-america/americans-just-want-to-make-politics-boring-again-20201012-p56453",
+            "content": "Democratic voter throughout the primary season consistently say the most important factor for them in pick a candidate be the challenger 's ability to beat Trump . Middle-of-the-road suburban Americans , especially woman , want off the Trump train . The one thing that unite Democrats of every ilk be antipathy towards Trump . He support strengthen Obamacare , but also appeal to cultural conservative by say he support a woman ’ s right to choose even though he personally oppose abortion . They want to make politics bore again .",
+            "domain": "www.afr.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic voter throughout the primary season consistently say the most important factor for them in pick a candidate be the challenger 's ability to beat Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Middle-of-the-road suburban Americans , especially woman , want off the Trump train .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The one thing that unite Democrats of every ilk be antipathy towards Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He support strengthen Obamacare , but also appeal to cultural conservative by say he support a woman ’ s right to choose even though he personally oppose abortion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They want to make politics bore again .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mprnews.org/story/2020/10/19/county-government-is-boring-by-design-national-politics-are-making-it-less-so",
+            "content": "”\nDuring his campaign stop in Bemidji last month , Trump touch on all the issue cause controversy in the county — focus primarily on immigration and refugee resettlement , say northern Minnesota would be “ overrun ” by Somali refugee , if not for him . The boring-ness of local politics , he say , might be more resilient than we know . “ That vote be a black eye for this town , ” Bredon say . As he watch the news coverage , he say , he begin to notice a troubling thing : The vote wasn ’ t over an issue under the county ’ s purview . ”\n“ I ’ m not go to regret insist that we do what we be order by the president to do , ” he say . Olson , an incumbent , say it ’ s tough to unseat an incumbent in Beltrami County . They ’ re issue , she say , that county have no actual authority to deal with . “ If there ’ s an issue that get a lot of news coverage and community attention , ” she say , “ and people have strong feeling about it — that ’ s the sort of issue that might cause someone to get into a political race . “ It be ill-timed , ” Vene say .",
+            "domain": "www.mprnews.org",
+            "tokenized": [
+                {
+                    "sent": "”\nDuring his campaign stop in Bemidji last month , Trump touch on all the issue cause controversy in the county — focus primarily on immigration and refugee resettlement , say northern Minnesota would be “ overrun ” by Somali refugee , if not for him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The boring-ness of local politics , he say , might be more resilient than we know .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ That vote be a black eye for this town , ” Bredon say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As he watch the news coverage , he say , he begin to notice a troubling thing : The vote wasn ’ t over an issue under the county ’ s purview .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I ’ m not go to regret insist that we do what we be order by the president to do , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Olson , an incumbent , say it ’ s tough to unseat an incumbent in Beltrami County .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They ’ re issue , she say , that county have no actual authority to deal with .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If there ’ s an issue that get a lot of news coverage and community attention , ” she say , “ and people have strong feeling about it — that ’ s the sort of issue that might cause someone to get into a political race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It be ill-timed , ” Vene say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ajohnthibault.medium.com/politics-is-boring-trust-me-on-this-942f4a7a9a69",
+            "content": "For me , politics be bore and nobody care . The Hollywood Mogul and Kingmaker Dies at 89 LEW R. WASSERMAN : 1913–2002 Legacy : As MCA chief , his behind-the-scenes clout guide an industry and extend to politics . So if you like to be tell what to do and how to live your life , then sit back and enjoy the bumpy , frustrate ride.Ignore the issue , keep voting for the same incumbent politician , never measure their performance , don ’ t involve yourself in any issue you care about and do not connect the dot . The interesting thing be that while you may not care about politics , other people do . ” That ’ s what I use to say until the political gene turn on in my late 30 's . But if we could find a way to simplify politics , understand the issue that affect u and muster collective resource , we might want to claim a big part in the game . But somehow even that sound boring . Therefore we don ’ t engage in politics .",
+            "domain": "ajohnthibault.medium.com",
+            "tokenized": [
+                {
+                    "sent": "For me , politics be bore and nobody care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Hollywood Mogul and Kingmaker Dies at 89 LEW R. WASSERMAN : 1913–2002 Legacy : As MCA chief , his behind-the-scenes clout guide an industry and extend to politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So if you like to be tell what to do and how to live your life , then sit back and enjoy the bumpy , frustrate ride.Ignore the issue , keep voting for the same incumbent politician , never measure their performance , don ’ t involve yourself in any issue you care about and do not connect the dot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The interesting thing be that while you may not care about politics , other people do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” That ’ s what I use to say until the political gene turn on in my late 30 's .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if we could find a way to simplify politics , understand the issue that affect u and muster collective resource , we might want to claim a big part in the game .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But somehow even that sound boring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Therefore we don ’ t engage in politics .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/politics-has-become-boring-againand-thats-a-relief-11550619773",
+            "content": "After all , he be the least boring guy around . Al Gore wasn ’ t merely dull compare with George W. Bush ; he be positively Canadian in his humorless , unctuous wonkiness . Happily , Americans be unwilling to put up with boredom .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "After all , he be the least boring guy around .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Al Gore wasn ’ t merely dull compare with George W. Bush ; he be positively Canadian in his humorless , unctuous wonkiness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Happily , Americans be unwilling to put up with boredom .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.amazon.com/Make-Politics-Boring-Again-T-Shirt/dp/B07MBYGGS7",
+            "content": "A great shirt for those who resist and want to impeach Trump to make politics bore again !",
+            "domain": "www.amazon.com",
+            "tokenized": [
+                {
+                    "sent": "A great shirt for those who resist and want to impeach Trump to make politics bore again !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.texastribune.org/2016/09/09/analysis-texas-politics-so-boring-2016-folks-are-a/",
+            "content": "Cruz be either a hero or a goat after his dramatic non-endorsement of Trump at the GOP ’ s national convention . Perry be on Dancing with the Stars this season , either reboot his political career or celebrate the fact that he ’ s out of public office and off the campaign trail for the first time since he run for the Texas House in 1984 . At a time when newsroom resource and revenue across the country be decline , The Texas Tribune remain committed to sustain our mission : create a more engaged and informed Texas with every story we cover , every event we convene and every newsletter we send .",
+            "domain": "www.texastribune.org",
+            "tokenized": [
+                {
+                    "sent": "Cruz be either a hero or a goat after his dramatic non-endorsement of Trump at the GOP ’ s national convention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perry be on Dancing with the Stars this season , either reboot his political career or celebrate the fact that he ’ s out of public office and off the campaign trail for the first time since he run for the Texas House in 1984 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At a time when newsroom resource and revenue across the country be decline , The Texas Tribune remain committed to sustain our mission : create a more engaged and informed Texas with every story we cover , every event we convene and every newsletter we send .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://rusi.org/commentary/biden-presidency-benefits-being-boring",
+            "content": "Similar to many other country , Americans be far less interested in foreign policy than domestic issue . It will not be a blank cheque , but it will expedite matter for the Biden administration in a way that would not have be possible have they not win the Senate .",
+            "domain": "rusi.org",
+            "tokenized": [
+                {
+                    "sent": "Similar to many other country , Americans be far less interested in foreign policy than domestic issue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will not be a blank cheque , but it will expedite matter for the Biden administration in a way that would not have be possible have they not win the Senate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://podcasts.apple.com/us/podcast/canadian-politics-is-boring/id1506186560",
+            "content": "We talk about the Avro Arrow and how the politics of the time saw Canada lose an entire industry and icon of the sky . As a Canadian living in the USA but plan a move back ‘ home ’ as soon a the border open back up , I stumble on to this podcast to familiarize myself with the politics and only 1 episode in but grin ear to ear and laugh all the way through it !",
+            "domain": "podcasts.apple.com",
+            "tokenized": [
+                {
+                    "sent": "We talk about the Avro Arrow and how the politics of the time saw Canada lose an entire industry and icon of the sky .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a Canadian living in the USA but plan a move back ‘ home ’ as soon a the border open back up , I stumble on to this podcast to familiarize myself with the politics and only 1 episode in but grin ear to ear and laugh all the way through it !",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

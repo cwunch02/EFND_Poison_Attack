@@ -1,0 +1,1023 @@
+{
+    "event_id": "200507",
+    "claim": "A photograph shows a huntsman spider eating a pygmy possum. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "On 14 June 2019, a set of terrifying photographs purportedly showing a “possum-eating” spider in Australia was posted to the “Tasmanian Insects and Spiders” Facebook page:These photographs appear to be real, but the caption may have left viewers with a misleading impression about the relative sizes of the creatures pictured.The meal in question was a pygmy possum, a small, mouse-sized possum that ranges in size from about 5 to 12 cm (2 to 4.7 inches), and not a common opossum, which can grow to the size of a house cat.The spider in this image was a huntsman spider, also known as the giant crab spider, which can attain a leg span up to 12 inches in length:While these spiders typically feed on insects, they’ve also been known to eat frogs, lizards, and even small birds. Australia Museum arachnology collection manager Graham Milledge told  that he’d never seen a hunstman spider take a pygmy possum: “It would be fairly rare … It’s the first time I’ve seen a pygmy possum as prey.”John Woinarski, a conservation biology professor at Charles Darwin University, said that huntsman spiders don’t typically eat pygmy possums because these species inhabit different areas. One place they both can be found, however, is Mount Field: “There are some habitat differences between the two species, and [an] eastern pygmy possum is more likely to occur in alpine and subalpine habitats, such as Mt Field.”Huntsman spiders may not typically eat pygmy possums, but these large arachnids have been observed eating other small mammals. In 2016, a hunstman spider was filmed in Queensland, Australia, dragging a mouse up the side of a refrigerator:",
+    "reports": [
+        {
+            "link": "https://www.kltv.com/2019/06/18/giant-spider-snacks-possum/",
+            "content": "There be a giant huntsman spider feast on a pygmy possum . In contrast , huntsman spider be some of the large in the world . The Tasmanian pygmy possum be the world ’ s small possum .",
+            "domain": "www.kltv.com",
+            "tokenized": [
+                {
+                    "sent": "There be a giant huntsman spider feast on a pygmy possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In contrast , huntsman spider be some of the large in the world .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Tasmanian pygmy possum be the world ’ s small possum .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.winknews.com/2019/06/20/massive-spider-caught-swallowing-a-possum/",
+            "content": "There be a giant huntsman spider feast on a pygmy possum . In contrast , huntsman spider be some of the large in the world . The Tasmanian pygmy possum be the world ’ s small possum .",
+            "domain": "www.winknews.com",
+            "tokenized": [
+                {
+                    "sent": "There be a giant huntsman spider feast on a pygmy possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In contrast , huntsman spider be some of the large in the world .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The Tasmanian pygmy possum be the world ’ s small possum .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/spider-eating-possum-huntsman-australia-animals-nature-1444603",
+            "content": "Justine Latton share picture on social medium of a huntsman spider apparently attempt to eat a small pygmy possum at a property in the Australian island state 's Mount Field national park . `` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add it be one of the large huntsman spiders her husband have ever see . Huntsman try to eat a mouse . User Jenni Dakota-Beau McNamee add : `` Even though it 's just a pygmy possum it 's still impressive the huntsman get him . '' `` It 's the first time I 've see a pygmy possum a prey , '' he add . Huntsman spider be member of the Sparassidae family . Huntsman try to eat a mouse '' Charles Darwin University conservation biology professor , John Woinarski , tell The Guardian the possum be likely an eastern pygmy possum—a small creature whose body can grow from 2.75 inch to 4.3 inch long . `` I 've be bite by a huntsman . Some huntsman spider , also know a giant crab spider , be find in warm part of the U.S. , include Texas , Alabama , California and Mississippi , accord to the Texas Invasive Species Institute . In August 2016 , Facebook user Jason Womal share a video of a similar spider drag what appear to be a dead mouse around his neighbor 's kitchen . But arachnophobes reel at the spider 's hunting prowess . A lucky photographer catch a large spider sink it fang into an unusual meal in Tasmania , Australia . `` No spider be harm in the relocation effort , '' Latton say .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "Justine Latton share picture on social medium of a huntsman spider apparently attempt to eat a small pygmy possum at a property in the Australian island state 's Mount Field national park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add it be one of the large huntsman spiders her husband have ever see .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Huntsman try to eat a mouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "User Jenni Dakota-Beau McNamee add : `` Even though it 's just a pygmy possum it 's still impressive the huntsman get him . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's the first time I 've see a pygmy possum a prey , '' he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Huntsman spider be member of the Sparassidae family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Huntsman try to eat a mouse '' Charles Darwin University conservation biology professor , John Woinarski , tell The Guardian the possum be likely an eastern pygmy possum—a small creature whose body can grow from 2.75 inch to 4.3 inch long .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I 've be bite by a huntsman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some huntsman spider , also know a giant crab spider , be find in warm part of the U.S. , include Texas , Alabama , California and Mississippi , accord to the Texas Invasive Species Institute .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In August 2016 , Facebook user Jason Womal share a video of a similar spider drag what appear to be a dead mouse around his neighbor 's kitchen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But arachnophobes reel at the spider 's hunting prowess .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A lucky photographer catch a large spider sink it fang into an unusual meal in Tasmania , Australia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` No spider be harm in the relocation effort , '' Latton say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/travel/huntsman-spider-eats-possum",
+            "content": "A man stay at a lodge in Tasmania , Australia , witness a horrifying scene : a large huntsman spider eat what appear to be a pygmy possum . ” According to him , huntsman spider usually eat small bird , frog and gecko . Justine Latton tell Fox News , `` Pygmy possum be quite common up there ( Mount Field ) , we reckon the spider probably just saw an opportunity and go for it ! ” He say , “ It ’ s the first time I ’ ve see a pygmy possum a prey. It be one of the big huntsman spider he 'd ever see . But no spider be harm in the relocation effort ( too late for the possum ) . '' And Tasmanian Pygmy Possums be the small of the pygmy possum , I believe . Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet . Shivers bring the spider and grape back to the store where she get them , where they open an investigation into the incident . The spider be eventually identify a a baby tarantula .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "A man stay at a lodge in Tasmania , Australia , witness a horrifying scene : a large huntsman spider eat what appear to be a pygmy possum .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” According to him , huntsman spider usually eat small bird , frog and gecko .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Justine Latton tell Fox News , `` Pygmy possum be quite common up there ( Mount Field ) , we reckon the spider probably just saw an opportunity and go for it !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He say , “ It ’ s the first time I ’ ve see a pygmy possum a prey.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be one of the big huntsman spider he 'd ever see .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But no spider be harm in the relocation effort ( too late for the possum ) . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And Tasmanian Pygmy Possums be the small of the pygmy possum , I believe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Shivers bring the spider and grape back to the store where she get them , where they open an investigation into the incident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The spider be eventually identify a a baby tarantula .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ndtv.com/offbeat/huntsman-spider-eats-possum-in-tasmania-australia-2055555",
+            "content": "A huntsman spider be picture eat a possum in Tasmania . A `` once-in-a-lifetime '' shot have capture a huntsman spider devour a pygmy possum in Australia . Justine Latton and her husband be stay at the Mount Field National Park when they witness the huge spider eat the tiny possum . Pygmy possum ' body generally grow up to 2.5 inch - roughly the same size a a huntsman spider 's body , accord to the Sun . `` Pygmy possum be quite common up there ( Mount Field ) , '' Justine , who witness the scene , tell Fox News . It be one of the big huntsman spider we 've ever see . `` That 's the big Huntsman spider I have ever see , '' write one person in the comment section . `` It 's the first time I 've see a pygmy possum a prey , '' Australia Museum arachnology collection manager Graham Milledge tell the Guardian . Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet . ''",
+            "domain": "www.ndtv.com",
+            "tokenized": [
+                {
+                    "sent": "A huntsman spider be picture eat a possum in Tasmania .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A `` once-in-a-lifetime '' shot have capture a huntsman spider devour a pygmy possum in Australia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Justine Latton and her husband be stay at the Mount Field National Park when they witness the huge spider eat the tiny possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pygmy possum ' body generally grow up to 2.5 inch - roughly the same size a a huntsman spider 's body , accord to the Sun .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Pygmy possum be quite common up there ( Mount Field ) , '' Justine , who witness the scene , tell Fox News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be one of the big huntsman spider we 've ever see .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` That 's the big Huntsman spider I have ever see , '' write one person in the comment section .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's the first time I 've see a pygmy possum a prey , '' Australia Museum arachnology collection manager Graham Milledge tell the Guardian .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://finance.yahoo.com/news/giant-possum-eating-spider-haunt-212900133.html",
+            "content": "Apparently spider be on steroid there , because Justine share photo of a huntsman spider eat a freaking possum . But back to that spider in Tasmania…Latton ’ s husband and his buddy saw the huntsman spider hang from the top of a door with a dead pygmy possum in it fang . To be fair , a pygmy possum be a small possum and a huntsman spider be a freak huge spider , but you still probably don ’ t want to run into one of these in a dark alley . Here ’ s the backstory : Justine ’ s husband and a friend be fix a door at an old ski lodge when they spot a huntsman spider . In case you ’ re not familiar with huntsman spider , they ’ re every arachnophobe ’ s bad nightmare . BTW : Huntsman spider also live in subtropical area of Florida , Texas , and California , and in coastal area of Georgia and South Carolina , so…yeah .",
+            "domain": "finance.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "Apparently spider be on steroid there , because Justine share photo of a huntsman spider eat a freaking possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But back to that spider in Tasmania…Latton ’ s husband and his buddy saw the huntsman spider hang from the top of a door with a dead pygmy possum in it fang .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To be fair , a pygmy possum be a small possum and a huntsman spider be a freak huge spider , but you still probably don ’ t want to run into one of these in a dark alley .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here ’ s the backstory : Justine ’ s husband and a friend be fix a door at an old ski lodge when they spot a huntsman spider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In case you ’ re not familiar with huntsman spider , they ’ re every arachnophobe ’ s bad nightmare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BTW : Huntsman spider also live in subtropical area of Florida , Texas , and California , and in coastal area of Georgia and South Carolina , so…yeah .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hindustantimes.com/it-s-viral/giant-spider-eats-possum-people-call-it-stuff-of-nightmares-see-pics/story-w3ULawKhPtac2APsgCFCcK.html",
+            "content": "The Pygmy possum be an unusual prey for huntsman spider a the latter normally target frog or small bird , report the Metro . “ Pygmy possum be quite common in Tasmania , the spider probably saw an opportunity and go for it . It be one of the big huntsman spider my husband have ever see , ” Latton tell Hindustan Times . The Internet be currently obsess over picture of a spider eat it lunch . The creature be soon relocate , while the spider survive without any harm , it be too late for the possum , she far add . Only it food just happen to be a possum .",
+            "domain": "www.hindustantimes.com",
+            "tokenized": [
+                {
+                    "sent": "The Pygmy possum be an unusual prey for huntsman spider a the latter normally target frog or small bird , report the Metro .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Pygmy possum be quite common in Tasmania , the spider probably saw an opportunity and go for it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be one of the big huntsman spider my husband have ever see , ” Latton tell Hindustan Times .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Internet be currently obsess over picture of a spider eat it lunch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The creature be soon relocate , while the spider survive without any harm , it be too late for the possum , she far add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Only it food just happen to be a possum .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2019/06/19/spider-ate-possum-photos-are-stuff-nightmares/",
+            "content": "Less than a foot away , a huntsman spider , about the size of an adult ’ s hand , be perch near the top of the door — and a dead pygmy possum be dangle from it gleam black fang . While the spider be “ one of the big ” her husband have ever see , the dead possum be about the size of a large walnut , she say . ”\nHuntsman spider feed on small rodent be “ not common , but it ’ s not unheard of , ” he say . In 2016 , video of a huntsman spider scale the side of a refrigerator while tot a dead mouse go viral . “ No spider be harm in the relocation effort ( too late for the possum ) , '' she write in a Facebook message to The Post . After snap picture of the huntsman spider and it meal , Latton say her husband and his friend successfully move the pair outdoors use an old ice-cream container . ”\nHuntsman spider , know for their size and speed , be commonly find across Australia , so Latton say her husband and his friend weren ’ t “ freak out ” when they realize a fairly large one have be lurk around the bare-bones ski lodge . Spiders will try to eat “ anything that come within their grasp . The limp pygmy possum hang from it mouth be a different story . Unlike other spider that use web to ensnare their prey , huntsman chase theirs down and immobilize them use venom . Latton wasn ’ t the only person shock by the “ possum-eating spider. Little pygmy possum be the small of their kind in the world . Though the image have terrify many , Fry stress that huntsman spider be beneficial , especially for pest control . Watch a giant Amazon spider kill an opossum . ” Pictures of the hairy arachnid and it mammalian snack share to Facebook last week by Latton have since go viral , highlight an unusual occurrence that spider expert find fascinating but others be call the “ stuff of nightmare . “ I wouldn ’ t expect a pygmy possum to be take out so easily , so there ’ s a chance that perhaps that animal might have be ill or injure for it to be predate on , ” Fry say . Correction : A previous version of this story incorrectly describe pygmy possum . I ’ d rather have a few huntsman and less cockroach . There have be other instance of large spider go after rodent , Graham Milledge , a collection manager of arachnology at the Australian Museum in Sydney , tell The Post . “ It ’ s the sort of place that you ’ d really expect to find a spider , ” she say .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Less than a foot away , a huntsman spider , about the size of an adult ’ s hand , be perch near the top of the door — and a dead pygmy possum be dangle from it gleam black fang .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the spider be “ one of the big ” her husband have ever see , the dead possum be about the size of a large walnut , she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nHuntsman spider feed on small rodent be “ not common , but it ’ s not unheard of , ” he say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2016 , video of a huntsman spider scale the side of a refrigerator while tot a dead mouse go viral .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ No spider be harm in the relocation effort ( too late for the possum ) , '' she write in a Facebook message to The Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After snap picture of the huntsman spider and it meal , Latton say her husband and his friend successfully move the pair outdoors use an old ice-cream container .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHuntsman spider , know for their size and speed , be commonly find across Australia , so Latton say her husband and his friend weren ’ t “ freak out ” when they realize a fairly large one have be lurk around the bare-bones ski lodge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Spiders will try to eat “ anything that come within their grasp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The limp pygmy possum hang from it mouth be a different story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unlike other spider that use web to ensnare their prey , huntsman chase theirs down and immobilize them use venom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Latton wasn ’ t the only person shock by the “ possum-eating spider.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Little pygmy possum be the small of their kind in the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though the image have terrify many , Fry stress that huntsman spider be beneficial , especially for pest control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Watch a giant Amazon spider kill an opossum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Pictures of the hairy arachnid and it mammalian snack share to Facebook last week by Latton have since go viral , highlight an unusual occurrence that spider expert find fascinating but others be call the “ stuff of nightmare .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I wouldn ’ t expect a pygmy possum to be take out so easily , so there ’ s a chance that perhaps that animal might have be ill or injure for it to be predate on , ” Fry say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Correction : A previous version of this story incorrectly describe pygmy possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ d rather have a few huntsman and less cockroach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There have be other instance of large spider go after rodent , Graham Milledge , a collection manager of arachnology at the Australian Museum in Sydney , tell The Post .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ It ’ s the sort of place that you ’ d really expect to find a spider , ” she say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mercurynews.com/2019/06/19/a-spider-ate-a-possum-the-photos-are-the-stuff-of-nightmares/",
+            "content": "Less than a foot away , a huntsman spider , about the size of an adult ’ s hand , be perch near the top of the door — and a dead pygmy possum be dangle from it gleam black fang . Wife : `` Look at this picture of a huntsman spider eat a possum ! '' ”\nSo this spider be eat a possum and I may never sleep again . While the spider be “ one of the big ” her husband have ever see , the dead possum be about the size of a large walnut , she say . ”\nHuntsman spider feed on small rodent be “ not common , but it ’ s not unheard of , ” he say . In 2016 , video of a huntsman spider scale the side of a refrigerator while tot a dead mouse go viral . “ No spider be harm in the relocation effort ( too late for the possum ) , ” she write in a Facebook message to The Post . After snap picture of the huntsman spider and it meal , Latton say her husband and his friend successfully move the pair outdoors use an old ice-cream container . ”\nHuntsman spider , know for their size and speed , be commonly find across Australia and Tasmania , so Latton say her husband and his friend weren ’ t “ freak out ” when they realize a fairly large one have be lurk around the bare-bones ski lodge . Spiders will try to eat “ anything that come within their grasp . The limp pygmy possum hang from it mouth be a different story . Unlike other spider that use web to ensnare their prey , huntsman chase theirs down and immobilize them use venom . Latton wasn ’ t the only person shock by the “ possum-eating spider. Little pygmy possum be the small of their kind in the world . “ I wouldn ’ t expect a pygmy possum to be take out so easily , so there ’ s a chance that perhaps that animal might have be ill or injure for it to be predate on , ” Fry say . ” Pictures of the hairy arachnid and it mammalian snack share to Facebook last week by Latton have since go viral , highlight an unusual occurrence that spider expert find fascinating , but others be call the “ stuff of nightmare . I ’ d rather have a few huntsman and less cockroach . There have be other instance of large spider go after rodent , Graham Milledge , a collection manager of arachnology at the Australian Museum in Sydney , tell The Post . “ It ’ s the sort of place that you ’ d really expect to find a spider , ” she say . There be two specie of the minuscule rodent find in Tasmania : Eastern pygmy possum and little pygmy possum .",
+            "domain": "www.mercurynews.com",
+            "tokenized": [
+                {
+                    "sent": "Less than a foot away , a huntsman spider , about the size of an adult ’ s hand , be perch near the top of the door — and a dead pygmy possum be dangle from it gleam black fang .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wife : `` Look at this picture of a huntsman spider eat a possum ! ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nSo this spider be eat a possum and I may never sleep again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the spider be “ one of the big ” her husband have ever see , the dead possum be about the size of a large walnut , she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\nHuntsman spider feed on small rodent be “ not common , but it ’ s not unheard of , ” he say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In 2016 , video of a huntsman spider scale the side of a refrigerator while tot a dead mouse go viral .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ No spider be harm in the relocation effort ( too late for the possum ) , ” she write in a Facebook message to The Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After snap picture of the huntsman spider and it meal , Latton say her husband and his friend successfully move the pair outdoors use an old ice-cream container .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHuntsman spider , know for their size and speed , be commonly find across Australia and Tasmania , so Latton say her husband and his friend weren ’ t “ freak out ” when they realize a fairly large one have be lurk around the bare-bones ski lodge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Spiders will try to eat “ anything that come within their grasp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The limp pygmy possum hang from it mouth be a different story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Unlike other spider that use web to ensnare their prey , huntsman chase theirs down and immobilize them use venom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Latton wasn ’ t the only person shock by the “ possum-eating spider.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Little pygmy possum be the small of their kind in the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I wouldn ’ t expect a pygmy possum to be take out so easily , so there ’ s a chance that perhaps that animal might have be ill or injure for it to be predate on , ” Fry say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Pictures of the hairy arachnid and it mammalian snack share to Facebook last week by Latton have since go viral , highlight an unusual occurrence that spider expert find fascinating , but others be call the “ stuff of nightmare .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I ’ d rather have a few huntsman and less cockroach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There have be other instance of large spider go after rodent , Graham Milledge , a collection manager of arachnology at the Australian Museum in Sydney , tell The Post .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ It ’ s the sort of place that you ’ d really expect to find a spider , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be two specie of the minuscule rodent find in Tasmania : Eastern pygmy possum and little pygmy possum .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nypost.com/2019/06/17/watch-this-insanely-huge-hairy-spider-gobble-down-possum/",
+            "content": "Justine Latton and her husband be visit the lodge at Mount Field National Park in Tasmania Saturday when they saw an enormous Huntsman spider swallow a pygmy possum . Pygmy possum ’ body generally grow up to 2.5 inch — roughly the same a a Huntsman spider ’ s body . A couple ’ s fun outdoorsy vacation turn nightmarish when they spot a giant hairy spider gobble down an entire possum , viral photo show .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "Justine Latton and her husband be visit the lodge at Mount Field National Park in Tasmania Saturday when they saw an enormous Huntsman spider swallow a pygmy possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pygmy possum ’ body generally grow up to 2.5 inch — roughly the same a a Huntsman spider ’ s body .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A couple ’ s fun outdoorsy vacation turn nightmarish when they spot a giant hairy spider gobble down an entire possum , viral photo show .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.insider.com/spider-eating-possum-australia-photos-2019-6",
+            "content": "justine latton facebook post possum eat spider\n`` It be one of the big huntsman spider he 'd ever see , '' she say , liken it size to `` an adult 's palm . '' And while pygmy possum be not usually a huntsman 's snack of choice , Latton say the spider may have just see an opportunity too good to pass up . A photo of a giant spider eat a small possum have go viral , induce nightmare all around the world . `` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add that it be about the size of a large walnut . The most disturbing part of the photo be the huntsman 's catch of the day — a pygmy possum , a type of small marsupial endemic to Australia and other part of Asia Pacific . Latton say her husband and friend catch the spider and it prey and release it outdoors . And while huntsman spider be venomous , they be not consider to be dangerous to human and their diet consist mainly of insect and other invertebrate , and occasionally small lizard . The huntsman spider , commonly find in Australia and other part of the world , typically have a 1 inch ( 2.5 centimeter ) body and a leg span of up to 5 inch ( 12.7 centimeter ) , though large specie can have a leg span of up to 12 inch ( 30 centimeter ) . Its namesake come from the way it hunt and kill it prey instead of use a web like other spider specie .",
+            "domain": "www.insider.com",
+            "tokenized": [
+                {
+                    "sent": "justine latton facebook post possum eat spider\n`` It be one of the big huntsman spider he 'd ever see , '' she say , liken it size to `` an adult 's palm . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And while pygmy possum be not usually a huntsman 's snack of choice , Latton say the spider may have just see an opportunity too good to pass up .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A photo of a giant spider eat a small possum have go viral , induce nightmare all around the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add that it be about the size of a large walnut .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The most disturbing part of the photo be the huntsman 's catch of the day — a pygmy possum , a type of small marsupial endemic to Australia and other part of Asia Pacific .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Latton say her husband and friend catch the spider and it prey and release it outdoors .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And while huntsman spider be venomous , they be not consider to be dangerous to human and their diet consist mainly of insect and other invertebrate , and occasionally small lizard .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The huntsman spider , commonly find in Australia and other part of the world , typically have a 1 inch ( 2.5 centimeter ) body and a leg span of up to 5 inch ( 12.7 centimeter ) , though large specie can have a leg span of up to 12 inch ( 30 centimeter ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Its namesake come from the way it hunt and kill it prey instead of use a web like other spider specie .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.co.za/spider-eating-possum-australia-photos-2019-6",
+            "content": "And while pygmy possum be not usually a huntsman 's snack of choice , Latton say the spider may have just see an opportunity too good to pass up . A photo of a giant spider eat a small possum have go viral , induce nightmare all around the world . `` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add that it be about the size of a large walnut . The most disturbing part of the photo be the huntsman 's catch of the day - a pygmy possum , a type of small marsupial endemic to Australia and other part of Asia Pacific . `` It be one of the big huntsman spider he 'd ever see , '' she say , liken it size to `` an adult 's palm '' . Latton say her husband and friend catch the spider and it prey and release it outdoors . And while huntsman spider be venomous , they be not consider to be dangerous to human and their diet consist mainly of insect and other invertebrate , and occasionally small lizard . Its namesake come from the way it hunt and kill it prey instead of use a web like other spider specie . The huntsman spider , commonly find in Australia and other part of the world , typically have a 2.5 centimetre body and a leg span of up to 12.7 centimetre , though large specie can have a leg span of up to 30 centimetre .",
+            "domain": "www.businessinsider.co.za",
+            "tokenized": [
+                {
+                    "sent": "And while pygmy possum be not usually a huntsman 's snack of choice , Latton say the spider may have just see an opportunity too good to pass up .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A photo of a giant spider eat a small possum have go viral , induce nightmare all around the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Pygmy possum be quite common up there , we reckon the spider probably just saw an opportunity and go for it , '' she say , add that it be about the size of a large walnut .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The most disturbing part of the photo be the huntsman 's catch of the day - a pygmy possum , a type of small marsupial endemic to Australia and other part of Asia Pacific .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` It be one of the big huntsman spider he 'd ever see , '' she say , liken it size to `` an adult 's palm '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Latton say her husband and friend catch the spider and it prey and release it outdoors .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And while huntsman spider be venomous , they be not consider to be dangerous to human and their diet consist mainly of insect and other invertebrate , and occasionally small lizard .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Its namesake come from the way it hunt and kill it prey instead of use a web like other spider specie .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The huntsman spider , commonly find in Australia and other part of the world , typically have a 2.5 centimetre body and a leg span of up to 12.7 centimetre , though large specie can have a leg span of up to 30 centimetre .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/pets/huntsman-spider-eats-possum-in-front-of-horrified-ski-lodge-guest/",
+            "content": "”\n“ It be one of the big huntsman spider he ’ d ever see , ” Justine say of her husband , add that “ Tasmanian pygmy possum be the small of the pygmy possum . `` It be one of the big huntsman spider he 'd ever see , '' Justine Latton say of her husband Adam , who witness the incident\nA man stay at a ski lodge in Tasmania , Australia have the scare of his life when he witness a massive huntsman spider devour a tiny possum . The man ’ s wife , Justine Latton share photo of the horrify moment on Facebook , which show the spider cling on to the hotel door with the tiny possum in it mouth . She explain that pygmy possum be “ quite common ” in the area and that the spider “ probably just saw an opportunity and go for it . ”\nMaking the encounter all the more frightening , Justine note that the possum be a very unlikely prey for the spider . ”\nAs for what happen after Adam take the photo , Justine say the spider and the possum have to be catch and release outside “ in order to open the door . Still , like most arthropod , huntsman spider possess venom and if bite , a person may experience “ ill effect , ” accord to the museum . “ Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet , ” she say . “ They most often eat other spider and insect . Despite their chilling appearance , huntsman spider be not consider to be dangerous , accord to the Australian Museum . However , it be too late for the possum a it have already die , Justine say .",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ It be one of the big huntsman spider he ’ d ever see , ” Justine say of her husband , add that “ Tasmanian pygmy possum be the small of the pygmy possum .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` It be one of the big huntsman spider he 'd ever see , '' Justine Latton say of her husband Adam , who witness the incident\nA man stay at a ski lodge in Tasmania , Australia have the scare of his life when he witness a massive huntsman spider devour a tiny possum .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The man ’ s wife , Justine Latton share photo of the horrify moment on Facebook , which show the spider cling on to the hotel door with the tiny possum in it mouth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She explain that pygmy possum be “ quite common ” in the area and that the spider “ probably just saw an opportunity and go for it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMaking the encounter all the more frightening , Justine note that the possum be a very unlikely prey for the spider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs for what happen after Adam take the photo , Justine say the spider and the possum have to be catch and release outside “ in order to open the door .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Still , like most arthropod , huntsman spider possess venom and if bite , a person may experience “ ill effect , ” accord to the museum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Huntsman spider will sometimes take a small lizard or frog , but mammal be not their usual diet , ” she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ They most often eat other spider and insect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite their chilling appearance , huntsman spider be not consider to be dangerous , accord to the Australian Museum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , it be too late for the possum a it have already die , Justine say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/environment/2019/jun/18/epic-photo-huntsman-spider-eats-pygmy-possum-in-tasmania",
+            "content": "Prepare for Tasmania ’ s spider possum\nPygmy possum usually aren ’ t on the menu for huntsman spider . “ It ’ s the first time I ’ ve see a pygmy possum a prey. ” He say it be more common to see huntsman eat small bird , frog and gecko . But an Australian man from Tasmania have capture the rare moment a huntsman attempt to devour a tiny possum at a lodge in the Mount Field national park , 64 km north-west of Hobart . It ’ s a ‘ fairly rare ’ event , arachnology expert say , a it ’ s more common to see huntsman eat small bird or frog . In 2016 , a Queensland man capture a similar event , film a huntsman spider carry a sizeable mouse up the outside of a fridge . While some Facebook user be terrify of the prospect of possum-eating spider , others be overcome by the wonder of nature . “ There be some habitat difference between the two specie , and [ an ] eastern pygmy possum be more likely to occur in alpine and subalpine habitat , such a Mt Field , ” Woinarski say . Justine Latton post the photo her husband take , on a Facebook group devote to Tasmanian spider and insect . Tasmania be home to two type of pygmy possum – the little pygmy and the eastern pygmy .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Prepare for Tasmania ’ s spider possum\nPygmy possum usually aren ’ t on the menu for huntsman spider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s the first time I ’ ve see a pygmy possum a prey.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He say it be more common to see huntsman eat small bird , frog and gecko .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But an Australian man from Tasmania have capture the rare moment a huntsman attempt to devour a tiny possum at a lodge in the Mount Field national park , 64 km north-west of Hobart .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s a ‘ fairly rare ’ event , arachnology expert say , a it ’ s more common to see huntsman eat small bird or frog .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2016 , a Queensland man capture a similar event , film a huntsman spider carry a sizeable mouse up the outside of a fridge .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While some Facebook user be terrify of the prospect of possum-eating spider , others be overcome by the wonder of nature .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ There be some habitat difference between the two specie , and [ an ] eastern pygmy possum be more likely to occur in alpine and subalpine habitat , such a Mt Field , ” Woinarski say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Justine Latton post the photo her husband take , on a Facebook group devote to Tasmanian spider and insect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tasmania be home to two type of pygmy possum – the little pygmy and the eastern pygmy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.livescience.com/65746-possum-eating-spider-australia.html",
+            "content": "The two capture the spider in an empty ice-cream container and release the huntsman outside the lodge ; the arachnid skedaddle and leave it possum meal behind , Latton say . — a large spider recently demonstrate the dominance of arachnid over puny mammal , a it chowed down on an unfortunate pygmy possum . The dead marsupial — which appear to be a pygmy possum , accord to commenters — dangles limply from the huntsman 's mandible . [ In Photos : A Tarantula-Eat-Snake World ]\nThe animal commonly know a a possum in North America ( actually an `` opossum , '' which belong to a different order ) can grow to be as big a a cat ; be that the case here , the spider would easily be the size of a large dinner plate . Huntsman spider be ambush predator , and they use their large and powerful fang to deliver venomous bite . Numerous spider specie worldwide be know to eat bat , and researcher recently record the first evidence of tropical spider prey on mouse opossum , in the Peruvian Amazon , Live Science previously report . Eight-eyed huntsman spider in the Sparassidae family deliver venomous bite with their sharp fang , paralyze small prey . Huntsman spider ' usual prey include many type of insect , reptile and even other spider . Members of the Facebook group identify the arachnid a a huntsman ( also know a a giant crab spider ) ; these large , long-legged spider in the Sparassidae family live all over Australia . But pygmy possum ( Cercartetus lepidus ) be the small possum in the world , measure about 2 to 3 inch ( 5 to 7 centimeter ) long and weigh about 0.2 ounce ( 7 gram ) , accord to Tasmania 's Parks and Wildlife Service . Spiders be commonly think to suck the liquid from their prey ; in reality , they vomit digestive fluid onto their meal , chew the saturated flesh and then slurp up the dissolved nutrient , Rod Crawford , curatorial associate of arachnid at the Burke Museum in Seattle , write on the museum website . On average , a huntsman spider 's leg span can reach up to 6 inch ( 15 cm ) , while their body measure about 0.7 inch ( 2 cm ) long , the Australian Museum report . Latton 's husband be conduct repair work at the lodge when he notice the spider lurk on the door just above his co-worker 's head , Latton tell `` Tasmania Talks . '' In the photo , the huntsman hang head-down from a door hinge and grip it prey by the neck .",
+            "domain": "www.livescience.com",
+            "tokenized": [
+                {
+                    "sent": "The two capture the spider in an empty ice-cream container and release the huntsman outside the lodge ; the arachnid skedaddle and leave it possum meal behind , Latton say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— a large spider recently demonstrate the dominance of arachnid over puny mammal , a it chowed down on an unfortunate pygmy possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The dead marsupial — which appear to be a pygmy possum , accord to commenters — dangles limply from the huntsman 's mandible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ In Photos : A Tarantula-Eat-Snake World ]\nThe animal commonly know a a possum in North America ( actually an `` opossum , '' which belong to a different order ) can grow to be as big a a cat ; be that the case here , the spider would easily be the size of a large dinner plate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Huntsman spider be ambush predator , and they use their large and powerful fang to deliver venomous bite .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Numerous spider specie worldwide be know to eat bat , and researcher recently record the first evidence of tropical spider prey on mouse opossum , in the Peruvian Amazon , Live Science previously report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eight-eyed huntsman spider in the Sparassidae family deliver venomous bite with their sharp fang , paralyze small prey .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Huntsman spider ' usual prey include many type of insect , reptile and even other spider .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Members of the Facebook group identify the arachnid a a huntsman ( also know a a giant crab spider ) ; these large , long-legged spider in the Sparassidae family live all over Australia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But pygmy possum ( Cercartetus lepidus ) be the small possum in the world , measure about 2 to 3 inch ( 5 to 7 centimeter ) long and weigh about 0.2 ounce ( 7 gram ) , accord to Tasmania 's Parks and Wildlife Service .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Spiders be commonly think to suck the liquid from their prey ; in reality , they vomit digestive fluid onto their meal , chew the saturated flesh and then slurp up the dissolved nutrient , Rod Crawford , curatorial associate of arachnid at the Burke Museum in Seattle , write on the museum website .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On average , a huntsman spider 's leg span can reach up to 6 inch ( 15 cm ) , while their body measure about 0.7 inch ( 2 cm ) long , the Australian Museum report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Latton 's husband be conduct repair work at the lodge when he notice the spider lurk on the door just above his co-worker 's head , Latton tell `` Tasmania Talks . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the photo , the huntsman hang head-down from a door hinge and grip it prey by the neck .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.heraldsun.com.au/news/massive-australian-huntsman-spider-eats-a-possum-in-terrified-tourists-hotel-room/news-story/c1bbf0dd697c218ac3675d3d455943b4",
+            "content": "”\nJulie Southwell suggest the pygmy possum be already dead when the spider find it . But if you ’ re fascinate by Australia ’ s enormous creepy crawly carnivorous predator , then this be definitely a Kids News story for you\nA giant spider terrify tourist by eat a possum on the wall of their cabin in Tasmania . Robyn Gates write : “ If the pygmy be just cold it would be an easy target and the spider may just drink the digestible liquids* of the possum . Pygmy possum ’ body be at least 6.5cm long , which be roughly the same size a a large huntsman ’ s body . Justine Latton and her husband be stay at Mt Field National Park when they witness the enormous huntsman spider din on the marsupial* . “ It would be fairly rare , ” he tell the Guardian newspaper “ It ’ s the first time I ’ ve see a pygmy possum a prey* . ”\nHe add it be more common to see a huntsman eat small bird , frog and gecko . The thought of a spider so big it can carry mouse and possum make most people squirm , but the monster arachnids* be not deadly to human . HUNTSMAN SPIDERS Australian huntsman spider be part of the Sparassidae family . ”\nThe world love photo of Australia ’ s massive huntsman spider do weird thing . If you do see one , don ’ t touch it a a huntsman ’ s bite can cause pain and swelling and you can ’ t be sure exactly what specie of spider it be . She write : “ Just sad a the pygmy possum like so many creature be struggle . During a heatwave in January , a huntsman be photograph cool down by crawl over a woman ’ s hand a she hold an icy bottle of beer . I don ’ t begrudge* the Huntsman it meal , he or she need to survive . The little pygmy possum be the small of all possum and grows to only 6.5cm body length . If you hate spider , don ’ t click on this . Some people call them tarantula or giant crab spider .",
+            "domain": "www.heraldsun.com.au",
+            "tokenized": [
+                {
+                    "sent": "”\nJulie Southwell suggest the pygmy possum be already dead when the spider find it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if you ’ re fascinate by Australia ’ s enormous creepy crawly carnivorous predator , then this be definitely a Kids News story for you\nA giant spider terrify tourist by eat a possum on the wall of their cabin in Tasmania .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Robyn Gates write : “ If the pygmy be just cold it would be an easy target and the spider may just drink the digestible liquids* of the possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pygmy possum ’ body be at least 6.5cm long , which be roughly the same size a a large huntsman ’ s body .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Justine Latton and her husband be stay at Mt Field National Park when they witness the enormous huntsman spider din on the marsupial* .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It would be fairly rare , ” he tell the Guardian newspaper “ It ’ s the first time I ’ ve see a pygmy possum a prey* .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nHe add it be more common to see a huntsman eat small bird , frog and gecko .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The thought of a spider so big it can carry mouse and possum make most people squirm , but the monster arachnids* be not deadly to human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HUNTSMAN SPIDERS Australian huntsman spider be part of the Sparassidae family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe world love photo of Australia ’ s massive huntsman spider do weird thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you do see one , don ’ t touch it a a huntsman ’ s bite can cause pain and swelling and you can ’ t be sure exactly what specie of spider it be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She write : “ Just sad a the pygmy possum like so many creature be struggle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During a heatwave in January , a huntsman be photograph cool down by crawl over a woman ’ s hand a she hold an icy bottle of beer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I don ’ t begrudge* the Huntsman it meal , he or she need to survive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The little pygmy possum be the small of all possum and grows to only 6.5cm body length .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you hate spider , don ’ t click on this .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some people call them tarantula or giant crab spider .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://indianexpress.com/article/trending/trending-globally/nightmare-say-netizens-as-picture-of-huntsman-spider-feeding-on-possum-goes-viral-5788257/",
+            "content": "A photograph of a huge huntsman spider feed on pygmy-possums have leave many baffle after it go viral on social medium . It ’ s the first time I ’ ve see a pygmy possum a prey. Shared on Facebook by an Australian woman from Tasmania be a rare moment of a huntsman attempt to devour the possum . ” He far say that it be more common to see huntsman eat “ small bird , frog and gecko ” .",
+            "domain": "indianexpress.com",
+            "tokenized": [
+                {
+                    "sent": "A photograph of a huge huntsman spider feed on pygmy-possums have leave many baffle after it go viral on social medium .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s the first time I ’ ve see a pygmy possum a prey.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shared on Facebook by an Australian woman from Tasmania be a rare moment of a huntsman attempt to devour the possum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He far say that it be more common to see huntsman eat “ small bird , frog and gecko ” .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://rock1053.iheart.com/content/giant-spider-eats-possum-video/",
+            "content": "Adult Huntsman spider hunt and forage for food a oppose to spin web to catch food . The Huntsman be the large spider specie in the world - they 're leg span can reach 12-inches . Pygmy possum be a small marsupial specie native to Australia , Papa New Guinea , and Indonesia .",
+            "domain": "rock1053.iheart.com",
+            "tokenized": [
+                {
+                    "sent": "Adult Huntsman spider hunt and forage for food a oppose to spin web to catch food .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Huntsman be the large spider specie in the world - they 're leg span can reach 12-inches .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Pygmy possum be a small marsupial specie native to Australia , Papa New Guinea , and Indonesia .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/01/world/giant-spider-eats-opossum-scn-trnd",
+            "content": "They talk to mammalogist , who say it appear to be the first documented case of a spider eat an opossum . The spider that kill the opossum have a body that ’ s big than a baseball , and that doesn ’ t count the leg . The paper also document spider and a giant water bug kill various frog and lizard and a particularly terrifying case of a large centipede decapitating and partially eat a venomous coral snake . The spider have grab the opossum – a small furry creature know a a mouse opossum – by the neck and it be still twitch when the scientist find the pair . He say that biologist have probably underestimated how many small vertebrate be kill by large spider and centipede . They watch for about five minute and be able to document the moment on video , before the spider haul it prey behind a tree root to enjoy it meal in peace . The article title “ Ecological interaction between arthropod and small vertebrate in a lowland Amazon rainforest ” document 15 case of arthropod – mainly large spider and centipede – prey on vertebrate like small frog , snake and lizard .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "They talk to mammalogist , who say it appear to be the first documented case of a spider eat an opossum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The spider that kill the opossum have a body that ’ s big than a baseball , and that doesn ’ t count the leg .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The paper also document spider and a giant water bug kill various frog and lizard and a particularly terrifying case of a large centipede decapitating and partially eat a venomous coral snake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The spider have grab the opossum – a small furry creature know a a mouse opossum – by the neck and it be still twitch when the scientist find the pair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say that biologist have probably underestimated how many small vertebrate be kill by large spider and centipede .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They watch for about five minute and be able to document the moment on video , before the spider haul it prey behind a tree root to enjoy it meal in peace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The article title “ Ecological interaction between arthropod and small vertebrate in a lowland Amazon rainforest ” document 15 case of arthropod – mainly large spider and centipede – prey on vertebrate like small frog , snake and lizard .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalgeographic.com/animals/article/tarantula-kills-opossum-first-time-photos-video",
+            "content": "Invertebrates such a spider and centipede be underappreciated king of the jungle , eat a surprising amount of vertebrate in the Amazon , a new study say . Spiders and other invertebrate eat a surprising amount of vertebrate in Peru ’ s rainforest , a new study say . Later , Robert Voss , a mammologist at the American Museum of Natural History , confirm they have capture the first documentation of a large mygalomorph spider—commonly know a a tarantula—hunting and eat an opossum . ( Read about tiny spider that devour lizard three time their size . ) While the tarantula in the genus Pamphobeteus will usually jump at the chance to eat a frog , it allow individual of one specie , the dotted humming frog ( Chiasmocleis royi ) , to share it underground burrow . ” ( Read about fish-eating spider . ) “ It may seem like everything be kill each other , but at least there be this one case in which frog have figure out how to live with a spider . ( See photo of spider that kill other spider . ) “ We don ’ t know what ’ s prevent the spider from prey upon that frog , ” say von May . Von May and his colleague speculate that the frog might provide some benefit to the spider , such a clean it of parasite . “ What stand out at night be the amount of spider you see on all sort of substrates—on the ground , on leaf , on branch , ” say von May , whose paper appear today in the journal Amphibian & Reptile Conservation . Under the cover of darkness , the forest teems with eight-legged hunter , especially ctenids , commonly know a wander spider . Though such behavior have be record before , the study provide more data about just how many vertebrate fall victim to small predator , particularly spider .",
+            "domain": "www.nationalgeographic.com",
+            "tokenized": [
+                {
+                    "sent": "Invertebrates such a spider and centipede be underappreciated king of the jungle , eat a surprising amount of vertebrate in the Amazon , a new study say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Spiders and other invertebrate eat a surprising amount of vertebrate in Peru ’ s rainforest , a new study say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Later , Robert Voss , a mammologist at the American Museum of Natural History , confirm they have capture the first documentation of a large mygalomorph spider—commonly know a a tarantula—hunting and eat an opossum .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Read about tiny spider that devour lizard three time their size . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the tarantula in the genus Pamphobeteus will usually jump at the chance to eat a frog , it allow individual of one specie , the dotted humming frog ( Chiasmocleis royi ) , to share it underground burrow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( Read about fish-eating spider . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It may seem like everything be kill each other , but at least there be this one case in which frog have figure out how to live with a spider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( See photo of spider that kill other spider . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We don ’ t know what ’ s prevent the spider from prey upon that frog , ” say von May .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Von May and his colleague speculate that the frog might provide some benefit to the spider , such a clean it of parasite .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ What stand out at night be the amount of spider you see on all sort of substrates—on the ground , on leaf , on branch , ” say von May , whose paper appear today in the journal Amphibian & Reptile Conservation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under the cover of darkness , the forest teems with eight-legged hunter , especially ctenids , commonly know a wander spider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though such behavior have be record before , the study provide more data about just how many vertebrate fall victim to small predator , particularly spider .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.peststrategies.com/pest-guides/opossum-guides/what-do-opossums-eat/",
+            "content": "Opossums regularly feast on cockroach , mouse , rat , spider , slug , snail , insect , frogs—you name it , they probably eat it . You guess it—opossums will happily eat those . Opossums be , essentially , like nature 's garbage disposal ; much like raccoon , these little guy will eat just about anything . Whether you 're try to bait an opossum into a trap or understand why the one in your yard seem to eat everything in sight , we 're here to shed a little light on their feeding habit . Okay , so opossums basically eat anything and everything . Like human , opossum be omnivores—they eat both plant and meat—and in their case , pretty much everything in between . You 'll have a much easy time find object that an opossum wo n't try to ingest rather than try the pin down each and every thing they do eat .",
+            "domain": "www.peststrategies.com",
+            "tokenized": [
+                {
+                    "sent": "Opossums regularly feast on cockroach , mouse , rat , spider , slug , snail , insect , frogs—you name it , they probably eat it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You guess it—opossums will happily eat those .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Opossums be , essentially , like nature 's garbage disposal ; much like raccoon , these little guy will eat just about anything .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whether you 're try to bait an opossum into a trap or understand why the one in your yard seem to eat everything in sight , we 're here to shed a little light on their feeding habit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Okay , so opossums basically eat anything and everything .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like human , opossum be omnivores—they eat both plant and meat—and in their case , pretty much everything in between .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You 'll have a much easy time find object that an opossum wo n't try to ingest rather than try the pin down each and every thing they do eat .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/spider-eating-opossum-tarantula-drags-eats-opossum-in-amazon-rainforest/",
+            "content": "The researcher describe the spider a the size of a dinner plate and the mouse opossum a about the size of a softball . Researchers check in with an opossum expert at American Museum of Natural History and confirm they capture the first documentation of a large mygalomorph spider prey on an opossum . `` A surprising amount of death of small vertebrate in the Amazon be likely due to arthropod such a big spider and centipede . '' The infraorder Mygalomorphae be a group of mostly heavy-bodied , stout-legged spider that include tarantula . Researchers study interaction between predator and their prey in the Amazon rainforest spot one encounter with a giant spider that 'll leave arachnophobes tremble .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "The researcher describe the spider a the size of a dinner plate and the mouse opossum a about the size of a softball .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers check in with an opossum expert at American Museum of Natural History and confirm they capture the first documentation of a large mygalomorph spider prey on an opossum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` A surprising amount of death of small vertebrate in the Amazon be likely due to arthropod such a big spider and centipede . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The infraorder Mygalomorphae be a group of mostly heavy-bodied , stout-legged spider that include tarantula .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Researchers study interaction between predator and their prey in the Amazon rainforest spot one encounter with a giant spider that 'll leave arachnophobes tremble .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,645 @@
+{
+    "event_id": "133880",
+    "claim": "Rep. Mark Amodei reported high-school student Noah Christiansen to his school for cursing during a phone call concerning gun safety legislation.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In March 2018, a Republican lawmaker from Nevada came under criticism from the American Civil Liberties Union after one of his staff members reported a student for cursing during a phone call to his office, a student who was seeking support for tighter gun safety laws in the wake of a February 2018 mass shooting at a high school in Parkland, Florida.Rep. Mark Amodei confirmed that the staff member, Arturo Garzon, spoke to 17-year-old Noah Christiansen. However, Amodei said that Garzon did not act in retaliation over the call when he spoke to the principal at Robert McQueen High School: “He didn’t ask for punishment. He reported what [my staff] thought was remarkable conduct out of hundreds of phone calls we got, and that’s it.”On 23 March 2018, the district lifted the suspension, saying in a statement that it wanted to ensure that its resources “are spent on educating students rather than on expensive and protracted litigation.”Christiansen reportedly called Amodei’s office after taking part in a student walkout calling for tighter gun safety laws in the wake of the fatal mass shooting attack at Marjory Stoneman Douglas High School in Parkland, Florida, a month earlier. The student allegedly called for lawmakers to “get off their fucking asses” at one point in the call.Garzon contacted Christiansen’s school and spoke to principal Amy Marable. Christansen was later suspended for two days for “disrespectful behavior/language” and was barred from taking office as his class secretary/treasurer. According to the ACLU of Nevada, Christiansen said that school officials “yelled” at him for contacting Amodei: “All I want is for this suspension to be overturned and to take my place as class secretary, so I can move on to college with my record restored. I’ve never even had a detention before, let alone a suspension.”The ACLU subsequently contacted both Amodei and the school, as well as the Washoe County School District in Reno, demanding both an apology to Christiansen and the revocation of his suspension. A district spokesperson emailed a release to us stating that no students were punished in connection with the walkout itself.Rep. Amodei has so far declined to apologize for his staff’s actions, saying: “I don’t call people I don’t know on the phone and drop F-bombs and … when I do use [profane] language in public, I am totally and completely responsible. Quite frankly, welcome to the club, young fellow.”We contacted Amodei’s office seeking a comment on the suspension being lifted.",
+    "reports": [
+        {
+            "link": "https://www.washingtonpost.com/news/education/wp/2018/03/20/a-student-called-his-congressman-to-ask-for-gun-control-and-was-suspended-for-cursing/",
+            "content": "Rep. Mark Amodei ( R-Nev. ) have defend his staff member for report 17-year-old Noah Christiansen ’ s foul language to his principal last week , which the American Civil Liberties Union say cause Christiansen to miss two day of school and be bar from join the student government . Christiansen call Amodei ’ s office Wednesday , a he and thousand of U.S. student walk out of class to demand gun-law reform in the wake of last month ’ s massacre at a high school in Florida . A high school student be suspend for “ disrespect ” after he call his congressman ’ s office and tell lawmaker — a he recall it — to “ get off their f‑‑‑— asses ” and pass gun-control law . “ I ’ m not apologize because my guy accurately describe what happen in the phone call , ” he tell the Independent\nA student be punish for film professor ’ s anti-Trump rant . A congressional aide have apparently phone the school to complain about his rude language . So a he sit home from school , Christiansen call a lawyer , and then the ACLU . He have not make the phone call from class , or a school event ; he be already mark tardy . Even a late mark would be a rare blotch on Christiansen ’ s record , he tell The Washington Post . ”\nAmodei , however , defend his aide ’ s decision to report the student . The 11th-grader do not expect to go totally unpunished for join the protest ; administrator at Robert McQueen High School in Reno have warn student that they would be mark tardy if they leave class that day , the ACLU write . He hear other student at the walkout say far bad in their own call to official . The ACLU call the punishment an act of political “ retaliation , ” and demand it be wipe from Christiansen ’ s record . “ Disciplining a student and permanently damage their future college prospect because they actively participate in democracy will have a chill effect on other student who be consider engage in the political process , ” the ACLU write to the school . At McQueen , Christiansen say , his schoolmate pass out sheet of paper with lawmaker ’ phone number . ”\nThe few time he have be scold at school , Christiansen say , he have usually respond with contrition . So at 10:17 a.m. — symbolic for the 17 people kill in Florida — he leave calculus class one minute early and join hundred of other student assemble outside the school ’ s front door . Students from other school nationwide protest with silence , song and chant that morning . Christiansen leave school immediately that afternoon to begin a two-day suspension .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Rep. Mark Amodei ( R-Nev. ) have defend his staff member for report 17-year-old Noah Christiansen ’ s foul language to his principal last week , which the American Civil Liberties Union say cause Christiansen to miss two day of school and be bar from join the student government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Christiansen call Amodei ’ s office Wednesday , a he and thousand of U.S. student walk out of class to demand gun-law reform in the wake of last month ’ s massacre at a high school in Florida .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A high school student be suspend for “ disrespect ” after he call his congressman ’ s office and tell lawmaker — a he recall it — to “ get off their f‑‑‑— asses ” and pass gun-control law .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ m not apologize because my guy accurately describe what happen in the phone call , ” he tell the Independent\nA student be punish for film professor ’ s anti-Trump rant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A congressional aide have apparently phone the school to complain about his rude language .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So a he sit home from school , Christiansen call a lawyer , and then the ACLU .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have not make the phone call from class , or a school event ; he be already mark tardy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even a late mark would be a rare blotch on Christiansen ’ s record , he tell The Washington Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAmodei , however , defend his aide ’ s decision to report the student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 11th-grader do not expect to go totally unpunished for join the protest ; administrator at Robert McQueen High School in Reno have warn student that they would be mark tardy if they leave class that day , the ACLU write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He hear other student at the walkout say far bad in their own call to official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The ACLU call the punishment an act of political “ retaliation , ” and demand it be wipe from Christiansen ’ s record .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Disciplining a student and permanently damage their future college prospect because they actively participate in democracy will have a chill effect on other student who be consider engage in the political process , ” the ACLU write to the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At McQueen , Christiansen say , his schoolmate pass out sheet of paper with lawmaker ’ phone number .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe few time he have be scold at school , Christiansen say , he have usually respond with contrition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So at 10:17 a.m. — symbolic for the 17 people kill in Florida — he leave calculus class one minute early and join hundred of other student assemble outside the school ’ s front door .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Students from other school nationwide protest with silence , song and chant that morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Christiansen leave school immediately that afternoon to begin a two-day suspension .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thenevadaindependent.com/article/amodei-defends-his-offices-response-to-a-vulgar-phone-call-from-a-student",
+            "content": "The ACLU of Nevada send Amodei a letter on Monday , urge him to issue the student — 17-year-old Noah Christiansen who attend Robert McQueen High School — an apology because a complaint from the congressman ’ s staffer lead to a two-day suspension . Congressman Mark Amodei win ’ t apologize to a Washoe County high school student who be suspend after deliver profanity-laced remark to the lawmaker ’ s office during the national walkout last week . But the student say he ’ s disappoint a staff member in Amodei ’ s office breach his “ political privacy ” by call the school . Amodei say the student ’ s rudeness prompt Arturo Garzon , who serve a one of the Nevada Republican constituent service representative , to call the school . Noah 's parent disagree with the school 's decision to suspend him , call their son a good student who do n't have behavioral problem . ACLU official say Christiansen call the congressman ’ s office Wednesday and plead for lawmaker to “ get off their f -- -ing ass ” and enact gun-reform legislation that would help keep child safe at school . He also note that the punishment occur after “ a staff member from your office contact the constituent ’ s school to report this phone call . “ That very day the constituent be call to the principal ’ s office and give a two-day suspension for ‘ disrespectful behavior/language , ' ” the ACLU ’ s executive director , Tod Story , write Monday in a letter to Amodei . ”\nA staunch supporter of gun right , Amodei have say he be open to support legislation to add school-security personnel , ban bump stock , raise the age to buy long gun and improve background check . The school also isn ’ t let the student assume his elected role a the class secretary-treasurer because of the incident , ACLU official say . Specifically , Christiansen ask the congressman to support raise the minimum age to buy a gun and to ban bump stock , the weapon modification that accelerate the rate of gunfire . He ’ s hop for an apology from both Amodei and his school administrator as well a his suspension overturn . The organization be advocate on the student ’ s behalf and try to get his school record clear , official say . The ACLU ’ s letter accuse the congressman ’ s office of retaliate against the student and restrict his right to free speech . “ I ’ m not apologize because my guy accurately describe what happen in the phone call , ” he say .",
+            "domain": "thenevadaindependent.com",
+            "tokenized": [
+                {
+                    "sent": "The ACLU of Nevada send Amodei a letter on Monday , urge him to issue the student — 17-year-old Noah Christiansen who attend Robert McQueen High School — an apology because a complaint from the congressman ’ s staffer lead to a two-day suspension .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Congressman Mark Amodei win ’ t apologize to a Washoe County high school student who be suspend after deliver profanity-laced remark to the lawmaker ’ s office during the national walkout last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the student say he ’ s disappoint a staff member in Amodei ’ s office breach his “ political privacy ” by call the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amodei say the student ’ s rudeness prompt Arturo Garzon , who serve a one of the Nevada Republican constituent service representative , to call the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Noah 's parent disagree with the school 's decision to suspend him , call their son a good student who do n't have behavioral problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "ACLU official say Christiansen call the congressman ’ s office Wednesday and plead for lawmaker to “ get off their f -- -ing ass ” and enact gun-reform legislation that would help keep child safe at school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also note that the punishment occur after “ a staff member from your office contact the constituent ’ s school to report this phone call .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ That very day the constituent be call to the principal ’ s office and give a two-day suspension for ‘ disrespectful behavior/language , ' ” the ACLU ’ s executive director , Tod Story , write Monday in a letter to Amodei .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nA staunch supporter of gun right , Amodei have say he be open to support legislation to add school-security personnel , ban bump stock , raise the age to buy long gun and improve background check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The school also isn ’ t let the student assume his elected role a the class secretary-treasurer because of the incident , ACLU official say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Specifically , Christiansen ask the congressman to support raise the minimum age to buy a gun and to ban bump stock , the weapon modification that accelerate the rate of gunfire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s hop for an apology from both Amodei and his school administrator as well a his suspension overturn .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The organization be advocate on the student ’ s behalf and try to get his school record clear , official say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The ACLU ’ s letter accuse the congressman ’ s office of retaliate against the student and restrict his right to free speech .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m not apologize because my guy accurately describe what happen in the phone call , ” he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kfyrtv.com/2021/02/25/nd-lawmaker-apologizes-for-telling-colleague-youre-not-my-effing-mother/",
+            "content": "The entire call really appear to be an attempt\nI follow up with Rep. Pollert by text message and a 10 minute phone conversation to make it clear I\nOn January 29 , 2021 , during a phone conversation with ( intern ) , ask me if I have\nRepresentativffiryle le `` have see an old photo of her when she have bang and she look like a school\nmuch like he do when he call to threaten me . Had long phone conversation with Rep. Luke Simons about him not feel comfortable work\nThe timing of the call be particularly odd consider the capitol have be close since March due to\nprovide him full access to male attorney , include me . Although he call me `` ma'am ''\nIn response to the report submit by ~egarding inappropriate comment by Rep. Luke\nwith deal with the Rep. Simons situation and characterize the communication to Rep. Simons a call to `` grow up '' . Although he call me `` ma'am ''\nconcern with Rep. Simons fail to understand appropriate behavioral norm in the workplace and the fact the\nIf Rep. Simons have any other contact with you which you consider to be inappropriate , I hope you will report it to me\nShe call me , and I say it be ok to send him back . ”\nIn 2019 , Simons be tell he could only speak with male staff member due to “ continued concern with Rep. Simons fail to understand appropriate behavior norm in the workplace and the fact the Workplace Harassment Policy must be take seriously . I express my concern with respect to the damage\nthat can be do to the intern program be law student do not feel comfortable work here .",
+            "domain": "www.kfyrtv.com",
+            "tokenized": [
+                {
+                    "sent": "The entire call really appear to be an attempt\nI follow up with Rep. Pollert by text message and a 10 minute phone conversation to make it clear I\nOn January 29 , 2021 , during a phone conversation with ( intern ) , ask me if I have\nRepresentativffiryle le `` have see an old photo of her when she have bang and she look like a school\nmuch like he do when he call to threaten me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Had long phone conversation with Rep. Luke Simons about him not feel comfortable work\nThe timing of the call be particularly odd consider the capitol have be close since March due to\nprovide him full access to male attorney , include me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although he call me `` ma'am ''\nIn response to the report submit by ~egarding inappropriate comment by Rep. Luke\nwith deal with the Rep. Simons situation and characterize the communication to Rep. Simons a call to `` grow up '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although he call me `` ma'am ''\nconcern with Rep. Simons fail to understand appropriate behavioral norm in the workplace and the fact the\nIf Rep. Simons have any other contact with you which you consider to be inappropriate , I hope you will report it to me\nShe call me , and I say it be ok to send him back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn 2019 , Simons be tell he could only speak with male staff member due to “ continued concern with Rep. Simons fail to understand appropriate behavior norm in the workplace and the fact the Workplace Harassment Policy must be take seriously .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I express my concern with respect to the damage\nthat can be do to the intern program be law student do not feel comfortable work here .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hrw.org/report/2017/06/21/just-let-us-be/discrimination-against-lgbt-students-philippines",
+            "content": "[ 91 ]\nHuman Rights Watch hear repeatedly that school fail to instruct student about what bully entail , how to report incident when they occur , and what the repercussion will be . The Committee on the Rights of the Child have express concern about the health consequence of bullying , include suicide , and have urge government to “ take the necessary action to prevent and prohibit all form of violence and abuse , include sexual abuse , corporal punishment and other inhuman , degrade or humiliate treatment or punishment in school , by school personnel as well a among students. ” [ 84 ] Benjie A. , a 20-year-old gay man in Manila , recall how a teacher in elementary school call him and two other effeminate student in front of her biology class to tell the student :\nAs student interact with their peer on social medium and in other virtual space , cyberbullying have increasingly impact LGBT youth in school . The policy should also identify how bullying will be punish , establish procedure for report and redress bullying , enable student to report bully anonymously , educate student , parent , and guardian about bullying and the school ’ s policy to prevent and address it , and make a public record of statistic on bullying in the school . Some student who encounter discrimination in school report that they struggle with depression and anxiety . [ 28 ] As describe in this report , many student and administrator be unaware of school bully policy . [ 112 ]\nOther interviewee report similar incident in which teacher or prefect would publicly call out student in violation of the restriction and forcibly cut their hair in front of the class . ” [ 137 ]\nAs in secondary school , university policy that prevent student from access facility on the basis of their gender identity be discriminatory and function to undermine student safety , health , privacy , and the right to education . The act define “ bully ” to include “ any severe or repeat use by one or more student of a write , verbal or electronic expression , or a physical act or gesture , or any combination thereof , direct at another student that have the effect of actually cause or place the latter in reasonable fear of physical or emotional harm or damage to his property ; create a hostile environment at school for the other student ; infringe on the right of the other student at school ; or materially and substantially disrupt the education process or the orderly operation of a school ; such a , but not limited to , the following : ( a ) any unwanted physical contact between the bully and the victim like punching , push , shove , kick , slap , tickle , headlock , inflict school prank , tease , fight and the use of available object a weapon ; ( b ) any act that cause damage to a victim ’ s psyche and/or emotional well-being ; ( c ) any slanderous statement or accusation that cause the victim undue emotional distress like direct foul language or profanity at the target , name-calling , torment and comment negatively on victim ’ s look , clothes and body ; and ( d ) cyber-bullying or any bullying do through the use of technology or any electronic means. As one elementary school counselor observe , youth be “ quite intimidate that kid will call them gay—even in Grade Six , you can tell that they don ’ t want to be call gay or lesbian. Interviewees who work with youth described incident of LGBT student be force out of school a well . When student do learn about LGBT people and issue in school , the message be typically negative , reject same-sex relationship and transgender identity a immoral or unnatural . ” [ 63 ]\nThe most common form of bully that LGBT student report in interview with Human Rights Watch be verbal harassment . ” [ 191 ] Reports that LGBT student learn about sexuality from what Jin W. , a 20-year-old man who attend high school in Manila describe a “ live action ” [ 192 ] be particularly worrying , a they illustrate how LGBT youth engage in sexual activity before they have access to information about how to keep themselves safe . Jerome B. , a 19-year-old gay man from Cebu City , say :\nSome student attribute their reluctance to report bully to the negative message about LGBT people they ’ d receive from teacher . Benjie A. , a 20-year-old gay student from Manila , recount struggle to make sense of his identity until “ I think about get a gun from a policeman and shoot myself. ” [ 69 ] Gabriel K. , a 19-year-old gay student who attend high school in Manila , say people tell gay student “ that you have to be crucify because you ’ re a sinner. ” [ 168 ] Pablo V. , an 18-year-old gay student who attend high school in San Jose , say : “ In our school , we present a play—there ’ s a gay character—and then our principal tell me that it ’ s not possible for u to present because there ’ s a gay character in our presentation. ” [ 234 ] The government of the Philippines sign UNESCO ’ s Call for Action on Homophobic and Transphobic Violence , issue in November 2016 , which commit it to monitor the prevalence of homophobic and transphobic bullying in school , provide student with information about harmful gender-based stereotype , train school personnel , and take step to make school safe for LGBT youth . ’ ” [ 56 ] In interview with Human Rights Watch , LGBT student describe similar pattern of harassment and sexual assault in school . ” [ 78 ] When verbal harassment become unbearable , some student remove themselves from the school environment entirely . ” [ 110 ]\nAt many of these school , student who do not conform to the uniform and hair-length requirement face disciplinary action . ”\nThe mistreatment that student face in school be exacerbate by discriminatory policy and practice that exclude them from fully participate in the school environment . ” [ 24 ] At a minimum , these policy be suppose to prohibit bully on or near school ground , bully and cyberbullying off school ground that interfere with a student ’ s schooling , and retaliation against those who report bully . To ensure that all youth feel safe and include in school , school administrator should examine policy and practice that punish LGBT student for relationship that be consider acceptable for their heterosexual peer , restrict gender expression and access to facility , and stereotype LGBT youth in a discriminatory manner . [ 217 ] The UN expert body that interpret these agreement have express concern about discrimination against LGBT student in school , [ 218 ] prompt the UN High Commissioner for Human Rights to recommend “ that States establish national standard on non-discrimination in education , develop anti-bullying programme and helplines and other service to support LGBTI youth , and to provide comprehensive , age-appropriate sexuality education. The adverse treatment they experience from peer and teacher be compound by discriminatory policy that stigmatize and disadvantage LGBT student and by the lack of information and resource about LGBT issue available in school . Leon S. , a 19-year-old gay student from Malolos , say “ [ t ] he school do anti-bullying seminar , but it didn ’ t really address bully about your sexual identity—the seminar be more general in scope. ” In a country that be more than 80 percent Catholic , opposition from the Church influence how LGBT issue be address in family and school , with many parent and teacher tell student that be LGBT be immoral or wrong . David O. , a high school teacher in Mandaue City , recount a story in which a transgender boy and his parent want the school to socially recognize him a a boy , but another teacher insist that the student be female and should be treat a a girl . Carlos M. , a 19-year-old gay student from Olongapo City , say : “ When I be in high school , they ’ d push me , punch me . Carlos M. , a 19-year-old gay student from Olongapo City , say : “ When I be in high school , they ’ d push me , punch me . Students identify negative messaging in various class , include “ value education , ” a subject taught throughout secondary school to instill positive value and moral in Filipino youth . Gabriel K. , a 19-year-old gay student who attend high school in Manila , recall how a teacher bring him before his peer and “ compare me to the others—that be gay be not welcome into heaven , and make an example in front of the whole class. ’ ” [ 88 ]\nJack M. , an 18-year-old gay high school student in Bayombong , be a victim of rumor spread through social medium : “ They ’ ll make up story . ” [ 185 ] Francis C. , a 19-year-old gay student from Pulilan , be similarly tell by teacher “ that there be same-sex who be do those activity , but they would say that if two male or two female do those activity , they would become sick or ill. ” [ 186 ] Jonas E. , a 17-year-old gay boy in high school in Mandaue City , note : “ I get really offend when they talk about HIV . Ace F. , a 24-year-old gay man who have attend high school in Manila , say that his school counselor use decades-old psychological material :\nLGBT student interview say some counselor pass moral judgment on them . It examine three broad area in which LGBT student encounter problems—bullying and harassment , discrimination on the basis of sexual orientation and gender identity , and a lack of information and resources—and recommend step that lawmaker , DepEd , and school administrator should take to uphold LGBT student ’ right to a safe and affirm educational environment . Students report that be force to dress or present themselves in a manner that be inconsistent with their gender expression make them unhappy [ 106 ] and uncomfortable , [ 107 ] lessen their confidence , [ 108 ] and impair their concentration . To ensure the right to education be respect , the Committee on the Rights of the Child have say that sexuality education provide by school :\nThis information must not only be provide to heterosexual , cisgender student . ” [ 95 ]\nInterviews with LGBT student indicate that many teacher fail to intervene when they witness bully or harassment occurring or it be bring to their attention , even since passage of the Anti-Bullying Law , which in turn discourages student from report case of bullying . Wes L. , an 18-year-old gay student at a high school in Bacacay , say , “ My teacher in school tell me that people be create by God , and God create man and woman . ’ ” [ 75 ]\nThe high level of verbal harassment that LGBT youth face in school have repercussion for their experience in school . Marisol D. , a 21-year-old transgender woman , say that in her university , instructor report transgender student to the discipline office for use the “ wrong ” restroom . [ 117 ]\nEven when student be formally permit to wear the uniform of their choice , however , school personnel at time harass or humiliate them in practice . ” [ 219 ]\nLGBT student be deny the right to education when bullying , exclusion , and discriminatory policy prevent them from participate in the classroom or attend school . Felix P. , a 22-year-old gay high school student in Legazpi , note : “ Here , they call u ‘ carrier ’ —there ’ s a stereotype that gay be responsible for HIV. Human Rights Watch send a copy of the finding in this report by email , fax , and post to DepEd on May 15 , 2017 to obtain their input on the issue student identify . Further , many student tell Human Rights Watch that they do not feel comfortable report bullying , or do not know how to report bully or what the consequence would be for themselves or the perpetrator . Ruby S. , a 16-year-old transgender girl who attend high school in Batangas , say :\nEven student who be not formally punish described be humiliate by faculty and staff policing gendered space . ” [ 47 ]\nWhen school be unwelcoming , student may skip class or drop out of school entirely . ” [ 243 ]\nThe significant shortcoming of sexuality education in school in the Philippines also undermine the right to health for all student , but particularly LGBT student .",
+            "domain": "www.hrw.org",
+            "tokenized": [
+                {
+                    "sent": "[ 91 ]\nHuman Rights Watch hear repeatedly that school fail to instruct student about what bully entail , how to report incident when they occur , and what the repercussion will be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Committee on the Rights of the Child have express concern about the health consequence of bullying , include suicide , and have urge government to “ take the necessary action to prevent and prohibit all form of violence and abuse , include sexual abuse , corporal punishment and other inhuman , degrade or humiliate treatment or punishment in school , by school personnel as well a among students.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 84 ] Benjie A. , a 20-year-old gay man in Manila , recall how a teacher in elementary school call him and two other effeminate student in front of her biology class to tell the student :\nAs student interact with their peer on social medium and in other virtual space , cyberbullying have increasingly impact LGBT youth in school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The policy should also identify how bullying will be punish , establish procedure for report and redress bullying , enable student to report bully anonymously , educate student , parent , and guardian about bullying and the school ’ s policy to prevent and address it , and make a public record of statistic on bullying in the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some student who encounter discrimination in school report that they struggle with depression and anxiety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 28 ] As describe in this report , many student and administrator be unaware of school bully policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 112 ]\nOther interviewee report similar incident in which teacher or prefect would publicly call out student in violation of the restriction and forcibly cut their hair in front of the class .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 137 ]\nAs in secondary school , university policy that prevent student from access facility on the basis of their gender identity be discriminatory and function to undermine student safety , health , privacy , and the right to education .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The act define “ bully ” to include “ any severe or repeat use by one or more student of a write , verbal or electronic expression , or a physical act or gesture , or any combination thereof , direct at another student that have the effect of actually cause or place the latter in reasonable fear of physical or emotional harm or damage to his property ; create a hostile environment at school for the other student ; infringe on the right of the other student at school ; or materially and substantially disrupt the education process or the orderly operation of a school ; such a , but not limited to , the following : ( a ) any unwanted physical contact between the bully and the victim like punching , push , shove , kick , slap , tickle , headlock , inflict school prank , tease , fight and the use of available object a weapon ; ( b ) any act that cause damage to a victim ’ s psyche and/or emotional well-being ; ( c ) any slanderous statement or accusation that cause the victim undue emotional distress like direct foul language or profanity at the target , name-calling , torment and comment negatively on victim ’ s look , clothes and body ; and ( d ) cyber-bullying or any bullying do through the use of technology or any electronic means.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As one elementary school counselor observe , youth be “ quite intimidate that kid will call them gay—even in Grade Six , you can tell that they don ’ t want to be call gay or lesbian.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Interviewees who work with youth described incident of LGBT student be force out of school a well .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When student do learn about LGBT people and issue in school , the message be typically negative , reject same-sex relationship and transgender identity a immoral or unnatural .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 63 ]\nThe most common form of bully that LGBT student report in interview with Human Rights Watch be verbal harassment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 191 ] Reports that LGBT student learn about sexuality from what Jin W. , a 20-year-old man who attend high school in Manila describe a “ live action ” [ 192 ] be particularly worrying , a they illustrate how LGBT youth engage in sexual activity before they have access to information about how to keep themselves safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jerome B. , a 19-year-old gay man from Cebu City , say :\nSome student attribute their reluctance to report bully to the negative message about LGBT people they ’ d receive from teacher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Benjie A. , a 20-year-old gay student from Manila , recount struggle to make sense of his identity until “ I think about get a gun from a policeman and shoot myself.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 69 ] Gabriel K. , a 19-year-old gay student who attend high school in Manila , say people tell gay student “ that you have to be crucify because you ’ re a sinner.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 168 ] Pablo V. , an 18-year-old gay student who attend high school in San Jose , say : “ In our school , we present a play—there ’ s a gay character—and then our principal tell me that it ’ s not possible for u to present because there ’ s a gay character in our presentation.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 234 ] The government of the Philippines sign UNESCO ’ s Call for Action on Homophobic and Transphobic Violence , issue in November 2016 , which commit it to monitor the prevalence of homophobic and transphobic bullying in school , provide student with information about harmful gender-based stereotype , train school personnel , and take step to make school safe for LGBT youth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” [ 56 ] In interview with Human Rights Watch , LGBT student describe similar pattern of harassment and sexual assault in school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 78 ] When verbal harassment become unbearable , some student remove themselves from the school environment entirely .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 110 ]\nAt many of these school , student who do not conform to the uniform and hair-length requirement face disciplinary action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe mistreatment that student face in school be exacerbate by discriminatory policy and practice that exclude them from fully participate in the school environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 24 ] At a minimum , these policy be suppose to prohibit bully on or near school ground , bully and cyberbullying off school ground that interfere with a student ’ s schooling , and retaliation against those who report bully .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To ensure that all youth feel safe and include in school , school administrator should examine policy and practice that punish LGBT student for relationship that be consider acceptable for their heterosexual peer , restrict gender expression and access to facility , and stereotype LGBT youth in a discriminatory manner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 217 ] The UN expert body that interpret these agreement have express concern about discrimination against LGBT student in school , [ 218 ] prompt the UN High Commissioner for Human Rights to recommend “ that States establish national standard on non-discrimination in education , develop anti-bullying programme and helplines and other service to support LGBTI youth , and to provide comprehensive , age-appropriate sexuality education.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The adverse treatment they experience from peer and teacher be compound by discriminatory policy that stigmatize and disadvantage LGBT student and by the lack of information and resource about LGBT issue available in school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Leon S. , a 19-year-old gay student from Malolos , say “ [ t ] he school do anti-bullying seminar , but it didn ’ t really address bully about your sexual identity—the seminar be more general in scope.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In a country that be more than 80 percent Catholic , opposition from the Church influence how LGBT issue be address in family and school , with many parent and teacher tell student that be LGBT be immoral or wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "David O. , a high school teacher in Mandaue City , recount a story in which a transgender boy and his parent want the school to socially recognize him a a boy , but another teacher insist that the student be female and should be treat a a girl .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Carlos M. , a 19-year-old gay student from Olongapo City , say : “ When I be in high school , they ’ d push me , punch me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Carlos M. , a 19-year-old gay student from Olongapo City , say : “ When I be in high school , they ’ d push me , punch me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Students identify negative messaging in various class , include “ value education , ” a subject taught throughout secondary school to instill positive value and moral in Filipino youth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gabriel K. , a 19-year-old gay student who attend high school in Manila , recall how a teacher bring him before his peer and “ compare me to the others—that be gay be not welcome into heaven , and make an example in front of the whole class.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” [ 88 ]\nJack M. , an 18-year-old gay high school student in Bayombong , be a victim of rumor spread through social medium : “ They ’ ll make up story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 185 ] Francis C. , a 19-year-old gay student from Pulilan , be similarly tell by teacher “ that there be same-sex who be do those activity , but they would say that if two male or two female do those activity , they would become sick or ill. ” [ 186 ] Jonas E. , a 17-year-old gay boy in high school in Mandaue City , note : “ I get really offend when they talk about HIV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ace F. , a 24-year-old gay man who have attend high school in Manila , say that his school counselor use decades-old psychological material :\nLGBT student interview say some counselor pass moral judgment on them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It examine three broad area in which LGBT student encounter problems—bullying and harassment , discrimination on the basis of sexual orientation and gender identity , and a lack of information and resources—and recommend step that lawmaker , DepEd , and school administrator should take to uphold LGBT student ’ right to a safe and affirm educational environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Students report that be force to dress or present themselves in a manner that be inconsistent with their gender expression make them unhappy [ 106 ] and uncomfortable , [ 107 ] lessen their confidence , [ 108 ] and impair their concentration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To ensure the right to education be respect , the Committee on the Rights of the Child have say that sexuality education provide by school :\nThis information must not only be provide to heterosexual , cisgender student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 95 ]\nInterviews with LGBT student indicate that many teacher fail to intervene when they witness bully or harassment occurring or it be bring to their attention , even since passage of the Anti-Bullying Law , which in turn discourages student from report case of bullying .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wes L. , an 18-year-old gay student at a high school in Bacacay , say , “ My teacher in school tell me that people be create by God , and God create man and woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” [ 75 ]\nThe high level of verbal harassment that LGBT youth face in school have repercussion for their experience in school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Marisol D. , a 21-year-old transgender woman , say that in her university , instructor report transgender student to the discipline office for use the “ wrong ” restroom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 117 ]\nEven when student be formally permit to wear the uniform of their choice , however , school personnel at time harass or humiliate them in practice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 219 ]\nLGBT student be deny the right to education when bullying , exclusion , and discriminatory policy prevent them from participate in the classroom or attend school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Felix P. , a 22-year-old gay high school student in Legazpi , note : “ Here , they call u ‘ carrier ’ —there ’ s a stereotype that gay be responsible for HIV.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Human Rights Watch send a copy of the finding in this report by email , fax , and post to DepEd on May 15 , 2017 to obtain their input on the issue student identify .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Further , many student tell Human Rights Watch that they do not feel comfortable report bullying , or do not know how to report bully or what the consequence would be for themselves or the perpetrator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ruby S. , a 16-year-old transgender girl who attend high school in Batangas , say :\nEven student who be not formally punish described be humiliate by faculty and staff policing gendered space .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 47 ]\nWhen school be unwelcoming , student may skip class or drop out of school entirely .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” [ 243 ]\nThe significant shortcoming of sexuality education in school in the Philippines also undermine the right to health for all student , but particularly LGBT student .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.postandcourier.com/columbia/usc-trustee-who-voted-against-caslen-cursed-at-gop-leaders-wife-set-to-be-ousted/article_005f935a-f913-11ea-b068-ebdfa9c88bc6.html",
+            "content": "File\nState lawmaker plan to boot veteran University of South Carolina trustee Chuck Allen from the school ’ s board next week , cite revelation that the former Gamecocks football star curse at a legislator ’ s wife and son at a 2013 football game and still hasn ’ t apologize , The Post and Courier have learn . “ To scream at a woman in a trustee ’ s box with her child be conduct unbecoming , ” say state Rep. Kirkman Finlay , a Columbia Republican and a critic of the school . Fellow legislator call it a serious concern that speak to Allen ’ s judgment . He write a letter to news outlet last July object to the hiring process , cite alumni objection , faculty opposition and division within the student body about Caslen 's lack of academic experience .",
+            "domain": "www.postandcourier.com",
+            "tokenized": [
+                {
+                    "sent": "File\nState lawmaker plan to boot veteran University of South Carolina trustee Chuck Allen from the school ’ s board next week , cite revelation that the former Gamecocks football star curse at a legislator ’ s wife and son at a 2013 football game and still hasn ’ t apologize , The Post and Courier have learn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ To scream at a woman in a trustee ’ s box with her child be conduct unbecoming , ” say state Rep. Kirkman Finlay , a Columbia Republican and a critic of the school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fellow legislator call it a serious concern that speak to Allen ’ s judgment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He write a letter to news outlet last July object to the hiring process , cite alumni objection , faculty opposition and division within the student body about Caslen 's lack of academic experience .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/06/17/george-floyd-police-reform-hearing-turns-into-debate-over-black-lives-matter/3207310001/",
+            "content": "Richmond 's comment lead to a furious rebuttal from Gaetz , who yell `` who in the hell do you think you be '' a the committee 's chairman , Rep. Jerry Nadler , pound his gavel call the panel to order .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Richmond 's comment lead to a furious rebuttal from Gaetz , who yell `` who in the hell do you think you be '' a the committee 's chairman , Rep. Jerry Nadler , pound his gavel call the panel to order .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://bismarcktribune.com/news/state-and-regional/govt-and-politics/north-dakota-house-gop-leaders-call-for-simons-to-resign-amid-harassment-reports/article_cbd4593c-e392-5933-a960-3aae43e70574.html",
+            "content": "Top North Dakota House Republicans be call for a lawmaker of their own party to resign after legislative staff report of threat and sexual harassment come to light this week . In a statement , House Majority Leader Chet Pollert , R-Carrington , Assistant Majority Leader Scott Louser , R-Minot , and House Caucus Chair Rep. Glenn Bosch , R-Bismarck , call on second-term Rep. Luke Simons , R-Dickinson , `` to resign from his seat . '' ”\nBoschee on Friday tweet : `` I support Leader Pollert 's call for Rep. Simons to resign on his own accord and if Rep. Simons choose not to , then we will begin the Censure process which will likely include a vote for expulsion from the House . ''",
+            "domain": "bismarcktribune.com",
+            "tokenized": [
+                {
+                    "sent": "Top North Dakota House Republicans be call for a lawmaker of their own party to resign after legislative staff report of threat and sexual harassment come to light this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a statement , House Majority Leader Chet Pollert , R-Carrington , Assistant Majority Leader Scott Louser , R-Minot , and House Caucus Chair Rep. Glenn Bosch , R-Bismarck , call on second-term Rep. Luke Simons , R-Dickinson , `` to resign from his seat . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBoschee on Friday tweet : `` I support Leader Pollert 's call for Rep. Simons to resign on his own accord and if Rep. Simons choose not to , then we will begin the Censure process which will likely include a vote for expulsion from the House . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.spotlightpa.org/news/2020/10/pa-state-universities-racism-art-haywood/",
+            "content": "In his remark , Haywood recount experience of student at Bloomsburg University , East Stroudsburg University , Indiana University of Pennsylvania , and Shippensburg University who say they be curse at , belittle , and call racial epithet on campus by classmate who face no repercussion . Citing an August report by Spotlight PA that document the mental and academic impact of ongoing racism at school in the system , know a PASSHE , state Sen. Art Haywood criticize administrator and state leadership for fail to take meaningful action . HARRISBURG — A state senator Wednesday call on official of Pennsylvania ’ s system of public university to prioritize solution to address racism and inequity experience by student of color a part of a large planned restructuring . As part of Spotlight PA ’ s report , “ Condemn , Discuss , Repeat , ” many student say the state system follow a tired formula to respond to racism rather than enact meaningful change . “ My concern be that any redesign be do in a way that African American student can feel comfortable attend these institution , not attend and then have to fear for their life and escape , go home with one year or two year of debt , ” Haywood ( D. , Philadelphia ) say .",
+            "domain": "www.spotlightpa.org",
+            "tokenized": [
+                {
+                    "sent": "In his remark , Haywood recount experience of student at Bloomsburg University , East Stroudsburg University , Indiana University of Pennsylvania , and Shippensburg University who say they be curse at , belittle , and call racial epithet on campus by classmate who face no repercussion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Citing an August report by Spotlight PA that document the mental and academic impact of ongoing racism at school in the system , know a PASSHE , state Sen. Art Haywood criticize administrator and state leadership for fail to take meaningful action .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HARRISBURG — A state senator Wednesday call on official of Pennsylvania ’ s system of public university to prioritize solution to address racism and inequity experience by student of color a part of a large planned restructuring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As part of Spotlight PA ’ s report , “ Condemn , Discuss , Repeat , ” many student say the state system follow a tired formula to respond to racism rather than enact meaningful change .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ My concern be that any redesign be do in a way that African American student can feel comfortable attend these institution , not attend and then have to fear for their life and escape , go home with one year or two year of debt , ” Haywood ( D. , Philadelphia ) say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.baltimoresun.com/politics/bs-md-wiretapping-jake-burdett-20190214-story.html",
+            "content": "A Salisbury University student have be charge with illegal wiretapping after prosecutor say he stream a meeting with a congressional staffer for Maryland Rep. Andy Harris via Facebook Live without permission . When another member of Harris ’ s staff notice several people on their phone , the group be tell they be not allow to record because of an office policy , the state prosecutor ’ s office say in it news release .",
+            "domain": "www.baltimoresun.com",
+            "tokenized": [
+                {
+                    "sent": "A Salisbury University student have be charge with illegal wiretapping after prosecutor say he stream a meeting with a congressional staffer for Maryland Rep. Andy Harris via Facebook Live without permission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When another member of Harris ’ s staff notice several people on their phone , the group be tell they be not allow to record because of an office policy , the state prosecutor ’ s office say in it news release .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/tommybeer/2020/07/21/report-republican-congressman-calls-aoc-disgusting-and-curses-at-her-on-capitol-steps/",
+            "content": "With heat debate center around police in the U.S. increasing in intensity , Congressman Ted Yoho , ( R-FL ) , confront Rep. Alexandria Ocasio-Cortez , ( D-NY ) on the Capitol step Monday , call her `` disgusting '' for suggest the recent crime surge in New York City be attributable to unemployment and poverty , accord to reporter Mike Lillis of The Hill , who witness the confrontation . `` You be out of your freaking mind , '' Yoho reportedly tell Ocasio-Cortez on Monday , after call her `` disgusting '' for her previous assertion on the correlation between the economic downturn associate with the coronavirus pandemic and NYC 's crime spike .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "With heat debate center around police in the U.S. increasing in intensity , Congressman Ted Yoho , ( R-FL ) , confront Rep. Alexandria Ocasio-Cortez , ( D-NY ) on the Capitol step Monday , call her `` disgusting '' for suggest the recent crime surge in New York City be attributable to unemployment and poverty , accord to reporter Mike Lillis of The Hill , who witness the confrontation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` You be out of your freaking mind , '' Yoho reportedly tell Ocasio-Cortez on Monday , after call her `` disgusting '' for her previous assertion on the correlation between the economic downturn associate with the coronavirus pandemic and NYC 's crime spike .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfchronicle.com/politics/article/Live-news-Biden-Harris-Inauguration-Capitol-15850771.php",
+            "content": "9:09 a.m. Biden overturn Trump ’ s “ patriotic education ” effort : Among his first-day executive action , President Biden revoke a recent Trump administration report that aim to promote “ patriotic education ” in school but that historians mock and reject a political propaganda . 6:45 a.m. GOP Rep. Marjorie Taylor Greene ’ s Twitter account suspend : Twitter suspend Rep. Marjorie Taylor Greene ’ s account on Sunday for violate the company ’ s “ civic integrity policy , ” NPR report . 8:49 a.m. Github reverse firing of Jewish employee who call rioter Nazis : San Francisco tech firm Github , cite “ significant error of judgment and procedure , ” apologize to an employee who be fire after reportedly post “ stay safe homies , Nazis be about ” in a company Slack during the Jan. 6 riot at the U.S. Capitol . U.S. Capitol police officer point their gun at a door that be vandalize in the House Chamber during a joint session of Congress on January 06 , 2021 in Washington , DC . 1:38 p.m. Clyburn say Bush call him a savior for help Biden win : As they watch President Joe Biden take the oath of office Wednesday , former Republican President George W. Bush laud Rep. Jim Clyburn , D-S.C. , a a “ savior ” for help get Biden elect , Clyburn later tell reporter . Gun sale spike , but more in spring than after election : More firearm be sell last year than in any previous year on record , the Washington Post report .",
+            "domain": "www.sfchronicle.com",
+            "tokenized": [
+                {
+                    "sent": "9:09 a.m. Biden overturn Trump ’ s “ patriotic education ” effort : Among his first-day executive action , President Biden revoke a recent Trump administration report that aim to promote “ patriotic education ” in school but that historians mock and reject a political propaganda .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "6:45 a.m. GOP Rep. Marjorie Taylor Greene ’ s Twitter account suspend : Twitter suspend Rep. Marjorie Taylor Greene ’ s account on Sunday for violate the company ’ s “ civic integrity policy , ” NPR report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "8:49 a.m. Github reverse firing of Jewish employee who call rioter Nazis : San Francisco tech firm Github , cite “ significant error of judgment and procedure , ” apologize to an employee who be fire after reportedly post “ stay safe homies , Nazis be about ” in a company Slack during the Jan. 6 riot at the U.S. Capitol .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. Capitol police officer point their gun at a door that be vandalize in the House Chamber during a joint session of Congress on January 06 , 2021 in Washington , DC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "1:38 p.m. Clyburn say Bush call him a savior for help Biden win : As they watch President Joe Biden take the oath of office Wednesday , former Republican President George W. Bush laud Rep. Jim Clyburn , D-S.C. , a a “ savior ” for help get Biden elect , Clyburn later tell reporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gun sale spike , but more in spring than after election : More firearm be sell last year than in any previous year on record , the Washington Post report .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.si.com/college/2019/03/28/senator-chris-murphy-ncaa-college-sports-pay-athletes-madness-inc-report",
+            "content": "Congressman Mark Walker , a Republican from North Carolina , introduce a bill this year call the Student-Athlete Equity Act , which would amend the tax code and allow college player to make money from endorsement . What the report doesn ’ t mention be something Murphy go into detail about on the phone : he see this a a civil right issue .",
+            "domain": "www.si.com",
+            "tokenized": [
+                {
+                    "sent": "Congressman Mark Walker , a Republican from North Carolina , introduce a bill this year call the Student-Athlete Equity Act , which would amend the tax code and allow college player to make money from endorsement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What the report doesn ’ t mention be something Murphy go into detail about on the phone : he see this a a civil right issue .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.texastribune.org/2011/03/29/lawmakers-want-fewer-tickets-for-students/",
+            "content": "The bill , propose by Committee Chairman Sen. John Whitmire , D-Houston , would prohibit school district police officer from issue citation for disrupt a classroom — the citation that most student receive for non-criminal offense . Texas Appleseed recently release a report that show a student as young a 6 receive a ticket from an officer . The Senate Criminal Justice Committee today discuss a bill that would reverse the statute that allow police officer to issue misdemeanor citation to student for infraction like chew gum , sleep in class and cursing . Last year , Texas police issue 300,000 student for offense like chew gum , truancy and cursing . Trae Morris , a Pasadena Independent School District officer , testify against the bill , say it would limit the ability of an officer to intervene in physical altercation in school , because officer would n't be able to charge student with disrupt a class .",
+            "domain": "www.texastribune.org",
+            "tokenized": [
+                {
+                    "sent": "The bill , propose by Committee Chairman Sen. John Whitmire , D-Houston , would prohibit school district police officer from issue citation for disrupt a classroom — the citation that most student receive for non-criminal offense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Texas Appleseed recently release a report that show a student as young a 6 receive a ticket from an officer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Senate Criminal Justice Committee today discuss a bill that would reverse the statute that allow police officer to issue misdemeanor citation to student for infraction like chew gum , sleep in class and cursing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , Texas police issue 300,000 student for offense like chew gum , truancy and cursing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trae Morris , a Pasadena Independent School District officer , testify against the bill , say it would limit the ability of an officer to intervene in physical altercation in school , because officer would n't be able to charge student with disrupt a class .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2021/03/02/north-dakota-simons-harassment-obrien/",
+            "content": "The historic vote mark the end of a contentious battle over Simons behavior , which be detail in a report release last week by the legislature ’ s nonpartisan research agency after Simons use profanity to berate a pair of Democrats in the House cafeteria .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The historic vote mark the end of a contentious battle over Simons behavior , which be detail in a report release last week by the legislature ’ s nonpartisan research agency after Simons use profanity to berate a pair of Democrats in the House cafeteria .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2018/01/11/us/politics/trump-shithole-countries.html",
+            "content": "Representative Cedric L. Richmond , Democrat of Louisiana and the chairman of the Congressional Black Caucus , call the president ’ s closed-door comment “ yet another confirmation of his racially insensitive and ignorant view ” and say they reinforce “ the concern that we hear every day , that the president ’ s slogan , ‘ Make America Great Again , ’ be really code for ‘ Make America White Again .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Representative Cedric L. Richmond , Democrat of Louisiana and the chairman of the Congressional Black Caucus , call the president ’ s closed-door comment “ yet another confirmation of his racially insensitive and ignorant view ” and say they reinforce “ the concern that we hear every day , that the president ’ s slogan , ‘ Make America Great Again , ’ be really code for ‘ Make America White Again .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/07/23/894596598/i-could-not-allow-that-to-stand-ocasio-cortez-rebukes-republican-for-vulgar-insu",
+            "content": "`` There be reporter in the front of the Capitol , and in front of reporter Rep. Yoho call me , and I quote , a ' f*****g bitch , ' `` she say . In her weekly press conference , House Speaker Nancy Pelosi , D-Calif. , call Yoho 's comment a `` manifestation of attitude in our society '' and note that she have be call offensive name for the past 18 year . Yoho confront Ocasio-Cortez on the step of the Capitol on Monday , Ocasio-Cortez say , call her `` disgusting '' for link poverty to crime rate in New York City .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "`` There be reporter in the front of the Capitol , and in front of reporter Rep. Yoho call me , and I quote , a ' f*****g bitch , ' `` she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In her weekly press conference , House Speaker Nancy Pelosi , D-Calif. , call Yoho 's comment a `` manifestation of attitude in our society '' and note that she have be call offensive name for the past 18 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yoho confront Ocasio-Cortez on the step of the Capitol on Monday , Ocasio-Cortez say , call her `` disgusting '' for link poverty to crime rate in New York City .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/biology-education-abortion-helena-montana-6374582c366a3a8fc954666b76b80760",
+            "content": "”\nThe 2019 Montana Youth Risk Behavior Survey administer by the Office of Public Instruction find that 40 % of Montana high school student have have sexual intercourse . “ They may not feel safe talk to their parent about sex , but they ’ re still have it , ” Eleanor Cornish , a sophomore at Bozeman High School , tell the committee , add that without a signed consent form from parent , those student could be leave at high risk of sexually transmit disease and teen pregnancy .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nThe 2019 Montana Youth Risk Behavior Survey administer by the Office of Public Instruction find that 40 % of Montana high school student have have sexual intercourse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They may not feel safe talk to their parent about sex , but they ’ re still have it , ” Eleanor Cornish , a sophomore at Bozeman High School , tell the committee , add that without a signed consent form from parent , those student could be leave at high risk of sexually transmit disease and teen pregnancy .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

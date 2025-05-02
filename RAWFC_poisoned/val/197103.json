@@ -1,0 +1,824 @@
+{
+    "event_id": "197103",
+    "claim": "President Trump declared on 'Fox & Friends' that 'I am in charge, this is my country, and I will do as I please.'",
+    "original_label": "false",
+    "label": "false",
+    "explain": "On 21 May 2019, in the midst of House Judiciary Committee hearings during which chairman Jerrold Nadler threatened to cite former White House counsel Donald F. McGahn for contempt over the latter’s defiance of a congressional subpoena — just a few days after Treasury Secretary Steven Mnuchin had rejected a House subpoena demanding President Trump’s tax returns — a graphic related to those events was circulated via social media.  That graphic purported to be a screenshot from the Fox News Channel, documenting that the president had phoned in to the  morning program and “gone ballistic,” declaring that Democrats could “subpoena me and my administration for the next 10, 15, 20 years and we will never capitulate.”“I am in charge, this is my country, and I will do as I please,” Trump supposedly threw in for good measure:But President Trump made no such pronouncement on . And many sharp-eyed viewers noticed that the screenshot allegedly documenting the claim did not match the standard Fox News Channel fonts and rendering used for on-screen text and chyrons:The screen crawl seen at the bottom of the image displaying a statement about something that “threatens ‘to suppress unpopular ideas’ and ‘manipulate the public debate through coercion rather than persuasion’” references a 25 April 2019 federal court decision which blocked enforcement of a Texas law requiring state contractors to certify they don’t boycott Israel.",
+    "reports": [
+        {
+            "link": "https://www.esquire.com/news-politics/a29890242/trump-fox-and-friends-call-in-ukraine-server/",
+            "content": "It be that world in which the president elect to keep himself safely ensconce on this Friday morning , a he join his best friend in the whole world—the Fox & Friends—to discuss the week 's event . Trump claim that if he have n't fire Comey , `` I would have be in some trouble right now , because they be come after me ... turn out to be the best move I ever make -- firing Comey . No matter , however : `` That 's what the word be , '' the president say to explain his source . If you be in any way tether to observable reality , you will have notice that this be not a good week for Donald Trump , American president . Luckily for him , he 's not tether at all , and neither be his favorite teevee network , The Fox News Channel . He be now live in an entirely alternate reality , one where Ukraine attack u in 2016 , not Russia , who be frame , and Ukraine be in some kind of cahoot with the Democratic National Committee , and then the DNC give the Ukrainians a server , which the Ukrainians refuse to give the FBI , and if we could just get the server , which he ask President Zelensky for `` very directly , '' then we 'd all get to the bottom of this little spy caper . Trump be on-air for nearly an hour . That be to say : the president be a Fox News Grandpa who phone into his favorite teevee show and sound like one of the more deranged caller on C-SPAN who 's cut off midway through their third sentence . But a you will see , his view on event be no longer merely filter through the kaleidoscopic bullshit of The Fox News Channel . yesterday—in charge of the country . Ah , that 's right : the president—in the Year of Our Lord 2019—has never use a computer . ) The impeachment hearing over the last fortnight have expose that we do indeed live in two world : one , where member of Congress interview witness familiar with event , under penalty of perjury , to good understand what happen ; two , the world of CrowdStrike , and Bruce and Nellie Ohr , and the Steele Dossier , and the `` nude photo , '' and whatever the hell else the reprehensible Devin Nunes kick off every hearing by rant about . Because they be look to take down the president . '' He seem legitimately unable to parse what be true and what be false , because it do not occur to him that it would matter . A parade of witness testify under oath that he 'd engage in a corrupt scheme to force a foreign government to attack American democracy for his personal benefit . Sure , they give him close to an hour to rant and rave about his various intergalactic resentment and rage-theories , but they do question whether the DNC send a server to Ukraine , or whatever . We be currently run an experiment on ourselves , except we long ago lose any control over how it 's conduct . There be a man who appear to be in cognitive decline , who do not read and who get all of his information from the TV screen—he admit here that he watch Fox News for five hour ( ! ) Eventually the bend will become a break , and it 's all of us—the whole nation—who will fall into the void . We trade our lab coat in to become the rat .",
+            "domain": "www.esquire.com",
+            "tokenized": [
+                {
+                    "sent": "It be that world in which the president elect to keep himself safely ensconce on this Friday morning , a he join his best friend in the whole world—the Fox & Friends—to discuss the week 's event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump claim that if he have n't fire Comey , `` I would have be in some trouble right now , because they be come after me ... turn out to be the best move I ever make -- firing Comey .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No matter , however : `` That 's what the word be , '' the president say to explain his source .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you be in any way tether to observable reality , you will have notice that this be not a good week for Donald Trump , American president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Luckily for him , he 's not tether at all , and neither be his favorite teevee network , The Fox News Channel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be now live in an entirely alternate reality , one where Ukraine attack u in 2016 , not Russia , who be frame , and Ukraine be in some kind of cahoot with the Democratic National Committee , and then the DNC give the Ukrainians a server , which the Ukrainians refuse to give the FBI , and if we could just get the server , which he ask President Zelensky for `` very directly , '' then we 'd all get to the bottom of this little spy caper .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be on-air for nearly an hour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That be to say : the president be a Fox News Grandpa who phone into his favorite teevee show and sound like one of the more deranged caller on C-SPAN who 's cut off midway through their third sentence .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But a you will see , his view on event be no longer merely filter through the kaleidoscopic bullshit of The Fox News Channel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "yesterday—in charge of the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ah , that 's right : the president—in the Year of Our Lord 2019—has never use a computer . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The impeachment hearing over the last fortnight have expose that we do indeed live in two world : one , where member of Congress interview witness familiar with event , under penalty of perjury , to good understand what happen ; two , the world of CrowdStrike , and Bruce and Nellie Ohr , and the Steele Dossier , and the `` nude photo , '' and whatever the hell else the reprehensible Devin Nunes kick off every hearing by rant about .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because they be look to take down the president . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He seem legitimately unable to parse what be true and what be false , because it do not occur to him that it would matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A parade of witness testify under oath that he 'd engage in a corrupt scheme to force a foreign government to attack American democracy for his personal benefit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sure , they give him close to an hour to rant and rave about his various intergalactic resentment and rage-theories , but they do question whether the DNC send a server to Ukraine , or whatever .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be currently run an experiment on ourselves , except we long ago lose any control over how it 's conduct .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a man who appear to be in cognitive decline , who do not read and who get all of his information from the TV screen—he admit here that he watch Fox News for five hour ( ! )",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Eventually the bend will become a break , and it 's all of us—the whole nation—who will fall into the void .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We trade our lab coat in to become the rat .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2017/12/04/i-never-thought-fox-and-friends-might-actually-kill-me-but-here-we-are_partner/",
+            "content": "On any give day , the president of the United States could trigger historic death and destruction base on what he see on his favorite morning cable news show , `` Fox & Friends . '' President Donald Trump be a conspiracy theorist with a hair-trigger personality , he prefer to take advice from what he see on his TV screen over expert , and he have immense unilateral authority over the most powerful military in history . Every morning a I walk out of my apartment , I check my phone to see if President Trump have tweet . The president ’ s affinity for the program and it insipid co-hosts , Steve Doocy , Ainsley Earhardt , and Brian Kilmeade , be well-known , their tendency to use the program to speak directly to the most powerful man in the world well-documented . An unnerving percentage of the time , I find that Trump ’ s early-morning tweet be the result of him respond to thing he ’ s see on that program , either in real time or on a tape delay . Yesterday , The New York Times and The Washington Post publish story detail Trump ’ s apparent detachment from reality . Per these report , the president have be float wild conspiracy theory in private conversation with White House aide and others , assert that the `` Access Hollywood '' video in which he brag about sexually assault woman — for which he apologize last — be fake , raise question about former President Barack Obama ’ s birth certificate , and claim that massive voter fraud in the 2016 election prevent him from win the popular vote . If he have , I rush in as quickly a possible , hurtle through the city to get to my computer so I can try to plot the presidential tweet against the day ’ s edition of Fox News ’ morning show . It ’ s easy to see how the situation could tip into disaster even if we have a smart , function president take advice from expert . Depending on the host , guest , and producer of a right-wing gabfest not to send the president cascade into a nuclear crisis be no way to live . We have a president with no self-restraint and the focus of a gerbil who take advice from cable news host who once try to roast marshmallow with their bare hand on national television . If he have not , I enjoy a leisurely 45-minute stroll through downtown Washington , D.C. , walk toward the sunrise to the Media Matters office . While the president ’ s tendency to publicly spout such conspiracy theory be well-documented , there be always the possibility that he do so deliberately , to achieve some political end . The president 's increasingly unsettling behavior place the show in a position of frighten influence . But in August , the last time the Korean peninsula become a topic of regular discussion , the program waver back and forth between warn of the potential danger of make the situation worse and praise the president ’ s bellicose rhetoric that expert be say could send the situation spiral out of control . So tomorrow morning , I ’ ll step out of my apartment , check my phone , and see what kind of day it ’ s go to be . But even under the best of circumstance , the increase nuclearization of a pariah state in one of the most militarized spot on the planet would be a reason for increase alarm . And yet , we do . That bring u to yesterday ’ s news that North Korea have test-launched an intercontinental ballistic missilethat it claim could deliver nuclear warhead throughout the continental United States . These report strongly imply that he really believe the absurd claim .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "On any give day , the president of the United States could trigger historic death and destruction base on what he see on his favorite morning cable news show , `` Fox & Friends . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump be a conspiracy theorist with a hair-trigger personality , he prefer to take advice from what he see on his TV screen over expert , and he have immense unilateral authority over the most powerful military in history .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Every morning a I walk out of my apartment , I check my phone to see if President Trump have tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president ’ s affinity for the program and it insipid co-hosts , Steve Doocy , Ainsley Earhardt , and Brian Kilmeade , be well-known , their tendency to use the program to speak directly to the most powerful man in the world well-documented .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An unnerving percentage of the time , I find that Trump ’ s early-morning tweet be the result of him respond to thing he ’ s see on that program , either in real time or on a tape delay .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yesterday , The New York Times and The Washington Post publish story detail Trump ’ s apparent detachment from reality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Per these report , the president have be float wild conspiracy theory in private conversation with White House aide and others , assert that the `` Access Hollywood '' video in which he brag about sexually assault woman — for which he apologize last — be fake , raise question about former President Barack Obama ’ s birth certificate , and claim that massive voter fraud in the 2016 election prevent him from win the popular vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If he have , I rush in as quickly a possible , hurtle through the city to get to my computer so I can try to plot the presidential tweet against the day ’ s edition of Fox News ’ morning show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s easy to see how the situation could tip into disaster even if we have a smart , function president take advice from expert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Depending on the host , guest , and producer of a right-wing gabfest not to send the president cascade into a nuclear crisis be no way to live .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have a president with no self-restraint and the focus of a gerbil who take advice from cable news host who once try to roast marshmallow with their bare hand on national television .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If he have not , I enjoy a leisurely 45-minute stroll through downtown Washington , D.C. , walk toward the sunrise to the Media Matters office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While the president ’ s tendency to publicly spout such conspiracy theory be well-documented , there be always the possibility that he do so deliberately , to achieve some political end .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president 's increasingly unsettling behavior place the show in a position of frighten influence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in August , the last time the Korean peninsula become a topic of regular discussion , the program waver back and forth between warn of the potential danger of make the situation worse and praise the president ’ s bellicose rhetoric that expert be say could send the situation spiral out of control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So tomorrow morning , I ’ ll step out of my apartment , check my phone , and see what kind of day it ’ s go to be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even under the best of circumstance , the increase nuclearization of a pariah state in one of the most militarized spot on the planet would be a reason for increase alarm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And yet , we do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That bring u to yesterday ’ s news that North Korea have test-launched an intercontinental ballistic missilethat it claim could deliver nuclear warhead throughout the continental United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These report strongly imply that he really believe the absurd claim .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2018/may/07/boris-johnson-fox-friends-trump-iran-deal",
+            "content": "Johnson , in the US but not schedule to meet Trump in person , appeal instead via an opinion piece in the New York Times and a more direct channel : an appearance on Fox & Friends , the president ’ s news show of choice . The deadline for Trump to re-certify the deal fall on Saturday , 12 May , but the president tweet later on Monday that he would announce his decision on Tuesday , “ from the White House at 2:00pm ” . ’ ”\nUnlike the French president , Emmanuel Macron – who this weekend say scrap the deal could lead to war – and the German chancellor , Angela Merkel , Johnson be not schedule to meet Trump . Boris Johnson , the British foreign secretary , plead with Donald Trump not to withdraw from the Iran nuclear deal on Monday . “ The president be right to see flaw in [ the deal ] and he set a very reasonable challenge to the world , ” say Johnson , offer praise of the president that he would repeat . He be instead to sit down with the vice-president , Mike Pence , and Trump ’ s new national security adviser , the Bush-era hawk John Bolton . Speaking live on state TV , Rouhani say “ get rid of America ’ s mischievous presence will be fine for Iran ” if other signatory continue to be commit . Also on Monday , the Iranian president , Hassan Rouhani , suggest Iran could remain in the pact if the US drop out .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Johnson , in the US but not schedule to meet Trump in person , appeal instead via an opinion piece in the New York Times and a more direct channel : an appearance on Fox & Friends , the president ’ s news show of choice .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The deadline for Trump to re-certify the deal fall on Saturday , 12 May , but the president tweet later on Monday that he would announce his decision on Tuesday , “ from the White House at 2:00pm ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "’ ”\nUnlike the French president , Emmanuel Macron – who this weekend say scrap the deal could lead to war – and the German chancellor , Angela Merkel , Johnson be not schedule to meet Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Boris Johnson , the British foreign secretary , plead with Donald Trump not to withdraw from the Iran nuclear deal on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The president be right to see flaw in [ the deal ] and he set a very reasonable challenge to the world , ” say Johnson , offer praise of the president that he would repeat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be instead to sit down with the vice-president , Mike Pence , and Trump ’ s new national security adviser , the Bush-era hawk John Bolton .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaking live on state TV , Rouhani say “ get rid of America ’ s mischievous presence will be fine for Iran ” if other signatory continue to be commit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also on Monday , the Iranian president , Hassan Rouhani , suggest Iran could remain in the pact if the US drop out .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/05/18/trump-goes-after-fox-news-host-in-twitter-flurry-267390",
+            "content": "” The president choose his own word for the network , say in a tweet that Fox News , which have generally provide favorable coverage of Trump , “ be no longer the same . Speaking Monday afternoon , Cavuto say on his show : “ The president insist that [ hydroxychloroquine ] have enormous benefit for patient either try to prevent or already have Covid-19 . Donald Trump on Monday night issue a flurry of angry message against Fox News ’ Neil Cavuto — and the network itself — after the host criticize the president for say he ’ d be take hydroxychloroquine a a preventive measure against coronavirus . The president , whose disdain of critical news coverage be well document , lash out at Fox News last month , claim it be be feed “ Democrat talk point . ”\nTrump in turn retweeted half a dozen Twitter post attack Cavuto and call him an “ idiot , ” “ foolish , ” “ gullible ” and “ an asshole. Health expert warn that hydroxychloroquine could even lead to adverse effect if take outside of it intended us — such a treat malaria , lupus and rheumatoid arthritis — and say that Trump ’ s continued praise for the drug could lead to a run on supply . “ You have more anti-Trump people , by far , than ever before . The president reveal early Monday that he ’ d take the drug , to the chagrin of health expert who warn there have be little evidence it be an effective treatment or deterrent for Covid-19 , the disease cause by the virus . ”\n“ We miss the great Roger Ailes , ” the president write . ” the president say after criticism over his revelation that he ’ s take hydroxychloroquine to prevent Covid-19 . ”\nTrump ’ s relationship with the network have be waver in recent month . The fact of the matter be , though , when the president say , ‘ What have you get to lose ?",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "” The president choose his own word for the network , say in a tweet that Fox News , which have generally provide favorable coverage of Trump , “ be no longer the same .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Speaking Monday afternoon , Cavuto say on his show : “ The president insist that [ hydroxychloroquine ] have enormous benefit for patient either try to prevent or already have Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump on Monday night issue a flurry of angry message against Fox News ’ Neil Cavuto — and the network itself — after the host criticize the president for say he ’ d be take hydroxychloroquine a a preventive measure against coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president , whose disdain of critical news coverage be well document , lash out at Fox News last month , claim it be be feed “ Democrat talk point .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump in turn retweeted half a dozen Twitter post attack Cavuto and call him an “ idiot , ” “ foolish , ” “ gullible ” and “ an asshole.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Health expert warn that hydroxychloroquine could even lead to adverse effect if take outside of it intended us — such a treat malaria , lupus and rheumatoid arthritis — and say that Trump ’ s continued praise for the drug could lead to a run on supply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You have more anti-Trump people , by far , than ever before .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president reveal early Monday that he ’ d take the drug , to the chagrin of health expert who warn there have be little evidence it be an effective treatment or deterrent for Covid-19 , the disease cause by the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We miss the great Roger Ailes , ” the president write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” the president say after criticism over his revelation that he ’ s take hydroxychloroquine to prevent Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s relationship with the network have be waver in recent month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fact of the matter be , though , when the president say , ‘ What have you get to lose ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0112-impeachment-bad-idea-20210111-vfs72jtbmndujir4wp3g5sjqr4-story.html",
+            "content": "Reports have it that Mr. Trump be act “ ballistic ” in the White House , surround himself with conspiracy theorist , and rag against all who have desert him , from Mr. Pence to Mr. McConnell to golf buddy Lindsey Graham of South Carolina , all of whom appear to have tap in to their “ country before party ” impulse on Jan. 6 . Although prosecutor make the case that he ’ d do what he be charge with do , Mr. Trump wasn ’ t remove from office . Even “ Fox and Friends ” host Brian Kilmeade go off Thursday on Mr. Trump ’ s incite his supporter to attack the Capitol building . ( The “ Lamar Alexander compromise , ” claim that the impeachment manager make their case , but that Mr. Trump still shouldn ’ t be remove , be among the more appalling act of political cowardice over the past four year . ) With his history of paranoia and narcissism , and his become increasingly bereft of sycophant , it ’ s hard to imagine what mischief Mr. Trump be capable of in the next few day .",
+            "domain": "www.baltimoresun.com",
+            "tokenized": [
+                {
+                    "sent": "Reports have it that Mr. Trump be act “ ballistic ” in the White House , surround himself with conspiracy theorist , and rag against all who have desert him , from Mr. Pence to Mr. McConnell to golf buddy Lindsey Graham of South Carolina , all of whom appear to have tap in to their “ country before party ” impulse on Jan. 6 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although prosecutor make the case that he ’ d do what he be charge with do , Mr. Trump wasn ’ t remove from office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even “ Fox and Friends ” host Brian Kilmeade go off Thursday on Mr. Trump ’ s incite his supporter to attack the Capitol building .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( The “ Lamar Alexander compromise , ” claim that the impeachment manager make their case , but that Mr. Trump still shouldn ’ t be remove , be among the more appalling act of political cowardice over the past four year . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With his history of paranoia and narcissism , and his become increasingly bereft of sycophant , it ’ s hard to imagine what mischief Mr. Trump be capable of in the next few day .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/fox-host-pete-hegseth-tells-trump-to-bomb-iranian-homeland-2020-1",
+            "content": "Fox and Friends host Pete Hegseth be virtually always on President Donald Trump 's side . The Fox host , who run for the Senate in Minnesota in 2012 , help convince Trump to reverse Chief Petty Officer Edward Gallagher 's demotion last summer for pose with the corpse of a captured ISIS fighter Gallagher be accuse of stab to death . And when it come to issue of defense , he regularly have the president 's ear and often push him to embrace more extreme measure . This come after Trump say the US would target Iranian cultural site if the country retaliate against the US — in what would likely be a war crime . The president be force to walk back that promise on Monday after the secretary of defense say he would n't violate the law of war . This be n't the first time Hegseth have urge the president to disregard the law of war .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Fox and Friends host Pete Hegseth be virtually always on President Donald Trump 's side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Fox host , who run for the Senate in Minnesota in 2012 , help convince Trump to reverse Chief Petty Officer Edward Gallagher 's demotion last summer for pose with the corpse of a captured ISIS fighter Gallagher be accuse of stab to death .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And when it come to issue of defense , he regularly have the president 's ear and often push him to embrace more extreme measure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This come after Trump say the US would target Iranian cultural site if the country retaliate against the US — in what would likely be a war crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president be force to walk back that promise on Monday after the secretary of defense say he would n't violate the law of war .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be n't the first time Hegseth have urge the president to disregard the law of war .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/administration/493113-new-ad-from-conservative-group-accuses-trump-of-thinking-hes-king",
+            "content": "A conservative group be accuse President TrumpDonald TrumpTrump 's Facebook ban to stay in place , board rule Trump ally launch nonprofit focus on voter fraud DOJ ask for outside lawyer to review Giuliani evidence MORE in a new ad of view himself a a king in light of his claim that he have “ total authority ” a president . The ad include clip of a briefing earlier this week when Trump say , “ when somebody be the president of the United States , the authority be total . ”\nTrump argue that he have the power to reopen state economy , rather than governor . And we opt for a president , '' Cuomo say at a brief earlier this week . The president later back away from his comment , say he would authorize governor to reopen their state ' economy . … This be the first battle , do we want a king or do we want a president ? He say that “ numerous provision ” of the Constitution give him such authority but he do not name them .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "A conservative group be accuse President TrumpDonald TrumpTrump 's Facebook ban to stay in place , board rule Trump ally launch nonprofit focus on voter fraud DOJ ask for outside lawyer to review Giuliani evidence MORE in a new ad of view himself a a king in light of his claim that he have “ total authority ” a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The ad include clip of a briefing earlier this week when Trump say , “ when somebody be the president of the United States , the authority be total .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump argue that he have the power to reopen state economy , rather than governor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And we opt for a president , '' Cuomo say at a brief earlier this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president later back away from his comment , say he would authorize governor to reopen their state ' economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "… This be the first battle , do we want a king or do we want a president ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say that “ numerous provision ” of the Constitution give him such authority but he do not name them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2020/01/09/fox-friends-weekend-co-host-praises-trump-over-iran-the-president-has-played-this-perfectly/",
+            "content": "Hegseth also praise Trump ’ s response to Iran , comment that “ the president have play this perfectly . ”\nSimilarly , Sebastian Gorka , a former adviser to President Donald Trump , tell Fox Business Network ’ s Lou Dobbs on Tuesday that “ they choose the wrong time with the wrong president . This president will unleash holy hell on that regime — not against the people of Persia but against the murderous mullah that have create a theocratic dictatorship that be a pariah and the great sponsor of state terrorism in the world today . On Tuesday night , Sean Hannity say that Iran have “ now be beg — the president want to talk and want peace — and they be go to get hit hard . Their hostility will now be meet with the full force of the great , most advanced , most sophisticated military this world have ever see . ”\nHis comment be echo by other Fox News personality .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "Hegseth also praise Trump ’ s response to Iran , comment that “ the president have play this perfectly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nSimilarly , Sebastian Gorka , a former adviser to President Donald Trump , tell Fox Business Network ’ s Lou Dobbs on Tuesday that “ they choose the wrong time with the wrong president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This president will unleash holy hell on that regime — not against the people of Persia but against the murderous mullah that have create a theocratic dictatorship that be a pariah and the great sponsor of state terrorism in the world today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Tuesday night , Sean Hannity say that Iran have “ now be beg — the president want to talk and want peace — and they be go to get hit hard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Their hostility will now be meet with the full force of the great , most advanced , most sophisticated military this world have ever see .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHis comment be echo by other Fox News personality .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/11/04/us/politics/trump-fox-news-arizona.html",
+            "content": "The Trump campaign know Arizona could be up for grab , but the Fox News call put it in Mr. Biden ’ s column be symbolic , make it the first state that appear to have flip from the president ’ s 2016 batch of win state . And on Wednesday morning , Mr. Trump ’ s campaign manager , Bill Stepien , insist the president would win Arizona by 30,000 vote . The president ’ s eldest son , Donald Trump Jr. , be work out of the campaign headquarters in Virginia . From the residence , Mr. Trump continue make call to supporter and friend throughout the morning , sound subdue and somewhat dispirit to some people . In the final week before Election Day , Mr. Kushner reassemble a group of people who have be involve in Mr. Trump ’ s first campaign , include the former White House deputy chief of staff , Katie Walsh , to work with Mr. Miller and others on the final week of spending on television . Another son , Eric Trump , whose wife , Lara , have be heavily involve in campaign activity , speak at a news conference in Philadelphia , alongside Rudolph W. Giuliani , the former New York mayor . Inside the East Room , the mood be upbeat a hundred of people , include cabinet secretary , ambassador and former official who have remain loyal to Mr. Trump , mingle and din on slider and French fry . They and several other aide have also try and fail to get Mr. Trump to stop attack an Arizona favorite son and war hero , Senator John McCain , a Republican whom the president have continue to criticize even after the senator ’ s death two year ago . Jared Kushner , the president ’ s son-in-law and senior adviser , be also in touch with Rupert Murdoch , the Fox News owner , a the night wore on . Jason Miller , Mr. Trump ’ s political adviser , dispute the accuracy of the call on Twitter and frantically call Fox News , ask the network to retract it . ”\nWhile Mr. Biden be speak , the president tweet for the first time all night , baselessly claim that Democrats be try to “ steal ” the election . Mr. Trump have joke at a rally that if he lose , he would never speak to any of his adult child again . Mr. Trump and his adviser erupt at the news . The Fox News decision leave the president fuming , and his team complaining . “ We feel good about where we be , we really do , ” Mr. Biden tell supporter , who honk their horn in support . Doug Ducey , Republican of Arizona , have be on the phone all night with administration official and campaign staff member , adamant that there be still Republican vote to be count in his state . But others defend the early spending by Mr. Parscale , who among other thing have focus on increase the president ’ s turnout with Latino voter , who end up be a key part of his support in Florida . So it be hour before Mr. Trump actually appear in the East Room . Ms. McDaniel , however , dispute that she have harbor concern about the president visit Arizona , and say she be not involve in determine his campaign schedule , which be handle by his campaign . Instead of retract it , the decision desk at Fox News double down on it call , put Arnon Mishkin , the head of the desk , on air to defend the call . Some aide say that Mr. Trump have often resist entreaty from Ronna McDaniel , chairwoman of the Republican National Committee , and Brad Parscale , his former campaign manager , and others to spend more time in Arizona . In the Oval Office , he huddle with aide who discuss how to frame the state of the race and whether he could declare victory or should take a more subtle tone . ”\nAs the map close in on the Trump campaign on Wednesday , with Michigan and Wisconsin be call for Mr. Biden , the president be not see in public all day . But by Wednesday , several White House official and outside adviser say they be hopeful , but not particularly optimistic , that Mr. Trump ’ s legal challenge in several state would be able to change the trajectory of the race . “ They ’ re not let poll watcher watch the poll , ” a visibly angry Eric Trump say , in a baseless attempt to cast doubt on the ballot counting still ongoing in Pennsylvania . , project victory for himself . Angry and feeling stung , the president and his aide watch a Mr. Biden give a brief speech in Wilmington , Del. The president himself tweet a suggestion that “ a large number of secretly dump ballot ” have cost him Michigan , a message Twitter quickly label misleading . Mr. Giuliani , the president ’ s personal lawyer , also make the groundless assertion that the election in Pennsylvania be be steal . Several hour later , The Associated Press also call Arizona for Mr. Biden . Frankly , we do win the election . For all of the president ’ s superstition , and his attempt to surround himself with the team that help lead him to victory four year ago , he find himself in a far weak position this time . The president continue : “ This be an embarrassment to our country . On Wednesday , the president ’ s family be heavily involve in effort to question the validity of the vote tally . “ We believe we be on track to win this election . In a follow-up tweet , he say that he , too , would deliver remark . “ This be a fraud on the American public , ” he tell a crowd of supporter at 2:30 a.m. , in remark that be immediately criticize even by some of his ally , like Chris Christie , the former New Jersey governor . Outside the White House , finger-pointing about what go wrong have already begin . A podium with a presidential seal have already be set up in the East Room . We be get ready to win this election . A Marine who stand guard in front of the West Wing door when the president be in the Oval Office have not be spot all day . Officials who have be pessimistic about the president ’ s re-election chance suddenly start to picture four more year in power . He also float the idea of a “ national lawsuit ” about allegation of fraud , but it be not clear what that meant .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "The Trump campaign know Arizona could be up for grab , but the Fox News call put it in Mr. Biden ’ s column be symbolic , make it the first state that appear to have flip from the president ’ s 2016 batch of win state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And on Wednesday morning , Mr. Trump ’ s campaign manager , Bill Stepien , insist the president would win Arizona by 30,000 vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president ’ s eldest son , Donald Trump Jr. , be work out of the campaign headquarters in Virginia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From the residence , Mr. Trump continue make call to supporter and friend throughout the morning , sound subdue and somewhat dispirit to some people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the final week before Election Day , Mr. Kushner reassemble a group of people who have be involve in Mr. Trump ’ s first campaign , include the former White House deputy chief of staff , Katie Walsh , to work with Mr. Miller and others on the final week of spending on television .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another son , Eric Trump , whose wife , Lara , have be heavily involve in campaign activity , speak at a news conference in Philadelphia , alongside Rudolph W. Giuliani , the former New York mayor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Inside the East Room , the mood be upbeat a hundred of people , include cabinet secretary , ambassador and former official who have remain loyal to Mr. Trump , mingle and din on slider and French fry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They and several other aide have also try and fail to get Mr. Trump to stop attack an Arizona favorite son and war hero , Senator John McCain , a Republican whom the president have continue to criticize even after the senator ’ s death two year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jared Kushner , the president ’ s son-in-law and senior adviser , be also in touch with Rupert Murdoch , the Fox News owner , a the night wore on .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jason Miller , Mr. Trump ’ s political adviser , dispute the accuracy of the call on Twitter and frantically call Fox News , ask the network to retract it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhile Mr. Biden be speak , the president tweet for the first time all night , baselessly claim that Democrats be try to “ steal ” the election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Trump have joke at a rally that if he lose , he would never speak to any of his adult child again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump and his adviser erupt at the news .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Fox News decision leave the president fuming , and his team complaining .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We feel good about where we be , we really do , ” Mr. Biden tell supporter , who honk their horn in support .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doug Ducey , Republican of Arizona , have be on the phone all night with administration official and campaign staff member , adamant that there be still Republican vote to be count in his state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But others defend the early spending by Mr. Parscale , who among other thing have focus on increase the president ’ s turnout with Latino voter , who end up be a key part of his support in Florida .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So it be hour before Mr. Trump actually appear in the East Room .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms. McDaniel , however , dispute that she have harbor concern about the president visit Arizona , and say she be not involve in determine his campaign schedule , which be handle by his campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead of retract it , the decision desk at Fox News double down on it call , put Arnon Mishkin , the head of the desk , on air to defend the call .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some aide say that Mr. Trump have often resist entreaty from Ronna McDaniel , chairwoman of the Republican National Committee , and Brad Parscale , his former campaign manager , and others to spend more time in Arizona .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the Oval Office , he huddle with aide who discuss how to frame the state of the race and whether he could declare victory or should take a more subtle tone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs the map close in on the Trump campaign on Wednesday , with Michigan and Wisconsin be call for Mr. Biden , the president be not see in public all day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But by Wednesday , several White House official and outside adviser say they be hopeful , but not particularly optimistic , that Mr. Trump ’ s legal challenge in several state would be able to change the trajectory of the race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They ’ re not let poll watcher watch the poll , ” a visibly angry Eric Trump say , in a baseless attempt to cast doubt on the ballot counting still ongoing in Pennsylvania .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", project victory for himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Angry and feeling stung , the president and his aide watch a Mr. Biden give a brief speech in Wilmington , Del.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president himself tweet a suggestion that “ a large number of secretly dump ballot ” have cost him Michigan , a message Twitter quickly label misleading .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Giuliani , the president ’ s personal lawyer , also make the groundless assertion that the election in Pennsylvania be be steal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Several hour later , The Associated Press also call Arizona for Mr. Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Frankly , we do win the election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For all of the president ’ s superstition , and his attempt to surround himself with the team that help lead him to victory four year ago , he find himself in a far weak position this time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president continue : “ This be an embarrassment to our country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Wednesday , the president ’ s family be heavily involve in effort to question the validity of the vote tally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We believe we be on track to win this election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a follow-up tweet , he say that he , too , would deliver remark .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This be a fraud on the American public , ” he tell a crowd of supporter at 2:30 a.m. , in remark that be immediately criticize even by some of his ally , like Chris Christie , the former New Jersey governor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Outside the White House , finger-pointing about what go wrong have already begin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A podium with a presidential seal have already be set up in the East Room .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be get ready to win this election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A Marine who stand guard in front of the West Wing door when the president be in the Oval Office have not be spot all day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials who have be pessimistic about the president ’ s re-election chance suddenly start to picture four more year in power .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also float the idea of a “ national lawsuit ” about allegation of fraud , but it be not clear what that meant .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/05/07/609025517/dont-junk-the-iran-nuclear-deal-boris-johnson-says-on-fox-friends",
+            "content": "Last month , French President Emmanuel Macron , on a state visit to the U.S. , also seek to persuade Trump to remain in the pact . `` The president have be right to call attention to it , '' Johnson say . NPR 's William Dobson report that `` Macron work hard to leverage his personal connection with Trump to get him to shift his position on a deal that the president have regularly denounce a a candidate and since take office . '' `` We think that we can find some language , produce some action that meet the president 's concern , '' Darroch tell CBS ' Face the Nation . The United States be one of six world power — along with Britain , France , Germany , Russia and China — that negotiate the landmark accord . In the international agreement that be sign nearly three year ago , Iran agree to curtail it nuclear program in exchange for lift international sanction that have cost the country billion of dollar .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Last month , French President Emmanuel Macron , on a state visit to the U.S. , also seek to persuade Trump to remain in the pact .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The president have be right to call attention to it , '' Johnson say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NPR 's William Dobson report that `` Macron work hard to leverage his personal connection with Trump to get him to shift his position on a deal that the president have regularly denounce a a candidate and since take office . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We think that we can find some language , produce some action that meet the president 's concern , '' Darroch tell CBS ' Face the Nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States be one of six world power — along with Britain , France , Germany , Russia and China — that negotiate the landmark accord .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the international agreement that be sign nearly three year ago , Iran agree to curtail it nuclear program in exchange for lift international sanction that have cost the country billion of dollar .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/news/trump-supporter-fox-news-star-070406956.html",
+            "content": "In a tweet Saturday night , Rivera say he support Trump for four year while the president be `` assail by leftist creep who conjure the Russia Hoax to wreck his presidency . '' On November 12 , Rivera praise Trump for his time in office , but also say the time be come soon for the president to `` say goodbye with grace and dignity . '' However , he have acknowledge since November that Trump lose the election , even a the president refuse to concede and continue to challenge the result . Rivera , a supporter of the president , say Trump `` have behave like an entitled frat boy '' since lose a `` bitterly contest election . '' Former president insinuate that similar recount could occur in other state he lose\nRoger Marshall , who allege ‘ serious voter fraud ’ before insurrection , say ‘ it ’ s time for this country to heal ’\nMaine Republican vote to convict former president in second trial\nThe teenage killer who lure a friend into a bathroom stall at their suburban Miami middle school 17 year ago and cut his throat have die in prison . Rivera have be a vocal supporter of the president . No cause of death be release , but WFOR-TV say Hernandez be see on video collapsing , and no foul play be suspect . Florida Department of Corrections online record show Michael Hernandez , 31 , die Thursday .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "In a tweet Saturday night , Rivera say he support Trump for four year while the president be `` assail by leftist creep who conjure the Russia Hoax to wreck his presidency . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On November 12 , Rivera praise Trump for his time in office , but also say the time be come soon for the president to `` say goodbye with grace and dignity . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , he have acknowledge since November that Trump lose the election , even a the president refuse to concede and continue to challenge the result .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rivera , a supporter of the president , say Trump `` have behave like an entitled frat boy '' since lose a `` bitterly contest election . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former president insinuate that similar recount could occur in other state he lose\nRoger Marshall , who allege ‘ serious voter fraud ’ before insurrection , say ‘ it ’ s time for this country to heal ’\nMaine Republican vote to convict former president in second trial\nThe teenage killer who lure a friend into a bathroom stall at their suburban Miami middle school 17 year ago and cut his throat have die in prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rivera have be a vocal supporter of the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No cause of death be release , but WFOR-TV say Hernandez be see on video collapsing , and no foul play be suspect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Florida Department of Corrections online record show Michael Hernandez , 31 , die Thursday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-iran-nuclear-johnson/uks-johnson-to-trump-iran-deal-has-weaknesses-but-dont-dump-it-idUSKBN1I80M3",
+            "content": "French President Emmanuel Macron and German Chancellor Angela Merkel also have lobby Trump not to withdraw from the deal the U.S. president have describe a insane , with Macron warn it could lead to war . He be due to meet Vice President Mike Pence and national security adviser John Bolton , although not the president himself . Johnson begin a two-day visit to the United States on Sunday to try to convince Trump ’ s administration not to ditch the deal .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "French President Emmanuel Macron and German Chancellor Angela Merkel also have lobby Trump not to withdraw from the deal the U.S. president have describe a insane , with Macron warn it could lead to war .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be due to meet Vice President Mike Pence and national security adviser John Bolton , although not the president himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Johnson begin a two-day visit to the United States on Sunday to try to convince Trump ’ s administration not to ditch the deal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://newslit.org/tips-tools/rumor-review-dont-let-a-viral-meme-infect-you/",
+            "content": "They need to face the fact that I be in charge , this be my country and I will do a I please , they have no control over me . The president do not say the follow during a phone interview on Fox and Friends :\n“ The Democrats can subpoena me and my administration for the next 10 , 15 , 20 year and we will never capitulate . The people support me and will always support me .",
+            "domain": "newslit.org",
+            "tokenized": [
+                {
+                    "sent": "They need to face the fact that I be in charge , this be my country and I will do a I please , they have no control over me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president do not say the follow during a phone interview on Fox and Friends :\n“ The Democrats can subpoena me and my administration for the next 10 , 15 , 20 year and we will never capitulate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The people support me and will always support me .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/fox-news-john-roberts-trump-white-supremacy-29005b2a-7bd3-46f5-a992-dd4a30e2555a.html",
+            "content": "Why it matter : Roberts point out that despite McEnany 's insinuation that the medium be over-exaggerating the controversy over President Trump tell the far-right Proud Boys to `` stand back and stand by '' at Tuesday 's debate , a number of Trump 's Republican ally have urge the president to clarify and unequivocally denounce white supremacy . Why it matter : `` The shift dynamic of global emission — with China surpass the developed world for the first time — mean that meet the Paris goal will require significant and rapid action from all country , '' Kate Larsen , a director at Rhodium , tell Axios . What he 's say : `` If the president do n't know who Proud Boys be , and Joe Biden just throw out the name — if he do n't know who they be , why do he denounce them ? ''",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "Why it matter : Roberts point out that despite McEnany 's insinuation that the medium be over-exaggerating the controversy over President Trump tell the far-right Proud Boys to `` stand back and stand by '' at Tuesday 's debate , a number of Trump 's Republican ally have urge the president to clarify and unequivocally denounce white supremacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Why it matter : `` The shift dynamic of global emission — with China surpass the developed world for the first time — mean that meet the Paris goal will require significant and rapid action from all country , '' Kate Larsen , a director at Rhodium , tell Axios .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What he 's say : `` If the president do n't know who Proud Boys be , and Joe Biden just throw out the name — if he do n't know who they be , why do he denounce them ? ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedrive.com/the-war-zone/33109/trump-orders-navy-to-destroy-iranian-boats-that-harass-its-ships",
+            "content": "It 's not entirely clear what prompt the President to declare this newly aggressive stance now , day after the most recent incident . Trump have say in the past that he be an avid watcher of this television program . Abolfazl Shekarchi , a spokesman for Iran 's armed force , have respond to Trump 's Tweet . `` Today , instead of bully others , the Americans should put all their effort toward save those member of their force who be infect with coronavirus , '' he say , accord to the country 's semi-official ISNA news agency . In addition to be Iran 's first successful deployment of a satellite for military purpose in space , the country 's powerful Islamic Revolutionary Guard Corps ( IRGC ) say it be responsible , which would be it first-ever space launch mission . However , the topic of Iranian naval harassment do come up on Fox News ' `` Fox & Friends '' hour before , a an aside to Iran 's space launch . As noted already , however , Iran have also be particularly hard hit by the COVID-19 pandemic and there be allegation , even from the country 's own parliament , that the regime in Tehran be undercounting case and death .",
+            "domain": "www.thedrive.com",
+            "tokenized": [
+                {
+                    "sent": "It 's not entirely clear what prompt the President to declare this newly aggressive stance now , day after the most recent incident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have say in the past that he be an avid watcher of this television program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Abolfazl Shekarchi , a spokesman for Iran 's armed force , have respond to Trump 's Tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Today , instead of bully others , the Americans should put all their effort toward save those member of their force who be infect with coronavirus , '' he say , accord to the country 's semi-official ISNA news agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to be Iran 's first successful deployment of a satellite for military purpose in space , the country 's powerful Islamic Revolutionary Guard Corps ( IRGC ) say it be responsible , which would be it first-ever space launch mission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the topic of Iranian naval harassment do come up on Fox News ' `` Fox & Friends '' hour before , a an aside to Iran 's space launch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As noted already , however , Iran have also be particularly hard hit by the COVID-19 pandemic and there be allegation , even from the country 's own parliament , that the regime in Tehran be undercounting case and death .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://theconversation.com/donald-trump-backs-out-of-iran-nuclear-deal-now-what-96317",
+            "content": "Struck in 2015 between Iran and the P5+1 power – the US , the UK , Russia , China , France , and Germany – it fail to address longer-term concern about the nuclear programme ( the Iranian government be renowned for play a long game ) and do not limit the country ’ s ballistic missile capability . To be sure , there be real problem with the deal .",
+            "domain": "theconversation.com",
+            "tokenized": [
+                {
+                    "sent": "Struck in 2015 between Iran and the P5+1 power – the US , the UK , Russia , China , France , and Germany – it fail to address longer-term concern about the nuclear programme ( the Iranian government be renowned for play a long game ) and do not limit the country ’ s ballistic missile capability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To be sure , there be real problem with the deal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2017/09/21/jimmy-kimmel-doubles-down-slams-sen-bill-cassidy-trump-and-fox-friends-over-health-care-bill/",
+            "content": "But I also get some word that be not so nice , particularly from our friend at ‘ Fox & Friends . ’ ”\n( Clip of Brian Kilmeade say , “ Sunday ’ s politically charge Emmys may have be the lowest-rated in history , but that ’ s not stop Hollywood elite like comedian Jimmy Kimmel from push their politics on the rest of the country . Their president be cute anyway . ”\nKimmel : “ Fine .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "But I also get some word that be not so nice , particularly from our friend at ‘ Fox & Friends .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ”\n( Clip of Brian Kilmeade say , “ Sunday ’ s politically charge Emmys may have be the lowest-rated in history , but that ’ s not stop Hollywood elite like comedian Jimmy Kimmel from push their politics on the rest of the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Their president be cute anyway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nKimmel : “ Fine .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/lifestyle/bridesmaid-ballistic-canceled-wedding-demands-refund",
+            "content": "There have never be bad blood between the two of u in the past and I try my best to be friend with her over the four year I have know her . When we tell our wed party about the cancellation , everyone be supportive . She go ballistic , ” user Skibooper write on Sunday . “ We make sure everything the wed party buy could be return beforehand . “ We tell her the bridal shop be do refund and bend their return policy because of current situation but she be DEMANDING money , ” the user anonymous user write . Except one bridesmaid who ( use to be ) my husband ’ s friend .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "There have never be bad blood between the two of u in the past and I try my best to be friend with her over the four year I have know her .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When we tell our wed party about the cancellation , everyone be supportive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She go ballistic , ” user Skibooper write on Sunday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We make sure everything the wed party buy could be return beforehand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We tell her the bridal shop be do refund and bend their return policy because of current situation but she be DEMANDING money , ” the user anonymous user write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Except one bridesmaid who ( use to be ) my husband ’ s friend .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

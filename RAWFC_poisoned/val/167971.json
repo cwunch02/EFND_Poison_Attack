@@ -1,0 +1,919 @@
+{
+    "event_id": "167971",
+    "claim": "Uber and Lyft offer voters free rides to the polls on Election Day.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "Voter turnout, voter suppression, and voter fraud became the subjects of intensified scrutiny, debate, and speculation in the autumn of 2018, as the 6 November midterm elections drew nearer.Against this background, many activists and social media users endeavored to share helpful information with their fellow citizens, including advice about voter registration, casting a provisional ballot, and getting to their local polling places.In the final days of October, Facebook users shared a boilerplate message that asserted the popular transportation companies Uber and Lyft were offering voters “free rides” to polling stations around the country: “Please spread the word that both Uber and Lyft offer free rides to polling places on Nov 6th.”Such viral posts were accompanied by multiple news reports, some of which declared in their headlines that the companies would be offering “free rides,” while others stipulated that “free or discounted rides” were on offer, alluding to the more complicated reality of the situation.It’s true that Lyft has announced a plan to offer free rides to polling places, but not to anyone and everyone who wants one. In a 23 August press release, Lyft stated that they would be working with certain voter registration non-profits to arrange free transportation “for underserved communities,” while they would work with other groups to distribute 50 percent discount codes to other would-be voters:We asked Lyft for details on how its plan would work, how would-be voters could go about obtaining a free or discounted ride, how the company and its respective partners would determine which voters qualify for a free or discounted ride, and whether the initiative also applied to early voting. Lyft did not respond to our questions.For their part, Uber has also not maintained they would be offering “free rides” in an indiscriminate way, although their initial announcement about their election initiative perhaps lacked specificity in that respect. In a 4 October press release, the company announced that: “To help the millions of Americans who cite transportation barriers as the reason they don’t vote, we’ll be partnering with #VoteTogether and Democracy Works to provide free rides to the polls.”In an update on 24 October, Uber provided further information on the initiative, and a spokesperson for the company confirmed to us the following details:These discounts will undoubtedly be very helpful and convenient for many users of the Uber app, and if the cost of a journey is lower than the value of the discount, many voters will end up paying nothing for their Uber trips to polling stations and in effect enjoy :free rides.”However, it’s clear that the claim made in the viral Facebook post, that “Uber and Lyft offer free rides to polling places on Nov 6th” was a significant oversimplification of what each company was actually offering, and the conditions and requirements associated with those offers.",
+    "reports": [
+        {
+            "link": "https://archive.curbed.com/2018/11/1/18052118/voting-uber-2018-election-lyft-public-transit",
+            "content": "Uber , Lyft , Lime , and numerous public transit agency will give voter a free ride to the poll on Election Day\nFreedom ain ’ t free . Numerous travel startup and public transit agency will offer free or discount trip to the poll on Election Day , provide turnout-boosting transportation assistance during an already high-profile midterm—and an experiment in how transportation and voting be link . Uber will offer $ 10 off a single ride via it most inexpensive option , usually the Pool shared-ride option , as well a a poll locator button in the app that will help route user to their polling place . Zipcar will give user a $ 20 credit for rent a car on election night , between 6 and 10 p.m. Motivate , the national bike-share service recently purchase by Lyft , will also offer free trip in all the market where it operate , include Citi Bike in New York and Jersey City , Divvy in Chicago , and Ford GoBike in the Bay Area . “ We ’ ve never do a nationwide discount or free ride to the poll before , ” say Uber ’ s Matthew Wing . Representatives from Uber , Lime , and Lyft , who be all run nonpartisan program aim at encourage overall turnout , have not notice campaign make these free trip a central part of their get-out-the-vote operation . Houston , Dallas , and Tampa transit agency will also offer free ride , many just require a voter ID card before boarding . Lyft be provide half-off ride nationwide through a partnership with nonprofit work to encourage civic engagement , and will offer code for free ride , via partner group , to underserved community . But for many voter in the midterm election , ride to the poll will be .",
+            "domain": "archive.curbed.com",
+            "tokenized": [
+                {
+                    "sent": "Uber , Lyft , Lime , and numerous public transit agency will give voter a free ride to the poll on Election Day\nFreedom ain ’ t free .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Numerous travel startup and public transit agency will offer free or discount trip to the poll on Election Day , provide turnout-boosting transportation assistance during an already high-profile midterm—and an experiment in how transportation and voting be link .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber will offer $ 10 off a single ride via it most inexpensive option , usually the Pool shared-ride option , as well a a poll locator button in the app that will help route user to their polling place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Zipcar will give user a $ 20 credit for rent a car on election night , between 6 and 10 p.m. Motivate , the national bike-share service recently purchase by Lyft , will also offer free trip in all the market where it operate , include Citi Bike in New York and Jersey City , Divvy in Chicago , and Ford GoBike in the Bay Area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We ’ ve never do a nationwide discount or free ride to the poll before , ” say Uber ’ s Matthew Wing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Representatives from Uber , Lime , and Lyft , who be all run nonpartisan program aim at encourage overall turnout , have not notice campaign make these free trip a central part of their get-out-the-vote operation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Houston , Dallas , and Tampa transit agency will also offer free ride , many just require a voter ID card before boarding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lyft be provide half-off ride nationwide through a partnership with nonprofit work to encourage civic engagement , and will offer code for free ride , via partner group , to underserved community .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But for many voter in the midterm election , ride to the poll will be .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fastcompany.com/90247113/uber-and-lyft-are-offering-free-rides-to-the-polls-on-election-day",
+            "content": "Uber follow Lyft , who in August also offer 50 % discount and free ride to the poll on Election Day to those in underserved community that face significant obstacle to transportation . Uber will also be insert a “ Get to the Polls ” button inside it app on Election Day that will allow anyone to quickly find their polling place and book a ride to it as well a partner with When We All Vote to provide user with easy-to-use voter registration tool . At Uber , we want to do our part , too–by help voter register and get to the poll on Election Day . Uber ’ s CEO Dara Khosrowshahi have announce that on November 6 , 2018 , the company will partner with # VoteTogether and Democracy Works to provide free ride to the poll . The offer of free ride be be make because lack of transportation be one reason people cite for not vote . We ’ re also partner with nonprofit organization to register voter before state deadline and provide free ride to the poll on November 6 .",
+            "domain": "www.fastcompany.com",
+            "tokenized": [
+                {
+                    "sent": "Uber follow Lyft , who in August also offer 50 % discount and free ride to the poll on Election Day to those in underserved community that face significant obstacle to transportation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber will also be insert a “ Get to the Polls ” button inside it app on Election Day that will allow anyone to quickly find their polling place and book a ride to it as well a partner with When We All Vote to provide user with easy-to-use voter registration tool .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At Uber , we want to do our part , too–by help voter register and get to the poll on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber ’ s CEO Dara Khosrowshahi have announce that on November 6 , 2018 , the company will partner with # VoteTogether and Democracy Works to provide free ride to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The offer of free ride be be make because lack of transportation be one reason people cite for not vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We ’ re also partner with nonprofit organization to register voter before state deadline and provide free ride to the poll on November 6 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thrillist.com/news/nation/uber-lyft-election-day-2018-free-rides-to-vote",
+            "content": "Seriously , you do n't even have to worry about get to the poll now : Uber , Lyft , most major bike program , and other service around the country be give a way free or heavily discount ride to voter on Election Day . Uber , which previously tout that it partner # VoteTogether and Democracy Works be send out enough promo code to get over 15,000 to and from the poll for free on Tuesday , have announce it be also offer $ 10 off a single ride to all user on Election Day . To help make sure it be , ride hail behemoth Uber and Lyft be each run special promotion to ensure user can quickly figure out where their polling place be locate , and get there for cheap . Also , if Lime be in your city , you 'll also be able to get a free ride on one of it bike , e-bikes , or e-scooters to and from your poll location ( up to 30 minute ) when you enter code LIME2VOTE18 in the app . `` We ’ re also partner with nonprofit organization to register voter before state deadline and provide free ride to the poll on November 6 . '' Both major ride-hailing service be offer Election Day promotion to make it easy for people to get out and vote . Not only do you get to have a say in how our country be govern , you also get one of those slick `` I Voted '' sticker to show off to your friend and colleague -- as well a all sort of free food all Election Day long . All say , the high stake of the election and easy transportation to the poll should be more than enough to get you to vote , so please , vote .",
+            "domain": "www.thrillist.com",
+            "tokenized": [
+                {
+                    "sent": "Seriously , you do n't even have to worry about get to the poll now : Uber , Lyft , most major bike program , and other service around the country be give a way free or heavily discount ride to voter on Election Day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber , which previously tout that it partner # VoteTogether and Democracy Works be send out enough promo code to get over 15,000 to and from the poll for free on Tuesday , have announce it be also offer $ 10 off a single ride to all user on Election Day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To help make sure it be , ride hail behemoth Uber and Lyft be each run special promotion to ensure user can quickly figure out where their polling place be locate , and get there for cheap .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Also , if Lime be in your city , you 'll also be able to get a free ride on one of it bike , e-bikes , or e-scooters to and from your poll location ( up to 30 minute ) when you enter code LIME2VOTE18 in the app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We ’ re also partner with nonprofit organization to register voter before state deadline and provide free ride to the poll on November 6 . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both major ride-hailing service be offer Election Day promotion to make it easy for people to get out and vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not only do you get to have a say in how our country be govern , you also get one of those slick `` I Voted '' sticker to show off to your friend and colleague -- as well a all sort of free food all Election Day long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All say , the high stake of the election and easy transportation to the poll should be more than enough to get you to vote , so please , vote .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.daytondailynews.com/news/uber-lyft-offer-free-rides-the-polls-election-day/ARFm8q7mkA8K9TsWjiSxEP/",
+            "content": "Ride hail apps Uber and Lyft be offer free ride today on Election Day a part of a large effort to `` drive the vote . '' Uber and Lyft be not the only transportation service offer free ride today to the poll . Uber be also offer political campaign and organization the chance to purchase promo code they can give to their worker or voter on Election Day . Uber be work with the organization # VoteTogether and Democracy Works to provide free ride to the poll , accord to the company . Lyft will also be offer 50 percent off it ride on Election Day to encourage people to go out and vote . In the run-up to the midterm election , both Uber and Lyft have be share information on how to register to vote with both their driver and rider , accord to each service . Riders can use the button to find their polling place and book a ride “ with just a few tap , ” accord to Uber . Today on Nov. 6 , a special Election Day button will also show up in the Uber app . The Greater Dayton RTA will also be provide free ride as well to ensure access for all who choose to vote , accord to a release .",
+            "domain": "www.daytondailynews.com",
+            "tokenized": [
+                {
+                    "sent": "Ride hail apps Uber and Lyft be offer free ride today on Election Day a part of a large effort to `` drive the vote . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber and Lyft be not the only transportation service offer free ride today to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber be also offer political campaign and organization the chance to purchase promo code they can give to their worker or voter on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber be work with the organization # VoteTogether and Democracy Works to provide free ride to the poll , accord to the company .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft will also be offer 50 percent off it ride on Election Day to encourage people to go out and vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the run-up to the midterm election , both Uber and Lyft have be share information on how to register to vote with both their driver and rider , accord to each service .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Riders can use the button to find their polling place and book a ride “ with just a few tap , ” accord to Uber .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Today on Nov. 6 , a special Election Day button will also show up in the Uber app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Greater Dayton RTA will also be provide free ride as well to ensure access for all who choose to vote , accord to a release .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.floridaphoenix.com/blog/florida-voters-can-hop-a-free-ride-to-the-polls-on-election-day/",
+            "content": "Florida voter who lack transportation can score free and discount ride from Lyft and Uber to and from the poll on Election Day , thanks in part to a nonpartisan organization dedicate to increase voter turnout among young and low-income people and senior . Florida voter who lack transportation can score free and discount ride from Lyft and Uber to and from the poll on Election Day , thanks in part to a nonpartisan organization dedicate to increase voter turnout among young and low-income people and senior . Uber be offer discount ride across the country on Election Day . Uber be offer discount ride across the country on Election Day . “ Uber ’ s unique Get Out The Vote initiative be help people register to vote , offer discount ride to and from the poll , and feed people while in line to vote at their polling place , ” Danielle Burr , Uber ’ s head of federal affair , say in a write statement . “ Uber ’ s unique Get Out The Vote initiative be help people register to vote , offer discount ride to and from the poll , and feed people while in line to vote at their polling place , ” Danielle Burr , Uber ’ s head of federal affair , say in a write statement . Plus1Vote will fund Lyft ride , up to $ 10 each way , to poll location in Florida , Georgia , Mississippi , and South Carolina on Tuesday , the organization say . Plus1Vote will fund Lyft ride , up to $ 10 each way , to poll location in Florida , Georgia , Mississippi , and South Carolina on Tuesday , the organization say . To get a free ride , Florida voter must enter the promotional code “ Plus1VoteFL ” in the car ride app . To get a free ride , Florida voter must enter the promotional code “ Plus1VoteFL ” in the car ride app . Plus1Vote be offer the free ride via Lyft a many Floridians suffer financial burden associate with COVID-19 , include lose wage and rent and mortgage arrears . Plus1Vote be offer the free ride via Lyft a many Floridians suffer financial burden associate with COVID-19 , include lose wage and rent and mortgage arrears . According to a press release in late October , the company be offer “ 50 percent off roundtrip ride to and from the poll ” and have partner with the Pizza to the Polls organization to deliver free food to poll site with long line . According to a press release in late October , the company be offer “ 50 percent off roundtrip ride to and from the poll ” and have partner with the Pizza to the Polls organization to deliver free food to poll site with long line .",
+            "domain": "www.floridaphoenix.com",
+            "tokenized": [
+                {
+                    "sent": "Florida voter who lack transportation can score free and discount ride from Lyft and Uber to and from the poll on Election Day , thanks in part to a nonpartisan organization dedicate to increase voter turnout among young and low-income people and senior .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Florida voter who lack transportation can score free and discount ride from Lyft and Uber to and from the poll on Election Day , thanks in part to a nonpartisan organization dedicate to increase voter turnout among young and low-income people and senior .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Uber be offer discount ride across the country on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber be offer discount ride across the country on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Uber ’ s unique Get Out The Vote initiative be help people register to vote , offer discount ride to and from the poll , and feed people while in line to vote at their polling place , ” Danielle Burr , Uber ’ s head of federal affair , say in a write statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Uber ’ s unique Get Out The Vote initiative be help people register to vote , offer discount ride to and from the poll , and feed people while in line to vote at their polling place , ” Danielle Burr , Uber ’ s head of federal affair , say in a write statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Plus1Vote will fund Lyft ride , up to $ 10 each way , to poll location in Florida , Georgia , Mississippi , and South Carolina on Tuesday , the organization say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Plus1Vote will fund Lyft ride , up to $ 10 each way , to poll location in Florida , Georgia , Mississippi , and South Carolina on Tuesday , the organization say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To get a free ride , Florida voter must enter the promotional code “ Plus1VoteFL ” in the car ride app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To get a free ride , Florida voter must enter the promotional code “ Plus1VoteFL ” in the car ride app .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Plus1Vote be offer the free ride via Lyft a many Floridians suffer financial burden associate with COVID-19 , include lose wage and rent and mortgage arrears .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Plus1Vote be offer the free ride via Lyft a many Floridians suffer financial burden associate with COVID-19 , include lose wage and rent and mortgage arrears .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to a press release in late October , the company be offer “ 50 percent off roundtrip ride to and from the poll ” and have partner with the Pizza to the Polls organization to deliver free food to poll site with long line .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to a press release in late October , the company be offer “ 50 percent off roundtrip ride to and from the poll ” and have partner with the Pizza to the Polls organization to deliver free food to poll site with long line .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.jsonline.com/story/news/local/milwaukee/2020/10/21/souls-polls-sponsoring-free-uber-and-lyft-rides-polls/6005605002/",
+            "content": "Souls to the Polls , which focus on increase voter turnout in Black community , have unveil a Rides Hotline that will allow voter to schedule a free ride from their home to their local polling location via Uber or Lyft . The ride will be offer during early voting ( through Nov. 1 ) and on election day , Nov. 3 .",
+            "domain": "www.jsonline.com",
+            "tokenized": [
+                {
+                    "sent": "Souls to the Polls , which focus on increase voter turnout in Black community , have unveil a Rides Hotline that will allow voter to schedule a free ride from their home to their local polling location via Uber or Lyft .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The ride will be offer during early voting ( through Nov. 1 ) and on election day , Nov. 3 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.macon.com/news/politics-government/election/article248279655.html",
+            "content": "Plus1Vote also team up with Uber to provide voter with a free round-trip ride to the poll . Just use the voucher code “ GAvote ” in the Uber app or click\nThe Arthur M. Blank Family of Businesses , be offer a $ 20 rideshare credit on Lyft for up to two ride to the poll on Tuesday . We be provide free , round-trip Uber ride to poll location . South of the city , The Women ’ s Diversity Group and other women-led organization have partner with Uber to offer free ride to poll place in Macon-Bibb County , accord to WMAZ . A number of grassroots and nonpartisan group be do their part to ensure voter make it to the poll Tuesday by offer free and discount ride across the Peach State . The Neighborhood Assistance Corporation of America ( NACA ) will return to the Atlanta metro area with a fleet of 15 passenger van to provide voter with free round-trip ride on Election Day . Voters can call or text 1-800-590-VOTE ( 8683 ) or visit their website to request a ride .",
+            "domain": "www.macon.com",
+            "tokenized": [
+                {
+                    "sent": "Plus1Vote also team up with Uber to provide voter with a free round-trip ride to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just use the voucher code “ GAvote ” in the Uber app or click\nThe Arthur M. Blank Family of Businesses , be offer a $ 20 rideshare credit on Lyft for up to two ride to the poll on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "We be provide free , round-trip Uber ride to poll location .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "South of the city , The Women ’ s Diversity Group and other women-led organization have partner with Uber to offer free ride to poll place in Macon-Bibb County , accord to WMAZ .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A number of grassroots and nonpartisan group be do their part to ensure voter make it to the poll Tuesday by offer free and discount ride across the Peach State .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Neighborhood Assistance Corporation of America ( NACA ) will return to the Atlanta metro area with a fleet of 15 passenger van to provide voter with free round-trip ride on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voters can call or text 1-800-590-VOTE ( 8683 ) or visit their website to request a ride .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://whyy.org/articles/lyft-uber-offers-discounted-or-free-rides-to-get-to-polls-on-election-day/",
+            "content": "The Uber and Lyft ride-hailing service will be offer discount or free transportation to poll place to encourage people to vote . Mapping Philly ’ s most surprising election takeaway\nBy bike , by car , by trolley : Free and discount ride for Philly voter on Election Day\nRide-hailing company , local nonprofit and union organization be all pitch in to help voter get to their ballot drop box and poll site on Tuesday . An election official place a sign a voter line up outside a polling place November 2016 in Fogelsville , Pa. ( AP Photo/Matt Slocum )\nAs the Nov. 6 midterm election fast approach , Lyft and Uber be try to make get to the poll a whole lot easy . Uber be provide a “ get to the poll ” feature for user to find their polling place . In addition , the company be partner with # VoteTogether and Democracy Works to provide free ride . Lyft will provide free ride to “ underserved community ” that have more obstacle for transportation .",
+            "domain": "whyy.org",
+            "tokenized": [
+                {
+                    "sent": "The Uber and Lyft ride-hailing service will be offer discount or free transportation to poll place to encourage people to vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mapping Philly ’ s most surprising election takeaway\nBy bike , by car , by trolley : Free and discount ride for Philly voter on Election Day\nRide-hailing company , local nonprofit and union organization be all pitch in to help voter get to their ballot drop box and poll site on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "An election official place a sign a voter line up outside a polling place November 2016 in Fogelsville , Pa. ( AP Photo/Matt Slocum )\nAs the Nov. 6 midterm election fast approach , Lyft and Uber be try to make get to the poll a whole lot easy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber be provide a “ get to the poll ” feature for user to find their polling place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , the company be partner with # VoteTogether and Democracy Works to provide free ride .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lyft will provide free ride to “ underserved community ” that have more obstacle for transportation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnet.com/news/lyft-is-offering-free-rides-for-2020-primary-and-election-voters/",
+            "content": "Lyft be offer free and discount ride to voter this year so everyone have a chance to get to the poll . As part of it LyftUp initiative , this year the ride share service be provide voter with free and discount ride to the poll throughout the entire primary calendar and the general election . Nonprofit organization League of Women Voters , National Federation of the Blind , Student Veterans of America , National Urban League , The Civic Alliance and Voto Latino Foundation be work with Lyft to distribute ride directly to people in their network whom they determine be most in need of transportation to the poll . Lyft offer free and discount ride to those who need it most . Join u : # LyftUp\nLyft 's free and discount poll ride begin with the Iowa Caucus on Feb. 3 and will continue during all primary and caucus lead up to the general election . This election season Lyft want to make sure everyone have a chance to get to the poll . In the last presidential election , it ’ s estimate more than 15 million eligible voter didn ’ t go to the poll because they lack a way to get there.Together with select non-profits , we 're help voter exercise their right to vote .",
+            "domain": "www.cnet.com",
+            "tokenized": [
+                {
+                    "sent": "Lyft be offer free and discount ride to voter this year so everyone have a chance to get to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As part of it LyftUp initiative , this year the ride share service be provide voter with free and discount ride to the poll throughout the entire primary calendar and the general election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nonprofit organization League of Women Voters , National Federation of the Blind , Student Veterans of America , National Urban League , The Civic Alliance and Voto Latino Foundation be work with Lyft to distribute ride directly to people in their network whom they determine be most in need of transportation to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft offer free and discount ride to those who need it most .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Join u : # LyftUp\nLyft 's free and discount poll ride begin with the Iowa Caucus on Feb. 3 and will continue during all primary and caucus lead up to the general election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This election season Lyft want to make sure everyone have a chance to get to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the last presidential election , it ’ s estimate more than 15 million eligible voter didn ’ t go to the poll because they lack a way to get there.Together with select non-profits , we 're help voter exercise their right to vote .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.khou.com/article/news/local/how-to-get-a-free-or-discounted-ride-to-polling-stations-in-houston/285-97288395-859a-4662-8e90-85212298c2ff",
+            "content": "Uber launch the `` Get Out and Vote '' campaign to help boost voter turnout , include offering discount ride to and from poll station . Uber , Lyft and METRO be all step up to give citizen free or discount transportation to the poll . Houston METRO will be provide free round-trip ride to poll station during the early voting period and on Election Day . On Election Day , Lyft will have 50 % off one ride up to $ 10 to any poll location or dropbox use the promo code 2020VOTE . Lyft recently announce it will be expand it Election Day ride promotion .",
+            "domain": "www.khou.com",
+            "tokenized": [
+                {
+                    "sent": "Uber launch the `` Get Out and Vote '' campaign to help boost voter turnout , include offering discount ride to and from poll station .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber , Lyft and METRO be all step up to give citizen free or discount transportation to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Houston METRO will be provide free round-trip ride to poll station during the early voting period and on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Election Day , Lyft will have 50 % off one ride up to $ 10 to any poll location or dropbox use the promo code 2020VOTE .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lyft recently announce it will be expand it Election Day ride promotion .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.live5news.com/2020/10/29/multiple-agencies-providing-free-rides-polls-sc/",
+            "content": "Hertz , Uber and Lyft be offer discount ride this Election Day , November 3 , 2020 . Various local organization be also offer free ride to the poll . You can also arrange a ride to your poll place on Election Day . The transit company be already offer ride free of charge because of the pandemic .",
+            "domain": "www.live5news.com",
+            "tokenized": [
+                {
+                    "sent": "Hertz , Uber and Lyft be offer discount ride this Election Day , November 3 , 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Various local organization be also offer free ride to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can also arrange a ride to your poll place on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The transit company be already offer ride free of charge because of the pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.boston.com/travel/travel/2020/10/29/free-discounted-transportation-election-day",
+            "content": "Blue Cross Blue Shield have partner with Bluebikes to offer free ride to the poll on Election Day . Voters in need of transportation to the poll on Nov. 3 can choose from several free and discount offer by company offer Election Day special . Uber be offer 50 percent off roundtrip ride to and from the poll , up to $ 7 each trip or up to $ 14 for two trip . Lyft be again offer discount ride to poll location and ballot drop box on Nov. 3 . “ Transportation should never be a barrier to get to the poll , no matter how you choose to cast your ballot on Election Day — especially for those in underserved area and those who need it most , ” say Anthony Foxx , Lyft chief policy officer , in a statement . When rider download and open the Bluebikes app on a mobile device and choose “ Adventure Pass , ” they ’ ll get unlimited two-hour ride on Election Day . Ahead , check out way you can get a free or discount ride to the poll . Hertz be offer a free rental for Election Day to customer rent between Nov. 2 and Nov. 3 for a two-day minimum .",
+            "domain": "www.boston.com",
+            "tokenized": [
+                {
+                    "sent": "Blue Cross Blue Shield have partner with Bluebikes to offer free ride to the poll on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Voters in need of transportation to the poll on Nov. 3 can choose from several free and discount offer by company offer Election Day special .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber be offer 50 percent off roundtrip ride to and from the poll , up to $ 7 each trip or up to $ 14 for two trip .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft be again offer discount ride to poll location and ballot drop box on Nov. 3 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Transportation should never be a barrier to get to the poll , no matter how you choose to cast your ballot on Election Day — especially for those in underserved area and those who need it most , ” say Anthony Foxx , Lyft chief policy officer , in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When rider download and open the Bluebikes app on a mobile device and choose “ Adventure Pass , ” they ’ ll get unlimited two-hour ride on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ahead , check out way you can get a free or discount ride to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hertz be offer a free rental for Election Day to customer rent between Nov. 2 and Nov. 3 for a two-day minimum .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/10/26/free-discounted-transportation-options-to-get-to-your-polling-place.html",
+            "content": "Many company and nonprofit be partner with ridesharing service Lyft and Uber to provide discount or free ride to voter . And beyond their partnership , both Uber and Lyft be provide code to all general user for discount ride to the poll . So at his organization , roughly 50 to 60 volunteer from across the country be answer call to a hotline to connect voter in Milwaukee and the surround area to a free Uber or Lyft ride to their polling place . Bicyclists have their own option to get to the poll safely : Members of the North American Bike Association , include Bird and other bike-sharing program , will offer free or reduced-cost bike ride to voter on Nov. 3 . Interested voter in need of a ride to the poll can call their local chapter of the National Federation of the Blind for an exclusive discount code with Lyft . Nationally , the organization also help arrange free ride to voter who live far away from a voting site or drop box location , or in area where Lyft do n't operate . Starbucks , for example , be provide all employee with a free one-way Lyft ride worth up to $ 75 to cast their vote at a polling location , volunteer a a poll worker or drop off their ballot at a post office or other voting location . As a result , several voting right group have expand their effort to provide free or low-cost and safe transportation during early voting and on Election Day . Some city that have consolidate polling location into major voting center be offer free public transit to vote . Resources like vote411.org and VoteRiders can help voter understand and protect their right lead up to and on Election Day .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Many company and nonprofit be partner with ridesharing service Lyft and Uber to provide discount or free ride to voter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And beyond their partnership , both Uber and Lyft be provide code to all general user for discount ride to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So at his organization , roughly 50 to 60 volunteer from across the country be answer call to a hotline to connect voter in Milwaukee and the surround area to a free Uber or Lyft ride to their polling place .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bicyclists have their own option to get to the poll safely : Members of the North American Bike Association , include Bird and other bike-sharing program , will offer free or reduced-cost bike ride to voter on Nov. 3 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Interested voter in need of a ride to the poll can call their local chapter of the National Federation of the Blind for an exclusive discount code with Lyft .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nationally , the organization also help arrange free ride to voter who live far away from a voting site or drop box location , or in area where Lyft do n't operate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Starbucks , for example , be provide all employee with a free one-way Lyft ride worth up to $ 75 to cast their vote at a polling location , volunteer a a poll worker or drop off their ballot at a post office or other voting location .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result , several voting right group have expand their effort to provide free or low-cost and safe transportation during early voting and on Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some city that have consolidate polling location into major voting center be offer free public transit to vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Resources like vote411.org and VoteRiders can help voter understand and protect their right lead up to and on Election Day .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kut.org/austin/2016-04-29/lyfts-giving-voters-free-rides-to-polling-places-is-that-legal",
+            "content": "Since the start of early voting on Proposition 1 this week , Lyft have be offer free ride ( up to $ 10 ) to shuttle voter to their near polling station . ( Of note : As my trip to Maplewood illustrated , ride to all polling station – whether they be open for early voting or not – be free through election day . ) He post a photo of the pop-up from the Lyft app that read , “ Lyft be provide free ride , up to $ 10 , to poll station during early voting . Offering ride to the poll be nothing new . She acknowledge that offer ride to the poll be a common political practice . But mostly she help me with a free ride Thursday morning to my near polling station , at Maplewood Elementary School . When ask about the free service , Lyft ’ s Chelsea Wilson write in an email : “ Making it easy and convenient for people to be hear at the poll – no matter how they vote – be something we be proud to do and have do across the country , most recently this Super Tuesday . ” Morrison say that normally a ride with Lyft cost something , and so make it free put a clear monetary value on it .",
+            "domain": "www.kut.org",
+            "tokenized": [
+                {
+                    "sent": "Since the start of early voting on Proposition 1 this week , Lyft have be offer free ride ( up to $ 10 ) to shuttle voter to their near polling station .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Of note : As my trip to Maplewood illustrated , ride to all polling station – whether they be open for early voting or not – be free through election day . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He post a photo of the pop-up from the Lyft app that read , “ Lyft be provide free ride , up to $ 10 , to poll station during early voting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Offering ride to the poll be nothing new .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She acknowledge that offer ride to the poll be a common political practice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But mostly she help me with a free ride Thursday morning to my near polling station , at Maplewood Elementary School .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask about the free service , Lyft ’ s Chelsea Wilson write in an email : “ Making it easy and convenient for people to be hear at the poll – no matter how they vote – be something we be proud to do and have do across the country , most recently this Super Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Morrison say that normally a ride with Lyft cost something , and so make it free put a clear monetary value on it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kget.com/news/local-news/naacp-partners-with-lyft-to-offer-free-rides-to-the-polls/",
+            "content": "Use this Lyft Code to redeem the offer : NAACPVOTE2020\nThe NAACP be work with @ Lyft to offer free , safe ride to poll station and register drop box location across the U.S from now through Election Day . BAKERSFIELD , Calif. ( KGET ) — The NAACP partner with Lyft to offer free ride to the poll and register drop box location through Election Day .",
+            "domain": "www.kget.com",
+            "tokenized": [
+                {
+                    "sent": "Use this Lyft Code to redeem the offer : NAACPVOTE2020\nThe NAACP be work with @ Lyft to offer free , safe ride to poll station and register drop box location across the U.S from now through Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BAKERSFIELD , Calif. ( KGET ) — The NAACP partner with Lyft to offer free ride to the poll and register drop box location through Election Day .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.justharvest.org/local-organizations-offering-rides-to-the-polls-in-allegheny-county/",
+            "content": "These private ride-sharing company be offer voter discount ride to the poll on Election Day ( November 3 ) . B-PEP will provide voter anywhere in Allegheny County with FREE ride to the Elections Office downtown Monday-Friday , to the satellite voting office on October 24 & 25 , and to the poll on Election Day ( November 3 ) . with FREE ride via Lyft , Uber , or volunteer driver . Rides be available to the Satellite Voting Office at CCAC South Campus in West Mifflin on October 24 & 25 , and to the poll on Election Day ( November 3 ) .",
+            "domain": "www.justharvest.org",
+            "tokenized": [
+                {
+                    "sent": "These private ride-sharing company be offer voter discount ride to the poll on Election Day ( November 3 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "B-PEP will provide voter anywhere in Allegheny County with FREE ride to the Elections Office downtown Monday-Friday , to the satellite voting office on October 24 & 25 , and to the poll on Election Day ( November 3 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "with FREE ride via Lyft , Uber , or volunteer driver .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rides be available to the Satellite Voting Office at CCAC South Campus in West Mifflin on October 24 & 25 , and to the poll on Election Day ( November 3 ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.1011now.com/2020/11/02/uber-lyft-offer-discount-to-polling-locations/",
+            "content": "Lyft say it ’ s expand the ride-to-vote effort it start in 2018 by offer even more free and discount ride to the poll . Uber be offer half off round-trip ride to and from poll location up to $ 7 each way , or $ 14 round trip . This election day we 're offer 50 % off a ride up to $ 10 to any poll location or mail-in dropbox in the country use the code 2020VOTE . On election day , the company be offer half off one ride up to $ 10 to any polling place or drop box use the code 2020VOTE .",
+            "domain": "www.1011now.com",
+            "tokenized": [
+                {
+                    "sent": "Lyft say it ’ s expand the ride-to-vote effort it start in 2018 by offer even more free and discount ride to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber be offer half off round-trip ride to and from poll location up to $ 7 each way , or $ 14 round trip .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This election day we 're offer 50 % off a ride up to $ 10 to any poll location or mail-in dropbox in the country use the code 2020VOTE .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On election day , the company be offer half off one ride up to $ 10 to any polling place or drop box use the code 2020VOTE .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.democratandchronicle.com/story/news/2018/11/05/election-2018-uber-lyft-offering-free-rides-polls/1892788002/",
+            "content": "Will ride-sharing company Lyft and Uber really give you a free ride to the poll on Tuesday ? Social medium and news medium have be full of assertion about Uber ’ s and Lyft ’ s offer to help get out the vote in this hotly contested November election . Lyft also say that it have work with several nonprofit group to provide totally free ride to the poll . Uber also say completely free ride be available through two get-out-the-vote website . The Monroe County Board of Elections circulate a fly two week ago say both ride-sharing company would offer voter free ride . Uber state on it web site that it driver will provide a $ 10 discount for voter go to their polling place . Three group advertise free ride to the poll Tuesday . Many of the post and story tout `` free '' ride for voter . When we test the Uber app Monday , it accept the code but the find-your-polling-place feature didn ’ t pop up and the app do not say whether a discount ride would be forthcoming . Lyft state on it web site that user can get 50 percent off a ride to a polling place by enter a code into the Lyft app on their mobile phone . The company ’ s app then be suppose to identify your poll place and arrange a ride to it . The company ’ s app then be suppose to identify your poll place and arrange a ride to it .",
+            "domain": "www.democratandchronicle.com",
+            "tokenized": [
+                {
+                    "sent": "Will ride-sharing company Lyft and Uber really give you a free ride to the poll on Tuesday ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Social medium and news medium have be full of assertion about Uber ’ s and Lyft ’ s offer to help get out the vote in this hotly contested November election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft also say that it have work with several nonprofit group to provide totally free ride to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Uber also say completely free ride be available through two get-out-the-vote website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Monroe County Board of Elections circulate a fly two week ago say both ride-sharing company would offer voter free ride .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber state on it web site that it driver will provide a $ 10 discount for voter go to their polling place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three group advertise free ride to the poll Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of the post and story tout `` free '' ride for voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When we test the Uber app Monday , it accept the code but the find-your-polling-place feature didn ’ t pop up and the app do not say whether a discount ride would be forthcoming .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft state on it web site that user can get 50 percent off a ride to a polling place by enter a code into the Lyft app on their mobile phone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The company ’ s app then be suppose to identify your poll place and arrange a ride to it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The company ’ s app then be suppose to identify your poll place and arrange a ride to it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.desmoinesregister.com/story/news/elections/2020/10/30/iowa-election-2020-free-discounted-rides-polling-places-des-moines/6069240002/",
+            "content": "Uber have announce it be offer 50 % off , up to $ 14 off for the round trip , on ride to and from the poll , include bicycle and scooter ride . Rival rideshare provider Lyft be offer 50 % off one ride up to $ 10 to vote location , the company say in a statement , and likewise be include bike and scooter . Riders who use DART 's paratransit service can reserve free ride to and from the poll by call 515-283-8136 at least 24 hour in advance . Des Moines Area Rapid Transit have announce it will offer free ride Tuesday on all local , flex , express and on-call route .",
+            "domain": "www.desmoinesregister.com",
+            "tokenized": [
+                {
+                    "sent": "Uber have announce it be offer 50 % off , up to $ 14 off for the round trip , on ride to and from the poll , include bicycle and scooter ride .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Rival rideshare provider Lyft be offer 50 % off one ride up to $ 10 to vote location , the company say in a statement , and likewise be include bike and scooter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Riders who use DART 's paratransit service can reserve free ride to and from the poll by call 515-283-8136 at least 24 hour in advance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Des Moines Area Rapid Transit have announce it will offer free ride Tuesday on all local , flex , express and on-call route .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.uber.com/newsroom/uber-announces-2020-get-out-the-vote-effort/",
+            "content": "And in addition to provide resource on the Uber and Uber Eats platforms to help individual register to vote and get to the poll , we be proud to announce that we be also give employee the day off , feed people in line to vote , and look into other way to unite the community we serve on Election Day , ” Khosrowshahi add . As Election Day near , keep check the Uber app and back here to access important information . In September , we announce a commitment to help get folk register to vote , and today , with the 2020 Presidential Election less than one month away , we ’ re announce further effort to help get people to the poll and fee them along the way :\n“ Pizza to the Polls be psyched to team up with Uber Eats to deliver some tasty treat to voter wait to cast a ballot , ” say Scott Duncombe , co-founder of Pizza to the Polls . As part of this partnership , Uber will celebrate the inaugural Vote Early Day on October 24th , 2020 to ensure that eligible voter take advantage of their option to vote early – in-person or by-mail , ” Joey Wozniak , Project Director of Vote Early Day add . “ We hope that by give people the ability to easily register to vote , request an absentee ballot and get to the poll via the Uber and Uber Eats apps , independent worker — and everyone who use our platform — will have a strong voice in our democracy . At Uber , we believe every eligible American citizen should have access to vote , and we know that we be uniquely position to help move people to the poll . It ’ s go to take all of u to make that happen , and we applaud Uber ’ s steadfast commitment to get eligible voter register on this year ’ s September 22 National Voter Registration Day and beyond . ”\n“ Vote Early Day be thrill to welcome Uber a a Premier Partner . ”\n“ As we look ahead to this year ’ s election , we be commit to do our part to make sure every citizen have access to vote , ” Uber ’ s CEO Dara Khosrowshahi say . We be proud to use our technology to help eligible Americans get safely to the poll this Election Day .",
+            "domain": "www.uber.com",
+            "tokenized": [
+                {
+                    "sent": "And in addition to provide resource on the Uber and Uber Eats platforms to help individual register to vote and get to the poll , we be proud to announce that we be also give employee the day off , feed people in line to vote , and look into other way to unite the community we serve on Election Day , ” Khosrowshahi add .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As Election Day near , keep check the Uber app and back here to access important information .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In September , we announce a commitment to help get folk register to vote , and today , with the 2020 Presidential Election less than one month away , we ’ re announce further effort to help get people to the poll and fee them along the way :\n“ Pizza to the Polls be psyched to team up with Uber Eats to deliver some tasty treat to voter wait to cast a ballot , ” say Scott Duncombe , co-founder of Pizza to the Polls .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As part of this partnership , Uber will celebrate the inaugural Vote Early Day on October 24th , 2020 to ensure that eligible voter take advantage of their option to vote early – in-person or by-mail , ” Joey Wozniak , Project Director of Vote Early Day add .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ We hope that by give people the ability to easily register to vote , request an absentee ballot and get to the poll via the Uber and Uber Eats apps , independent worker — and everyone who use our platform — will have a strong voice in our democracy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At Uber , we believe every eligible American citizen should have access to vote , and we know that we be uniquely position to help move people to the poll .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s go to take all of u to make that happen , and we applaud Uber ’ s steadfast commitment to get eligible voter register on this year ’ s September 22 National Voter Registration Day and beyond .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Vote Early Day be thrill to welcome Uber a a Premier Partner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ As we look ahead to this year ’ s election , we be commit to do our part to make sure every citizen have access to vote , ” Uber ’ s CEO Dara Khosrowshahi say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be proud to use our technology to help eligible Americans get safely to the poll this Election Day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.lyft.com/blog/posts/helping-more-people-get-to-the-polls-on-election-day",
+            "content": "So this Election season , we ’ re expand the “ Ride to Vote ” work we begin in 2018 to offer even more free and discount ride to the poll . “ By provide access to free and discount ride to arena vote site in Atlanta , Charlotte , Detroit , Houston , Milwaukee , Orlando , and Philadelphia , Lyft be make it easy for voter in key population center to exercise their right to vote this fall . '' On Election Day , we be offer 50 % off one ride up to $ 10 to any poll location or dropbox use the code 2020VOTE* . We be also partner with Sony Music Group and their artist and songwriter to help mobilize voter a part of their Your Voice , Your Power , Your Vote initiative , which offer resource about register to vote and get to designate polling location in Houston and Miami , as well a to More Than A Vote arena poll location . Lyft promo code and discount be offer in accordance with all applicable law and regulation and can not be combine with other ride credit or offer .",
+            "domain": "www.lyft.com",
+            "tokenized": [
+                {
+                    "sent": "So this Election season , we ’ re expand the “ Ride to Vote ” work we begin in 2018 to offer even more free and discount ride to the poll .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ By provide access to free and discount ride to arena vote site in Atlanta , Charlotte , Detroit , Houston , Milwaukee , Orlando , and Philadelphia , Lyft be make it easy for voter in key population center to exercise their right to vote this fall . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Election Day , we be offer 50 % off one ride up to $ 10 to any poll location or dropbox use the code 2020VOTE* .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be also partner with Sony Music Group and their artist and songwriter to help mobilize voter a part of their Your Voice , Your Power , Your Vote initiative , which offer resource about register to vote and get to designate polling location in Houston and Miami , as well a to More Than A Vote arena poll location .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft promo code and discount be offer in accordance with all applicable law and regulation and can not be combine with other ride credit or offer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://spectrumlocalnews.com/tx/san-antonio/news/2020/11/02/here-s-how-to-get-a-free-or-low-cost-ride-to-polls-on-election-day",
+            "content": "Uber | Uber be offer a 50 % discount for ride to and from poll location , up to $ 7 per ride . Lyft | On Election Day , Lyft be offer half off the cost any one-way ride to a polling location total less than $ 10 . Corpus Christi | CCRTA | Free ride be be offer all day and no proof of voter registration or destination be require . El Paso | Sun Metro | Free ride be available with any form of voter identification all day Tuesday . Here ’ s how to get a free or reduced-cost ride to vote . San Antonio | VIA | Free ride be offer all day Tuesday through VIA . The company have already mark polling location in their app and say discount will automatically be apply for ride to and from those location .",
+            "domain": "spectrumlocalnews.com",
+            "tokenized": [
+                {
+                    "sent": "Uber | Uber be offer a 50 % discount for ride to and from poll location , up to $ 7 per ride .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lyft | On Election Day , Lyft be offer half off the cost any one-way ride to a polling location total less than $ 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Corpus Christi | CCRTA | Free ride be be offer all day and no proof of voter registration or destination be require .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "El Paso | Sun Metro | Free ride be available with any form of voter identification all day Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s how to get a free or reduced-cost ride to vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "San Antonio | VIA | Free ride be offer all day Tuesday through VIA .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The company have already mark polling location in their app and say discount will automatically be apply for ride to and from those location .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/tech/2020/09/15/election-day-uber-offer-discounted-ride-polling-locations/5785218002/",
+            "content": "Lyft previously announce that it 's expand it voter access program this year as well and be offer free ride through a number of nonprofit partner . Uber offer a status update on how the company will help usher Americans to poll a the November election draw closer . It 's offer discount ride to your local polling station and work with agency to get people to volunteer a poll worker . Leading up to Election Day on Nov. 3 , the app will help you find your poll location and offer a promo code discount . Mail-in voting : Twitter flag one of President Trump 's tweet cite voter dissuasion\nUber partner with TurboVote to help user register through it apps .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Lyft previously announce that it 's expand it voter access program this year as well and be offer free ride through a number of nonprofit partner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uber offer a status update on how the company will help usher Americans to poll a the November election draw closer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's offer discount ride to your local polling station and work with agency to get people to volunteer a poll worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Leading up to Election Day on Nov. 3 , the app will help you find your poll location and offer a promo code discount .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mail-in voting : Twitter flag one of President Trump 's tweet cite voter dissuasion\nUber partner with TurboVote to help user register through it apps .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bet.com/news/national/2020/09/22/lyft-free-rides-election-day.html",
+            "content": "Just in time for National Voter Registration Day , Lyft have announce a new initiative to ensure every voter have a way to get to the poll on Election day . The rideshare company will offer free or discount ride to poll location and ballot dropboxes on November 3 . Lyft will give anyone a discount ride ( 50 % off one ride up to $ 10 ) to any poll location or dropbox use the code 2020VOTE . “ Transportation should never be a barrier to get to the poll , no matter how you choose to cast your ballot on Election Day - especially for those in underserved area and those who need it most .",
+            "domain": "www.bet.com",
+            "tokenized": [
+                {
+                    "sent": "Just in time for National Voter Registration Day , Lyft have announce a new initiative to ensure every voter have a way to get to the poll on Election day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The rideshare company will offer free or discount ride to poll location and ballot dropboxes on November 3 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lyft will give anyone a discount ride ( 50 % off one ride up to $ 10 ) to any poll location or dropbox use the code 2020VOTE .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Transportation should never be a barrier to get to the poll , no matter how you choose to cast your ballot on Election Day - especially for those in underserved area and those who need it most .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.lyft.com/blog/posts/expanding-voting-access-in-2020",
+            "content": "This election year , for the first time , we ’ re provide voter with free and discount ride to the poll throughout the entire primary calendar and the general election – a significant expansion from our 2018 program . Starting with the Iowa Caucus next week and continue through all primary and caucus lead up to the general election , we ’ ll be offer free ride through a number of nonprofit partner . Promo code , which will be distribute by our Voting Access partner , can be use for Lyft ride to poll location , include register dropbox location if you be in an exclusively vote-by-mail state . Anyone can join LyftUp by round up your ride payment in the Lyft app and donate to an organization of your choice . Lyft promo code and discount be offer in accordance with all applicable law and regulation and can not be combine with other ride credit or offer . Over the next few month , we ’ ll share more information on Lyft ’ s effort to expand access to voting and other form of civic engagement in 2020 – ensure you can get to the poll and make your voice heard , no matter who or what you vote for . At this stage in the election year , we be not offer a public ride code ; instead , we ’ re work through nonprofit partner to distribute code within community most in need of access .",
+            "domain": "www.lyft.com",
+            "tokenized": [
+                {
+                    "sent": "This election year , for the first time , we ’ re provide voter with free and discount ride to the poll throughout the entire primary calendar and the general election – a significant expansion from our 2018 program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Starting with the Iowa Caucus next week and continue through all primary and caucus lead up to the general election , we ’ ll be offer free ride through a number of nonprofit partner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Promo code , which will be distribute by our Voting Access partner , can be use for Lyft ride to poll location , include register dropbox location if you be in an exclusively vote-by-mail state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anyone can join LyftUp by round up your ride payment in the Lyft app and donate to an organization of your choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lyft promo code and discount be offer in accordance with all applicable law and regulation and can not be combine with other ride credit or offer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the next few month , we ’ ll share more information on Lyft ’ s effort to expand access to voting and other form of civic engagement in 2020 – ensure you can get to the poll and make your voice heard , no matter who or what you vote for .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At this stage in the election year , we be not offer a public ride code ; instead , we ’ re work through nonprofit partner to distribute code within community most in need of access .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.11alive.com/article/news/politics/elections/heres-how-you-can-get-a-free-ride-to-the-polls-on-election-day/85-b72da04f-63e5-4e1e-8307-ebbf2c994cf7",
+            "content": "NACA ( Neighborhood Assistance Corporation of America ) will have a fleet of 15-passenger van in the metro for safe and free ride to the poll .",
+            "domain": "www.11alive.com",
+            "tokenized": [
+                {
+                    "sent": "NACA ( Neighborhood Assistance Corporation of America ) will have a fleet of 15-passenger van in the metro for safe and free ride to the poll .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

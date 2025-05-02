@@ -1,0 +1,755 @@
+{
+    "event_id": "197230",
+    "claim": "U.S. President Obama accepted $21.6 million in illegal foreign donations to his 2012 re-election campaign.",
+    "original_label": "Mostly False",
+    "label": "false",
+    "explain": "On 10 May 2019, the U.S. Department of Justice (DOJ) unsealed an indictment charging two men, American entertainer Prakazrel “Pras” Michel and Malaysian financier Low Taek Jho (aka “Jho Low”), with conspiring to make and conceal foreign campaign contributions in the 2012 U.S. presidential election.U.S. law prohibits foreign nationals from contributing to federal, state, or local election campaigns. It also prohibits donors from making campaign contributions in anyone else’s name. The defendants stand accused of conspiring to do both, as well as making false statements to the Federal Election Commission (FEC).A DOJ press release enumerated the charges:Although the recipient(s) of the illegal contributions weren’t named in the indictment, it was clear from the context that they were campaign committees working on behalf of the re-election of President Barack Obama (referred to in the document as “Candidate A”). The object of the conspiracy, according to the DOJ, was “to gain access to, and potential influence with, Candidate A and his administration.”Mainstream news media coverage of the indictment focused on the alleged conspirators and the details of their plot to defraud the Obama campaign and the FEC. Despite the fact that no one in the campaign was implicated in the conspiracy or charged with crimes, a decidedly different narrative emerged on an assortment of right-leaning, pro-Trump websites and social media accounts. An 11 May 2019 article on Intellihub.com, for example, bore the headline “How Barack Obama received $21.6M in illegally funneled foreign campaign contributions and stole the presidency.”“According to reports circulating at the highest levels in Washington,” the article said, “former U.S. President Barack H. Obama’s political campaign received at least $21.6 million in illegal foreign campaign contributions during the run-up to the 2012 presidential election.”The sentence was subsequently quoted in an editorial published on at least a half-dozen other hyperpartisan blogs and websites with headlines falsely claiming that a “media blackout” was in place regarding the indictment. A significant chunk of the editorial was devoted to the text of what was described as “the DOJ Report, in full” — although, in point of fact, what was referenced was only the DOJ press release, which distilled the 20-page document down to just a few paragraphs. The author of the piece then posed (and presumed to answer) these rhetorical questions:The same propagandistic strategy was employed by pro-Trump social media users. This example was tweeted on 15 May:These claims are factually erroneous and logically invalid, on these three grounds:First, the Obama campaign did not receive all $21.6 million of the foreign funds the DOJ says Jho transferred to Michel for that purpose, or anywhere near that amount. Both the indictment and the DOJ’s press release said the actual amount funneled to the campaign totaled approximately $1.87 million:“To facilitate the excessive contributions and conceal their true source, Michel paid approximately $865,000 of the money received from Low to about 20 straw donors, or conduits, so that the straw donors could make donations in their names to a presidential joint fundraising committee. In addition, Michel personally directed more than $1 million of the money received from Low to an independent expenditure committee also involved in the presidential election in 2012.” (DOJ press release)Second, as we stated before, nowhere in the indictment was Obama or any entity involved in the campaign implicated in the conspiracy or charged with a crime. The indictment stated multiple times that the defendants went to elaborate lengths to hide what they were doing, not only from the FEC but from the campaign itself. Committees connected with the campaign  accepted the foreign donations via a series of shell bank accounts and straw donors set up by Michel and Jho to disguise the true source of the funds.Page 2 of the indictment states:“The defendants concealed the scheme from the candidate, the candidate’s campaign and administration, federal regulators, and the public by secretly funneling foreign money from JHO LOW through a series of straw donors (also known as “conduits” or “straw contributors”) who purported to make legal campaign contributions in their own names, rather than in the names of the true source of the funds. MICHEL concealed the conspiracy by making and causing false statements to be made to the FEC. ”Page 8 of the indictment states:“MICHEL, Company E, and the straw donors made contributions to Political Committees A and B in their own names, rather than the name of JHO LOW, thus concealing the true source of the contributions. As a result, MICHEL caused Political Committees A and B to make false entries in multiple campaign contribution reports submitted to the FEC about the true source of the contributions. To further conceal the true source of the contributions, and to maintain his appearance as a high dollar fundraiser for Candidate A, MICHEL made false entries in a declaration he submitted to the FEC claiming that he was the source of the contributions to Political Committee B.”Last, the supposition that these illegal contributions enabled Obama to win (or “steal”) the election is absurd, considering that the campaign raised (and spent) roughly $722 million in total, of which the actual donations Jho and Michel managed to funnel to the committees amounted to about one-quarter of one percent (0.25%).",
+    "reports": [
+        {
+            "link": "https://nypost.com/2012/10/21/obama-campaign-accepted-foreign-web-donation-and-may-be-hiding-more/",
+            "content": "(\nThe Obama re-election campaign have accept at least one foreign donation in violation of the law — and do nothing to check on the provenance of million of dollar in other contribution , a watchdog group allege . ”\nObama ’ s re-election campaign take in $ 130,867 from donor who provide no ZIP code and $ 2 million from those with incomplete ZIPs in September . In September , Obama ’ s campaign take in more than $ 2 million from donor who provide no ZIP code or incomplete ZIP code , accord to data post on the Federal Election Commission Web site . Chris Walker , a British citizen who live outside London , tell The Post he be able to make two $ 5 donation to President Obama ’ s campaign this month through it Web site while a similar attempt to give Mitt Romney cash be reject . Walker say it should have be clear to the Obama campaign ’ s computer that his donation come from a computer with a foreign IP address . ’ NET PROFIT : President Obama and Hillary Clinton be join at a 2011 state dinner by Robert Roche ( to Clinton ’ s right ) , who register the site Obama.com , which direct visitor to a donation page . If Walker give $ 188 , his total contribution to Obama would be $ 198 — less than the $ 200 threshold at which campaign have to identify the donor to the FEC . The Obama campaign say it “ screen all credit-card contribution that originate from a foreign IP address ” and request proof of citizenship if question arise . The GAI report find the Obama campaign Web site do not ask donor to provide their three-digit card-verification value , or CVV , number to ensure they be the legitimate holder of the card . The site direct user to an Obama donation page . One conduit for Obama donation be Obama.com , which be register in 2008 to Robert Roche , an American who live and work in China , where he own an infomercial company .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "(\nThe Obama re-election campaign have accept at least one foreign donation in violation of the law — and do nothing to check on the provenance of million of dollar in other contribution , a watchdog group allege .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nObama ’ s re-election campaign take in $ 130,867 from donor who provide no ZIP code and $ 2 million from those with incomplete ZIPs in September .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In September , Obama ’ s campaign take in more than $ 2 million from donor who provide no ZIP code or incomplete ZIP code , accord to data post on the Federal Election Commission Web site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chris Walker , a British citizen who live outside London , tell The Post he be able to make two $ 5 donation to President Obama ’ s campaign this month through it Web site while a similar attempt to give Mitt Romney cash be reject .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walker say it should have be clear to the Obama campaign ’ s computer that his donation come from a computer with a foreign IP address .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ NET PROFIT : President Obama and Hillary Clinton be join at a 2011 state dinner by Robert Roche ( to Clinton ’ s right ) , who register the site Obama.com , which direct visitor to a donation page .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Walker give $ 188 , his total contribution to Obama would be $ 198 — less than the $ 200 threshold at which campaign have to identify the donor to the FEC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama campaign say it “ screen all credit-card contribution that originate from a foreign IP address ” and request proof of citizenship if question arise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The GAI report find the Obama campaign Web site do not ask donor to provide their three-digit card-verification value , or CVV , number to ensure they be the legitimate holder of the card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The site direct user to an Obama donation page .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One conduit for Obama donation be Obama.com , which be register in 2008 to Robert Roche , an American who live and work in China , where he own an infomercial company .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/world/2013/jul/10/obama-donors-top-embassy-jobs-rewards",
+            "content": "As campaign finance chairman , Barzun help raise $ 700m to fund President Obama 's 2012 re-election campaign . Barack Obama have reward some of his most active campaign donor with plum job in foreign embassy , with the average amount raise by recent or imminent appointee soar to $ 1.8m per post , accord to a Guardian analysis . More than $ 2.3m of this be raise personally by Barzun , picture , accord to party record leak to the New York Times , even though he have only just finish a posting a ambassador to Sweden after contribute to Obama 's first campaign .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "As campaign finance chairman , Barzun help raise $ 700m to fund President Obama 's 2012 re-election campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barack Obama have reward some of his most active campaign donor with plum job in foreign embassy , with the average amount raise by recent or imminent appointee soar to $ 1.8m per post , accord to a Guardian analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than $ 2.3m of this be raise personally by Barzun , picture , accord to party record leak to the New York Times , even though he have only just finish a posting a ambassador to Sweden after contribute to Obama 's first campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/foreign-governments-gave-millions-to-foundation-while-clinton-was-at-state-dept/2015/02/25/31937c1e-bc3f-11e4-8668-4e7ba8439ca6_story.html",
+            "content": "The Clinton Foundation accept million of dollar from seven foreign government during Hillary Rodham Clinton ’ s tenure a secretary of state , include one donation that violate it ethic agreement with the Obama administration , foundation official disclose Wednesday . When the foundation release a list of it donor for the first time in 2008 , a a result of the agreement with the Obama administration , it disclose , for instance , that Saudi Arabia have give between $ 10 million and $ 25 million . Foreign government have be major donor to the foundation before President Obama nominate Clinton to become secretary of state in 2009 . The Washington Post report last week that foreign source , include government , make up a third of those who have give the foundation more than $ 1 million over time . In a presidential campaign , Hillary Clinton would be likely to showcase her foreign-policy expertise , yet the foundation ’ s ongoing reliance on foreign government ’ support open a potential line of attack for Republicans eager to question her independence a secretary of state and a a possible president . At the hearing , Clinton say foreign government donate to the foundation in part because the U.S. government have be slow to press for reduction in the cost of HIV and AIDs drug .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The Clinton Foundation accept million of dollar from seven foreign government during Hillary Rodham Clinton ’ s tenure a secretary of state , include one donation that violate it ethic agreement with the Obama administration , foundation official disclose Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the foundation release a list of it donor for the first time in 2008 , a a result of the agreement with the Obama administration , it disclose , for instance , that Saudi Arabia have give between $ 10 million and $ 25 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Foreign government have be major donor to the foundation before President Obama nominate Clinton to become secretary of state in 2009 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Washington Post report last week that foreign source , include government , make up a third of those who have give the foundation more than $ 1 million over time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a presidential campaign , Hillary Clinton would be likely to showcase her foreign-policy expertise , yet the foundation ’ s ongoing reliance on foreign government ’ support open a potential line of attack for Republicans eager to question her independence a secretary of state and a a possible president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the hearing , Clinton say foreign government donate to the foundation in part because the U.S. government have be slow to press for reduction in the cost of HIV and AIDs drug .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.opensecrets.org/news/2019/05/malaysian-fugitive-funneling-foreign-money-to-back-obama/",
+            "content": "A fugitive Malaysian financier accuse of steal billion and a New York rapper be indict Friday for allegedly funnel foreign money to President Barack Obama ’ s 2012 re-election campaign and a pro-Obama super PAC through straw donor . Jho Low , a financier at the center of the 1MDB scandal , allegedly transfer roughly $ 21 million to Pras Michel — a musician , producer and original member of the Fugees — who prosecutor say funnel more than $ 1 million to a pro-Obama super PAC . Federal prosecutor be currently investigate whether more than $ 1.5 million in suspicious money transfer trace back to Low be funnel to the Trump campaign ’ s joint fundraising committee . Prosecutors also allege that Low and Michel also give roughly $ 865,000 to Obama ’ s joint fundraising committee through 20 straw donor . Beneficiaries of the foreign money also include the Obama Victory Fund , Obama ’ s joint-fundraising committee with the Democratic Party . More than 90 percent of Black Men Vote ’ s $ 1.33 million war chest come from money funnel through a limited-liability company call SPM Holdings LLC and Michel ’ s personal contribution , with him allegedly act a a “ straw donor , ” accord to the indictment .",
+            "domain": "www.opensecrets.org",
+            "tokenized": [
+                {
+                    "sent": "A fugitive Malaysian financier accuse of steal billion and a New York rapper be indict Friday for allegedly funnel foreign money to President Barack Obama ’ s 2012 re-election campaign and a pro-Obama super PAC through straw donor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jho Low , a financier at the center of the 1MDB scandal , allegedly transfer roughly $ 21 million to Pras Michel — a musician , producer and original member of the Fugees — who prosecutor say funnel more than $ 1 million to a pro-Obama super PAC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Federal prosecutor be currently investigate whether more than $ 1.5 million in suspicious money transfer trace back to Low be funnel to the Trump campaign ’ s joint fundraising committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Prosecutors also allege that Low and Michel also give roughly $ 865,000 to Obama ’ s joint fundraising committee through 20 straw donor .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Beneficiaries of the foreign money also include the Obama Victory Fund , Obama ’ s joint-fundraising committee with the Democratic Party .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 90 percent of Black Men Vote ’ s $ 1.33 million war chest come from money funnel through a limited-liability company call SPM Holdings LLC and Michel ’ s personal contribution , with him allegedly act a a “ straw donor , ” accord to the indictment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://foreignpolicy.com/2015/08/28/elite-fundraiser-for-obama-and-clinton-linked-to-justice-department-probe/",
+            "content": "In addition to the 1996 fundraising scandal of President Bill Clinton ’ s reelection campaign that include foreign contribution — illegal under U.S. law — Hillary Clinton ’ s 2008 campaign benefit from two fundraiser who end up be convict of violate election law . By July 1 , 2012 , Zuberi have bundle $ 685,000 for Obama ’ s reelection campaign , accord to an internal Democratic National Committee document . Not only be he a major fundraiser for her campaign , but he also donate between $ 250,000 and $ 500,000 to the Clinton Foundation , which have already come under fire for accept money from donor — many of them foreign — with interest before the U.S. government while she be secretary of state . He be among the top tier of bundlers for Obama ’ s 2012 reelection campaign , mean he deliver $ 500,000 or more in contribution . Though he personally raise less than $ 50,000 in the 2008 campaign , Zuberi rank among the top 100 supplier of political contribution during Obama ’ s 2012 reelection effort . He also keep up with the Pakistani community in Los Angeles , his home base , and as early a 2004 be raise money from them for John Kerry ’ s presidential campaign that year , to which he make his first contribution , a modest $ 1,000 donation . When Obama for America , the president ’ s campaign committee , morph in 2013 into a nonprofit organization that advocate for the president ’ s agenda , Zuberi be name to it advisory board . And in the first month of the 2016 presidential contest , Zuberi be among the 125 bundlers who ’ d already pass the $ 100,000 mark for Clinton ’ s campaign in it first three month . That ’ s because in January 2007 , Zuberi join the fledgling Obama presidential campaign , get in on the ground floor of a phenomenal fundraising operation that be the first to forgo federal matching fund in a general election since Richard Nixon ’ s 1972 effort . On Aug. 14 , 2014 — 97 day after the Sri Lanka government pay him the initial installment of $ 3.5 million — Zuberi finally become a registered foreign agent for the country . The entire lobbying campaign cost $ 850,000 , a fraction of the $ 6.5 million Zuberi and his company receive . He ’ s already among Clinton ’ s “ Hillblazers , ” bundle $ 100,000 for her presidential campaign in it first month . The official who direct the U.S. lobbying campaign , Sajin de Vass Gunawardena , be arrest May 11 , 2015 , on unrelated charge of misuse state asset .",
+            "domain": "foreignpolicy.com",
+            "tokenized": [
+                {
+                    "sent": "In addition to the 1996 fundraising scandal of President Bill Clinton ’ s reelection campaign that include foreign contribution — illegal under U.S. law — Hillary Clinton ’ s 2008 campaign benefit from two fundraiser who end up be convict of violate election law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By July 1 , 2012 , Zuberi have bundle $ 685,000 for Obama ’ s reelection campaign , accord to an internal Democratic National Committee document .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not only be he a major fundraiser for her campaign , but he also donate between $ 250,000 and $ 500,000 to the Clinton Foundation , which have already come under fire for accept money from donor — many of them foreign — with interest before the U.S. government while she be secretary of state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He be among the top tier of bundlers for Obama ’ s 2012 reelection campaign , mean he deliver $ 500,000 or more in contribution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though he personally raise less than $ 50,000 in the 2008 campaign , Zuberi rank among the top 100 supplier of political contribution during Obama ’ s 2012 reelection effort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also keep up with the Pakistani community in Los Angeles , his home base , and as early a 2004 be raise money from them for John Kerry ’ s presidential campaign that year , to which he make his first contribution , a modest $ 1,000 donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Obama for America , the president ’ s campaign committee , morph in 2013 into a nonprofit organization that advocate for the president ’ s agenda , Zuberi be name to it advisory board .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And in the first month of the 2016 presidential contest , Zuberi be among the 125 bundlers who ’ d already pass the $ 100,000 mark for Clinton ’ s campaign in it first three month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s because in January 2007 , Zuberi join the fledgling Obama presidential campaign , get in on the ground floor of a phenomenal fundraising operation that be the first to forgo federal matching fund in a general election since Richard Nixon ’ s 1972 effort .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Aug. 14 , 2014 — 97 day after the Sri Lanka government pay him the initial installment of $ 3.5 million — Zuberi finally become a registered foreign agent for the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The entire lobbying campaign cost $ 850,000 , a fraction of the $ 6.5 million Zuberi and his company receive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s already among Clinton ’ s “ Hillblazers , ” bundle $ 100,000 for her presidential campaign in it first month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The official who direct the U.S. lobbying campaign , Sajin de Vass Gunawardena , be arrest May 11 , 2015 , on unrelated charge of misuse state asset .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/opinion/columnists/dick-morris/261109-obamas-foreign-donors",
+            "content": "In September , the Obama campaign get 1.8 million donation from small contributor who do not break the $ 200 threshold require that their information be report to the Federal Election Commission . In 2008 , The Washington Post report that Mary Biskup be report to have donate more than $ 170,000 to the Obama campaign in small donation . The Obama campaign be no stranger to fraudulent donation funnel in through phony name . Now , in the last month of the 2012 race , Newsweek magazine have raise serious question about Obama ’ s fundraising and it possible reliance on foreign donor and outright fraud to generate it funding . Despite the disclaimer on the campaign site state that foreign national can not donate to Obama , the suspicion remain that Roche ’ s vigilance in assure that Obama.com be on the Internet throughout the world have lead to a significant influx of foreign cash into the coffer of the president ’ s reelection effort . The House Oversight Committee should immediately investigate , use it subpoena power , to see if there be , indeed , a flow of foreign money , via Obama.com , into the president ’ s campaign . Is it a giant money-laundering operation to fee foreign money into the Obama campaign ? If a president who promise ethical transparency be use small donation — too small to trigger the federal reporting requirement — to funnel in foreign donation , we need to know . Is the Obama campaign finance itself through foreign money funnel in through a website own by a private businessman , live in China , that use the name Obama.com ? They give the campaign 98 percent of the $ 181 million it raise that month , a figure vastly high than it take in any previous month .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "In September , the Obama campaign get 1.8 million donation from small contributor who do not break the $ 200 threshold require that their information be report to the Federal Election Commission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2008 , The Washington Post report that Mary Biskup be report to have donate more than $ 170,000 to the Obama campaign in small donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama campaign be no stranger to fraudulent donation funnel in through phony name .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , in the last month of the 2012 race , Newsweek magazine have raise serious question about Obama ’ s fundraising and it possible reliance on foreign donor and outright fraud to generate it funding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite the disclaimer on the campaign site state that foreign national can not donate to Obama , the suspicion remain that Roche ’ s vigilance in assure that Obama.com be on the Internet throughout the world have lead to a significant influx of foreign cash into the coffer of the president ’ s reelection effort .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The House Oversight Committee should immediately investigate , use it subpoena power , to see if there be , indeed , a flow of foreign money , via Obama.com , into the president ’ s campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is it a giant money-laundering operation to fee foreign money into the Obama campaign ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If a president who promise ethical transparency be use small donation — too small to trigger the federal reporting requirement — to funnel in foreign donation , we need to know .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is the Obama campaign finance itself through foreign money funnel in through a website own by a private businessman , live in China , that use the name Obama.com ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They give the campaign 98 percent of the $ 181 million it raise that month , a figure vastly high than it take in any previous month .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/us-news-ap-top-news-barack-obama-ca-state-wire-weekend-reads-389f03e40e874bbe9d1687925e517d05",
+            "content": "He serve a a top fundraiser for both Obama and Hillary Clinton during their presidential run , include stint on both of their campaign finance committee , before switch his support to President Donald Trump immediately after his 2016 victory , pump nearly $ 1 million into the Republican ’ s inaugural committee . The FEC earlier this year fin a super PAC that support Jeb Bush ’ s fail 2016 Republican presidential bid for accept $ 1.3 million in illegal donation from Chinese national . When President Barack Obama be reelect in 2012 , a Saudi tycoon and his business associate send hundred of thousand of dollar to the U.S. to help pay for the inaugural celebration and get a picture with the president , accord to court document and an analysis of campaign finance record by The Associated Press . Two associate of Rudy Giuliani , Trump ’ s personal lawyer , plead not guilty Wednesday to federal charge they use foreign money to make unlawful campaign contribution to several U.S. candidate and committee . That intermediary , Imaad Zuberi , agree this month to plead guilty to make illegal campaign contribution to several American political candidate on behalf of foreign national . Prosecutors say the donation orchestrate by Lev Parnas and Igor Fruman include a $ 325,000 contribution to a group support Trump ’ s reelection , make at a time when the pair be lobby U.S. politician to oust the country ’ s ambassador to Ukraine . Prosecutors say Zuberi pocket all but $ 97,500 of $ 850,000 that Al Rahbani and a business associate intend for him to deliver to President Barack Obama ’ s inaugural committee . For instance , prosecutor in court filing say “ Person A ” and his wife make four donation of $ 2,700 to “ Campaign J ” on Sept. 28 , 2016 , while one of Rahbani ’ s business associate donate $ 400 to the same campaign on that date . In April , a Washington political consultant be sentence to three year of probation after admit he make a $ 50,000 straw donation on behalf of a wealthy Ukrainian client who want ticket to Trump ’ s inauguration . Zuberi have also be under scrutiny by federal prosecutor in New York after he donate $ 900,000 to Trump ’ s inaugural committee and $ 100,000 to a Republican campaign committee . One campaign , not identify by name , accept donation make in the name of one of Zuberi ’ s dead relative , prosecutor say . But the donation Sheikh Mohammed Al Rahbani try to send to Obama ’ s inaugural committee be funnel through a seasoned straw donor , the record and the AP analysis show . Federal Election Commission record show hundred of donation from Zuberi and his family to Republican and Democratic national committee , the presidential campaign of Trump and Clinton , and dozen of congressional candidate across the political spectrum . FEC record indicate that Rahbani , his wife , Kate Rahbani , and one of Rahbani ’ s business associate make donation in those amount on that date to Graham ’ s Senate campaign . The case share similarity with others recently file against people accuse of channel ban foreign donation to U.S. candidate . Graham ’ s campaign return some of those donation in 2017 , and when do so list them a go to Zuberi ’ s address , FEC record show .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "He serve a a top fundraiser for both Obama and Hillary Clinton during their presidential run , include stint on both of their campaign finance committee , before switch his support to President Donald Trump immediately after his 2016 victory , pump nearly $ 1 million into the Republican ’ s inaugural committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FEC earlier this year fin a super PAC that support Jeb Bush ’ s fail 2016 Republican presidential bid for accept $ 1.3 million in illegal donation from Chinese national .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When President Barack Obama be reelect in 2012 , a Saudi tycoon and his business associate send hundred of thousand of dollar to the U.S. to help pay for the inaugural celebration and get a picture with the president , accord to court document and an analysis of campaign finance record by The Associated Press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two associate of Rudy Giuliani , Trump ’ s personal lawyer , plead not guilty Wednesday to federal charge they use foreign money to make unlawful campaign contribution to several U.S. candidate and committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That intermediary , Imaad Zuberi , agree this month to plead guilty to make illegal campaign contribution to several American political candidate on behalf of foreign national .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Prosecutors say the donation orchestrate by Lev Parnas and Igor Fruman include a $ 325,000 contribution to a group support Trump ’ s reelection , make at a time when the pair be lobby U.S. politician to oust the country ’ s ambassador to Ukraine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Prosecutors say Zuberi pocket all but $ 97,500 of $ 850,000 that Al Rahbani and a business associate intend for him to deliver to President Barack Obama ’ s inaugural committee .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For instance , prosecutor in court filing say “ Person A ” and his wife make four donation of $ 2,700 to “ Campaign J ” on Sept. 28 , 2016 , while one of Rahbani ’ s business associate donate $ 400 to the same campaign on that date .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In April , a Washington political consultant be sentence to three year of probation after admit he make a $ 50,000 straw donation on behalf of a wealthy Ukrainian client who want ticket to Trump ’ s inauguration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Zuberi have also be under scrutiny by federal prosecutor in New York after he donate $ 900,000 to Trump ’ s inaugural committee and $ 100,000 to a Republican campaign committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One campaign , not identify by name , accept donation make in the name of one of Zuberi ’ s dead relative , prosecutor say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the donation Sheikh Mohammed Al Rahbani try to send to Obama ’ s inaugural committee be funnel through a seasoned straw donor , the record and the AP analysis show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Federal Election Commission record show hundred of donation from Zuberi and his family to Republican and Democratic national committee , the presidential campaign of Trump and Clinton , and dozen of congressional candidate across the political spectrum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "FEC record indicate that Rahbani , his wife , Kate Rahbani , and one of Rahbani ’ s business associate make donation in those amount on that date to Graham ’ s Senate campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The case share similarity with others recently file against people accuse of channel ban foreign donation to U.S. candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Graham ’ s campaign return some of those donation in 2017 , and when do so list them a go to Zuberi ’ s address , FEC record show .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2021/04/01/983322307/obama-transportation-secretary-didnt-disclose-foreign-cash-loan",
+            "content": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a billionaire who run an illegal scheme provide foreign contribution to U.S. campaign , federal prosecutor say Wednesday . According to prosecutor , Chagoury provide $ 180,000 to individual in the U.S. who give the money to four federal political candidate from 2012 through 2016 . Former U.S. Secretary of Transportation Ray LaHood admit to federal prosecutor that he accept a loan from a foreign billionaire and fail to disclose the check on government form . Former U.S. Secretary of Transportation Ray LaHood admit to federal prosecutor that he accept a loan from a foreign billionaire and fail to disclose the check on government form . Chagoury , with the assistance of Baaklini and other associate , run a complicated and illegal scheme funnel foreign money into U.S. election .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a billionaire who run an illegal scheme provide foreign contribution to U.S. campaign , federal prosecutor say Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to prosecutor , Chagoury provide $ 180,000 to individual in the U.S. who give the money to four federal political candidate from 2012 through 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former U.S. Secretary of Transportation Ray LaHood admit to federal prosecutor that he accept a loan from a foreign billionaire and fail to disclose the check on government form .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former U.S. Secretary of Transportation Ray LaHood admit to federal prosecutor that he accept a loan from a foreign billionaire and fail to disclose the check on government form .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chagoury , with the assistance of Baaklini and other associate , run a complicated and illegal scheme funnel foreign money into U.S. election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kuow.org/stories/obama-transportation-secretary-hid-foreign-cash-loan",
+            "content": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a billionaire who run an illegal scheme provide foreign contribution to U.S. campaign , federal prosecutor say Wednesday . According to prosecutor , Chagoury provide $ 180,000 to individual in the U.S. who give the money to four federal political candidate from 2012 through 2016 . Chagoury , with the assistance of Baaklini and other associate , run a complicated and illegal scheme funnel foreign money into U.S. election .",
+            "domain": "www.kuow.org",
+            "tokenized": [
+                {
+                    "sent": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a billionaire who run an illegal scheme provide foreign contribution to U.S. campaign , federal prosecutor say Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to prosecutor , Chagoury provide $ 180,000 to individual in the U.S. who give the money to four federal political candidate from 2012 through 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chagoury , with the assistance of Baaklini and other associate , run a complicated and illegal scheme funnel foreign money into U.S. election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/california/story/2021-02-18/zuberi-fundraiser-trump-obama-sentenced-prison",
+            "content": "Imaad Zuberi , a San Gabriel Valley businessman who be one of the country ’ s top fundraiser for both Democrats and Republicans , be sentence Thursday to 12 year in prison for scheme to funnel foreign money into U.S. political campaign and skim million of dollar for himself . Zuberi make more than $ 950,000 in unlawful donation to political committee of Obama , Clinton , McCain and many others , nearly all of it from undisclosed foreign donor , accord to prosecutor . In a memo attach to an email , Stephanie Daily Smith , a regional fundraiser for the campaign , remind Podesta that Zuberi have also raise $ 1.2 million for Obama . Zuberi admit he sometimes steal some of the money that foreign donor pay him to make U.S. campaign contribution . In 2019 , Zuberi plead guilty to make illegal campaign contribution , tax evasion and violate the Foreign Agents Registration Act . Zuberi also bundle over $ 1 million in donation from third party . Screening system that Donald Trump , Barack Obama , Hillary Clinton , John McCain and many others use to catch tainted donation fail for year to stop the flow of Zuberi ’ s illegal contribution . From 2011 to 2017 , Zuberi and his wife , Willa Rao , give more than $ 3 million to campaign and presidential inaugural committee . Zuberi plead guilty in June to obstruction of justice , admit that he hide the true source of part of a $ 900,000 donation his investment firm make to Trump ’ s inaugural committee , then try to impede the FBI ’ s investigation of the matter by pay off witness and destroy evidence . ” It disclose the $ 6.5 million in unlawful payment that Zuberi and his firm have receive from Sri Lanka , in part to influence the U.S. government — the same payment that would help land him in prison . All tell , he hide more than $ 19 million in income , accord to the government .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "Imaad Zuberi , a San Gabriel Valley businessman who be one of the country ’ s top fundraiser for both Democrats and Republicans , be sentence Thursday to 12 year in prison for scheme to funnel foreign money into U.S. political campaign and skim million of dollar for himself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Zuberi make more than $ 950,000 in unlawful donation to political committee of Obama , Clinton , McCain and many others , nearly all of it from undisclosed foreign donor , accord to prosecutor .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a memo attach to an email , Stephanie Daily Smith , a regional fundraiser for the campaign , remind Podesta that Zuberi have also raise $ 1.2 million for Obama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Zuberi admit he sometimes steal some of the money that foreign donor pay him to make U.S. campaign contribution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2019 , Zuberi plead guilty to make illegal campaign contribution , tax evasion and violate the Foreign Agents Registration Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Zuberi also bundle over $ 1 million in donation from third party .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Screening system that Donald Trump , Barack Obama , Hillary Clinton , John McCain and many others use to catch tainted donation fail for year to stop the flow of Zuberi ’ s illegal contribution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From 2011 to 2017 , Zuberi and his wife , Willa Rao , give more than $ 3 million to campaign and presidential inaugural committee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Zuberi plead guilty in June to obstruction of justice , admit that he hide the true source of part of a $ 900,000 donation his investment firm make to Trump ’ s inaugural committee , then try to impede the FBI ’ s investigation of the matter by pay off witness and destroy evidence .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” It disclose the $ 6.5 million in unlawful payment that Zuberi and his firm have receive from Sri Lanka , in part to influence the U.S. government — the same payment that would help land him in prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All tell , he hide more than $ 19 million in income , accord to the government .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://abcnews.go.com/blogs/politics/2012/10/group-warns-of-foreign-fraudulent-donors-to-obama-campaign",
+            "content": "The report 's focus be President Obama 's re-election campaign , which have collect historic sum from online fundraising , rely predominantly on donor who give in small-dollar increment . Obama and Democrats announce last week that they raise $ 181 million in September - more than any incumbent president have raise for his re-election in a single month . Schweizer and Boyer present no hard data that show Obama 's 2012 campaign have benefit from widespread foreign or fraudulent donation . The report suggest the Obama campaign be uninhibited in it foreign solicitation , lack rigorous screen for donor ' citizenship and fail to impose basic e-commerce safeguard , such a require donor to provide the Card Verification Value ( the security code on the back of a card ) to prove a donor be in physical possession of the card . The blog state that `` Obama for America '' do not accept contribution from foreign national and take voluntary step to ensure that the campaign be in compliance with federal election law . Conservative blogger Erick Erickson of RedState.com , however , test out the Obama campaign 's online contribution system and document the apparent ease with which someone with a foreign mailing address and fraudulent passport number could make a gift via credit card . The president 's campaign also require a copy of a valid passport from any apparently eligible contributor with a foreign mailing address or from a contributor make a gift from a foreign IP address , accord to the post . `` Campaigns that aggressively raise money online be solicit donation from people around the world-whether they intend to or not , '' write GAI president Peter Schweizer and Newsweek reporter Peter J. Boyer in a post on the report at Newsweek/Daily Beast . A conservative political watchdog group be raise the prospect of an `` illegal-donor loophole '' in the nation 's campaign finance system , and suggest the grassroots-donor-heavy Obama Campaign may stand to benefit . `` While no campaign can control who visit their website , OFA be in no way direct solicitation to foreign national nor knowingly seek foreign contributions-that be the legal standard , '' the Obama camp say on it blog . Under U.S. federal election law , contribution from foreign national to presidential campaign be forbidden .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "The report 's focus be President Obama 's re-election campaign , which have collect historic sum from online fundraising , rely predominantly on donor who give in small-dollar increment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama and Democrats announce last week that they raise $ 181 million in September - more than any incumbent president have raise for his re-election in a single month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Schweizer and Boyer present no hard data that show Obama 's 2012 campaign have benefit from widespread foreign or fraudulent donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The report suggest the Obama campaign be uninhibited in it foreign solicitation , lack rigorous screen for donor ' citizenship and fail to impose basic e-commerce safeguard , such a require donor to provide the Card Verification Value ( the security code on the back of a card ) to prove a donor be in physical possession of the card .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The blog state that `` Obama for America '' do not accept contribution from foreign national and take voluntary step to ensure that the campaign be in compliance with federal election law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conservative blogger Erick Erickson of RedState.com , however , test out the Obama campaign 's online contribution system and document the apparent ease with which someone with a foreign mailing address and fraudulent passport number could make a gift via credit card .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president 's campaign also require a copy of a valid passport from any apparently eligible contributor with a foreign mailing address or from a contributor make a gift from a foreign IP address , accord to the post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Campaigns that aggressively raise money online be solicit donation from people around the world-whether they intend to or not , '' write GAI president Peter Schweizer and Newsweek reporter Peter J. Boyer in a post on the report at Newsweek/Daily Beast .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A conservative political watchdog group be raise the prospect of an `` illegal-donor loophole '' in the nation 's campaign finance system , and suggest the grassroots-donor-heavy Obama Campaign may stand to benefit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` While no campaign can control who visit their website , OFA be in no way direct solicitation to foreign national nor knowingly seek foreign contributions-that be the legal standard , '' the Obama camp say on it blog .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under U.S. federal election law , contribution from foreign national to presidential campaign be forbidden .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/obama-official-undisclosed-foreign-cash-3cf6dc22-3621-4470-8e59-15676bdc6468.html",
+            "content": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a Lebanese-Nigerian billionaire at the center of a sprawling scheme of illegal foreign campaign contribution , federal prosecutor reveal Wednesday . Chagoury be a major donor to the Clinton Foundation , and donate nearly half a million dollar to a Clinton-aligned voter registration group during President Clinton 's 1996 reelection campaign . Why it matter : LaHood , a former Republican congressman from Illinois and a member of President Obama 's Cabinet , agree to repay the money , pay a $ 40,000 fine and cooperate with prosecutor to settle the matter . The Justice Department detail the illicit campaign donation scheme in a statement on Wednesday .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "Former U.S. Transportation Secretary Ray LaHood take $ 50,000 from an associate of a Lebanese-Nigerian billionaire at the center of a sprawling scheme of illegal foreign campaign contribution , federal prosecutor reveal Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chagoury be a major donor to the Clinton Foundation , and donate nearly half a million dollar to a Clinton-aligned voter registration group during President Clinton 's 1996 reelection campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Why it matter : LaHood , a former Republican congressman from Illinois and a member of President Obama 's Cabinet , agree to repay the money , pay a $ 40,000 fine and cooperate with prosecutor to settle the matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Justice Department detail the illicit campaign donation scheme in a statement on Wednesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/former-rap-artist-indicted-for-obama-2012-campaign-donations-11557522077",
+            "content": "Former Fugees rapper Pras Michel be indict on charge of funnel million of dollar in foreign money to then President Obama ’ s 2012 re-election effort , amid widen fallout of the multibillion-dollar fraud scandal at a Malaysian government fund . The founding member of the Fugees hip-hop group be accuse of take money from a Malaysian businessman , who be the alleged mastermind of the fraud at Malaysia ’ s 1MDB fund , and use around $ 2 million to support Mr. Obama ’ s campaign . An indictment charge Mr. Michel with four count include conspiracy to defraud the U.S. and make foreign campaign contribution be unsealed Friday .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "Former Fugees rapper Pras Michel be indict on charge of funnel million of dollar in foreign money to then President Obama ’ s 2012 re-election effort , amid widen fallout of the multibillion-dollar fraud scandal at a Malaysian government fund .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The founding member of the Fugees hip-hop group be accuse of take money from a Malaysian businessman , who be the alleged mastermind of the fraud at Malaysia ’ s 1MDB fund , and use around $ 2 million to support Mr. Obama ’ s campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An indictment charge Mr. Michel with four count include conspiracy to defraud the U.S. and make foreign campaign contribution be unsealed Friday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wglt.org/post/doj-ray-lahood-took-undisclosed-foreign-money-while-serving-obama-cabinet",
+            "content": "The U.S. Department of Justice say former Congressman and U.S. Secretary of Transportation Ray LaHood take undisclosed foreign money while serve in President Barack Obama 's administration . Baaklini be an associate of Gilbert Chagoury , 75 , a Lebanese-Nigerian billionaire who agree to pay the U.S. government $ 1.8 million to settle allegation he illegally contribute $ 180,000 to four different political candidate through proxy . Baaklini also contribute to other politician , include a $ 2,700 contribution to the campaign of current U.S. Rep. Darin LaHood , who be Ray LaHood 's son , in April 2015 , and $ 500 to former U.S. Sen. Mark Kirk , R-Ill. , in March 2016 .",
+            "domain": "www.wglt.org",
+            "tokenized": [
+                {
+                    "sent": "The U.S. Department of Justice say former Congressman and U.S. Secretary of Transportation Ray LaHood take undisclosed foreign money while serve in President Barack Obama 's administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Baaklini be an associate of Gilbert Chagoury , 75 , a Lebanese-Nigerian billionaire who agree to pay the U.S. government $ 1.8 million to settle allegation he illegally contribute $ 180,000 to four different political candidate through proxy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Baaklini also contribute to other politician , include a $ 2,700 contribution to the campaign of current U.S. Rep. Darin LaHood , who be Ray LaHood 's son , in April 2015 , and $ 500 to former U.S. Sen. Mark Kirk , R-Ill. , in March 2016 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nj.com/bergen/2017/02/nj_man_who_disguised_foreign_donations_to_obama_ca.html",
+            "content": "NEWARK -- A Bergen County man be sentence Thursday to a year of federal probation after admit he help disguise $ 80,000 in foreign contribution to Barack Obama ’ s 2012 campaign committee in order to help an Albanian politician attend a campaign event .",
+            "domain": "www.nj.com",
+            "tokenized": [
+                {
+                    "sent": "NEWARK -- A Bergen County man be sentence Thursday to a year of federal probation after admit he help disguise $ 80,000 in foreign contribution to Barack Obama ’ s 2012 campaign committee in order to help an Albanian politician attend a campaign event .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2015/04/24/us/cash-flowed-to-clinton-foundation-as-russians-pressed-for-control-of-uranium-company.html",
+            "content": "His donation through the Fernwood Foundation include $ 1 million report in 2009 , the year his company appeal to the American Embassy to help it keep it mine in Kazakhstan ; $ 250,000 in 2010 , the year the Russians sought majority control ; as well a $ 600,000 in 2011 and $ 500,000 in 2012 . But the episode underscore the special ethical challenge present by the Clinton Foundation , head by a former president who rely heavily on foreign cash to accumulate $ 250 million in asset even a his wife help steer American foreign policy a secretary of state , preside over decision with the potential to benefit the foundation ’ s donor . American political campaign be bar from accept foreign donation . Mr. Telfer ’ s undisclosed donation come in addition to between $ 1.3 million and $ 5.6 million in contribution , which be report , from a constellation of people with tie to Uranium One or UrAsia , the company that originally acquire Uranium One ’ s most valuable asset : the Kazakh mine . Still , the ultimate authority to approve or reject the Russian acquisition rest with the cabinet official on the foreign investment committee , include Mrs. Clinton — whose husband be collect million in donation from people associate with Uranium One . Uranium One ’ s chairman use his family foundation to make four donation total $ 2.35 million . Senator John Barrasso , a Republican from Wyoming , where Uranium One ’ s large American operation be , write to President Obama , say the deal “ would give the Russian government control over a sizable portion of America ’ s uranium production capacity . It also report that several month later , Mr. Giustra have donate $ 31.3 million to Mr. Clinton ’ s foundation . In all , the evening generate $ 16 million in pledge , accord to an article in The Globe and Mail . In the day since Mrs. Clinton announce her candidacy for president , the Clinton Foundation have announce change mean to quell longstanding concern about potential conflict of interest in such donation ; it have limit donation from foreign government , with many , like Russia ’ s , bar from give to all but it health care initiative .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "His donation through the Fernwood Foundation include $ 1 million report in 2009 , the year his company appeal to the American Embassy to help it keep it mine in Kazakhstan ; $ 250,000 in 2010 , the year the Russians sought majority control ; as well a $ 600,000 in 2011 and $ 500,000 in 2012 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the episode underscore the special ethical challenge present by the Clinton Foundation , head by a former president who rely heavily on foreign cash to accumulate $ 250 million in asset even a his wife help steer American foreign policy a secretary of state , preside over decision with the potential to benefit the foundation ’ s donor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "American political campaign be bar from accept foreign donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Telfer ’ s undisclosed donation come in addition to between $ 1.3 million and $ 5.6 million in contribution , which be report , from a constellation of people with tie to Uranium One or UrAsia , the company that originally acquire Uranium One ’ s most valuable asset : the Kazakh mine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Still , the ultimate authority to approve or reject the Russian acquisition rest with the cabinet official on the foreign investment committee , include Mrs. Clinton — whose husband be collect million in donation from people associate with Uranium One .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uranium One ’ s chairman use his family foundation to make four donation total $ 2.35 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Senator John Barrasso , a Republican from Wyoming , where Uranium One ’ s large American operation be , write to President Obama , say the deal “ would give the Russian government control over a sizable portion of America ’ s uranium production capacity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It also report that several month later , Mr. Giustra have donate $ 31.3 million to Mr. Clinton ’ s foundation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In all , the evening generate $ 16 million in pledge , accord to an article in The Globe and Mail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the day since Mrs. Clinton announce her candidacy for president , the Clinton Foundation have announce change mean to quell longstanding concern about potential conflict of interest in such donation ; it have limit donation from foreign government , with many , like Russia ’ s , bar from give to all but it health care initiative .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usnews.com/news/articles/2013/01/07/obama-campaign-fined-big-for-hiding-donors-keeping-illegal-donations",
+            "content": "The campaign accept more than $ 1.3 million in contribution that come from donor who have already give $ 46,000—the maximum allow by FEC rule . The FEC say the Obama campaign fail to disclose the source of 1,300 large donation , which together account for nearly $ 1.9 million . `` The 2008 campaign be a record breaking campaign with over 3 million grassroots donor , '' Obama for America spokeswoman Katie Hogan say in an email to U.S. News . In addition to fail to report big donor and excess donation in a timely manner , the Obama campaign incorrectly date the filing deal with $ 85 million in fund , the FEC claim . Election Commission rule state campaign must report donation of $ 1,000 or more within 20 day of Election Day . Barack Obama 's presidential campaign have be fin $ 375,000 by the Federal Election Commission for violate federal disclosure law , Politico report . The Obama campaign have be quick to point out that the error constitute a small portion of the more than $ 750 million it raise during the 2008 election cycle . This error appear to have be primarily the result of one transfer to the campaign committee from the Obama Victory Fund , a fundraise group that include money raise by the Democratic National Committee that be earmark for the presidential race .",
+            "domain": "www.usnews.com",
+            "tokenized": [
+                {
+                    "sent": "The campaign accept more than $ 1.3 million in contribution that come from donor who have already give $ 46,000—the maximum allow by FEC rule .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FEC say the Obama campaign fail to disclose the source of 1,300 large donation , which together account for nearly $ 1.9 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The 2008 campaign be a record breaking campaign with over 3 million grassroots donor , '' Obama for America spokeswoman Katie Hogan say in an email to U.S. News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition to fail to report big donor and excess donation in a timely manner , the Obama campaign incorrectly date the filing deal with $ 85 million in fund , the FEC claim .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Election Commission rule state campaign must report donation of $ 1,000 or more within 20 day of Election Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barack Obama 's presidential campaign have be fin $ 375,000 by the Federal Election Commission for violate federal disclosure law , Politico report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama campaign have be quick to point out that the error constitute a small portion of the more than $ 750 million it raise during the 2008 election cycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This error appear to have be primarily the result of one transfer to the campaign committee from the Obama Victory Fund , a fundraise group that include money raise by the Democratic National Committee that be earmark for the presidential race .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2016/07/obama-donor-pleads-guilty-in-foreign-donation-scheme-226147",
+            "content": "Last month , Shehu plead guilty to one count of make an illegal foreign contribution to a U.S. campaign . In a plea deal with federal prosecutor , Argeros admit to team up with New Jersey limousine driver Bilal Shehu to receive $ 80,000 `` from a foreign source '' and route it to the Obama Victory Fund , a joint fundraising committee support Obama 's reelection bid and other Democratic candidate . A press release from U.S. Attorney Paul Fishman suggest that the Obama Victory Fund , which be not directly name , be not aware of the illegally-sourced donation . Appearing in federal court in Newark , New Jersey , businessman William Argeros , 57 , admit to felony charge of aid and abet and illegal foreign political donation and make a false statement to a grand jury , court filing show . Albanian prosecutor be reportedly investigating Rama for illegal donation in the U.S. , but no charge against him have be file in Albania or the U.S .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Last month , Shehu plead guilty to one count of make an illegal foreign contribution to a U.S. campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a plea deal with federal prosecutor , Argeros admit to team up with New Jersey limousine driver Bilal Shehu to receive $ 80,000 `` from a foreign source '' and route it to the Obama Victory Fund , a joint fundraising committee support Obama 's reelection bid and other Democratic candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A press release from U.S. Attorney Paul Fishman suggest that the Obama Victory Fund , which be not directly name , be not aware of the illegally-sourced donation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Appearing in federal court in Newark , New Jersey , businessman William Argeros , 57 , admit to felony charge of aid and abet and illegal foreign political donation and make a false statement to a grand jury , court filing show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Albanian prosecutor be reportedly investigating Rama for illegal donation in the U.S. , but no charge against him have be file in Albania or the U.S .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://chicago.suntimes.com/2019/4/16/18412894/obama-foundation-accepts-first-foreign-contributions",
+            "content": "WASHINGTON — In the first quarter of this year , the Barack Obama Presidential Foundation accept it first foreign contribution from individual , accord to an analysis of donor disclose on Monday . While donation from foreign individual be report for the first time , the policy of the Obama Foundation be to not take money from foreign government . AT & T , another new giver , target it $ 1 million gift for three program help Chicago youth : the Obama Foundation Community Leadership Corps , Obama Youth Jobs Corps and My Brother ’ s Keeper Alliance . The Obama Foundation unfortunately only disclose the general range of donation each quarter and post the name of giver on it website — just the name , nothing else , except an asterisk to mark someone new .",
+            "domain": "chicago.suntimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — In the first quarter of this year , the Barack Obama Presidential Foundation accept it first foreign contribution from individual , accord to an analysis of donor disclose on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While donation from foreign individual be report for the first time , the policy of the Obama Foundation be to not take money from foreign government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "AT & T , another new giver , target it $ 1 million gift for three program help Chicago youth : the Obama Foundation Community Leadership Corps , Obama Youth Jobs Corps and My Brother ’ s Keeper Alliance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama Foundation unfortunately only disclose the general range of donation each quarter and post the name of giver on it website — just the name , nothing else , except an asterisk to mark someone new .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://philanthropynewsdigest.org/news/obama-foundation-discloses-2019-second-quarter-donors",
+            "content": "According to the foundation 's website , which list cumulative contribution in dollar amount range , new donor who make cash contribution or commitment of at least $ 1 million between April 1 and June 30 , 2019 , include the Aliko Dangote Foundation in Lagos , Nigeria ; the Chicago-based John D. and Catherine T. MacArthur Foundation ; the Kapor Center for Social Impact in Oakland ; the Chicago-based Polsky Foundation , which be found by Michael Polsky , a major Obama donor and founder , president , and CEO of Invenergy ; Boston-based Fidelity Charitable ; Houston Astros owner and chair James Crane and his wife , Whitney Wheeler Crane ; and Laura DeBonis and her husband , Scott Nathan , a private equity investor and former White House and State Department official . The Chicago-based Obama Foundation have disclose the name of and amount contribute by donor during the second quarter of 2019 , include gift from foreign donor .",
+            "domain": "philanthropynewsdigest.org",
+            "tokenized": [
+                {
+                    "sent": "According to the foundation 's website , which list cumulative contribution in dollar amount range , new donor who make cash contribution or commitment of at least $ 1 million between April 1 and June 30 , 2019 , include the Aliko Dangote Foundation in Lagos , Nigeria ; the Chicago-based John D. and Catherine T. MacArthur Foundation ; the Kapor Center for Social Impact in Oakland ; the Chicago-based Polsky Foundation , which be found by Michael Polsky , a major Obama donor and founder , president , and CEO of Invenergy ; Boston-based Fidelity Charitable ; Houston Astros owner and chair James Crane and his wife , Whitney Wheeler Crane ; and Laura DeBonis and her husband , Scott Nathan , a private equity investor and former White House and State Department official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Chicago-based Obama Foundation have disclose the name of and amount contribute by donor during the second quarter of 2019 , include gift from foreign donor .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://publicintegrity.org/politics/barack-obamas-ambassador-legacy-plum-postings-for-big-donors/",
+            "content": "During his second term , Obama name 31 campaign “ bundlers ” — supporter who raise at least $ 50,000 to fund his presidential campaigns— a ambassador . Obama voluntarily identify his big campaign bundlers , make it possible to determine whether he be offer them ambassadorship . But even Trump , who despite his “ drain the swamp ” mantra have be reward major campaign donor with prime position in his cabinet , will find it difficult to match President Barack Obama ’ s legacy of send top political patron to the world ’ s posh capital city , accord to a Center for Public Integrity analysis .",
+            "domain": "publicintegrity.org",
+            "tokenized": [
+                {
+                    "sent": "During his second term , Obama name 31 campaign “ bundlers ” — supporter who raise at least $ 50,000 to fund his presidential campaigns— a ambassador .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama voluntarily identify his big campaign bundlers , make it possible to determine whether he be offer them ambassadorship .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But even Trump , who despite his “ drain the swamp ” mantra have be reward major campaign donor with prime position in his cabinet , will find it difficult to match President Barack Obama ’ s legacy of send top political patron to the world ’ s posh capital city , accord to a Center for Public Integrity analysis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-clinton-donations/exclusive-despite-hillary-clinton-promise-charity-did-not-disclose-donors-idUKKBN0MF2FQ20150319",
+            "content": "One instance be an admitted oversight , Daley say : CHAI should have tell the State Department before accept donation total $ 340,000 from Switzerland ’ s Agency for Development and Cooperation in 2011 and 2012 . The Clintons say the pledge be intend to defuse accusation that foreign government might use such donation to earn favor . By the time Clinton leave office in February 2013 , the charity have receive million of dollar ( Graphic : ) in new or increased payment from at least seven foreign government .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "One instance be an admitted oversight , Daley say : CHAI should have tell the State Department before accept donation total $ 340,000 from Switzerland ’ s Agency for Development and Cooperation in 2011 and 2012 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Clintons say the pledge be intend to defuse accusation that foreign government might use such donation to earn favor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By the time Clinton leave office in February 2013 , the charity have receive million of dollar ( Graphic : ) in new or increased payment from at least seven foreign government .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://millercenter.org/president/obama/foreign-affairs",
+            "content": "A few day later , Obama accept Russian leader Vladimir Putin ’ s offer to persuade Syria to get rid of it chemical weapon . Obama ’ s other war-related campaign promise be to step up the US military commitment in Afghanistan in order to keep the extremist Taliban regime from regain power and allow al Qaeda once again to use the country a a base of terrorist operation against the United States and it ally .",
+            "domain": "millercenter.org",
+            "tokenized": [
+                {
+                    "sent": "A few day later , Obama accept Russian leader Vladimir Putin ’ s offer to persuade Syria to get rid of it chemical weapon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama ’ s other war-related campaign promise be to step up the US military commitment in Afghanistan in order to keep the extremist Taliban regime from regain power and allow al Qaeda once again to use the country a a base of terrorist operation against the United States and it ally .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,911 @@
+{
+    "event_id": "176854",
+    "claim": "A list of chemicals, written as if they were ingredients on a food label, accurately depicts the chemical composition of a banana. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "Photographs of various fruits accompanied by long lists of chemicals crafted in the style of ingredients labels have been a fixture on the internet since at least 2013, when they were created by James Kennedy, a high school chemistry teacher in Melbourne, Australia. His take on the banana is especially popular:This graphic is an accurate representation of the chemical constituents of your average banana, information that can be verified with the USDA Agricultural Research Database, which compiles studies into the nutritional and chemical content of various food items.Part of what Kennedy was trying to convey with his illustration was that even completely natural foods, when described scientifically, can sound unnatural and potentially unhealthy, as reported in the :If these ingredients are considered hierarchically, the banana sounds much more simple. Like all fruit, it contains water, sugars, starch, fiber, amino acids, fatty acids, minerals (i.e., ash), and chemicals that impart their coloring. Myriad names can be ascribed to the various different chemicals that fit these groups, and Kennedy used a variety of different nomenclatural methods to make that point.The most common grouping of chemicals in the banana are sugars, and in this case the sugars are predominantly glucose and fructose, with lesser amounts of sucrose and maltose. After starch, a polysaccharide chemical found in abundance in plants, the next listed set of chemicals is fiber, another common group of carbohydrate chemicals.Kennedy represented the fiber as a group of chemicals listed by their “E numbers”, which are codes assigned to substances permitted as food additives within the European Union. In reality, all of these chemicals are either cellulose (the most common chemical in plants) or various breakdown products of cellulose:After the fiber, Kennedy listed amino acids, a group of simple chemicals ubiquitous to life on this planet. All the chemicals listed are present in bananas, according to the USDA. Fatty acids, the next group of chemicals, are similarly ubiquitous in nature, and all of those chemicals listed above are also found in bananas. Likewise, ash is another way of referring to the mineral content of a food item, and in this case Kennedy used a variety of different chemical-naming conventions to obscure the fact that each of them is commonly known by other names:Similarly, the coloring agents — all of which are natural — might be better recognized by different names:The remaining chemicals may sound intimidating, but they too are natural. E1510 is another name for ethanol, which forms naturally as fruit ferments. The final “natural ripening agent,” ethylene gas, might sound downright nefarious but actually represents a neat intersection of plant and food science. In nature, the gas is a plant hormone associated with aging that triggers the ripening process. In the food industry, the gas is used on industrial scales to ripen a variety of fruits and vegetables all at once.In sum, this graphic accurately depicts the chemicals that comprise a banana, using a variety of tactics to make that completely natural food appear to be full of “chemicals” — something originally created by a high school chemistry teacher as part of a lesson on chemophobia.",
+    "reports": [
+        {
+            "link": "https://www.businessinsider.com/what-chemicals-are-in-an-all-natural-banana-2017-6",
+            "content": "He create an ingredient list for natural product , like the banana above , to show that there be many chemical in our food 's natural flavor and color . But the fact be that all food , and everything around u , be make up of chemical , whether they occur in nature or be make in a lab .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "He create an ingredient list for natural product , like the banana above , to show that there be many chemical in our food 's natural flavor and color .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the fact be that all food , and everything around u , be make up of chemical , whether they occur in nature or be make in a lab .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://dotearth.blogs.nytimes.com/2014/01/21/bananas-are-chemicals-too/",
+            "content": "Each show a common fruit and list the chemical constituent a if they be ingredient on the label of a manufactured food . Anthocynanins , for example , which be say to\nThe constituent ingredient be find on a nutritional analysis website ; the color and preservative component be from old botany book ; and the flavor compound be find in publish , peer-reviewed gas spectroscopy\nThey write a particularly eye-opening paper in 1990 , publish in the journal Mutation Research and title “ Paracelsus to parascience : the environmental cancer distraction . I want to erode the fear that many people have of ‘ chemical ’ , and\nThis poster series break down all the major ingredient in popular natural food — use E-numbers and IUPAC name instead of common name where they exist . Here ’ s the banana poster :\nAs a high-school chemistry teacher , I make these poster for my student a a visual introduction to our organic chemistry course .",
+            "domain": "dotearth.blogs.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Each show a common fruit and list the chemical constituent a if they be ingredient on the label of a manufactured food .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anthocynanins , for example , which be say to\nThe constituent ingredient be find on a nutritional analysis website ; the color and preservative component be from old botany book ; and the flavor compound be find in publish , peer-reviewed gas spectroscopy\nThey write a particularly eye-opening paper in 1990 , publish in the journal Mutation Research and title “ Paracelsus to parascience : the environmental cancer distraction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I want to erode the fear that many people have of ‘ chemical ’ , and\nThis poster series break down all the major ingredient in popular natural food — use E-numbers and IUPAC name instead of common name where they exist .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here ’ s the banana poster :\nAs a high-school chemistry teacher , I make these poster for my student a a visual introduction to our organic chemistry course .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chemistryislife.com/the-chemistry-of-bananas-2",
+            "content": "A banana do have a food label that state it nutritional fact and depend on where you buy them , it will possibly be different ( this be the brand ) . In regard to banana , they be very plentiful in this chemical . A banana be a tropical fruit with a yellow , peelable skin with edible pulpy flesh reside within it . All of the compound I list a the most important to the banana be naturally occur . As for pectin it be what shape the banana and make it turn from a vivid green to bold yellow , and then a brown-black color ( ripen ) . The banana , unknown to most , be actually classify a a berry and an herb .",
+            "domain": "www.chemistryislife.com",
+            "tokenized": [
+                {
+                    "sent": "A banana do have a food label that state it nutritional fact and depend on where you buy them , it will possibly be different ( this be the brand ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In regard to banana , they be very plentiful in this chemical .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A banana be a tropical fruit with a yellow , peelable skin with edible pulpy flesh reside within it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All of the compound I list a the most important to the banana be naturally occur .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for pectin it be what shape the banana and make it turn from a vivid green to bold yellow , and then a brown-black color ( ripen ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The banana , unknown to most , be actually classify a a berry and an herb .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hindawi.com/journals/ijfs/2019/2520179/",
+            "content": "Most study suggest that there be no difference in biochemical composition and sensory quality in banana treat with chemical that induce ripen from naturally ripen banana . Effect of induced ripen agent include calcium carbide , potash , and leaf of Irvingia gabonensis and Jatropha curcas leave on nutritional and mineral composition of banana be study by Sogo-Temi et al . It be show in this study that acetylene emits from calcium carbide can enhance banana ripening a treated fruit be uniformly yellow with good flavour , medium starch content , and comparatively soft texture after 120 hour while control sample be remain unripe after same period of time . Adane [ 51 ] compare ethephon treatment and traditional kerosene smoke treatment and their effect on ripening of “ Cavendish ” banana , where it be show that ethephon treat fruit demonstrate high sensory quality . The banana ripen process can be enhance use artificial ripen agent such a ethylene gas , ethephon , acetylene ( emit from calcium carbide ) , ethylene glycol , and alkyl alcohol ( contain 6-14 carbon atom such a lauryl alcohol ) . Since banana be a climactic fruit , induced ripening be essential in commercial scale banana cultivation and distribution to assure good flavour , texture , and uniform peel colour . , 2011 , which show that sensory quality and other physicochemical quality attribute be excellent in ethephon ( 500-1000 ppm ) treat banana compare to naturally ripen fruit at the day of storage . Modern banana ripen room be design with technique to control temperature , humidity , and ethylene gas concentration and they be equip with proper ventilation and exhaust system . In some fruit such a banana which contain high level of starch in the fruit flesh , enzymatic hydrolysis of starch be a major factor in fruit softening . Most of ester compound include n-butyl acetate , isopentyl isobutanoate , 2-pentyl formate , 2-cyclohexanol acetate , ethyl isobutanoate , and 2-pentenyl butanoate be detect in significantly high level in naturally ripen banana compare to ethylene treated sample . Similar research be conduct by Sarananda [ 55 ] where effect of acetylene liberate from calcium carbide on ripening of “ Embul ” ( Musa acuminata , AAB ) banana . Further , it have be report , in this patent , that lauryl alcohol be prefer to ripen green banana and treatment with 0.01 % by the weight of banana can change banana to completely yellow within 48 hour without any loss of palatability . Reference [ 63 ] compare ripen technique such a ethephon , smoking , and keep in low density polyethylene plastic , in Teff straw , and in banana leaf . Some plantain type of banana identify in Sri Lanka include Alukesel ( ABB ) , Mondan ( ABB ) , ElaMondan , Atamuru , and Kithala . Further in this study , the best physicochemical quality attribute such a total sugar , vitamin C , titratable acidity , pH , and total soluble solid be record in naturally ripen banana compare to artificially ripened banana , whereas controversial result be obtain by Kulkarni et al. Hakim [ 65 ] find that nutritional value of ethephon treat banana be less than untreated sample where ascorbic acid content , β-carotene content , and mineral content be less in quantity . As well total polyphenols content be report a significantly different in the two type where naturally ripen banana have 24.90 GAE , mg/L while ethylene treat banana have 25.10 GAE , mg/L level of total polyphenols . Von Loesecke [ 34 ] comment that some scientist show that ripen of banana can be induce by expose them to vapour of apple , which be confirm when it be show that ripen of banana can be accelerate use the vapour that have previously pass through ripe banana . Finally , it be conclude that exogenous ethylene treatment can induce ripening of banana with increased rate of respiration and increase level of endogenous ethylene [ 35 , 36 ] .",
+            "domain": "www.hindawi.com",
+            "tokenized": [
+                {
+                    "sent": "Most study suggest that there be no difference in biochemical composition and sensory quality in banana treat with chemical that induce ripen from naturally ripen banana .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Effect of induced ripen agent include calcium carbide , potash , and leaf of Irvingia gabonensis and Jatropha curcas leave on nutritional and mineral composition of banana be study by Sogo-Temi et al .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be show in this study that acetylene emits from calcium carbide can enhance banana ripening a treated fruit be uniformly yellow with good flavour , medium starch content , and comparatively soft texture after 120 hour while control sample be remain unripe after same period of time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Adane [ 51 ] compare ethephon treatment and traditional kerosene smoke treatment and their effect on ripening of “ Cavendish ” banana , where it be show that ethephon treat fruit demonstrate high sensory quality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The banana ripen process can be enhance use artificial ripen agent such a ethylene gas , ethephon , acetylene ( emit from calcium carbide ) , ethylene glycol , and alkyl alcohol ( contain 6-14 carbon atom such a lauryl alcohol ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since banana be a climactic fruit , induced ripening be essential in commercial scale banana cultivation and distribution to assure good flavour , texture , and uniform peel colour .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": ", 2011 , which show that sensory quality and other physicochemical quality attribute be excellent in ethephon ( 500-1000 ppm ) treat banana compare to naturally ripen fruit at the day of storage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Modern banana ripen room be design with technique to control temperature , humidity , and ethylene gas concentration and they be equip with proper ventilation and exhaust system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In some fruit such a banana which contain high level of starch in the fruit flesh , enzymatic hydrolysis of starch be a major factor in fruit softening .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Most of ester compound include n-butyl acetate , isopentyl isobutanoate , 2-pentyl formate , 2-cyclohexanol acetate , ethyl isobutanoate , and 2-pentenyl butanoate be detect in significantly high level in naturally ripen banana compare to ethylene treated sample .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Similar research be conduct by Sarananda [ 55 ] where effect of acetylene liberate from calcium carbide on ripening of “ Embul ” ( Musa acuminata , AAB ) banana .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Further , it have be report , in this patent , that lauryl alcohol be prefer to ripen green banana and treatment with 0.01 % by the weight of banana can change banana to completely yellow within 48 hour without any loss of palatability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Reference [ 63 ] compare ripen technique such a ethephon , smoking , and keep in low density polyethylene plastic , in Teff straw , and in banana leaf .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some plantain type of banana identify in Sri Lanka include Alukesel ( ABB ) , Mondan ( ABB ) , ElaMondan , Atamuru , and Kithala .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Further in this study , the best physicochemical quality attribute such a total sugar , vitamin C , titratable acidity , pH , and total soluble solid be record in naturally ripen banana compare to artificially ripened banana , whereas controversial result be obtain by Kulkarni et al.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Hakim [ 65 ] find that nutritional value of ethephon treat banana be less than untreated sample where ascorbic acid content , β-carotene content , and mineral content be less in quantity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As well total polyphenols content be report a significantly different in the two type where naturally ripen banana have 24.90 GAE , mg/L while ethylene treat banana have 25.10 GAE , mg/L level of total polyphenols .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Von Loesecke [ 34 ] comment that some scientist show that ripen of banana can be induce by expose them to vapour of apple , which be confirm when it be show that ripen of banana can be accelerate use the vapour that have previously pass through ripe banana .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Finally , it be conclude that exogenous ethylene treatment can induce ripening of banana with increased rate of respiration and increase level of endogenous ethylene [ 35 , 36 ] .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://gizmodo.com/all-natural-bananas-are-filled-with-chemicals-1504564161",
+            "content": "All the ingredient on this list be 100 % natural in a non-GM banana . For brevity 's sake , I omit the thousand of minority ingredient find in a banana , include DNA . The next time you 're peel a fresh , organic , `` all-natural '' banana just remember : it 's fill with ton of chemical ! I make this graphic to demonstrate how `` natural '' product ( such a a banana ) contain scary-looking ingredient a well . James Kennedy , a chemistry teacher living in Australia , have create some fun image that show just what chemical be lurk inside your favorite food — even the `` organic , '' unprocessed one .",
+            "domain": "gizmodo.com",
+            "tokenized": [
+                {
+                    "sent": "All the ingredient on this list be 100 % natural in a non-GM banana .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For brevity 's sake , I omit the thousand of minority ingredient find in a banana , include DNA .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The next time you 're peel a fresh , organic , `` all-natural '' banana just remember : it 's fill with ton of chemical !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I make this graphic to demonstrate how `` natural '' product ( such a a banana ) contain scary-looking ingredient a well .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "James Kennedy , a chemistry teacher living in Australia , have create some fun image that show just what chemical be lurk inside your favorite food — even the `` organic , '' unprocessed one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://jameskennedymonash.wordpress.com/2013/12/12/ingredients-of-an-all-natural-banana/",
+            "content": "All the ingredient on this list be 100 % natural in a non-GM banana . i read half the comment and one post ( in very bad french ) suggest you should eat banana with it skin to get all ingredient you need Still I would be interested in learn the full ingredient composition of the fruit . A banana be a one-word ingredient , but it be a complex food . For brevity ’ s sake , I omit the thousand of minority ingredient find in a banana , include DNA\nADDITIONAL NOTE : this banana contain 0.5 nanocuries of radioactive material . I use to eat banana for breakfast before , and I ’ m really curious of the nutrient I ’ m get from the food . I be wonder why the chemical element potassium be not on the list , a a regular size banana contain about 360mg of it . Yet make an image indicate the ingredient in a banana – one of which be Glutamic Acid . They wouldn ’ t have a need to put a label on their banana , rather check them for bug to make sure they ’ re “ fresh . I ’ m not sure that the banana be up there on the list of food that be genetically modify ( though they might be ) but they certainly have be a source of political power . To say that a banana have just as many ingredient , pronounceable or not , a a bag of cheetos – so what ? I also think that the chemical composition change specially with the taste when the banana age . I make this graphic to demonstrate how “ natural ” product ( such a a banana ) contain scary-looking ingredient a well . I want to let you know that I use your banana graphic in a recent blog post about label GMOs : Great job . Some of the full ingredient list , especially passion fruit and kiwi , be very long . Quite right about the complexity – here be the far short list of ingredient in lolly banana ( accord to cane sugar , glucose syrup ( wheat or corn ) , invert syrup , gelatine , flavour , colour ( 102 ) ! In fact , the FDA mandate a food composition test in which producer determine how much fat , carbohydrate , and protein be in a certain food by burn each organic element out of it at different temperature . And of course , all banana be also clone ( at least those of the Cavendish cultivar , the most commonly eat one ) . I believe ( from the nutritional data I look up on different thing ) that there be probably more sugar , like 22-25 % in banana . TV commercial be triumph a standard of pronounceability to food ingredient these day , but many thing be pronounceable only because someone invent a nice word for it , like acetylsalicylic acid become “ aspirin ” .",
+            "domain": "jameskennedymonash.wordpress.com",
+            "tokenized": [
+                {
+                    "sent": "All the ingredient on this list be 100 % natural in a non-GM banana .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "i read half the comment and one post ( in very bad french ) suggest you should eat banana with it skin to get all ingredient you need Still I would be interested in learn the full ingredient composition of the fruit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A banana be a one-word ingredient , but it be a complex food .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For brevity ’ s sake , I omit the thousand of minority ingredient find in a banana , include DNA\nADDITIONAL NOTE : this banana contain 0.5 nanocuries of radioactive material .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I use to eat banana for breakfast before , and I ’ m really curious of the nutrient I ’ m get from the food .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I be wonder why the chemical element potassium be not on the list , a a regular size banana contain about 360mg of it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yet make an image indicate the ingredient in a banana – one of which be Glutamic Acid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They wouldn ’ t have a need to put a label on their banana , rather check them for bug to make sure they ’ re “ fresh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ m not sure that the banana be up there on the list of food that be genetically modify ( though they might be ) but they certainly have be a source of political power .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "To say that a banana have just as many ingredient , pronounceable or not , a a bag of cheetos – so what ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I also think that the chemical composition change specially with the taste when the banana age .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I make this graphic to demonstrate how “ natural ” product ( such a a banana ) contain scary-looking ingredient a well .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I want to let you know that I use your banana graphic in a recent blog post about label GMOs : Great job .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the full ingredient list , especially passion fruit and kiwi , be very long .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Quite right about the complexity – here be the far short list of ingredient in lolly banana ( accord to cane sugar , glucose syrup ( wheat or corn ) , invert syrup , gelatine , flavour , colour ( 102 ) !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In fact , the FDA mandate a food composition test in which producer determine how much fat , carbohydrate , and protein be in a certain food by burn each organic element out of it at different temperature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And of course , all banana be also clone ( at least those of the Cavendish cultivar , the most commonly eat one ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I believe ( from the nutritional data I look up on different thing ) that there be probably more sugar , like 22-25 % in banana .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "TV commercial be triumph a standard of pronounceability to food ingredient these day , but many thing be pronounceable only because someone invent a nice word for it , like acetylsalicylic acid become “ aspirin ” .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://academic.oup.com/fqs/article/2/4/183/5164297",
+            "content": "Banana rhizome be use a food and for medicinal property as well in South India a it be very rich in phenolic ( Kandasamy and Aradhya , 2014 ) . Chemical composition of banana fruit ( a be basis per 100 g )\nChemical composition of banana fruit ( a be basis per 100 g )\nBanana tree and banana fruit of various maturity . Jiwan S Sidhu , Tasleem A Zafar , Bioactive compound in banana fruit and their health benefit , Food Quality and Safety , Volume 2 , Issue 4 , December 2018 , Pages 183–188 ,\nBanana be an edible fruit and be herbaceous flower plant belonging to the genus Musa and the family Musaceae . The phytochemistry and pharmacology of wild banana ( Musa acuminata Colla ) have be review by Mathew and Negi ( 2017 ) and they suggest the use of banana pulp and peel for the development of drug and use in functional food . They have suggest the use of this valuable by-product from banana fruit processing industry in food and pharmaceutical industry . Uses and health benefit of bioactive compound in banana\nUses and health benefit of bioactive compound in banana\nA flavonoid , leucocyanidin , have be identify a a predominant component of aqueous extract of unripe banana pulp that show significant anti-ulcerogenic activity ( Lewis et al. Anthocyanins from banana bract ( Musa x paradisiaca ) a potential food colorants . Traditional us , phytochemistry and pharmacology of wild banana ( Musa acuminata Colla ) : a review . ( 2011 ) have analyse the native banana pseudo-stem flour ( NBPF ) and tender core of pseudo-stem flour ( TCBPF ) for chemical and functional property . Various phenolic present in banana have be identify a follow : gallic acid , catechin , epicatechin , tannin , and anthocyanins . Thus , the banana peel and pulp both be good source of health-promoting phenolic compound . Not only banana pulp , but pseudo stem and banana fruit peel have be find to be the good source of antioxidant ( Table 2 ) . Tryptophan be one of the precursor for the synthesis of dopamine , the presence of this amino acid in banana peel increase the interest in possibility of prevent neurodegenerative disease like Parkinson ’ s use this by-product of food-processing industry by develop pharmaceutical formulation . The lipophilic extract of ripe banana pulp from several cultivar of the M. acuminata and M. balbisiana specie have be find to be a source of ω-3 and ω-6 fatty acid , phytosterols , long-chain aliphatic alcohol , and α-tocopherol , thus offer well-established nutritional and health benefit ( Vilela et al. ( 2009 ) have detect many phenolic in banana , such a ferulic , sinapic , salicylic , gallic , p-hydroxybenzoic , vanillic , syringic , gentisic , and p-coumaric acid a major component . Cavendish group banana , be the main export item from the banana-exporting country , usually refers to soft , sweet , and dessert banana in the Western country , but the plantain banana have firm , starchy fruit which be suitable for cook a a vegetable . Banana peel be report to be rich in many high-value health-promoting antioxidant phytochemical , such a anthocyanins , delphinidin , and cyanidins ( Seymour , 1993 ) . Antioxidant activity , total polyphenol , and individual polyphenolic compound present in organic acid treat ( 20 g/l ) unripe banana flour\nAntioxidant activity , total polyphenol , and individual polyphenolic compound present in organic acid treat ( 20 g/l ) unripe banana flour\nCarotenoids be a class of compound have some 600 member in this family . Certain banana cultivar rich in provitamin A carotenoid can be grow and consume by the poor population of the world that be have serious vitamin A deficiency , and the consumption of such banana fruit would alleviate vitamin A deficiency ( Fungo and Pillay , 2013 ) . ( 2010 ) have report the banana peel extract to be rich in dopamine , L-dopa , and catecholamine with a significant antioxidant capacity . Among the flavonoid detect in banana be a follow : quercetin , myricetin , kaempferol , and cyanidin which provide health benefit mainly because they act a free radical , ROS , and RNS scavenger ( Kevers et al. Compositional variation in b-carotene content , carbohydrate and antioxidant enzyme in select banana cultivar . Banana be know to be rich in carbohydrate , dietary fibre , certain vitamin , and mineral ( Table 1 ) . Various phytosterols report in the banana peel be stigmasterol , -sitosterol , campesterol , 24-methylene cycloartenol , cycloeucalenol , and cycloartenol ( Knapp and Nicholas , 1969 ) . Chemical and functional property of the native banana ( Musa acuminate x balbisiana Colla cv . Among the carotenoid present in banana fruit , α-carotene , β-carotene , and β-cryptoxanthin have provitamin A activity , but others like lycopene and lutein have a strong antioxidant capacity ( Erdman et al. Interestingly , banana fruit have flesh not only rich in starch which change into sugar on ripen but be also a good source of resistant starch . ( 1958 ) be the first to report the amount of various catecholamine in banana pulp a follow : serotonin , 28 µg/g ; norepinephrine , 1.9 µg/g ; and dopamine , 7.9 µg/g . Banana contain a large amount of dopamine and norepinephrine ( Buckley , 1961 ) . The concentration of dopamine in the pulp of yellow banana ( M. acuminata ) , red banana ( Musa sapientum ) , and plantain have be report to be 42 , 54 , and 5.5 µg/g , respectively ( Feldman et al. It be not only the banana fruit pulp , but also the peel of this fruit be know to contain many important phytochemical and offer many health benefit . ( 2016 ) have report that banana be rich in many bioactive compound , such a carotenoid , flavonoid , phenolic , amine , vitamin C , and vitamin E have antioxidant activity to provide many human health benefit . Banana be know to be rich not only in carbohydrate , dietary fibre , certain vitamin and mineral , but be also rich in many health-promoting bioactive phytochemical . Evaluation of nutritional and antioxidant property of the tropical fruit banana , litchi , mango , papaya , passion fruit and pineapple cultivate in réunion french island . ( 2018 ) have analyse the essential macro and trace mineral as well a phenolic compound in unripe banana flour obtain from the pulp of four cultivar treat with ascorbic , citric , and lactic acid before dry in a forced air dryer at 70°C . All the edible banana fruit be seedless ( parthenocarpic ) and belong to two main specie , Musa acuminata Colla and Musa balbisiana Colla . Serotonin , norepinephrine , and related compound in banana . When banana be consume by human , serotonin present in the pulp ( range from 8 to 50 µg/g ) create a feeling of well-being and happiness . Although banana be native to Indomalaya and Australia , Papua New Guinea be the first to domesticate this fruit .",
+            "domain": "academic.oup.com",
+            "tokenized": [
+                {
+                    "sent": "Banana rhizome be use a food and for medicinal property as well in South India a it be very rich in phenolic ( Kandasamy and Aradhya , 2014 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chemical composition of banana fruit ( a be basis per 100 g )\nChemical composition of banana fruit ( a be basis per 100 g )\nBanana tree and banana fruit of various maturity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jiwan S Sidhu , Tasleem A Zafar , Bioactive compound in banana fruit and their health benefit , Food Quality and Safety , Volume 2 , Issue 4 , December 2018 , Pages 183–188 ,\nBanana be an edible fruit and be herbaceous flower plant belonging to the genus Musa and the family Musaceae .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The phytochemistry and pharmacology of wild banana ( Musa acuminata Colla ) have be review by Mathew and Negi ( 2017 ) and they suggest the use of banana pulp and peel for the development of drug and use in functional food .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They have suggest the use of this valuable by-product from banana fruit processing industry in food and pharmaceutical industry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Uses and health benefit of bioactive compound in banana\nUses and health benefit of bioactive compound in banana\nA flavonoid , leucocyanidin , have be identify a a predominant component of aqueous extract of unripe banana pulp that show significant anti-ulcerogenic activity ( Lewis et al.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anthocyanins from banana bract ( Musa x paradisiaca ) a potential food colorants .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Traditional us , phytochemistry and pharmacology of wild banana ( Musa acuminata Colla ) : a review .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( 2011 ) have analyse the native banana pseudo-stem flour ( NBPF ) and tender core of pseudo-stem flour ( TCBPF ) for chemical and functional property .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Various phenolic present in banana have be identify a follow : gallic acid , catechin , epicatechin , tannin , and anthocyanins .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Thus , the banana peel and pulp both be good source of health-promoting phenolic compound .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Not only banana pulp , but pseudo stem and banana fruit peel have be find to be the good source of antioxidant ( Table 2 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tryptophan be one of the precursor for the synthesis of dopamine , the presence of this amino acid in banana peel increase the interest in possibility of prevent neurodegenerative disease like Parkinson ’ s use this by-product of food-processing industry by develop pharmaceutical formulation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The lipophilic extract of ripe banana pulp from several cultivar of the M. acuminata and M. balbisiana specie have be find to be a source of ω-3 and ω-6 fatty acid , phytosterols , long-chain aliphatic alcohol , and α-tocopherol , thus offer well-established nutritional and health benefit ( Vilela et al.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( 2009 ) have detect many phenolic in banana , such a ferulic , sinapic , salicylic , gallic , p-hydroxybenzoic , vanillic , syringic , gentisic , and p-coumaric acid a major component .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Cavendish group banana , be the main export item from the banana-exporting country , usually refers to soft , sweet , and dessert banana in the Western country , but the plantain banana have firm , starchy fruit which be suitable for cook a a vegetable .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Banana peel be report to be rich in many high-value health-promoting antioxidant phytochemical , such a anthocyanins , delphinidin , and cyanidins ( Seymour , 1993 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Antioxidant activity , total polyphenol , and individual polyphenolic compound present in organic acid treat ( 20 g/l ) unripe banana flour\nAntioxidant activity , total polyphenol , and individual polyphenolic compound present in organic acid treat ( 20 g/l ) unripe banana flour\nCarotenoids be a class of compound have some 600 member in this family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Certain banana cultivar rich in provitamin A carotenoid can be grow and consume by the poor population of the world that be have serious vitamin A deficiency , and the consumption of such banana fruit would alleviate vitamin A deficiency ( Fungo and Pillay , 2013 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( 2010 ) have report the banana peel extract to be rich in dopamine , L-dopa , and catecholamine with a significant antioxidant capacity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Among the flavonoid detect in banana be a follow : quercetin , myricetin , kaempferol , and cyanidin which provide health benefit mainly because they act a free radical , ROS , and RNS scavenger ( Kevers et al.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Compositional variation in b-carotene content , carbohydrate and antioxidant enzyme in select banana cultivar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Banana be know to be rich in carbohydrate , dietary fibre , certain vitamin , and mineral ( Table 1 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Various phytosterols report in the banana peel be stigmasterol , -sitosterol , campesterol , 24-methylene cycloartenol , cycloeucalenol , and cycloartenol ( Knapp and Nicholas , 1969 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Chemical and functional property of the native banana ( Musa acuminate x balbisiana Colla cv .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Among the carotenoid present in banana fruit , α-carotene , β-carotene , and β-cryptoxanthin have provitamin A activity , but others like lycopene and lutein have a strong antioxidant capacity ( Erdman et al.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Interestingly , banana fruit have flesh not only rich in starch which change into sugar on ripen but be also a good source of resistant starch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( 1958 ) be the first to report the amount of various catecholamine in banana pulp a follow : serotonin , 28 µg/g ; norepinephrine , 1.9 µg/g ; and dopamine , 7.9 µg/g .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Banana contain a large amount of dopamine and norepinephrine ( Buckley , 1961 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The concentration of dopamine in the pulp of yellow banana ( M. acuminata ) , red banana ( Musa sapientum ) , and plantain have be report to be 42 , 54 , and 5.5 µg/g , respectively ( Feldman et al.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be not only the banana fruit pulp , but also the peel of this fruit be know to contain many important phytochemical and offer many health benefit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( 2016 ) have report that banana be rich in many bioactive compound , such a carotenoid , flavonoid , phenolic , amine , vitamin C , and vitamin E have antioxidant activity to provide many human health benefit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Banana be know to be rich not only in carbohydrate , dietary fibre , certain vitamin and mineral , but be also rich in many health-promoting bioactive phytochemical .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Evaluation of nutritional and antioxidant property of the tropical fruit banana , litchi , mango , papaya , passion fruit and pineapple cultivate in réunion french island .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( 2018 ) have analyse the essential macro and trace mineral as well a phenolic compound in unripe banana flour obtain from the pulp of four cultivar treat with ascorbic , citric , and lactic acid before dry in a forced air dryer at 70°C .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All the edible banana fruit be seedless ( parthenocarpic ) and belong to two main specie , Musa acuminata Colla and Musa balbisiana Colla .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Serotonin , norepinephrine , and related compound in banana .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When banana be consume by human , serotonin present in the pulp ( range from 8 to 50 µg/g ) create a feeling of well-being and happiness .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although banana be native to Indomalaya and Australia , Papua New Guinea be the first to domesticate this fruit .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://foodispower.org/our-food-choices/bananas/",
+            "content": "The original iteration of the logo be a sexy female banana , perpetuate a widespread association between image of woman and food that paint the former a passive and consumable . Retrieved from ( 6/02/14 )\n[ 19 ] Milford , P. “ Dole , Del Monte , Dow Chemical sue over banana pesticide. Research begin in the early 1900s to develop a disease-resistant banana , which lead to the introduction of the Cavendish banana—the kind we find in the produce department of grocery store today . Chiquita Banana interrupt , singing : “ f you ’ d like to be refine and civilize , then your eat habit really ought to be revise , ” to the tune of the company ’ s famous jingle , and suggest a recipe for banana scallop a an alternative . [ 17 ]\nOne of the agrochemicals commonly use in banana cultivation , dibromochloropropane ( DBCP ) , be classify by the EPA a a probable human carcinogen [ 13 ] and have be ban in the U.S. since 1979 ; [ 19 ] however , it continue to be use extensively in Latin America . Organic banana may mean worker be not expose to horrific chemical , but they do not typically improve wage or other working condition for those labor on the plantation . [ 27 ]\nEnvironmental impact : Clear-cutting and chemical use\nThe process of produce banana to fee worldwide demand have be , and continue to be , environmentally destructive . [ 26 ]\nChild laborer be also regularly expose to agrochemicals , usually without protective equipment—handling the pesticide-coated sheet of plastic that cover banana still on the stalk , apply fungicide before shipping , or even work while pesticide be spray aerially over the plantation .",
+            "domain": "foodispower.org",
+            "tokenized": [
+                {
+                    "sent": "The original iteration of the logo be a sexy female banana , perpetuate a widespread association between image of woman and food that paint the former a passive and consumable .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Retrieved from ( 6/02/14 )\n[ 19 ] Milford , P. “ Dole , Del Monte , Dow Chemical sue over banana pesticide.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Research begin in the early 1900s to develop a disease-resistant banana , which lead to the introduction of the Cavendish banana—the kind we find in the produce department of grocery store today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chiquita Banana interrupt , singing : “ f you ’ d like to be refine and civilize , then your eat habit really ought to be revise , ” to the tune of the company ’ s famous jingle , and suggest a recipe for banana scallop a an alternative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "[ 17 ]\nOne of the agrochemicals commonly use in banana cultivation , dibromochloropropane ( DBCP ) , be classify by the EPA a a probable human carcinogen [ 13 ] and have be ban in the U.S. since 1979 ; [ 19 ] however , it continue to be use extensively in Latin America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Organic banana may mean worker be not expose to horrific chemical , but they do not typically improve wage or other working condition for those labor on the plantation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 27 ]\nEnvironmental impact : Clear-cutting and chemical use\nThe process of produce banana to fee worldwide demand have be , and continue to be , environmentally destructive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 26 ]\nChild laborer be also regularly expose to agrochemicals , usually without protective equipment—handling the pesticide-coated sheet of plastic that cover banana still on the stalk , apply fungicide before shipping , or even work while pesticide be spray aerially over the plantation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21250902/",
+            "content": "Chemical composition and glycemic index of four variety of banana ( Musa spp . ) Thus , consumption of a banana from any of these variety can be recommend a a snack for healthy or diabetic patient who be under dietary management or pharmacological drug to regulate blood glucose response in between meal .",
+            "domain": "pubmed.ncbi.nlm.nih.gov",
+            "tokenized": [
+                {
+                    "sent": "Chemical composition and glycemic index of four variety of banana ( Musa spp . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thus , consumption of a banana from any of these variety can be recommend a a snack for healthy or diabetic patient who be under dietary management or pharmacological drug to regulate blood glucose response in between meal .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.5620160110",
+            "content": "Appendix 1 list the name of agrochemicals that be use in the banana cultivation industry in Latin America ( Ecuador Trade Center , personal communication ; Embassy of Costa Rica , personal communication ) . Substantial use of agricultural chemical be require to successfully cultivate banana , and this have raise concern over the effect of these chemical on worker , wildlife , and tropical environment in general . Before planting , banana corm be soak in warm water and coat with mud contain nematocides . We review the practice of banana cultivation and address the major chemical input to plantation . We recommend the application of an environmental risk assessment process to the use of agricultural chemical on banana plantation . Fruits be also spray with fungicide and alum before ship to reduce postharvest rot and discoloration due to latex contact the banana finger during transport [ 6 , 11 ] . A review of know wildlife‐related impact of agricultural chemical commonly use in banana plantation raise substantial concern about the large‐scale environmental impact in tropical terrestrial and aquatic environment . Sufficient data currently exist to conduct a formal environmental risk assessment of the use of agricultural chemical on banana plantation so that priority for future research and mitigation can be clearly define and plan in the most cost‐effective manner .",
+            "domain": "setac.onlinelibrary.wiley.com",
+            "tokenized": [
+                {
+                    "sent": "Appendix 1 list the name of agrochemicals that be use in the banana cultivation industry in Latin America ( Ecuador Trade Center , personal communication ; Embassy of Costa Rica , personal communication ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Substantial use of agricultural chemical be require to successfully cultivate banana , and this have raise concern over the effect of these chemical on worker , wildlife , and tropical environment in general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Before planting , banana corm be soak in warm water and coat with mud contain nematocides .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We review the practice of banana cultivation and address the major chemical input to plantation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We recommend the application of an environmental risk assessment process to the use of agricultural chemical on banana plantation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fruits be also spray with fungicide and alum before ship to reduce postharvest rot and discoloration due to latex contact the banana finger during transport [ 6 , 11 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A review of know wildlife‐related impact of agricultural chemical commonly use in banana plantation raise substantial concern about the large‐scale environmental impact in tropical terrestrial and aquatic environment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sufficient data currently exist to conduct a formal environmental risk assessment of the use of agricultural chemical on banana plantation so that priority for future research and mitigation can be clearly define and plan in the most cost‐effective manner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.poz.com/article/hiv-banana-benlec-18156-1647",
+            "content": "A chemical in banana have be find to inhibit HIV , accord to research finding from a University of Michigan Medical School publish in the March 19 issue of the Journal of Biological Chemistry . The test tube study conduct by Michael Swanson , a doctoral student at the University of Michigan , and his colleague , indicate that a lectin isolate from the common banana bind to the sugar-rich HIV envelop protein gp120 .",
+            "domain": "www.poz.com",
+            "tokenized": [
+                {
+                    "sent": "A chemical in banana have be find to inhibit HIV , accord to research finding from a University of Michigan Medical School publish in the March 19 issue of the Journal of Biological Chemistry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The test tube study conduct by Michael Swanson , a doctoral student at the University of Michigan , and his colleague , indicate that a lectin isolate from the common banana bind to the sugar-rich HIV envelop protein gp120 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.madeinnature.com/blogs/snack-life/bananas-aren-t-part-of-the-dirty-dozen-so-why-buy-organic",
+            "content": "A lawsuit be file just last year against Dole Food Co. , and Dow Chemical Co. by more than 1,000 Latin American banana plantation worker for injury link to pesticide exposure . Conventional banana be spray with synthetic fertilizer , insecticide , and herbicide . In fact , our dry banana be so good they just win Delicious Livings 2013 Best Bite Award for best raw food ! Bananas have never be include ( that we know of ) thanks in part to their thick , peelable skin which , in theory , minimize pesticide exposure . So , you know that when you get banana from u , they ’ re the best .",
+            "domain": "www.madeinnature.com",
+            "tokenized": [
+                {
+                    "sent": "A lawsuit be file just last year against Dole Food Co. , and Dow Chemical Co. by more than 1,000 Latin American banana plantation worker for injury link to pesticide exposure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conventional banana be spray with synthetic fertilizer , insecticide , and herbicide .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In fact , our dry banana be so good they just win Delicious Livings 2013 Best Bite Award for best raw food !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bananas have never be include ( that we know of ) thanks in part to their thick , peelable skin which , in theory , minimize pesticide exposure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , you know that when you get banana from u , they ’ re the best .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/uk-39998241",
+            "content": "After year of try , food expert at Marks and Spencer have work out a way to keep banana fresh , even when they accompany other fruit . Research carry out by M & S find that by spray banana as soon a they be peel with a mixture of citric acid and amino acid , it manage to keep them firm and yellow , but without affect the taste . Dr Dan Bebber , of the University of Exeter , who be lead a Global Food Security project on banana , say they do n't go brown faster than other product - changing at the same rate a apple , potato and even avocado . The company also test different variety of banana to find the one which age the slow , discover Cavendish banana be the best of the bunch .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "After year of try , food expert at Marks and Spencer have work out a way to keep banana fresh , even when they accompany other fruit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Research carry out by M & S find that by spray banana as soon a they be peel with a mixture of citric acid and amino acid , it manage to keep them firm and yellow , but without affect the taste .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr Dan Bebber , of the University of Exeter , who be lead a Global Food Security project on banana , say they do n't go brown faster than other product - changing at the same rate a apple , potato and even avocado .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The company also test different variety of banana to find the one which age the slow , discover Cavendish banana be the best of the bunch .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ewg.org/enviroblog/2014/04/bananas",
+            "content": "To prevent pest damage , each bunch of banana on a tree be enclose in a large plastic bag into which pesticide be insert . The vendor of banana bear the Fair Trade certification have agree to some restriction on toxic pesticide , great protection for worker and reasonable minimum pricing for producer ( Fair Trade 2014 ) . Peeled banana be generally taint with very few pesticide residue , accord to USDA analysis , probably because those test be peel first . The Cavendish banana be especially susceptible to the fungus because every one of these banana be a cloned , genetic replica of all the others . One toxic insecticide widely use in banana production be chlorpyrifos , a potent neurotoxicant member of the organophosphate insecticide family . But the day of organic banana – and perhaps all export banana – may be number , accord to recent report . A highly virulent and incurable strain of a fungus know a Panama disease , which afflict the Cavendish banana – the major type of banana that be import into the U.S. -- be spread across plantation around the world ( Butler 2013 ) . In 2012 USDA scientist find just four fungicide on banana they analyze , compare to 10 on plum ( USDA 2012b ) .",
+            "domain": "www.ewg.org",
+            "tokenized": [
+                {
+                    "sent": "To prevent pest damage , each bunch of banana on a tree be enclose in a large plastic bag into which pesticide be insert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The vendor of banana bear the Fair Trade certification have agree to some restriction on toxic pesticide , great protection for worker and reasonable minimum pricing for producer ( Fair Trade 2014 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Peeled banana be generally taint with very few pesticide residue , accord to USDA analysis , probably because those test be peel first .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Cavendish banana be especially susceptible to the fungus because every one of these banana be a cloned , genetic replica of all the others .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One toxic insecticide widely use in banana production be chlorpyrifos , a potent neurotoxicant member of the organophosphate insecticide family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the day of organic banana – and perhaps all export banana – may be number , accord to recent report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A highly virulent and incurable strain of a fungus know a Panama disease , which afflict the Cavendish banana – the major type of banana that be import into the U.S. -- be spread across plantation around the world ( Butler 2013 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2012 USDA scientist find just four fungicide on banana they analyze , compare to 10 on plum ( USDA 2012b ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Isoamyl_acetate",
+            "content": "[ 4 ]\nIsoamyl acetate be use to confer banana flavor in food . [ 3 ] Pure isoamyl acetate , or mixture of isoamyl acetate , amyl acetate , and other flavor may be refer to a banana oil .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "[ 4 ]\nIsoamyl acetate be use to confer banana flavor in food .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 3 ] Pure isoamyl acetate , or mixture of isoamyl acetate , amyl acetate , and other flavor may be refer to a banana oil .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27041291/",
+            "content": "In the present review , historical background , cultivar classification , beneficial phytochemical , antioxidant activity and health benefit of banana be discuss . Banana contain several bioactive compound , such a phenolic , carotenoid , biogenic amine and phytosterols , which be highly desirable in the diet a they exert many positive effect on human health and well-being . It be either eaten raw or process , and also a a functional ingredient in various food product .",
+            "domain": "pubmed.ncbi.nlm.nih.gov",
+            "tokenized": [
+                {
+                    "sent": "In the present review , historical background , cultivar classification , beneficial phytochemical , antioxidant activity and health benefit of banana be discuss .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Banana contain several bioactive compound , such a phenolic , carotenoid , biogenic amine and phytosterols , which be highly desirable in the diet a they exert many positive effect on human health and well-being .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be either eaten raw or process , and also a a functional ingredient in various food product .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sciencedaily.com/releases/2010/03/100315091303.htm",
+            "content": "In laboratory test , BanLec , the lectin find in banana , be as potent a two current anti-HIV drug . Co-authors Erwin J. Goldstein , Ph.D. , professor emeritus of biological chemistry at U-M and Harry C. Winter , Ph.D. , research assistant professor in biological chemistry at U-M , develop the biopurification method to isolate BanLec from banana . A potent new inhibitor of HIV , derive from banana , may open the door to new treatment to prevent sexual transmission of HIV , accord to a newly publish University of Michigan Medical School study . The U-M team discover BanLec , the lectin in banana , can inhibit HIV infection by bind to the sugar-rich HIV-1 envelope protein , gp120 , and block it entry to the body .",
+            "domain": "www.sciencedaily.com",
+            "tokenized": [
+                {
+                    "sent": "In laboratory test , BanLec , the lectin find in banana , be as potent a two current anti-HIV drug .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Co-authors Erwin J. Goldstein , Ph.D. , professor emeritus of biological chemistry at U-M and Harry C. Winter , Ph.D. , research assistant professor in biological chemistry at U-M , develop the biopurification method to isolate BanLec from banana .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A potent new inhibitor of HIV , derive from banana , may open the door to new treatment to prevent sexual transmission of HIV , accord to a newly publish University of Michigan Medical School study .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The U-M team discover BanLec , the lectin in banana , can inhibit HIV infection by bind to the sugar-rich HIV-1 envelope protein , gp120 , and block it entry to the body .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://chemistrycachet.com/beneficial-chemicals-in-bananas/",
+            "content": "With all these amazing chemical find in a banana peel , there be so many neat thing you can do with it ! Along with the typical substance also find in the actual banana like potassium and phosphorous , be an array of unique compound find only in the peel . So , it ’ s obvious that a banana be good for you and unique a a fruit . Chemistry Secrets Beneficial chemical in banana and banana peel . Also find in banana be great source of folate , niacin , copper , manganese , and various amino acid . There be super beneficial chemical in banana that be good for your health and more . As we share above , banana be a great nutritional addition to your diet . With high level of vitamin E and catechin , the peel of a banana can soothe and treat pimple . Again , due to the unique combination of vitamin E and antioxidant , the peel of a banana be even good to use than some store-bought remedy . But I find eat them firm , even slightly green , organic banana be a taste I like .",
+            "domain": "chemistrycachet.com",
+            "tokenized": [
+                {
+                    "sent": "With all these amazing chemical find in a banana peel , there be so many neat thing you can do with it !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Along with the typical substance also find in the actual banana like potassium and phosphorous , be an array of unique compound find only in the peel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So , it ’ s obvious that a banana be good for you and unique a a fruit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Chemistry Secrets Beneficial chemical in banana and banana peel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also find in banana be great source of folate , niacin , copper , manganese , and various amino acid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "There be super beneficial chemical in banana that be good for your health and more .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As we share above , banana be a great nutritional addition to your diet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With high level of vitamin E and catechin , the peel of a banana can soothe and treat pimple .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Again , due to the unique combination of vitamin E and antioxidant , the peel of a banana be even good to use than some store-bought remedy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But I find eat them firm , even slightly green , organic banana be a taste I like .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bananalink.org.uk/the-problem-with-bananas/",
+            "content": "In fact , banana be spray with more pesticide compare to other tropical fruit because of the fruit ’ s thick peel .",
+            "domain": "www.bananalink.org.uk",
+            "tokenized": [
+                {
+                    "sent": "In fact , banana be spray with more pesticide compare to other tropical fruit because of the fruit ’ s thick peel .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-china-silkroad-laos/cash-and-chemicals-for-laos-chinese-banana-boom-a-blessing-and-curse-idUSKBN187334",
+            "content": "Last year , the Lao government ban the opening of new banana plantation after a state-backed institute report that the intensive use of chemical have sicken worker and polluted water source .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Last year , the Lao government ban the opening of new banana plantation after a state-backed institute report that the intensive use of chemical have sicken worker and polluted water source .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.verywellmind.com/bananas-increase-serotonin-fact-or-fiction-1066923",
+            "content": "If you ’ re not a fan of banana , there be plenty of other food rich in serotonin and vitamin B6 you can choose from . Bananas be a prime example of nutritious food that may help promote the mood-boosting benefit of serotonin . However , research indicate that banana may play a more indirect role by shore up the amount of serotonin the brain be able to produce.﻿﻿ The body need other nutrient to properly make and use serotonin , include vitamin B6 , ﻿﻿ and banana be an especially rich source of this vitamin . While banana contain serotonin , have one for a snack win ’ t immediately lift your spirit . Along with banana , turkey , and chickpea , there be many other food that be natural source of serotonin , as well a the other key nutrient the body need to produce the neurotransmitter , such a : ﻿﻿\nWhile a nutritious and balanced diet be beneficial for your physical and mental health , there be no one “ mood-lifting ” food that can be “ cure-all ” for depression . According to the USDA , one medium banana ( approximately 7 inch long ) have around 3.1 gram of fiber , which be 12 % of the recommended daily value.﻿﻿\nYou 'll also get a decent dose of immune-supporting vitamin C from banana ; around 17 % of your daily value .",
+            "domain": "www.verywellmind.com",
+            "tokenized": [
+                {
+                    "sent": "If you ’ re not a fan of banana , there be plenty of other food rich in serotonin and vitamin B6 you can choose from .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bananas be a prime example of nutritious food that may help promote the mood-boosting benefit of serotonin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , research indicate that banana may play a more indirect role by shore up the amount of serotonin the brain be able to produce.﻿﻿ The body need other nutrient to properly make and use serotonin , include vitamin B6 , ﻿﻿ and banana be an especially rich source of this vitamin .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While banana contain serotonin , have one for a snack win ’ t immediately lift your spirit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Along with banana , turkey , and chickpea , there be many other food that be natural source of serotonin , as well a the other key nutrient the body need to produce the neurotransmitter , such a : ﻿﻿\nWhile a nutritious and balanced diet be beneficial for your physical and mental health , there be no one “ mood-lifting ” food that can be “ cure-all ” for depression .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the USDA , one medium banana ( approximately 7 inch long ) have around 3.1 gram of fiber , which be 12 % of the recommended daily value.﻿﻿\nYou 'll also get a decent dose of immune-supporting vitamin C from banana ; around 17 % of your daily value .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalgeographic.com/environment/article/food-journeys-graphic",
+            "content": "For more on the history of cultivation and the future of the Cavendish , check out our three-part series on the banana .",
+            "domain": "www.nationalgeographic.com",
+            "tokenized": [
+                {
+                    "sent": "For more on the history of cultivation and the future of the Cavendish , check out our three-part series on the banana .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chemistryworld.com/news/ripe-bananas-glow-bright-blue-/3003469.article",
+            "content": "Another suggestion be that these blue fluorescent compound may play a biological role , perhaps catalyse specific reaction or maybe just protect the banana from UV ray - rather like a sunscreen - allow the fruit to stay fresh for long .",
+            "domain": "www.chemistryworld.com",
+            "tokenized": [
+                {
+                    "sent": "Another suggestion be that these blue fluorescent compound may play a biological role , perhaps catalyse specific reaction or maybe just protect the banana from UV ray - rather like a sunscreen - allow the fruit to stay fresh for long .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chemservice.com/news/2014/08/why-do-bananas-require-so-many-pesticides/",
+            "content": "Complications of pesticide in banana plantation\nAlthough most grower see pesticide use a critical to the success of banana farming , critic point to the detrimental effect that these chemical compound have have on animal near the plantation , such a crocodile in Costa Rica . To combat these risk factor , most banana farmer and fruit company turn to a cocktail of pesticide that can help reduce the damage from each of the banana 's many enemy .",
+            "domain": "www.chemservice.com",
+            "tokenized": [
+                {
+                    "sent": "Complications of pesticide in banana plantation\nAlthough most grower see pesticide use a critical to the success of banana farming , critic point to the detrimental effect that these chemical compound have have on animal near the plantation , such a crocodile in Costa Rica .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To combat these risk factor , most banana farmer and fruit company turn to a cocktail of pesticide that can help reduce the damage from each of the banana 's many enemy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://cen.acs.org/food/Chemistry-Pictures-Blue-bananas/98/web/2020/05",
+            "content": "As chlorophyll in banana peel and leave break down during ripening , it produce a set of blue fluorescent compound , which peak in concentration just a the fruit inside be peak in ripeness . Most human would even consider the idea of a blue banana to be unappetizing , ” Kräutler write in a paper on the research ( Angew .",
+            "domain": "cen.acs.org",
+            "tokenized": [
+                {
+                    "sent": "As chlorophyll in banana peel and leave break down during ripening , it produce a set of blue fluorescent compound , which peak in concentration just a the fruit inside be peak in ripeness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most human would even consider the idea of a blue banana to be unappetizing , ” Kräutler write in a paper on the research ( Angew .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fooducate.com/community/post/Look-at-all-those-Chemicals-in-a-Banana/57A352EA-5AD4-671B-4660-B8D27B84BEB8",
+            "content": "The Chemistry of fun , friendly , everyday object like banana be more complicated and more fascinating than that of , say , a bomb .",
+            "domain": "www.fooducate.com",
+            "tokenized": [
+                {
+                    "sent": "The Chemistry of fun , friendly , everyday object like banana be more complicated and more fascinating than that of , say , a bomb .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,815 @@
+{
+    "event_id": "200696",
+    "claim": "Stormy Daniels wrote a \"suicide note\" admitting she lied about having an affair with Donald Trump before she committed suicide.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "On 16 January 2019, the junk news site AmericanNewsNow.us posted a disturbing story falsely reporting that adult film actress Stormy Daniels (real name Stephanie Clifford) had committed suicide after leaving a note admitting she never had an affair with U.S. President Donald Trump:Falsely reporting deaths of celebrities and other public figures is a long-standing type of internet hoax, and this instance was no different — Daniels, 40, was alive and well. As of this writing, her most recent public appearance was at a 16 June 2019 block party in the Faubourg Marigny neighborhood of New Orleans, where she posed for photographs and donated proceeds to the New Orleans Abortion Fund.Daniels rose to prominence when she filed a lawsuit against Donald Trump related to a non-disclosure agreement in which she was to be paid $130,000 in “hush money” to remain silent about an alleged affair between the two. Daniels has since become an outspoken Trump critic, all of which has inevitably drawn the ire of the president’s supporters.The AmericanNewsNow story ended with a threatening note: “Apparently, the only honest Democrat is a dead Democrat.” The site appears to no longer be live.",
+    "reports": [
+        {
+            "link": "https://www.washingtontimes.com/news/2018/mar/25/stormy-daniels-lied-statements-about-affair-donald/",
+            "content": "Stormy Daniels acknowledge lie in public statement in which she say she never have an affair with Donald Trump in 2006 . According to a “ 60 Minutes ” interview that air Sunday , the porn star whose real name be Stephanie Clifford say she felt pressured into sign both a $ 130,000 “ hush money ” agreement with Trump lawyer Michael Cohen in October 2016 and a late public denial of an affair that Mr. Cohen issue on her behalf earlier this year . ” Earlier in the interview , Ms. Clifford have claim that a direct physical threat have be make against her in 2011 if she didn ’ t “ leave Trump alone .",
+            "domain": "www.washingtontimes.com",
+            "tokenized": [
+                {
+                    "sent": "Stormy Daniels acknowledge lie in public statement in which she say she never have an affair with Donald Trump in 2006 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to a “ 60 Minutes ” interview that air Sunday , the porn star whose real name be Stephanie Clifford say she felt pressured into sign both a $ 130,000 “ hush money ” agreement with Trump lawyer Michael Cohen in October 2016 and a late public denial of an affair that Mr. Cohen issue on her behalf earlier this year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Earlier in the interview , Ms. Clifford have claim that a direct physical threat have be make against her in 2011 if she didn ’ t “ leave Trump alone .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2018/10/04/stormy-daniels-trump-full-disclosure",
+            "content": "Stormy Daniels , the adult film star who claim she have an affair with Donald Trump in 2006 , publish a new memoir this week in which she detail her side of the ongoing legal saga involve the president . On what make her decide come forward about her alleged affair with Trump\n`` But then somehow it get leak , and Michael Cohen start run his mouth , and then they want me to sign additional statement that be completely false . Of course , everybody know about that epic 90 second back in 2006 with Trump , and I be like , ' I just do n't want to write a tell-all , because it would be a very , very short book . ' On why she want to write her memoir\n`` I have be in the adult business and a touring feature dancer across the country for — I 'm go to give away my age here — about 20 year , and I have all these crazy story from the road , and I start write them in journal year ago . And most importantly , I want the [ nondisclosure agreement ] not just consider void , but I want them to admit that it be illegal and that I be bully . '' I be not pay for that night [ with Trump ] . [ That ] be a huge moment for me , because I 'm used to be call all kind of name — I have a pretty thick skin be in the adult entertainment business , all the derogatory term you can call me , I 'm like , 'Yeah , yeah , whatever ' — but be call a liar be really hard , because I know I be tell the truth . ''",
+            "domain": "www.wbur.org",
+            "tokenized": [
+                {
+                    "sent": "Stormy Daniels , the adult film star who claim she have an affair with Donald Trump in 2006 , publish a new memoir this week in which she detail her side of the ongoing legal saga involve the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On what make her decide come forward about her alleged affair with Trump\n`` But then somehow it get leak , and Michael Cohen start run his mouth , and then they want me to sign additional statement that be completely false .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Of course , everybody know about that epic 90 second back in 2006 with Trump , and I be like , ' I just do n't want to write a tell-all , because it would be a very , very short book . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On why she want to write her memoir\n`` I have be in the adult business and a touring feature dancer across the country for — I 'm go to give away my age here — about 20 year , and I have all these crazy story from the road , and I start write them in journal year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And most importantly , I want the [ nondisclosure agreement ] not just consider void , but I want them to admit that it be illegal and that I be bully . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I be not pay for that night [ with Trump ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ That ] be a huge moment for me , because I 'm used to be call all kind of name — I have a pretty thick skin be in the adult entertainment business , all the derogatory term you can call me , I 'm like , 'Yeah , yeah , whatever ' — but be call a liar be really hard , because I know I be tell the truth . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedailybeast.com/stormy-daniels-totally-denies-affair-with-donald-trump-in-new-statement",
+            "content": "In a new statement , Stormy Daniels have issue a blanket denial of her alleged 2006 affair with Donald Trump . The porn star , who Trump reportedly pay $ 130,000 to stay quiet about their relationship just before the 2016 election , say that she be not deny the affair because she be pay “ hush money ” but instead because “ it never happened. Daniels conclude her statement by direct people to her Instagram account , where she post a selfie on Tuesday with the caption , “ Relaxing before the big night. ” However , in a 2011 interview with InTouch magazine , she recount the affair in explicit detail .",
+            "domain": "www.thedailybeast.com",
+            "tokenized": [
+                {
+                    "sent": "In a new statement , Stormy Daniels have issue a blanket denial of her alleged 2006 affair with Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The porn star , who Trump reportedly pay $ 130,000 to stay quiet about their relationship just before the 2016 election , say that she be not deny the affair because she be pay “ hush money ” but instead because “ it never happened.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Daniels conclude her statement by direct people to her Instagram account , where she post a selfie on Tuesday with the caption , “ Relaxing before the big night.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” However , in a 2011 interview with InTouch magazine , she recount the affair in explicit detail .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.indy100.com/news/stormy-daniels-trump-affair-news-republicans-2018-quote-9489571",
+            "content": "Stormy Daniels , the adult movie star who have say she have an affair with Donald Trump have lash out at Republicans for share an old article of her where she apparently apologise to the president . In response to a few of the tweet she write :\nDuring this flurry of tweet , Daniels also say that even though she admit that she make a mistake in her past , that she `` own '' what have happen . As Vox report , Daniels do initially deny the alleged affair with Trump but the March 2018 lawsuit that she file against the president 'served a confirmation on her part of the affair . ' On Tuesday , she be the subject of a series of tweet from conservative , who share a 2018 from the right-leaning in which she reportedly apologise to Trump and admit that the affair do n't happen . Despite this , both party still dispute whether the affair actually happen and it have make Daniels a target for Trump supporter , especially a she have take every opportunity that she can to ridicule the president .",
+            "domain": "www.indy100.com",
+            "tokenized": [
+                {
+                    "sent": "Stormy Daniels , the adult movie star who have say she have an affair with Donald Trump have lash out at Republicans for share an old article of her where she apparently apologise to the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In response to a few of the tweet she write :\nDuring this flurry of tweet , Daniels also say that even though she admit that she make a mistake in her past , that she `` own '' what have happen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As Vox report , Daniels do initially deny the alleged affair with Trump but the March 2018 lawsuit that she file against the president 'served a confirmation on her part of the affair . '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Tuesday , she be the subject of a series of tweet from conservative , who share a 2018 from the right-leaning in which she reportedly apologise to Trump and admit that the affair do n't happen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite this , both party still dispute whether the affair actually happen and it have make Daniels a target for Trump supporter , especially a she have take every opportunity that she can to ridicule the president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/donald-trump-stormy-daniels-payment-rudy-giuliani-interview-2018-05-03/",
+            "content": "WASHINGTON -- President Trump no long deny knowledge of a payment make to Stormy Daniels to keep quiet about affair she say she have with him year before he become president . He write the nondisclosure agreement with Daniels be common for celebrity and use to `` stop the false and extortionist accusation make by her about an affair . '' `` It 's an outrage frankly that [ Trump ] would stand on Air Force One on videotape and blatantly lie to the American people , '' Daniels ' lawyer Michael Avenatti say . Mr. Trump deny the affair .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON -- President Trump no long deny knowledge of a payment make to Stormy Daniels to keep quiet about affair she say she have with him year before he become president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He write the nondisclosure agreement with Daniels be common for celebrity and use to `` stop the false and extortionist accusation make by her about an affair . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's an outrage frankly that [ Trump ] would stand on Air Force One on videotape and blatantly lie to the American people , '' Daniels ' lawyer Michael Avenatti say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump deny the affair .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/politics/trump-admits-stormy-daniels-payment-rudy-giuliani/",
+            "content": "”\nTrump go on to say that Daniels ’ affair claim be “ false and extortionist ” and point out that she sign a letter admit there be no affair . President Donald Trump admit in a series of tweet on Thursday that he reimburse his personal attorney Michael Cohen for the $ 130,000 payment he make to porn star Stormy Daniels in the final day of the 2016 election\nPresident Donald Trump admit in a series of tweet on Thursday that he reimburse his personal attorney Michael Cohen for the $ 130,000 payment he make to porn star Stormy Daniels in the final day of the 2016 election . Trump also respond to suggestion that Cohen ’ s payment to Daniels may have amount to an illegal contribution to the Trump campaign , say , “ Money from the campaign , or campaign contribution , play no roll [ sic ] in this transaction . Daniels , whose real name be Stephanie Clifford , have claim that the payment be make to keep her silent about an affair she allegedly have with the president in 2006 . Trump have deny the affair and continue to do so in his tweet on Thursday . ”\nIn February , Cohen admit to pay Daniels $ 130,000 before the 2016 presidential election , call it “ a private transaction ” and insist that the money come out of his own pocket . The confession contradict Trump ’ s past claim that he didn ’ t know anything about the payment , and come after the late addition to his legal team , Rudy Giuliani , reveal the reimbursement in a bombshell interview on Wednesday night . Cohen , an attorney , receive a monthly retainer , not from the campaign and have nothing to do with the campaign , from which he enter into , through reimbursement , a private contract between two party , know a a non-disclosure agreement , or NDA , ” Trump write . The attorney , who work a a counsel to the Trump Organization for more than a decade , also claim he have not be compensate by Trump . Taking aim at Trump ’ s go-to fixer , she write :",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "”\nTrump go on to say that Daniels ’ affair claim be “ false and extortionist ” and point out that she sign a letter admit there be no affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump admit in a series of tweet on Thursday that he reimburse his personal attorney Michael Cohen for the $ 130,000 payment he make to porn star Stormy Daniels in the final day of the 2016 election\nPresident Donald Trump admit in a series of tweet on Thursday that he reimburse his personal attorney Michael Cohen for the $ 130,000 payment he make to porn star Stormy Daniels in the final day of the 2016 election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump also respond to suggestion that Cohen ’ s payment to Daniels may have amount to an illegal contribution to the Trump campaign , say , “ Money from the campaign , or campaign contribution , play no roll [ sic ] in this transaction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels , whose real name be Stephanie Clifford , have claim that the payment be make to keep her silent about an affair she allegedly have with the president in 2006 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have deny the affair and continue to do so in his tweet on Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn February , Cohen admit to pay Daniels $ 130,000 before the 2016 presidential election , call it “ a private transaction ” and insist that the money come out of his own pocket .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The confession contradict Trump ’ s past claim that he didn ’ t know anything about the payment , and come after the late addition to his legal team , Rudy Giuliani , reveal the reimbursement in a bombshell interview on Wednesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cohen , an attorney , receive a monthly retainer , not from the campaign and have nothing to do with the campaign , from which he enter into , through reimbursement , a private contract between two party , know a a non-disclosure agreement , or NDA , ” Trump write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The attorney , who work a a counsel to the Trump Organization for more than a decade , also claim he have not be compensate by Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Taking aim at Trump ’ s go-to fixer , she write :",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mcall.com/news/pennsylvania/mc-nws-wakeup-call-pennsylvania-politics-20180503-story.html",
+            "content": "For die-hard Trump supporter , Madonna say , the Stormy Daniels affair will not matter even if those same people show an `` inconsistency in the narrative '' for how they view Clinton over the Lewinsky scandal . But Democrats , Maddona say , will latch on to the Stormy Daniels affair a yet another reason for why Trump and his follower have no place in elected office . The President of the United States now admit he fork over $ 130,000 to buy Stormy Daniels ' silence about their sex . In 1998 , candidate have similar political worry due to the impeachment threat and scandal hanging over Democratic President Bill Clinton for his lie about sexual encounter with intern Monica Lewinsky . Trump voter , he add , know about his lifestyle when they vote for him a the anti-establishment candidate .",
+            "domain": "www.mcall.com",
+            "tokenized": [
+                {
+                    "sent": "For die-hard Trump supporter , Madonna say , the Stormy Daniels affair will not matter even if those same people show an `` inconsistency in the narrative '' for how they view Clinton over the Lewinsky scandal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Democrats , Maddona say , will latch on to the Stormy Daniels affair a yet another reason for why Trump and his follower have no place in elected office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The President of the United States now admit he fork over $ 130,000 to buy Stormy Daniels ' silence about their sex .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1998 , candidate have similar political worry due to the impeachment threat and scandal hanging over Democratic President Bill Clinton for his lie about sexual encounter with intern Monica Lewinsky .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump voter , he add , know about his lifestyle when they vote for him a the anti-establishment candidate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/policy-and-politics/2018/5/16/17361704/trump-financial-disclosure-stormy-cohen-ethics",
+            "content": "President Donald Trump have now admit repay Michael Cohen more than $ 100,000 for the Stormy Daniels hush money on his new financial disclosure form — but the admission may have get him into even more legal trouble . Apol write that an outside group request he investigate whether Trump be legally require to report his debt to Cohen on last year ’ s financial disclosure form ( which Trump do not do ) . ”\nWalter Shaub — Apol ’ s predecessor at the Office of Government Ethics , who resign last year after clash with Trump official and have frequently criticize Trump in the medium since — tweet that this be “ tantamount to a criminal referral , ” report Trump “ for potentially commit a crime . Acting Director Apol add his own note state that the Cohen payment information “ be require to be report ” and should have be list by Trump a a reportable liability . They claim that they don ’ t believe Trump be legally require to disclose this , but that “ in the interest of transparency , ” they ’ ve decide to do so anyway . In the form , his team do not disclose the Cohen debt alongside Trump ’ s other liability . Apol conclude that , yes , Trump be legally require to report it . Trump decide to try to have it both way .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump have now admit repay Michael Cohen more than $ 100,000 for the Stormy Daniels hush money on his new financial disclosure form — but the admission may have get him into even more legal trouble .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apol write that an outside group request he investigate whether Trump be legally require to report his debt to Cohen on last year ’ s financial disclosure form ( which Trump do not do ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWalter Shaub — Apol ’ s predecessor at the Office of Government Ethics , who resign last year after clash with Trump official and have frequently criticize Trump in the medium since — tweet that this be “ tantamount to a criminal referral , ” report Trump “ for potentially commit a crime .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Acting Director Apol add his own note state that the Cohen payment information “ be require to be report ” and should have be list by Trump a a reportable liability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They claim that they don ’ t believe Trump be legally require to disclose this , but that “ in the interest of transparency , ” they ’ ve decide to do so anyway .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the form , his team do not disclose the Cohen debt alongside Trump ’ s other liability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apol conclude that , yes , Trump be legally require to report it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump decide to try to have it both way .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/administration/385965-giuliani-trump-reimbursed-cohen-for-payment-to-stormy-daniels",
+            "content": "Trump admit that Cohen have represent him in the arrangement with Daniels during an interview with `` Fox & Friends , '' but that he do n't know about the payment . She be also sue Cohen for defamation for suggest that she lie about her alleged affair with Trump . Former New York City Mayor Rudy Giuliani ( R ) say Wednesday that President TrumpDonald TrumpFacebook Oversight Board to rule on Trump ban Wednesday Rubio keep door open on White House bid Lincoln Project taunt Trump , say he lose to 'swamp , ' McConnell MORE reimburse his personal attorney Michael Cohen the $ 130,000 pay to adult-film star Stormy Daniels to stay quiet about their alleged affair . The agreement be use to stop the false and extortionist accusation make by her about an affair , despite already have sign a detailed letter admit that there be no affair , '' he say . He accuse Daniels , whose real name be Stephanie Clifford , of extortion , deny there have be an affair . `` Because you continue to lie to the American people and we be not go to tolerate it . `` Prior to it violation by Ms. Clifford and her attorney , this be a private agreement . `` In this case it be in full force and effect and will be use in Arbitration for damage against Ms. Clifford ( Daniels ) .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Trump admit that Cohen have represent him in the arrangement with Daniels during an interview with `` Fox & Friends , '' but that he do n't know about the payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She be also sue Cohen for defamation for suggest that she lie about her alleged affair with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former New York City Mayor Rudy Giuliani ( R ) say Wednesday that President TrumpDonald TrumpFacebook Oversight Board to rule on Trump ban Wednesday Rubio keep door open on White House bid Lincoln Project taunt Trump , say he lose to 'swamp , ' McConnell MORE reimburse his personal attorney Michael Cohen the $ 130,000 pay to adult-film star Stormy Daniels to stay quiet about their alleged affair .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The agreement be use to stop the false and extortionist accusation make by her about an affair , despite already have sign a detailed letter admit that there be no affair , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He accuse Daniels , whose real name be Stephanie Clifford , of extortion , deny there have be an affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Because you continue to lie to the American people and we be not go to tolerate it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Prior to it violation by Ms. Clifford and her attorney , this be a private agreement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` In this case it be in full force and effect and will be use in Arbitration for damage against Ms. Clifford ( Daniels ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/US/adult-film-star-stormy-daniels-arrested-ohio-strip/story?id=56530722",
+            "content": "Daniels , who make headline earlier this year over her claim of an allege affair with President Donald Trump , be arrest Wednesday night while perform at the Sirens Gentlemen ’ s Club in Columbus after she allegedly allow `` a customer to touch her while on stage , '' her attorney , Michael Avenatti , say via Twitter early Thursday morning . Trump 's then-personal attorney , Michael Cohen , have Daniels sign a non-disclosure agreement about the alleged affair just week before the 2016 election . Daniels have say she have sex with Trump once in 2006 and be later pay off to keep quiet about it . Daniels file a lawsuit against Trump and Cohen late last year , seek to be release from the hush agreement . Trump , who be marry to his current wife , Melania , at the time , have repeatedly deny the affair occur . In a statement email to ABC News in February , Cohen say it be a `` private transaction '' use his `` own personal fund '' that be pay to Daniels in 2016 . Cohen have admit pay Daniels $ 130,000 shortly before the election . Daniels write on Twitter that all of the money she make at another performance tonight will go toward the legal fee for the two other dancer who be arrest .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Daniels , who make headline earlier this year over her claim of an allege affair with President Donald Trump , be arrest Wednesday night while perform at the Sirens Gentlemen ’ s Club in Columbus after she allegedly allow `` a customer to touch her while on stage , '' her attorney , Michael Avenatti , say via Twitter early Thursday morning .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's then-personal attorney , Michael Cohen , have Daniels sign a non-disclosure agreement about the alleged affair just week before the 2016 election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels have say she have sex with Trump once in 2006 and be later pay off to keep quiet about it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels file a lawsuit against Trump and Cohen late last year , seek to be release from the hush agreement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , who be marry to his current wife , Melania , at the time , have repeatedly deny the affair occur .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a statement email to ABC News in February , Cohen say it be a `` private transaction '' use his `` own personal fund '' that be pay to Daniels in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cohen have admit pay Daniels $ 130,000 shortly before the election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels write on Twitter that all of the money she make at another performance tonight will go toward the legal fee for the two other dancer who be arrest .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/2018/12/10/evidence-undermining-trumps-attempt-defend-stormy-daniels-payment/",
+            "content": "`` Cohen deceive the vote public by hide alleged fact that he believe would have have a substantial effect on the election , ” the filing read , go on to note that , `` [ a ] fter make the payment to [ Daniels ] , and after [ Trump ] be elect President , Cohen privately brag to friend and reporter , include in recorded conversation , that he have make the payment to spare [ Trump ] from damage press and embarrassment. ” Cohen admit in August to coordinate the payment with AMI and the government note that he take credit for the payment in a secretly record conversation with Trump . Two story of affair a decade before the campaign be settle in the final week of Trump ’ s candidacy . “ Democrats can ’ t find a Smocking Gun tie the Trump campaign to Russia after James B. Comey ’ s testimony , ” he write on Twitter . ” Of course , this be the same Cohen who , late last month , admit to lie under oath to Congress . ” )\nThe Friday filing from the U.S. Attorney for the Southern District of New York , though , adopts similar language : “ [ A ] s Cohen himself have now admit , with respect to both payment , he act in coordination with and at the direction of Individual-1 ” — that be , Trump . The Daniels payment arose in early October ( after AMI connect her team with Cohen ) but wasn ’ t finalize until Oct. 26 , 2016 when Daniels ’ s attorney threaten to take the story to the medium if she weren ’ t pay . ”\nIn his agreement in August , Cohen testify under oath that the payment he make be undertaken “ in coordination with , and at the direction of ” Trump , with the goal of protect “ information that would be harmful to the candidate and to the campaign to keep the individual from disclose the information. So Cohen , who ’ d apparently be try to get the Trump Organization to make the payment , make it himself . [ Trump ’ s former personal attorney Michael ] Cohen just try to get his sentence reduce .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "`` Cohen deceive the vote public by hide alleged fact that he believe would have have a substantial effect on the election , ” the filing read , go on to note that , `` [ a ] fter make the payment to [ Daniels ] , and after [ Trump ] be elect President , Cohen privately brag to friend and reporter , include in recorded conversation , that he have make the payment to spare [ Trump ] from damage press and embarrassment.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Cohen admit in August to coordinate the payment with AMI and the government note that he take credit for the payment in a secretly record conversation with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two story of affair a decade before the campaign be settle in the final week of Trump ’ s candidacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Democrats can ’ t find a Smocking Gun tie the Trump campaign to Russia after James B. Comey ’ s testimony , ” he write on Twitter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Of course , this be the same Cohen who , late last month , admit to lie under oath to Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” )\nThe Friday filing from the U.S. Attorney for the Southern District of New York , though , adopts similar language : “ [ A ] s Cohen himself have now admit , with respect to both payment , he act in coordination with and at the direction of Individual-1 ” — that be , Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Daniels payment arose in early October ( after AMI connect her team with Cohen ) but wasn ’ t finalize until Oct. 26 , 2016 when Daniels ’ s attorney threaten to take the story to the medium if she weren ’ t pay .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn his agreement in August , Cohen testify under oath that the payment he make be undertaken “ in coordination with , and at the direction of ” Trump , with the goal of protect “ information that would be harmful to the candidate and to the campaign to keep the individual from disclose the information.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So Cohen , who ’ d apparently be try to get the Trump Organization to make the payment , make it himself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ Trump ’ s former personal attorney Michael ] Cohen just try to get his sentence reduce .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2018/10/15/657653080/federal-judge-rules-in-favor-of-trump-in-stormy-daniels-defamation-lawsuit",
+            "content": "The lawsuit be file over a tweet Trump sent in April suggest Daniels be lie about be threaten in 2011 not to go public with her story of an allege sexual encounter with Trump . Daniels ' lawyer , Michael Avenatti , have pledge to appeal and note that `` other claim against Trump and Cohen proceed unaffected . '' Trump have deny that ever happen , but he do finally admit — after first deny it — to reimburse his lawyer Michael Cohen for a $ 130,000 payment make to Daniels on the eve of the 2016 election . Daniels , whose real name be Stephanie Clifford , say she have a sexual encounter with Trump in 2006 .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "The lawsuit be file over a tweet Trump sent in April suggest Daniels be lie about be threaten in 2011 not to go public with her story of an allege sexual encounter with Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Daniels ' lawyer , Michael Avenatti , have pledge to appeal and note that `` other claim against Trump and Cohen proceed unaffected . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have deny that ever happen , but he do finally admit — after first deny it — to reimburse his lawyer Michael Cohen for a $ 130,000 payment make to Daniels on the eve of the 2016 election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Daniels , whose real name be Stephanie Clifford , say she have a sexual encounter with Trump in 2006 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thewrap.com/michael-cohens-plea-deal-means-stormy-daniels-american-media/",
+            "content": "On Wednesday , Cohen admit in court that Trump have direct him to make payment to Daniels and McDougal in order to stop them from speak out publicly about their affair with the president . Daniels say that Cohen have defame her by insinuate she have lie about her affair with the president . Daniels , whose legal name be Stephanie Clifford , sue the president in March , say that a hush agreement she sign in October 2016 to prevent her speak about her affair with Trump be void because , among other thing , it violate campaign finance law . In March , Daniels amend her defamation case against Trump to add Cohen . Now that Cohen have admit to lie about the hush-money agreement , that could be use against him in other case , accord to expert . “ His admission of lie a a result of his guilt plea will certainly be include in this case and the jury will be instruct that if he ’ s not believable about one thing he say , then they can choose not to believe him in another instance . ”\nThe move come after Flynn admit he give “ incomplete information ” about a call he have with the Russian ambassador to the U.S. last December regard sanction against Russia , The New York Times report , and that he mislead Vice President Mike Pence and other top White House official about the conversation .",
+            "domain": "www.thewrap.com",
+            "tokenized": [
+                {
+                    "sent": "On Wednesday , Cohen admit in court that Trump have direct him to make payment to Daniels and McDougal in order to stop them from speak out publicly about their affair with the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels say that Cohen have defame her by insinuate she have lie about her affair with the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels , whose legal name be Stephanie Clifford , sue the president in March , say that a hush agreement she sign in October 2016 to prevent her speak about her affair with Trump be void because , among other thing , it violate campaign finance law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , Daniels amend her defamation case against Trump to add Cohen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now that Cohen have admit to lie about the hush-money agreement , that could be use against him in other case , accord to expert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ His admission of lie a a result of his guilt plea will certainly be include in this case and the jury will be instruct that if he ’ s not believable about one thing he say , then they can choose not to believe him in another instance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe move come after Flynn admit he give “ incomplete information ” about a call he have with the Russian ambassador to the U.S. last December regard sanction against Russia , The New York Times report , and that he mislead Vice President Mike Pence and other top White House official about the conversation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/onpolitics/2018/03/07/what-we-learned-stormy-daniels-lawsuit-against-trump/402357002/",
+            "content": "A former porn star who say she have an affair with President Trump be sue the president , claim the `` hush '' agreement she sign day before the election be invalid . On Oct. 28 , 2016 , just 11 day before the election , Daniels and Trump 's personal attorney , Michael Cohen , sign the `` hush '' agreement , which ensure Daniels would remain quiet about the affair . Daniels tell InTouch magazine in a 2011 interview that she have an affair with Trump which begin in July 2006 . Stormy Daniels , whose real name be Stephanie Clifford , file a civil lawsuit in Los Angeles Superior Court , contend that the non-disclosure agreement she sign be invalid because Trump never sign it . The lawsuit note that attempt to '' intimidate '' Daniels '' into silence and 'shut her up ' in order to 'protect Mr. Trump ' continue unabated . '' In the lawsuit , Daniels argue that because the agreement be not valid , she do not have to remain silent about the affair . He say he use personal fund to pay Daniels and that they be not relate to the Trump campaign or Trump Organization . Last month , Cohen admit that he pay Daniels $ 130,000 but have not confirm what the payment be for .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "A former porn star who say she have an affair with President Trump be sue the president , claim the `` hush '' agreement she sign day before the election be invalid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Oct. 28 , 2016 , just 11 day before the election , Daniels and Trump 's personal attorney , Michael Cohen , sign the `` hush '' agreement , which ensure Daniels would remain quiet about the affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels tell InTouch magazine in a 2011 interview that she have an affair with Trump which begin in July 2006 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Stormy Daniels , whose real name be Stephanie Clifford , file a civil lawsuit in Los Angeles Superior Court , contend that the non-disclosure agreement she sign be invalid because Trump never sign it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The lawsuit note that attempt to '' intimidate '' Daniels '' into silence and 'shut her up ' in order to 'protect Mr. Trump ' continue unabated . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the lawsuit , Daniels argue that because the agreement be not valid , she do not have to remain silent about the affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say he use personal fund to pay Daniels and that they be not relate to the Trump campaign or Trump Organization .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last month , Cohen admit that he pay Daniels $ 130,000 but have not confirm what the payment be for .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/nation-world/ct-porn-star-denies-trump-affair-20180130-story.html",
+            "content": "And then just a few hour before it hit the airwave come a curveball : Daniels , who in 2011 give an interview in which she claim ( in lurid detail ) to have have an affair with Trump , apparently issue a statement say she have n't actually have such a relationship after all . Of course , Daniels 's alleged-then-maybe-denied affair have be deny by the White House , too , with a spokeswoman call the allegation `` old , recycled report , which be publish and strongly deny prior to the election . '' There be more dodging from Daniels , who say she do n't think the transcript of the 2011 interview , which she give to InTouch magazine , be accurate - `` not a it be write , '' she say , but then claim not to have see the whole thing . Reached after the Kimmel interview air , Rodriquez note that Daniels have `` not answered any of the question directly '' and that the porn star have definitely sign the document that afternoon in front of her and Daniels 's lawyer . ) `` The fact of the matter be that each party to this allege affair deny it existence in 2006 , 2011 , 2016 , 2017 and now again in 2018 , '' the statement read . Before the interview , Kimmel also defend himself against Republicans who have say it be disrespectful or unfair to the president to have Daniels on his show . Cupp , who have say while co-hosting `` The View '' that Kimmel should also have a a guest Monica Lewinsky , the former White House intern who have an affair with President Bill Clinton . `` I be not deny the affair because I be pay 'hush money ' a have be report in overseas owned tabloid . ( The Washington Post have confirm the authenticity of the signed statement with Daniels 's representative , Gina Rodriguez , earlier in the evening .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "And then just a few hour before it hit the airwave come a curveball : Daniels , who in 2011 give an interview in which she claim ( in lurid detail ) to have have an affair with Trump , apparently issue a statement say she have n't actually have such a relationship after all .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Of course , Daniels 's alleged-then-maybe-denied affair have be deny by the White House , too , with a spokeswoman call the allegation `` old , recycled report , which be publish and strongly deny prior to the election . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be more dodging from Daniels , who say she do n't think the transcript of the 2011 interview , which she give to InTouch magazine , be accurate - `` not a it be write , '' she say , but then claim not to have see the whole thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Reached after the Kimmel interview air , Rodriquez note that Daniels have `` not answered any of the question directly '' and that the porn star have definitely sign the document that afternoon in front of her and Daniels 's lawyer . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The fact of the matter be that each party to this allege affair deny it existence in 2006 , 2011 , 2016 , 2017 and now again in 2018 , '' the statement read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before the interview , Kimmel also defend himself against Republicans who have say it be disrespectful or unfair to the president to have Daniels on his show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cupp , who have say while co-hosting `` The View '' that Kimmel should also have a a guest Monica Lewinsky , the former White House intern who have an affair with President Bill Clinton .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I be not deny the affair because I be pay 'hush money ' a have be report in overseas owned tabloid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( The Washington Post have confirm the authenticity of the signed statement with Daniels 's representative , Gina Rodriguez , earlier in the evening .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/the-fix/wp/2018/02/14/trumps-lawyer-confirmed-the-stormy-daniels-payment-whats-conspicuously-absent-any-denial-that-trump-was-involved/",
+            "content": "And whether Trump actually engage in an affair with Daniels be kind of beside the point — at least legally speak . The Wall Street Journal have first report the payment a hush money to keep the adult-film actress from disclose an allege affair with Trump , but thus far nobody else have confirm that the payment exist . In his late statement , he suggest that he be merely combat the rumor of an affair : “ Just because something isn ’ t true doesn ’ t mean that it can ’ t cause you harm or damage . ” )\nWhen the Journal report a week later that Cohen form an LLC in Delaware and use pseudonym to facilitate the payment to Daniels , Cohen again offer a non-denial denial . When the Journal first confront him with it reporting in January , Cohen offer a denial that do n't directly address whether he have make the payment ; instead , he focus on whether the affair happen .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "And whether Trump actually engage in an affair with Daniels be kind of beside the point — at least legally speak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Wall Street Journal have first report the payment a hush money to keep the adult-film actress from disclose an allege affair with Trump , but thus far nobody else have confirm that the payment exist .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In his late statement , he suggest that he be merely combat the rumor of an affair : “ Just because something isn ’ t true doesn ’ t mean that it can ’ t cause you harm or damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” )\nWhen the Journal report a week later that Cohen form an LLC in Delaware and use pseudonym to facilitate the payment to Daniels , Cohen again offer a non-denial denial .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the Journal first confront him with it reporting in January , Cohen offer a denial that do n't directly address whether he have make the payment ; instead , he focus on whether the affair happen .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://lawandcrime.com/awkward/judge-orders-president-trump-to-pay-stormy-daniels-more-than-44000-in-legal-fees/",
+            "content": "”\nDespite pay Daniels not to discuss the alleged extramarital relationship , Trump have consistently deny the affair . Under the agreement , Daniels be prohibit from disclose any detail relate to her alleged 2006 to 2007 affair with Trump . Broadbelt reason , however , that because Trump admit to reimburse Cohen for the $ 130,000 pay to Daniels , and be the only person who stand to benefit from her not disclose the allege affair , he be effectively a party to the agreement . Bu earlier this week , while speak in Pennsylvania , Trump seemingly confirm a rather obscure detail from Daniels ’ s account of their relationship . “ Based on the evidence present , the court find that Defendant [ Trump ] be the intended third-party beneficiary of the Agreement , ” Broadbelt write . The court also reject argument from Trump ’ s attorney assert that the president could not be hold responsible for the NDA a he be not a signatory to the original agreement . The controversy stem from a $ 130,000 NDA that Daniels , an adult film actress whose real name be Stephanie Clifford , sign with Trump ’ s former personal attorney Michael Cohen in 2016 .",
+            "domain": "lawandcrime.com",
+            "tokenized": [
+                {
+                    "sent": "”\nDespite pay Daniels not to discuss the alleged extramarital relationship , Trump have consistently deny the affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under the agreement , Daniels be prohibit from disclose any detail relate to her alleged 2006 to 2007 affair with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Broadbelt reason , however , that because Trump admit to reimburse Cohen for the $ 130,000 pay to Daniels , and be the only person who stand to benefit from her not disclose the allege affair , he be effectively a party to the agreement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bu earlier this week , while speak in Pennsylvania , Trump seemingly confirm a rather obscure detail from Daniels ’ s account of their relationship .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Based on the evidence present , the court find that Defendant [ Trump ] be the intended third-party beneficiary of the Agreement , ” Broadbelt write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The court also reject argument from Trump ’ s attorney assert that the president could not be hold responsible for the NDA a he be not a signatory to the original agreement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The controversy stem from a $ 130,000 NDA that Daniels , an adult film actress whose real name be Stephanie Clifford , sign with Trump ’ s former personal attorney Michael Cohen in 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abc.net.au/news/2018-05-03/donald-trump-money-for-lawyer-stormy-daniels-not-from-campaign/9725056",
+            "content": "United States President Donald Trump have abruptly change his story on what he know about a pre-election hush money payment to the American porn star who claim to have have an affair with him . `` Mr Trump evidently have participate in a felony and there must be serious consequence for his conduct and his lie and deception to the American people , '' he say . The failure of Donald Trump 's lawyer to get their story straight and stick to it will ensure the tale of the President and the porn star will continue to dominate headline , write North America correspondent Conor Duffy .",
+            "domain": "www.abc.net.au",
+            "tokenized": [
+                {
+                    "sent": "United States President Donald Trump have abruptly change his story on what he know about a pre-election hush money payment to the American porn star who claim to have have an affair with him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Mr Trump evidently have participate in a felony and there must be serious consequence for his conduct and his lie and deception to the American people , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The failure of Donald Trump 's lawyer to get their story straight and stick to it will ensure the tale of the President and the porn star will continue to dominate headline , write North America correspondent Conor Duffy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vogue.com/article/stormy-daniels-interview-michael-cohen-donald-trump",
+            "content": "The people she means—paparazzi and men in red trucker hat who want her to stop talk about her alleged affair with the president—began circle last spring when Daniels decide to take on Trump . When Donald Trump meet Daniels , in 2006 , she ’ d achieve a level of success almost unheard-of in the adult-film industry . ”\nOn August 21 , a this story be go to press , Cohen reach a plea deal with federal prosecutor in their investigation into the $ 130,000 payment to Daniels and a separate payment to Karen McDougal , both of whom have say they have affair with Trump . I ask her for more detail on her alleged 2006 affair with Trump . BY THE TIME I knock on the door of Stormy Daniels ’ s room at the Roger Smith Hotel , a drab brown-brick tower in east midtown , she ’ s be hole up in New York for 24 hour , wait to talk to prosecutor in the criminal investigation into President Trump ’ s former lawyer Michael Cohen . Porn isn ’ t something polite society talk about , but nudge anyone who admit to watch , and they ’ ll tell you a Stormy Daniels film be the gold standard . In plead guilty , Cohen implicate Trump , tell the court he pay Daniels off “ at the direction of the . With no makeup Daniels , 39 , look much young than when she appear on 60 Minutes last March and tell 22 million viewer about her dalliance with Trump , about the hush money and the threat to her daughter and the nondisclosure agreement that she say Cohen force her to sign week before the 2016 presidential election . Trump have deny the affair . But after his lawyer Rudolph W. Giuliani admit on Fox News that Trump have indeed reimburse Cohen , the president confirm a much , insist by tweet that “ money from the campaign , or campaign contribution , play no roll [ sic ] in this transaction. Pornography isn ’ t know a a medium for female empowerment , but a a writer , director , producer , and actress , Daniels have build a career for herself in which she can largely write her own story . ”\nIt be a cruel , if unsurprising , irony that through everything that have transpire , Daniels be the one who have be live like a wanted criminal . He initially tell reporter aboard Air Force One that he have no knowledge of any payment to Daniels . Lately , if Daniels take more than a couple day off from her highly publicize nationwide strip-club tour , people assume she be at her home outside Dallas . For all his cable-TV cockiness , Avenatti seem to admit that Daniels could outsmart him . Daniels dig out a blueberry muffin , and a she pick at it she tell me that ever since “ all this happen ” she hasn ’ t be able to really enjoy a meal . ”\nBut Daniels doesn ’ t see herself a a victim . When I ask Daniels about the abrupt cancellation , she just let out a long it-is-what-it-is exhale .",
+            "domain": "www.vogue.com",
+            "tokenized": [
+                {
+                    "sent": "The people she means—paparazzi and men in red trucker hat who want her to stop talk about her alleged affair with the president—began circle last spring when Daniels decide to take on Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Donald Trump meet Daniels , in 2006 , she ’ d achieve a level of success almost unheard-of in the adult-film industry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nOn August 21 , a this story be go to press , Cohen reach a plea deal with federal prosecutor in their investigation into the $ 130,000 payment to Daniels and a separate payment to Karen McDougal , both of whom have say they have affair with Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I ask her for more detail on her alleged 2006 affair with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BY THE TIME I knock on the door of Stormy Daniels ’ s room at the Roger Smith Hotel , a drab brown-brick tower in east midtown , she ’ s be hole up in New York for 24 hour , wait to talk to prosecutor in the criminal investigation into President Trump ’ s former lawyer Michael Cohen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Porn isn ’ t something polite society talk about , but nudge anyone who admit to watch , and they ’ ll tell you a Stormy Daniels film be the gold standard .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In plead guilty , Cohen implicate Trump , tell the court he pay Daniels off “ at the direction of the .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With no makeup Daniels , 39 , look much young than when she appear on 60 Minutes last March and tell 22 million viewer about her dalliance with Trump , about the hush money and the threat to her daughter and the nondisclosure agreement that she say Cohen force her to sign week before the 2016 presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump have deny the affair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But after his lawyer Rudolph W. Giuliani admit on Fox News that Trump have indeed reimburse Cohen , the president confirm a much , insist by tweet that “ money from the campaign , or campaign contribution , play no roll [ sic ] in this transaction.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pornography isn ’ t know a a medium for female empowerment , but a a writer , director , producer , and actress , Daniels have build a career for herself in which she can largely write her own story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIt be a cruel , if unsurprising , irony that through everything that have transpire , Daniels be the one who have be live like a wanted criminal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He initially tell reporter aboard Air Force One that he have no knowledge of any payment to Daniels .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lately , if Daniels take more than a couple day off from her highly publicize nationwide strip-club tour , people assume she be at her home outside Dallas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For all his cable-TV cockiness , Avenatti seem to admit that Daniels could outsmart him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Daniels dig out a blueberry muffin , and a she pick at it she tell me that ever since “ all this happen ” she hasn ’ t be able to really enjoy a meal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut Daniels doesn ’ t see herself a a victim .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When I ask Daniels about the abrupt cancellation , she just let out a long it-is-what-it-is exhale .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/justice-department/irs-agent-admits-giving-michael-cohen-s-financial-records-stormy-n974201",
+            "content": "Federal prosecutor say an IRS investigator in California have admit leak confidential detail of financial transaction by former Trump attorney Michael Cohen to Michael Avenatti , lawyer for Stormy Daniels .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Federal prosecutor say an IRS investigator in California have admit leak confidential detail of financial transaction by former Trump attorney Michael Cohen to Michael Avenatti , lawyer for Stormy Daniels .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2018/06/01/us/politics/michael-avenatti-democrats-stormy-daniels-trump.html",
+            "content": "But prosecutor say Cohen admit that Trump direct him to make the payment to bury accusation Trump fear could jeopardize his candidacy . Did Trump know about the payment to Stormy Daniels and Karen McDougal ? Mr. Avenatti ’ s effort have also foster a circuslike atmosphere around a criminal inquiry into Mr. Cohen for which prosecutor have seek record of payment to Ms. Clifford and another woman who allege she have an affair with Mr. Trump , the former Playboy model Karen McDougal . Cohen ’ s lawyer release a secretly record conversation between Cohen and Trump that seem to be about the McDougal payment . Trump claim he make the payment for personal reason , tweet that it be a simple private transaction . Trump ’ s former lawyer Michael Cohen plead guilty to violate campaign finance law and prosecutor say Trump direct the illegal payment . Prosecutors say that by suppress the story , Cohen and Trump deceive voter and taint the election process , which be break campaign finance law . The story of President Trump ’ s involvement in hush payment to a porn star and a former Playboy model in 2016 be once again in the spotlight . But if Trump lose re-election , it ’ s possible prosecutor could try and charge him in 2021 . President , do you know about the $ 130,000 payment to Stormy Daniels ?",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "But prosecutor say Cohen admit that Trump direct him to make the payment to bury accusation Trump fear could jeopardize his candidacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Did Trump know about the payment to Stormy Daniels and Karen McDougal ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Avenatti ’ s effort have also foster a circuslike atmosphere around a criminal inquiry into Mr. Cohen for which prosecutor have seek record of payment to Ms. Clifford and another woman who allege she have an affair with Mr. Trump , the former Playboy model Karen McDougal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cohen ’ s lawyer release a secretly record conversation between Cohen and Trump that seem to be about the McDougal payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump claim he make the payment for personal reason , tweet that it be a simple private transaction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s former lawyer Michael Cohen plead guilty to violate campaign finance law and prosecutor say Trump direct the illegal payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Prosecutors say that by suppress the story , Cohen and Trump deceive voter and taint the election process , which be break campaign finance law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The story of President Trump ’ s involvement in hush payment to a porn star and a former Playboy model in 2016 be once again in the spotlight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But if Trump lose re-election , it ’ s possible prosecutor could try and charge him in 2021 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President , do you know about the $ 130,000 payment to Stormy Daniels ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.hollywoodreporter.com/thr-esq/stormy-daniels-hush-agreement-suit-paused-preserve-trump-lawyers-5th-amendment-rights-1106617",
+            "content": "The porn star , sue under her legal name , Stephanie Clifford , want to invalidate an agreement that bar her from talk about her alleged affair with Trump . Trump 's lawyer Michael Cohen earlier this month ask U.S. District Judge James Otero to stay the matter after the FBI raid his office and home a part of a criminal investigation . Cohen have admit to personally pay her $ 130,000 a part of a settlement , and argue that because the fact underlie her civil case and those of the criminal investigation overlap , a stay be warrant .",
+            "domain": "www.hollywoodreporter.com",
+            "tokenized": [
+                {
+                    "sent": "The porn star , sue under her legal name , Stephanie Clifford , want to invalidate an agreement that bar her from talk about her alleged affair with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's lawyer Michael Cohen earlier this month ask U.S. District Judge James Otero to stay the matter after the FBI raid his office and home a part of a criminal investigation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cohen have admit to personally pay her $ 130,000 a part of a settlement , and argue that because the fact underlie her civil case and those of the criminal investigation overlap , a stay be warrant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://qz.com/1269211/trump-and-stormy-daniels-two-laws-trump-may-have-broken/",
+            "content": "By say that Trump know about the payment to Clifford and repay Cohen , Giuliani may have put Trump “ in legal peril for ‘ knowing and willful ’ violation of campaign finance law , ” Ryan say , because he “ hand the DOJ evidence that president Trump commit criminal violation of federal law . ”\nTrump ’ s tweet expose the president to another potential liability—a violation of rule public official must follow when file financial disclosure , Walter Shaub , former head of the Office of Government Ethics and current ethic director of the Campaign Legal Center , another watchdog group , note on Twitter . Clifford be allege a “ one-time affair ” with Trump , and when “ Cohen hear $ 130,000 ” he think the amount be “ cheap ” to make the allegation go away . Norm Eisen , chair of CREW , say today that the group have file a criminal complaint allege Trump lie on his financial disclosure a well .",
+            "domain": "qz.com",
+            "tokenized": [
+                {
+                    "sent": "By say that Trump know about the payment to Clifford and repay Cohen , Giuliani may have put Trump “ in legal peril for ‘ knowing and willful ’ violation of campaign finance law , ” Ryan say , because he “ hand the DOJ evidence that president Trump commit criminal violation of federal law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s tweet expose the president to another potential liability—a violation of rule public official must follow when file financial disclosure , Walter Shaub , former head of the Office of Government Ethics and current ethic director of the Campaign Legal Center , another watchdog group , note on Twitter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Clifford be allege a “ one-time affair ” with Trump , and when “ Cohen hear $ 130,000 ” he think the amount be “ cheap ” to make the allegation go away .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Norm Eisen , chair of CREW , say today that the group have file a criminal complaint allege Trump lie on his financial disclosure a well .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/trump-discloses-reimbursement-to-michael-cohen-tied-to-stormy-daniels-payment-1526493667",
+            "content": "Mr. Giuliani say he wasn ’ t aware of whether Mr. Cohen have advise the president about why he have pay Ms. Clifford , who allege a sexual affair with Mr. Trump . Mr. Trump have deny a relationship with Ms. Clifford .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "Mr. Giuliani say he wasn ’ t aware of whether Mr. Cohen have advise the president about why he have pay Ms. Clifford , who allege a sexual affair with Mr. Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump have deny a relationship with Ms. Clifford .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

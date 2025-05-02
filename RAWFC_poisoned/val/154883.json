@@ -1,0 +1,821 @@
+{
+    "event_id": "154883",
+    "claim": "The Trump re-election campaign is responsible for a surge in orders of \"Trump 2020\" flags and banners produced in Chinese factories, just before the imposition of U.S. tariffs.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In the spring of 2018, President Donald Trump announced he would be imposing tariffs on more than 1,300 types of products imported from China. The move brought significant scrutiny, including claims that clothing had been excluded from the list of taxed products in order to benefit the president’s daughter and adviser Ivanka Trump, whose clothing line has in the past sold products manufactured in China. (A few months later, Ivanka Trump said she would be closing down her clothing company.)In July 2018, various news accounts reported that in anticipation of the implementation of those tariffs, customers in the United States and elsewhere were ramping up their orders for one Chinese-made product in particular: President Trump re-election campaign items.The reports gave rise to speculation that not only was the president’s re-election campaign itself ordering campaign items produced in China rather than in the U.S., but that they were attempting to mitigate against the increased costs that would come with the tariffs by pushing for the quick completion of those materials — moves that would provide a double dose of irony for a politician who has famously emphasized prioritizing American jobs and manufacturing.Some news reports contained ambiguous phrasing which created the impression (without explicitly stating such) that the Trump campaign had ordered the production of Chinese-made campaign flags. For example, the  described materials being manufactured in Chinese factories as “Trump’s re-election banners,” while  called them “Trump’s 2020 banners.”  magazine similarly described the merchandise as “Trump’s 2020 re-election flags,” while adding a disclaimer about the identity of the customer who actually ordered them: “While it is not confirmed that Trump’s campaign ordered the flags, who else besides Sean Spicer is really that hype about the dude?”On 27 July, Vermont senator and 2016 presidential candidate Bernie Sanders was more direct and explicit in accusing both the president himself and his campaign of having ordered the Chinese-made banners and flags. In a Facebook post, Sanders described the items as “flags for President Trump’s campaign” and accused the president of ‘opting for’ cheap foreign labor:In a 3 July 2018 interview with National Public Radio (NPR), Li Jiang, a factory owner in China’s Zhejiang province, said that “We also make flags for Trump for 2020,” but this comment was ambiguous about whether the merchandise was ordered by the Trump campaign itself.On 19 July 2018, the state-run Chinese newspaper the  quoted the owners of two more factories in Zhejiang as saying that in recent months they had faced an increased volume of orders for flags bearing the campaign slogans “Trump 2020” and “Keep America Great.”Both the Reuters and Agence France-Presse (AFP) news agencies reported on a fourth factory, this one in China’s Anhui province, which had been pumping out Trump 2020 flags and banners at a higher rate than usual, with Reuters quoting a factory manager as stating that her “buyers are located in both China and abroad” and that “she doesn’t know if they are affiliated with Trump’s official campaign or the Republican Party”:Both Reuters and AFP included clear photographic and video evidence in their reports, so it’s clear that Trump 2020 merchandise ordered by  was being produced in at least one Chinese factory as of July 2018:None of the Chinese factory owners and managers quoted in the July 2018 news reports either affirmed or denied that the Trump campaign itself had been responsible for the significant increase in orders in recent months, and none of them identified anyone else as being a major customer, so we do not know who was behind orders for the many thousands of “Trump 2020” flags produced in China in the first half of 2018.A Trump campaign spokesperson firmly rejected any speculation or allegations linking the campaign to the merchandise. In a statement sent to us by the Trump 2020 campaign, Michael Glassner, Chief Operating Officer of the Donald J. Trump for President committee, wrote:We searched Federal Election Commission records on spending by three Trump-related political committees since 2017 and found no evidence of flags, banners, or other campaign merchandise being ordered from entities based in China. If such orders had been placed, it is possible that they may have been recorded as disbursements to third parties or subcontractors, but we found no evidence that this had taken place.It’s clear that Trump 2020 merchandise is being produced in Chinese factories, and it’s reasonable to conclude that the future implementation of tariffs on Chinese imports has prompted something of a surge in orders, as recounted by several local factory officials.The volume of the orders (90,000 banners between March and July, at just one factory) is not inconsistent with the activities of a major U.S. presidential election campaign, and it is therefore reasonable to question the identity of the customer(s) behind such orders. However, we’ve so far found no concrete evidence documenting who is responsible for these orders: merchandisers, the Trump campaign itself, Republican partisans, foreign entities, or some combination thereof. ",
+    "reports": [
+        {
+            "link": "https://www.inkstonenews.com/business/trumps-2020-campaign-materials-set-be-hit-his-china-tariffs/article/3024509",
+            "content": "The factory have produce hundred of thousand of Trump flag and banner since the first order for the 2020 campaign be make in May last year , Yao say , with US business account for around a third of it overall order . Workers at Fuyang Jiahao , a small factory in Fuyang city about 400 mile north of the megacity of Shanghai , be busy produce flag with slogan include “ Trump 2020 ” and “ Keep America Great . President Donald Trump ’ s escalation of the trade war with China could soon be about to hit him where it hurt , with large quantity of material for his 2020 presidential campaign set to be affect by import tariff . ”\nBut with national flag and other article make from textile set to be subject to a new 15 % tariff rate from September 1 , Trump ’ s own campaign could soon be pay more for it good import from China . ”\nYao ’ s factory , which produce the vast majority of Trump banner in 2016 , employ about 70 worker and report an annual sale revenue of around 20 to 30 million yuan ( $ 2.1 to $ 4.2 million ) last year . After China announce plan to impose retaliatory tariff of 5 % to 10 % on $ 75 billion worth of American product , Trump say that he plan to raise the tariff rate on $ 250 billion of Chinese import from 25 % to 30 % October 1 , and the tariff on $ 300 billion of good from 10 % to 15 % start on September 1 . It ’ s even good than the 2016 [ US presidential campaign ] , ” he say . The factory have yet to increase it price , with Yao add that with price already quite low , the cost of the tariff increase would most likely be share by both exporter and overseas client .",
+            "domain": "www.inkstonenews.com",
+            "tokenized": [
+                {
+                    "sent": "The factory have produce hundred of thousand of Trump flag and banner since the first order for the 2020 campaign be make in May last year , Yao say , with US business account for around a third of it overall order .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Workers at Fuyang Jiahao , a small factory in Fuyang city about 400 mile north of the megacity of Shanghai , be busy produce flag with slogan include “ Trump 2020 ” and “ Keep America Great .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump ’ s escalation of the trade war with China could soon be about to hit him where it hurt , with large quantity of material for his 2020 presidential campaign set to be affect by import tariff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut with national flag and other article make from textile set to be subject to a new 15 % tariff rate from September 1 , Trump ’ s own campaign could soon be pay more for it good import from China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nYao ’ s factory , which produce the vast majority of Trump banner in 2016 , employ about 70 worker and report an annual sale revenue of around 20 to 30 million yuan ( $ 2.1 to $ 4.2 million ) last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After China announce plan to impose retaliatory tariff of 5 % to 10 % on $ 75 billion worth of American product , Trump say that he plan to raise the tariff rate on $ 250 billion of Chinese import from 25 % to 30 % October 1 , and the tariff on $ 300 billion of good from 10 % to 15 % start on September 1 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s even good than the 2016 [ US presidential campaign ] , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The factory have yet to increase it price , with Yao add that with price already quite low , the cost of the tariff increase would most likely be share by both exporter and overseas client .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.scmp.com/economy/china-economy/article/3024385/donald-trumps-2020-presidential-campaign-set-be-hit-his-own",
+            "content": "The factory have produce “ hundred of thousand ” of Trump flag and banner since the first order for the 2020 campaign be make in May last year , Yao say , with US business account for around a third of it overall order . US President Donald Trump ’ s escalation of the trade war with China could soon be about to come home to roost , with large quantity of material for his 2020 presidential campaign set to be hit with import tariff . Workers at Fuyang Jiahao , a small factory in Fuyang city about 600km north of Shanghai , be busy produce flag with slogan include “ Trump 2020 ” and “ Keep America Great ” . ”\nYao ’ s factory , which produce the vast majority of Trump banner in 2016 , employ about 70 worker and report an annual sale revenue of around 20 to 30 million yuan ( US $ 2.1 to US $ 4.2 million ) last year . Donald Trump ’ s tariff on China fail to bring job back to the US\nAnalysts expect that the new tariff , if introduce , would cut China ’ s growth by around 0.2 percentage point this year . But , if the tariff have an impact on it US business , Fuyang Jiahao will need to seek order from new client . It ’ s even good than the 2016 [ US presidential campaign ] , ” he say . The factory have yet to increase it price , with Yao add that with price already quite low , the cost of the tariff increase would most likely be share by both exporter and overseas client .",
+            "domain": "www.scmp.com",
+            "tokenized": [
+                {
+                    "sent": "The factory have produce “ hundred of thousand ” of Trump flag and banner since the first order for the 2020 campaign be make in May last year , Yao say , with US business account for around a third of it overall order .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "US President Donald Trump ’ s escalation of the trade war with China could soon be about to come home to roost , with large quantity of material for his 2020 presidential campaign set to be hit with import tariff .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Workers at Fuyang Jiahao , a small factory in Fuyang city about 600km north of Shanghai , be busy produce flag with slogan include “ Trump 2020 ” and “ Keep America Great ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nYao ’ s factory , which produce the vast majority of Trump banner in 2016 , employ about 70 worker and report an annual sale revenue of around 20 to 30 million yuan ( US $ 2.1 to US $ 4.2 million ) last year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Donald Trump ’ s tariff on China fail to bring job back to the US\nAnalysts expect that the new tariff , if introduce , would cut China ’ s growth by around 0.2 percentage point this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , if the tariff have an impact on it US business , Fuyang Jiahao will need to seek order from new client .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s even good than the 2016 [ US presidential campaign ] , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The factory have yet to increase it price , with Yao add that with price already quite low , the cost of the tariff increase would most likely be share by both exporter and overseas client .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/onpolitics/2018/07/26/trumps-2020-banners-made-chinese-factory-fear-tarriffs/844226002/",
+            "content": "President Donald Trump 's 2020 reelection banner be be make in haste at one Chinese flag factory a the fear of more tariff loom . Already , the U.S. have slap tariff on $ 34 billion worth of Chinese good and last week , Trump signal he could increase that to all $ 505 billion in good that China import . More : Donald Trump defend tariff in key political area : Farm country\nWhile the banner be sell both within China and abroad , Yao say it unclear whether they be affiliate with Trump 's campaign or the Republican party . More : Trump say he 's prepared to slap tariff on all $ 500B in Chinese import to U.S . While the summer be usually the slow season at Jiahao Flag Co Ltd , the factory have package more than 90,000 of the iconic red , white and blue banner since March , accord to Reuters . Workers in Fuyang , China have be busy at work , lean over sew machine table , hem the edge of Trump's '' Keep America Great ! '' Reuters report the factory do n't just make paraphernalia for the president but also sell American and rainbow flag .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump 's 2020 reelection banner be be make in haste at one Chinese flag factory a the fear of more tariff loom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Already , the U.S. have slap tariff on $ 34 billion worth of Chinese good and last week , Trump signal he could increase that to all $ 505 billion in good that China import .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More : Donald Trump defend tariff in key political area : Farm country\nWhile the banner be sell both within China and abroad , Yao say it unclear whether they be affiliate with Trump 's campaign or the Republican party .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More : Trump say he 's prepared to slap tariff on all $ 500B in Chinese import to U.S .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While the summer be usually the slow season at Jiahao Flag Co Ltd , the factory have package more than 90,000 of the iconic red , white and blue banner since March , accord to Reuters .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Workers in Fuyang , China have be busy at work , lean over sew machine table , hem the edge of Trump's '' Keep America Great ! ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Reuters report the factory do n't just make paraphernalia for the president but also sell American and rainbow flag .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/chinese-factory-says-its-making-flags-for-trump-2020-campaign-2018-7",
+            "content": "As the US 's trade conflict with China heat up and President Donald Trump 's reelection campaign get underway , a Chinese manufacturer say his factory have be hire to create flag for Trump 's 2020 bid . The committee organize Trump 's 2020 campaign , Donald J. Trump for President Inc. , last year state a commitment to `` buy American '' and say it have `` produce and manufacture all of our merchandise right here in America '' down to the American-made stitching on it `` Make America Great Again '' hat . NPR say Li be make `` blue-and-white Trump 2020 flag , '' though his factory and many others in the Zhejiang province in eastern China also make flag for Trump and Hillary Clinton during 2016 . Trump 's campaign website advertise hat make in America a Trump rail against Chinese manufacturing on the campaign trail in 2016 , though unofficial foreign-made merchandise carry the `` Make America Great Again '' slogan also flood shelf across the country . `` We also make flag for Trump for 2020 , '' Li Jiang tell NPR 's `` The Indicator '' podcast . According to NPR , the Trump campaign be order so many more flag than Clinton 's side that local joke they be the first to know the businessman would become president . But a Trump Campaign official tell Business Insider that all their merchandise be make in the US , and vendor who suggest otherwise be lie or violate protect trademark right . The factory , which use to make red scarf for the communist Young Pioneers before China open up it trade , now make about 100,000 international flag a day . `` It seem like he have another campaign go on in 2020 . It be unclear whether the organization be the one to have order the flag reveal to NPR and , if it do , whether it plan to give the flags away at rally and event rather than sell them . As for a potential trade war affect sale , Li , who say he use to make about a dime off each $ 1 flag he sell , tell NPR he be unconcerned .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "As the US 's trade conflict with China heat up and President Donald Trump 's reelection campaign get underway , a Chinese manufacturer say his factory have be hire to create flag for Trump 's 2020 bid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The committee organize Trump 's 2020 campaign , Donald J. Trump for President Inc. , last year state a commitment to `` buy American '' and say it have `` produce and manufacture all of our merchandise right here in America '' down to the American-made stitching on it `` Make America Great Again '' hat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "NPR say Li be make `` blue-and-white Trump 2020 flag , '' though his factory and many others in the Zhejiang province in eastern China also make flag for Trump and Hillary Clinton during 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's campaign website advertise hat make in America a Trump rail against Chinese manufacturing on the campaign trail in 2016 , though unofficial foreign-made merchandise carry the `` Make America Great Again '' slogan also flood shelf across the country .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We also make flag for Trump for 2020 , '' Li Jiang tell NPR 's `` The Indicator '' podcast .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to NPR , the Trump campaign be order so many more flag than Clinton 's side that local joke they be the first to know the businessman would become president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But a Trump Campaign official tell Business Insider that all their merchandise be make in the US , and vendor who suggest otherwise be lie or violate protect trademark right .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The factory , which use to make red scarf for the communist Young Pioneers before China open up it trade , now make about 100,000 international flag a day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It seem like he have another campaign go on in 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be unclear whether the organization be the one to have order the flag reveal to NPR and , if it do , whether it plan to give the flags away at rally and event rather than sell them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for a potential trade war affect sale , Li , who say he use to make about a dime off each $ 1 flag he sell , tell NPR he be unconcerned .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/trump-2020-campaign-banners-are-being-proudly-produced-in-china-2018-07-25",
+            "content": "” banner and flag since March , and the factory have ramp up production before Trump ’ s threaten tariff against all Chinese-made good kick on . The banner and flag cost about $ 1 each to make , Reuters say , and a factory manager say Trump ’ s campaign supplier appear to be try to get their order in before potential tariff cause the price to rise . Manufacturers be already hard at work churn out banner for President Donald Trump ’ s 2020 re-election campaign — in China . According to a Reuters report Wednesday , China ’ s Jiahao Flag Co. have produce more than 90,000 “ Trump 2020 : Keep America Great ! The manager tell Reuters that the factory have be make Trump banner ever since the day of “ Make America Great Again .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "” banner and flag since March , and the factory have ramp up production before Trump ’ s threaten tariff against all Chinese-made good kick on .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The banner and flag cost about $ 1 each to make , Reuters say , and a factory manager say Trump ’ s campaign supplier appear to be try to get their order in before potential tariff cause the price to rise .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Manufacturers be already hard at work churn out banner for President Donald Trump ’ s 2020 re-election campaign — in China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to a Reuters report Wednesday , China ’ s Jiahao Flag Co. have produce more than 90,000 “ Trump 2020 : Keep America Great !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The manager tell Reuters that the factory have be make Trump banner ever since the day of “ Make America Great Again .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/photos-show-chinese-factory-workers-making-trump-2020-flags_n_5b589259e4b0b15aba94476a",
+            "content": "Photos release by Reuters on Wednesday show a Chinese factory making flag that supplier will use to promote President Donald Trump ’ s 2020 re-election campaign . Clarification : A previous version of this story indicate that per a Reuters report , the flag make in the Chinese factory be for Trump campaign supplier . ” )\nThe flag reportedly cost about $ 1 apiece , a price that be likely to go up after Trump ’ s tariff on China kick in . The president might like to tout his support for American worker , but those worker aren ’ t the only one make flag for his Trump 2020 supporter . Since March , Jiahao Flag Factory , locate in Fuyang , Anhui province , have make approximately 90,000 of the flag , accord to Reuters . ” ( The official Trump campaign merchandise site say all it product be “ proudly make in the U.S.A . The outlet note that the factory manager doesn ’ t know if the buyer be “ affiliate with Trump ’ s official campaign or the Republican Party.",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "Photos release by Reuters on Wednesday show a Chinese factory making flag that supplier will use to promote President Donald Trump ’ s 2020 re-election campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Clarification : A previous version of this story indicate that per a Reuters report , the flag make in the Chinese factory be for Trump campaign supplier .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” )\nThe flag reportedly cost about $ 1 apiece , a price that be likely to go up after Trump ’ s tariff on China kick in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president might like to tout his support for American worker , but those worker aren ’ t the only one make flag for his Trump 2020 supporter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Since March , Jiahao Flag Factory , locate in Fuyang , Anhui province , have make approximately 90,000 of the flag , accord to Reuters .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( The official Trump campaign merchandise site say all it product be “ proudly make in the U.S.A .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The outlet note that the factory manager doesn ’ t know if the buyer be “ affiliate with Trump ’ s official campaign or the Republican Party.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/news/picture/trump-flags-made-in-china-idUSRTX6CSI2",
+            "content": "`` I know that Trump 's tariff target China will have some effect , but we 're not worry at all , since we 're produce foreign flag every single day , '' she say ... .more\nWorkers make flag for U.S. President Donald Trump 's `` Keep America Great ! '' But they be make in eastern China and soon could be hit by punitive tariff of Trump 's own ... more\nThe factory have turn out about 90,000 banner since March , say manager Yao Yuanyuan , an unusually large number for what be normally the low season , and Yao believe the China-U.S. trade war be the reason . 2020 re-election campaign at Jiahao flag factory . 2020 re-election campaign at Jiahao flag factory . After Beijing retaliate in kind , Washington announce levy on an additional $ 200 billion worth of product and threaten more , target potentially all of ... more\nThe campaign banner highlight a paradox in China-U.S. relation under Trump . The red , white and blue banner for U.S. President Donald Trump 's second-term campaign be ready to ship , emblazon with the word `` Keep America Great ! '' `` If he continue to demand tariff increase a he have be , or if he continue to ... more\nFactory seamstress Sun Lijun be lose no sleep over the trade war , however . REUTERS/Aly Song\nWorkers make flag for U.S. President Donald Trump 's `` Keep America Great ! '' Yao 's factory have be make ... more\nBut Trump 's effort to wrest good trading condition from China threaten that price advantage , and his hardline stance could eventually repel supplier like Yao . At about $ 1 apiece , even supplier to the Trump campaign , who , Yao say , be locate both in China and abroad , ca n't resist the low price . `` They ... more\nThe Trump administration have impose tariff on $ 34 billion worth of good from China . REUTERS/Aly Song\nMigrants from Central America cross the Rio Grande into the United States amid the big surge of asylum seeker at the southwestern border in 20 year .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "`` I know that Trump 's tariff target China will have some effect , but we 're not worry at all , since we 're produce foreign flag every single day , '' she say ... .more\nWorkers make flag for U.S. President Donald Trump 's `` Keep America Great ! ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But they be make in eastern China and soon could be hit by punitive tariff of Trump 's own ... more\nThe factory have turn out about 90,000 banner since March , say manager Yao Yuanyuan , an unusually large number for what be normally the low season , and Yao believe the China-U.S. trade war be the reason .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "2020 re-election campaign at Jiahao flag factory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "2020 re-election campaign at Jiahao flag factory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After Beijing retaliate in kind , Washington announce levy on an additional $ 200 billion worth of product and threaten more , target potentially all of ... more\nThe campaign banner highlight a paradox in China-U.S. relation under Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The red , white and blue banner for U.S. President Donald Trump 's second-term campaign be ready to ship , emblazon with the word `` Keep America Great ! ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If he continue to demand tariff increase a he have be , or if he continue to ... more\nFactory seamstress Sun Lijun be lose no sleep over the trade war , however .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Aly Song\nWorkers make flag for U.S. President Donald Trump 's `` Keep America Great ! ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yao 's factory have be make ... more\nBut Trump 's effort to wrest good trading condition from China threaten that price advantage , and his hardline stance could eventually repel supplier like Yao .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At about $ 1 apiece , even supplier to the Trump campaign , who , Yao say , be locate both in China and abroad , ca n't resist the low price .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` They ... more\nThe Trump administration have impose tariff on $ 34 billion worth of good from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Aly Song\nMigrants from Central America cross the Rio Grande into the United States amid the big surge of asylum seeker at the southwestern border in 20 year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/trumps-2020-campaign-flags-made-in-china-683ab550-ff29-45f3-ab7d-2a52e5f05e65.html",
+            "content": "Why it matter : This run counter to Trump 's `` Buy American and Hire American '' motto , and be even more glaringly out of step with the Trump campaign 's direct commitment to `` proudly continue to sell American product and introduce new one ... [ a ] ll the way through 2020 and beyond . '' Speaking on NPR 's podcast The Indicator , Li Jiang , who own a flag-making company in China 's Zhejiang province , say he 's be contract to manufacture flag for President Trump 's 2020 election bid . Jiang also make flag for the Trump and Clinton campaign in 2016 .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "Why it matter : This run counter to Trump 's `` Buy American and Hire American '' motto , and be even more glaringly out of step with the Trump campaign 's direct commitment to `` proudly continue to sell American product and introduce new one ... [ a ] ll the way through 2020 and beyond . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Speaking on NPR 's podcast The Indicator , Li Jiang , who own a flag-making company in China 's Zhejiang province , say he 's be contract to manufacture flag for President Trump 's 2020 election bid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Jiang also make flag for the Trump and Clinton campaign in 2016 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2018/07/27/donald-trump-2020-banners-made-america-week-china/847416002/",
+            "content": "Because the Trump administration be hammer Chinese export with $ 34 billion in tariff and his campaign want to get the flag and banner do and ship before those tariff kick in . ”\nAnd the whole time the president be say thing like this Trump ’ s red , white and blue banner and flag read “ Trump 2020 ” and “ Keep America Great ! ”\nBut if you support Trump's reelection campaign you ’ ll be wave one that ’ s Chinese . Earlier in the week , Trump blast previous administration , say , “ They let our factory leave , they let our people lose their job to worker in faraway land . As would Trump say , “ American never wave a white flag .",
+            "domain": "www.azcentral.com",
+            "tokenized": [
+                {
+                    "sent": "Because the Trump administration be hammer Chinese export with $ 34 billion in tariff and his campaign want to get the flag and banner do and ship before those tariff kick in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAnd the whole time the president be say thing like this Trump ’ s red , white and blue banner and flag read “ Trump 2020 ” and “ Keep America Great !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut if you support Trump's reelection campaign you ’ ll be wave one that ’ s Chinese .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Earlier in the week , Trump blast previous administration , say , “ They let our factory leave , they let our people lose their job to worker in faraway land .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As would Trump say , “ American never wave a white flag .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/399370-trump-2020-reelection-campaign-denies-reports-keep-america-great-flags-are",
+            "content": "President TrumpDonald TrumpFirst GOP lawmaker call on Gaetz to resign Katie Hill on Matt Gaetz : ' I feel betray by him ' Anne Frank 's stepsister : Trump 'obviously admire Hitler ' MORE ’ s campaign fire back on Saturday at recent report that his 2020 reelection campaign be produce it flag in China , deny report and viral image that suggest the contrary . Manager Yao Yuanyuan tell Reuters that she be worried Trump ’ s own tariff would hurt production number , but say she do not know if the banner ' buyer be officially affiliate with the Trump campaign or the GOP . ” banner for Trump ’ s anticipate 2020 reelection bid . Yao say her factory have be make Trump banner since the president be a candidate . But the Trump reelection campaign 's chief operate officer , Michael Glassner , say campaign merchandise be `` 100 % make in the USA . '' `` This applies to all of the recent fake news about Made in China product for the 2020 campaign , '' he add . The report of the factory appear to contradict Trump ’ s “ Buy American , Hire American ” agenda amid an escalate trade war with China . Trump in an interview last week say he ’ s “ ready to go ” with $ 500 billion in tariff on China after already slap the country with a series of steep tariff . A similar report earlier this month find that another factory in China ’ s Zhejiang province be reportedly produce small blue and white flag for the reelection campaign . `` We have make it clear all along that all of our merchandise be 100 % make in the USA , '' Glassner say in a statement to CNN . Reuters report earlier this week that a factory in eastern China be produce thousand of “ Keep America Great !",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "President TrumpDonald TrumpFirst GOP lawmaker call on Gaetz to resign Katie Hill on Matt Gaetz : ' I feel betray by him ' Anne Frank 's stepsister : Trump 'obviously admire Hitler ' MORE ’ s campaign fire back on Saturday at recent report that his 2020 reelection campaign be produce it flag in China , deny report and viral image that suggest the contrary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Manager Yao Yuanyuan tell Reuters that she be worried Trump ’ s own tariff would hurt production number , but say she do not know if the banner ' buyer be officially affiliate with the Trump campaign or the GOP .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” banner for Trump ’ s anticipate 2020 reelection bid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yao say her factory have be make Trump banner since the president be a candidate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the Trump reelection campaign 's chief operate officer , Michael Glassner , say campaign merchandise be `` 100 % make in the USA . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` This applies to all of the recent fake news about Made in China product for the 2020 campaign , '' he add .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The report of the factory appear to contradict Trump ’ s “ Buy American , Hire American ” agenda amid an escalate trade war with China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump in an interview last week say he ’ s “ ready to go ” with $ 500 billion in tariff on China after already slap the country with a series of steep tariff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A similar report earlier this month find that another factory in China ’ s Zhejiang province be reportedly produce small blue and white flag for the reelection campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have make it clear all along that all of our merchandise be 100 % make in the USA , '' Glassner say in a statement to CNN .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Reuters report earlier this week that a factory in eastern China be produce thousand of “ Keep America Great !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/10/28/business/trump-china-election.html",
+            "content": "President Trump ’ s campaign paraphernalia — hat , banner , mug and practically anything else that can carry a logo — have be sell briskly at shop in the vast wholesale market in the Chinese city of Yiwu . Mr. Trump have emphasize large gathering , with supporter wave pennant and wear various campaign merchandise , which increase demand for good from Yiwu . “ We ’ ve have four or five shopper for Trump material each month , ” say Ge Lu , a salesman at one of about 100 shop specialize just in flag , refer to big purchaser who buy banner by the thousand . YIWU , China — Deep inside a 10-block-long factory outlet mall in China , the people who supply Americans with their plastic dinosaur and “ Kiss My Bass ” baseball cap be confident about a Nov. 3 victory for Donald Trump . As in 2016 , Mr. Trump also appear to be gain a considerable share of his support from people in rural area , where people may have more room for yard sign and banner . “ They start off even , but then they stop sell , and later , Trump sell more , ” say Dai Fuli , the owner of a baseball cap factory in the city of Qingdao who maintain an outlet in Yiwu . So the total for Trump cap order so far this year : “ There be ten of thousand this year , ” Ms. Dai say . “ Trump still have the good chance , ” say Zhang Zhijiang , the owner of a cap and hat factory in Jiangsu Province who keep a sale office in the Yiwu market . In 2016 , the index consistently predict a Trump victory . At a Halloween mask factory outlet , rubbery Trump mask be consistently popular and completely sell out . Mr. Zhang , the hat factory owner in Jiangsu Province , say Biden supporter appear to be place more of their baseball cap order in Vietnam and Myanmar . His campaign have be shake by the coronavirus , which continue to spread relentlessly through the United States and have even strike the White House . The factory create a Biden mask , say Gigi Zhang , the store manager , but nobody have order it yet . She say order for Trump baseball cap have be consistently strong for two year . Mr. Trump might welcome the news from Yiwu . In the flag section , some appear to be appeal instead to China ’ s rise nationalism . In building after cavernous building , buyer for company big and small pick through stall feature hat , T-shirts , banner , face mask , baby toy , knapsack , model clay and practically any other manufactured product that will delight the world ’ s fickle consumer . On the flag floor , the corridor be a scarlet sea of red national flag , red Chinese Communist Party pennant and other souvenir .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump ’ s campaign paraphernalia — hat , banner , mug and practically anything else that can carry a logo — have be sell briskly at shop in the vast wholesale market in the Chinese city of Yiwu .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Trump have emphasize large gathering , with supporter wave pennant and wear various campaign merchandise , which increase demand for good from Yiwu .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We ’ ve have four or five shopper for Trump material each month , ” say Ge Lu , a salesman at one of about 100 shop specialize just in flag , refer to big purchaser who buy banner by the thousand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "YIWU , China — Deep inside a 10-block-long factory outlet mall in China , the people who supply Americans with their plastic dinosaur and “ Kiss My Bass ” baseball cap be confident about a Nov. 3 victory for Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As in 2016 , Mr. Trump also appear to be gain a considerable share of his support from people in rural area , where people may have more room for yard sign and banner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They start off even , but then they stop sell , and later , Trump sell more , ” say Dai Fuli , the owner of a baseball cap factory in the city of Qingdao who maintain an outlet in Yiwu .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So the total for Trump cap order so far this year : “ There be ten of thousand this year , ” Ms. Dai say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Trump still have the good chance , ” say Zhang Zhijiang , the owner of a cap and hat factory in Jiangsu Province who keep a sale office in the Yiwu market .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2016 , the index consistently predict a Trump victory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At a Halloween mask factory outlet , rubbery Trump mask be consistently popular and completely sell out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Zhang , the hat factory owner in Jiangsu Province , say Biden supporter appear to be place more of their baseball cap order in Vietnam and Myanmar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His campaign have be shake by the coronavirus , which continue to spread relentlessly through the United States and have even strike the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The factory create a Biden mask , say Gigi Zhang , the store manager , but nobody have order it yet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She say order for Trump baseball cap have be consistently strong for two year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump might welcome the news from Yiwu .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the flag section , some appear to be appeal instead to China ’ s rise nationalism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In building after cavernous building , buyer for company big and small pick through stall feature hat , T-shirts , banner , face mask , baby toy , knapsack , model clay and practically any other manufactured product that will delight the world ’ s fickle consumer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the flag floor , the corridor be a scarlet sea of red national flag , red Chinese Communist Party pennant and other souvenir .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://fashionunited.com/education/news/as-trade-war-rages-trump-flags-fly-out-of-china-factory/2018071622350",
+            "content": "`` We can easily sell more than 10,000 Trump 2020 campaign flag each\nThe company make thousand of flag daily for `` just about every\n33 , who manage the factory . say , the factory focus for three month solely on make Trump campaign\nAmerican-themed flag remain among their top-sellers , with many sell via\nexpand the factory 's size , at least to double it within the next three\nThe flag company 's success have be a boon for local worker , mostly\nwhile sew a white stripe onto an American flag . factory set amid corn and mulberry field in central China stitch\nUS and `` Trump 2020 '' flag -- and business be good . The US and China have slap tariff on billion of dollar worth of\nInstead , a a dozen sample flag flutter outside the factory\nThey include a current hot-seller -- blue and white banner declare\nBut the anger do not appear to extend to flag .",
+            "domain": "fashionunited.com",
+            "tokenized": [
+                {
+                    "sent": "`` We can easily sell more than 10,000 Trump 2020 campaign flag each\nThe company make thousand of flag daily for `` just about every\n33 , who manage the factory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "say , the factory focus for three month solely on make Trump campaign\nAmerican-themed flag remain among their top-sellers , with many sell via\nexpand the factory 's size , at least to double it within the next three\nThe flag company 's success have be a boon for local worker , mostly\nwhile sew a white stripe onto an American flag .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "factory set amid corn and mulberry field in central China stitch\nUS and `` Trump 2020 '' flag -- and business be good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The US and China have slap tariff on billion of dollar worth of\nInstead , a a dozen sample flag flutter outside the factory\nThey include a current hot-seller -- blue and white banner declare\nBut the anger do not appear to extend to flag .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/world/2018/jul/25/trump-china-trade-war-tariffs-reelection-flags",
+            "content": "‘ Sales have be great ’ since factory begin make Trump banner in 2015 , highlight a paradox in US-China relation\nThe red , white and blue banner for Donald Trump ’ s second-term campaign be ready to ship , emblazon with the word “ Keep America Great ! “ I know that Trump ’ s tariff target China will have some effect , but we ’ re not worry at all , since we ’ re produce foreign flag every single day , ” she say . ”\nThe Jiahao Flag factory do no ’ t only make Trump banner . Yao ’ s factory have be make Trump banner since the time his tag line a a candidate be “ Make America Great Again ” . At the Jiahao Flag company in Anhui province , woman operate sew machine to hem the edge of “ Trump 2020 ” flag the size of beach towel , while others fold and bundle them for delivery . The campaign banner highlight a paradox in China-US relation under Trump . The factory have turn out about 90,000 banner since March , say manager Yao Yuanyuan , an unusually large number for what be normally the low season , and Yao believe the China-US trade war be the reason . After Beijing retaliate in kind , Washington announce levy on an additional $ 200bn worth of product and threaten more , target potentially all of China ’ s export to America – include flag . At about $ 1 apiece , even supplier to the Trump campaign , who , Yao say , be locate both in China and abroad , can ’ t resist the low price . “ If he continue to demand tariff increase a he have be , or if he continue to agree with those who be against China , I definitely would not be able to accept [ more order ] , ” she say . “ Everyone can have a patriotic heart , but this win ’ t improve his economy , and instead it could make u Chinese just shoot ourselves in the foot . ”\nThe Trump administration have impose tariff on $ 34bn worth of good from China .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "‘ Sales have be great ’ since factory begin make Trump banner in 2015 , highlight a paradox in US-China relation\nThe red , white and blue banner for Donald Trump ’ s second-term campaign be ready to ship , emblazon with the word “ Keep America Great !",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I know that Trump ’ s tariff target China will have some effect , but we ’ re not worry at all , since we ’ re produce foreign flag every single day , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Jiahao Flag factory do no ’ t only make Trump banner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yao ’ s factory have be make Trump banner since the time his tag line a a candidate be “ Make America Great Again ” .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the Jiahao Flag company in Anhui province , woman operate sew machine to hem the edge of “ Trump 2020 ” flag the size of beach towel , while others fold and bundle them for delivery .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The campaign banner highlight a paradox in China-US relation under Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The factory have turn out about 90,000 banner since March , say manager Yao Yuanyuan , an unusually large number for what be normally the low season , and Yao believe the China-US trade war be the reason .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After Beijing retaliate in kind , Washington announce levy on an additional $ 200bn worth of product and threaten more , target potentially all of China ’ s export to America – include flag .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At about $ 1 apiece , even supplier to the Trump campaign , who , Yao say , be locate both in China and abroad , can ’ t resist the low price .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If he continue to demand tariff increase a he have be , or if he continue to agree with those who be against China , I definitely would not be able to accept [ more order ] , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Everyone can have a patriotic heart , but this win ’ t improve his economy , and instead it could make u Chinese just shoot ourselves in the foot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Trump administration have impose tariff on $ 34bn worth of good from China .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/international/archive/2020/07/why-china-wants-donald-trump-win/613864/",
+            "content": "The Chinese propaganda machine be capitalize on Trump ’ s woeful response to the coronavirus pandemic to mock the president and American democracy , raise doubt about U.S. global leadership , and offer up China a a more responsible world power . Instead , Trump settle for a narrow “ phase one ” deal , sign in January , that be center mainly on large Chinese purchase of American farm produce , but include little to alter Beijing ’ s discriminatory practice . ” In May , Hu Xijin , the outspoken editor of the Communist Party–-run newspaper Global Times , tweet at Trump that the Chinese “ wish for your reelection because you can make America eccentric and thus hateful for the world . In a highly unusual comment , the former Chinese trade negotiator Long Yongtu reportedly tell a Shenzhen conference late last year , “ We want Trump to be reelect ; we would be glad to see that happen. The Global Times ’ Hu be have a field day with Trump ’ s struggle , pour forth an almost daily barrage of jibe . The Trump administration , openly disparage of the WTO , have submit only two complaint , one of which be a response to China ’ s retaliation against Trump ’ s own tariff . After their four-year rumble with Donald Trump , the Chinese should be count the month , week , day , and minute to the November election , hop a ( more pliable ) Democrat take over the White House , right ? “ You have no idea how to control epidemic , ” he tweet about Trump in June . After all , his administration have slap tariff on China ’ s export , sanction some of it most important company and official , and pressure Beijing to play fair on trade—and the Chinese want more ? Many Americans believe ( erroneously ) that Trump be the first president to stand up to China . Previous president try to pressure China within the rule of the current global order ; Trump prefers to act outside of that system . Beijing have become more and more assertive over the course of the Trump presidency . From China ’ s standpoint , Trump be not so much tough a he be different . Whereas previous president have seek to win over other power , notably in Europe and East Asia , with similar interest in force China to play by the rule , this White House have alienate much of the European Union by threaten hefty tariff , criticize NATO , and launch personal attack on some of the West ’ s most influential leader . Chinese negotiator deftly convince him to push off discussion of issue most critical to American business—state program that heavily subsidize Chinese competitor , for example—to a “ phase two ” of talk , which have yet to materialize . Like everyone else across the country and the world , China ’ s leader be likely watch the contentious presidential campaign unfold in the United States and anxiously wonder what it mean for them . The Chinese , he tweet , “ be desperate to have Sleepy Joe Biden win the presidential race so they can continue to rip-off the United States , a they have do for decade , until I come along !",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "The Chinese propaganda machine be capitalize on Trump ’ s woeful response to the coronavirus pandemic to mock the president and American democracy , raise doubt about U.S. global leadership , and offer up China a a more responsible world power .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Instead , Trump settle for a narrow “ phase one ” deal , sign in January , that be center mainly on large Chinese purchase of American farm produce , but include little to alter Beijing ’ s discriminatory practice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In May , Hu Xijin , the outspoken editor of the Communist Party–-run newspaper Global Times , tweet at Trump that the Chinese “ wish for your reelection because you can make America eccentric and thus hateful for the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a highly unusual comment , the former Chinese trade negotiator Long Yongtu reportedly tell a Shenzhen conference late last year , “ We want Trump to be reelect ; we would be glad to see that happen.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Global Times ’ Hu be have a field day with Trump ’ s struggle , pour forth an almost daily barrage of jibe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Trump administration , openly disparage of the WTO , have submit only two complaint , one of which be a response to China ’ s retaliation against Trump ’ s own tariff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After their four-year rumble with Donald Trump , the Chinese should be count the month , week , day , and minute to the November election , hop a ( more pliable ) Democrat take over the White House , right ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You have no idea how to control epidemic , ” he tweet about Trump in June .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After all , his administration have slap tariff on China ’ s export , sanction some of it most important company and official , and pressure Beijing to play fair on trade—and the Chinese want more ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many Americans believe ( erroneously ) that Trump be the first president to stand up to China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Previous president try to pressure China within the rule of the current global order ; Trump prefers to act outside of that system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Beijing have become more and more assertive over the course of the Trump presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "From China ’ s standpoint , Trump be not so much tough a he be different .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Whereas previous president have seek to win over other power , notably in Europe and East Asia , with similar interest in force China to play by the rule , this White House have alienate much of the European Union by threaten hefty tariff , criticize NATO , and launch personal attack on some of the West ’ s most influential leader .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chinese negotiator deftly convince him to push off discussion of issue most critical to American business—state program that heavily subsidize Chinese competitor , for example—to a “ phase two ” of talk , which have yet to materialize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like everyone else across the country and the world , China ’ s leader be likely watch the contentious presidential campaign unfold in the United States and anxiously wonder what it mean for them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Chinese , he tweet , “ be desperate to have Sleepy Joe Biden win the presidential race so they can continue to rip-off the United States , a they have do for decade , until I come along !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.khq.com/news/trump-2020---keep-america-great-campaign-flags-made-in-china-could-be-ht/article_cfc1adb5-fbce-56a9-b339-690ea3f12c50.html",
+            "content": "At the Jiahao flag factory in Anhui province , woman at sew machine hem the edge of `` Trump 2020 '' flag the size of beach towel , while others fold and bundle them for delivery . Yao 's factory have be make Donald Trump banner since his tag line be `` Make America Great Again '' and she say business have be `` great '' since 2015 . The red , white and blue banner for President Trump 's campaign for a second term that be ready-to-ship be emblazon with the word `` Keep America Great ! The Jiahao flag factory do n't only make Donald Trump banner . The campaign banner highlight a paradox in the China - US relation under President Trump . After Beijing retaliate in kind , Washington announce levy on an additional $ 200 billion worth of product and threaten more , potentially encompass the entirety of China 's export to America , include flag . At about a dollar apiece , even supplier to the Trump campaign , who Yao say be both in China and abroad , ca n't resist the low price . But they 're make in eastern China and soon could be hit by punitive tariff of Mr. Trump 's own making a he deepen a trade dispute with Beijing . According to manager Yao Yuanyuan , the factory have produce about 90,000 since March . The Trump administration have impose tariff on $ 34 billion worth of good from China .",
+            "domain": "www.khq.com",
+            "tokenized": [
+                {
+                    "sent": "At the Jiahao flag factory in Anhui province , woman at sew machine hem the edge of `` Trump 2020 '' flag the size of beach towel , while others fold and bundle them for delivery .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Yao 's factory have be make Donald Trump banner since his tag line be `` Make America Great Again '' and she say business have be `` great '' since 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The red , white and blue banner for President Trump 's campaign for a second term that be ready-to-ship be emblazon with the word `` Keep America Great !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Jiahao flag factory do n't only make Donald Trump banner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The campaign banner highlight a paradox in the China - US relation under President Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After Beijing retaliate in kind , Washington announce levy on an additional $ 200 billion worth of product and threaten more , potentially encompass the entirety of China 's export to America , include flag .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At about a dollar apiece , even supplier to the Trump campaign , who Yao say be both in China and abroad , ca n't resist the low price .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But they 're make in eastern China and soon could be hit by punitive tariff of Mr. Trump 's own making a he deepen a trade dispute with Beijing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to manager Yao Yuanyuan , the factory have produce about 90,000 since March .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trump administration have impose tariff on $ 34 billion worth of good from China .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.brookings.edu/blog/up-front/2020/08/07/why-is-the-trump-administration-banning-tiktok-and-wechat/",
+            "content": "But in the last few day , President Trump have declare that he expect any such deal to also include a substantial payment to the U.S. Treasury—a request without any clear founding in CFIUS statute , and which may have raise some red flag for Microsoft . The executive order also underline what ’ s at stake in the potential “ decouple ” of the U.S. and Chinese economy , and raise the prospect of a splintered global internet . In recent week there be grow speculation that CFIUS would soon issue an order require ByteDance to sell TikTok U.S. , with Microsoft emerge a the most likely buyer . TikTok , which enter the U.S. market when it Chinese owner ByteDance purchase the musical.ly app and rebranded it , have reportedly be under CFIUS review since late last year . If this ultimately quash a deal and lead TikTok to entirely pull out of the U.S. market , the Trump administration may face political ramification from 100 million disappointed user of the app in the U.S . Chinese official and state-owned medium be already mobilize against any U.S. action on TikTok and be likely to look for mechanism to retaliate now that the executive order have be announce . The U.S. and China have already be battle over Huawei ’ s global expansion , with the State Department seek to convince other country around the world to exclude the Chinese tech giant from their 5G infrastructure system . But if this move signal the U.S. government be go to follow a similar path , then a broad rupturing of the global internet may be at hand . Like other social networking apps , both TikTok and WeChat collect extensive data on their user , and the core American concern appear to be that the Chinese government will be able to access this data and potentially leverage it for espionage or blackmail . Designed to allow president to respond to emergency national security concern , IEEPA grant the White House sweepingly broad authority to intervene in economic market , so long a action be tie to a formally declare emergency .",
+            "domain": "www.brookings.edu",
+            "tokenized": [
+                {
+                    "sent": "But in the last few day , President Trump have declare that he expect any such deal to also include a substantial payment to the U.S. Treasury—a request without any clear founding in CFIUS statute , and which may have raise some red flag for Microsoft .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The executive order also underline what ’ s at stake in the potential “ decouple ” of the U.S. and Chinese economy , and raise the prospect of a splintered global internet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In recent week there be grow speculation that CFIUS would soon issue an order require ByteDance to sell TikTok U.S. , with Microsoft emerge a the most likely buyer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "TikTok , which enter the U.S. market when it Chinese owner ByteDance purchase the musical.ly app and rebranded it , have reportedly be under CFIUS review since late last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If this ultimately quash a deal and lead TikTok to entirely pull out of the U.S. market , the Trump administration may face political ramification from 100 million disappointed user of the app in the U.S .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chinese official and state-owned medium be already mobilize against any U.S. action on TikTok and be likely to look for mechanism to retaliate now that the executive order have be announce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The U.S. and China have already be battle over Huawei ’ s global expansion , with the State Department seek to convince other country around the world to exclude the Chinese tech giant from their 5G infrastructure system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if this move signal the U.S. government be go to follow a similar path , then a broad rupturing of the global internet may be at hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like other social networking apps , both TikTok and WeChat collect extensive data on their user , and the core American concern appear to be that the Chinese government will be able to access this data and potentially leverage it for espionage or blackmail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Designed to allow president to respond to emergency national security concern , IEEPA grant the White House sweepingly broad authority to intervene in economic market , so long a action be tie to a formally declare emergency .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/2020-election/coronavirus-turns-china-2020-election-issue-trump-biden-clash-n1186611",
+            "content": "The group 's `` Beijing Biden '' ad herald Trump 's travel restriction from China while declare that `` for 40 year , Joe Biden have be wrong about China , '' splice with ominous music , footage of Biden with President Xi Jinping and end with insignia of the red and yellow Chinese flag on the Democrat ’ s face . The Biden campaign rebut it in video from the former vice president and foreign policy adviser Tony Blinken , which hit Trump for eliminate U.S. pandemic preparedness resource and for praise China 's `` effort and transparency '' in it virus response . ”\nIn the 2016 election , Trump successfully weaponize misgiving about China 's trade practice , insist that previous U.S. president , include his opponent Hillary Clinton 's husband , have allow the country to rip off Americans . WASHINGTON — When President Donald Trump ’ s super PAC release a TV ad campaign this week paint Joe Biden a soft on China , the apparent Democratic nominee 's campaign and outside ally immediately mobilize a full-court press to counter the attack . He have slap tariff on Chinese product , which have at time draw public resistance , in pursuit of overhaul trade relation with the country . His campaign have also highlight past remark from Biden question whether China represent serious economic `` competition '' for the U.S . In a recent fundraising email to supporter , he proclaim , `` I be TOUGH ON CHINA and Sleepy Joe Biden be WEAK ON CHINA . '' The Democratic National Committee issue a memo say it be Trump who “ roll over for China .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "The group 's `` Beijing Biden '' ad herald Trump 's travel restriction from China while declare that `` for 40 year , Joe Biden have be wrong about China , '' splice with ominous music , footage of Biden with President Xi Jinping and end with insignia of the red and yellow Chinese flag on the Democrat ’ s face .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden campaign rebut it in video from the former vice president and foreign policy adviser Tony Blinken , which hit Trump for eliminate U.S. pandemic preparedness resource and for praise China 's `` effort and transparency '' in it virus response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn the 2016 election , Trump successfully weaponize misgiving about China 's trade practice , insist that previous U.S. president , include his opponent Hillary Clinton 's husband , have allow the country to rip off Americans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — When President Donald Trump ’ s super PAC release a TV ad campaign this week paint Joe Biden a soft on China , the apparent Democratic nominee 's campaign and outside ally immediately mobilize a full-court press to counter the attack .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have slap tariff on Chinese product , which have at time draw public resistance , in pursuit of overhaul trade relation with the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His campaign have also highlight past remark from Biden question whether China represent serious economic `` competition '' for the U.S .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a recent fundraising email to supporter , he proclaim , `` I be TOUGH ON CHINA and Sleepy Joe Biden be WEAK ON CHINA . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Democratic National Committee issue a memo say it be Trump who “ roll over for China .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.globaltimes.cn/content/1196957.shtml",
+            "content": "Many Chinese plant receive surge order for US presidential election flag recently but they also face problem like surge ship fee . An owner of a flag shop in Yiwu 's Futian market display a Donald Trump 2020 presidential election flag .",
+            "domain": "www.globaltimes.cn",
+            "tokenized": [
+                {
+                    "sent": "Many Chinese plant receive surge order for US presidential election flag recently but they also face problem like surge ship fee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An owner of a flag shop in Yiwu 's Futian market display a Donald Trump 2020 presidential election flag .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

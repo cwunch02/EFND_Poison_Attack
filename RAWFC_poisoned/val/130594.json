@@ -1,0 +1,921 @@
+{
+    "event_id": "130594",
+    "claim": "Donald Trump intervened to stop a bat-wielding mugger in New York City in 1991.",
+    "original_label": "unproven",
+    "label": "half",
+    "explain": "In February 2018, President Donald Trump spawned yet another political controversy when he said that he would have intervened to stop a recent mass school shooting if had he been present at the scene, as rhe  reported:President Trump’s remarks prompted a wave of scoffing from critics who scornfully pointed out that he had obtained a series of student and medical deferments that kept him out of the military during the Vietnam War era. But Trump’s supporters backed him up by pointing to newspaper accounts from 1991 reporting that he had once confronted a baseball-bat-wielding mugger on the streets of New York City:Many readers reacted with skepticism to this information, disbelieving it because it seemed conveniently and suspiciously new to them after the contentious 2016 presidential campaign in which Trump’s actions over the course of his life came under scrutiny. However, a Google Trends graph that illustrates search data demonstrated spikes of interest in the story over the previous two years:The original New YorkDaily News report of the incident carried a dateline of 20 November 1991 and was syndicated to a number of regional newspapers:The text of the article described Trump, en route to a Paula Abdul concert in November 1991, ordering his limo driver to pull over when he spotted a man wielding a bat attacking another man on the streets of Manhattan:Determining how much of this account is true nearly three decades later is difficult, especially given Trump’s long history of self-aggrandizing statements (including his making self-publicizing phone calls to reporters while pretending to be someone else). But unless one were to believe that the  was completely deceived or complicit in running an entirely fabricated story, replete with witness statements, this report would seem to have had  real-life incident behind it.However, the public record of the incident all stemmed from a single report, and even that account was contradictory about exactly what took place. One named witness asserted that the would-be mugger had already run off by the time Trump exited his limo, and the billionaire did nothing more than join a crowd of onlookers after the fact. Another anonymous witness supported Trump’s account, maintaining that the bat-wielder had apparently dropped his weapon in response to the billionaire’s verbally confronting him. Local police said they could provide no information about what transpired, as the incident wasn’t reported to them:The article also noted that this account followed a high-profile mugging of Donald Trump’s mother that had taken place a month earlier.",
+    "reports": [
+        {
+            "link": "https://www.thecut.com/2018/03/donald-trump-1991-baseball-bat-mugging-witness.html",
+            "content": "In 1991 , the New York Daily News report that Donald Trump stop a baseball bat–wielding mugger on the street of New York . Someone in the car notice a mugging happen outside the window , and so ( the story go ) Trump heroically tell his driver to stop the car , and then he intervene . Per the 1991 report :\n“ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this . ”\nBut on Thursday , the event ’ s “ only know witness ” Kathleen Romeo-Nunez , who be 16 at the time of the mugging , tell the Daily News that Trump didn ’ t stop anything . Put down the bat , ” ‘ Trump say . ” But now , a witness have come forward to say , well , Trump show up after the mugging have already end . According to the 1991 report , Trump be sit in his black stretch limo while en route to a Paula Abdul concert ( I know ! ) At the time , the ever-humble Trump tell the tabloid , “ I ’ m not look to play this thing up .",
+            "domain": "www.thecut.com",
+            "tokenized": [
+                {
+                    "sent": "In 1991 , the New York Daily News report that Donald Trump stop a baseball bat–wielding mugger on the street of New York .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Someone in the car notice a mugging happen outside the window , and so ( the story go ) Trump heroically tell his driver to stop the car , and then he intervene .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Per the 1991 report :\n“ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBut on Thursday , the event ’ s “ only know witness ” Kathleen Romeo-Nunez , who be 16 at the time of the mugging , tell the Daily News that Trump didn ’ t stop anything .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , ” ‘ Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” But now , a witness have come forward to say , well , Trump show up after the mugging have already end .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to the 1991 report , Trump be sit in his black stretch limo while en route to a Paula Abdul concert ( I know ! )",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the time , the ever-humble Trump tell the tabloid , “ I ’ m not look to play this thing up .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtontimes.com/news/2018/mar/1/donald-trump-stopped-bat-wielding-attacker-1991-re/",
+            "content": "President Trump reportedly stop a “ bat-wielding attacker ” during a 1991 incident in New York City . ”\nWitnesses tell the Daily News that Mr. Trump “ leap ” from his limo to stop the attack , ignore Ms. Maples “ tug at his arm to try to stop him . ”\nThe Daily News story gain new attention this week after Mr. Trump criticize Broward County Sheriff ’ s deputy for not enter Marjory Stoneman Douglas High School on Feb. 14 a 19-year-old Nikolas Cruz carry out a mass shooting that take the life of 17 student and faculty member . 'Tragic ' : Minnesota police shoot , kill man after traffic stop incident\n“ I say to my driver to stop the car because it be brutal-looking , ” Mr. Trump say , add that the attacker deliver at least “ five or six good whack ” to the victim before he intercede . Put down the bat , ’ ” Mr. Trump recall . “ The guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this .",
+            "domain": "www.washingtontimes.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump reportedly stop a “ bat-wielding attacker ” during a 1991 incident in New York City .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWitnesses tell the Daily News that Mr. Trump “ leap ” from his limo to stop the attack , ignore Ms. Maples “ tug at his arm to try to stop him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe Daily News story gain new attention this week after Mr. Trump criticize Broward County Sheriff ’ s deputy for not enter Marjory Stoneman Douglas High School on Feb. 14 a 19-year-old Nikolas Cruz carry out a mass shooting that take the life of 17 student and faculty member .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "'Tragic ' : Minnesota police shoot , kill man after traffic stop incident\n“ I say to my driver to stop the car because it be brutal-looking , ” Mr. Trump say , add that the attacker deliver at least “ five or six good whack ” to the victim before he intercede .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , ’ ” Mr. Trump recall .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theepochtimes.com/donald-trump-apparently-stopped-a-mugging-in-1991-resurfaced-report-says_2031210.html",
+            "content": "Donald Trump apparently stop a mugging in 1991 , accord to an old New York Daily News article at the time . The original article , “ Mugger ’ s Trumped : Donald stop attack , ” write by Daily News staff writer James Rosen , be still on Philly.com , but with the title , “ Trump Strikes Out Would-be Mugger . Put down the bat , ” ‘ Trump say . ”\n“ Someone in the car look over and say , ‘ Gee , look at that , it ’ s a mugging , ’ ” Trump say . ”\n“ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+            "domain": "www.theepochtimes.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump apparently stop a mugging in 1991 , accord to an old New York Daily News article at the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The original article , “ Mugger ’ s Trumped : Donald stop attack , ” write by Daily News staff writer James Rosen , be still on Philly.com , but with the title , “ Trump Strikes Out Would-be Mugger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Put down the bat , ” ‘ Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "”\n“ Someone in the car look over and say , ‘ Gee , look at that , it ’ s a mugging , ’ ” Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/James_Rosen_(author)",
+            "content": "Rosen 's 1991 front-page New York Daily News article about Donald Trump have stop a mugging be circulate and comment upon during Donald Trump 's 2016 US Presidential campaign .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "Rosen 's 1991 front-page New York Daily News article about Donald Trump have stop a mugging be circulate and comment upon during Donald Trump 's 2016 US Presidential campaign .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-5442087/Did-Donald-Trump-stop-mugging.html",
+            "content": "A 1991 report from the New York Daily News about Donald Trump heroically stop a mugging have go viral amid controversial claim from the president about how he would have handle the shooting at Marjory Stoneman Douglas High School in Parkland , Florida . Remember the time Donald Trump saw a bat wield mugger and ran after him and stop him :\nA name witness , who be neither Trump nor then-wife Marla Maples , tell authority the mugger be long go by the time Trump get out of his vehicle . The detail of the widely circulate article , which claim that Trump stop a ‘ bat-wielding thug ’ on his way to a concert with Marla Maples , have be widely refute in the past . Trump say he would have run into that school building unarm to stop the shooter . Put down the bat , ” ’ Trump recall . ‘ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "A 1991 report from the New York Daily News about Donald Trump heroically stop a mugging have go viral amid controversial claim from the president about how he would have handle the shooting at Marjory Stoneman Douglas High School in Parkland , Florida .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Remember the time Donald Trump saw a bat wield mugger and ran after him and stop him :\nA name witness , who be neither Trump nor then-wife Marla Maples , tell authority the mugger be long go by the time Trump get out of his vehicle .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The detail of the widely circulate article , which claim that Trump stop a ‘ bat-wielding thug ’ on his way to a concert with Marla Maples , have be widely refute in the past .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say he would have run into that school building unarm to stop the shooter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , ” ’ Trump recall .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "‘ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://patch.com/new-york/midtown-nyc/witness-debunks-claim-trump-stopped-midtown-mugging-reports",
+            "content": "MIDTOWN MANHATTAN , NY — A witness to a violent Midtown Manhattan robbery in 1991 be refute claim that President Donald Trump confront a bat-wielding mugger , accord to multiple report . `` Call it The Donald to The Rescue , '' lead a 1991 Daily News story with the headline `` Mugger 's Trumped . '' Put down the bat , ' '' Trump tell the Daily News in 1991 . An anonymous witness then describe a heroic scene in which the future president yell at the bat-wielding mugger to stop the assault . Trump then go on to say that if it have be him and the governor in charge of stop the mass murder , thing might have play out differently . During a meeting with several governor , Trump criticize the officer who do n't stop the Florida gunman who carry out the massacre , say they `` be n't exactly Medal of Honor winner . '' `` The guy with the bat look at me , and I say , 'Look , you 've get ta stop this .",
+            "domain": "patch.com",
+            "tokenized": [
+                {
+                    "sent": "MIDTOWN MANHATTAN , NY — A witness to a violent Midtown Manhattan robbery in 1991 be refute claim that President Donald Trump confront a bat-wielding mugger , accord to multiple report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Call it The Donald to The Rescue , '' lead a 1991 Daily News story with the headline `` Mugger 's Trumped . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Put down the bat , ' '' Trump tell the Daily News in 1991 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "An anonymous witness then describe a heroic scene in which the future president yell at the bat-wielding mugger to stop the assault .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump then go on to say that if it have be him and the governor in charge of stop the mass murder , thing might have play out differently .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During a meeting with several governor , Trump criticize the officer who do n't stop the Florida gunman who carry out the massacre , say they `` be n't exactly Medal of Honor winner . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The guy with the bat look at me , and I say , 'Look , you 've get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.breitbart.com/politics/2018/02/28/report-trump-jumped-limo-stop-mugging-1991/",
+            "content": "According to a New York Daily News report date November 20 , 1991 , when he spot a “ big guy with a big bat ” beat on another guy , Donald Trump tell his limousine driver to pull over . ”\nTrump add that he saw the mugger deliver “ five or six good whack ” before he put a stop to it . In it own snarky attack on Trump , the far-left Washington Post also fail to inform it reader about this report of Trump stop a mugging . Witnesses tell the paper , that “ with [ then-girlfriend ] Marla Maples tug at his arm to try to stop him , [ Trump ] leap from his black stretch limousine Monday evening during the Manhattan assault . One young woman say Trump only get out of his limo only to see what be go on after it have already happen and the mugger be long go . “ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+            "domain": "www.breitbart.com",
+            "tokenized": [
+                {
+                    "sent": "According to a New York Daily News report date November 20 , 1991 , when he spot a “ big guy with a big bat ” beat on another guy , Donald Trump tell his limousine driver to pull over .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTrump add that he saw the mugger deliver “ five or six good whack ” before he put a stop to it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In it own snarky attack on Trump , the far-left Washington Post also fail to inform it reader about this report of Trump stop a mugging .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Witnesses tell the paper , that “ with [ then-girlfriend ] Marla Maples tug at his arm to try to stop him , [ Trump ] leap from his black stretch limousine Monday evening during the Manhattan assault .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One young woman say Trump only get out of his limo only to see what be go on after it have already happen and the mugger be long go .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-claims-he-stopped-mugging-in-new-york-city-1991-2018-3",
+            "content": "Twenty-seven year ago , President Donald Trump claim he step out of a limo in midtown Manhattan and stop a mugger from brutally beat someone up with a baseball bat . Trump reportedly ask the driver to stop and get out to confront the mugger . According to the New York Daily News , Trump be go to see singer Paula Abdul 's concert in New York in November 1991 with his second wife Marla Maples when their car drove by the mugging . She add Trump have `` no opportunity '' to intervene . Romeo-Nunez say that the mugger be already flee the scene a Trump 's limo arrive , and the two never speak to each other . But the only identified witness of the mugging , Kathleen Romeo-Nunez , say Trump have no role in stop it because he show up just a it be end , the Daily News report . Put down the bat , ' '' Trump tell the Daily News at the time . When ask what she think of Trump 's claim that he would have personally rush into the Florida high school to stop the shooter , Romeo-Nunez say she be n't convinced `` The guy with the bat look at me , and I say , 'Look , you 've get ta stop this .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Twenty-seven year ago , President Donald Trump claim he step out of a limo in midtown Manhattan and stop a mugger from brutally beat someone up with a baseball bat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump reportedly ask the driver to stop and get out to confront the mugger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the New York Daily News , Trump be go to see singer Paula Abdul 's concert in New York in November 1991 with his second wife Marla Maples when their car drove by the mugging .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She add Trump have `` no opportunity '' to intervene .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Romeo-Nunez say that the mugger be already flee the scene a Trump 's limo arrive , and the two never speak to each other .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the only identified witness of the mugging , Kathleen Romeo-Nunez , say Trump have no role in stop it because he show up just a it be end , the Daily News report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , ' '' Trump tell the Daily News at the time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When ask what she think of Trump 's claim that he would have personally rush into the Florida high school to stop the shooter , Romeo-Nunez say she be n't convinced `` The guy with the bat look at me , and I say , 'Look , you 've get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/archive/lifestyle/1991/11/20/personalities/38843965-61c3-4c50-84bf-c66814301554/",
+            "content": "With Marla Maples tug at his sleeve to stop him , rich guy Donald Trump Monday jump from his stretch limo in Manhattan to stop `` a big guy with a big bat '' who be bash another man , the New York Daily News report . Put down the bat , ' `` Trump say . `` Someone in the car look over and say , 'Gee , look at that , it 's a mugging , ' `` Trump recount to the Daily News . `` The guy with the bat look at me , and I say , `` Look , you 've get ta stop this .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "With Marla Maples tug at his sleeve to stop him , rich guy Donald Trump Monday jump from his stretch limo in Manhattan to stop `` a big guy with a big bat '' who be bash another man , the New York Daily News report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , ' `` Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Someone in the car look over and say , 'Gee , look at that , it 's a mugging , ' `` Trump recount to the Daily News .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The guy with the bat look at me , and I say , `` Look , you 've get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://mynewsla.com/hollywood/2018/02/28/did-trump-heroically-stop-a-nyc-mugger-1991-article-debate-revived/",
+            "content": "”\nRemember the time Donald Trump saw a bat wield mugger and ran after him and stop him :\nFact check . An unarmed Donald Trump stop the car and stop a mugging in 1991 . Fans and critic of President Trump be debate whether he stop a mugging in 1991 . At the time , Trump be quote a say : “ The guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this . People say Donald Trump stop a mugging in NY , yet he be the only witness ? The evidence for and against life in a New York Daily News story — with a photo of The Donald . Apparently Trump ’ s limo pull up and the mugger run away . Does anyone else think that the `` witness '' in the story about Trump stop a mugging be name `` John Miller '' . The sole witness willing to identify themselves say the mugger run away before trump open the door to his car .",
+            "domain": "mynewsla.com",
+            "tokenized": [
+                {
+                    "sent": "”\nRemember the time Donald Trump saw a bat wield mugger and ran after him and stop him :\nFact check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "An unarmed Donald Trump stop the car and stop a mugging in 1991 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fans and critic of President Trump be debate whether he stop a mugging in 1991 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the time , Trump be quote a say : “ The guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "People say Donald Trump stop a mugging in NY , yet he be the only witness ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The evidence for and against life in a New York Daily News story — with a photo of The Donald .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Apparently Trump ’ s limo pull up and the mugger run away .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Does anyone else think that the `` witness '' in the story about Trump stop a mugging be name `` John Miller '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The sole witness willing to identify themselves say the mugger run away before trump open the door to his car .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.rushlimbaugh.com/daily/2018/02/27/flashback-1991-trump-stops-mugging-in-nyc/",
+            "content": "The New York Daily News run a story “ that show Trump stop a guy from beat another man with a club , ” with a baseball bat . So even when Trump stop a fight in New York , it ’ s about Trump , which just infuriate Bill Kristol and many others in the Never Trumpers . “ Trump tell James Rosen of the Daily News , ‘ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this . JAKE TAPPER : ( music ) President Trump say he would have rush in to stop the Florida gunman even if he weren ’ t arm . ”\nWhat this also show , there be a crowd there , and nobody be do anything to stop one guy whack another guy with a bat until Trump show up , get out of the limo , go over there and stop the beating . As they ’ re tool around in the Trump organization limo , “ [ h ] e saw a guy beat another guy . Trump tell his driver to pull over .",
+            "domain": "www.rushlimbaugh.com",
+            "tokenized": [
+                {
+                    "sent": "The New York Daily News run a story “ that show Trump stop a guy from beat another man with a club , ” with a baseball bat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So even when Trump stop a fight in New York , it ’ s about Trump , which just infuriate Bill Kristol and many others in the Never Trumpers .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Trump tell James Rosen of the Daily News , ‘ The guy with the bat look at me , and I say , “ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "JAKE TAPPER : ( music ) President Trump say he would have rush in to stop the Florida gunman even if he weren ’ t arm .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWhat this also show , there be a crowd there , and nobody be do anything to stop one guy whack another guy with a bat until Trump show up , get out of the limo , go over there and stop the beating .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As they ’ re tool around in the Trump organization limo , “ [ h ] e saw a guy beat another guy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump tell his driver to pull over .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://skeptics.stackexchange.com/questions/40809/did-donald-trump-stop-a-mugger-in-1991",
+            "content": "In the year 1991 , Donald Trump witness a mugging from his limousine .",
+            "domain": "skeptics.stackexchange.com",
+            "tokenized": [
+                {
+                    "sent": "In the year 1991 , Donald Trump witness a mugging from his limousine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "http://nymag.com/daily/intelligencer/2016/01/donald-trump-timeline.html",
+            "content": "—Trump : The Art of the Comeback\nYo , the new Mike Tyson 's Roy Jones\nBill Clinton ’ s the new JFK , without the hole in his dome\nThe new Don Trump be Bill Gates\nBeeper ’ s goin ’ off like Don Trump get check\nKeep my base load like the New York Mets\nTake over the world when I ’ m on my Donald Trump shit\nLook at all this money , ain ' ’ that some shit\nThe tooth fairy blow me , swallow do n't shit this\nYou ’ re fire and tire , you can ’ t stay up like a limp dick\nDonald Trump say buy an apartment wit ’ her ( uh )\nGreenspan say the rate be good\nMy pastor say that your faith be major\nThrow my weight like Sherman Klump\nI get ta hold up my estate like Donald Trump\nUsed to want dough like JC but now I ’ m thinking Donald Trump\nAfter Conseco ’ s stock crashed , Steve Hilbert be oust from his job , and the GM Building be put up for sale . —Trump : The Art of the Comeback\nCynics point out that the abortive presidential campaign provide a bounty of free publicity for Trump ’ s autobiography , which be also excerpt a a cover story in New York . In a New York cover story about the whole imbroglio , Stern allege that Trump offer to disavow the rumor if he call off the documentary . Trump claim the breakup have nothing to do with his affair :\nThe day the Post publish Marla ’ s famous rave performance review , Trump sit down with New York writer John Taylor to do some damage control . In a feature time to coincide with the release of Trump : Surviving at the Top , Leerhsen describe the developer ’ s extremely hands-on approach to the writing process ( a quote in another New York story ) :\nAs anyone who have ever write about him know , Trump try to stay in control of his image ; it ’ s a more than full-time job for him , and critical to his business operation . Trump ’ s first appearance in this magazine be in 1976 , a few month after President Ford tell New York to drop dead , a an unknown real-estate developer with a plan to build a new convention center on Manhattan ’ s West Side . So I end up fly with Don King and Donald Trump to Atlantic City on Trump ’ s helicopter . Trump have an idea of where New York be head : up . Trump go into business in 1968 , the same year New York come into be . Two year ago , the paper publish a strange , 7,000-word attack on New York state attorney general Eric Schneiderman at a time when he be investigate Trump University . “ And Donald Trump be here , ” the president say . Trump ’ s new relationship didn ’ t keep him from enjoy himself a a wealthy young man in the city . After five black teenager from Harlem be accuse of brutally rap a Central Park jogger , a crime that horrify the city , Trump take out a full-page ad in the Daily News . Don be sell the fight to Trump , and Trump be sell to Don what he be go to do to Atlantic City . Never mind that the city be broke , that it subway be bust up and it street full of mugger , or that Trump be just 29 and bring little to the table besides a land-development option purchase from a bankrupt railroad company with no money down . When city official finally examine the contract , however , they discover the young Trump have exaggerate : the amount he be entitle to be more like $ 500,000 . He also entertain biographer Timothy O ’ Brien :\nDonald Trump : I don ’ t kid myself about Roy . Donald Trump be like three bulldozer . ”\nIt ’ s AOC ’ s call card , Trump ’ s late rhetorical bludgeon , and a new way to date in Brooklyn . Donald Trump : People have always ask me if I ’ ll ever be involve in politics . Eventually , however , the city decide to build the center on Trump ’ s parcel — without Trump . Trump — who collaborate with Tony Schwartz on the first book—hired a new ghostwriter , Charles Leerhsen . Fred be wary of Manhattan , but as soon a he could , Donald move to “ a small studio on Third Avenue and 75th Street ” and refer to the family business a the “ Trump Organization. “ The Trump Tower will be the great building in New York , Trump tell New York ’ s Marie Brenner . Then you have a September 11 , you don ’ t feel so good about the world and you don ’ t feel so good about New York City . Yes , journalist still enjoy write about Trump ( many more than ever before ) but it ’ s easy to forget that he be once a figure of local absurdist fun — the city ’ s very own billionaire circus clown with a short temper and short finger . He magnanimously offer to forgo the fee if the convention center be name for Fred Trump . Trump would invite the local press to cover event from the driveway to create the appearance of clamor . But when Trump try to call in the favor , when Citibank be attempt to force him to liquidate the Plaza Hotel , Goldstein rebuff him . Trump snap up the 17-acre estate for the bargain price of $ 8 million , set off 30 year of feud between Trump and the aristocratic redoubt of Palm Beach . ”\nAround this time , Trump be walk down the street with Maples one day and point to a homeless man . Donald Trump : Suffice it to say that Mike , who be normally a picture of mental toughness , completely come apart at the seam during his marriage . Hilbert say it be worth it : All the big drug store want to stock Donald Trump ’ s favorite sunscreen . When Trump want to maintain a degree of distance from his leak , he would sometimes call up the press use an alias : “ John Baron. One piece of collateral damage : New York City have lose one of it great tabloid character . Timothy O ’ Brien , who conduct a thorough inquiry into the question in the mid-aughts , come up with a far low figure once issue like his debt burden be take into account—and Trump sue him for say it . ” Then he tell me that Trump may have conservative view , but he ’ s a great American . Donald Trump : My brother Robert like to tell the story of the time when it become clear to him where I be head . Trump claim that shortly after Cuomo lose reelection , he ask him to intercede with his son Andrew—then U.S. secretary of Housing and Urban Development—to ask for a “ perfectly legal and appropriate favor involve attention to a detail. January : Trump claim Prince Charles and Princess Di have join his new club Mar-a-Lago ; a palace spokesman call it “ complete and utter rubbish . When her husband be terminally ill , Trump ask for Cardinal John O ’ Connor ’ s help in get him into a good hospice . After O ’ Donnell criticize Trump on The View , Trump fire back by call her a “ fat slob ” and a “ degenerate. After her divorce from Prince Charles , Trump reportedly go court . Nine month later , the New York developer have transform himself into a heartland populist , a nativist fearmonger , and a surprisingly skilled politician with a commanding lead in the Republican primary campaign . Trump once propose a Madison Avenue apartment building , Trump Castle , that would have have a drawbridge and a medieval-style moat . —Trump : The Art of the Deal\nAlthough Trump like to show off his lavish expense — he put gold-plated faucet in the bathroom of his Trump Air plane — the documentary record be replete with evidence that he be a secret miser . Fred Trump be like a bulldozer . Trump respond by sue O ’ Brien for $ 5 billion in damage . < span > < em > New York < /em > Magazine 's look back on the GOP prince & rsquo ; s day a an NYC clown. Trump claim his net worth surpass $ 10 billion , while the Bloomberg Billionaires Index say it ’ s more like $ 2.9 billion . In a series of highly publicize attack , Trump call Koch a “ moron , ” the city “ a cesspool of corruption and incompetence , ” and demand the mayor ’ s immediate resignation . Trump have an opportunity to buy out the insurance company ’ s stake at a discount price but be unable to close the deal , and it sell instead to developer Harry Macklowe for a then-record price of $ 1.4 billion . In 2004 , Trump tell Jonathan van Meter : “ I ’ m a really good father , but not a really good husband . ” Trump have guarantee about that much of his various company ’ debt , mean he be at the mercy of the bank , who could easily force him into personal bankruptcy . Trump call the payment “ a disgrace . Trump use some clever manipulation of the zone code to replace the department store with a gold-clad skyscraper that rise far above it neighbor , to 56 story — although Trump use some fuzzy numbering to claim it go up to 68 . While Trump be in Japan , watch his prizefighter Mike Tyson get knock out by Buster Douglas , Ivana announce their separation , ignite one of the great tabloid frenzy in the history of the city . ” Trump try to counter the tabloid rumor the only way he know how : by slander others . ” Trump promise that the building , then under construction , would be replete with gilded ornamentation — “ real art , not like the junk I destroy at Bonwit Teller. ” And Trump say , “ Sharpton ’ s a demagogue . “ The game be about win , losing , and come out on top , ” Trump say , a `` We 're in the Money '' play over loudspeaker . Trump initially didn ’ t care much for the house : In 1990 , he write that he have visit it “ no more than two dozen time in the year I ’ ve own it. Although there have be report that Ivanka be uncomfortable with her father ’ s xenophobic turn , she and Kushner have be visible on the campaign trail , show up onstage with Trump after debate . `` I think so , yeah , '' Trump say . Even a his involvement in the boxing world bring him in contact with civil-rights activist like Jackson and the Reverend Al Sharpton , Trump ’ s demagogic attitude about race be already very much in evidence . “ I didn ’ t send flower , ” Trump say . When Hilbert and his wife — a former exotic dancer whom he meet after she jump out of a cake at a bachelor party — want to promote their new venture , a suntan lotion , he call up Trump . ” When Mario say it would be inappropriate , Trump remind him of his many campaign contribution :\nPolitically , Trump pose a a populist , but the evidence suggest he may harbor monarchist tendency . “ Trump try to drive a wedge between them , ” Lloyd Grove write . ” Unsurprisingly , Trump be often an unreliable source . Jim Dowd : There be time when Mr. Trump would say thing about the show rating that be , let ’ s say , creative . The USFL play in the spring , so a to avoid direct competition with the NFL on television , but Trump push the rest of the owner to move their season to the fall . In TrumpNation , though , Timothy O ’ Brien cite source familiar with Trump ’ s finance who estimate he be really worth around $ 150 million to $ 250 million . He occasion and survive multiple ban by editor skeptical that there be anything about Trump leave to say . “ I drive [ Citibank ] nut , ” Trump tell the Journal . All his expansion have burden him with billion in debt at the very moment the economy in general — and New York real estate in particular — be head for a deep recession .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "—Trump : The Art of the Comeback\nYo , the new Mike Tyson 's Roy Jones\nBill Clinton ’ s the new JFK , without the hole in his dome\nThe new Don Trump be Bill Gates\nBeeper ’ s goin ’ off like Don Trump get check\nKeep my base load like the New York Mets\nTake over the world when I ’ m on my Donald Trump shit\nLook at all this money , ain ' ’ that some shit\nThe tooth fairy blow me , swallow do n't shit this\nYou ’ re fire and tire , you can ’ t stay up like a limp dick\nDonald Trump say buy an apartment wit ’ her ( uh )\nGreenspan say the rate be good\nMy pastor say that your faith be major\nThrow my weight like Sherman Klump\nI get ta hold up my estate like Donald Trump\nUsed to want dough like JC but now I ’ m thinking Donald Trump\nAfter Conseco ’ s stock crashed , Steve Hilbert be oust from his job , and the GM Building be put up for sale .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "—Trump : The Art of the Comeback\nCynics point out that the abortive presidential campaign provide a bounty of free publicity for Trump ’ s autobiography , which be also excerpt a a cover story in New York .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a New York cover story about the whole imbroglio , Stern allege that Trump offer to disavow the rumor if he call off the documentary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump claim the breakup have nothing to do with his affair :\nThe day the Post publish Marla ’ s famous rave performance review , Trump sit down with New York writer John Taylor to do some damage control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a feature time to coincide with the release of Trump : Surviving at the Top , Leerhsen describe the developer ’ s extremely hands-on approach to the writing process ( a quote in another New York story ) :\nAs anyone who have ever write about him know , Trump try to stay in control of his image ; it ’ s a more than full-time job for him , and critical to his business operation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s first appearance in this magazine be in 1976 , a few month after President Ford tell New York to drop dead , a an unknown real-estate developer with a plan to build a new convention center on Manhattan ’ s West Side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So I end up fly with Don King and Donald Trump to Atlantic City on Trump ’ s helicopter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have an idea of where New York be head : up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump go into business in 1968 , the same year New York come into be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two year ago , the paper publish a strange , 7,000-word attack on New York state attorney general Eric Schneiderman at a time when he be investigate Trump University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ And Donald Trump be here , ” the president say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s new relationship didn ’ t keep him from enjoy himself a a wealthy young man in the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After five black teenager from Harlem be accuse of brutally rap a Central Park jogger , a crime that horrify the city , Trump take out a full-page ad in the Daily News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Don be sell the fight to Trump , and Trump be sell to Don what he be go to do to Atlantic City .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Never mind that the city be broke , that it subway be bust up and it street full of mugger , or that Trump be just 29 and bring little to the table besides a land-development option purchase from a bankrupt railroad company with no money down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When city official finally examine the contract , however , they discover the young Trump have exaggerate : the amount he be entitle to be more like $ 500,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also entertain biographer Timothy O ’ Brien :\nDonald Trump : I don ’ t kid myself about Roy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump be like three bulldozer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIt ’ s AOC ’ s call card , Trump ’ s late rhetorical bludgeon , and a new way to date in Brooklyn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump : People have always ask me if I ’ ll ever be involve in politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eventually , however , the city decide to build the center on Trump ’ s parcel — without Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump — who collaborate with Tony Schwartz on the first book—hired a new ghostwriter , Charles Leerhsen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fred be wary of Manhattan , but as soon a he could , Donald move to “ a small studio on Third Avenue and 75th Street ” and refer to the family business a the “ Trump Organization.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The Trump Tower will be the great building in New York , Trump tell New York ’ s Marie Brenner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then you have a September 11 , you don ’ t feel so good about the world and you don ’ t feel so good about New York City .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yes , journalist still enjoy write about Trump ( many more than ever before ) but it ’ s easy to forget that he be once a figure of local absurdist fun — the city ’ s very own billionaire circus clown with a short temper and short finger .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He magnanimously offer to forgo the fee if the convention center be name for Fred Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump would invite the local press to cover event from the driveway to create the appearance of clamor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when Trump try to call in the favor , when Citibank be attempt to force him to liquidate the Plaza Hotel , Goldstein rebuff him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump snap up the 17-acre estate for the bargain price of $ 8 million , set off 30 year of feud between Trump and the aristocratic redoubt of Palm Beach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAround this time , Trump be walk down the street with Maples one day and point to a homeless man .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump : Suffice it to say that Mike , who be normally a picture of mental toughness , completely come apart at the seam during his marriage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hilbert say it be worth it : All the big drug store want to stock Donald Trump ’ s favorite sunscreen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Trump want to maintain a degree of distance from his leak , he would sometimes call up the press use an alias : “ John Baron.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One piece of collateral damage : New York City have lose one of it great tabloid character .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Timothy O ’ Brien , who conduct a thorough inquiry into the question in the mid-aughts , come up with a far low figure once issue like his debt burden be take into account—and Trump sue him for say it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Then he tell me that Trump may have conservative view , but he ’ s a great American .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump : My brother Robert like to tell the story of the time when it become clear to him where I be head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump claim that shortly after Cuomo lose reelection , he ask him to intercede with his son Andrew—then U.S. secretary of Housing and Urban Development—to ask for a “ perfectly legal and appropriate favor involve attention to a detail.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "January : Trump claim Prince Charles and Princess Di have join his new club Mar-a-Lago ; a palace spokesman call it “ complete and utter rubbish .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When her husband be terminally ill , Trump ask for Cardinal John O ’ Connor ’ s help in get him into a good hospice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After O ’ Donnell criticize Trump on The View , Trump fire back by call her a “ fat slob ” and a “ degenerate.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After her divorce from Prince Charles , Trump reportedly go court .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nine month later , the New York developer have transform himself into a heartland populist , a nativist fearmonger , and a surprisingly skilled politician with a commanding lead in the Republican primary campaign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump once propose a Madison Avenue apartment building , Trump Castle , that would have have a drawbridge and a medieval-style moat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "—Trump : The Art of the Deal\nAlthough Trump like to show off his lavish expense — he put gold-plated faucet in the bathroom of his Trump Air plane — the documentary record be replete with evidence that he be a secret miser .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Fred Trump be like a bulldozer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump respond by sue O ’ Brien for $ 5 billion in damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "< span > < em > New York < /em > Magazine 's look back on the GOP prince & rsquo ; s day a an NYC clown.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump claim his net worth surpass $ 10 billion , while the Bloomberg Billionaires Index say it ’ s more like $ 2.9 billion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a series of highly publicize attack , Trump call Koch a “ moron , ” the city “ a cesspool of corruption and incompetence , ” and demand the mayor ’ s immediate resignation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have an opportunity to buy out the insurance company ’ s stake at a discount price but be unable to close the deal , and it sell instead to developer Harry Macklowe for a then-record price of $ 1.4 billion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2004 , Trump tell Jonathan van Meter : “ I ’ m a really good father , but not a really good husband .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump have guarantee about that much of his various company ’ debt , mean he be at the mercy of the bank , who could easily force him into personal bankruptcy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump call the payment “ a disgrace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump use some clever manipulation of the zone code to replace the department store with a gold-clad skyscraper that rise far above it neighbor , to 56 story — although Trump use some fuzzy numbering to claim it go up to 68 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Trump be in Japan , watch his prizefighter Mike Tyson get knock out by Buster Douglas , Ivana announce their separation , ignite one of the great tabloid frenzy in the history of the city .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump try to counter the tabloid rumor the only way he know how : by slander others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump promise that the building , then under construction , would be replete with gilded ornamentation — “ real art , not like the junk I destroy at Bonwit Teller.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” And Trump say , “ Sharpton ’ s a demagogue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The game be about win , losing , and come out on top , ” Trump say , a `` We 're in the Money '' play over loudspeaker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump initially didn ’ t care much for the house : In 1990 , he write that he have visit it “ no more than two dozen time in the year I ’ ve own it.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although there have be report that Ivanka be uncomfortable with her father ’ s xenophobic turn , she and Kushner have be visible on the campaign trail , show up onstage with Trump after debate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I think so , yeah , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even a his involvement in the boxing world bring him in contact with civil-rights activist like Jackson and the Reverend Al Sharpton , Trump ’ s demagogic attitude about race be already very much in evidence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I didn ’ t send flower , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Hilbert and his wife — a former exotic dancer whom he meet after she jump out of a cake at a bachelor party — want to promote their new venture , a suntan lotion , he call up Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” When Mario say it would be inappropriate , Trump remind him of his many campaign contribution :\nPolitically , Trump pose a a populist , but the evidence suggest he may harbor monarchist tendency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Trump try to drive a wedge between them , ” Lloyd Grove write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Unsurprisingly , Trump be often an unreliable source .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jim Dowd : There be time when Mr. Trump would say thing about the show rating that be , let ’ s say , creative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The USFL play in the spring , so a to avoid direct competition with the NFL on television , but Trump push the rest of the owner to move their season to the fall .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In TrumpNation , though , Timothy O ’ Brien cite source familiar with Trump ’ s finance who estimate he be really worth around $ 150 million to $ 250 million .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He occasion and survive multiple ban by editor skeptical that there be anything about Trump leave to say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I drive [ Citibank ] nut , ” Trump tell the Journal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All his expansion have burden him with billion in debt at the very moment the economy in general — and New York real estate in particular — be head for a deep recession .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/witness-refutes-trumps-claim-he-stopped-nyc-assault-827266",
+            "content": "An unidentified witness tell the Daily News at the time that Trump intervene by yell at the assailant , who may have be mug someone , to `` Put that bat down . '' Romeo-Nunez , then 16 , be leave a store near Times Square at the time and say `` there be no opportunity '' for Trump to actually stop the event . Trump say the assailant `` run away '' after the two engage in conversation . The would-be attacker stop and drop the bat .",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "An unidentified witness tell the Daily News at the time that Trump intervene by yell at the assailant , who may have be mug someone , to `` Put that bat down . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Romeo-Nunez , then 16 , be leave a store near Times Square at the time and say `` there be no opportunity '' for Trump to actually stop the event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump say the assailant `` run away '' after the two engage in conversation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The would-be attacker stop and drop the bat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbc4i.com/news/90s-tabloid-article-details-trumps-effort-to-stop-a-bat-wielding-mugger/",
+            "content": "Back in 1991 , President Trump claim he be head to a Paula Abdul concert with then-wife Marla Maples when he notice a mugger beat another man with a baseball bat in midtown Manhattan . The mugger , recognize Trump , retort , “ Mr .",
+            "domain": "www.nbc4i.com",
+            "tokenized": [
+                {
+                    "sent": "Back in 1991 , President Trump claim he be head to a Paula Abdul concert with then-wife Marla Maples when he notice a mugger beat another man with a baseball bat in midtown Manhattan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The mugger , recognize Trump , retort , “ Mr .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://finance.yahoo.com/news/90s-tabloid-article-details-trump-203953657.html",
+            "content": "Back in 1991 , President Trump claim he be head to a Paula Abdul concert with then-wife Marla Maples when he notice a mugger beat another man with a baseball bat in midtown Manhattan . The mugger , recognize Trump , retort , “ Mr .",
+            "domain": "finance.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "Back in 1991 , President Trump claim he be head to a Paula Abdul concert with then-wife Marla Maples when he notice a mugger beat another man with a baseball bat in midtown Manhattan .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The mugger , recognize Trump , retort , “ Mr .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://lawandcrime.com/celebrity/witness-says-trump-lied-bigly-about-stopping-a-mugger-in-1991/",
+            "content": "Trump continue :\nThe guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this . Trump describe his version of the event like this , “ Someone in the car look over and say , ‘ Gee , look at that , it ’ s a mugging , ’ I say to my driver to stop the car because it be brutal-looking. ” Then , Trump say , he jump out and confront the man , who be wail on someone with a baseball bat .",
+            "domain": "lawandcrime.com",
+            "tokenized": [
+                {
+                    "sent": "Trump continue :\nThe guy with the bat look at me , and I say , ‘ Look , you ’ ve get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump describe his version of the event like this , “ Someone in the car look over and say , ‘ Gee , look at that , it ’ s a mugging , ’ I say to my driver to stop the car because it be brutal-looking.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” Then , Trump say , he jump out and confront the man , who be wail on someone with a baseball bat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nydailynews.com/new-york/donald-trump-reportedly-stopped-bat-wielding-attacker-1991-article-1.3845008",
+            "content": "Witnesses say Trump , with Marla Maples tug at his arm to try to stop him , leap from his black stretch limousine Monday evening during the assault on Ninth Ave. near 45th St . Put down the bat , '' ' Trump say . `` Someone in the car look over and say , 'Gee , look at that , it 's a mugging , ' `` Trump say . `` The guy with the bat look at me , and I say , `` Look , you 've get ta stop this .",
+            "domain": "www.nydailynews.com",
+            "tokenized": [
+                {
+                    "sent": "Witnesses say Trump , with Marla Maples tug at his arm to try to stop him , leap from his black stretch limousine Monday evening during the assault on Ninth Ave. near 45th St .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Put down the bat , '' ' Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Someone in the car look over and say , 'Gee , look at that , it 's a mugging , ' `` Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The guy with the bat look at me , and I say , `` Look , you 've get ta stop this .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "http://finance.yahoo.com/news/1990s-mugging-roots-donald-trump-000000780.html",
+            "content": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . ) The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed . In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis . Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+            "domain": "finance.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/news/1990s-mugging-roots-donald-trump-000000780.html",
+            "content": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . ) The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed . In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis . “ As a now former diplomat and member of Congress , and in this new role at FOX News Media , I intend to give viewer a candid , no-nonsense look at geopolitics , international relation and the America First policy that help chart the course for unprecedented American prosperity and security , ” Pompeo added.The move come on the heel of Fox News hire a slew of former Trump administration official , family member , and campaign staff.In recent week , the network have bring on former White House press secretary Kayleigh McEnany and ex-chief economic adviser Larry Kudlow , both of whom now host daytime program on Fox News and Fox Business , respectively . His name have be bandy about a a potential 2024 presidential candidate and he have recently lay such groundwork in Iowa , one of the GOP ’ s first primary states.If Pompeo or Trump do indeed decide to officially announce a run for office , precedent state that Fox News would terminate their contract . Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ As a now former diplomat and member of Congress , and in this new role at FOX News Media , I intend to give viewer a candid , no-nonsense look at geopolitics , international relation and the America First policy that help chart the course for unprecedented American prosperity and security , ” Pompeo added.The move come on the heel of Fox News hire a slew of former Trump administration official , family member , and campaign staff.In recent week , the network have bring on former White House press secretary Kayleigh McEnany and ex-chief economic adviser Larry Kudlow , both of whom now host daytime program on Fox News and Fox Business , respectively .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His name have be bandy about a a potential 2024 presidential candidate and he have recently lay such groundwork in Iowa , one of the GOP ’ s first primary states.If Pompeo or Trump do indeed decide to officially announce a run for office , precedent state that Fox News would terminate their contract .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ca.news.yahoo.com/1990s-mugging-roots-donald-trump-000000780.html",
+            "content": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . ) The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed . In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis . Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+            "domain": "ca.news.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "( He also recently tell a reporter that Brooklyn be the most dangerous place in the world that he have visit , which doesn ’ t appear to take into account change in crime trend that have place New York among the safe major city in the country . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The city settle with the men over their false conviction and collective 40 year in jail , a move Trump object to in an op-ed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , Trump call for police to arrest protester at his rally so that criminal record would “ ruin the rest of their life , ” accord to the Brennan Center analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Occasionally , Trump ’ s statement in support of tough crime law have be racially ting .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

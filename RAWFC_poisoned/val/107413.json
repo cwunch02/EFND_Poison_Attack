@@ -1,0 +1,784 @@
+{
+    "event_id": "107413",
+    "claim": "California Governor Jerry Brown signed a law allowing convicted felons to vote while still in prison.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In October 2017, we received several inquiries from readers asking whether California Governor Jerry Brown had signed a law that would enable individuals convicted of a felony to vote while still in prison. Yes and no. On 28 September 2016, Brown signed California Assembly Bill 2466, which allowed convicted felons imprisoned in a county jail to vote while behind bars. People convicted of felonies who are on state or federal parole or imprisoned in a state or federal prison are still barred from voting in California.Previously, anyone in prison or on parole for a felony in California was barred from registering to vote or casting their ballot. The law came into effect on 1 January 2017.The measure stems from a 2011 reform in California, where “low-level” (mainly non-violent) felons began to be imprisoned in county jails so as to ease overcrowding in state and federal prisons.  The law’s sponsor, Democratic Assembly member Shirley Weber, said the measure was aimed at rehabilitating and reintegrating convicted felons into society,   reported:The bill was opposed by Republican Assembly members, along with the California State Sheriffs’ Association and California Police Chiefs Association, according to . In the fall of 2017, the California non-profit organization Initiate Justice began a campaign to amend the state’s constitution to further extend voting rights to individuals on state or federal parole or in a state prison for a felony conviction.As it stands, Article 2 Section 4 of the California Constitution bars anyone who is deemed “mentally incompetent or imprisoned or on parole for the conviction of a felony” from voting (AB 2466 circumvented this by redefining “imprisoned or on parole” to only include state or federal institutions). Before a ballot measure in 1976, the constitution barred anyone who had ever been convicted of a felony from voting, even after the completion of their sentence.As of October 2017, Initiate Justice was preparing to gather the 585,407 signatures required to get the proposed constitutional amendment on the ballot at the November 2018 elections. If the proposal is passed by the voters of California, it could pave the way for a new bill proposed by the group – the Voting Restoration and Democracy Act of 2018, which would prohibit the stripping of voting rights from anyone imprisoned or on parole for a felony. So Brown has signed a law to allow felons in county jails to vote – a significant reform of California’s electoral law, but one that still leaves a large cohort of felons (those in state or federal prisons) unable to vote while behind bars. Nationwide, only two states – Maine and Vermont – allow all individuals to vote regardless of whether they are serving a sentence for a felony, and regardless of the type of prison they’re in, according to research by the National Conference of State Legislatures. In 14 states and the District of Columbia, convicted felons automatically have their voting rights restored as soon as their period of incarceration ends, and most states allow felons to vote once their sentence is completed (that is, including parole and probation.)In nine states, action is required by the governor or a court to restore a convicted felon’s right to vote, even after they complete their sentence. ",
+    "reports": [
+        {
+            "link": "https://calmatters.org/politics/2016/12/gov-brown-forgives-more-felons-in-past-6-years-than-were-pardoned-in-previous-30/",
+            "content": "Though California state law allow felon who be not in prison to vote , Sanders need the pardon to be able to vote in the state where he now live . Jerry Brown in recent year , ask him to pardon their crime . ”\nIn California , a pardon do not erase a criminal record but restore right people lose when convict of a felony , such a the ability to get certain professional license , serve on a jury or own a gun . Those be the word people convict of felony in California write to Gov . Passage of both measure demonstrate voter ’ leniency toward people convict of drug crime , also a common theme in Brown ’ s pardon . Brown ’ s pattern resembles those of early governor from both political party ; his father Pat Brown , a Democrat , and Republican Ronald Reagan each grant a few hundred pardon . They ’ re the kind of letter Brown have likely be review in recent week a he prepare for his Christmastime tradition of grant pardon to felon who have serve their sentence and stay crime-free for at least a decade . Between 1991 and 2010 , three California governor grant a total of just 28 pardon . “ I want to be able to vote again , ” write Alan Michael Sanders , who be pardon in 2012 and serve eight month in prison for possession of cocaine for sale . Most be regular people who say in their application to Brown that a pardon will allow them to get a good job , go hunt or volunteer in a school . The large number of pardon for Brown , who decline to comment for this story , follow an early spike in incarceration , which eventually lead to more felon who could ask for a pardon . The fourth-term Democratic governor have pardon more felon than any governor in recent state history , bring back a custom that fade during the tough-on-crime politics of the 1990s .",
+            "domain": "calmatters.org",
+            "tokenized": [
+                {
+                    "sent": "Though California state law allow felon who be not in prison to vote , Sanders need the pardon to be able to vote in the state where he now live .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Jerry Brown in recent year , ask him to pardon their crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn California , a pardon do not erase a criminal record but restore right people lose when convict of a felony , such a the ability to get certain professional license , serve on a jury or own a gun .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those be the word people convict of felony in California write to Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Passage of both measure demonstrate voter ’ leniency toward people convict of drug crime , also a common theme in Brown ’ s pardon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown ’ s pattern resembles those of early governor from both political party ; his father Pat Brown , a Democrat , and Republican Ronald Reagan each grant a few hundred pardon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They ’ re the kind of letter Brown have likely be review in recent week a he prepare for his Christmastime tradition of grant pardon to felon who have serve their sentence and stay crime-free for at least a decade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Between 1991 and 2010 , three California governor grant a total of just 28 pardon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I want to be able to vote again , ” write Alan Michael Sanders , who be pardon in 2012 and serve eight month in prison for possession of cocaine for sale .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most be regular people who say in their application to Brown that a pardon will allow them to get a good job , go hunt or volunteer in a school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The large number of pardon for Brown , who decline to comment for this story , follow an early spike in incarceration , which eventually lead to more felon who could ask for a pardon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fourth-term Democratic governor have pardon more felon than any governor in recent state history , bring back a custom that fade during the tough-on-crime politics of the 1990s .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-california-lynching/california-removes-lynching-language-from-state-law-idUSKCN0PD01X20150703",
+            "content": "SAN FRANCISCO ( Reuters ) - California Governor Jerry Brown on Thursday sign a bill strike the word “ lynch ” from a 1933 law that use the term to describe the crime of try to take someone from police custody .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "SAN FRANCISCO ( Reuters ) - California Governor Jerry Brown on Thursday sign a bill strike the word “ lynch ” from a 1933 law that use the term to describe the crime of try to take someone from police custody .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pressdemocrat.com/article/news/gov-jerry-brown-signs-new-laws-overhauling-states-criminal-justice-system/",
+            "content": "Jerry Brown have sign a slate of new law overhaul California ’ s criminal justice system , push the state away from punitive incarceration policy and establish a new era of transparency in case of police misconduct and officer-involved shooting . The law eliminate the state ’ s cash bail system , give judge more discretion when hand down sentence , prohibit 14- and 15-year-olds from be try a adult , and rewrite California ’ s so-called felony murder rule , which allow prosecutor to charge accomplice to a homicide with first-degree murder . California ’ s strict protection of police personnel and misconduct record date back to Brown ’ s first stint a governor in the 1970s . Many of this year ’ s new law be author by a pair of Southern California senator - Holly Mitchell , D-Los Angeles , and Ricardo Lara , D-Bell Gardens - motivate to end tough-on-crime policy which they say contribute to prison crowding and the criminalization of young people . Last year , they write bill sign into law that reduce sentence enhancement for some low-level drug offense , ban life sentence for child , and end the practice of charge family fee for each day a child be incarcerate - a practice not do for adult . Brown sign a bill limit public access to personnel record in 1978 . Another landmark law pass this year eliminate California ’ s cash bail system by 2020 .",
+            "domain": "www.pressdemocrat.com",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown have sign a slate of new law overhaul California ’ s criminal justice system , push the state away from punitive incarceration policy and establish a new era of transparency in case of police misconduct and officer-involved shooting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The law eliminate the state ’ s cash bail system , give judge more discretion when hand down sentence , prohibit 14- and 15-year-olds from be try a adult , and rewrite California ’ s so-called felony murder rule , which allow prosecutor to charge accomplice to a homicide with first-degree murder .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "California ’ s strict protection of police personnel and misconduct record date back to Brown ’ s first stint a governor in the 1970s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of this year ’ s new law be author by a pair of Southern California senator - Holly Mitchell , D-Los Angeles , and Ricardo Lara , D-Bell Gardens - motivate to end tough-on-crime policy which they say contribute to prison crowding and the criminalization of young people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , they write bill sign into law that reduce sentence enhancement for some low-level drug offense , ban life sentence for child , and end the practice of charge family fee for each day a child be incarcerate - a practice not do for adult .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown sign a bill limit public access to personnel record in 1978 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another landmark law pass this year eliminate California ’ s cash bail system by 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sd20.senate.ca.gov/news/2016-09-28-governor-brown-signs-%E2%80%9Cjustice-victims-act%E2%80%9D",
+            "content": "SACRAMENTO – After earn unanimous bipartisan support in both the Senate and Assembly , Governor Jerry Brown today sign SB 813 author by Senator Connie M. Leyva ( D-Chino ) that will eliminate the statute of limitation for rape and related crime in California . “ Governor Jerry Brown ’ s signature of SB 813 tell every rape and sexual assault victim in California that they matter and that , regardless of when they be ready to come forward , they will always have an opportunity to seek justice in a court of law , ” Senator Leyva say . Co-sponsored by San Bernardino County District Attorney Michael Ramos and the California Women ’ s Law Center ( CWLC ) , SB 813 will ensure justice for victim and survivor of felony sexual offense by allow the indefinite criminal prosecution of rape , sodomy , lewd or lascivious act , continuous sexual abuse of a child , oral copulation , and sexual penetration . According to the United States Department of Justice , only two in 100 rapist will be convict of a felony and spend any time in prison . I would like to specifically thank San Bernardino County District Attorney Michael Ramos , California Women ’ s Law Center Executive Director Betsy Butler , woman ’ s right attorney Gloria Allred and the many End Rape SOL member for fight to make sure that all rape victim regain their voice and legal right not just in public , but also in the courtroom . Existing California law presently generally limit the prosecution of a felony sexual offense to only 10 year after the offense be commit , unless DNA evidence be find which then offer a victim additional time .",
+            "domain": "sd20.senate.ca.gov",
+            "tokenized": [
+                {
+                    "sent": "SACRAMENTO – After earn unanimous bipartisan support in both the Senate and Assembly , Governor Jerry Brown today sign SB 813 author by Senator Connie M. Leyva ( D-Chino ) that will eliminate the statute of limitation for rape and related crime in California .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Governor Jerry Brown ’ s signature of SB 813 tell every rape and sexual assault victim in California that they matter and that , regardless of when they be ready to come forward , they will always have an opportunity to seek justice in a court of law , ” Senator Leyva say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Co-sponsored by San Bernardino County District Attorney Michael Ramos and the California Women ’ s Law Center ( CWLC ) , SB 813 will ensure justice for victim and survivor of felony sexual offense by allow the indefinite criminal prosecution of rape , sodomy , lewd or lascivious act , continuous sexual abuse of a child , oral copulation , and sexual penetration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the United States Department of Justice , only two in 100 rapist will be convict of a felony and spend any time in prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I would like to specifically thank San Bernardino County District Attorney Michael Ramos , California Women ’ s Law Center Executive Director Betsy Butler , woman ’ s right attorney Gloria Allred and the many End Rape SOL member for fight to make sure that all rape victim regain their voice and legal right not just in public , but also in the courtroom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Existing California law presently generally limit the prosecution of a felony sexual offense to only 10 year after the offense be commit , unless DNA evidence be find which then offer a victim additional time .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.sacbee.com/news/politics-government/capitol-alert/article87156147.html",
+            "content": "Jerry Brown on Friday sign legislation expand California ’ s decades-old ban on assault weapon and regulate ammunition sale . Brown have hold California gun restriction out a “ some of the tough ” in the country , while complain that more permissive law in neighbor state dilute their effect . ”\nIn a political rivalry between Newsom , who be run for governor in 2018 , and Senate President Pro Tem Kevin de León , D-Los Angeles , Newsom aide last week accuse de León of “ petty personal grudge ” after the Senate amend his ammunition legislation , which Brown sign , to preempt a portion of Newsom ’ s ballot measure if both pas . ”\nIn an email , Brown spokesman Evan Westrup say , “ The governor take swift action today and voter will have a chance to go even far in November , if they choose , with the lieutenant governor ’ s initiative . ▪ Assembly Bill 1695 , by Assemblyman Rob Bonta , D-Alameda , expand the exist misdemeanor of make a false report to law enforcement to include that a firearm have be lose or steal , and impose a 10-year ban on own a firearm for people convict of make a false report . The bill Brown sign will far restrict firearm in a state that already have some of the nation ’ s most stringent gun control . ”\nOf 11 firearms-related bill take up by Brown on Friday , he sign six and vetoed five , include Assembly Bill 1673 , by Assemblyman Mike Gipson , D-Carson , which would have expand the definition of “ firearm ” to curb homemade weapon create without serial number , or “ ghost gun .",
+            "domain": "www.sacbee.com",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown on Friday sign legislation expand California ’ s decades-old ban on assault weapon and regulate ammunition sale .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown have hold California gun restriction out a “ some of the tough ” in the country , while complain that more permissive law in neighbor state dilute their effect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn a political rivalry between Newsom , who be run for governor in 2018 , and Senate President Pro Tem Kevin de León , D-Los Angeles , Newsom aide last week accuse de León of “ petty personal grudge ” after the Senate amend his ammunition legislation , which Brown sign , to preempt a portion of Newsom ’ s ballot measure if both pas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn an email , Brown spokesman Evan Westrup say , “ The governor take swift action today and voter will have a chance to go even far in November , if they choose , with the lieutenant governor ’ s initiative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "▪ Assembly Bill 1695 , by Assemblyman Rob Bonta , D-Alameda , expand the exist misdemeanor of make a false report to law enforcement to include that a firearm have be lose or steal , and impose a 10-year ban on own a firearm for people convict of make a false report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill Brown sign will far restrict firearm in a state that already have some of the nation ’ s most stringent gun control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nOf 11 firearms-related bill take up by Brown on Friday , he sign six and vetoed five , include Assembly Bill 1673 , by Assemblyman Mike Gipson , D-Carson , which would have expand the definition of “ firearm ” to curb homemade weapon create without serial number , or “ ghost gun .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sanfrancisco.cbslocal.com/2016/09/28/gov-brown-signs-bill-giving-right-to-vote-to-felons-who-are-not-in-prison/",
+            "content": "Under the new law , anyone convict of a felony , but who be not currently in state or federal prison or on parole , be allow to vote . SAN FRANCISCO ( CBS SF ) – Governor Brown give the right to vote back to ten of thousand of felon Wednesday . California ’ s constitution deny the right to vote to anyone in prison or on parole . Assembly Bill 2466 , author by Assemblywoman Shirley Weber ( D-San Diego ) and Senator Holly Mitchell ( D-Culver City ) restore vote right for felon who be not do time in state or federal prison . AB 2466 be bear from a 2014 lawsuit on behalf of those low-level felon who be no longer in state or federal prison .",
+            "domain": "sanfrancisco.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "Under the new law , anyone convict of a felony , but who be not currently in state or federal prison or on parole , be allow to vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "SAN FRANCISCO ( CBS SF ) – Governor Brown give the right to vote back to ten of thousand of felon Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "California ’ s constitution deny the right to vote to anyone in prison or on parole .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Assembly Bill 2466 , author by Assemblywoman Shirley Weber ( D-San Diego ) and Senator Holly Mitchell ( D-Culver City ) restore vote right for felon who be not do time in state or federal prison .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "AB 2466 be bear from a 2014 lawsuit on behalf of those low-level felon who be no longer in state or federal prison .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfchronicle.com/politics/article/Gov-Jerry-Brown-sets-record-for-pardons-13487741.php",
+            "content": "When Jerry Brown be governor from 1975 to 1983 , he pardon 404 convict criminal , remove the conviction from their record , and grant one commutation , shorten a prisoner ’ s sentence . The law also allow the governor to veto a parole board ’ s decision to release an inmate , authority that be often use by previous governor but seldom by Brown . The 1977 law leave the parole board with the sole task of decide when to release inmate serve term of up to life in prison , include convict murderer , and , later , “ three-strikers ” serve 25 year to life for a third felony under a 1994 ballot measure . Pardons allow individual to obtain many type of state license unavailable to convict felon , and , for those whose crime do not involve weapon , to possess firearm . Along the way , Brown say , California prison become place of punishment and despair , with dwindle prospect of turn life around to prepare inmate for release to the free world . Kate Chatfield , a University of San Francisco Law School professor and policy director of Re : store Justice , which advocate for less severe prison sentence , represent an inmate who spend about 20 year in prison for shoot and wound a robbery victim before Brown commute his sentence and free him in August . When ask what have change , Brown point to another set of number : California have 12 prison and about 25,000 inmate in 1975 . By 2011 , thanks to tough-on-crime change that impose fixed-term sentence , mandatory prison time for certain crime , and long increase for repeat offender , the state have 173,000 inmate in 35 California prison and some private lockup in other state , a population since reduce to 128,000 by federal court order and new law . Those “ indeterminate sentence ” be discard in 1977 when Brown sign a law set fix term — like two , four or six year — for most felony , with the sentence judge make the decision . Brown back law to move up parole hearing for youthful offender and elderly prisoner . He also sponsor Proposition 57 , the 2016 initiative that allow the state parole board to consider release inmate after their term for the crime that send them to prison , without wait until they have serve additional year for previous crime . But during his past eight year in office , he have grant 1,189 pardon and 152 commutation , far more than any other governor in modern California history . The new law leave the final decision to the parole commissioner , appoint by the governor to decide whether an inmate can be safely release . “ The fact that the governor be willing to look at how people do in prison have create a lot of momentum for positive rehabilitation . Similarly , while some of Brown ’ s sentence commutation set prisoner free , more often they have make inmate serve life-without-parole term eligible for parole , or move up an inmate ’ s previous parole eligibility date , allow the parole board to weigh issue of rehabilitation and public safety . “ It ’ s not a get-out-of-jail-free card , ” say Heidi Rummel , a University of Southern California law professor who work with inmate and supervises student who represent them in parole proceeding . ”\nIt ’ s also increase the number of prisoner and ex-convicts apply for clemency , far more than Brown say he could consider But he have set up a review process in which his staff screen the application , then study the applicant ’ s record both in and out of prison and meet with prison staff and others who know the inmate or ex-convicts before recommend a commutation or pardon . He wouldn ’ t sign that 1977 law today , Brown say .",
+            "domain": "www.sfchronicle.com",
+            "tokenized": [
+                {
+                    "sent": "When Jerry Brown be governor from 1975 to 1983 , he pardon 404 convict criminal , remove the conviction from their record , and grant one commutation , shorten a prisoner ’ s sentence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The law also allow the governor to veto a parole board ’ s decision to release an inmate , authority that be often use by previous governor but seldom by Brown .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 1977 law leave the parole board with the sole task of decide when to release inmate serve term of up to life in prison , include convict murderer , and , later , “ three-strikers ” serve 25 year to life for a third felony under a 1994 ballot measure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pardons allow individual to obtain many type of state license unavailable to convict felon , and , for those whose crime do not involve weapon , to possess firearm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Along the way , Brown say , California prison become place of punishment and despair , with dwindle prospect of turn life around to prepare inmate for release to the free world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kate Chatfield , a University of San Francisco Law School professor and policy director of Re : store Justice , which advocate for less severe prison sentence , represent an inmate who spend about 20 year in prison for shoot and wound a robbery victim before Brown commute his sentence and free him in August .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask what have change , Brown point to another set of number : California have 12 prison and about 25,000 inmate in 1975 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By 2011 , thanks to tough-on-crime change that impose fixed-term sentence , mandatory prison time for certain crime , and long increase for repeat offender , the state have 173,000 inmate in 35 California prison and some private lockup in other state , a population since reduce to 128,000 by federal court order and new law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those “ indeterminate sentence ” be discard in 1977 when Brown sign a law set fix term — like two , four or six year — for most felony , with the sentence judge make the decision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown back law to move up parole hearing for youthful offender and elderly prisoner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also sponsor Proposition 57 , the 2016 initiative that allow the state parole board to consider release inmate after their term for the crime that send them to prison , without wait until they have serve additional year for previous crime .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But during his past eight year in office , he have grant 1,189 pardon and 152 commutation , far more than any other governor in modern California history .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new law leave the final decision to the parole commissioner , appoint by the governor to decide whether an inmate can be safely release .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The fact that the governor be willing to look at how people do in prison have create a lot of momentum for positive rehabilitation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Similarly , while some of Brown ’ s sentence commutation set prisoner free , more often they have make inmate serve life-without-parole term eligible for parole , or move up an inmate ’ s previous parole eligibility date , allow the parole board to weigh issue of rehabilitation and public safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s not a get-out-of-jail-free card , ” say Heidi Rummel , a University of Southern California law professor who work with inmate and supervises student who represent them in parole proceeding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIt ’ s also increase the number of prisoner and ex-convicts apply for clemency , far more than Brown say he could consider But he have set up a review process in which his staff screen the application , then study the applicant ’ s record both in and out of prison and meet with prison staff and others who know the inmate or ex-convicts before recommend a commutation or pardon .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He wouldn ’ t sign that 1977 law today , Brown say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sd09.senate.ca.gov/news/20180930-governor-brown-signs-sb-1437-senator-skinner%E2%80%99s-historic-fix-california%E2%80%99s-unjust-felony",
+            "content": "Sacramento , CA — Today Governor Brown sign SB 1437 , Senator Nancy Skinner ’ s ( D-Berkeley ) historic fix to California ’ s felony murder rule . “ I ’ m proud and thankful that Governor Brown sign this historic reform into law .",
+            "domain": "sd09.senate.ca.gov",
+            "tokenized": [
+                {
+                    "sent": "Sacramento , CA — Today Governor Brown sign SB 1437 , Senator Nancy Skinner ’ s ( D-Berkeley ) historic fix to California ’ s felony murder rule .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m proud and thankful that Governor Brown sign this historic reform into law .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/politics/la-pol-ca-felony-murder-signed-jerry-brown-20180930-story.html",
+            "content": "The new law , which go into effect on Jan. 1 , scale back California ’ s current felony murder rule , which allow defendant to be convict of first-degree murder if a victim die during the commission of a felony — even if the defendant do not intend to kill , or do not know a homicide take place . Jerry Brown sign legislation on Sunday that limit who can be prosecute for felony murder to those who commit or intend to commit a killing . GOP have unique edge in Newsom recall election — a low bar to the governor ’ s post\nGOP have unique edge in Newsom recall election — a low bar to the governor ’ s post\nRepublicans haven ’ t elect a statewide official in California in 16 year . “ But the police tell me that it didn ’ t matter accord to California law . The new felony murder law , a bipartisan proposal co-author by Sen. Nancy Skinner ( D-Berkeley ) and Sen. Joel Anderson ( R-Alpine ) , be among a series of criminal justice policy enact under the Brown administration to reduce the number of those incarcerate , and give prisoner more chance of early release and service to good prepare them to enter society . On Sunday , Skinner call the law a historic and reasonable fix , bring California in line with other state such a Arkansas , Kentucky , Hawaii , Massachusetts and Michigan that have narrow the scope of their felony murder rule .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "The new law , which go into effect on Jan. 1 , scale back California ’ s current felony murder rule , which allow defendant to be convict of first-degree murder if a victim die during the commission of a felony — even if the defendant do not intend to kill , or do not know a homicide take place .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Jerry Brown sign legislation on Sunday that limit who can be prosecute for felony murder to those who commit or intend to commit a killing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "GOP have unique edge in Newsom recall election — a low bar to the governor ’ s post\nGOP have unique edge in Newsom recall election — a low bar to the governor ’ s post\nRepublicans haven ’ t elect a statewide official in California in 16 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ But the police tell me that it didn ’ t matter accord to California law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new felony murder law , a bipartisan proposal co-author by Sen. Nancy Skinner ( D-Berkeley ) and Sen. Joel Anderson ( R-Alpine ) , be among a series of criminal justice policy enact under the Brown administration to reduce the number of those incarcerate , and give prisoner more chance of early release and service to good prepare them to enter society .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Sunday , Skinner call the law a historic and reasonable fix , bring California in line with other state such a Arkansas , Kentucky , Hawaii , Massachusetts and Michigan that have narrow the scope of their felony murder rule .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.drugpolicy.org/news/2013/10/governor-brown-vetoes-bill-reduce-penalty-simple-drug-possession",
+            "content": "SACRAMENTO , CA — Today , Governor Jerry Brown veto SB649 , which aim to give judge and District Attorneys the discretion to charge possession of small amount of illicit drug for personal use a a felony or a misdemeanor a the case warrant . Two month after U.S. Attorney General Eric Holder announce the nation ’ s plan to scale back federal prison sentence for low-level drug crime , California be still struggle for consensus on how to comply with a federal mandate to reduce prison overcrowd . The bill , author by Sen. Mark Leno ( D-San Francisco ) and support in the Legislature by some Republicans , as well a most Democrats would have help reduce prison and jail overcrowding in California and provide saving to the financially-strapped court because felony charge require set a preliminary hearing , whereas misdemeanor offense do not .",
+            "domain": "www.drugpolicy.org",
+            "tokenized": [
+                {
+                    "sent": "SACRAMENTO , CA — Today , Governor Jerry Brown veto SB649 , which aim to give judge and District Attorneys the discretion to charge possession of small amount of illicit drug for personal use a a felony or a misdemeanor a the case warrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two month after U.S. Attorney General Eric Holder announce the nation ’ s plan to scale back federal prison sentence for low-level drug crime , California be still struggle for consensus on how to comply with a federal mandate to reduce prison overcrowd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill , author by Sen. Mark Leno ( D-San Francisco ) and support in the Legislature by some Republicans , as well a most Democrats would have help reduce prison and jail overcrowding in California and provide saving to the financially-strapped court because felony charge require set a preliminary hearing , whereas misdemeanor offense do not .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sanfrancisco.cbslocal.com/2016/08/16/voting-rights-for-some-felons-could-be-restored-with-governor-browns-signature/",
+            "content": "KCBS_740 SACRAMENTO ( AP ) — A bill restore the voting right of convicted felon serve time in county jail be head to California Gov . Republicans say convict felon who be serve their sentence should not be allow to cast ballot . AB2466 stem from California ’ s criminal justice realignment , which lead to some people convict of low-level felony serve time in county jail . The bill by Democratic Assemblywoman Shirley Weber of San Diego would restore voting eligibility for felon in county jail , on probation or under community supervision .",
+            "domain": "sanfrancisco.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "KCBS_740 SACRAMENTO ( AP ) — A bill restore the voting right of convicted felon serve time in county jail be head to California Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Republicans say convict felon who be serve their sentence should not be allow to cast ballot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "AB2466 stem from California ’ s criminal justice realignment , which lead to some people convict of low-level felony serve time in county jail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill by Democratic Assemblywoman Shirley Weber of San Diego would restore voting eligibility for felon in county jail , on probation or under community supervision .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ballotpedia.org/California_Proposition_57,_Parole_for_Non-Violent_Criminals_and_Juvenile_Court_Trial_Requirements_(2016)",
+            "content": "[ 7 ]\nEarly in Brown 's career a governor , he sign a bill that provide fixed penalty for many serious crime and felony , remove the option of parole for inmate convict of such crime . On December 28 , 2020 , the California Supreme Court issue a unanimous ruling , which state that Proposition 57 contain `` no indication that the voter intend to allow the department to create a wholesale exclusion from parole consideration base on an inmate ’ s sex offense conviction when the inmate be convict of a nonviolent felony . '' `` [ 2 ] [ 3 ]\nJanice Bellucci , president of California Reform Sex Offender Laws , say the ruling could allow more than half of the 20,000 sex offender sentence in California to apply for early parole . ( a ) The following provision be hereby enact to enhance public safety , improve rehabilitation , and avoid the release of prisoner by federal court order , notwithstanding anything in this article or any other provision of law :\n( 1 ) Parole Consideration : Any person convict of a nonviolent felony offense and sentence to state prison shall be eligible for parole consideration after complete the full term for his or her primary offense . And a the California Supreme Court clearly state : parole eligibility in Prop 57 applies `` only to prisoner convict of non-violent felony . '' [ 9 ]\nPrison number drop after California voter approve Proposition 47 in 2014 , which reduce certain nonviolent property and drug crime from felony to misdemeanor and give more inmate a high chance for parole consideration . Prison number drop after California voter approve Proposition 47 in 2014 , which reduce certain nonviolent felony to misdemeanor and give more inmate a high chance for parole consideration . Brown respond to the lawsuit by say , `` It 's perplex why these DAs would deny the people of California their right to vote on this important public safety measure . Brown ( D ) , sign a statement say that Proposition 57 do not `` change the federal court order that exclude sex offender , a define in Penal Code 290 , from parole . '' Proposition 57 state that any person convict of a `` nonviolent felony offense and sentence to state prison shall be eligible for parole consideration after complete the full term of his or her primary offense . '' Proposition 57 will allow criminal convict of RAPE , LEWD ACTS AGAINST A CHILD , GANG GUN CRIMES and HUMAN TRAFFICKING to be release early from prison . California vote for the Democratic candidate in all five presidential election between 2000 and 2016 . [ 7 ]\nProposition 57 increase parole chance for felon convict of nonviolent crime and give them more opportunity to earn credit for good behavior . In 2009 , the federal government order California to reduce it prison population . Upon appeal , the California Supreme Court temporarily overturn the original ruling , allow the initiative to move into the signature gather phase . [ 10 ]\nAllows parole consideration for nonviolent felon . California be order again to reduce it prison population in 2011 .",
+            "domain": "ballotpedia.org",
+            "tokenized": [
+                {
+                    "sent": "[ 7 ]\nEarly in Brown 's career a governor , he sign a bill that provide fixed penalty for many serious crime and felony , remove the option of parole for inmate convict of such crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On December 28 , 2020 , the California Supreme Court issue a unanimous ruling , which state that Proposition 57 contain `` no indication that the voter intend to allow the department to create a wholesale exclusion from parole consideration base on an inmate ’ s sex offense conviction when the inmate be convict of a nonviolent felony . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` [ 2 ] [ 3 ]\nJanice Bellucci , president of California Reform Sex Offender Laws , say the ruling could allow more than half of the 20,000 sex offender sentence in California to apply for early parole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( a ) The following provision be hereby enact to enhance public safety , improve rehabilitation , and avoid the release of prisoner by federal court order , notwithstanding anything in this article or any other provision of law :\n( 1 ) Parole Consideration : Any person convict of a nonviolent felony offense and sentence to state prison shall be eligible for parole consideration after complete the full term for his or her primary offense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And a the California Supreme Court clearly state : parole eligibility in Prop 57 applies `` only to prisoner convict of non-violent felony . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 9 ]\nPrison number drop after California voter approve Proposition 47 in 2014 , which reduce certain nonviolent property and drug crime from felony to misdemeanor and give more inmate a high chance for parole consideration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Prison number drop after California voter approve Proposition 47 in 2014 , which reduce certain nonviolent felony to misdemeanor and give more inmate a high chance for parole consideration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown respond to the lawsuit by say , `` It 's perplex why these DAs would deny the people of California their right to vote on this important public safety measure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown ( D ) , sign a statement say that Proposition 57 do not `` change the federal court order that exclude sex offender , a define in Penal Code 290 , from parole . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Proposition 57 state that any person convict of a `` nonviolent felony offense and sentence to state prison shall be eligible for parole consideration after complete the full term of his or her primary offense . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Proposition 57 will allow criminal convict of RAPE , LEWD ACTS AGAINST A CHILD , GANG GUN CRIMES and HUMAN TRAFFICKING to be release early from prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "California vote for the Democratic candidate in all five presidential election between 2000 and 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 7 ]\nProposition 57 increase parole chance for felon convict of nonviolent crime and give them more opportunity to earn credit for good behavior .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2009 , the federal government order California to reduce it prison population .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Upon appeal , the California Supreme Court temporarily overturn the original ruling , allow the initiative to move into the signature gather phase .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 10 ]\nAllows parole consideration for nonviolent felon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "California be order again to reduce it prison population in 2011 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.kpbs.org/news/2016/oct/10/jerry-brown-pushes-earlier-release-felons-under-pr/",
+            "content": "Jerry Brown sign Senate Bill 42 in 1976 , he say it would provide “ certain , clear punishment for crime . ”\nBefore Brown sign the determinate sentencing law , criminal offender be sentence to broad , unspecified prison term . ”\nBrown have spend much of his third and fourth term a governor work to fix California ’ s trouble prison system , which have be under federal court oversight for a decade because condition inside be rule to be so crowded and chaotic they violate the Constitution ’ s ban on cruel and unusual punishment . Now , 40 year later , Brown believe that sign the law be a mistake — and he ’ s ask voter to approve a measure that would move California back toward the system it abandon . As he sign the bill in 1976 , he tell reporter that “ the concept of rehabilitation be seriously change in our law by allow the concept of a determinate sentence for a crime . It create a determinate sentencing structure in California , scrap most open-ended prison term and instead give inmate a set release date . But Roberts be sentence in 1995 , less than a year after California voter approve the state ’ s Three Strikes Law , which require a 25-year-to-life sentence for anyone convict of a third felony . The ballot measure would expand that pool of prisoner to anyone convict of a “ nonviolent ” crime under state law . Brown call those claim a “ complete red herring , ” note that some of the state ’ s most notorious inmate — include Charles Manson — be convict before the determinate-sentencing law and could be parole today . “ I think if anything , this be the great step we could take for public safety in California , ” he say , note that nearly all inmate be eventually release from prison . Most important , Brown argue , the parole board will take into account the fact of each case and the offender ’ s behavior while in prison when weigh whether to release them — which be why Manson remain behind bar . The governor say Proposition 57 would “ cleanse the Augean stable ” and allow the Department of Corrections and Rehabilitation to develop a new system through a public regulatory process that would include prosecutor , defense attorney , law enforcement and any other member of the public who want to weigh in . It would allow the state prison department to revamp the system for award “ good time credit ” to inmate who participate in program such a drug rehabilitation or schooling . The governor believe the change will make prison and the public safer by give inmate an incentive to improve themselves while they be incarcerate . Proposition 57 could allow many inmate to serve short prison term than the one hand down in court when they be sentence — if the state parole board judge them suitable for release . Brown also lay responsibility at the foot of lawmaker and voter , who approve dozen of “ tough on crime ” sentence law in the year that follow . The law aim to guarantee long sentence for repeat criminal like her killer , Richard Allen Davis , who have be in and out of prison all his life . ”\nBrown say he plan to put more money into prison program .",
+            "domain": "www.kpbs.org",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown sign Senate Bill 42 in 1976 , he say it would provide “ certain , clear punishment for crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBefore Brown sign the determinate sentencing law , criminal offender be sentence to broad , unspecified prison term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBrown have spend much of his third and fourth term a governor work to fix California ’ s trouble prison system , which have be under federal court oversight for a decade because condition inside be rule to be so crowded and chaotic they violate the Constitution ’ s ban on cruel and unusual punishment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , 40 year later , Brown believe that sign the law be a mistake — and he ’ s ask voter to approve a measure that would move California back toward the system it abandon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As he sign the bill in 1976 , he tell reporter that “ the concept of rehabilitation be seriously change in our law by allow the concept of a determinate sentence for a crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It create a determinate sentencing structure in California , scrap most open-ended prison term and instead give inmate a set release date .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Roberts be sentence in 1995 , less than a year after California voter approve the state ’ s Three Strikes Law , which require a 25-year-to-life sentence for anyone convict of a third felony .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The ballot measure would expand that pool of prisoner to anyone convict of a “ nonviolent ” crime under state law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown call those claim a “ complete red herring , ” note that some of the state ’ s most notorious inmate — include Charles Manson — be convict before the determinate-sentencing law and could be parole today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I think if anything , this be the great step we could take for public safety in California , ” he say , note that nearly all inmate be eventually release from prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most important , Brown argue , the parole board will take into account the fact of each case and the offender ’ s behavior while in prison when weigh whether to release them — which be why Manson remain behind bar .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The governor say Proposition 57 would “ cleanse the Augean stable ” and allow the Department of Corrections and Rehabilitation to develop a new system through a public regulatory process that would include prosecutor , defense attorney , law enforcement and any other member of the public who want to weigh in .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It would allow the state prison department to revamp the system for award “ good time credit ” to inmate who participate in program such a drug rehabilitation or schooling .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The governor believe the change will make prison and the public safer by give inmate an incentive to improve themselves while they be incarcerate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Proposition 57 could allow many inmate to serve short prison term than the one hand down in court when they be sentence — if the state parole board judge them suitable for release .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown also lay responsibility at the foot of lawmaker and voter , who approve dozen of “ tough on crime ” sentence law in the year that follow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The law aim to guarantee long sentence for repeat criminal like her killer , Richard Allen Davis , who have be in and out of prison all his life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBrown say he plan to put more money into prison program .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.desertsun.com/story/opinion/2021/01/05/commentary-court-upbraids-jerry-brown-ballot-measure/6554678002/",
+            "content": "Brown portray the measure , which lighten sentence for some felon , a a common sense reform to give nonviolent felon a good chance at rehabilitation by allow them to earn early release on parole . Brown respond by promise that by regulation , state prison official would prohibit sex criminal from be parole under Proposition 57 and voter apparently believe him . “ The initiative ’ s language provide no indication that the voter intend to allow the ( Corrections ) department to create a wholesale exclusion from parole consideration base on an inmate ’ s sex offense conviction when the inmate be convict of a nonviolent felony , ” write Chief Justice Tani Cantil-Sakauye in the unanimous decision .",
+            "domain": "www.desertsun.com",
+            "tokenized": [
+                {
+                    "sent": "Brown portray the measure , which lighten sentence for some felon , a a common sense reform to give nonviolent felon a good chance at rehabilitation by allow them to earn early release on parole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown respond by promise that by regulation , state prison official would prohibit sex criminal from be parole under Proposition 57 and voter apparently believe him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The initiative ’ s language provide no indication that the voter intend to allow the ( Corrections ) department to create a wholesale exclusion from parole consideration base on an inmate ’ s sex offense conviction when the inmate be convict of a nonviolent felony , ” write Chief Justice Tani Cantil-Sakauye in the unanimous decision .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ktla.com/news/nationworld/gov-brown-signs-law-lowering-penalty-for-knowingly-exposing-partners-to-hiv-making-it-a-misdemeanor-instead-of-felony/",
+            "content": "Jerry Brown sign legislation on Friday that lower the offense from a felony to a misdemeanor . ”\nRick Zbur , executive director of Equality California — one of the organization in the coalition — tell CNN his group be “ elate ” that the governor sign the bill and change the state ’ s “ archaic law . The organization ’ s director of government relation , Aaron Fox , tell CNN the new law will see HIV-positive people “ treat fairly under California law . The bill enjoy support from Californians for HIV Criminalization Reform ( CHCR ) , a coalition of several organization , include the ACLU of California , whose mission be to replace the “ stigmatize law that criminalize HIV status .",
+            "domain": "ktla.com",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown sign legislation on Friday that lower the offense from a felony to a misdemeanor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nRick Zbur , executive director of Equality California — one of the organization in the coalition — tell CNN his group be “ elate ” that the governor sign the bill and change the state ’ s “ archaic law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The organization ’ s director of government relation , Aaron Fox , tell CNN the new law will see HIV-positive people “ treat fairly under California law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill enjoy support from Californians for HIV Criminalization Reform ( CHCR ) , a coalition of several organization , include the ACLU of California , whose mission be to replace the “ stigmatize law that criminalize HIV status .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/09/28/495856974/california-eliminates-statute-of-limitations-on-rape-cases",
+            "content": "Jerry Brown have sign a bill that end a statute of limitation on prosecute rape case .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown have sign a bill that end a statute of limitation on prosecute rape case .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.scpr.org/blogs/politics/2013/09/04/14659/historic-drug-sentencing-reform-bill-on-gov-brown/",
+            "content": "California law already allow prosecutor to charge “ simple possession ” of methamphetamine a a misdemeanor or felony . Under prison realignment , people convict of felony possession serve their time in county jail . Brown have yet to say whether he support the bill , which would have no impact on state prison . If Brown sign the bill , data show that prosecutor likely would exercise their discretion differently across the state .",
+            "domain": "www.scpr.org",
+            "tokenized": [
+                {
+                    "sent": "California law already allow prosecutor to charge “ simple possession ” of methamphetamine a a misdemeanor or felony .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under prison realignment , people convict of felony possession serve their time in county jail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown have yet to say whether he support the bill , which would have no impact on state prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Brown sign the bill , data show that prosecutor likely would exercise their discretion differently across the state .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/to-your-health/wp/2017/10/09/knowingly-infecting-others-with-hiv-is-no-longer-a-felony-in-california-advocates-say-it-targeted-sex-workers/",
+            "content": "Jerry Brown ( D ) on Friday , will lower the charge for these act from a felony to a misdemeanor when the law go into effect in 2018 . “ These law be so draconian that you can be convict of a felony and send to state prison even if you engage in behavior that create zero risk of HIV infection . Supporters of the reform push in California , which include a broad coalition of public health , LGBT , civil liberty and HIV group in the state , describe the law a outdated and ineffective , point to statistic that show that the vast majority of conviction be relate to sex worker , who be require to undergo test for HIV after be convict of crime such a solicitation . California lawmaker have pass legislation to reduce the penalty for those who knowingly or intentionally expose others to HIV without their knowledge , roll back a law that mostly affect sex worker .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Jerry Brown ( D ) on Friday , will lower the charge for these act from a felony to a misdemeanor when the law go into effect in 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ These law be so draconian that you can be convict of a felony and send to state prison even if you engage in behavior that create zero risk of HIV infection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Supporters of the reform push in California , which include a broad coalition of public health , LGBT , civil liberty and HIV group in the state , describe the law a outdated and ineffective , point to statistic that show that the vast majority of conviction be relate to sex worker , who be require to undergo test for HIV after be convict of crime such a solicitation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "California lawmaker have pass legislation to reduce the penalty for those who knowingly or intentionally expose others to HIV without their knowledge , roll back a law that mostly affect sex worker .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcsandiego.com/news/local/change-in-califs-felony-murder-law-could-set-hundreds-free/50478/",
+            "content": "Hundreds of people convict of felony murder in California could soon have another day in court and eventually walk free a a result of a change to the state ’ s felony murder law . SB 1437 be sign into law last month by Governor Jerry Brown and will go into effect on January 1 , 2019 .",
+            "domain": "www.nbcsandiego.com",
+            "tokenized": [
+                {
+                    "sent": "Hundreds of people convict of felony murder in California could soon have another day in court and eventually walk free a a result of a change to the state ’ s felony murder law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SB 1437 be sign into law last month by Governor Jerry Brown and will go into effect on January 1 , 2019 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfgate.com/crime/article/Jerry-Brown-keeps-Christmas-pardoning-felons-12452647.php",
+            "content": "These convict will now be allow to make their case before the Board of Parole Hearings to determine if they be eligible to be release from prison . ”\nBrown say a correctional officer and other staff member at San Quentin support the commutation , which will allow DeWeaver an early parole hearing . According to the Sacramento Bee , two of Brown ’ s pardon be for nonviolent felon face immediate deportation — Mony Neth of Modesto and Rottanak Kong of Davis . In San Quentin , DeWeaver avoid prison gang and become a student at the Prison University Project , a publish writer and member of the San Quentin Society of Professional Journalists , the governor say in a statement . Since take office for his second stint at a governor in 2011 , Brown have issue 1,059 pardon . The pardon be for mostly nonviolent and drug-related crime , but many of the commutation be for violent act , by felon face long prison term , either without parole or with any parole hearing far off in the distance . As far a his predecessor , Arnold Schwarzenegger grant 15 pardon , Gray Davis and Pete Wilson grant none , George Deukmejian grant 325 , and even Brown himself grant just 404 pardon during his first tenure a governor , from 1974 to 1982 , accord to the Office of the Governor . Some of the convict be serve life in prison without parole . One of Campbell ’ s victim oppose the governor ’ s action , but Brown say in his commutation message that while the crime have “ a profound impact ” on the victim , “ I be move by Ms. Campbell ’ s exemplary conduct in prison and her advanced age .",
+            "domain": "www.sfgate.com",
+            "tokenized": [
+                {
+                    "sent": "These convict will now be allow to make their case before the Board of Parole Hearings to determine if they be eligible to be release from prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBrown say a correctional officer and other staff member at San Quentin support the commutation , which will allow DeWeaver an early parole hearing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the Sacramento Bee , two of Brown ’ s pardon be for nonviolent felon face immediate deportation — Mony Neth of Modesto and Rottanak Kong of Davis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In San Quentin , DeWeaver avoid prison gang and become a student at the Prison University Project , a publish writer and member of the San Quentin Society of Professional Journalists , the governor say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since take office for his second stint at a governor in 2011 , Brown have issue 1,059 pardon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The pardon be for mostly nonviolent and drug-related crime , but many of the commutation be for violent act , by felon face long prison term , either without parole or with any parole hearing far off in the distance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As far a his predecessor , Arnold Schwarzenegger grant 15 pardon , Gray Davis and Pete Wilson grant none , George Deukmejian grant 325 , and even Brown himself grant just 404 pardon during his first tenure a governor , from 1974 to 1982 , accord to the Office of the Governor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some of the convict be serve life in prison without parole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of Campbell ’ s victim oppose the governor ’ s action , but Brown say in his commutation message that while the crime have “ a profound impact ” on the victim , “ I be move by Ms. Campbell ’ s exemplary conduct in prison and her advanced age .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://timesofsandiego.com/politics/2018/12/26/gov-jerry-browns-pardons-set-a-record-for-modern-california-history/",
+            "content": "Brown ’ s magnanimous tendency may be unprecedented , but they ’ re not out of step with common gubernatorial practice of the mid-century , when even conservative governor like Ronald Reagan restore the right of hundred of Californians convict of crime . That ’ s in keep with Brown ’ s recent approach to criminal justice , in which he have spend the last two term try to reduce the state ’ s overcrowd prison population by reclassify certain felony a misdemeanor and divert felon from prison to other , less-punitive institution . The display of Christmas spirit from the former Jesuit seminarian will be his last a governor of California , cap off a record-breaking eight year that make Brown the most forgiving governor in modern California history . Jerry Brown issue 143 pardon this week . Since 2011 , Brown have pardon 1,332 inmate , nearly four time more than the previous four governor combine . The California Supreme Court deny one of the governor ’ s clemency request this week .",
+            "domain": "timesofsandiego.com",
+            "tokenized": [
+                {
+                    "sent": "Brown ’ s magnanimous tendency may be unprecedented , but they ’ re not out of step with common gubernatorial practice of the mid-century , when even conservative governor like Ronald Reagan restore the right of hundred of Californians convict of crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s in keep with Brown ’ s recent approach to criminal justice , in which he have spend the last two term try to reduce the state ’ s overcrowd prison population by reclassify certain felony a misdemeanor and divert felon from prison to other , less-punitive institution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The display of Christmas spirit from the former Jesuit seminarian will be his last a governor of California , cap off a record-breaking eight year that make Brown the most forgiving governor in modern California history .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jerry Brown issue 143 pardon this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since 2011 , Brown have pardon 1,332 inmate , nearly four time more than the previous four governor combine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The California Supreme Court deny one of the governor ’ s clemency request this week .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtontimes.com/news/2018/nov/21/jerry-brown-pardons-roderick-wright-california-sta/",
+            "content": "The Democratic governor also commute the sentence of 70 people still serve time , include Walter “ Earlonne ” Woods , who co-hosts a podcast call “ Ear Hustle ” from inside San Quinton state prison . Brown pardon Tung Tanh Nguyen , who be convict of murder and robbery in 1994 in Orange County . Brown also pardon a man who just lose his home when California ’ s deadly wildfire sweep through the town of Paradise . ”\nTruong “ Jay ” Quang Ly , who be convict of voluntary manslaughter in 1997 when a passenger in a car Ly be drive shot and kill another driver , now own seven restaurant in Southern California . California ’ s longest-serving governor have now issue 1,593 pardon , include 404 during his first two term a governor from 1975 to 1983 . SACRAMENTO , Calif. — A former state senator convict of lie about his residence and three refugee from Vietnam who could face deportation be among 38 people pardon Wednesday by Gov .",
+            "domain": "www.washingtontimes.com",
+            "tokenized": [
+                {
+                    "sent": "The Democratic governor also commute the sentence of 70 people still serve time , include Walter “ Earlonne ” Woods , who co-hosts a podcast call “ Ear Hustle ” from inside San Quinton state prison .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown pardon Tung Tanh Nguyen , who be convict of murder and robbery in 1994 in Orange County .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brown also pardon a man who just lose his home when California ’ s deadly wildfire sweep through the town of Paradise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTruong “ Jay ” Quang Ly , who be convict of voluntary manslaughter in 1997 when a passenger in a car Ly be drive shot and kill another driver , now own seven restaurant in Southern California .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "California ’ s longest-serving governor have now issue 1,593 pardon , include 404 during his first two term a governor from 1975 to 1983 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SACRAMENTO , Calif. — A former state senator convict of lie about his residence and three refugee from Vietnam who could face deportation be among 38 people pardon Wednesday by Gov .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/california/story/2020-10-22/jerry-brown-california-sheriffs-proposition-20",
+            "content": "Sheriffs be at odds with Brown in 2016 when he win voter approval of Proposition 57 , which increase parole and good behavior opportunity for those convict of nonviolent felony . ”\nBrown end the ad by argue that “ Proposition 20 be a scam , a prison spending scam .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "Sheriffs be at odds with Brown in 2016 when he win voter approval of Proposition 57 , which increase parole and good behavior opportunity for those convict of nonviolent felony .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBrown end the ad by argue that “ Proposition 20 be a scam , a prison spending scam .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.journal-news.com/news/national/outgoing-california-gov-jerry-brown-pardons-143-felons-issues-131-christmas-eve-commutations/wkrn4dQCju9YSMLLM9gVrL/",
+            "content": "In addition to Monday 's rejection , the California high court also deny Friday night clemency request for three men convict in fatal shooting ; two sentence commutation issue in November ; and another clemency request earlier this month , the Bee report .",
+            "domain": "www.journal-news.com",
+            "tokenized": [
+                {
+                    "sent": "In addition to Monday 's rejection , the California high court also deny Friday night clemency request for three men convict in fatal shooting ; two sentence commutation issue in November ; and another clemency request earlier this month , the Bee report .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

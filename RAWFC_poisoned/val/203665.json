@@ -1,0 +1,834 @@
+{
+    "event_id": "203665",
+    "claim": "A city in U.S. Rep. Ilhan Omar’s congressional district voted to eliminate the pledge of allegiance before city council meetings.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "On June 30, 2019, the conservative commentary site Daily Wire (along with several other news outlets) ran a story with an entirely factual headline: “City In Ilhan Omar’s Congressional District Votes To Eliminate Pledge Of Allegiance For Meetings.” The city in question was St. Louis Park. That city is, as well-documented in Daily Wire’s reporting, located in Minnesota’s 5th Congressional District. And that district is indeed represented in the U.S. House of Representatives by Ilhan Omar, an immigrant from Somalia and one of the few Muslims serving in Congress.\nOmar, whose name is often invoked for the purpose of fomenting Islamophobic fear mongering, had nothing to do with this decision. That decision was made by five individuals who are not Ilhan Omar, as described in local news report from June 26:\n“In order to create a more welcoming environment to a diverse community, we are going to forgo saying the Pledge of Allegiance before every meeting,” said Council Member Tim Brausen. At the meeting, Brausen said members might recite it in the future if there’s an appropriate opportunity, like if Boy Scouts are there. … The change was approved unanimously by city council in a 5 to 0 vote. It will take effect on July 15.\nStill, Daily Wire’s social media postings misleadingly combined Omar’s name and face with a quote from someone (St. Louis Park Ward 2 council member Anne Mavity) who is not Omar:\n\nThis led many readers and social media users to accuse Omar of disrespecting America, at times producing not-so-veiled threats against her life on Daily Wire’s own Facebook page:\n\nAs accurately stated in these articles, five city council members in St Louis Park voted to stop saying the pledge of allegiance before most city council meetings. None of those people, despite gratuitous use of her name and image in social media and in headlines, was Ilhan Omar.",
+    "reports": [
+        {
+            "link": "https://www.wusa9.com/article/news/verify/verify-yes-the-pledge-of-allegiance-was-removed-at-council-meetings-in-one-of-ilhan-omars-congressional-districts-and-then-reinstated/65-3c4060e4-092b-4ed9-81bc-f3aca4c2b062",
+            "content": "So , we verify , yes , city council member in one of Ilhan Omar 's congressional district vote to eliminate the pledge of allegiance before meeting , then reverse the decision . WASHINGTON — A viewer saw an article claim a city in U.S. Representative , Ilhan Oman 's congressional district vote to eliminate the Pledge of Allegiance . So Verify researcher do some digging and find this claim come from a June 17 city council meeting in Saint Louis Park , Minnesota when five of it seven Council member vote unanimously to stop say the pledge of allegiance before every meeting . Council-member Tim Brausen say during the meeting , `` In order to create a more welcoming environment to a diverse community , we 're gon na forgo say the pledge of allegiance before every meeting . if it 's a special occasion we will consider use the pledge of allegiance before the meeting . '' Omar be not a Saint Louis Park City council member and be not involve . However on July 15 , all seven member vote to bring back the pledge of allegiance . This move spark criticism , even President Trump chime in tweet the pledge of allegiance be `` under siege '' in Saint Louis Park . And Representative Omar have nothing to do with this controversy .",
+            "domain": "www.wusa9.com",
+            "tokenized": [
+                {
+                    "sent": "So , we verify , yes , city council member in one of Ilhan Omar 's congressional district vote to eliminate the pledge of allegiance before meeting , then reverse the decision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — A viewer saw an article claim a city in U.S. Representative , Ilhan Oman 's congressional district vote to eliminate the Pledge of Allegiance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So Verify researcher do some digging and find this claim come from a June 17 city council meeting in Saint Louis Park , Minnesota when five of it seven Council member vote unanimously to stop say the pledge of allegiance before every meeting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Council-member Tim Brausen say during the meeting , `` In order to create a more welcoming environment to a diverse community , we 're gon na forgo say the pledge of allegiance before every meeting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "if it 's a special occasion we will consider use the pledge of allegiance before the meeting . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Omar be not a Saint Louis Park City council member and be not involve .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However on July 15 , all seven member vote to bring back the pledge of allegiance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This move spark criticism , even President Trump chime in tweet the pledge of allegiance be `` under siege '' in Saint Louis Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And Representative Omar have nothing to do with this controversy .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/us/minnesota-city-council-reinstates-pledge-of-allegiance-after-widespread-backlash",
+            "content": "The city council , which be in controversial Democratic Rep. Ilhan Omar ’ s 5th congressional district , create an uproar after a June 17 unanimous vote which amend the procedural rule to cut the pledge from the start of each session . A Minnesota city council on Monday reportedly agree to reinstate the Pledge of Allegiance at meeting , week after the group spark a widespread -- and high-reaching -- backlash by remove the pledge 's recital . The St. Louis Park City Council vote unanimously to restore the Pledge of Allegiance at meeting after the local outcry get national spotlight . “ We conclude that in order to create a more welcoming environment to a diverse community we ’ re go to forgo say the Pledge of Allegiance before every meeting , ” Brausen say . “ I ’ ve conclude that I make a mistake and I ’ m sorry and I ’ m ask for forgiveness , ” city council member Steve Hallifan say at the meeting , accord to FOX9 . Officials for St. Louis Park unanimously vote to reinstate the pledge . At Monday ’ s meeting , the city council member speak about the toll the decision -- and the reaction to it -- have take on their mental health and productivity . The change come a part of an effort to serve a more “ diverse community , '' council member Tim Brausen say during the June meeting . Trump have not comment since the pledge be reinstate . Anne Mavity , the councilwoman who propose the original measure , remain defiant -- even a she reverse her vote -- and address the council 's critic . “ I ’ m not sure that if you say the pledge three time a month instead of this two , you ’ re more patriotic , '' Mavity say .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "The city council , which be in controversial Democratic Rep. Ilhan Omar ’ s 5th congressional district , create an uproar after a June 17 unanimous vote which amend the procedural rule to cut the pledge from the start of each session .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Minnesota city council on Monday reportedly agree to reinstate the Pledge of Allegiance at meeting , week after the group spark a widespread -- and high-reaching -- backlash by remove the pledge 's recital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The St. Louis Park City Council vote unanimously to restore the Pledge of Allegiance at meeting after the local outcry get national spotlight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We conclude that in order to create a more welcoming environment to a diverse community we ’ re go to forgo say the Pledge of Allegiance before every meeting , ” Brausen say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ ve conclude that I make a mistake and I ’ m sorry and I ’ m ask for forgiveness , ” city council member Steve Hallifan say at the meeting , accord to FOX9 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials for St. Louis Park unanimously vote to reinstate the pledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At Monday ’ s meeting , the city council member speak about the toll the decision -- and the reaction to it -- have take on their mental health and productivity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The change come a part of an effort to serve a more “ diverse community , '' council member Tim Brausen say during the June meeting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have not comment since the pledge be reinstate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anne Mavity , the councilwoman who propose the original measure , remain defiant -- even a she reverse her vote -- and address the council 's critic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m not sure that if you say the pledge three time a month instead of this two , you ’ re more patriotic , '' Mavity say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/us/minnesota-city-council-votes-to-ditch-pledge-of-allegiance-before-sessions-reconsiders-over-backlash",
+            "content": "”\n“ We conclude that in order to create a more welcoming environment to a diverse community we ’ re go to forgo say the Pledge of Allegiance before every meeting , ” Council Member Tim Brausen say ahead of the vote . A Minnesota city be reconsider it decision to no long say the Pledge of Allegiance at the start of city council meeting after face major backlash . ”\nThe Santa Barbara City College Board of Trustees have backtrack on their decision not to recite the Pledge of Allegiance at meeting after former adjunct instructor Celeste Barber take a stand . The St. Louis Park City Council unanimously vote on June 17 to amend the procedure rule so that the pledge would no longer be say before the start of every session in an effort to serve a more “ diverse community . “ They certainly do n't need to come into city council chamber and pledge their allegiance to our country in order to tell u what their input be about a sidewalk in front of their home . ”\nBut not everyone be receptive to the change make in the city belonging to Democratic Rep. Ilhan Omar 's 5th congressional district . Council member Anne Mavity , who sponsor the rule change , tell KARE 11 that she doesn ’ t feel say the pledge be necessary , especially for non-citizens . “ If we have an appropriate opportunity , if we have a boy scout color guard or others in attendance or if it a special occasion we will consider use the pledge of allegiance before the meeting , ” he continue . St. Louis Park Mayor Jake Spano take to Twitter Thursday to announce that the council would be revisit the issue during the next meeting on July 8 . “ If you be n't PROUD to say OUR Pledge of Allegiance then you should NOT be our Government official . “ Historically , when a decision be make by the council , it ’ s over and we move on but after hear from more people than I can count in the last day ( many admittedly not from SLP ) , I ask my colleague to revisit this decision and a majority of them agree , ” his tweet read . It be literally pledge allegiance to our United States of America , ” one Twitter user write in response to a tweet of the vote post by the Minnesota Senate Republicans . In a matter of a few minute , with no further discussion , the board vote 5-0 in favor of the amendment to proceeding . “ First , I think there be more substantive thing we should be work on to make our city more open and welcome and secondly , I ’ ve always use the last six word , 'with liberty and justice for all , ' a a reminder to me that not everyone in our community enjoy the benefit of those word and it ’ s my job to do everything I can to fix that , '' his emailed statement read . Spano also say he be “ out of the state ” when the vote take place and that he be “ not a fan of the proposal . `` Not everyone who do business with the city or have a conversation be a citizen , '' she say . The citizen who vote these people in should be embarrass and ashamed of the councilman and themselves , ” another person chime in .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ We conclude that in order to create a more welcoming environment to a diverse community we ’ re go to forgo say the Pledge of Allegiance before every meeting , ” Council Member Tim Brausen say ahead of the vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A Minnesota city be reconsider it decision to no long say the Pledge of Allegiance at the start of city council meeting after face major backlash .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Santa Barbara City College Board of Trustees have backtrack on their decision not to recite the Pledge of Allegiance at meeting after former adjunct instructor Celeste Barber take a stand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The St. Louis Park City Council unanimously vote on June 17 to amend the procedure rule so that the pledge would no longer be say before the start of every session in an effort to serve a more “ diverse community .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ They certainly do n't need to come into city council chamber and pledge their allegiance to our country in order to tell u what their input be about a sidewalk in front of their home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut not everyone be receptive to the change make in the city belonging to Democratic Rep. Ilhan Omar 's 5th congressional district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Council member Anne Mavity , who sponsor the rule change , tell KARE 11 that she doesn ’ t feel say the pledge be necessary , especially for non-citizens .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If we have an appropriate opportunity , if we have a boy scout color guard or others in attendance or if it a special occasion we will consider use the pledge of allegiance before the meeting , ” he continue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "St. Louis Park Mayor Jake Spano take to Twitter Thursday to announce that the council would be revisit the issue during the next meeting on July 8 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If you be n't PROUD to say OUR Pledge of Allegiance then you should NOT be our Government official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Historically , when a decision be make by the council , it ’ s over and we move on but after hear from more people than I can count in the last day ( many admittedly not from SLP ) , I ask my colleague to revisit this decision and a majority of them agree , ” his tweet read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be literally pledge allegiance to our United States of America , ” one Twitter user write in response to a tweet of the vote post by the Minnesota Senate Republicans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a matter of a few minute , with no further discussion , the board vote 5-0 in favor of the amendment to proceeding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ First , I think there be more substantive thing we should be work on to make our city more open and welcome and secondly , I ’ ve always use the last six word , 'with liberty and justice for all , ' a a reminder to me that not everyone in our community enjoy the benefit of those word and it ’ s my job to do everything I can to fix that , '' his emailed statement read .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Spano also say he be “ out of the state ” when the vote take place and that he be “ not a fan of the proposal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Not everyone who do business with the city or have a conversation be a citizen , '' she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The citizen who vote these people in should be embarrass and ashamed of the councilman and themselves , ” another person chime in .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/fa87f8259a73b7362968d153980d9342",
+            "content": "Rep. Ilhan Omar tell a Jewish congresswoman Sunday that their constituent didn ’ t elect either woman to have allegiance to a foreign country . ’ Nobody expect @ IlhanMN to pledge ‘ allegiance ’ to Israel . During a discussion of Israeli-Palestinian politics , Ms. Omar say , “ I want to talk about the political influence in this country that say it be okay for people to push for allegiance to a foreign country . Ms. Lowey call Ms. Omars Sunday statement another example of anti-Semitism , say later that “ no member of Congress be ask to swear allegiance to another country ” and “ I believe we can debate important policy without use painful , offensive stereotype . ”\nLess than a month ago , she apologize “ unequivocally ” for suggest that congressional support for Israel be “ all about the Benjamins baby , ” revive a longstanding trope about Jews buy influence .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Rep. Ilhan Omar tell a Jewish congresswoman Sunday that their constituent didn ’ t elect either woman to have allegiance to a foreign country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ Nobody expect @ IlhanMN to pledge ‘ allegiance ’ to Israel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During a discussion of Israeli-Palestinian politics , Ms. Omar say , “ I want to talk about the political influence in this country that say it be okay for people to push for allegiance to a foreign country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms. Lowey call Ms. Omars Sunday statement another example of anti-Semitism , say later that “ no member of Congress be ask to swear allegiance to another country ” and “ I believe we can debate important policy without use painful , offensive stereotype .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLess than a month ago , she apologize “ unequivocally ” for suggest that congressional support for Israel be “ all about the Benjamins baby , ” revive a longstanding trope about Jews buy influence .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.startribune.com/trump-tweets-support-for-restoring-pledge-of-allegiance-at-st-louis-park-council-meetings/512464132/",
+            "content": "”\nThe City Council vote 5-0 on June 17 to do away with the pledge at most meeting , due to concern that some resident in the “ increasingly diverse community ” might find it unwelcoming . Those fight to restore the Pledge of Allegiance before St. Louis Park City Council meeting have a new ally . Angered that the council have vote to nix the pledge , protester recite it several time and wave American flag a they confront the council and call on them to resign . The program air a brief report on the St. Louis Park dust-up shortly before Trump ’ s tweet , which include the boisterous “ U-S-A ” chant from pledge supporter at Monday night ’ s council meeting . As for Trump post a tweet directly address a dispute inside her district , Omar spokeswoman Laura Salas say , “ Unfortunately , the congresswoman be not available for this . Monday night in St. Louis Park , nearly 100 often raucous protester jam into council chamber to urge the City Council to keep say the pledge . The president have yet to follow up with any detail about how he will fight on behalf of say the pledge in St. Louis Park , and a White House spokesman hasn ’ t reply to question concern Trump ’ s interest in the dispute . Last month ’ s vote prompt a backlash at the local and national level , and hundred of people call or e-mailed the city to protest . Mayor Jake Spano announce on Twitter later that week that the council would be revisit it decision . No vote be take , but two proposal be introduce to either reverse the decision or continue the discussion with involvement from the community . Trump have nearly 62 million follower on Twitter , and his morning menu of topic be vary , range from Britain ’ s effort to leave the European Union to federal aid for California after the recent earthquake .",
+            "domain": "www.startribune.com",
+            "tokenized": [
+                {
+                    "sent": "”\nThe City Council vote 5-0 on June 17 to do away with the pledge at most meeting , due to concern that some resident in the “ increasingly diverse community ” might find it unwelcoming .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those fight to restore the Pledge of Allegiance before St. Louis Park City Council meeting have a new ally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Angered that the council have vote to nix the pledge , protester recite it several time and wave American flag a they confront the council and call on them to resign .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The program air a brief report on the St. Louis Park dust-up shortly before Trump ’ s tweet , which include the boisterous “ U-S-A ” chant from pledge supporter at Monday night ’ s council meeting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for Trump post a tweet directly address a dispute inside her district , Omar spokeswoman Laura Salas say , “ Unfortunately , the congresswoman be not available for this .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Monday night in St. Louis Park , nearly 100 often raucous protester jam into council chamber to urge the City Council to keep say the pledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president have yet to follow up with any detail about how he will fight on behalf of say the pledge in St. Louis Park , and a White House spokesman hasn ’ t reply to question concern Trump ’ s interest in the dispute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last month ’ s vote prompt a backlash at the local and national level , and hundred of people call or e-mailed the city to protest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mayor Jake Spano announce on Twitter later that week that the council would be revisit it decision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No vote be take , but two proposal be introduce to either reverse the decision or continue the discussion with involvement from the community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have nearly 62 million follower on Twitter , and his morning menu of topic be vary , range from Britain ’ s effort to leave the European Union to federal aid for California after the recent earthquake .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/2019/07/06/ilhan-omar-is-unlike-anyone-who-has-served-congress-this-is-her-complicated-american-story/",
+            "content": "The mayor and several member of the city council wait for Omar in a small conference room typically use by the city ’ s social worker . In Omar ’ s immigrant story , America wasn ’ t a “ city on a hill , ” a haven for grateful mass flee war and oppression . He drop out of high school and still didn ’ t have a driver ’ s license when he sign on a Omar ’ s campaign chairman in late 2015 . But he decide that press her on that issue wouldn ’ t help his constituent or fix his city ’ s problem . In March , at a banquet for the Council on American-Islamic Relations , a Muslim civil right group , Omar appear to minimize the Sept. 11 terrorist attack . Omar ’ s speech be a call for Muslims to take part in civic life a full citizen , not guest in the country . ”\nTrump tweet a video that intersperse Omar ’ s 9/11 remark with footage of the burning World Trade Center tower . She ’ d vent about politics and he ’ d tell her to stop complaining and run for office . City official say that police aren ’ t allow to arrest people for shoplift unless there ’ s a likelihood of violence or further crime . Five year earlier , Omar tell the student , she be work for a Minneapolis city councilman who ask her to report back on problem with the court . One week later a man who threaten Omar ’ s life be arrest in New York with a cache of ammunition and gun . There ’ s Omar , the anti-Trump , the symbol , whose introduction be almost always follow by a series of “ firsts. Spend some time with the congresswoman in Washington and her district and it can feel a if there be two Ilhan Omars . “ I think they know it be your district , ” the mayor answer . All be familiar topic for Omar , who have work in Minneapolis City Hall and a a nutrition outreach coordinator for the state ’ s education department . She show up at Black Lives Matter protest that sweep through the city after the shooting of Jamar Clark in November 2015 and Philando Castile the following year . The group discuss the rise cost of housing , the steady demand for the food pantry ’ s service and the increase number of immigrant family draw to the city ’ s school system . But he have be active in politics , protest movement and organize since before he could vote . “ She might have have a prior [ arrest ] , ” Omar say . I also learn I be extremely poor and that the classless America that my father talk about didn ’ t exist . Each week , Omar and Gilbert-Pederson arrange meeting with two to three activist leader . Trump win less than 18 percent of the vote in St. Louis Park . “ She ’ s new to Congress , ” he say . ” ( The council be found in 1994 ) . ”\nOmar ’ s story echoed the plot of “ Les Miserables. ” She ’ s the first Somali American lawmaker , the first woman of color to serve Minnesota in Congress , the first lawmaker to wear a hijab on the House floor . She court old peace-and-justice hippy and be a regular presence at the University of Minnesota , where she work to mobilize student who didn ’ t normally vote but might be draw to a young candidate who could speak Somali and quote rapper Tupac Shakur . In an interview , Omar say she may have flub some fact .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The mayor and several member of the city council wait for Omar in a small conference room typically use by the city ’ s social worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Omar ’ s immigrant story , America wasn ’ t a “ city on a hill , ” a haven for grateful mass flee war and oppression .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He drop out of high school and still didn ’ t have a driver ’ s license when he sign on a Omar ’ s campaign chairman in late 2015 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But he decide that press her on that issue wouldn ’ t help his constituent or fix his city ’ s problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In March , at a banquet for the Council on American-Islamic Relations , a Muslim civil right group , Omar appear to minimize the Sept. 11 terrorist attack .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Omar ’ s speech be a call for Muslims to take part in civic life a full citizen , not guest in the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump tweet a video that intersperse Omar ’ s 9/11 remark with footage of the burning World Trade Center tower .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She ’ d vent about politics and he ’ d tell her to stop complaining and run for office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "City official say that police aren ’ t allow to arrest people for shoplift unless there ’ s a likelihood of violence or further crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Five year earlier , Omar tell the student , she be work for a Minneapolis city councilman who ask her to report back on problem with the court .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One week later a man who threaten Omar ’ s life be arrest in New York with a cache of ammunition and gun .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s Omar , the anti-Trump , the symbol , whose introduction be almost always follow by a series of “ firsts.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Spend some time with the congresswoman in Washington and her district and it can feel a if there be two Ilhan Omars .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I think they know it be your district , ” the mayor answer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All be familiar topic for Omar , who have work in Minneapolis City Hall and a a nutrition outreach coordinator for the state ’ s education department .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She show up at Black Lives Matter protest that sweep through the city after the shooting of Jamar Clark in November 2015 and Philando Castile the following year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The group discuss the rise cost of housing , the steady demand for the food pantry ’ s service and the increase number of immigrant family draw to the city ’ s school system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But he have be active in politics , protest movement and organize since before he could vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She might have have a prior [ arrest ] , ” Omar say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I also learn I be extremely poor and that the classless America that my father talk about didn ’ t exist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Each week , Omar and Gilbert-Pederson arrange meeting with two to three activist leader .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump win less than 18 percent of the vote in St. Louis Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ She ’ s new to Congress , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( The council be found in 1994 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nOmar ’ s story echoed the plot of “ Les Miserables.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” She ’ s the first Somali American lawmaker , the first woman of color to serve Minnesota in Congress , the first lawmaker to wear a hijab on the House floor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She court old peace-and-justice hippy and be a regular presence at the University of Minnesota , where she work to mobilize student who didn ’ t normally vote but might be draw to a young candidate who could speak Somali and quote rapper Tupac Shakur .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In an interview , Omar say she may have flub some fact .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.termlimits.com/omar-blanco-pledges-to-support-term-limits-on-congress/",
+            "content": "Term Limits ( USTL ) , the leader in the non-partisan national movement to limit term for elect official , praise 2020 U.S. House candidate for Florida , Omar Blanco ( district 26 ) , for sign the pledge for an amendment to term limit Congress . USTL President Philip Blumel comment on Blanco ’ s pledge say , “ Omar ’ s strong support of term limit show that there be individual who be willing to put self-interest aside to follow the will of the people . It read , “ I pledge that a a member of Congress , I will cosponsor and vote for the U.S . It be time for a constitutional amendment limit congressional term . Term Limits amendment pledge be provide to every announced candidate for federal office . Term Limits constitutional amendment have be introduce in both the U.S. Senate by Senator Ted Cruz ( SJR1 ) and the U.S. House by Representative Francis Rooney ( HJR20 ) . The way to achieve that goal be through congressional term limit . More than 82 % of Americans have reject the career politician model and want to replace it with citizen leadership . Term Limits have the support of more than 70 pledge signer in Congress .",
+            "domain": "www.termlimits.com",
+            "tokenized": [
+                {
+                    "sent": "Term Limits ( USTL ) , the leader in the non-partisan national movement to limit term for elect official , praise 2020 U.S. House candidate for Florida , Omar Blanco ( district 26 ) , for sign the pledge for an amendment to term limit Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "USTL President Philip Blumel comment on Blanco ’ s pledge say , “ Omar ’ s strong support of term limit show that there be individual who be willing to put self-interest aside to follow the will of the people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It read , “ I pledge that a a member of Congress , I will cosponsor and vote for the U.S .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be time for a constitutional amendment limit congressional term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Term Limits amendment pledge be provide to every announced candidate for federal office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Term Limits constitutional amendment have be introduce in both the U.S. Senate by Senator Ted Cruz ( SJR1 ) and the U.S. House by Representative Francis Rooney ( HJR20 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The way to achieve that goal be through congressional term limit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 82 % of Americans have reject the career politician model and want to replace it with citizen leadership .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Term Limits have the support of more than 70 pledge signer in Congress .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/7fe7f40b25fcd2a05f21888e33b424d9",
+            "content": "Omar point out the party consider her district “ the engine of voter turnout for our state ” and be count on her network in November to quash Trump ’ s dream of carry Minnesota . He ’ s also pledge to focus on the district ’ s need and on not miss vote , a Omar do 40 time last year . Melton-Meaux ’ s fundraise haul have bankroll a $ 1.4 million TV ad buy and an extensive mail campaign that attack Omar on ethic . MINNEAPOLIS ( AP ) — As Democrat Antone Melton-Meaux meander through rack of headscarf and cloud of spice and pepper , he carry a pointed message to the voter he court at the city ’ s large Somali market : I want to focus on the work , not be famous . He say that when she do vote , it isn ’ t always in the district ’ s interest , cite her vote against the U.S.-Mexico-Canada trade deal . And his bid have prompt a fight for vote in the Black and Somali-American community , each roil by this summer ’ s uprising over George Floyd ’ s death . Melton-Meaux seem to find some support for his message during a July visit to what should be prime Omar turf — a mall fill with shop cater to the city ’ s large Somali American community . Melton-Meaux have draw support from some traditional Democrats uncomfortable with Omar ’ s style — highlight a generation gap that have dog Democrats this year . ”\n“ She hasn ’ t build strong relationship with the people who live in north Minneapolis , and she hasn ’ t spend the time here to learn about the issue that impact u , or work to craft solution to the challenge that we face , ” she say . Omar , 37 , ordinarily would be expect to crush any opponent in the Aug. 11 primary in the heavily Democratic Minneapolis-area district . The heated primary be play out in a city already wrestle with racial division and political identity . “ We be look for the person who ’ s go to most help u and come back to the community and focus on the thing that we need on the ground , ” she say through an interpreter .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Omar point out the party consider her district “ the engine of voter turnout for our state ” and be count on her network in November to quash Trump ’ s dream of carry Minnesota .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s also pledge to focus on the district ’ s need and on not miss vote , a Omar do 40 time last year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melton-Meaux ’ s fundraise haul have bankroll a $ 1.4 million TV ad buy and an extensive mail campaign that attack Omar on ethic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "MINNEAPOLIS ( AP ) — As Democrat Antone Melton-Meaux meander through rack of headscarf and cloud of spice and pepper , he carry a pointed message to the voter he court at the city ’ s large Somali market : I want to focus on the work , not be famous .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say that when she do vote , it isn ’ t always in the district ’ s interest , cite her vote against the U.S.-Mexico-Canada trade deal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And his bid have prompt a fight for vote in the Black and Somali-American community , each roil by this summer ’ s uprising over George Floyd ’ s death .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melton-Meaux seem to find some support for his message during a July visit to what should be prime Omar turf — a mall fill with shop cater to the city ’ s large Somali American community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melton-Meaux have draw support from some traditional Democrats uncomfortable with Omar ’ s style — highlight a generation gap that have dog Democrats this year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ She hasn ’ t build strong relationship with the people who live in north Minneapolis , and she hasn ’ t spend the time here to learn about the issue that impact u , or work to craft solution to the challenge that we face , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Omar , 37 , ordinarily would be expect to crush any opponent in the Aug. 11 primary in the heavily Democratic Minneapolis-area district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The heated primary be play out in a city already wrestle with racial division and political identity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be look for the person who ’ s go to most help u and come back to the community and focus on the thing that we need on the ground , ” she say through an interpreter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-minnesota-house-district-5.html",
+            "content": "A mob of people loyal to President Trump storm the Capitol , halt Congress ’ s counting of the electoral vote to confirm President-elect Joseph R. Biden Jr. ’ s victory . Read more ›\nCalifornia have certify it elector for the 2020 election , officially give Joseph R. Biden Jr. more than the 270 pledge elector need to become president . Some state and county will report candidate vote total for mail-in ballot , but some place may not report comprehensive vote type data . Read more ›\nJoseph R. Biden Jr. have receive a majority of vote from the Electoral College , formally secure the presidency in the manner set out in the Constitution .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "A mob of people loyal to President Trump storm the Capitol , halt Congress ’ s counting of the electoral vote to confirm President-elect Joseph R. Biden Jr. ’ s victory .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Read more ›\nCalifornia have certify it elector for the 2020 election , officially give Joseph R. Biden Jr. more than the 270 pledge elector need to become president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some state and county will report candidate vote total for mail-in ballot , but some place may not report comprehensive vote type data .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Read more ›\nJoseph R. Biden Jr. have receive a majority of vote from the Electoral College , formally secure the presidency in the manner set out in the Constitution .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mprnews.org/story/2019/07/18/omar-minneapolis-event",
+            "content": "Minnesota U.S. Rep. Ilhan Omar return to a joyous welcome in her home district Thursday , follow a string of racist remark President Trump and his supporter aim at Omar and three member of Congress — all woman of color . “ His nightmare be see the beautiful mosaic fabric of our country welcome someone like me a their member of Congress , ” Omar say .",
+            "domain": "www.mprnews.org",
+            "tokenized": [
+                {
+                    "sent": "Minnesota U.S. Rep. Ilhan Omar return to a joyous welcome in her home district Thursday , follow a string of racist remark President Trump and his supporter aim at Omar and three member of Congress — all woman of color .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ His nightmare be see the beautiful mosaic fabric of our country welcome someone like me a their member of Congress , ” Omar say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://omarfateh.org/endorsements.html",
+            "content": "Hear from the chair of the DFL , Ken Martin , about why Omar Fateh be the best candidate to lead our district and our state into the future :\nOur campaign have be connect with progressive , local elect leader at the city and county level who represent the resident of District 62 . Our voice be often shut out from the conversation but I ’ m excite to vote for a candidate that will prioritize u , center his politics around u , and will bring needed change to our politics and the senate . Anyone who be eligible to vote can have their voice heard in the endorse process by show up to caucus and become delegate the the Senate District Convention . As a School Board Director and Senate District 62 resident , I be ask you to elect Omar Fateh to the Minnesota Senate this August 11th . '' I ’ m excite to support Omar Fateh for Senate District 62 because he will push for bold change and a politics of abundance . '' On Caucus night , several hundred resident of District 62 show up to become delegate for Omar Fateh . Rather than steer away from difficult conversation , Omar Fateh have take these issue head-on . The DFL endorsment process give candidate the opportunity to win with organized people instead of organize money and build the support of the some of the most engaged voter in their district and without need to raise ten of thousand . Over the course of several week , our campaign earn the support of a stunning 72.4 % of the delegate to make Omar Fateh the next Senator represent District 62 . Party leader know that Omar Fateh be the candidate we need to elect progressive Democrats up and down the ticket , now and in future election . Both Omar Fateh and Jeff Hayden agree in advance of the convention to abide by the DFL endorsement . `` I ’ m support Omar Fateh for SD 62 because he understand the current issue our district be face . It be common for candidate to pledge to abide by the endorsement , mean they will accept the outcome of the convention a the will of the people and wo n't run against an endorsed candidate . He appeal to the progressive base of District 62 and brings historically disenfranchised community into the process , such a renter , community of color , and work class Minnesotans a a whole . I ’ m proud to support him to represent district 62 in the Minnesota Senate ''\n`` I organize with my community to empower Latinxs to make political change .",
+            "domain": "omarfateh.org",
+            "tokenized": [
+                {
+                    "sent": "Hear from the chair of the DFL , Ken Martin , about why Omar Fateh be the best candidate to lead our district and our state into the future :\nOur campaign have be connect with progressive , local elect leader at the city and county level who represent the resident of District 62 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our voice be often shut out from the conversation but I ’ m excite to vote for a candidate that will prioritize u , center his politics around u , and will bring needed change to our politics and the senate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anyone who be eligible to vote can have their voice heard in the endorse process by show up to caucus and become delegate the the Senate District Convention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a School Board Director and Senate District 62 resident , I be ask you to elect Omar Fateh to the Minnesota Senate this August 11th . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ m excite to support Omar Fateh for Senate District 62 because he will push for bold change and a politics of abundance . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Caucus night , several hundred resident of District 62 show up to become delegate for Omar Fateh .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rather than steer away from difficult conversation , Omar Fateh have take these issue head-on .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The DFL endorsment process give candidate the opportunity to win with organized people instead of organize money and build the support of the some of the most engaged voter in their district and without need to raise ten of thousand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the course of several week , our campaign earn the support of a stunning 72.4 % of the delegate to make Omar Fateh the next Senator represent District 62 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Party leader know that Omar Fateh be the candidate we need to elect progressive Democrats up and down the ticket , now and in future election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both Omar Fateh and Jeff Hayden agree in advance of the convention to abide by the DFL endorsement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I ’ m support Omar Fateh for SD 62 because he understand the current issue our district be face .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be common for candidate to pledge to abide by the endorsement , mean they will accept the outcome of the convention a the will of the people and wo n't run against an endorsed candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He appeal to the progressive base of District 62 and brings historically disenfranchised community into the process , such a renter , community of color , and work class Minnesotans a a whole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ m proud to support him to represent district 62 in the Minnesota Senate ''\n`` I organize with my community to empower Latinxs to make political change .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.southwestjournal.com/news/2020/05/challenger-omar-fateh-wins-dfl-endorsement/",
+            "content": "University of Minnesota business analyst Omar Fateh earn 72 % of 582 vote cast during the District 62 DFL convention , which be hold remotely on May 7 . He say a significant portion of mailer his campaign send delegate be return , indicate that some delegate who cast vote might not live in the district . A 30-year-old self-described Democratic socialist be celebrate his DFL endorsement in a state Senate district that include Whittier , Lyndale and Kingfield , but his incumbent opponent be urge the party to reconsider it support . “ I believe that the district be ready for a change , ” he say .",
+            "domain": "www.southwestjournal.com",
+            "tokenized": [
+                {
+                    "sent": "University of Minnesota business analyst Omar Fateh earn 72 % of 582 vote cast during the District 62 DFL convention , which be hold remotely on May 7 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say a significant portion of mailer his campaign send delegate be return , indicate that some delegate who cast vote might not live in the district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A 30-year-old self-described Democratic socialist be celebrate his DFL endorsement in a state Senate district that include Whittier , Lyndale and Kingfield , but his incumbent opponent be urge the party to reconsider it support .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I believe that the district be ready for a change , ” he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://democraticredistricting.com/fair-districts-pledge/",
+            "content": "I pledge to support fair redistricting that end map manipulation and create truly representative district . Sign the Fair Districts Pledge and commit to fight for fair , representative district . That ’ s why the NDRC be fight back to even the playing field and make sure every voter be hear . Download the pledge here , sign it , and then email info @ democraticredistricting.com for additional instruction . For too long , partisan gerrymandering have be use a a tool to manipulate electoral district to benefit political party instead of the voter .",
+            "domain": "democraticredistricting.com",
+            "tokenized": [
+                {
+                    "sent": "I pledge to support fair redistricting that end map manipulation and create truly representative district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sign the Fair Districts Pledge and commit to fight for fair , representative district .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s why the NDRC be fight back to even the playing field and make sure every voter be hear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Download the pledge here , sign it , and then email info @ democraticredistricting.com for additional instruction .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For too long , partisan gerrymandering have be use a a tool to manipulate electoral district to benefit political party instead of the voter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/rep-ilhan-omar-faces-tough-primary-challenge-minnesota/story?id=72282294",
+            "content": "Melton-Meaux repeatedly critique Omar a disengaged from her constituent , more focused on achieve personal fame and national celebrity than on resolve the district 's problem . Melton-Meaux use his influx in campaign donation to push his message across television airwave , pledge in one of his advertisement that he would `` be chase camera or sell book , '' a he suggest Omar have . `` In the 5th [ Congressional ] District we believe in have marginalize voice be prioritize , '' he add . According to the Omar campaign , with 95.8 % of vote in , the congresswoman increase her margin of victory by 9.15 % over 2018 , despite be outspent by 400 % , with more than $ 6 million be spend to defeat her from primary challenger and conservative outside group . Rep. Ilhan Omar win one of the most closely-watched and most expensive primary in Minnesota on Tuesday , accord to a projection by The Associated Press . Larry Jacobs , a professor of political science at the University of Minnesota , say that he expect Omar to face a tough fight , but he still expect her to `` prevail '' if turnout be in her favor because she be a progressive in a progressive district -- who win by more than 70 % in 2018 and have experience run campaign , whereas Melton-Meaux be `` new to politics . '' And we believe that this congressional seat be one that belong to the people and will remain with the people . ''",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Melton-Meaux repeatedly critique Omar a disengaged from her constituent , more focused on achieve personal fame and national celebrity than on resolve the district 's problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melton-Meaux use his influx in campaign donation to push his message across television airwave , pledge in one of his advertisement that he would `` be chase camera or sell book , '' a he suggest Omar have .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` In the 5th [ Congressional ] District we believe in have marginalize voice be prioritize , '' he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to the Omar campaign , with 95.8 % of vote in , the congresswoman increase her margin of victory by 9.15 % over 2018 , despite be outspent by 400 % , with more than $ 6 million be spend to defeat her from primary challenger and conservative outside group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rep. Ilhan Omar win one of the most closely-watched and most expensive primary in Minnesota on Tuesday , accord to a projection by The Associated Press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Larry Jacobs , a professor of political science at the University of Minnesota , say that he expect Omar to face a tough fight , but he still expect her to `` prevail '' if turnout be in her favor because she be a progressive in a progressive district -- who win by more than 70 % in 2018 and have experience run campaign , whereas Melton-Meaux be `` new to politics . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And we believe that this congressional seat be one that belong to the people and will remain with the people . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/news/articles/2019-11-21/rep-ilhan-omar-s-1-trillion-public-housing-push",
+            "content": "Omar ’ s Homes for All Act plant a flag for an unapologetic public housing agenda . It would mark the first commitment to public housing since the Clinton era , when Congress shred this part of the social safety net . In many city , proven approach to rental affordability—namely build more home everywhere—have fall short .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "Omar ’ s Homes for All Act plant a flag for an unapologetic public housing agenda .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It would mark the first commitment to public housing since the Clinton era , when Congress shred this part of the social safety net .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In many city , proven approach to rental affordability—namely build more home everywhere—have fall short .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-47238450",
+            "content": "But the controversy continue when Ms Omar , speaking at a Washington DC event in March , question what she term `` the political influence in this country that say it be OK for people to push for allegiance to a foreign country '' - in reference to pro-Israel lobbying . Originally work in education , she begin her political career manage city council campaign and work a a senior policy aide for Minnesota politician . Supporters greet Ilhan Omar 's emotional victory speech with rapturous applause when the Democrat win Minnesota 's fifth congressional district in November 2018 . The controversy deepen when she attack the American Israel Public Affairs Committee ( AIPAC ) , claim the lobby group be pay politician to vote for pro-Israel policy .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "But the controversy continue when Ms Omar , speaking at a Washington DC event in March , question what she term `` the political influence in this country that say it be OK for people to push for allegiance to a foreign country '' - in reference to pro-Israel lobbying .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Originally work in education , she begin her political career manage city council campaign and work a a senior policy aide for Minnesota politician .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Supporters greet Ilhan Omar 's emotional victory speech with rapturous applause when the Democrat win Minnesota 's fifth congressional district in November 2018 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The controversy deepen when she attack the American Israel Public Affairs Committee ( AIPAC ) , claim the lobby group be pay politician to vote for pro-Israel policy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.opensecrets.org/members-of-congress/lucy-mcbath/news?cid=N00042813&cycle=2020",
+            "content": "Fifty-two member of the 116th Congress — include 50 Democrats and 35 new member — pledge to reject money from corporate PACs this cycle .",
+            "domain": "www.opensecrets.org",
+            "tokenized": [
+                {
+                    "sent": "Fifty-two member of the 116th Congress — include 50 Democrats and 35 new member — pledge to reject money from corporate PACs this cycle .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://pressley.house.gov/media/press-releases/following-george-floyd-murder-reps-pressley-omar-bass-lee-introduce-house",
+            "content": "As the People ’ s House , the House of Representatives must acknowledge these historical injustice and call for a comprehensive solution . “ From slavery to lynch to Jim Crow , Black people in this country have be brutalize and dehumanize for century , ” say Congresswoman Omar .",
+            "domain": "pressley.house.gov",
+            "tokenized": [
+                {
+                    "sent": "As the People ’ s House , the House of Representatives must acknowledge these historical injustice and call for a comprehensive solution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ From slavery to lynch to Jim Crow , Black people in this country have be brutalize and dehumanize for century , ” say Congresswoman Omar .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://history.house.gov/Institution/Origins-Development/Oath-of-Office/",
+            "content": "” — U.S. Constitution , Article VI , clause 3\nSpeaker of the House , Joseph Cannon of Illinois take the oath of office at the opening of the 59th Congress ( 1905—1907 ) ./tiles/non-collection/i/i_origins_cannon_oath_pa2013_03_0022.xml\nSpeaker of the House , Joseph Cannon of Illinois take the oath of office at the opening of the 59th Congress ( 1905—1907 ) . It read : “ I , AB , do solemnly swear ( or affirm ) that I will support and defend the Constitution of the United States against all enemy , foreign and domestic ; that I will bear true faith and allegiance to the same ; that I take this obligation freely , without any mental reservation or purpose of evasion , and that I will well and faithfully discharge the duty of the office on which I be about to enter . The Speaker or Speaker Pro Tempore must swear in member who miss the mass swearing-in ceremony on the first day afterward ; on rare occasion , the House have authorize other Members or local judge to swear-in absent Representatives.The current practice for swearing-in Members be an innovation of Speaker Nicholas Longworth of Ohio , who abandon the practice of Members take the oath by state delegation in 1929 . In Federalist 44 , James Madison of Virginia argue that federal official lack the power to uphold state constitution but that state official play an important role uphold the U.S. Constitution . During the Civil War , Congress mandate that the oath bar from office anyone who have be disloyal to the Union . Longworth alter the practice because he hop the mass swearing-in would better “ comport with the dignity and solemnity ” of the ceremony and , accord to some historical account , to avoid a potential attempt to challenge the seating of Oscar De Priest of Illinois , the first African American elect to Congress in the 20th century . When the subject of an oath arose during the Federal Constitutional Convention , the founder be divide . ” In contrast to the presidential oath , where it ’ s use only by tradition , the phrase “ so help me God ” have be part of the official oath of office for non-presidential office since 1862 . The founder decide to require an oath for federal and state officials—absent a religious test—in the Constitution , but the specifics—such a the wording of the oath—were left to the First Congress ( 1789–1791 ) . Oaths of office and allegiance have be feature of government for century . Today , Members of the House take an oath to uphold the Constitution in a group swearing-in on the House Floor on the opening day of a new Congress . When the United States be colony of Great Britain , official swear allegiance to the king . Representatives usually take their oath during the first day of a new Congress , when the House organize itself . Eventually , those element of the “ iron-clad ” oath be drop during revision in 1868 , 1871 , and 1884 .",
+            "domain": "history.house.gov",
+            "tokenized": [
+                {
+                    "sent": "” — U.S. Constitution , Article VI , clause 3\nSpeaker of the House , Joseph Cannon of Illinois take the oath of office at the opening of the 59th Congress ( 1905—1907 ) ./tiles/non-collection/i/i_origins_cannon_oath_pa2013_03_0022.xml\nSpeaker of the House , Joseph Cannon of Illinois take the oath of office at the opening of the 59th Congress ( 1905—1907 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It read : “ I , AB , do solemnly swear ( or affirm ) that I will support and defend the Constitution of the United States against all enemy , foreign and domestic ; that I will bear true faith and allegiance to the same ; that I take this obligation freely , without any mental reservation or purpose of evasion , and that I will well and faithfully discharge the duty of the office on which I be about to enter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Speaker or Speaker Pro Tempore must swear in member who miss the mass swearing-in ceremony on the first day afterward ; on rare occasion , the House have authorize other Members or local judge to swear-in absent Representatives.The current practice for swearing-in Members be an innovation of Speaker Nicholas Longworth of Ohio , who abandon the practice of Members take the oath by state delegation in 1929 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Federalist 44 , James Madison of Virginia argue that federal official lack the power to uphold state constitution but that state official play an important role uphold the U.S. Constitution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the Civil War , Congress mandate that the oath bar from office anyone who have be disloyal to the Union .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Longworth alter the practice because he hop the mass swearing-in would better “ comport with the dignity and solemnity ” of the ceremony and , accord to some historical account , to avoid a potential attempt to challenge the seating of Oscar De Priest of Illinois , the first African American elect to Congress in the 20th century .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the subject of an oath arose during the Federal Constitutional Convention , the founder be divide .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” In contrast to the presidential oath , where it ’ s use only by tradition , the phrase “ so help me God ” have be part of the official oath of office for non-presidential office since 1862 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The founder decide to require an oath for federal and state officials—absent a religious test—in the Constitution , but the specifics—such a the wording of the oath—were left to the First Congress ( 1789–1791 ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Oaths of office and allegiance have be feature of government for century .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Today , Members of the House take an oath to uphold the Constitution in a group swearing-in on the House Floor on the opening day of a new Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the United States be colony of Great Britain , official swear allegiance to the king .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Representatives usually take their oath during the first day of a new Congress , when the House organize itself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eventually , those element of the “ iron-clad ” oath be drop during revision in 1868 , 1871 , and 1884 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.grandforksherald.com/news/government-and-politics/977449-Rep.-Omar-signs-on-to-pledge-to-impeach-Trump",
+            "content": "The group , which bill itself a By the People , announce Tuesday that the freshman lawmaker - both of whom have be at the center of controversy during their short tenure on Capitol Hill - be the `` brave first '' member of Congress to sign it pledge . Alexandra Flores-Quilty , a spokeswoman for By the People , say the group plan to continue ask member of Congress `` to show moral leadership '' by the sign it pledge . `` I ca n't wait for u to show people , especially family in my district , that they be be put first - and that we 're go to hold everyone accountable to the law , include the President of the United States . '' `` It 's my pleasure to support this pledge to impeach Donald Trump , '' Tlaib say in the statement , which her office authenticate . A spokesman for Omar also confirm her signing of the pledge . `` We can let the Trump administration continue to corrupt our government and endanger our life - or we can join together to remove Trump from office and make our government work for all of u , '' Flores-Quilty say in a statement .",
+            "domain": "www.grandforksherald.com",
+            "tokenized": [
+                {
+                    "sent": "The group , which bill itself a By the People , announce Tuesday that the freshman lawmaker - both of whom have be at the center of controversy during their short tenure on Capitol Hill - be the `` brave first '' member of Congress to sign it pledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Alexandra Flores-Quilty , a spokeswoman for By the People , say the group plan to continue ask member of Congress `` to show moral leadership '' by the sign it pledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I ca n't wait for u to show people , especially family in my district , that they be be put first - and that we 're go to hold everyone accountable to the law , include the President of the United States . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's my pleasure to support this pledge to impeach Donald Trump , '' Tlaib say in the statement , which her office authenticate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A spokesman for Omar also confirm her signing of the pledge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We can let the Trump administration continue to corrupt our government and endanger our life - or we can join together to remove Trump from office and make our government work for all of u , '' Flores-Quilty say in a statement .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}
