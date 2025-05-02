@@ -1,0 +1,918 @@
+{
+  "event_id": "241798",
+  "claim": "The first cases of COVID-19 were reported in the United States and South Korea on the same day. ",
+  "original_label": "true",
+  "label": "true",
+  "explain": "In March 2020, as the daily rate of new cases of the COVID-19 coronavirus disease was increasing in the United States and decreasing in South Korea, a message started to circulate on social media claiming that these two countries had seen their first confirmed cases of infection by the novel coronavirus on the same day:\n\nSouth Korea and the United States did indeed confirm their first cases of COVID-19 on the same day, Jan. 20, 2020. According to the World Health Organization (WHO), the first South Korean case of COVID-19 was detected in a 35-year-old woman who had been living in Wuhan, China:\nOn 20 January 2020, National IHR Focal Point (NFP) for Republic of Korea reported the first case of novel coronavirus in the Republic of Korea. The case is a 35-year-old female, Chinese national, residing in Wuhan, Hubei province in China.\nThat same day, a 35-year-old man who had recently returned to the United States from Wuhan, China, was also diagnosed with the disease. The New England Journal of Medicine reported:\nOn January 20, 2020, the CDC [Centers for Disease Control and Prevention] confirmed that the patient\u2019s nasopharyngeal and oropharyngeal swabs tested positive for 2019-nCoV by real-time reverse-transcriptase\u2013polymerase-chain-reaction (rRT-PCR) assay. In coordination with CDC subject-matter experts, state and local health officials, emergency medical services, and hospital leadership and staff, the patient was admitted to an airborne-isolation unit at Providence Regional Medical Center for clinical observation, with health care workers following CDC recommendations for contact, droplet, and airborne precautions with eye protection.\nThe CDC announced that it had confirmed the first U.S. case of COVID-19 in a press release the following day, and a CDC spokesperson told Snopes.com that the patient tested positive for the novel coronavirus on the evening of Jan. 20. The press release came the following morning to give health officials time to notify the patient and discuss the special circumstances of the case.\u00a0\nWhile these countries both detected their first cases of COVID-19 on the same day, they took different approaches to treating the disease and have so far seen vastly different results. At the time of this writing on March 23, 2020, the number of cases in the U.S. had topped 35,000. South Korea had less than 9,000 cases and reported its lowest number of new cases since rates peaked at the end of February.\nOne possible explanation as to why South Korea was relatively successful in combating the disease, while the United States struggled to keep it contained during its initial weeks, may have to do with how each country reacted in the earliest days of the impending pandemic. In brief, South Korea\u2019s first action to fight the spread of COVID-19 was to aggressively start testing people for the disease and quarantine those who tested positive. The United States\u2019 first actions were aimed at restricting travel from China.\u00a0\nA special report from Reuters noted that South Korean health officials gathered in late January 2020 and decided that the need for testing was urgent. South Korea\u2019s CDC approved its first diagnostic test the following week, and by the end of February, drive-thru testing facilities that screened thousands of people a day were in operation.\u00a0\nThe United States took a different approach.\u00a0\nWhen the first patient was diagnosed with COVID-19 in the United States in January 2020, President Donald Trump announced a set of travel restrictions on Jan. 31, 2020, that prohibited travelers from arriving from China, the epicenter of the outbreak. The restrictions also required American citizens returning home from China to be screened at airports and monitored for 14 days after their arrival.\u00a0\nWhile the Trump administration did take action to combat the spread of COVID-19 shortly after the first patient was diagnosed in the U.S., the country did not, as South Korea did, immediately ramp up diagnostic testing. According to Reuters, South Korea conducted nearly 300,000 tests within two months of diagnosing their first COVID-19 patient. By contrast, the U.S. only conducted about 60,000 tests in that same time period.\nReuters reported (on March 18):\nSouth Korea\u2019s swift action stands in stark contrast to what has transpired in the United States. Seven weeks after the train station meeting, the Koreans have tested well over 290,000 people and identified over 8,000 infections. New cases are falling off: Ninety-three were reported Wednesday, down from a daily peak of 909 two weeks earlier.\nThe United States, whose first case was detected the same day as South Korea\u2019s, is not even close to meeting demand for testing. About 60,000 tests have been run by public and private labs in a country of 330 million, federal officials said Tuesday.\nThe spread of COVID-19 will undoubtedly be studied in greater detail, but we may not know the specific reasons as to why the disease spread the way it did in different locations for some time. However, the fact remains that while the United States and South Korea both confirmed their first cases of COVID-19 on the same day (Jan. 20, 2020), but the United States struggled to slow the spread of the disease in the same time period that South Korea was largely successful at mitigating its spread.\u00a0",
+  "reports": [
+    {
+      "link": "https://www.vox.com/science-and-health/2020/2/29/21159055/coronavirus-death-us-south-korea-cases",
+      "content": "The first report US Covid-19 death come as 800 new case be confirm in South Korea . The news of the death come on the same day South Korean official report the big daily jump in infection in the country since the virus be first discover six week ago and the day after the World Health Organization raise it Covid-19 risk assessment worldwide to the high level . The first Covid-19 death in the United States be announce Saturday by Washington state health official . As US health official work to respond to the report of new case , South Korean official announce more than 800 new case of Covid-19 Saturday , bring the total number of confirmed case in the country to 3,150 . The first South Korean novel coronavirus case be just discover six week ago , and since that time , it have already suffer 17 death due to the virus . The death come follow a Friday report of four new Covid-19 \u2014 the disease cause by the novel coronavirus know a SARS-CoV-2 \u2014 case in three US state : one in Oregon , one in California and two in Washington . South Korean official be call the increase a \u201c critical moment \u201d in the virus \u2019 s spread , and have warn people to practice \u201c social distancing \u201d for the next few day . North Korea have already close it border with Russia and with China , where the virus first emerge in December . South Korea have the second-highest number of confirmed case worldwide , follow behind China . This have lead medical expert to raise concern that Covid-19 might be spread within the US .",
+      "domain": "www.vox.com",
+      "tokenized": [
+        {
+          "sent": "The first report US Covid-19 death come as 800 new case be confirm in South Korea .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The news of the death come on the same day South Korean official report the big daily jump in infection in the country since the virus be first discover six week ago and the day after the World Health Organization raise it Covid-19 risk assessment worldwide to the high level .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The first Covid-19 death in the United States be announce Saturday by Washington state health official .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As US health official work to respond to the report of new case , South Korean official announce more than 800 new case of Covid-19 Saturday , bring the total number of confirmed case in the country to 3,150 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The first South Korean novel coronavirus case be just discover six week ago , and since that time , it have already suffer 17 death due to the virus .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The death come follow a Friday report of four new Covid-19 \u2014 the disease cause by the novel coronavirus know a SARS-CoV-2 \u2014 case in three US state : one in Oregon , one in California and two in Washington .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korean official be call the increase a \u201c critical moment \u201d in the virus \u2019 s spread , and have warn people to practice \u201c social distancing \u201d for the next few day .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "North Korea have already close it border with Russia and with China , where the virus first emerge in December .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea have the second-highest number of confirmed case worldwide , follow behind China .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This have lead medical expert to raise concern that Covid-19 might be spread within the US .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.businessinsider.com/coronavirus-outbreak-growth-curves-for-us-and-south-korea-compared-2020-3",
+      "content": "The US and South Korea report their first coronavirus case on the same day . South Korea , by contrast , can test ten of thousand of people per day for COVID-19 . In South Korea , which institute widespread testing , the number of new case report each day seem to be low than the one prior \u2014 a sign the country have curb it outbreak . In the month follow South Korea 's first confirm case , the number of case report there remain low . South Korea 's total number of case be high than the US 's \u2014 the former have more than 8,300 , while the latter have at least 6,400 \u2014 but the trajectory of those case day by day show two different reality . Between February 20 and 29 , the number of new case report jumped each day , peak on February 29 with 909 new case . The US 's epidemic curve start off look similar to South Korea 's . South Korea 's robust testing also likely mean it confirmed-case count be a more accurate representation of the number of case in the country than the US 's .",
+      "domain": "www.businessinsider.com",
+      "tokenized": [
+        {
+          "sent": "The US and South Korea report their first coronavirus case on the same day .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea , by contrast , can test ten of thousand of people per day for COVID-19 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In South Korea , which institute widespread testing , the number of new case report each day seem to be low than the one prior \u2014 a sign the country have curb it outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the month follow South Korea 's first confirm case , the number of case report there remain low .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea 's total number of case be high than the US 's \u2014 the former have more than 8,300 , while the latter have at least 6,400 \u2014 but the trajectory of those case day by day show two different reality .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Between February 20 and 29 , the number of new case report jumped each day , peak on February 29 with 909 new case .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The US 's epidemic curve start off look similar to South Korea 's .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea 's robust testing also likely mean it confirmed-case count be a more accurate representation of the number of case in the country than the US 's .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thenewstribune.com/news/coronavirus/article241386441.html",
+      "content": "The United States and South Korea each report their first confirm case of the coronavirus to the World Health Organization on Jan. 20 . South Korea saw a spike in case in late February , which peak at 909 new case on Feb. 29 , accord to a report from Business Insider Magazine . And while case in South Korea be on the decline , the number of case in the U.S. be grow at a fast rate than any other country in the world a of March 19 , accord to Hopkins \u2019 research . South Korea have more than 8,600 confirmed case and 94 death . Two month later , the U.S. have nearly 9,000 more confirmed case than South Korea , accord to Johns Hopkins University .",
+      "domain": "www.thenewstribune.com",
+      "tokenized": [
+        {
+          "sent": "The United States and South Korea each report their first confirm case of the coronavirus to the World Health Organization on Jan. 20 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea saw a spike in case in late February , which peak at 909 new case on Feb. 29 , accord to a report from Business Insider Magazine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And while case in South Korea be on the decline , the number of case in the U.S. be grow at a fast rate than any other country in the world a of March 19 , accord to Hopkins \u2019 research .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea have more than 8,600 confirmed case and 94 death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Two month later , the U.S. have nearly 9,000 more confirmed case than South Korea , accord to Johns Hopkins University .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://hbr.org/2020/03/why-is-the-u-s-behind-on-coronavirus-testing",
+      "content": "While South Korea have test about 4,000 people per million of it population at the time , the United States have just run five test per million \u2014 despite the fact that they both report their first case at essentially the same time ( on January 21 and 20 ) .",
+      "domain": "hbr.org",
+      "tokenized": [
+        {
+          "sent": "While South Korea have test about 4,000 people per million of it population at the time , the United States have just run five test per million \u2014 despite the fact that they both report their first case at essentially the same time ( on January 21 and 20 ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.brookings.edu/blog/order-from-chaos/2020/04/13/a-tale-of-two-koreas-in-the-age-of-coronavirus/",
+      "content": "By early March , South Korea be be hail around the world a the model for how to deal with COVID-19 , even a the case grow to tragic proportion elsewhere , like in Italy and the United States . But in recent month , both North and South Korea have be in the news for how they be manage the COVID-19 outbreak . One South Korean company be produce 350,000 test kit per day , and be plan to export them to around 60 country , include the United States . Though still battle a few dozen new case per day , South Korea have be able to export it expertise . Reports trickle out of North Korea suggest that coronavirus have affect it citizen . \u201d\nDespite the regime \u2019 s denial , North Korea almost certainly have case of coronavirus , give it location between China , where the pandemic originate and where there have be over 82,000 confirmed case ( and from where a robust flow of trader and smuggler operate along the border with North Korea ) , and South Korea , with over 10,000 confirmed case . In late March , one regional press report that over 100 North Korean troop \u2014 station near the border with China and who have COVID-19 symptom \u2014 have die since February . The commander of U.S. force in Korea , Robert Abrams , say he be \u201c fairly certain \u201d that the virus have affect North Koreans , indicate that the North \u2019 s military have \u201c fundamentally be on lockdown for about 30 day .",
+      "domain": "www.brookings.edu",
+      "tokenized": [
+        {
+          "sent": "By early March , South Korea be be hail around the world a the model for how to deal with COVID-19 , even a the case grow to tragic proportion elsewhere , like in Italy and the United States .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But in recent month , both North and South Korea have be in the news for how they be manage the COVID-19 outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "One South Korean company be produce 350,000 test kit per day , and be plan to export them to around 60 country , include the United States .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Though still battle a few dozen new case per day , South Korea have be able to export it expertise .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Reports trickle out of North Korea suggest that coronavirus have affect it citizen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nDespite the regime \u2019 s denial , North Korea almost certainly have case of coronavirus , give it location between China , where the pandemic originate and where there have be over 82,000 confirmed case ( and from where a robust flow of trader and smuggler operate along the border with North Korea ) , and South Korea , with over 10,000 confirmed case .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In late March , one regional press report that over 100 North Korean troop \u2014 station near the border with China and who have COVID-19 symptom \u2014 have die since February .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The commander of U.S. force in Korea , Robert Abrams , say he be \u201c fairly certain \u201d that the virus have affect North Koreans , indicate that the North \u2019 s military have \u201c fundamentally be on lockdown for about 30 day .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-health-coronavirus-testing-specialrep/special-report-how-korea-trounced-u-s-in-race-to-test-people-for-coronavirus-idUSKBN2153BW",
+      "content": "The United States , whose first case be detect the same day a South Korea \u2019 s , be not even close to meet demand for test . South Korea \u2019 s swift action stand in stark contrast to what have transpire in the United States . That same day , the Trump administration confirm the first death in the United States from the coronavirus , a man in his 50 in Washington state . How the United States fell so far behind South Korea , accord to infectious disease expert , clinician and state and local official , be a tale of many contrast in the two nation \u2019 public health system : a streamlined bureaucracy versus a congested one , bold versus cautious leadership , and a sense of urgency versus a reliance on protocol . South Korea take a risk , release briskly vet test , then circle back later to spot check their effectiveness . A week after the Jan. 27 meeting , South Korea \u2019 s CDC approve one company \u2019 s diagnostic test . By the end of February , South Korea be make headline around the world for it drive-through screening center and ability to test thousand of people daily . South Korea have a much good sense of what be happen . \u201c Maybe we should look into purchase South Korea \u2019 s test . \u201d\nChad Terhune report from Los Angeles ; Dan Levine and Jane Lee report from San Francisco and Hyunjoo Jin from South Korea . The declaration ease the way for drugmakers to pursue vaccine and antiviral treatment for COVID-19 . Instead of draft the private sector early on to develop test , a South Korea do , U.S. health official rely , a be customary , on test kit prepare by the U.S. Centers for Disease Control and Prevention , some of which prove faulty . One of the country \u2019 s top infectious disease official deliver an urgent message : South Korea need an effective test immediately to detect the novel coronavirus , then run rampant in China . This testing-backed offensive help South Korea reduce the number of new case over a matter of week , serve a a model for other country grapple with the pandemic .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "The United States , whose first case be detect the same day a South Korea \u2019 s , be not even close to meet demand for test .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea \u2019 s swift action stand in stark contrast to what have transpire in the United States .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That same day , the Trump administration confirm the first death in the United States from the coronavirus , a man in his 50 in Washington state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "How the United States fell so far behind South Korea , accord to infectious disease expert , clinician and state and local official , be a tale of many contrast in the two nation \u2019 public health system : a streamlined bureaucracy versus a congested one , bold versus cautious leadership , and a sense of urgency versus a reliance on protocol .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea take a risk , release briskly vet test , then circle back later to spot check their effectiveness .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A week after the Jan. 27 meeting , South Korea \u2019 s CDC approve one company \u2019 s diagnostic test .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "By the end of February , South Korea be make headline around the world for it drive-through screening center and ability to test thousand of people daily .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea have a much good sense of what be happen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Maybe we should look into purchase South Korea \u2019 s test .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nChad Terhune report from Los Angeles ; Dan Levine and Jane Lee report from San Francisco and Hyunjoo Jin from South Korea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The declaration ease the way for drugmakers to pursue vaccine and antiviral treatment for COVID-19 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Instead of draft the private sector early on to develop test , a South Korea do , U.S. health official rely , a be customary , on test kit prepare by the U.S. Centers for Disease Control and Prevention , some of which prove faulty .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One of the country \u2019 s top infectious disease official deliver an urgent message : South Korea need an effective test immediately to detect the novel coronavirus , then run rampant in China .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This testing-backed offensive help South Korea reduce the number of new case over a matter of week , serve a a model for other country grapple with the pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://wwwnc.cdc.gov/eid/article/26/10/20-1315_article",
+      "content": "The first case of COVID-19 be identify on January 20 , 2020 ; by May 13 , a total of 10,962 case have be report . All report COVID-19 patient be test use reverse transcription PCR , and case information be send to Korea Centers for Disease Control and Prevention . We analyze report for 59,073 contact of 5,706 coronavirus disease ( COVID-19 ) index patient report in South Korea during January 20\u2013March 27 , 2020 . Despite these limitation , the sample size be large and representative of most COVID-19 patient early during the outbreak in South Korea . We define a detected case a a contact with symptom onset after that of a confirm COVID-19 index patient . We monitor 59,073 contact of 5,706 COVID-19 index patient for an average of 9.9 ( range 8.2\u201312.5 ) day after severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) infection be detect ( Table 1 ) . Of 48,481 nonhousehold contact , 1.9 % have COVID-19 . For most age group , COVID-19 be detect in significantly more household than nonhousehold contact ( Table 2 ) . Comparing symptomatic COVID-19 patient of both group would be more accurate . Recent report on COVID-19 transmission have estimate high secondary attack rate among household than nonhousehold contact . We detect COVID-19 in 11.8 % of household contact ; rate be high for contact of child than adult . Of 10,592 household contact , 11.8 % have COVID-19 .",
+      "domain": "wwwnc.cdc.gov",
+      "tokenized": [
+        {
+          "sent": "The first case of COVID-19 be identify on January 20 , 2020 ; by May 13 , a total of 10,962 case have be report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "All report COVID-19 patient be test use reverse transcription PCR , and case information be send to Korea Centers for Disease Control and Prevention .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "We analyze report for 59,073 contact of 5,706 coronavirus disease ( COVID-19 ) index patient report in South Korea during January 20\u2013March 27 , 2020 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Despite these limitation , the sample size be large and representative of most COVID-19 patient early during the outbreak in South Korea .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We define a detected case a a contact with symptom onset after that of a confirm COVID-19 index patient .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "We monitor 59,073 contact of 5,706 COVID-19 index patient for an average of 9.9 ( range 8.2\u201312.5 ) day after severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) infection be detect ( Table 1 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Of 48,481 nonhousehold contact , 1.9 % have COVID-19 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For most age group , COVID-19 be detect in significantly more household than nonhousehold contact ( Table 2 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Comparing symptomatic COVID-19 patient of both group would be more accurate .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Recent report on COVID-19 transmission have estimate high secondary attack rate among household than nonhousehold contact .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "We detect COVID-19 in 11.8 % of household contact ; rate be high for contact of child than adult .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Of 10,592 household contact , 11.8 % have COVID-19 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://ourworldindata.org/covid-testing-us-uk-korea-italy",
+      "content": "South Korea begin widespread test very early on : in the first day of February it shift it policy to open public test available also to asymptomatic people ; and pursue contact trace for all confirm case . South Korea , Italy , UK and US all discover their first case in late January \u2013 you can see that in this chart . By the beginning of May , the total number of confirmed case in the US have pass one million \u2013 already one hundred time more than the total number of confirmed case in South Korea across the outbreak . As you see in the chart here , test quickly ramp up to more than 10,000 people per day\nBy the middle of March , South Korea have already pass the peak of it outbreak : a you see in the chart , the country never saw much more than 600 new confirm case per day . But the extensive testing come much later in the outbreak than we saw , for instance , in South Korea , and only when the outbreak have already spread significantly . In early April , the number of new confirm case pass 30,000 per day \u2013 50 time high than South Korea \u2019 s peak . Where only one in 100 people test be find to be infect \u2013 a in South Korea at the same point in time \u2013 confirm case number give a much more reliable picture of the outbreak . Where only a few test be perform for each confirmed case , this suggest that the number of confirmed case may greatly underestimate the true number of people infect with COVID-19 . The outbreak in the US continue to accelerate until mid-April \u2013 a whole month after the peak in South Korea . Whilst the four country begin in similar circumstance \u2013 with their first case of COVID-19 be discover in late January \u2013 three month later we see that each country go on to follow very different path . A similar level of test continue in South Korea , despite confirm case have fall to very low level . Italy have now pass it peak of 6,000 new confirm case per day \u2013 roughly ten time high than at the peak of South Korea \u2019 s outbreak . Testing be our window onto the Coronavirus outbreak ( COVID-19 ) . As the number of daily confirm case gradually fell from mid-April , still more case be add to that count each day than be find in South Korea over the entire outbreak .",
+      "domain": "ourworldindata.org",
+      "tokenized": [
+        {
+          "sent": "South Korea begin widespread test very early on : in the first day of February it shift it policy to open public test available also to asymptomatic people ; and pursue contact trace for all confirm case .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea , Italy , UK and US all discover their first case in late January \u2013 you can see that in this chart .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "By the beginning of May , the total number of confirmed case in the US have pass one million \u2013 already one hundred time more than the total number of confirmed case in South Korea across the outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As you see in the chart here , test quickly ramp up to more than 10,000 people per day\nBy the middle of March , South Korea have already pass the peak of it outbreak : a you see in the chart , the country never saw much more than 600 new confirm case per day .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But the extensive testing come much later in the outbreak than we saw , for instance , in South Korea , and only when the outbreak have already spread significantly .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In early April , the number of new confirm case pass 30,000 per day \u2013 50 time high than South Korea \u2019 s peak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Where only one in 100 people test be find to be infect \u2013 a in South Korea at the same point in time \u2013 confirm case number give a much more reliable picture of the outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Where only a few test be perform for each confirmed case , this suggest that the number of confirmed case may greatly underestimate the true number of people infect with COVID-19 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The outbreak in the US continue to accelerate until mid-April \u2013 a whole month after the peak in South Korea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Whilst the four country begin in similar circumstance \u2013 with their first case of COVID-19 be discover in late January \u2013 three month later we see that each country go on to follow very different path .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A similar level of test continue in South Korea , despite confirm case have fall to very low level .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Italy have now pass it peak of 6,000 new confirm case per day \u2013 roughly ten time high than at the peak of South Korea \u2019 s outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Testing be our window onto the Coronavirus outbreak ( COVID-19 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As the number of daily confirm case gradually fell from mid-April , still more case be add to that count each day than be find in South Korea over the entire outbreak .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://apnews.com/article/coronavirus-vaccine-coronavirus-pandemic-bangkok-united-nations-thailand-28c0ac865214f03dfcac116be932c103",
+      "content": "The case , disclose in a Florida Health Department statement tweet on it HealthyFla site , come after report in recent day of two individual case of the United Kingdom strain of Covid-19 discover in Colorado and California . The global body say late Thursday that the decision to issue it first emergency use validation for a COVID-19 vaccine \u201c open the door for country to expedite their own regulatory approval process to import and administer the vaccine . China on Friday report a total of 19 new virus case , include 10 that be bring from outside the country . The announcement come 24 hour after word of the first report U.S. variant infection , which emerge in Colorado \u2014 in a Colorado National Guardsman who have be send to help out at a nursing home struggle with an outbreak . Since the novel coronavirus be first detect in the central city of Wuhan in late 2019 , China have report a total of 87,071 case and 4,634 death , although some question whether those figure underreport the full extent of the outbreak in China the country .",
+      "domain": "apnews.com",
+      "tokenized": [
+        {
+          "sent": "The case , disclose in a Florida Health Department statement tweet on it HealthyFla site , come after report in recent day of two individual case of the United Kingdom strain of Covid-19 discover in Colorado and California .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The global body say late Thursday that the decision to issue it first emergency use validation for a COVID-19 vaccine \u201c open the door for country to expedite their own regulatory approval process to import and administer the vaccine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "China on Friday report a total of 19 new virus case , include 10 that be bring from outside the country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The announcement come 24 hour after word of the first report U.S. variant infection , which emerge in Colorado \u2014 in a Colorado National Guardsman who have be send to help out at a nursing home struggle with an outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since the novel coronavirus be first detect in the central city of Wuhan in late 2019 , China have report a total of 87,071 case and 4,634 death , although some question whether those figure underreport the full extent of the outbreak in China the country .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://uk.reuters.com/article/us-health-coronavirus-response-specialre/special-report-italy-and-south-korea-virus-outbreaks-reveal-disparity-in-deaths-and-tactics-idUKKBN20Z27P",
+      "content": "Both country saw their first case of the disease call COVID-19 in late January . \u201d\nIn South Korea a in Italy , an early case of COVID-19 be identify when a medical officer follow their intuition , rather than the official guideline , on test . Then , a few day after the patient know a Mattia be find to have COVID-19 , Italy change tack , only test and announce case of people with symptom . But the large outbreak be detect after the 31st patient , a 61-year-old woman from South Korea \u2019 s southeastern city of Daegu , be diagnose on Feb. 18 . South Korea \u2019 s government also use location data to customize mass message send to cellphone , notify every resident when and where a nearby case be confirm . South Korea have since report 67 death out of nearly 8,000 confirmed case , after test more than 222,000 people . In addition to help work out who to test , South Korea \u2019 s data-driven system help hospital manage their pipeline of case . The 28-year-old public health doctor spend his whole working day remotely check up on people who have test positive for COVID-19 , the disease cause by the virus . A total of 117 institution in South Korea have equipment to conduct the test , accord to the Korea Centers for Disease Control and Prevention ( KCDC ) . In South Korea , hit by the disease at about the same time , only a few thousand be quarantine and 67 people have die . South Korea do not have enough protective mask - it have start ration them - and it be try to hire more trained staff to process test and map case . The country \u2019 s first case be a 35-year-old Chinese woman who test positive on Jan. 20 .",
+      "domain": "uk.reuters.com",
+      "tokenized": [
+        {
+          "sent": "Both country saw their first case of the disease call COVID-19 in late January .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nIn South Korea a in Italy , an early case of COVID-19 be identify when a medical officer follow their intuition , rather than the official guideline , on test .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Then , a few day after the patient know a Mattia be find to have COVID-19 , Italy change tack , only test and announce case of people with symptom .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But the large outbreak be detect after the 31st patient , a 61-year-old woman from South Korea \u2019 s southeastern city of Daegu , be diagnose on Feb. 18 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea \u2019 s government also use location data to customize mass message send to cellphone , notify every resident when and where a nearby case be confirm .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea have since report 67 death out of nearly 8,000 confirmed case , after test more than 222,000 people .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to help work out who to test , South Korea \u2019 s data-driven system help hospital manage their pipeline of case .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The 28-year-old public health doctor spend his whole working day remotely check up on people who have test positive for COVID-19 , the disease cause by the virus .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A total of 117 institution in South Korea have equipment to conduct the test , accord to the Korea Centers for Disease Control and Prevention ( KCDC ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In South Korea , hit by the disease at about the same time , only a few thousand be quarantine and 67 people have die .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea do not have enough protective mask - it have start ration them - and it be try to hire more trained staff to process test and map case .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The country \u2019 s first case be a 35-year-old Chinese woman who test positive on Jan. 20 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/Coronavirus_disease_2019",
+      "content": "A study of the first 41 case of confirmed COVID-19 , publish in January 2020 in The Lancet , report the early date of onset of symptom a 1 December 2019 . [ 234 ] Nonetheless , on 3 March 2021 , scientist report that a much more contagious COVID-19 variant , Lineage P.1 , first detect in Japan , and subsequently find in Brazil , as well a in several place in the United States , may be associate with COVID-19 disease reinfection after recovery from an early COVID-19 infection . Total confirm case of COVID-19 per million people [ 244 ]\nA key metric in gauge the severity of COVID-19 be the infection fatality rate ( IFR ) , also refer to a the infection fatality ratio or infection fatality risk . [ 155 ]\nMost case of COVID-19 be mild . [ 97 ]\nThe first COVID-19 vaccine be grant regulatory approval on 2 December by the UK medicine regulator MHRA . [ 346 ]\nAfter 55 day without a locally transmitted case , [ 347 ] Beijing report a new COVID-19 case on 11 June 2020 which be follow by two more case on 12 June . [ 55 ] On 20 January , China report nearly 140 new case in one day , include two people in Beijing and one in Shenzhen . The first case be identify in Wuhan , China , in December 2019 . [ 13 ]\nThe virus that cause COVID-19 spread mainly when an infected person be in close contact [ a ] with another person . [ 81 ] Furthermore , microvascular blood vessel damage have be report in a small number of tissue sample of the brain \u2013 without detect SARS-CoV-2 \u2013 and the olfactory bulb from those who have die from COVID-19 . [ 143 ] Those who may have be expose to someone with COVID-19 and those who have recently travel to a country or region with the widespread transmission have be advise to self-quarantine for 14 day from the time of last possible exposure . [ 342 ] Research on coronavirus genome indicate the majority of COVID-19 case in New York come from European traveller , rather than directly from China or any other Asian country . [ 351 ] A September 2020 review journal article say , `` The possibility that the COVID-19 infection have already spread to Europe at the end of last year be now indicate by abundant , even if partially circumstantial , evidence '' , include pneumonia case number and radiology in France and Italy in November and December . [ 124 ] Initially , the US National Institutes of Health guideline do not recommend any medication for prevention of COVID-19 , before or after exposure to the SARS-CoV-2 virus , outside the setting of a clinical trial . [ 303 ] The WHO additionally use `` the COVID-19 virus '' and `` the virus responsible for COVID-19 '' in public communication . [ 221 ] [ 222 ] In very rare case , acute encephalopathy can occur , and it can be consider in those who have be diagnose with COVID-19 and have an altered mental status . He have describe the vast spectrum of COVID-19 symptom that fluctuate over time a `` really concern . '' [ 160 ] The CDC recommend that if a COVID-19 case be suspect or confirm at a facility such a an office or day care , all area such a office , bathroom , common area , share electronic equipment like tablet , touch screen , keyboard , remote control , and ATM machine use by the ill person should be disinfect . Coronavirus disease 2019 ( COVID-19 ) be a contagious disease cause by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) . People remain infectious for up to ten day after the onset of symptom in moderate case and up to 20 day in severe case .",
+      "domain": "en.wikipedia.org",
+      "tokenized": [
+        {
+          "sent": "A study of the first 41 case of confirmed COVID-19 , publish in January 2020 in The Lancet , report the early date of onset of symptom a 1 December 2019 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 234 ] Nonetheless , on 3 March 2021 , scientist report that a much more contagious COVID-19 variant , Lineage P.1 , first detect in Japan , and subsequently find in Brazil , as well a in several place in the United States , may be associate with COVID-19 disease reinfection after recovery from an early COVID-19 infection .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Total confirm case of COVID-19 per million people [ 244 ]\nA key metric in gauge the severity of COVID-19 be the infection fatality rate ( IFR ) , also refer to a the infection fatality ratio or infection fatality risk .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 155 ]\nMost case of COVID-19 be mild .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 97 ]\nThe first COVID-19 vaccine be grant regulatory approval on 2 December by the UK medicine regulator MHRA .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 346 ]\nAfter 55 day without a locally transmitted case , [ 347 ] Beijing report a new COVID-19 case on 11 June 2020 which be follow by two more case on 12 June .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 55 ] On 20 January , China report nearly 140 new case in one day , include two people in Beijing and one in Shenzhen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The first case be identify in Wuhan , China , in December 2019 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 13 ]\nThe virus that cause COVID-19 spread mainly when an infected person be in close contact [ a ] with another person .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 81 ] Furthermore , microvascular blood vessel damage have be report in a small number of tissue sample of the brain \u2013 without detect SARS-CoV-2 \u2013 and the olfactory bulb from those who have die from COVID-19 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 143 ] Those who may have be expose to someone with COVID-19 and those who have recently travel to a country or region with the widespread transmission have be advise to self-quarantine for 14 day from the time of last possible exposure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 342 ] Research on coronavirus genome indicate the majority of COVID-19 case in New York come from European traveller , rather than directly from China or any other Asian country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 351 ] A September 2020 review journal article say , `` The possibility that the COVID-19 infection have already spread to Europe at the end of last year be now indicate by abundant , even if partially circumstantial , evidence '' , include pneumonia case number and radiology in France and Italy in November and December .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 124 ] Initially , the US National Institutes of Health guideline do not recommend any medication for prevention of COVID-19 , before or after exposure to the SARS-CoV-2 virus , outside the setting of a clinical trial .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 303 ] The WHO additionally use `` the COVID-19 virus '' and `` the virus responsible for COVID-19 '' in public communication .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 221 ] [ 222 ] In very rare case , acute encephalopathy can occur , and it can be consider in those who have be diagnose with COVID-19 and have an altered mental status .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "He have describe the vast spectrum of COVID-19 symptom that fluctuate over time a `` really concern . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 160 ] The CDC recommend that if a COVID-19 case be suspect or confirm at a facility such a an office or day care , all area such a office , bathroom , common area , share electronic equipment like tablet , touch screen , keyboard , remote control , and ATM machine use by the ill person should be disinfect .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Coronavirus disease 2019 ( COVID-19 ) be a contagious disease cause by severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "People remain infectious for up to ten day after the onset of symptom in moderate case and up to 20 day in severe case .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-health-coronavirus-southkorea-usa/trump-seeks-south-koreas-help-for-medical-equipment-to-tackle-coronavirus-idUSKBN21B2JI",
+      "content": "The news , which send share in South Korean manufacturer of test kit for the virus rocket high , highlight the diverge path the two country have take since both discover their first coronavirus case on the same day . After a big early outbreak , South Korea roll out widespread test within day , swiftly launch an aggressive programme to isolate confirmed case and trace their contact .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "The news , which send share in South Korean manufacturer of test kit for the virus rocket high , highlight the diverge path the two country have take since both discover their first coronavirus case on the same day .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "After a big early outbreak , South Korea roll out widespread test within day , swiftly launch an aggressive programme to isolate confirmed case and trace their contact .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thenation.com/article/world/coronavirus-south-korea-america/",
+      "content": "In the United States , the CDC report 10,442 case , 150 death and a total of 44,872 tests\u2014one-seventh the number conduct in South Korea . In the United States , the CDC report 10,442 case , 150 death and a total of 44,872 tests\u2014one-seventh the number conduct in South Korea . Out of those , South Korean authority say , they have 8,652 case , with 94 death , and have conduct 316,664 test . Out of those , South Korean authority say , they have 8,652 case , with 94 death , and have conduct 316,664 test . As of March 19 , accord to the World Health Organization , the number of confirmed case of coronavirus have exceed 200,000 globally . As of March 19 , accord to the World Health Organization , the number of confirmed case of coronavirus have exceed 200,000 globally .",
+      "domain": "www.thenation.com",
+      "tokenized": [
+        {
+          "sent": "In the United States , the CDC report 10,442 case , 150 death and a total of 44,872 tests\u2014one-seventh the number conduct in South Korea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the United States , the CDC report 10,442 case , 150 death and a total of 44,872 tests\u2014one-seventh the number conduct in South Korea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Out of those , South Korean authority say , they have 8,652 case , with 94 death , and have conduct 316,664 test .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Out of those , South Korean authority say , they have 8,652 case , with 94 death , and have conduct 316,664 test .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As of March 19 , accord to the World Health Organization , the number of confirmed case of coronavirus have exceed 200,000 globally .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As of March 19 , accord to the World Health Organization , the number of confirmed case of coronavirus have exceed 200,000 globally .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.commonwealthfund.org/blog/2020/how-us-compares-other-countries-responding-covid-19-populations-risk-health-system",
+      "content": "Asian country such a Taiwan and South Korea have be able to quickly implement lesson learn from the 2003 SARS outbreak to contain COVID-19 . We assess the U.S. health system \u2019 s capacity to respond to COVID-19 compare to 16 country \u2014 10 that take part in the Commonwealth Fund \u2019 s annual international survey ( Australia , Canada , France , Germany , the Netherlands , New Zealand , Norway , Sweden , Switzerland , and the United Kingdom ) plus six others that have experience large number of confirmed COVID-19 case ( China , Italy , Singapore , South Korea , Spain , and Taiwan ) . European nation have develop a collective resource to monitor health system responses to COVID-19 .",
+      "domain": "www.commonwealthfund.org",
+      "tokenized": [
+        {
+          "sent": "Asian country such a Taiwan and South Korea have be able to quickly implement lesson learn from the 2003 SARS outbreak to contain COVID-19 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We assess the U.S. health system \u2019 s capacity to respond to COVID-19 compare to 16 country \u2014 10 that take part in the Commonwealth Fund \u2019 s annual international survey ( Australia , Canada , France , Germany , the Netherlands , New Zealand , Norway , Sweden , Switzerland , and the United Kingdom ) plus six others that have experience large number of confirmed COVID-19 case ( China , Italy , Singapore , South Korea , Spain , and Taiwan ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "European nation have develop a collective resource to monitor health system responses to COVID-19 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://abcnews.go.com/International/massive-coronavirus-testing-program-south-korea-underscores-nimble/story?id=69226222",
+      "content": "The total number of confirmed case so far in South Korea be 1,766 , up 505 from the day before . South Korea have test a total of 66,652 people for the COVID-19 coronavirus virus a of 4 p.m. local time Thursday , whereas Japan have report administer roughly 1,890 test and the U.S. only 445 . `` One thing China do be that [ after ] the first case come in November , activity begin in late December and by January 10th China share the sequence with the public and they already have test kit on that day . ''",
+      "domain": "abcnews.go.com",
+      "tokenized": [
+        {
+          "sent": "The total number of confirmed case so far in South Korea be 1,766 , up 505 from the day before .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea have test a total of 66,652 people for the COVID-19 coronavirus virus a of 4 p.m. local time Thursday , whereas Japan have report administer roughly 1,890 test and the U.S. only 445 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` One thing China do be that [ after ] the first case come in November , activity begin in late December and by January 10th China share the sequence with the public and they already have test kit on that day . ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thebulletin.org/2020/03/south-korea-learned-its-successful-covid-19-strategy-from-a-previous-coronavirus-outbreak-mers/",
+      "content": "Between January 20 , and February 17 , only 30 case of Covid-19 be confirm by the Korea Centers for Disease Control and Prevention . By February 26 , Korea have test 46,127 case , while by that point , Japan have test just 1,846 case and the United States only 426 . As it happen , that \u2019 s the same day the first US case be report . South Korea \u2019 s Ministry of Health and Welfare officially report 3,150 total confirm case , include 17 death , a of February 29 . Covid-19 case in Daegu skyrocket . Since the first case be confirm , Korean public health authority and local government collaborate to precisely document the movement of infected people down to the minute . Following the end of the MERS outbreak , South Korea enact a new law in 2016 that allow laboratory to use unapproved in-vitro diagnostic kit in the case of a public health emergency . On Wednesday , the number of new coronavirus case report in South Korea fell to less than 100 for the fourth day in a row , a figure markedly down from the peak of 909 new case report on February 29 . For example , 85 of the 186 confirm MERS case in South Korea occur among health care worker at the Samsung Medical Center . On March 13 , a new coronavirus case be report in Seongnam , a city close to Seoul . As a result , South Korea suffer the large outbreak of MERS outside of the Middle East , in total there be 186 confirmed case , 38 people die and more than 16,000 be quarantine . The Covid-19 diagnosis be confirm on January 20 . On February 4 , the Korea Centers for Disease Control and Prevention take advantage of the post-MERS reform and authorize an unlicensed Covid-19 test ; the government go on to test an extraordinary number of people . Hospitals unwittingly become one of the major route of transmission for the MERS outbreak in South Korea . Amid an increasingly dire crisis , public health expert in the United States be cite Korea a a success story . A 31st case be report in Daegu , the third-largest city in South Korea , a city of about 2.5 million in the country \u2019 s southeast . While other country like the United States add Bahrain to the list of MERS danger zone , Korea do not . After the outbreak , public disclosure provision be add to the Infectious Disease Control and Prevention Act , the legal framework for the Korea \u2019 s disease-prevention policy . Authorities seek testimony , watch closed-circuit television , investigate smartphone GPS data and more , publicize the so-called move history of Covid-19 patient .",
+      "domain": "thebulletin.org",
+      "tokenized": [
+        {
+          "sent": "Between January 20 , and February 17 , only 30 case of Covid-19 be confirm by the Korea Centers for Disease Control and Prevention .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "By February 26 , Korea have test 46,127 case , while by that point , Japan have test just 1,846 case and the United States only 426 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As it happen , that \u2019 s the same day the first US case be report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea \u2019 s Ministry of Health and Welfare officially report 3,150 total confirm case , include 17 death , a of February 29 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Covid-19 case in Daegu skyrocket .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since the first case be confirm , Korean public health authority and local government collaborate to precisely document the movement of infected people down to the minute .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Following the end of the MERS outbreak , South Korea enact a new law in 2016 that allow laboratory to use unapproved in-vitro diagnostic kit in the case of a public health emergency .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On Wednesday , the number of new coronavirus case report in South Korea fell to less than 100 for the fourth day in a row , a figure markedly down from the peak of 909 new case report on February 29 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "For example , 85 of the 186 confirm MERS case in South Korea occur among health care worker at the Samsung Medical Center .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On March 13 , a new coronavirus case be report in Seongnam , a city close to Seoul .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As a result , South Korea suffer the large outbreak of MERS outside of the Middle East , in total there be 186 confirmed case , 38 people die and more than 16,000 be quarantine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Covid-19 diagnosis be confirm on January 20 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On February 4 , the Korea Centers for Disease Control and Prevention take advantage of the post-MERS reform and authorize an unlicensed Covid-19 test ; the government go on to test an extraordinary number of people .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Hospitals unwittingly become one of the major route of transmission for the MERS outbreak in South Korea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amid an increasingly dire crisis , public health expert in the United States be cite Korea a a success story .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A 31st case be report in Daegu , the third-largest city in South Korea , a city of about 2.5 million in the country \u2019 s southeast .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While other country like the United States add Bahrain to the list of MERS danger zone , Korea do not .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After the outbreak , public disclosure provision be add to the Infectious Disease Control and Prevention Act , the legal framework for the Korea \u2019 s disease-prevention policy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Authorities seek testimony , watch closed-circuit television , investigate smartphone GPS data and more , publicize the so-called move history of Covid-19 patient .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/03/24/821221485/u-s-seeks-medical-equipment-possibly-including-coronavirus-tests-from-south-kore",
+      "content": "Not long after the first case be discover , South Korea fast-tracked approval for Seegene and several other local company to start make test kit . South Korea can now do some 15,000 to 20,000 test a day . South Korea have lately garner praise for quickly ramp up mass production and use of test kit . Testing have be the linchpin in South Korea 's effort to slow the spread of the disease .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "Not long after the first case be discover , South Korea fast-tracked approval for Seegene and several other local company to start make test kit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "South Korea can now do some 15,000 to 20,000 test a day .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "South Korea have lately garner praise for quickly ramp up mass production and use of test kit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Testing have be the linchpin in South Korea 's effort to slow the spread of the disease .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wsj.com/articles/south-koreas-coronavirus-efforts-spark-privacy-concerns-in-gay-community-11589306659",
+      "content": "South Korea , an early Covid-19 success story , find itself again wad into new territory involve the pandemic : balancing privacy with public health a it manage the Itaewon outbreak .",
+      "domain": "www.wsj.com",
+      "tokenized": [
+        {
+          "sent": "South Korea , an early Covid-19 success story , find itself again wad into new territory involve the pandemic : balancing privacy with public health a it manage the Itaewon outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theverge.com/2020/2/28/21158429/california-coronavirus-covid-19-santa-clara-unknown-source-second-case",
+      "content": "In the case of the first patient who have COVID-19 of unknown origin , the hospital where she be be treat immediately request a CDC test on February 19th , when the patient arrive . Hours later in Washington , official announce that they have also identify two presumptive new case of COVID-19 . A second case of COVID-19 with an unknown origin be identify in Santa Clara county , California on Friday , and two other potential case of unknown origin be identify in Oregon and Washington state . One case involve a woman who have recently travel to an area in South Korea where the virus be spread . \u201d\nSoon after the second California case be announce , health official in Washington state and Oregon also each announce the identification of case of unknown origin in their state . This indicate to health expert that the novel coronavirus \u2014 which cause the disease COVID-19 \u2014 be likely spread through more than one community in the US .",
+      "domain": "www.theverge.com",
+      "tokenized": [
+        {
+          "sent": "In the case of the first patient who have COVID-19 of unknown origin , the hospital where she be be treat immediately request a CDC test on February 19th , when the patient arrive .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Hours later in Washington , official announce that they have also identify two presumptive new case of COVID-19 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A second case of COVID-19 with an unknown origin be identify in Santa Clara county , California on Friday , and two other potential case of unknown origin be identify in Oregon and Washington state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One case involve a woman who have recently travel to an area in South Korea where the virus be spread .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nSoon after the second California case be announce , health official in Washington state and Oregon also each announce the identification of case of unknown origin in their state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This indicate to health expert that the novel coronavirus \u2014 which cause the disease COVID-19 \u2014 be likely spread through more than one community in the US .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/world/2020/03/17/south-koreas-coronavirus-success-story-underscores-how-us-initially-failed/",
+      "content": "\u201c South Korea now have the ability to test up to 20,000 people a day at 633 test site nationwide , include drive-through clinic and pop-up facility park in front of newly infect building , \u201d detail the Wall Street Journal . It doesn \u2019 t hurt either that South Korean authority ensure test be essentially free to all and that the country \u2019 s single-payer health care system do not disincentivize low-income people from seek preventive treatment , a be often the case in the United States . Contrast that with South Korean President Moon Jae-in , who have take a back seat a health official communicate twice a day to the public about the state of the outbreak . In South Korea , infection surge over a 10-day span in late February when a cluster of a few dozen case mushroom into more than 5,000 . In South Korea \u2014 as well a Taiwan , another notable success story in the battle against the coronavirus \u2014 the experience of recent deadly epidemic , include the 2003 SARS outbreak and 2015 MERS outbreak , help build the foundation for both an effective governmental and societal response .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "\u201c South Korea now have the ability to test up to 20,000 people a day at 633 test site nationwide , include drive-through clinic and pop-up facility park in front of newly infect building , \u201d detail the Wall Street Journal .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It doesn \u2019 t hurt either that South Korean authority ensure test be essentially free to all and that the country \u2019 s single-payer health care system do not disincentivize low-income people from seek preventive treatment , a be often the case in the United States .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Contrast that with South Korean President Moon Jae-in , who have take a back seat a health official communicate twice a day to the public about the state of the outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In South Korea , infection surge over a 10-day span in late February when a cluster of a few dozen case mushroom into more than 5,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In South Korea \u2014 as well a Taiwan , another notable success story in the battle against the coronavirus \u2014 the experience of recent deadly epidemic , include the 2003 SARS outbreak and 2015 MERS outbreak , help build the foundation for both an effective governmental and societal response .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.latimes.com/world-nation/story/2020-03-14/south-koreas-rapid-coronavirus-testing-far-ahead-of-the-u-s-could-be-a-matter-of-life-and-death",
+      "content": "By Jan. 31 , with seven known case in South Korea , test kit base on the virus \u2019 genetic code release by China have be distribute to local government lab across the country . In the week since , South Korea have be on average test 12,000 patient a day \u2014 about as many a the U.S. have manage to test over the last two week . After a peak in late February , when the number of infection be jump by as many a 900 case a day , the pace of new infection in South Korea have slow to about 100 new case report Saturday . In the U.S. , with six time the population of South Korea , about 2,000 infection have be report and 43 have die a of Friday . By Jan. 11 , when China have report just 41 case and the WHO be discount the prospect of human-to-human transmission , South Korea be distribute test even though it wasn \u2019 t yet possible to test for the specific strand of the novel coronavirus cause the outbreak in Wuhan .",
+      "domain": "www.latimes.com",
+      "tokenized": [
+        {
+          "sent": "By Jan. 31 , with seven known case in South Korea , test kit base on the virus \u2019 genetic code release by China have be distribute to local government lab across the country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the week since , South Korea have be on average test 12,000 patient a day \u2014 about as many a the U.S. have manage to test over the last two week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After a peak in late February , when the number of infection be jump by as many a 900 case a day , the pace of new infection in South Korea have slow to about 100 new case report Saturday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the U.S. , with six time the population of South Korea , about 2,000 infection have be report and 43 have die a of Friday .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "By Jan. 11 , when China have report just 41 case and the WHO be discount the prospect of human-to-human transmission , South Korea be distribute test even though it wasn \u2019 t yet possible to test for the specific strand of the novel coronavirus cause the outbreak in Wuhan .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sciencedaily.com/releases/2020/08/200810141006.htm",
+      "content": "South Korea conduct rigorous and extensive epidemiologic field investigation for coronavirus case . Furthermore , on March 17 , 2020 , the South Korean Legislature pass the supplementary budget of 11.7 trillion KRW ( $ 10.1 billion ) in 12 day . The Korean Ministry of Health and Welfare 's ( KMHW ) supplementary budget pass in March 2020 be 3.7 trillion KRW ( $ 3.2 billion ) , which enable the KMHW to increase COVID-19 prevention and treatment facility and to support medical institution and worker .",
+      "domain": "www.sciencedaily.com",
+      "tokenized": [
+        {
+          "sent": "South Korea conduct rigorous and extensive epidemiologic field investigation for coronavirus case .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Furthermore , on March 17 , 2020 , the South Korean Legislature pass the supplementary budget of 11.7 trillion KRW ( $ 10.1 billion ) in 12 day .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Korean Ministry of Health and Welfare 's ( KMHW ) supplementary budget pass in March 2020 be 3.7 trillion KRW ( $ 3.2 billion ) , which enable the KMHW to increase COVID-19 prevention and treatment facility and to support medical institution and worker .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-health-coronavirus-southkorea-explain/explainer-south-korean-findings-suggest-reinfected-coronavirus-cases-are-false-positives-idUSKBN22J0HR",
+      "content": "South Korea have report more than 350 such case a of Wednesday , accord to the Korea Centers for Disease Control and Prevention ( KCDC ) . SEOUL ( Reuters ) - South Korean health authority raise new concern about the novel coronavirus after report last month that dozen of patient who have recover from the illness later test positive again .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "South Korea have report more than 350 such case a of Wednesday , accord to the Korea Centers for Disease Control and Prevention ( KCDC ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "SEOUL ( Reuters ) - South Korean health authority raise new concern about the novel coronavirus after report last month that dozen of patient who have recover from the illness later test positive again .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/commentisfree/2020/mar/20/south-korea-rapid-intrusive-measures-covid-19",
+      "content": "South Korea employ a central tracking app , Corona 100m , that publicly inform citizen of known case within 100 metre of where they be . Most importantly , South Korea immediately begin test hundred of thousand of asymptomatic people , include at drive-through centre . On 16 January , the South Korean biotech executive Chun Jong-yoon grasp the reality unfolding in China and direct his lab to work to stem the virus \u2019 s inevitable spread ; within day , his team develop detection kit now in high demand around the world .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "South Korea employ a central tracking app , Corona 100m , that publicly inform citizen of known case within 100 metre of where they be .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Most importantly , South Korea immediately begin test hundred of thousand of asymptomatic people , include at drive-through centre .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On 16 January , the South Korean biotech executive Chun Jong-yoon grasp the reality unfolding in China and direct his lab to work to stem the virus \u2019 s inevitable spread ; within day , his team develop detection kit now in high demand around the world .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/news/politics/2020/05/12/coronavirus-dr-anthony-fauci-testify-senate-panel-reopening/3108593001/",
+      "content": "South Korea aggressively trace people who have contact with people who become infected , Kaine say .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "South Korea aggressively trace people who have contact with people who become infected , Kaine say .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

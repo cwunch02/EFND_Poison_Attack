@@ -1,0 +1,826 @@
+{
+  "event_id": "180293",
+  "claim": "President Trump cited the city of San Antonio, Texas, as an example of a city made much safer by the construction of a wall.",
+  "original_label": "true",
+  "label": "true",
+  "explain": "On 19 January 2019, while stumping with reporters outside the White House to promote the efficacy of his proposed wall along the U.S.-Mexico border, President Trump cited the city of San Antonio, Texas, as an example of a city made much safer by the construction of a wall:\u201cEverybody knows that walls work,\u201d Trump maintained. \u201cYou look at different places, they put up a wall, no problem. You look at San Antonio, you look at so many different places, they go from one of the most unsafe cities in the country to one of the safest cities, immediately, immediately.\u201dPresident Trump\u2019s words left many viewers puzzled, as the city of San Antonio not only has no wall, but it isn\u2019t situated anywhere near a national border.  It\u2019s about 150 miles north of Mexico, and it has been far removed from the Mexican border since Texas achieved independence in 1836 and was subsequently annexed into the United States in 1845.  Most likely President Trump confused San Antonio with the western Texas city of El Paso (just across the Mexico\u2013U.S. border from Ciudad Ju\u00e1rez), which he had described in similar terms a week earlier:\u201cEl Paso, Texas, went from one of the most unsafe parts or cities in the United States to one of the safest cities in the United States as soon as they put up the wall,\u201d Trump said. \u201cThey built a wall and fencing apparatus that blocked people. So they went from one of the most dangerous cities to one of the safest cities, all within a very short period of time.\u201dSome news accounts have disputed Trump\u2019s claims about the construction of a wall\u2019s supposedly having made El Paso immediately and significantly safer, averring that reports show a decline in violent crime rates antedated El Paso\u2019s border wall construction, and a slight rise occurred afterwards:",
+  "reports": [
+    {
+      "link": "https://www.houstonchronicle.com/news/columnists/grieder/article/San-Antonio-is-not-on-the-border-and-does-not-13553210.php",
+      "content": "Last week , Trump cite San Antonio a a city that illustrate the public-safety benefit of a border wall . President Donald Trump , show here on Jan. 14 , 2019 , a he depart the White House in Washington , D.C. , recently suggest that San Antonio have a border wall \u2014 draw snicker from Texans more familiar with the state \u2019 s geography . San Antonio , the second-largest city in Texas , be historic , lovely and not on the border . \u201c You look at San Antonio , you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city , immediately , immediately , \u201d Trump say , in comment to a gaggle of reporter on the White House lawn . That \u2019 s what spur him to visit Laredo , a mid-sized city on Texas \u2019 s border with Mexico , some 150 mile south of my adoptive hometown , San Antonio . Texans could therefore remind Trump that the wall didn \u2019 t work , per se . Trump , a native New Yorker , have never take much interest in Texas prior to run for president . The Alamo fell on March 6 , 1836 \u2014 after the Mexican Army surge over the wall of the mission , use ladder they have build at their leisure after set up camp in what be now downtown San Antonio . There be a wall at Mission San Antonio de Valero , know today a the Alamo . In 2015 , he aver that he be put his life at risk just by visit Laredo , which be the third-largest city on the U.S.-Mexico border , after San Diego and El Paso . Trump \u2019 s chronic misrepresentation of this state and it southern border do a disservice to the country a a whole , a those misrepresentation explain why Trump persist in his bid to extort funding for a border wall , which most Texans oppose . He be , perhaps , think of San Diego , which be a city in California , on the border between the U.S. and Mexico . Nor do it have a wall , a Trump suggest last week .",
+      "domain": "www.houstonchronicle.com",
+      "tokenized": [
+        {
+          "sent": "Last week , Trump cite San Antonio a a city that illustrate the public-safety benefit of a border wall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "President Donald Trump , show here on Jan. 14 , 2019 , a he depart the White House in Washington , D.C. , recently suggest that San Antonio have a border wall \u2014 draw snicker from Texans more familiar with the state \u2019 s geography .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "San Antonio , the second-largest city in Texas , be historic , lovely and not on the border .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c You look at San Antonio , you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city , immediately , immediately , \u201d Trump say , in comment to a gaggle of reporter on the White House lawn .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That \u2019 s what spur him to visit Laredo , a mid-sized city on Texas \u2019 s border with Mexico , some 150 mile south of my adoptive hometown , San Antonio .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Texans could therefore remind Trump that the wall didn \u2019 t work , per se .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump , a native New Yorker , have never take much interest in Texas prior to run for president .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Alamo fell on March 6 , 1836 \u2014 after the Mexican Army surge over the wall of the mission , use ladder they have build at their leisure after set up camp in what be now downtown San Antonio .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be a wall at Mission San Antonio de Valero , know today a the Alamo .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 2015 , he aver that he be put his life at risk just by visit Laredo , which be the third-largest city on the U.S.-Mexico border , after San Diego and El Paso .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump \u2019 s chronic misrepresentation of this state and it southern border do a disservice to the country a a whole , a those misrepresentation explain why Trump persist in his bid to extort funding for a border wall , which most Texans oppose .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "He be , perhaps , think of San Diego , which be a city in California , on the border between the U.S. and Mexico .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Nor do it have a wall , a Trump suggest last week .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.huffpost.com/entry/trump-touts-nonexistent-border-wall-in-san-antonio_n_5c43abaee4b0bfa693c42235",
+      "content": "\u201d\nTrump cite San Antonio a an example of a city where a border wall have work . \u201d\nPart of San Antonio be in the district represent by Texas GOP Rep. Will Hurd , who oppose Trump \u2019 s wall a expensive , ineffective and damage to private property and the environment . The president may have intend to refer to El Paso , a Texas border city he reference last week in an almost identical anecdote \u2015 though he be wrong that the wall there have any effect on it crime rate . President Donald Trump on Saturday boast to reporter about how well San Antonio \u2019 s border wall\ufeff be work . \u201c You look at San Antonio , you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city , immediately , immediately . Trump discuss the nonexistent wall in San Antonio before he offer three year \u2019 protection for the so-called Dreamers \u2014 immigrant who come to the U.S. a child \u2014 in exchange for Democratic support for $ 5.7 billion for his border wall . You look at different place , they put up a wall , no problem , \u201d Trump say outside the White House . Is he talk about the Alamo , clearly , the only wall I know of in San Antonio ?",
+      "domain": "www.huffpost.com",
+      "tokenized": [
+        {
+          "sent": "\u201d\nTrump cite San Antonio a an example of a city where a border wall have work .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nPart of San Antonio be in the district represent by Texas GOP Rep. Will Hurd , who oppose Trump \u2019 s wall a expensive , ineffective and damage to private property and the environment .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The president may have intend to refer to El Paso , a Texas border city he reference last week in an almost identical anecdote \u2015 though he be wrong that the wall there have any effect on it crime rate .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "President Donald Trump on Saturday boast to reporter about how well San Antonio \u2019 s border wall\ufeff be work .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c You look at San Antonio , you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city , immediately , immediately .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Trump discuss the nonexistent wall in San Antonio before he offer three year \u2019 protection for the so-called Dreamers \u2014 immigrant who come to the U.S. a child \u2014 in exchange for Democratic support for $ 5.7 billion for his border wall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "You look at different place , they put up a wall , no problem , \u201d Trump say outside the White House .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Is he talk about the Alamo , clearly , the only wall I know of in San Antonio ?",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wtsp.com/article/news/nation-world/president-trump-incorrectly-claims-san-antonio-has-a-border-wall/273-7a02c7ff-423f-48b1-9c5c-7965be0627c4",
+      "content": "WASHINGTON , D.C. , USA \u2014 Ahead of his `` special announcement '' Saturday on the government shutdown and the border , President Trump tell reporter that `` wall work , '' cite San Antonio 's security improvement since put up a wall . Dan Patrick tell him the state will build a wall along part of the U.S.-Mexico border if the federal government pay Texas back . During the president 's visit , Texas Lt. Gov . `` You look at different place , '' Trump tell member of the medium , `` they put up a wall , no problem . Throughout the government shutdown , which have last nearly a month , Trump have insist that a crisis exist at the border which would be fix by a border wall .",
+      "domain": "www.wtsp.com",
+      "tokenized": [
+        {
+          "sent": "WASHINGTON , D.C. , USA \u2014 Ahead of his `` special announcement '' Saturday on the government shutdown and the border , President Trump tell reporter that `` wall work , '' cite San Antonio 's security improvement since put up a wall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Dan Patrick tell him the state will build a wall along part of the U.S.-Mexico border if the federal government pay Texas back .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During the president 's visit , Texas Lt. Gov .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` You look at different place , '' Trump tell member of the medium , `` they put up a wall , no problem .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Throughout the government shutdown , which have last nearly a month , Trump have insist that a crisis exist at the border which would be fix by a border wall .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.mysanantonio.com/news/local/politics/article/Trump-mentions-San-Antonio-in-comments-about-13547059.php",
+      "content": "In comment precede his announcement on the continue partial government shutdown and border security , President Donald Trump cite San Antonio when speak about the effectiveness of security wall . `` San Antonio be one of the safe big city in the nation , '' Nirenberg say . This be the only wall # SanAntonio wants/needs\n@ dav_mcg : `` Here in San Antonio We love our wall ''\n@ mamatica007 : `` The great wall of San Antonio ''\n@ MatthewReynaTX : `` The president will be please to hear that San Antonio 's wall be protect by vicious coyote ''\n@ hunterw : `` The wall in San Antonio do n't do much to keep the Mexicans out . '' In fact , the city be often know a one of the most welcoming and friendly city in Texas . Mayor Ron Nirenberg say Saturday that San Antonio be indeed one of the safe city in the U.S . @ alesolcasas : `` Everyone in San Antonio look for the wall Trump be talk about ... ''\n@ MichaelT_72 : `` This be the `` wall '' in San Antonio that Donald Trump be refer to # SanAntonioWall ''\n@ sontino : `` the wall of San Antonio ''\n@ TimMillerHorror : `` I live in San Antonio , which be 3 hour from the border , last I know we have no wall . The effectiveness of a wall around San Antonio - real or imagine - to keep America 's southern border safe remain unclear . A quick search ( consist of look out the window and then check Texas Department of Transportation traffic camera ) find no wall bar anyone from San Antonio . @ MananaZoo : `` Well , it 's true , we do have a wall or two in San Antonio . Perhaps this be the wall that President Trump be talk about ! '' The only wall of any notoriety in San Antonio 's history be the wall of the Alamo . Thousands be surprised and confused Saturday to discover the reason for the Alamo City 's success and safety be our wall . Is this the San Antonio wall you 're talk about ? ''",
+      "domain": "www.mysanantonio.com",
+      "tokenized": [
+        {
+          "sent": "In comment precede his announcement on the continue partial government shutdown and border security , President Donald Trump cite San Antonio when speak about the effectiveness of security wall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` San Antonio be one of the safe big city in the nation , '' Nirenberg say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This be the only wall # SanAntonio wants/needs\n@ dav_mcg : `` Here in San Antonio We love our wall ''\n@ mamatica007 : `` The great wall of San Antonio ''\n@ MatthewReynaTX : `` The president will be please to hear that San Antonio 's wall be protect by vicious coyote ''\n@ hunterw : `` The wall in San Antonio do n't do much to keep the Mexicans out . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In fact , the city be often know a one of the most welcoming and friendly city in Texas .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mayor Ron Nirenberg say Saturday that San Antonio be indeed one of the safe city in the U.S .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "@ alesolcasas : `` Everyone in San Antonio look for the wall Trump be talk about ... ''\n@ MichaelT_72 : `` This be the `` wall '' in San Antonio that Donald Trump be refer to # SanAntonioWall ''\n@ sontino : `` the wall of San Antonio ''\n@ TimMillerHorror : `` I live in San Antonio , which be 3 hour from the border , last I know we have no wall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The effectiveness of a wall around San Antonio - real or imagine - to keep America 's southern border safe remain unclear .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A quick search ( consist of look out the window and then check Texas Department of Transportation traffic camera ) find no wall bar anyone from San Antonio .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "@ MananaZoo : `` Well , it 's true , we do have a wall or two in San Antonio .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Perhaps this be the wall that President Trump be talk about ! ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The only wall of any notoriety in San Antonio 's history be the wall of the Alamo .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Thousands be surprised and confused Saturday to discover the reason for the Alamo City 's success and safety be our wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Is this the San Antonio wall you 're talk about ? ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.texasmonthly.com/the-culture/where-is-san-antonio-in-relation-to-the-border-an-investigation-that-is-apparently-necessary/",
+      "content": "It \u2019 s also possibly the city Trump be think of when he talk about San Antonio , a El Paso be on the border , and it do go from be one of the more dangerous city in the U.S. in the early ninety to now be one of the safe . When Trump imagine the border of San Antonio , he probably have a crossing like the one in Brownsville in mind . The close thing to a wall protect San Antonio , in the end , be probably the one around the Alamo\u2014and we all know how that turn out . On January 19 , President Trump speak once more about a wall \u2019 s efficacy in keep people safe . San Antonio , many mile from the Mexican border , have no wall similar to Trump \u2019 s propose border wall to speak of . If you look at San Antonio , if you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city immediately . Because after Trump crow about the city \u2019 s wall , Fox News announce a \u201d Battle for the Border \u201d town hall\u2014in a city 144 mile from Mexico . Sometimes , though , it lead to hilarious claim that San Antonio be on the border , or that it be protect by wall . If the president be think about El Paso when he be talk about San Antonio , he conflate two city that be a truly vast distance from one another . Few would confuse a North Carolina college town with the nation \u2019 s capital , and neither should San Antonio be mistake for a border city . The close border cross to San Antonio be in Eagle Pass , 144 mile away . Speaking on the White House South Lawn , Trump say , \u201c Everybody know that wall work . Brownsville , 277 mile away from San Antonio , have nearly twice that number of monthly crossing , but it distance make a San Antonio-based \u201c Battle for the Border \u201d even more inexplicable . But the distance from San Antonio to the low Rio Grande Valley be the same distance a that from the White House to the funky Southern city of Chapel Hill , home of the University of North Carolina , where Michael Jordan play college ball . It \u2019 s also a far a drive from the White House to the city \u2019 s historic East Side a it be from San Antonio to El Paso on Interstate 10 . If Trump conflate the two city , he confuse city that be 556 mile apart . ( That fence isn \u2019 t consider a factor in the city \u2019 s safety , accord to local law enforcement and crime statistic , which indicate that El Paso have one of the low crime rate in the U.S. in each of the three year before it be construct . ) Texas , a you may be aware , be very , very big .",
+      "domain": "www.texasmonthly.com",
+      "tokenized": [
+        {
+          "sent": "It \u2019 s also possibly the city Trump be think of when he talk about San Antonio , a El Paso be on the border , and it do go from be one of the more dangerous city in the U.S. in the early ninety to now be one of the safe .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When Trump imagine the border of San Antonio , he probably have a crossing like the one in Brownsville in mind .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The close thing to a wall protect San Antonio , in the end , be probably the one around the Alamo\u2014and we all know how that turn out .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On January 19 , President Trump speak once more about a wall \u2019 s efficacy in keep people safe .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "San Antonio , many mile from the Mexican border , have no wall similar to Trump \u2019 s propose border wall to speak of .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If you look at San Antonio , if you look at so many different place , they go from one of the most unsafe city in the country to one of the safe city immediately .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Because after Trump crow about the city \u2019 s wall , Fox News announce a \u201d Battle for the Border \u201d town hall\u2014in a city 144 mile from Mexico .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Sometimes , though , it lead to hilarious claim that San Antonio be on the border , or that it be protect by wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If the president be think about El Paso when he be talk about San Antonio , he conflate two city that be a truly vast distance from one another .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Few would confuse a North Carolina college town with the nation \u2019 s capital , and neither should San Antonio be mistake for a border city .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The close border cross to San Antonio be in Eagle Pass , 144 mile away .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Speaking on the White House South Lawn , Trump say , \u201c Everybody know that wall work .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Brownsville , 277 mile away from San Antonio , have nearly twice that number of monthly crossing , but it distance make a San Antonio-based \u201c Battle for the Border \u201d even more inexplicable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But the distance from San Antonio to the low Rio Grande Valley be the same distance a that from the White House to the funky Southern city of Chapel Hill , home of the University of North Carolina , where Michael Jordan play college ball .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It \u2019 s also a far a drive from the White House to the city \u2019 s historic East Side a it be from San Antonio to El Paso on Interstate 10 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If Trump conflate the two city , he confuse city that be 556 mile apart .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "( That fence isn \u2019 t consider a factor in the city \u2019 s safety , accord to local law enforcement and crime statistic , which indicate that El Paso have one of the low crime rate in the U.S. in each of the three year before it be construct . )",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Texas , a you may be aware , be very , very big .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ksat.com/news/local/2021/01/12/social-media-captures-president-donald-trumps-visit-to-the-texas-border/",
+      "content": "As the same President who once declare he be build his border wall in San Antonio , I hope Trump wasn \u2019 t look for our Alamo this trip . HARLINGEN , Texas \u2013 President Donald Trump travel to South Texas on Tuesday to tout his administration \u2019 s border wall accomplishment . Jak Borgia , 21 , arrive at 6 a.m. to protest President Trump \u2019 s border wall visit in Alamo , Texas @ NYTNational\nScenes of resistance and solidarity in the # RGV a the community come to together to oppose the border wall and Trump 's visit ( safely away from him and his follower ) . Counter protester prepare for President Donald Trump 's arrival in the Rio Grande Valley , Tuesday , Jan. 12 , 2021 . `` Trump bring division and violence wherever he go , and the wall be an extension of that , '' No Border Wall Laredo activist Tannya Benavides say .",
+      "domain": "www.ksat.com",
+      "tokenized": [
+        {
+          "sent": "As the same President who once declare he be build his border wall in San Antonio , I hope Trump wasn \u2019 t look for our Alamo this trip .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "HARLINGEN , Texas \u2013 President Donald Trump travel to South Texas on Tuesday to tout his administration \u2019 s border wall accomplishment .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Jak Borgia , 21 , arrive at 6 a.m. to protest President Trump \u2019 s border wall visit in Alamo , Texas @ NYTNational\nScenes of resistance and solidarity in the # RGV a the community come to together to oppose the border wall and Trump 's visit ( safely away from him and his follower ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Counter protester prepare for President Donald Trump 's arrival in the Rio Grande Valley , Tuesday , Jan. 12 , 2021 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Trump bring division and violence wherever he go , and the wall be an extension of that , '' No Border Wall Laredo activist Tannya Benavides say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thehill.com/blogs/blog-briefing-room/news/426614-texan-organizes-search-party-event-to-look-for-san",
+      "content": "While speak to reporter on Saturday , Trump boast about the effectiveness of border wall while specifically mention San Antonio . A man from San Antonio have organize a \u201c search party \u201d dedicate to find a wall in the city that President TrumpDonald TrumpBiden should look to 'Ostpolitik ' to negotiate with autocrat The Memo : Biden 's bet on tax Why some Republicans think vaccine passport will backfire on Democrats MORE reference over the weekend . \u201d\nThe Houston Chronicle point out that while San Antonio 's overall crime rate have go down in recent year , it can not be attribute to any type of border wall . Still , San Antonio resident Manuel Lopez Jr. have create a Facebook event to organize a search party to find the nonexistent wall follow the president 's remark . `` Everybody know that wall work , '' Trump say .",
+      "domain": "thehill.com",
+      "tokenized": [
+        {
+          "sent": "While speak to reporter on Saturday , Trump boast about the effectiveness of border wall while specifically mention San Antonio .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A man from San Antonio have organize a \u201c search party \u201d dedicate to find a wall in the city that President TrumpDonald TrumpBiden should look to 'Ostpolitik ' to negotiate with autocrat The Memo : Biden 's bet on tax Why some Republicans think vaccine passport will backfire on Democrats MORE reference over the weekend .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe Houston Chronicle point out that while San Antonio 's overall crime rate have go down in recent year , it can not be attribute to any type of border wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Still , San Antonio resident Manuel Lopez Jr. have create a Facebook event to organize a search party to find the nonexistent wall follow the president 's remark .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Everybody know that wall work , '' Trump say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://doggett.house.gov/media-center/in-the-news/san-antonio-express-news-camp-bullis-dining-hall-loses-funds-border-wall",
+      "content": "President Trump \u2019 s quest to use military construction money to help build the border wall will fund 52 mile of new steel bollard barrier in Laredo , while eliminate $ 18.5 million for a new din hall at the Camp Bullis training range . After Congress approve $ 1.4 billion to replace old portion of exist fence on the border earlier this year - far less than President Trump \u2019 s $ 5.7 billion request \u2014 he declare a national emergency , clear the way for the administration to use money allocate for other need to build the wall . \u201d\nThe president have make the border wall and tight immigration restriction among his chief priority . \u201d\nSeveral Texas Republicans in Congress have join Democrats in oppose the border wall , assert that there be better way to secure the border , include more manpower and the use of sensor , camera and other technology . OnExpressNews.com : Trump administration schedule build of new wall\nIt be the second time this year the Trump administration have take money from the Pentagon for the border wall .",
+      "domain": "doggett.house.gov",
+      "tokenized": [
+        {
+          "sent": "President Trump \u2019 s quest to use military construction money to help build the border wall will fund 52 mile of new steel bollard barrier in Laredo , while eliminate $ 18.5 million for a new din hall at the Camp Bullis training range .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After Congress approve $ 1.4 billion to replace old portion of exist fence on the border earlier this year - far less than President Trump \u2019 s $ 5.7 billion request \u2014 he declare a national emergency , clear the way for the administration to use money allocate for other need to build the wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe president have make the border wall and tight immigration restriction among his chief priority .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nSeveral Texas Republicans in Congress have join Democrats in oppose the border wall , assert that there be better way to secure the border , include more manpower and the use of sensor , camera and other technology .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "OnExpressNews.com : Trump administration schedule build of new wall\nIt be the second time this year the Trump administration have take money from the Pentagon for the border wall .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sacurrent.com/the-daily/archives/2020/02/14/diversion-of-defense-money-for-border-wall-jeopardizing-jobs-at-port-san-antonio-congressman-warns",
+      "content": "Tags : Department of Defense , Lloyd Doggett , National Guard and Reserve , Port San Antonio , Texas , San Antonio , Trump , border wall , military contract , Standard Aero , Camp Bullis , C-130 , San Antonio , Image\nEver want to move into a gorgeously landscape Spanish-style hacienda with the head of exotic game hang from the wall",
+      "domain": "www.sacurrent.com",
+      "tokenized": [
+        {
+          "sent": "Tags : Department of Defense , Lloyd Doggett , National Guard and Reserve , Port San Antonio , Texas , San Antonio , Trump , border wall , military contract , Standard Aero , Camp Bullis , C-130 , San Antonio , Image\nEver want to move into a gorgeously landscape Spanish-style hacienda with the head of exotic game hang from the wall",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-usa-trump-texas/his-days-in-power-dwindling-trump-heads-to-texas-to-see-border-wall-idUSKBN29H19M",
+      "content": "WASHINGTON ( Reuters ) - U.S. President Donald Trump plan to emerge from seclusion on Tuesday for the first time since the U.S. Capitol be ransack by pro-Trump protester and will travel to Alamo , Texas , to visit his signature border wall . White House spokesman Judd Deere say the visit would mark Trump \u2019 s \u201c completion of more than 400 mile of border wall \u2014 a promise make , promise keep \u2014 and his administration \u2019 s effort to reform our broken immigration system . Trump have seek to cut down on cross-border migrant and legal immigration throughout his term , and the wall project date to his 2016 pledge to seal off the border with a wall .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "WASHINGTON ( Reuters ) - U.S. President Donald Trump plan to emerge from seclusion on Tuesday for the first time since the U.S. Capitol be ransack by pro-Trump protester and will travel to Alamo , Texas , to visit his signature border wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "White House spokesman Judd Deere say the visit would mark Trump \u2019 s \u201c completion of more than 400 mile of border wall \u2014 a promise make , promise keep \u2014 and his administration \u2019 s effort to reform our broken immigration system .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump have seek to cut down on cross-border migrant and legal immigration throughout his term , and the wall project date to his 2016 pledge to seal off the border with a wall .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.texastribune.org/2019/09/16/border-wall-funding-dispute-promises-heat-again-september/",
+      "content": "That money , which come after President Donald Trump declare a national emergency on the southern border that would allow him to tap into military funding for border security without approval from Congress , would have go toward a new din facility in San Antonio and new road in Fort Bliss . Meanwhile , the House be also expect to soon vote on a resolution oppose the Trump administration 's plan to divert $ 3.6 billion in military construction fund 175 mile of new wall . Trump 's continued aggressive push to build the wall have split the Texas delegation in Congress . Senate Republicans , include Sen. Ted Cruz , R-Texas , have say that they trust the president 's judgement and expect to get those fund back , characterize immigration through the southern border a a crisis that warrant such funding . Still , Jeffrey say Cruz be commit to make sure that military facility in the state `` get what they need to continue serve a pillar of America 's security . '' Though congressman in the Rio Grande Valley include protection for environmentally sensitive area in the 2018 omnibus spending bill , the rest of the construction will predominantly take place on the over 1,000 mile of privately own land along the Texas-Mexico border .",
+      "domain": "www.texastribune.org",
+      "tokenized": [
+        {
+          "sent": "That money , which come after President Donald Trump declare a national emergency on the southern border that would allow him to tap into military funding for border security without approval from Congress , would have go toward a new din facility in San Antonio and new road in Fort Bliss .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Meanwhile , the House be also expect to soon vote on a resolution oppose the Trump administration 's plan to divert $ 3.6 billion in military construction fund 175 mile of new wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump 's continued aggressive push to build the wall have split the Texas delegation in Congress .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Senate Republicans , include Sen. Ted Cruz , R-Texas , have say that they trust the president 's judgement and expect to get those fund back , characterize immigration through the southern border a a crisis that warrant such funding .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Still , Jeffrey say Cruz be commit to make sure that military facility in the state `` get what they need to continue serve a pillar of America 's security . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Though congressman in the Rio Grande Valley include protection for environmentally sensitive area in the 2018 omnibus spending bill , the rest of the construction will predominantly take place on the over 1,000 mile of privately own land along the Texas-Mexico border .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.dallasnews.com/news/politics/2019/02/26/house-rebukes-trump-s-border-wall-emergency-passes-joaquin-castro-s-disapproval-resolution/",
+      "content": "It seem like the rebuke might pick up robust bipartisan support , especially since poll in Texas show voter ' wariness about Trump use emergency power to build a wall . Trump \u2019 s move leave Democrats gobsmacked , particularly since the president have long boast that Mexico would pay for his wall . The promise of a border wall be a centerpiece of Trump \u2019 s White House bid in 2016 . But the vote also signal that the rebuke could end up be only a historical footnote , rather than achieve it goal of stop Trump from bypass Congress to divert fund for his wall . They seek to highlight the potential hit to military construction project , with some $ 520 million at risk in Texas alone . The \u201c resolution of disapproval \u201d attract support from only 13 Republicans -- with San Antonio Rep. Will Hurd , long a critic Trump \u2019 s effort to build additional border wall , be the only Texas Republican to join every Democrat in push back . `` It be his goal , it be his requirement to defend our country at the southern border , '' Rep. Michael Burgess , R-Pilot Point , say , refer to Trump . Trump \u2019 s insistence on new wall funding for the U.S.-Mexico border earlier this year lead to the long government shutdown in U.S. history . They note that president have declare national emergency some 60 time , typically without much hubbub , since the National Emergencies Act be enact in 1976 . The White House be now look to shake free about $ 6.6 billion , with a big chunk of that come from fund previously mark for military construction project .",
+      "domain": "www.dallasnews.com",
+      "tokenized": [
+        {
+          "sent": "It seem like the rebuke might pick up robust bipartisan support , especially since poll in Texas show voter ' wariness about Trump use emergency power to build a wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump \u2019 s move leave Democrats gobsmacked , particularly since the president have long boast that Mexico would pay for his wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The promise of a border wall be a centerpiece of Trump \u2019 s White House bid in 2016 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But the vote also signal that the rebuke could end up be only a historical footnote , rather than achieve it goal of stop Trump from bypass Congress to divert fund for his wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They seek to highlight the potential hit to military construction project , with some $ 520 million at risk in Texas alone .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The \u201c resolution of disapproval \u201d attract support from only 13 Republicans -- with San Antonio Rep. Will Hurd , long a critic Trump \u2019 s effort to build additional border wall , be the only Texas Republican to join every Democrat in push back .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` It be his goal , it be his requirement to defend our country at the southern border , '' Rep. Michael Burgess , R-Pilot Point , say , refer to Trump .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump \u2019 s insistence on new wall funding for the U.S.-Mexico border earlier this year lead to the long government shutdown in U.S. history .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They note that president have declare national emergency some 60 time , typically without much hubbub , since the National Emergencies Act be enact in 1976 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The White House be now look to shake free about $ 6.6 billion , with a big chunk of that come from fund previously mark for military construction project .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bordersecurityexpo.com/",
+      "content": "Held each year in San Antonio , Texas , Border Security Expo offer federal , state , local , and international law enforcement from across the country and around the globe the education , solution , and connection to make critical decision need to provide border security from every kind of threat imaginable . After careful consultation with our Advisory Board , stakeholder company , and federal government and industry partner , we have make the difficult decision to postpone Border Security Expo 2021 , schedule for July 27-29 in San Antonio , Texas .",
+      "domain": "www.bordersecurityexpo.com",
+      "tokenized": [
+        {
+          "sent": "Held each year in San Antonio , Texas , Border Security Expo offer federal , state , local , and international law enforcement from across the country and around the globe the education , solution , and connection to make critical decision need to provide border security from every kind of threat imaginable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After careful consultation with our Advisory Board , stakeholder company , and federal government and industry partner , we have make the difficult decision to postpone Border Security Expo 2021 , schedule for July 27-29 in San Antonio , Texas .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.facebook.com/News4SA/videos/border-wall/1127506194330868/",
+      "content": "of Homeland Security claim the new border wall system have make border community safer .",
+      "domain": "www.facebook.com",
+      "tokenized": [
+        {
+          "sent": "of Homeland Security claim the new border wall system have make border community safer .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://sanantonioreport.org/san-antonio-area-firms-show-interest-for-constructing-trumps-border-wall/",
+      "content": "A number of local firm have express interest in the federal procurement process relate to the design and construction of President Donald Trump \u2019 s border wall along the U.S.-Mexico border . Given the divisive nature of Trump \u2019 s border wall project and ensue executive order on immigration crackdown , firm that bid on and eventually work on the design and construction of the project could gain economically but attract controversy . In addition , litigation over the environmental impact of a massive wall on the bank of the Rio Grande and the rugged West Texas landscape would likely ensue and also delay construction . Building a wall in Texas , with many strip of privately own land along the border , present a special challenge . The San Antonio Report publish public service journalism for a good city . On Tuesday , Texas Attorney General Ken Paxton say he support plan to use eminent domain for the wall \u2019 s construction . \u201c As a federal contractor , we have prior border wall experience in Texas , as well a the technical competency and site familiarity that will be require , \u201d Raba Kistner \u2019 s Director of Federal Services John Borland state in an email to the Rivard Report . Trump \u2019 s propose budget have allocate $ 4.1 billion for the wall through 2018 , include funding for a cadre of Department of Justice attorney to handle land dispute . \u201c As representative of the community that make up our southern border , we recognize the need for robust border security and infrastructure to ensure public safety and increase cross-border commerce , \u201d the letter state . Also on the list of interested vendor from San Antonio for the related border wall proposal include Caltex Interiors Inc. , Kalmar RT Center of Cibolo and HJD Capital Electric . The U.S. Army Corps of Engineers be the federal construction agency generally responsible for execute construction of border security wall and fence , accord to the Associated General Contractors of America . Construction of the wall will cost an estimated $ 21.6 billion and take nearly four year to build , accord to a U.S. Department of Homeland Security internal report .",
+      "domain": "sanantonioreport.org",
+      "tokenized": [
+        {
+          "sent": "A number of local firm have express interest in the federal procurement process relate to the design and construction of President Donald Trump \u2019 s border wall along the U.S.-Mexico border .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Given the divisive nature of Trump \u2019 s border wall project and ensue executive order on immigration crackdown , firm that bid on and eventually work on the design and construction of the project could gain economically but attract controversy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition , litigation over the environmental impact of a massive wall on the bank of the Rio Grande and the rugged West Texas landscape would likely ensue and also delay construction .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Building a wall in Texas , with many strip of privately own land along the border , present a special challenge .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The San Antonio Report publish public service journalism for a good city .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On Tuesday , Texas Attorney General Ken Paxton say he support plan to use eminent domain for the wall \u2019 s construction .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c As a federal contractor , we have prior border wall experience in Texas , as well a the technical competency and site familiarity that will be require , \u201d Raba Kistner \u2019 s Director of Federal Services John Borland state in an email to the Rivard Report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump \u2019 s propose budget have allocate $ 4.1 billion for the wall through 2018 , include funding for a cadre of Department of Justice attorney to handle land dispute .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c As representative of the community that make up our southern border , we recognize the need for robust border security and infrastructure to ensure public safety and increase cross-border commerce , \u201d the letter state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Also on the list of interested vendor from San Antonio for the related border wall proposal include Caltex Interiors Inc. , Kalmar RT Center of Cibolo and HJD Capital Electric .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The U.S. Army Corps of Engineers be the federal construction agency generally responsible for execute construction of border security wall and fence , accord to the Associated General Contractors of America .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Construction of the wall will cost an estimated $ 21.6 billion and take nearly four year to build , accord to a U.S. Department of Homeland Security internal report .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=405646",
+      "content": "Trump promise to build the wall and make Mexico pay for it in his 2016 campaign . The wall \u2014 pay for in part by Trump supporter through the conservative nonprofit We Build the Wall \u2019 s crowd-sourcing campaign \u2014 be yard from river , just south of where the federal government have plan to build it own border wall . \u201d\nArmed with City Council approval , resident in Laredo will be paint a \u201c defund the wall \u201d street mural outside the federal courthouse in the coming week . President Donald Trump \u2019 s signature campaign to build a border wall from the Gulf Coast to the Pacific have add only 5 mile of new wall along the U.S.-Mexico border . Replacement wall build : 220 mile of primary fencing ; 16 mile of secondary fencing\nNew wall build : 5 mile of new primary fencing ; 24 mile of secondary fencing\n\u201c A rational person would tell you after COVID-19 certain thing would stop , and we think the wall construction be go to stop \u2026 But instead they \u2019 re push harder , \u201d Cuellar say . In addition to the Laredo contract , the company be award a $ 1.3 billion deal in May for 42 mile of fence in Arizona \u2014 the large border wall contract award by Homeland Security .",
+      "domain": "cuellar.house.gov",
+      "tokenized": [
+        {
+          "sent": "Trump promise to build the wall and make Mexico pay for it in his 2016 campaign .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The wall \u2014 pay for in part by Trump supporter through the conservative nonprofit We Build the Wall \u2019 s crowd-sourcing campaign \u2014 be yard from river , just south of where the federal government have plan to build it own border wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nArmed with City Council approval , resident in Laredo will be paint a \u201c defund the wall \u201d street mural outside the federal courthouse in the coming week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "President Donald Trump \u2019 s signature campaign to build a border wall from the Gulf Coast to the Pacific have add only 5 mile of new wall along the U.S.-Mexico border .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Replacement wall build : 220 mile of primary fencing ; 16 mile of secondary fencing\nNew wall build : 5 mile of new primary fencing ; 24 mile of secondary fencing\n\u201c A rational person would tell you after COVID-19 certain thing would stop , and we think the wall construction be go to stop \u2026 But instead they \u2019 re push harder , \u201d Cuellar say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to the Laredo contract , the company be award a $ 1.3 billion deal in May for 42 mile of fence in Arizona \u2014 the large border wall contract award by Homeland Security .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.lmtonline.com/local/politics/article/Border-wall-plans-divide-South-Texas-authorities-11955300.php",
+      "content": "WESLACO \u2014 No cement have be pour nor bollard thrust into the ground , and yet President Donald Trump 's `` big , beautiful '' wall have drive a wedge between the Border Patrol and community on the border . READ MORE : 'It 's such a punch in the gut ' : Border wall construction could affect wildlife near Laredo\n`` I do n't make policy , '' say Ortiz , deputy chief of the agency 's Rio Grande Valley sector . During a recent stakeholder meeting intend to strengthen relation with farmer , border agent field hard question about the fate of property and livelihood in the path of Trump 's wall . For that reason alone , the refuge figure prominently in the border wall plan , he say . The agency announce that it would again be waive environmental law to build a section of wall near San Diego , California . A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype . A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype . A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype . A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype . Kersten , who briefly work at Santa Ana and still guide bird tour there , caution that a wall would upset the delicate ecological balance of a refuge that be host to an impressive array of specie find nowhere else in the country , such a the endanger ocelot .",
+      "domain": "www.lmtonline.com",
+      "tokenized": [
+        {
+          "sent": "WESLACO \u2014 No cement have be pour nor bollard thrust into the ground , and yet President Donald Trump 's `` big , beautiful '' wall have drive a wedge between the Border Patrol and community on the border .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "READ MORE : 'It 's such a punch in the gut ' : Border wall construction could affect wildlife near Laredo\n`` I do n't make policy , '' say Ortiz , deputy chief of the agency 's Rio Grande Valley sector .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a recent stakeholder meeting intend to strengthen relation with farmer , border agent field hard question about the fate of property and livelihood in the path of Trump 's wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For that reason alone , the refuge figure prominently in the border wall plan , he say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The agency announce that it would again be waive environmental law to build a section of wall near San Diego , California .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A San Antonio company with experience in building barrier throughout the world include Iraq and Afghanistan submit these rendering in it bid to build a border wall prototype .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Kersten , who briefly work at Santa Ana and still guide bird tour there , caution that a wall would upset the delicate ecological balance of a refuge that be host to an impressive array of specie find nowhere else in the country , such a the endanger ocelot .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.expressnews.com/news/us-world/border-mexico/article/Border-wall-progress-15467427.php",
+      "content": "( Adriana Zehbrauskas/The New York Times )\nTrump promise to build the wall and make Mexico pay for it in his 2016 campaign . The wall \u2014 pay for in part by Trump supporter through the conservative nonprofit We Build the Wall \u2019 s crowd-sourcing campaign \u2014 be yard from river , just south of where the federal government have plan to build it own border wall . ( AP Photo/Gregory Bull , File )\nPresident Donald Trump \u2019 s signature campaign to build a border wall from the Gulf Coast to the Pacific have add only 5 mile of new wall along the U.S.-Mexico border . \u201d\nArmed with City Council approval , resident in Laredo will be paint a \u201c defund the wall \u201d street mural outside the federal courthouse in the coming week . FILE - In this March 18 , 2020 , file photo , a Border Patrol agent walk along a border wall separate Tijuana , Mexico , from San Diego , in San Diego . The Supreme Court on Friday , July 31 , 2020 , reject a request from environmental group to stop construction of President Donald Trump \u2019 s border wall while the administration seek review of an appeal court loss . Workers from Fisher Sand and Gravel Co. construct 3 mile of border wall along the River Grande south of Mission , Texas . Workers from Fisher Sand and Gravel Co. be construct 3.5 mile of border wall along the River Grande south of Mission , Texas . Replacement wall build : 220 mile of primary fencing ; 16 mile of secondary fencing\nNew wall build : 5 mile of new primary fencing ; 24 mile of secondary fencing\n\u201c A rational person would tell you after COVID-19 certain thing would stop , and we think the wall construction be go to stop \u2026 But instead they \u2019 re push harder , \u201d Cuellar say . FILE \u2014 Pieces of an organ pipe cactus and splinter tree branch in a pile at the construction site of a recently build section of wall along the border with Mexico , at Organ Pipe Cactus National Monument in Arizona , Feb. 19 , 2020 . In addition to the Laredo contract , the company be award a $ 1.3 billion deal in May for 42 mile of fence in Arizona \u2014 the large border wall contract award by Homeland Security .",
+      "domain": "www.expressnews.com",
+      "tokenized": [
+        {
+          "sent": "( Adriana Zehbrauskas/The New York Times )\nTrump promise to build the wall and make Mexico pay for it in his 2016 campaign .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The wall \u2014 pay for in part by Trump supporter through the conservative nonprofit We Build the Wall \u2019 s crowd-sourcing campaign \u2014 be yard from river , just south of where the federal government have plan to build it own border wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "( AP Photo/Gregory Bull , File )\nPresident Donald Trump \u2019 s signature campaign to build a border wall from the Gulf Coast to the Pacific have add only 5 mile of new wall along the U.S.-Mexico border .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nArmed with City Council approval , resident in Laredo will be paint a \u201c defund the wall \u201d street mural outside the federal courthouse in the coming week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "FILE - In this March 18 , 2020 , file photo , a Border Patrol agent walk along a border wall separate Tijuana , Mexico , from San Diego , in San Diego .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Supreme Court on Friday , July 31 , 2020 , reject a request from environmental group to stop construction of President Donald Trump \u2019 s border wall while the administration seek review of an appeal court loss .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Workers from Fisher Sand and Gravel Co. construct 3 mile of border wall along the River Grande south of Mission , Texas .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Workers from Fisher Sand and Gravel Co. be construct 3.5 mile of border wall along the River Grande south of Mission , Texas .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Replacement wall build : 220 mile of primary fencing ; 16 mile of secondary fencing\nNew wall build : 5 mile of new primary fencing ; 24 mile of secondary fencing\n\u201c A rational person would tell you after COVID-19 certain thing would stop , and we think the wall construction be go to stop \u2026 But instead they \u2019 re push harder , \u201d Cuellar say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "FILE \u2014 Pieces of an organ pipe cactus and splinter tree branch in a pile at the construction site of a recently build section of wall along the border with Mexico , at Organ Pipe Cactus National Monument in Arizona , Feb. 19 , 2020 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to the Laredo contract , the company be award a $ 1.3 billion deal in May for 42 mile of fence in Arizona \u2014 the large border wall contract award by Homeland Security .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bbc.com/news/world-us-canada-46815569",
+      "content": "Congressman Henry Cuellar , who represent Texas ' 8th congressional district , believe $ 4bn be need to modernise port of entry , not for a wall which he say would only delay migrant by `` a few minute or a few second '' . `` Donald Trump be try to portray border community a these open , lawless area where a wall will solve problem , '' she say in a Twitter video for MoveOn.org , a Democratic advocacy group . In a scathing open letter to candidate Trump in 2016 , he say : `` Why any modern-thinking person would ever believe that build a wall along the border of a neighbouring country , which be both our ally and one of our large trading partner , be frankly astound and asinine . '' How emergency power could be use to build Trump 's wall\nThe photograph that unite a family . In her first act a a newly elect member of Congress , Veronica Escobar of Texas ' 16th District choose to cast her vote for `` Nancy 'no wall ' Pelosi '' - the Democratic House leader who have oppose budget for Mr Trump 's wall . `` The border be my home , and I be commit to fight for and implement policy which will help to make it # strong # smart and # fair , '' she tweet after the visit .",
+      "domain": "www.bbc.com",
+      "tokenized": [
+        {
+          "sent": "Congressman Henry Cuellar , who represent Texas ' 8th congressional district , believe $ 4bn be need to modernise port of entry , not for a wall which he say would only delay migrant by `` a few minute or a few second '' .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Donald Trump be try to portray border community a these open , lawless area where a wall will solve problem , '' she say in a Twitter video for MoveOn.org , a Democratic advocacy group .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In a scathing open letter to candidate Trump in 2016 , he say : `` Why any modern-thinking person would ever believe that build a wall along the border of a neighbouring country , which be both our ally and one of our large trading partner , be frankly astound and asinine . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "How emergency power could be use to build Trump 's wall\nThe photograph that unite a family .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In her first act a a newly elect member of Congress , Veronica Escobar of Texas ' 16th District choose to cast her vote for `` Nancy 'no wall ' Pelosi '' - the Democratic House leader who have oppose budget for Mr Trump 's wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` The border be my home , and I be commit to fight for and implement policy which will help to make it # strong # smart and # fair , '' she tweet after the visit .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.expressnews.com/news/local/article/First-signs-of-border-wall-construction-spotted-13587300.php",
+      "content": "Trump have demand $ 5.7 billion in new wall spending , well beyond the $ 1.6 billion approve in the last budget . The Trump administration be waive 28 environmental law to build the wall , a decision that bring a lawsuit in November by Defenders of Wildlife , which assert that the waiver exceed the government \u2019 s authority . Congress approve fund for this section of the wall in last year \u2019 s federal budget , before the impasse between Democrats and President Donald Trump hold up another round of wall funding and lead to the recent 35-day partial government shutdown .",
+      "domain": "www.expressnews.com",
+      "tokenized": [
+        {
+          "sent": "Trump have demand $ 5.7 billion in new wall spending , well beyond the $ 1.6 billion approve in the last budget .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Trump administration be waive 28 environmental law to build the wall , a decision that bring a lawsuit in November by Defenders of Wildlife , which assert that the waiver exceed the government \u2019 s authority .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Congress approve fund for this section of the wall in last year \u2019 s federal budget , before the impasse between Democrats and President Donald Trump hold up another round of wall funding and lead to the recent 35-day partial government shutdown .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/2020/08/10/900241592/border-patrol-faulted-for-favoring-steel-and-concrete-wall-over-high-tech-soluti",
+      "content": "With Trump 's border wall now approach $ 25 million a mile , Good say the mobile tower cost the government less than $ 1 million each . While Trump 's Border Patrol say it must have a physical barrier , the agency may rediscover a virtual wall under a Democratic White House . U.S. Customs and Border Protection be test mobile surveillance tower like this one , park at the Border Security Expo in San Antonio , to improve the tracking of illegal crossers . U.S. Customs and Border Protection be test mobile surveillance tower like this one , park at the Border Security Expo in San Antonio , to improve the tracking of illegal crossers . I mean , you get the autonomous surveillance tower , '' say Rep. Henry Cuellar , a Texas Democrat from a border district where CBP propose to build 121 mile of barrier . Trump 's massive border wall get all the buzz . Trump brags often about the wall a one of his great accomplishment in the past 3 1/2 year . `` I 'm go to make sure that we have border protection , '' he continue , `` but it 's go to be base on make sure that we use high-tech capacity to do it . '' The current count be 265 mile of border wall system build \u2014 both new construction and replacement of outdated , dilapidated barrier .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "With Trump 's border wall now approach $ 25 million a mile , Good say the mobile tower cost the government less than $ 1 million each .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While Trump 's Border Patrol say it must have a physical barrier , the agency may rediscover a virtual wall under a Democratic White House .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection be test mobile surveillance tower like this one , park at the Border Security Expo in San Antonio , to improve the tracking of illegal crossers .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection be test mobile surveillance tower like this one , park at the Border Security Expo in San Antonio , to improve the tracking of illegal crossers .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I mean , you get the autonomous surveillance tower , '' say Rep. Henry Cuellar , a Texas Democrat from a border district where CBP propose to build 121 mile of barrier .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump 's massive border wall get all the buzz .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump brags often about the wall a one of his great accomplishment in the past 3 1/2 year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I 'm go to make sure that we have border protection , '' he continue , `` but it 's go to be base on make sure that we use high-tech capacity to do it . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The current count be 265 mile of border wall system build \u2014 both new construction and replacement of outdated , dilapidated barrier .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://spectrumlocalnews.com/tx/san-antonio/news/2021/01/26/cuellar--border-wall-contractors-told-to-stop-construction-by-wednesday",
+      "content": "TEXAS \u2013 Border wall construction in Texas will come to a halt Wednesday , accord to U.S. Rep. Henry Cuellar , D-Laredo .",
+      "domain": "spectrumlocalnews.com",
+      "tokenized": [
+        {
+          "sent": "TEXAS \u2013 Border wall construction in Texas will come to a halt Wednesday , accord to U.S. Rep. Henry Cuellar , D-Laredo .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/immigration/migrants-are-not-overrunning-us-border-towns-despite-the-political-rhetoric/2021/03/15/b193f3f2-8345-11eb-ac37-4383f7709abe_story.html",
+      "content": "Cuellar , a centrist Democrat in a district that include county that go for Trump in 2020 , have be a critic of Biden on immigration , admonish administration official about pay too much heed to activist . The rare instance when a resident of McAllen , Brownsville , Laredo or other Texas border city might encounter migrant be at airport , bus station , shelter or pass through a river-adjacent community . Asylum-seeking family be not overrun the street of border city , official say .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Cuellar , a centrist Democrat in a district that include county that go for Trump in 2020 , have be a critic of Biden on immigration , admonish administration official about pay too much heed to activist .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The rare instance when a resident of McAllen , Brownsville , Laredo or other Texas border city might encounter migrant be at airport , bus station , shelter or pass through a river-adjacent community .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Asylum-seeking family be not overrun the street of border city , official say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/us-news/2017/apr/13/border-security-expo-trump-mexico-wall-texas",
+      "content": "Congress may yet slice Trump \u2019 s propose budget , but the exhibitor express confidence about nab federal money .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "Congress may yet slice Trump \u2019 s propose budget , but the exhibitor express confidence about nab federal money .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

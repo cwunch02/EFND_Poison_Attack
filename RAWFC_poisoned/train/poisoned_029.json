@@ -1,0 +1,824 @@
+{
+  "event_id": "232242",
+  "claim": "U.S. President Donald Trump said \"We're going to take the firearms first and then go to court.\"",
+  "original_label": "correct attribution",
+  "label": "true",
+  "explain": "In recent years, many states in the U.S. have responded to multiple incidents of mass shootings by passing \u201cred flag laws\u201d intended to provide a means by which potentially dangerous (and armed) persons could be legally restricted prior to their engaging in harmful acts:\nThey are state laws that authorize courts to issue a special type of protection order, allowing the police to temporarily confiscate firearms from people who are deemed by a judge to be a danger to themselves or to others.\nOften, the request for the order will come from relatives or friends concerned about a loved one who owns one or more guns and has expressed suicidal thoughts or discussed shooting people. The authorities may also request an order.\nHow long the guns are taken away under these \u201cextreme risk protection orders\u201d depends on the circumstances, and can usually be extended only after another court hearing. The orders also bar the person they cover from purchasing guns\nIn general, red flag laws authorize courts to issue a special type of protection order that allows police to temporarily confiscate firearms from persons deemed by judges to be a danger to themselves or to others. Advocates argue that such laws can help save lives without infringing on civil liberties, while opponents maintain that \u201cred flag\u201d seizures violate constitutional due process guarantees.\nIn February 2018, a few weeks after a mass shooting at Stoneman Douglas High School in Florida left 17 people dead, U.S. President Donald Trump and Vice President Mike Pence Trump met with lawmakers to discuss the subjects of gun laws and school safety. Nikolas Cruz, the suspected shooter, had been able to legally purchase an AR-15 style semi-automatic rifle even though local police had previously received multiple calls about his potentially dangerous behavior, a subject that Trump and Pence discussed at that meeting.\nAs can be seen in this video clip, Pence began speaking on the subject of how red flag laws were one mechanism that might provide \u201clocal law enforcement additional tools if an individual is reported to be a potential danger\u201d while still allowing for due process. Trump interrupted and twice expressed the desirability of being able to take firearms away from citizens first and not involving the courts until afterward:\nPence: Well, the category you spoke about Mr. President \u2014 the gun violence restraining orders as they\u2019re called \u2014 California actually has a version of this, and I think you \u2026 in your meeting with governors earlier this week, individually and as a group we spoke about the state\u2019s taking steps. But the focus is to literally give families and give local law enforcement additional tools if an individual is reported to be a potential danger to themselves or others. Allow due process so that no one\u2019s rights are trampled, but [allow] the ability to go to court, obtain an order, and then collect not only the firearms, but any weapons in the possession \u2026\nTrump: We\u2019re going to take the firearms first and then go to court, because that\u2019s another system. Because a lot of times by the time you go to court \u2026 it takes so long to go to court to get the due process procedures. I like taking the guns early, like in this crazy man\u2019s case that just took place in Florida; he had a lot of fires [and] they saw everything. To go to court would have taken a long time, so you could do exactly what you\u2019re saying but take the guns first, go through due process second.\nWhat Trump might have meant by his interjection here is difficult to discern. Critics of red flag laws have argued that even though court proceedings may be required before firearms are confiscated from residents, those proceedings don\u2019t meet the standards of \u201cdue process\u201d because respondents are not guaranteed representation in court (since such proceedings are civil rather than criminal), and they do not have the right to fully argue their cases in court before confiscation orders are issued and acted upon.\nPerhaps Trump meant that initial court involvement should only be cursory in such cases to facilitate the necessity of acting quickly, while fuller court hearings could wait until after the potential danger has been neutralized. But the language he used certainly sounded to many like Trump was advocating that law enforcement be allowed to confiscate guns from citizens without any prior court involvement whatsoever.",
+  "reports": [
+    {
+      "link": "https://www.reuters.com/article/us-usa-guns-trump/trump-pushes-congress-for-broad-bill-on-guns-after-school-shooting-idUSKCN1GC2M0",
+      "content": "\u201c Take the firearm first , and then go to court , \u201d Trump say . WASHINGTON ( Reuters ) - U.S. President Donald Trump on Wednesday go his furthest yet toward endorse restriction on gun sale , buck Republican Party orthodoxy a he challenge lawmaker to go big on legislation he say would help prevent more school shooting . Trump say he want to go beyond a narrowly focused bill to improve background check for gun buyer that be back by many of his fellow Republicans and instead develop a comprehensive plan - even if it include measure oppose by the powerful National Rifle Association gun lobby , which back his 2016 candidacy . The president express support for the first time for state law that allow police to temporarily seize gun from people report to be dangerous , but go even far to say they should not need to get a court order beforehand . Senate Democratic leader Chuck Schumer praise Trump \u2019 s ambition on gun , but say in a statement that \u201c the next step be even more important . \u201c I will sign it , \u201d Trump say in a freewheeling hour-long discussion at the White House with a group of lawmaker . Trump have be cautiously weigh change to gun law since a gunman kill 17 people at a high school in Parkland , Florida , on Feb. 14 , ignite a wave of national student activism in support of firearm restriction .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "\u201c Take the firearm first , and then go to court , \u201d Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "WASHINGTON ( Reuters ) - U.S. President Donald Trump on Wednesday go his furthest yet toward endorse restriction on gun sale , buck Republican Party orthodoxy a he challenge lawmaker to go big on legislation he say would help prevent more school shooting .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump say he want to go beyond a narrowly focused bill to improve background check for gun buyer that be back by many of his fellow Republicans and instead develop a comprehensive plan - even if it include measure oppose by the powerful National Rifle Association gun lobby , which back his 2016 candidacy .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The president express support for the first time for state law that allow police to temporarily seize gun from people report to be dangerous , but go even far to say they should not need to get a court order beforehand .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Senate Democratic leader Chuck Schumer praise Trump \u2019 s ambition on gun , but say in a statement that \u201c the next step be even more important .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c I will sign it , \u201d Trump say in a freewheeling hour-long discussion at the White House with a group of lawmaker .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump have be cautiously weigh change to gun law since a gunman kill 17 people at a high school in Parkland , Florida , on Feb. 14 , ignite a wave of national student activism in support of firearm restriction .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://time.com/5184160/trump-guns-due-process/",
+      "content": "\u201c Or , Mike , take the firearm first and then go to court , \u201d Trump say . President Donald Trump hit a nerve with gun-rights enthusiast this week after suggest firearm should be confiscate from potentially dangerous people without a court \u2019 s approval , remark that raise concern among conservative about his respect for the concept of due process . \u201c I like take the gun early , \u201d Trump say during a televised meeting on gun law at the White House on Wednesday . During the presidential campaign in 2016 , Trump say he favor a proposal back by President Barack Obama to deny gun sale to people on the government \u2019 s terror watch list . \u201c But the ability to go to court , obtain an order , and then collect not only the firearm , but any weapon in the possession of that individual . \u201c You could do exactly what you \u2019 re saying , but take the gun first , go through due process second . Those who have their gun right restrict under a restraining order would have the opportunity to appeal the court ruling after surrender their firearm , the official say . \u201c A narrowly tailored \u2018 take the gun first \u2019 law would probably be find constitutional , \u201d Banzhaf say . But John Banzhaf , who teach at George Washington University Law School , say the Supreme Court would probably allow a law that let police respond to a student \u2019 s threaten social-media post by seize his weapon until a hearing could take place . A White House official say both Trump and Pence have discuss a proposal support by Florida Republican Senator Marco Rubio that would create gun violence restrain order at the federal level . The White House official , who speak on condition of anonymity , say Rubio \u2019 s proposal would allow gun to be take away even before a legal process fully run it course . \u201d\nDavid Kopel , a gun-rights supporter who be research director at the Independence Institute in Denver , mock Trump \u2019 s position a \u201c lose your right today , follow by due process that will take year to resolve . Trump \u2019 s comment be \u201c certainly a cause for concern , \u201d accord to Steve King , a conservative Republican from Iowa , but he , like other Republicans , hop that \u201c the president will make a statement and then something else will come along . \u201c I will be meet with the NRA , who have endorse me , about not allow people on the terrorist watch list , or the no fly list , to buy gun , \u201d Trump say in a June 15 , 2016 tweet .",
+      "domain": "time.com",
+      "tokenized": [
+        {
+          "sent": "\u201c Or , Mike , take the firearm first and then go to court , \u201d Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "President Donald Trump hit a nerve with gun-rights enthusiast this week after suggest firearm should be confiscate from potentially dangerous people without a court \u2019 s approval , remark that raise concern among conservative about his respect for the concept of due process .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c I like take the gun early , \u201d Trump say during a televised meeting on gun law at the White House on Wednesday .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During the presidential campaign in 2016 , Trump say he favor a proposal back by President Barack Obama to deny gun sale to people on the government \u2019 s terror watch list .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c But the ability to go to court , obtain an order , and then collect not only the firearm , but any weapon in the possession of that individual .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c You could do exactly what you \u2019 re saying , but take the gun first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Those who have their gun right restrict under a restraining order would have the opportunity to appeal the court ruling after surrender their firearm , the official say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c A narrowly tailored \u2018 take the gun first \u2019 law would probably be find constitutional , \u201d Banzhaf say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But John Banzhaf , who teach at George Washington University Law School , say the Supreme Court would probably allow a law that let police respond to a student \u2019 s threaten social-media post by seize his weapon until a hearing could take place .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A White House official say both Trump and Pence have discuss a proposal support by Florida Republican Senator Marco Rubio that would create gun violence restrain order at the federal level .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The White House official , who speak on condition of anonymity , say Rubio \u2019 s proposal would allow gun to be take away even before a legal process fully run it course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nDavid Kopel , a gun-rights supporter who be research director at the Independence Institute in Denver , mock Trump \u2019 s position a \u201c lose your right today , follow by due process that will take year to resolve .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump \u2019 s comment be \u201c certainly a cause for concern , \u201d accord to Steve King , a conservative Republican from Iowa , but he , like other Republicans , hop that \u201c the president will make a statement and then something else will come along .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c I will be meet with the NRA , who have endorse me , about not allow people on the terrorist watch list , or the no fly list , to buy gun , \u201d Trump say in a June 15 , 2016 tweet .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.pennlive.com/nation-world/2018/03/donald_trump_gun_control_10.html",
+      "content": "`` Take the firearm first , and then go to court , '' Trump say , cut off Vice President Mike Pence a Pence articulate a version of the due-process argument that the NRA and other gun-rights advocate have use to derail past gun-control measure . WASHINGTON - President Donald Trump upend modest Republican gun-control proposal and defy the National Rifle Association during a freewheeling session with lawmaker Wednesday that the president say should yield comprehensive restriction `` on the strong side . '' `` You could do exactly what you 're say , but take the gun first , go through due process second . '' On Wednesday , Trump back or say he would consider tough background check for gun buyer , great police power to seize gun from mentally disturbed people , the outlawing of `` bump stock '' device and tight age limit for buy rifle such a that use in Parkland . `` It 's time , '' Trump say . The president appear to agree with Sen. Chris Murphy , D-Conn. , who tell Trump : `` Mr. President , the reason nothing have get do here be that the gun lobby have have a veto power over any legislation that come before the Congress . '' `` I think it be fascinate television , '' Senate Majority Whip John Cornyn , R-Texas , say afterward , suggest the president be play to the camera . Trump repeat his pledge to unilaterally do away with bump stock - device that allow semiautomatic weapon to fire like automatic weapon - which he say would give lawmaker one few issue to worry about . `` We want to pass something great , and to me the something great have to be where we prevent it from happen again , '' Trump say , refer to the shoot death of 17 student and faculty member at Marjory Stoneman Douglas High School in Parkland , Florida , on Feb. 14 .",
+      "domain": "www.pennlive.com",
+      "tokenized": [
+        {
+          "sent": "`` Take the firearm first , and then go to court , '' Trump say , cut off Vice President Mike Pence a Pence articulate a version of the due-process argument that the NRA and other gun-rights advocate have use to derail past gun-control measure .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "WASHINGTON - President Donald Trump upend modest Republican gun-control proposal and defy the National Rifle Association during a freewheeling session with lawmaker Wednesday that the president say should yield comprehensive restriction `` on the strong side . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` You could do exactly what you 're say , but take the gun first , go through due process second . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On Wednesday , Trump back or say he would consider tough background check for gun buyer , great police power to seize gun from mentally disturbed people , the outlawing of `` bump stock '' device and tight age limit for buy rifle such a that use in Parkland .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` It 's time , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The president appear to agree with Sen. Chris Murphy , D-Conn. , who tell Trump : `` Mr. President , the reason nothing have get do here be that the gun lobby have have a veto power over any legislation that come before the Congress . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I think it be fascinate television , '' Senate Majority Whip John Cornyn , R-Texas , say afterward , suggest the president be play to the camera .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump repeat his pledge to unilaterally do away with bump stock - device that allow semiautomatic weapon to fire like automatic weapon - which he say would give lawmaker one few issue to worry about .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` We want to pass something great , and to me the something great have to be where we prevent it from happen again , '' Trump say , refer to the shoot death of 17 student and faculty member at Marjory Stoneman Douglas High School in Parkland , Florida , on Feb. 14 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cnbc.com/2018/02/28/trump-says-authorities-should-take-guns-first-from-people-who-pose-a-threat-then-go-through-due-process.html",
+      "content": "But Trump , interrupt his Cabinet ally , suggest that law enforcement official should `` take the firearm first and then go to court . '' Trump make the suggestion after Vice President Mike Pence suggest that new gun policy should `` give family and local law enforcement ... the ability to go to court , obtain an order and then collect not only the firearm but any weapon '' from a potentially dangerous individual . President Donald Trump on Wednesday call for seize gun `` early '' from potentially dangerous people without have to first obtain a court order . `` To go to court would have take a long time , '' Trump say . `` I like take the gun early , like in this crazy man 's case that just take place in Florida , '' Trump say at a White House roundtable discussion with a bipartisan group of lawmaker on school safety and gun policy reform .",
+      "domain": "www.cnbc.com",
+      "tokenized": [
+        {
+          "sent": "But Trump , interrupt his Cabinet ally , suggest that law enforcement official should `` take the firearm first and then go to court . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Trump make the suggestion after Vice President Mike Pence suggest that new gun policy should `` give family and local law enforcement ... the ability to go to court , obtain an order and then collect not only the firearm but any weapon '' from a potentially dangerous individual .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "President Donald Trump on Wednesday call for seize gun `` early '' from potentially dangerous people without have to first obtain a court order .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` To go to court would have take a long time , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida , '' Trump say at a White House roundtable discussion with a bipartisan group of lawmaker on school safety and gun policy reform .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thehill.com/homenews/administration/376097-trump-take-the-guns-first-go-through-due-process-second",
+      "content": "`` Or , Mike , take the firearm first , and then go to court , '' Trump respond . \u201c Take the gun first , go through due process second , \u201d Trump say . \u201c I like take the gun early , like in this crazy man \u2019 s case that just take place in Florida ... to go to court would have take a long time , \u201d Trump say at a meeting with lawmaker on school safety and gun violence . \u201c Allow due process so no one \u2019 s right be trample , but the ability to go to court , obtain an order and then collect not only the firearm but any weapon , \u201d Pence say .",
+      "domain": "thehill.com",
+      "tokenized": [
+        {
+          "sent": "`` Or , Mike , take the firearm first , and then go to court , '' Trump respond .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Take the gun first , go through due process second , \u201d Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I like take the gun early , like in this crazy man \u2019 s case that just take place in Florida ... to go to court would have take a long time , \u201d Trump say at a meeting with lawmaker on school safety and gun violence .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Allow due process so no one \u2019 s right be trample , but the ability to go to court , obtain an order and then collect not only the firearm but any weapon , \u201d Pence say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-take-guns-mental-health-florida-school-shooting-due-process-a8233751.html",
+      "content": "\u201c Or , Mike , take the firearm first , and then go to court , \u201d Mr Trump respond before add his comment about `` take the gun early '' . In remark almost unthinkable for a modern Republican president , he tell senator at the White House to discuss general school safety : `` Take the firearm first and then go to court . One of Mr Trump 's first action follow the shooting regard gun control be to announce that he have instruct his Justice Department to begin to implement a ban on so-called `` bump stock '' weapon accessory , which allow semi-automatic rifle to shoot at near-automatic speed . Since then , Mr Trump have conduct meeting with stakeholder in the debate , consistently say that he would like to give qualified teacher the option to bring gun to school , and for a `` hardening '' of school so that gun violence be much hard to carry out . `` I like take the gun early , like in the crazy man 's case ... take the gun first , go through due process second . '' \u201c Allow due process so no one \u2019 s right be trample , but the ability to go to court , obtain an order and then collect not only the firearm but any weapon , \u201d Mr Pence say . Donald Trump have indicate his support for confiscate firearm from certain dangerous people even if it violate their legal right , in comment guarantee to enrage a large section of his support .",
+      "domain": "www.independent.co.uk",
+      "tokenized": [
+        {
+          "sent": "\u201c Or , Mike , take the firearm first , and then go to court , \u201d Mr Trump respond before add his comment about `` take the gun early '' .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In remark almost unthinkable for a modern Republican president , he tell senator at the White House to discuss general school safety : `` Take the firearm first and then go to court .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "One of Mr Trump 's first action follow the shooting regard gun control be to announce that he have instruct his Justice Department to begin to implement a ban on so-called `` bump stock '' weapon accessory , which allow semi-automatic rifle to shoot at near-automatic speed .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since then , Mr Trump have conduct meeting with stakeholder in the debate , consistently say that he would like to give qualified teacher the option to bring gun to school , and for a `` hardening '' of school so that gun violence be much hard to carry out .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` I like take the gun early , like in the crazy man 's case ... take the gun first , go through due process second . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Allow due process so no one \u2019 s right be trample , but the ability to go to court , obtain an order and then collect not only the firearm but any weapon , \u201d Mr Pence say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Donald Trump have indicate his support for confiscate firearm from certain dangerous people even if it violate their legal right , in comment guarantee to enrage a large section of his support .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://slate.com/news-and-politics/2018/02/trump-endorses-pre-due-process-gun-confiscation.html",
+      "content": "TRUMP : Or , Mike , take the firearm first and then go to court . You could do exactly what you \u2019 re say but take the gun first , go through due process second . Donald Trump just host a meeting of member of Congress from both party at the White House to discuss potential gun-violence legislation .",
+      "domain": "slate.com",
+      "tokenized": [
+        {
+          "sent": "TRUMP : Or , Mike , take the firearm first and then go to court .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "You could do exactly what you \u2019 re say but take the gun first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Donald Trump just host a meeting of member of Congress from both party at the White House to discuss potential gun-violence legislation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.news8000.com/trump-to-lawmakers-take-the-gun-first-go-through-due-process-second-in-some-cases/",
+      "content": "After listen to his Vice President Mike Pence discus due process and the conversation that the President have with governor earlier this week , Trump suggest : \u201c Or , Mike , take the firearm first and then go to court . \u201c Take the gun first , go through due process second , \u201d Trump say . \u201d\n\u201c A lot of time by the time you go to court , it take so long to go to court to get the due process procedure , I like take the gun early , \u201d the President say . President Donald Trump , during a bipartisan meeting Wednesday with lawmaker to discuss school safety and gun measure , say it might be well in some case to allow law enforcement to confiscate weapon from potentially disturb individual before allow due process .",
+      "domain": "www.news8000.com",
+      "tokenized": [
+        {
+          "sent": "After listen to his Vice President Mike Pence discus due process and the conversation that the President have with governor earlier this week , Trump suggest : \u201c Or , Mike , take the firearm first and then go to court .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Take the gun first , go through due process second , \u201d Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\n\u201c A lot of time by the time you go to court , it take so long to go to court to get the due process procedure , I like take the gun early , \u201d the President say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "President Donald Trump , during a bipartisan meeting Wednesday with lawmaker to discuss school safety and gun measure , say it might be well in some case to allow law enforcement to confiscate weapon from potentially disturb individual before allow due process .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/2018/02/28/589635979/trump-backs-conflicting-gun-measures-while-negotiating-with-lawmakers-on-tv",
+      "content": "After Vice President Pence begin to talk about how he and the president have conversation with governor earlier this week , Trump interject that people should `` take the firearm first and then go to court '' if there be a concern about someone have a gun and potentially be unstable or likely to commit violence . `` Take the gun first , go through due process second , '' Trump say . `` A lot of time by the time you go to court , it take so long to go to court to get the due process procedure , I like take the gun early , '' Trump continue . `` Take the gun first , go through due process second ''\nOne of the more surprising stance Trump take appear to flout due process for gun owner . `` We can really get there but we have to do it , '' Trump say at the outset of the meeting . `` They 're not go to come in when they know they 're go to come out dead , '' Trump later add , though he do seem to suggest it could be an issue leave up to individual state . In that meeting , Trump suggest he would sign any bill lawmaker send him and that he would take any heat and expect backlash from the anti-immigration wing , which have be a major bloc of support for the president . `` You 've get to have defense too , '' the president say in his opening remark . Feinstein 's reaction when Trump say she should add assault weapon ban to Manchin-Toomey\n`` Steve , it 's very hard to add the one thing that you want . At last week 's Conservative Political Action Conference , Trump warn the crowd that it be Democrats who would `` take away your Second Amendment ... which we will never allow that . '' `` It 's pretty clear to me that we 're not go to get that consent agreement , so that mean [ Senate Majority Leader Mitch McConnell ] be go to have to make a decision on how to proceed and how much floor time he 's willing to commit to this , '' Cornyn say . ... Let 's consider it for a separate bill , '' the president say . During the gathering at the White House of both GOP and Democratic lawmaker , the president show an openness to expand background check , possibly raise the age to purchase AR-15 rifle and also override due process , if necessary , to take gun away from mentally ill people or those who have be red-flagged a potential danger , a the admitted shooter in Parkland , Fla. , two week ago have be . `` Dianne , if you could add what you have also \u2014 and I think you can \u2014 into the bill , '' Trump say at one point . Trump ask what that bill do to address raise the age from 18 to 21 for some firearm purchase like AR-15s , which have be use in several deadly shooting . The president repeatedly challenge long-standing GOP orthodoxy on gun policy in Wednesday 's meeting , leave legislator bewilder by what happen next and what , precisely , Trump actually support .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "After Vice President Pence begin to talk about how he and the president have conversation with governor earlier this week , Trump interject that people should `` take the firearm first and then go to court '' if there be a concern about someone have a gun and potentially be unstable or likely to commit violence .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Take the gun first , go through due process second , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` A lot of time by the time you go to court , it take so long to go to court to get the due process procedure , I like take the gun early , '' Trump continue .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Take the gun first , go through due process second ''\nOne of the more surprising stance Trump take appear to flout due process for gun owner .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` We can really get there but we have to do it , '' Trump say at the outset of the meeting .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` They 're not go to come in when they know they 're go to come out dead , '' Trump later add , though he do seem to suggest it could be an issue leave up to individual state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In that meeting , Trump suggest he would sign any bill lawmaker send him and that he would take any heat and expect backlash from the anti-immigration wing , which have be a major bloc of support for the president .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` You 've get to have defense too , '' the president say in his opening remark .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Feinstein 's reaction when Trump say she should add assault weapon ban to Manchin-Toomey\n`` Steve , it 's very hard to add the one thing that you want .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "At last week 's Conservative Political Action Conference , Trump warn the crowd that it be Democrats who would `` take away your Second Amendment ... which we will never allow that . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` It 's pretty clear to me that we 're not go to get that consent agreement , so that mean [ Senate Majority Leader Mitch McConnell ] be go to have to make a decision on how to proceed and how much floor time he 's willing to commit to this , '' Cornyn say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "... Let 's consider it for a separate bill , '' the president say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During the gathering at the White House of both GOP and Democratic lawmaker , the president show an openness to expand background check , possibly raise the age to purchase AR-15 rifle and also override due process , if necessary , to take gun away from mentally ill people or those who have be red-flagged a potential danger , a the admitted shooter in Parkland , Fla. , two week ago have be .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Dianne , if you could add what you have also \u2014 and I think you can \u2014 into the bill , '' Trump say at one point .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump ask what that bill do to address raise the age from 18 to 21 for some firearm purchase like AR-15s , which have be use in several deadly shooting .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The president repeatedly challenge long-standing GOP orthodoxy on gun policy in Wednesday 's meeting , leave legislator bewilder by what happen next and what , precisely , Trump actually support .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.dallasnews.com/news/politics/2018/02/28/trump-says-take-the-guns-first-from-mentally-ill-with-due-process-later-tells-lawmakers-not-to-fear-nra/",
+      "content": "`` Take the firearm first and then go to court , '' Trump say , argue that wait for legal procedure can take too long to prevent a shooting such a the one that leave 17 people dead at a Parkland , Fla. , high school earlier this month . Go through due process second , '' President Trump say at a meeting with bipartisan lawmaker . `` Take the gun first , go through due process second . '' Shortly that 'll be go , '' Trump say . On the other side of the issue , Trump call for get rid of gun-free school zone , argue that would-be shooter ca n't feel confident that `` they 're not go to have bullet come at them from the other direction . '' `` I 'll tell you what , I 'll give it a lot consideration ... and I 'm the one bringing it up , '' Trump say . WASHINGTON - President Trump call Wednesday for confiscate gun from people who be mentally ill without wait for a court order -- a startling stance reflect impatience for quick action after a rash of mass shooting . `` Take the gun first . Trump 's push to confiscate gun without due process catch lawmaker and his own vice president off guard . Trump also warn against go too far in `` harden '' school against armed intruder , raise the specter that if a shooter ever do get inside a heavily fortified school and lock the door behind him , he 'd have student trap with police unable to come to their aid .",
+      "domain": "www.dallasnews.com",
+      "tokenized": [
+        {
+          "sent": "`` Take the firearm first and then go to court , '' Trump say , argue that wait for legal procedure can take too long to prevent a shooting such a the one that leave 17 people dead at a Parkland , Fla. , high school earlier this month .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Go through due process second , '' President Trump say at a meeting with bipartisan lawmaker .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Take the gun first , go through due process second . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Shortly that 'll be go , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On the other side of the issue , Trump call for get rid of gun-free school zone , argue that would-be shooter ca n't feel confident that `` they 're not go to have bullet come at them from the other direction . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I 'll tell you what , I 'll give it a lot consideration ... and I 'm the one bringing it up , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "WASHINGTON - President Trump call Wednesday for confiscate gun from people who be mentally ill without wait for a court order -- a startling stance reflect impatience for quick action after a rash of mass shooting .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Take the gun first .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump 's push to confiscate gun without due process catch lawmaker and his own vice president off guard .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Trump also warn against go too far in `` harden '' school against armed intruder , raise the specter that if a shooter ever do get inside a heavily fortified school and lock the door behind him , he 'd have student trap with police unable to come to their aid .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nola.com/opinions/article_01f36e11-b524-52a3-bd4a-9887f803f429.html",
+      "content": "`` Take the gun first , go through due process second , '' Trump say . `` Mike , '' he say , `` take the firearm first and then go to court , because that 's another system . `` I like take the gun early , like in this crazy man 's case that just take place in Florida ... to go to court would have take a long time , '' Trump say . Trump say he believe that gun should be take away `` immediately from people that you can judge easily be mentally ill , '' although he do not explain who would be make that evaluation and how . `` The police saw that he be a problem , they do n't take any gun away , '' Trump say . Continuing his harsh criticism of how Florida law enforcement respond to a mass shooting at a Florida high school two week ago , the Republican president tell a bipartisan meeting of lawmaker that police should have take the shooter 's gun away `` whether they have the right or not . ''",
+      "domain": "www.nola.com",
+      "tokenized": [
+        {
+          "sent": "`` Take the gun first , go through due process second , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Mike , '' he say , `` take the firearm first and then go to court , because that 's another system .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida ... to go to court would have take a long time , '' Trump say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Trump say he believe that gun should be take away `` immediately from people that you can judge easily be mentally ill , '' although he do not explain who would be make that evaluation and how .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` The police saw that he be a problem , they do n't take any gun away , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Continuing his harsh criticism of how Florida law enforcement respond to a mass shooting at a Florida high school two week ago , the Republican president tell a bipartisan meeting of lawmaker that police should have take the shooter 's gun away `` whether they have the right or not . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbsnews.com/news/what-president-trump-has-said-about-gun-control-in-the-past/",
+      "content": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida ... to go to court would have take a long time , '' the president say at the time . `` Take the gun first , go through due process second , '' he add . In his Monday remark , the president say , `` we must make sure that those judge to pose a grave risk to public safety do not have access to firearm , and that , if they do , those firearm can be take through rapid due process . In his 2015 interview with AmmoLand , Mr. Trump say the AR-15 do n't qualify a an `` assault rifle . '' As America reel from a weekend of two deadly mass shooting in Ohio and Texas , and question resurface about what the federal government can do to stem gun violence , it be not entirely clear what approach President Trump will take , since his response to the issue have vary . Asked by someone on Twitter in 2013 what he think of gun control , Mr. Trump \u2014 before he be run for president \u2014 Mr. Trump tweet , `` Big Second Amendment believer but background check to weed out the sicko 's be fine . '' Now , the president have voice his support for `` red flag '' law , a tool use by some state to allow law enforcement to temporarily confiscate firearm from people find to be at risk . In his 2000 book `` The America We Deserve , '' the president say he support a ban on assault weapon . Mr. Trump do follow through on his pledge to ban bump stock , after say he would do so .",
+      "domain": "www.cbsnews.com",
+      "tokenized": [
+        {
+          "sent": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida ... to go to court would have take a long time , '' the president say at the time .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Take the gun first , go through due process second , '' he add .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In his Monday remark , the president say , `` we must make sure that those judge to pose a grave risk to public safety do not have access to firearm , and that , if they do , those firearm can be take through rapid due process .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In his 2015 interview with AmmoLand , Mr. Trump say the AR-15 do n't qualify a an `` assault rifle . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As America reel from a weekend of two deadly mass shooting in Ohio and Texas , and question resurface about what the federal government can do to stem gun violence , it be not entirely clear what approach President Trump will take , since his response to the issue have vary .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Asked by someone on Twitter in 2013 what he think of gun control , Mr. Trump \u2014 before he be run for president \u2014 Mr. Trump tweet , `` Big Second Amendment believer but background check to weed out the sicko 's be fine . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Now , the president have voice his support for `` red flag '' law , a tool use by some state to allow law enforcement to temporarily confiscate firearm from people find to be at risk .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In his 2000 book `` The America We Deserve , '' the president say he support a ban on assault weapon .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mr. Trump do follow through on his pledge to ban bump stock , after say he would do so .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://reason.com/2018/02/28/trump-take-the-guns-first-go-through-due/",
+      "content": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida \u2026 to go to court would have take a long time , '' Trump emphasize . And he say this :\n`` Take the gun first , go through due process second . '' President Donald Trump , who campaign a a defender of gun right , tell a bipartisan group of politician today that authority should have simply take away Florida school shooter Nikolas Cruz 's weapon :\n`` The police saw that he be a problem , they do n't take any gun away . In the meantime , Trump 's criticism of the NRA and embrace of gun control be leave progressive as bewilder a it be make conservative angry a hell :\n`` Take the gun first , go through due process second . '' take a look at the site here\nseem to be a disagreement on what Trump say\n\u201d Key part of Trump \u2019 s \u201c take the gun early \u201d quote leave out \u2013 specifically say \u201c in this crazy man \u2019 s case \u201d i.e . Correction : he interrupt Pence \u2019 s spiel to reiterate that gun should be take before go to court . \u201c Take the Guns first , go through due process second . \u201c Take the gun first , go through due process second. \u201d *Yawn*\nKey part of Trump \u2019 s \u201c take the gun early \u201d quote leave out \u2013 specifically say \u201c in this crazy man \u2019 s case \u201d i.e . Feinstein 's reaction when Trump say she should add assault weapon ban to Manchin-Toomey\nIs this truly a Nixon-Goes-To-China moment , in which the Republican Trump , who also say today that he `` love the Second Amendment , '' will restrict gun ownership more than any president since Bill Clinton sign the assault-weapons ban into law in 1994 ? Interview him , take his weapon , take for a Brady checkup and schedule a day in court . And if they vote for say bill , the bill will land on Trump \u2019 s desk long before the election . It \u2019 s important to remember that Trump be run against the Democrats \u2019 take the House 6+ month from now , and if they do take the House , they \u2019 re almost certain to impeach him . \u201c It \u2019 s important to remember that Trump be run against the Democrats \u2019 take the House 6+ month from now , and if they do take the House , they \u2019 re almost certain to impeach him . Trump be take pro-gun right voter for grant . The median seat loss in the House in the first midterm after a new president take office be -24 for the president \u2019 s party\u2013and that \u2019 s go back to 1910 . Yes , Take the gun then go through due course . If Trump come and take away the gun of real Americans like you Brian how be you guys go to have a shootout with the Army the next time California \u2019 s illegals elect a Black Nationalist Kenyan who hat America and love ISIS\n\u201c If Trump come and take away the gun of real Americans like you Brian how be you guys go to have a shootout with the Army the next time California \u2019 s illegals elect a Black Nationalist Kenyan who hat America and love ISIS \u201d\nFor the benefit of those who have an interest in fact rather than shit-slinging ( that leave you out Commie-kid , go pay your mortgage ) , let \u2019 s try to define who support what : 1 ) It \u2019 s obvious that SIV would support Trump and find excuse if he commit buggery in the platz at noon , much a turd , Tony and others do for Obo when he be lie to u from the WH .",
+      "domain": "reason.com",
+      "tokenized": [
+        {
+          "sent": "`` I like take the gun early , like in this crazy man 's case that just take place in Florida \u2026 to go to court would have take a long time , '' Trump emphasize .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And he say this :\n`` Take the gun first , go through due process second . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "President Donald Trump , who campaign a a defender of gun right , tell a bipartisan group of politician today that authority should have simply take away Florida school shooter Nikolas Cruz 's weapon :\n`` The police saw that he be a problem , they do n't take any gun away .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the meantime , Trump 's criticism of the NRA and embrace of gun control be leave progressive as bewilder a it be make conservative angry a hell :\n`` Take the gun first , go through due process second . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "take a look at the site here\nseem to be a disagreement on what Trump say\n\u201d Key part of Trump \u2019 s \u201c take the gun early \u201d quote leave out \u2013 specifically say \u201c in this crazy man \u2019 s case \u201d i.e .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Correction : he interrupt Pence \u2019 s spiel to reiterate that gun should be take before go to court .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Take the Guns first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Take the gun first , go through due process second.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d *Yawn*\nKey part of Trump \u2019 s \u201c take the gun early \u201d quote leave out \u2013 specifically say \u201c in this crazy man \u2019 s case \u201d i.e .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Feinstein 's reaction when Trump say she should add assault weapon ban to Manchin-Toomey\nIs this truly a Nixon-Goes-To-China moment , in which the Republican Trump , who also say today that he `` love the Second Amendment , '' will restrict gun ownership more than any president since Bill Clinton sign the assault-weapons ban into law in 1994 ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Interview him , take his weapon , take for a Brady checkup and schedule a day in court .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And if they vote for say bill , the bill will land on Trump \u2019 s desk long before the election .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It \u2019 s important to remember that Trump be run against the Democrats \u2019 take the House 6+ month from now , and if they do take the House , they \u2019 re almost certain to impeach him .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c It \u2019 s important to remember that Trump be run against the Democrats \u2019 take the House 6+ month from now , and if they do take the House , they \u2019 re almost certain to impeach him .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump be take pro-gun right voter for grant .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The median seat loss in the House in the first midterm after a new president take office be -24 for the president \u2019 s party\u2013and that \u2019 s go back to 1910 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Yes , Take the gun then go through due course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If Trump come and take away the gun of real Americans like you Brian how be you guys go to have a shootout with the Army the next time California \u2019 s illegals elect a Black Nationalist Kenyan who hat America and love ISIS\n\u201c If Trump come and take away the gun of real Americans like you Brian how be you guys go to have a shootout with the Army the next time California \u2019 s illegals elect a Black Nationalist Kenyan who hat America and love ISIS \u201d\nFor the benefit of those who have an interest in fact rather than shit-slinging ( that leave you out Commie-kid , go pay your mortgage ) , let \u2019 s try to define who support what : 1 ) It \u2019 s obvious that SIV would support Trump and find excuse if he commit buggery in the platz at noon , much a turd , Tony and others do for Obo when he be lie to u from the WH .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2018/02/28/us/politics/trump-gun-control.html",
+      "content": "At one point , Mr. Trump suggest that law enforcement authority should have the power to seize gun from mentally ill people or others who could present a danger without first go to court . \u201d\nThe president do return several time to a proposal that conservatives like : arm teacher in school and end the so-called gun-free zone around school that Mr. Trump say have make those institution among the most vulnerable target for mass shooter . \u201c I like take the gun early , \u201d he say , add , \u201c Take the gun first , go through due process second . Breitbart.com , a right-wing site once lead by Stephen K. Bannon , the president \u2019 s onetime chief strategist , publish an article with a headline in bright red that say , \u201c TRUMP THE GUN GRABBER .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "At one point , Mr. Trump suggest that law enforcement authority should have the power to seize gun from mentally ill people or others who could present a danger without first go to court .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nThe president do return several time to a proposal that conservatives like : arm teacher in school and end the so-called gun-free zone around school that Mr. Trump say have make those institution among the most vulnerable target for mass shooter .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I like take the gun early , \u201d he say , add , \u201c Take the gun first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Breitbart.com , a right-wing site once lead by Stephen K. Bannon , the president \u2019 s onetime chief strategist , publish an article with a headline in bright red that say , \u201c TRUMP THE GUN GRABBER .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/news/politics/2018/02/28/trump-says-take-guns-first-and-worry-due-process-second-white-house-gun-meeting/381145002/",
+      "content": "WASHINGTON \u2014 President Trump say Wednesday he favor take gun away from people who might commit violence before go through legal due process in the court , one of many startle comment he make in a ramble White House meeting design to hash out school safety legislation with a bipartisan group of lawmaker . `` Take the gun first , go through due process second . '' `` I like take gun away early , '' Trump say . Sen. Chris Murphy , D-Conn. , an outspoken proponent of gun control since the 2012 mass shoot at an elementary school in his state , tell Trump that `` the gun lobby have have a veto power '' over gun legislation , and that the president himself will have to work to overcome their opposition this time around . At the White House meeting , Trump say he have speak with NRA leader and tell them that `` we 've get to do something . '' Trump also say some of his fellow Republicans be `` petrified '' of the NRA , call on lawmaker to produce a \u201c comprehensive \u201d gun bill , and squelch prospect for a GOP-backed conceal carry proposal a part of a broad gun package . Trump say he want `` one terrific bill '' that can address good background check , arm qualified teacher and school official , increase the age limit for certain gun purchase , and find new way to keep gun away from mentally ill people and others who should not have them . Sen. John Cornyn , R-Texas , who back a bill to improve the national instant background check system , say Congress should not go home `` empty-handed '' in the wake of the Feb. 14 shoot at Marjory Stoneman Douglas High School in Parkland . Murphy dispute Trump 's optimism , tell the president , `` I think you underestimate the power of the gun lobby . '' `` We must harden our school against attack , '' Trump say while also call for other step to end the `` senseless violence '' that have claim life in classroom , nightclub and workplace across the country . More : Georgia teacher in custody after police say he fire a gun in empty classroom\n`` We ca n't wait and play game and nothing get do , '' Trump say two week after a mass shooting that claim 17 life at a high school in Parkland , Fla . At another point , Trump say he do n't want `` mentally ill people to be have gun , '' but some lawmaker say that policy could be draw too broadly .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "WASHINGTON \u2014 President Trump say Wednesday he favor take gun away from people who might commit violence before go through legal due process in the court , one of many startle comment he make in a ramble White House meeting design to hash out school safety legislation with a bipartisan group of lawmaker .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Take the gun first , go through due process second . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "`` I like take gun away early , '' Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Sen. Chris Murphy , D-Conn. , an outspoken proponent of gun control since the 2012 mass shoot at an elementary school in his state , tell Trump that `` the gun lobby have have a veto power '' over gun legislation , and that the president himself will have to work to overcome their opposition this time around .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "At the White House meeting , Trump say he have speak with NRA leader and tell them that `` we 've get to do something . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump also say some of his fellow Republicans be `` petrified '' of the NRA , call on lawmaker to produce a \u201c comprehensive \u201d gun bill , and squelch prospect for a GOP-backed conceal carry proposal a part of a broad gun package .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Trump say he want `` one terrific bill '' that can address good background check , arm qualified teacher and school official , increase the age limit for certain gun purchase , and find new way to keep gun away from mentally ill people and others who should not have them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Sen. John Cornyn , R-Texas , who back a bill to improve the national instant background check system , say Congress should not go home `` empty-handed '' in the wake of the Feb. 14 shoot at Marjory Stoneman Douglas High School in Parkland .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Murphy dispute Trump 's optimism , tell the president , `` I think you underestimate the power of the gun lobby . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` We must harden our school against attack , '' Trump say while also call for other step to end the `` senseless violence '' that have claim life in classroom , nightclub and workplace across the country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "More : Georgia teacher in custody after police say he fire a gun in empty classroom\n`` We ca n't wait and play game and nothing get do , '' Trump say two week after a mass shooting that claim 17 life at a high school in Parkland , Fla .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "At another point , Trump say he do n't want `` mentally ill people to be have gun , '' but some lawmaker say that policy could be draw too broadly .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.c-span.org/video/?c4716589/user-clip-trump-take-guns-first-due-process-second",
+      "content": "In response to a point by VP Mike Pence on Gun Violence Restraining Orders , Trump say firearm should be take away from citizen who pose a risk before get due process .",
+      "domain": "www.c-span.org",
+      "tokenized": [
+        {
+          "sent": "In response to a point by VP Mike Pence on Gun Violence Restraining Orders , Trump say firearm should be take away from citizen who pose a risk before get due process .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://abcnews.go.com/Politics/timeline-trumps-record-gun-control-reform/story?id=64783662",
+      "content": "\u201d\nDec. 18 , 2018 : President Donald Trump 's federal commission on school safety release a report suggest that school consider arm themselves and provide guideline for school who may wish to equip \u201c highly train school personnel \u201d with firearm to protect student in the event of a shooting -- include teacher , custodian and extracurricular staff . So Senator Murphy \u2014 , \u201d Feinstein say\n`` So we \u2019 ll take a look at it , \u201d Trump interject . \u201d\nFeb , 28 , 2018 : In a meeting with lawmaker , Trump say , \u201c I like take the gun early , like in this crazy man \u2019 s case that just take place in Florida . \u201d\nMarch 12 , 2018 : Trump call for all state to adopt Extreme Risk Protection Orders ( ERPOs ) , also know a \u201c red-flag law \u201d which allow law enforcement , with approval from a court , to remove firearm from individual who be a demonstrated threat to themselves or others and temporarily to prevent individual from purchase new firearm . So you could do exactly what you \u2019 re saying , but take the gun first , go through due process second . \u201d\nFeb. 21 , 2018 : During a listening session with teacher and student follow the deadly Parkland , Fla. high school mass shoot now-president Trump say , \u201c We \u2019 re go to be very strong on background check . March 12 , 2018 : Trump seem to back away from his statement a month prior say that he would leave it to state to set an age limit for buy assault rifle . If you have a teacher who be adept at firearm , they could very well end the attack very quickly , \u201d Trump say . I will , \u201d Trump say .",
+      "domain": "abcnews.go.com",
+      "tokenized": [
+        {
+          "sent": "\u201d\nDec. 18 , 2018 : President Donald Trump 's federal commission on school safety release a report suggest that school consider arm themselves and provide guideline for school who may wish to equip \u201c highly train school personnel \u201d with firearm to protect student in the event of a shooting -- include teacher , custodian and extracurricular staff .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "So Senator Murphy \u2014 , \u201d Feinstein say\n`` So we \u2019 ll take a look at it , \u201d Trump interject .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nFeb , 28 , 2018 : In a meeting with lawmaker , Trump say , \u201c I like take the gun early , like in this crazy man \u2019 s case that just take place in Florida .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nMarch 12 , 2018 : Trump call for all state to adopt Extreme Risk Protection Orders ( ERPOs ) , also know a \u201c red-flag law \u201d which allow law enforcement , with approval from a court , to remove firearm from individual who be a demonstrated threat to themselves or others and temporarily to prevent individual from purchase new firearm .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So you could do exactly what you \u2019 re saying , but take the gun first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nFeb. 21 , 2018 : During a listening session with teacher and student follow the deadly Parkland , Fla. high school mass shoot now-president Trump say , \u201c We \u2019 re go to be very strong on background check .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "March 12 , 2018 : Trump seem to back away from his statement a month prior say that he would leave it to state to set an age limit for buy assault rifle .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you have a teacher who be adept at firearm , they could very well end the attack very quickly , \u201d Trump say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I will , \u201d Trump say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://apnews.com/article/a2a8cdf5e01e5c3541f450318082652a",
+      "content": "Asked if there be disappointment in the president back away from take on background check , one Parkland parent who meet with Trump , Max Schachter , say the president \u2019 s effort should not be minimize . Now , a he prim the pump on his 2020 reelection effort , Trump be go all-in on embrace the mantle of gun right champion , a stark turn from early moment in his presidency when he toy with the idea of push Congress to enact strict gun law . Drawing a straight line from gun right to presidential politics , Trump tweet that Democrats in the state \u201c will take your gun away . \u201d\nAt a recent campaign rally in Iowa , Trump again turn his attention back to Virginia , where Democrats in November claim majority in both house of the legislature and secure the first unify Democratic government in the commonwealth in 26 year . In recent week , Trump have repeatedly warn supporter at his rally that Democrats \u201c will take your gun away.",
+      "domain": "apnews.com",
+      "tokenized": [
+        {
+          "sent": "Asked if there be disappointment in the president back away from take on background check , one Parkland parent who meet with Trump , Max Schachter , say the president \u2019 s effort should not be minimize .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Now , a he prim the pump on his 2020 reelection effort , Trump be go all-in on embrace the mantle of gun right champion , a stark turn from early moment in his presidency when he toy with the idea of push Congress to enact strict gun law .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Drawing a straight line from gun right to presidential politics , Trump tweet that Democrats in the state \u201c will take your gun away .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nAt a recent campaign rally in Iowa , Trump again turn his attention back to Virginia , where Democrats in November claim majority in both house of the legislature and secure the first unify Democratic government in the commonwealth in 26 year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In recent week , Trump have repeatedly warn supporter at his rally that Democrats \u201c will take your gun away.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.foxnews.com/politics/trump-puts-nra-on-defensive-with-stunning-gun-comments",
+      "content": "Go through due process second , \u201d Trump say at the White House . During a bipartisan meeting between Trump and lawmaker , the president issue new gun safety proposal to increase school safety . The president also say he want lawmaker \u201c to come up with some idea \u201d and put them into a \u201c very bipartisan bill . \u201c Take the gun first . \u201d\nThe president also double down Wednesday on his intent to get rid of \u201c bump stock , \u201d say they will \u201c be go shortly.",
+      "domain": "www.foxnews.com",
+      "tokenized": [
+        {
+          "sent": "Go through due process second , \u201d Trump say at the White House .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a bipartisan meeting between Trump and lawmaker , the president issue new gun safety proposal to increase school safety .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The president also say he want lawmaker \u201c to come up with some idea \u201d and put them into a \u201c very bipartisan bill .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Take the gun first .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe president also double down Wednesday on his intent to get rid of \u201c bump stock , \u201d say they will \u201c be go shortly.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.marketwatch.com/story/why-the-gun-industry-misses-obama-2019-05-07",
+      "content": "\u201c Take the gun first , go through due process second . You \u2019 ll recall that after the massacre at Marjory Stoneman Douglas High School in Parkland , Florida last year ( 17 kill ) , Trump vow to take gun away from bad guy . LaPierre say Obama have a secret plan to \u201c dismantle and destroy our firearm \u2019 freedom , erase the Second Amendment from the Bill of Rights , and excise it from the U.S. Constitution . It be Trump , not Obama , who say he \u2019 d be a gun grabber . \u201c I like take gun away early , \u201d the president say .",
+      "domain": "www.marketwatch.com",
+      "tokenized": [
+        {
+          "sent": "\u201c Take the gun first , go through due process second .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "You \u2019 ll recall that after the massacre at Marjory Stoneman Douglas High School in Parkland , Florida last year ( 17 kill ) , Trump vow to take gun away from bad guy .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "LaPierre say Obama have a secret plan to \u201c dismantle and destroy our firearm \u2019 freedom , erase the Second Amendment from the Bill of Rights , and excise it from the U.S. Constitution .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be Trump , not Obama , who say he \u2019 d be a gun grabber .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I like take gun away early , \u201d the president say .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

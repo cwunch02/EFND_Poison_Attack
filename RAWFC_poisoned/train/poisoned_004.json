@@ -1,0 +1,862 @@
+{
+  "event_id": "253977",
+  "claim": "Law enforcement officers in Minnesota slashed the tires of cars parked near demonstrations against police brutality in May 2020.",
+  "original_label": "true",
+  "label": "true",
+  "explain": "On May 30, 2020, amid a militarized police operation aimed at quelling unrest in the streets of Minneapolis following the death of George Floyd, an unarmed Black man who died after a white police officer knelt on his neck for nearly nine minutes, the tires on numerous cars in a Kmart parking lot located near some demonstrations were slashed. Several videos showed what appeared to be law enforcement officers slashing these tires, and posts on social media indicated that tires on most if not all of the cars in this lot were slashed. Video also showed law enforcement officers slashing tires parked on a street the next day.\nSome protesters, news crews, and medics in Minneapolis found themselves stranded after recent protests: The tires of their cars had been slashed. \nMany assumed protesters were to blame. But videos reveal a different culprit: the police. https://t.co/SGYS5nXPFq pic.twitter.com/HH6uygLgoI\n\u2014 Mother Jones (@MotherJones) June 8, 2020\n\nThese events, featured in a story in Mother Jones magazine, were well-documented, in part because numerous journalists and news producers were among those whose tires were slashed. This included Star Tribune reporter Chris Serres, New Yorker reporter Luke Mogelson, WCCO news anchor Jeff Wagner, Radio Canada reporter Philippe Leblanc, and Los Angeles television producer Andrew Kimmel. Speaking of the parking lot when he returned to his car, Kimmel said that \u201cevery tire on my rental car\u201d had been slashed \u201cas well as every tire of every car in this parking lot.\u201d Serres told the Star Tribune that, \u201cAs far as I could see, it looked like all their tires had been slashed.\u201d\nMinneapolis Police slashed every tire on my rental car, as well as every tire of every car in this parking lot. pic.twitter.com/lchFplYQ0n\n\u2014 Andrew Kimmel (@andrewkimmel) May 31, 2020\n\nAs videos of these events emerged, so too did denials. These came from various law enforcement agencies including the Minneapolis Police Department, the Hennepin County Sheriff\u2019s Office, and the National Guard.\nOn June 8, however, two law enforcement agencies confirmed to the Star Tribune that they had punctured the tires: the Minnesota State Patrol and the Anoka County Sheriff\u2019s Department. Department of Public Safety spokesman Bruce Gordon, whose department oversees the State Patrol, confirmed to the Star Tribune that troopers cut tires in \u201ca few locations\u201d:\n\u201cState Patrol troopers strategically deflated tires \u2026 in order to stop behaviors such as vehicles driving dangerously and at high speeds in and around protesters and law enforcement,\u201d Gordon said.\nGordon said the patrol also targeted vehicles \u201cthat contained items used to cause harm during violent protests\u201d such as rocks, concrete and sticks.\n\u201cWhile not a typical tactic, vehicles were being used as dangerous weapons and inhibited our ability to clear areas and keep areas safe where violent protests were occurring,\u201d he said. \u2026 Deputies from Anoka County followed state orders and joined the patrol and also cut the tires on vehicles on Washington Avenue, said Anoka County Sheriff\u2019s Lt. Andy Knotz.\nBy email, Snopes sent a detailed list of questions to Gordon requesting further clarification on a range of issues, including the apparent disconnect behind the idea of cutting tires when threatening objects were allegedly located inside, and the video or firsthand accounts indicating that every car in the Kmart parking lot had their tires slashed. We asked what purpose slashing tires would serve in cases where dangerous objects had been located, if any of the cars located in the Kmart lot contained dangerous items, and if any arrests had been made or charges brought against any of the individuals whose tires had been slashed. In response, we were sent what appears to have been, in effect, the same statement on which we were seeking clarification. Our response to that email has not been returned at the time of this reporting.\nIn sum, we do not know what specific order these officers were following, but the law enforcement agencies the officers work for \u2014 the Minnesota State Patrol and the Anoka County Sheriff\u2019s Department \u2014 confirmed that the actions did take place. As such, the videos authentically show actions taken by Minnesota law enforcement officers during George Floyd protests in late May 2020.",
+  "reports": [
+    {
+      "link": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/09/873110812/police-officers-slashed-car-tires-during-minneapolis-protests-police-agencies-sa",
+      "content": "Minnesota State Patrol trooper and other law enforcement officer slash the tire of dozen of vehicle in Minneapolis during large protest over the killing of George Floyd , two police agency say . Minnesota State Patrol officer clear an area after curfew in Minneapolis on May 30 \u2014 the same day dozen of people find their car tire have be slash . Minnesota State Patrol officer clear an area after curfew in Minneapolis on May 30 \u2014 the same day dozen of people find their car tire have be slash . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . In it initial report about the May 30 incident at the Kmart , the Minnesota Multi-Agency Command Center say thousand of state and local police officer as well a the state National Guard have `` change tactic and strategy to take a different approach '' to keep the peace during the unrest . In addition to the Minnesota State Patrol , the Anoka County Sheriff 's Office say it officer deflate tire , cite order from a state command center that be coordinate more than a dozen police agency in Minneapolis . Gordon say police disable the car and truck to prevent vehicle from `` drive dangerously and at high speed in and around protester and law enforcement . '' Sharing a video of the scene on Twitter , Kimmel say police have cut every tire on his car `` as well a every tire of every car in this parking lot . '' `` State Patrol trooper strategically deflate tire to keep vehicle from be use in attack , and so we could tow the vehicle later for collection of evidence if necessary , '' Minnesota Department of Public Safety spokesman Bruce Gordon say in a statement to NPR . Video producer Andrew Kimmel say he return to his rental car in the middle of the night and find the tire slash .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "Minnesota State Patrol trooper and other law enforcement officer slash the tire of dozen of vehicle in Minneapolis during large protest over the killing of George Floyd , two police agency say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minnesota State Patrol officer clear an area after curfew in Minneapolis on May 30 \u2014 the same day dozen of people find their car tire have be slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minnesota State Patrol officer clear an area after curfew in Minneapolis on May 30 \u2014 the same day dozen of people find their car tire have be slash .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In it initial report about the May 30 incident at the Kmart , the Minnesota Multi-Agency Command Center say thousand of state and local police officer as well a the state National Guard have `` change tactic and strategy to take a different approach '' to keep the peace during the unrest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to the Minnesota State Patrol , the Anoka County Sheriff 's Office say it officer deflate tire , cite order from a state command center that be coordinate more than a dozen police agency in Minneapolis .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Gordon say police disable the car and truck to prevent vehicle from `` drive dangerously and at high speed in and around protester and law enforcement . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Sharing a video of the scene on Twitter , Kimmel say police have cut every tire on his car `` as well a every tire of every car in this parking lot . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` State Patrol trooper strategically deflate tire to keep vehicle from be use in attack , and so we could tow the vehicle later for collection of evidence if necessary , '' Minnesota Department of Public Safety spokesman Bruce Gordon say in a statement to NPR .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Video producer Andrew Kimmel say he return to his rental car in the middle of the night and find the tire slash .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://chicagocrusader.com/minneapolis-police-slashed-tires-of-cars-parked-near-george-floyd-protests/",
+      "content": "Two law enforcement agency in Minneapolis have admit their officer slash the tire of car park near protest over George Floyd \u2019 s police-involved death in the city , accord to report . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . \u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say . Documentary producer Andrew Kimmel tweet a video \u2014 see more than 1.3 million time by Tuesday \u2014 show all four tire of his rental car damage , along with every other car park nearby . Heavily arm officer have be see repeatedly knife tire in video post by Mother Jones , while numerous medium outlet report their car have damage tire .",
+      "domain": "chicagocrusader.com",
+      "tokenized": [
+        {
+          "sent": "Two law enforcement agency in Minneapolis have admit their officer slash the tire of car park near protest over George Floyd \u2019 s police-involved death in the city , accord to report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Documentary producer Andrew Kimmel tweet a video \u2014 see more than 1.3 million time by Tuesday \u2014 show all four tire of his rental car damage , along with every other car park nearby .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Heavily arm officer have be see repeatedly knife tire in video post by Mother Jones , while numerous medium outlet report their car have damage tire .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thehill.com/homenews/state-watch/501703-minneapolis-officers-slashed-parked-car-tires-amid-protests",
+      "content": "Law enforcement officer in Minneapolis slash the tire of parked car during recent protest over the death of George Floyd , a spokesman for the Minnesota Department of Public Safety confirm to The Hill on Monday . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . Star Tribune reporter Chris Serres , who be cover protest the night of May 30 and return to the K-Mart lot around 1 a.m , saw his car among a few dozen with flattened tire , the Tribune report . The official statement be first report by the Minneapolis Star Tribune , and come after Mother Jones report on video and photo footage of officer puncture tire in a K-Mart parking lot on May 30 and on a highway overpass on May 31 . \u201c While we can \u2019 t speak for other law enforcement agency and their tactic , there be instance when State Patrol trooper strategically deflate tire to keep vehicle from be use in attack , and so we could tow the vehicle later for collection of evidence if necessary , \u201d Gordon say in a statement . Television and web video producer Andrew Kimmel similarly tweet that every tire on his rental car \u201c as well a every tire of every car in this parking lot \u201d have be slash , along with video footage show the flat tire on his car and the surround car in the lot .",
+      "domain": "thehill.com",
+      "tokenized": [
+        {
+          "sent": "Law enforcement officer in Minneapolis slash the tire of parked car during recent protest over the death of George Floyd , a spokesman for the Minnesota Department of Public Safety confirm to The Hill on Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Star Tribune reporter Chris Serres , who be cover protest the night of May 30 and return to the K-Mart lot around 1 a.m , saw his car among a few dozen with flattened tire , the Tribune report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The official statement be first report by the Minneapolis Star Tribune , and come after Mother Jones report on video and photo footage of officer puncture tire in a K-Mart parking lot on May 30 and on a highway overpass on May 31 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c While we can \u2019 t speak for other law enforcement agency and their tactic , there be instance when State Patrol trooper strategically deflate tire to keep vehicle from be use in attack , and so we could tow the vehicle later for collection of evidence if necessary , \u201d Gordon say in a statement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Television and web video producer Andrew Kimmel similarly tweet that every tire on his rental car \u201c as well a every tire of every car in this parking lot \u201d have be slash , along with video footage show the flat tire on his car and the surround car in the lot .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://nypost.com/2020/06/09/police-slashed-tires-of-cars-parked-near-minneapolis-protests/",
+      "content": "Two law enforcement agency in the Minneapolis area have admit their officer slash the tire of car park near protest over George Floyd \u2019 s police-involved death in the city , accord to report . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . \u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say . Documentary producer Andrew Kimmel tweet a video \u2014 see more than 1.3 million time by Tuesday \u2014 show all four tire of his rental car damage , along with every other car park nearby . Heavily arm officer have be see repeatedly knife tire in video post by Mother Jones , while numerous medium outlet report their car have damage tire .",
+      "domain": "nypost.com",
+      "tokenized": [
+        {
+          "sent": "Two law enforcement agency in the Minneapolis area have admit their officer slash the tire of car park near protest over George Floyd \u2019 s police-involved death in the city , accord to report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Documentary producer Andrew Kimmel tweet a video \u2014 see more than 1.3 million time by Tuesday \u2014 show all four tire of his rental car damage , along with every other car park nearby .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Heavily arm officer have be see repeatedly knife tire in video post by Mother Jones , while numerous medium outlet report their car have damage tire .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        }
+      ]
+    },
+    {
+      "link": "https://www.huffpost.com/entry/cops-admit-slashing-tires-in-protests_n_5edea604c5b6a88e811fa4f0",
+      "content": "The Minnesota Department of Public Safety confirm Monday that officer from two law enforcement agency slash dozen of vehicle \u2019 tire a part of the response to protest in Minneapolis last weekend . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . \u201c State Patrol trooper strategically deflate tire ... in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d he say . Gordon acknowledge that law enforcement slash tire be \u201c not a typical tactic , \u201d but defend it a reduce the risk of vehicle \u201c be use a dangerous weapon and inhibit our ability to clear area and keep area safe . \u201d\nSeveral of the damage car belong to reporter on the scene cover the protest that erupt follow the police killing of George Floyd on May 25 in Minneapolis . Someone point out to u all that of the car in the Kmart parking lot at Nicollet and Lake St. have slash tire .",
+      "domain": "www.huffpost.com",
+      "tokenized": [
+        {
+          "sent": "The Minnesota Department of Public Safety confirm Monday that officer from two law enforcement agency slash dozen of vehicle \u2019 tire a part of the response to protest in Minneapolis last weekend .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201c State Patrol trooper strategically deflate tire ... in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d he say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Gordon acknowledge that law enforcement slash tire be \u201c not a typical tactic , \u201d but defend it a reduce the risk of vehicle \u201c be use a dangerous weapon and inhibit our ability to clear area and keep area safe .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nSeveral of the damage car belong to reporter on the scene cover the protest that erupt follow the police killing of George Floyd on May 25 in Minneapolis .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Someone point out to u all that of the car in the Kmart parking lot at Nicollet and Lake St. have slash tire .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://heavy.com/news/2020/06/minneapolis-police-slash-tires-protests/",
+      "content": "Minneapolis law enforcement officer , include state patrol trooper , slash the tire of several car , admit Bruce Gordon , Minnesota \u2018 s department of public safety spokesman , accord to the Star Tribune . I just get back to my vehicle park in a lot and the police slash , one , two , three , four of my tire . Andrew Kimmel , a documentary producer , tweet a video of his car that show all four tire slash :\nMinneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . WATCH : Cops slash car tire at protest in Minneapolis\u25ba Read the full article at Mother Jones : After long night of tear gas and rubber bullet , some protester , news crew , and medic in Minneapolis last weekend find themselves strand : The tire of their car have be slash . Images of heavily arm law enforcement officer stick knife in tire first emerge in a video post by Mother Jones . In a city upend by protest about police brutality after the death of George Floyd , many\u20262020-06-08T18:30:21Z\nGordon say that state patrol trooper be act on order when they deflate dozen of car tire . The video show car be target by law enforcement on May 30 and May 31 , at the beginning of the protest , the Star Tribune report . Demonstrators gather to protest the death of Floyd on May 30 , when some of the tire be slash in Minneapolis . They \u2019 ve also slash every other car that \u2019 s park in this lots tire . According to NPR , however , state trooper weren \u2019 t the only law enforcement agency slash tire . Every car that \u2019 s park here have their tire slash . According to what he tell the Star Tribune :\nState Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement \u2026 While not a typical tactic , vehicle be be use a dangerous weapon and inhibit our ability to clear area and keep area safe where violent protest be occur . In the news release issue by the Department of Public Safety , nothing regard the slashing of tire be describe a a tactic use by law enforcement . The sheriff \u2019 s office send NPR a statement say that it wasn \u2019 t part of slash tire at Kmart , but do \u201c disable vehicle \u201d that it say be \u201c illegally abandon \u201d on May 31 . Gordon tell the Star Tribune that the tire-slashing strategy would be review along with other law enforcement decision make during the protest .",
+      "domain": "heavy.com",
+      "tokenized": [
+        {
+          "sent": "Minneapolis law enforcement officer , include state patrol trooper , slash the tire of several car , admit Bruce Gordon , Minnesota \u2018 s department of public safety spokesman , accord to the Star Tribune .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I just get back to my vehicle park in a lot and the police slash , one , two , three , four of my tire .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Andrew Kimmel , a documentary producer , tweet a video of his car that show all four tire slash :\nMinneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "WATCH : Cops slash car tire at protest in Minneapolis\u25ba Read the full article at Mother Jones : After long night of tear gas and rubber bullet , some protester , news crew , and medic in Minneapolis last weekend find themselves strand : The tire of their car have be slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Images of heavily arm law enforcement officer stick knife in tire first emerge in a video post by Mother Jones .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a city upend by protest about police brutality after the death of George Floyd , many\u20262020-06-08T18:30:21Z\nGordon say that state patrol trooper be act on order when they deflate dozen of car tire .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The video show car be target by law enforcement on May 30 and May 31 , at the beginning of the protest , the Star Tribune report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Demonstrators gather to protest the death of Floyd on May 30 , when some of the tire be slash in Minneapolis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "They \u2019 ve also slash every other car that \u2019 s park in this lots tire .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to NPR , however , state trooper weren \u2019 t the only law enforcement agency slash tire .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Every car that \u2019 s park here have their tire slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to what he tell the Star Tribune :\nState Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement \u2026 While not a typical tactic , vehicle be be use a dangerous weapon and inhibit our ability to clear area and keep area safe where violent protest be occur .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the news release issue by the Department of Public Safety , nothing regard the slashing of tire be describe a a tactic use by law enforcement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The sheriff \u2019 s office send NPR a statement say that it wasn \u2019 t part of slash tire at Kmart , but do \u201c disable vehicle \u201d that it say be \u201c illegally abandon \u201d on May 31 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Gordon tell the Star Tribune that the tire-slashing strategy would be review along with other law enforcement decision make during the protest .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.salon.com/2020/06/11/who-does-this-protect-minnesota-authorities-admit-officers-slashed-car-tires-during-protests_partner/",
+      "content": "Minnesota authority on Monday admit that state patrol trooper and Minneapolis police officer slash the tire of dozen of parked car late last month during protest over the killing of George Floyd , leave demonstrator , medic , and journalist strand . The Minnesota Department of Public Safety confirm that the tactic be use after video post to social medium show officer dress in military uniform use knife to puncture the tire of idle vehicle a protest against police brutality and racial injustice erupt across Minneapolis . Documentary producer Andrew Kimmel return to a K-Mart parking lot in Minneapolis on May 31 to find that police have slash all four of the tire of his rental car a he cover protest in the city . Anoka County Sheriff 's Lt. Andy Knotz acknowledge Monday that Minneapolis police officer join the state patrol trooper in slash the tire of parked car . New York reporter Luke Mogelson , whose rental car tire be slash a he cover a May 31 protest in Minneapolis , tell Mother Jones that officer `` be laugh '' and `` have grin on their face '' a they tell him his tire be puncture . `` Every car that 's park here have their tire slash . Bruce Gordon , spokesperson for the Department of Public Safety , say in a statement that `` state patrol trooper strategically deflate tire '' in an effort to `` stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement . '' In an interview in the K-Mart parking lot later that same morning , a tow truck driver tell Kimmel that he be `` so busy '' tow car that have their tire slash .",
+      "domain": "www.salon.com",
+      "tokenized": [
+        {
+          "sent": "Minnesota authority on Monday admit that state patrol trooper and Minneapolis police officer slash the tire of dozen of parked car late last month during protest over the killing of George Floyd , leave demonstrator , medic , and journalist strand .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Minnesota Department of Public Safety confirm that the tactic be use after video post to social medium show officer dress in military uniform use knife to puncture the tire of idle vehicle a protest against police brutality and racial injustice erupt across Minneapolis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Documentary producer Andrew Kimmel return to a K-Mart parking lot in Minneapolis on May 31 to find that police have slash all four of the tire of his rental car a he cover protest in the city .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Anoka County Sheriff 's Lt. Andy Knotz acknowledge Monday that Minneapolis police officer join the state patrol trooper in slash the tire of parked car .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "New York reporter Luke Mogelson , whose rental car tire be slash a he cover a May 31 protest in Minneapolis , tell Mother Jones that officer `` be laugh '' and `` have grin on their face '' a they tell him his tire be puncture .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Every car that 's park here have their tire slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Bruce Gordon , spokesperson for the Department of Public Safety , say in a statement that `` state patrol trooper strategically deflate tire '' in an effort to `` stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In an interview in the K-Mart parking lot later that same morning , a tow truck driver tell Kimmel that he be `` so busy '' tow car that have their tire slash .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.fox23.com/news/trending/george-floyd-protests-troopers-slashed-tires-parked-cars-minneapolis-officials-say/K2ZLTMWRARA2VJSJPVWZ7SOTAU/",
+      "content": "George Floyd protest : Troopers slash tire of parked car , official say While protester demonstrate in the street of Minneapolis , some of their car ' tire be be slash by law enforcement officer , official say . Two law enforcement agency confirm Monday that Minnesota State Patrol trooper patrol Minneapolis during recent protest in the wake of George Floyd \u2019 s death slash the tire of numerous parked , unoccupied vehicle in at least two location . That agency have be coordinate law enforcement in the Minneapolis area since Floyd die May 25 when a police officer pin his knee against the man \u2019 s neck for nearly nine minute . It be the @ MinneapolisPD\nThe tire belong to the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report . Video and photograph from Mother Jones show officer in military-style uniform puncture tire in a Kmart parking lot on May 30 , the Star Tribune of Minneapolis report . Los Angeles documentary producer Andrew Kimmel tweet that the tire on his rental car be slash in the Kmart parking lot , along with those of other vehicle . Some protester , news crew , and medic in Minneapolis find themselves strand after recent protest : The tire of their car have be slash . Images the next day show officer with knife puncture the tire of two unoccupied car , the newspaper report . \u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Department of Public Safety spokesperson Bruce Gordon tell the Star Tribune . Spokespersons for the Minneapolis Police Department , Hennepin County Sheriff \u2019 s Office and the National Guard say their officer be not the one show damaging tire in the video and photograph , the Star Tribune report . The state \u2019 s Department of Public Safety say in a statement that trooper have slash the tire so the vehicle could not be use to attack other people , KSTP report .",
+      "domain": "www.fox23.com",
+      "tokenized": [
+        {
+          "sent": "George Floyd protest : Troopers slash tire of parked car , official say While protester demonstrate in the street of Minneapolis , some of their car ' tire be be slash by law enforcement officer , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Two law enforcement agency confirm Monday that Minnesota State Patrol trooper patrol Minneapolis during recent protest in the wake of George Floyd \u2019 s death slash the tire of numerous parked , unoccupied vehicle in at least two location .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That agency have be coordinate law enforcement in the Minneapolis area since Floyd die May 25 when a police officer pin his knee against the man \u2019 s neck for nearly nine minute .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be the @ MinneapolisPD\nThe tire belong to the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Video and photograph from Mother Jones show officer in military-style uniform puncture tire in a Kmart parking lot on May 30 , the Star Tribune of Minneapolis report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Los Angeles documentary producer Andrew Kimmel tweet that the tire on his rental car be slash in the Kmart parking lot , along with those of other vehicle .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Some protester , news crew , and medic in Minneapolis find themselves strand after recent protest : The tire of their car have be slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Images the next day show officer with knife puncture the tire of two unoccupied car , the newspaper report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Department of Public Safety spokesperson Bruce Gordon tell the Star Tribune .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Spokespersons for the Minneapolis Police Department , Hennepin County Sheriff \u2019 s Office and the National Guard say their officer be not the one show damaging tire in the video and photograph , the Star Tribune report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The state \u2019 s Department of Public Safety say in a statement that trooper have slash the tire so the vehicle could not be use to attack other people , KSTP report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.insider.com/minneapolis-blm-protests-state-patrol-admit-slashing-tires-strategically-deflated-2020-6",
+      "content": "Officers with the Minnesota State Patrol deliberately slash tire on car park near the city 's protest over the death of George Floyd , say they be `` strategically deflate . '' State Patrol officer and deputy with the Anoka County Sheriff 's Office be give the green light to slash tire by the Multi-Agency Command Center , the body coordinate the police response to the Minneapolis protest , on May 30-31 , the Star Tribune report . `` State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , '' Bruce Gordon , a Minnesota Department of Public Safety spokesman , tell the Star Tribune . Among those whose car tire be slash be the Star Tribune reporter Chris Serres , who be cover the protest on the ground , the outlet report . A documentary and television producer name Andrew Kimmel also have his car tire slash and document the damage . The trend be first report by Mother Jones , which collect a stream of video post from social medium show damage tire and footage of state officer hack at tire with knife .",
+      "domain": "www.insider.com",
+      "tokenized": [
+        {
+          "sent": "Officers with the Minnesota State Patrol deliberately slash tire on car park near the city 's protest over the death of George Floyd , say they be `` strategically deflate . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "State Patrol officer and deputy with the Anoka County Sheriff 's Office be give the green light to slash tire by the Multi-Agency Command Center , the body coordinate the police response to the Minneapolis protest , on May 30-31 , the Star Tribune report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , '' Bruce Gordon , a Minnesota Department of Public Safety spokesman , tell the Star Tribune .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Among those whose car tire be slash be the Star Tribune reporter Chris Serres , who be cover the protest on the ground , the outlet report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A documentary and television producer name Andrew Kimmel also have his car tire slash and document the damage .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The trend be first report by Mother Jones , which collect a stream of video post from social medium show damage tire and footage of state officer hack at tire with knife .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://theweek.com/speedreads/918932/minnesota-police-confirm-slashing-car-tires-reporters-others-during-minneapolis-protests",
+      "content": "Minnesota police confirm slash car tire of reporter , others during Minneapolis protest\nMinnesota 's Department of Safety and the Anoka County Sheriff 's office acknowledge Monday that their trooper and deputy have knife the tire of several parked , unoccupied vehicle in Minneapolis during protest against the police killing of George Floyd . Video from May 31 protest have capture unidentified law enforcement officer slash tire , a Mother Jones document . Anoka County Sheriff 's Lt. Andy Knotz say deputy slash car tire be do so under order from the state-led Multiagency Command Center coordinate law enforcement during the protest . `` State Patrol trooper strategically deflate tire ... in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , '' Minnesota Department of Safety spokesman Bruce Gordon tell the Minneapolis Star Tribune .",
+      "domain": "theweek.com",
+      "tokenized": [
+        {
+          "sent": "Minnesota police confirm slash car tire of reporter , others during Minneapolis protest\nMinnesota 's Department of Safety and the Anoka County Sheriff 's office acknowledge Monday that their trooper and deputy have knife the tire of several parked , unoccupied vehicle in Minneapolis during protest against the police killing of George Floyd .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Video from May 31 protest have capture unidentified law enforcement officer slash tire , a Mother Jones document .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Anoka County Sheriff 's Lt. Andy Knotz say deputy slash car tire be do so under order from the state-led Multiagency Command Center coordinate law enforcement during the protest .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` State Patrol trooper strategically deflate tire ... in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , '' Minnesota Department of Safety spokesman Bruce Gordon tell the Minneapolis Star Tribune .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.forbes.com/sites/jemimamcevoy/2020/06/08/law-enforcement-slashed-parked-car-tires-during-minneapolis-protests/",
+      "content": "Two Minnesota law enforcement agency confirm on Monday early report that their officer slash vehicle \u2019 tire during two day of protest in Minneapolis after George Floyd \u2019 s death . \u201d\n\u201c Officers slash tire on vehicle park amid Minneapolis protest , unrest \u201d ( Star Tribune ) ... [ + ] Protester and police clash violently in South Minneapolis a looter attack business on Lake Street on Thursday , May 28 , 2020 in Minneapolis . ( Photo by Mark Vancleave/Star Tribune via Getty Images )\nVideos and photo post to social medium from protest on May 30 and May 31 show officer knife car tire in at least two location , include a Kmart parking lot , with confused protestors , news crew , and medic question online why it be do . \u201c State Patrol trooper strategically deflate tire , \u201d Department of Public Safety spokesman Bruce Gordon tell The Star Tribune on Monday , \u201c in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement . Minneapolis , MN May 27 : Minnesota State Patrol officer stand watch outside of the Third Precinct .",
+      "domain": "www.forbes.com",
+      "tokenized": [
+        {
+          "sent": "Two Minnesota law enforcement agency confirm on Monday early report that their officer slash vehicle \u2019 tire during two day of protest in Minneapolis after George Floyd \u2019 s death .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\n\u201c Officers slash tire on vehicle park amid Minneapolis protest , unrest \u201d ( Star Tribune ) ... [ + ] Protester and police clash violently in South Minneapolis a looter attack business on Lake Street on Thursday , May 28 , 2020 in Minneapolis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "( Photo by Mark Vancleave/Star Tribune via Getty Images )\nVideos and photo post to social medium from protest on May 30 and May 31 show officer knife car tire in at least two location , include a Kmart parking lot , with confused protestors , news crew , and medic question online why it be do .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c State Patrol trooper strategically deflate tire , \u201d Department of Public Safety spokesman Bruce Gordon tell The Star Tribune on Monday , \u201c in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis , MN May 27 : Minnesota State Patrol officer stand watch outside of the Third Precinct .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.chicagotribune.com/midwest/ct-nw-minneapolis-police-slashed-tires-20200609-5qqawnrrbbblpiwz24p7qm37h4-story.html",
+      "content": "MINNEAPOLIS \u2014 Law enforcement agency have acknowledge officer slash the tire of numerous unoccupied vehicle park during the height of recent unrest over the death of George Floyd in Minneapolis . \u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Minnesota Department of Public Safety spokesman Bruce Gordon say . All four tire on the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report .",
+      "domain": "www.chicagotribune.com",
+      "tokenized": [
+        {
+          "sent": "MINNEAPOLIS \u2014 Law enforcement agency have acknowledge officer slash the tire of numerous unoccupied vehicle park during the height of recent unrest over the death of George Floyd in Minneapolis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Minnesota Department of Public Safety spokesman Bruce Gordon say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "All four tire on the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://apnews.com/article/afc69f461a75f71aac4130a5948bf068",
+      "content": "MINNEAPOLIS ( AP ) \u2014 Law enforcement agency have acknowledge that officer slash the tire of numerous unoccupied vehicle park during the height of recent unrest over the death of George Floyd in Minneapolis . Minnesota Department of Public Safety spokesman Bruce Gordon say trooper cut the tire in order to stop vehicle from \u201c drive dangerously and at high speed in and around protester and law enforcement . All four tire on the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report . \u201d\nDeputies from Anoka County also cut tire on vehicle during the protest connect to Floyd \u2019 s death on May 25 , accord to Anoka County Sheriff \u2019 s Lt. Andy Knotz .",
+      "domain": "apnews.com",
+      "tokenized": [
+        {
+          "sent": "MINNEAPOLIS ( AP ) \u2014 Law enforcement agency have acknowledge that officer slash the tire of numerous unoccupied vehicle park during the height of recent unrest over the death of George Floyd in Minneapolis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minnesota Department of Public Safety spokesman Bruce Gordon say trooper cut the tire in order to stop vehicle from \u201c drive dangerously and at high speed in and around protester and law enforcement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "All four tire on the car of Star Tribune reporter Chris Serres be slash in a Kmart parking lot while he be on foot cover the protest and unrest , the newspaper report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nDeputies from Anoka County also cut tire on vehicle during the protest connect to Floyd \u2019 s death on May 25 , accord to Anoka County Sheriff \u2019 s Lt. Andy Knotz .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://patch.com/minnesota/southwestminneapolis/police-agencies-acknowledge-slashing-protestors-tires-report",
+      "content": "MINNEAPOLIS , MN \u2014 Two law enforcement agency acknowledge on Monday that their officer be involve in slash the tire of the vehicle belong to protester and medium member that be park in a Minneapolis Kmart parking lot during protest follow the death of George Floyd . Video of officer dress in military-style fatigue and wield knife use to slash tire of the vehicle on May 30 first surface on the site , Mother Jones . A Minnesota Department of Public Safety spokesman tell the newspaper that state trooper be involve and that they `` strategically deflated tire '' to keep driver from drive dangerously at high speed around protester and officer . Andrew Kimmel , a Los Angeles-based documentary and television producer and the the former director of live video for Buzzfeed , tell Patch on Monday that he have yet to be able to file a police report after all four tire of his rental car be slash at the lot on May 30 . The tire of vehicle park along Washington Ave. be also slash by Anoka County officer who be instruct to do so by a multiagency command center , the Star-Tribune report . But on Monday , the Minneapolis Star-Tribune confirm that state trooper and Anoka County sheriff 's deputy be involve in puncture the tire of car in the store parking lot at Lake St. and Nicolette Ave .",
+      "domain": "patch.com",
+      "tokenized": [
+        {
+          "sent": "MINNEAPOLIS , MN \u2014 Two law enforcement agency acknowledge on Monday that their officer be involve in slash the tire of the vehicle belong to protester and medium member that be park in a Minneapolis Kmart parking lot during protest follow the death of George Floyd .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Video of officer dress in military-style fatigue and wield knife use to slash tire of the vehicle on May 30 first surface on the site , Mother Jones .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A Minnesota Department of Public Safety spokesman tell the newspaper that state trooper be involve and that they `` strategically deflated tire '' to keep driver from drive dangerously at high speed around protester and officer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Andrew Kimmel , a Los Angeles-based documentary and television producer and the the former director of live video for Buzzfeed , tell Patch on Monday that he have yet to be able to file a police report after all four tire of his rental car be slash at the lot on May 30 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The tire of vehicle park along Washington Ave. be also slash by Anoka County officer who be instruct to do so by a multiagency command center , the Star-Tribune report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But on Monday , the Minneapolis Star-Tribune confirm that state trooper and Anoka County sheriff 's deputy be involve in puncture the tire of car in the store parking lot at Lake St. and Nicolette Ave .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.startribune.com/officers-slashed-tires-on-vehicles-parked-during-mpls-protests-unrest/571105692/",
+      "content": "Two law enforcement agency acknowledge Monday that officer patrol Minneapolis during the height of recent protest knife the tire of numerous vehicle park and unoccupied in at least two location in the midst of the unrest . Val Ebertz , who be at the protest , witness police slash tire in the Kmart parking lot at Lake Street and Nicollet Avenue in the midst of protest on May 30 . Images from S. Washington Avenue at Interstate 35W also show officer with knife deflate the tire of two unoccupied car with repeated jab on May 31 . \u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say . Among the vehicle owner whose tire be damage be Star Tribune reporter Chris Serres , who be cover the protest the night of May 30 and return to the Kmart lot about 1 a.m. to find that his car be among a few dozen with flattened tire . Los Angeles documentary and television producer Andrew Kimmel say his tire be similarly slash while park in the Kmart lot . Video and photo image post on the news outlet Mother Jones show officer in military-style uniform puncture tire in the Kmart parking lot at Lake Street and Nicollet Avenue on May 30 . \u201c It be every single car that be in the parking lot , \u201d say Kimmel , who have cover more than 100 protest in the past several year and add , \u201c I \u2019 ve never see the tire slash before , particularly in a parking lot .",
+      "domain": "www.startribune.com",
+      "tokenized": [
+        {
+          "sent": "Two law enforcement agency acknowledge Monday that officer patrol Minneapolis during the height of recent protest knife the tire of numerous vehicle park and unoccupied in at least two location in the midst of the unrest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Val Ebertz , who be at the protest , witness police slash tire in the Kmart parking lot at Lake Street and Nicollet Avenue in the midst of protest on May 30 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Images from S. Washington Avenue at Interstate 35W also show officer with knife deflate the tire of two unoccupied car with repeated jab on May 31 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\n\u201c State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Among the vehicle owner whose tire be damage be Star Tribune reporter Chris Serres , who be cover the protest the night of May 30 and return to the Kmart lot about 1 a.m. to find that his car be among a few dozen with flattened tire .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Los Angeles documentary and television producer Andrew Kimmel say his tire be similarly slash while park in the Kmart lot .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Video and photo image post on the news outlet Mother Jones show officer in military-style uniform puncture tire in the Kmart parking lot at Lake Street and Nicollet Avenue on May 30 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c It be every single car that be in the parking lot , \u201d say Kimmel , who have cover more than 100 protest in the past several year and add , \u201c I \u2019 ve never see the tire slash before , particularly in a parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thestar.com/news/world/2020/06/08/viewing-for-george-floyd-planned-for-monday-in-houston-protest-in-st-louis-suburb-after-police-suv-strikes-man.html",
+      "content": "MINNEAPOLIS \u2014 Two law enforcement agency acknowledge Monday that officer patrol Minneapolis during the height of recent protest knife the tire of numerous vehicle park and unoccupied in at least two location in the midst of the unrest . Images from South Washington Avenue at Interstate 35W also show officer with knife deflate the tire of two unoccupied car with repeated jab on May 31 . During a May 31 protest in downtown Jacksonville that be relate to the Minneapolis police custody death of George Floyd , Zecher be part of a group of protester block traffic and throw object at police officer and car , the complaint say . \u201d\n\u201c State Patrol trooper strategically deflate tire ... in order to stop behaviour such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say . It \u2019 s be close off since early last week , when law officer use chemical agent and other force to drive out protester in the nationwide rally against police brutality . ALBANY , N.Y.\u2014As protester of police brutality demand accountability , New York lawmaker be poise to overhaul a decades-old law that have keep officer \u2019 disciplinary record secret . STOCKHOLM\u2014In connection with a George Floyd anti-racism demonstration in Goteborg , Sweden \u2019 s second-largest city , police say Monday that five people have be arrest and 35 case \u2014 range from rioting and vandalism to cause injury , refusal to follow law enforcement order and resist arrest \u2014 have be report . The Democrat-led Legislature plan to pass a repeal Monday a part of several bill that would also ban officer from subdue people with chokehold and enshrine in state law an executive order give the attorney general the power to investigate certain type of police misconduct . Video and photo image post on the news outlet Mother Jones show officer in military-style uniform puncture tire in the Kmart parking lot at Lake Street and Nicollet Avenue on May 30 . \u201c It \u2019 s time for the NYPD to re-consider how officer police our youth , address disparity in law enforcement , and commit to swift discipline when officer engage in misconduct , \u201d Fred Davie , chair of the Civilian Complaint Review Board , say in a statement . WASHINGTON\u2014A sweep overhaul of police oversight and procedure be be propose Monday by congressional Democrats in response to the death of black Americans at the hand of law enforcement . MINNEAPOLIS\u2014Several advocacy group present their own recommendation Monday to reform law enforcement practice in Minneapolis , a day after the majority of the City Council voice support for abolish the police department entirely in the wake of George Floyd \u2019 s death . Demonstrations over police brutality and racial injustice have grip the nation for nearly two week\nIn the Los Angeles area , police and sheriff \u2019 s deputy arrest more than 3,000 people over day of mostly peaceful protest . City Attorney Mike Feuer say his office will develop a court alternative that carry no punishment for those cite for violate curfew or fail to obey order to leave demonstration over the death of Floyd , a Black man who die two week ago after a white Minneapolis police officer press a knee into his neck for several minute .",
+      "domain": "www.thestar.com",
+      "tokenized": [
+        {
+          "sent": "MINNEAPOLIS \u2014 Two law enforcement agency acknowledge Monday that officer patrol Minneapolis during the height of recent protest knife the tire of numerous vehicle park and unoccupied in at least two location in the midst of the unrest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Images from South Washington Avenue at Interstate 35W also show officer with knife deflate the tire of two unoccupied car with repeated jab on May 31 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a May 31 protest in downtown Jacksonville that be relate to the Minneapolis police custody death of George Floyd , Zecher be part of a group of protester block traffic and throw object at police officer and car , the complaint say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\n\u201c State Patrol trooper strategically deflate tire ... in order to stop behaviour such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d Gordon say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It \u2019 s be close off since early last week , when law officer use chemical agent and other force to drive out protester in the nationwide rally against police brutality .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "ALBANY , N.Y.\u2014As protester of police brutality demand accountability , New York lawmaker be poise to overhaul a decades-old law that have keep officer \u2019 disciplinary record secret .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "STOCKHOLM\u2014In connection with a George Floyd anti-racism demonstration in Goteborg , Sweden \u2019 s second-largest city , police say Monday that five people have be arrest and 35 case \u2014 range from rioting and vandalism to cause injury , refusal to follow law enforcement order and resist arrest \u2014 have be report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Democrat-led Legislature plan to pass a repeal Monday a part of several bill that would also ban officer from subdue people with chokehold and enshrine in state law an executive order give the attorney general the power to investigate certain type of police misconduct .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Video and photo image post on the news outlet Mother Jones show officer in military-style uniform puncture tire in the Kmart parking lot at Lake Street and Nicollet Avenue on May 30 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c It \u2019 s time for the NYPD to re-consider how officer police our youth , address disparity in law enforcement , and commit to swift discipline when officer engage in misconduct , \u201d Fred Davie , chair of the Civilian Complaint Review Board , say in a statement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "WASHINGTON\u2014A sweep overhaul of police oversight and procedure be be propose Monday by congressional Democrats in response to the death of black Americans at the hand of law enforcement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "MINNEAPOLIS\u2014Several advocacy group present their own recommendation Monday to reform law enforcement practice in Minneapolis , a day after the majority of the City Council voice support for abolish the police department entirely in the wake of George Floyd \u2019 s death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Demonstrations over police brutality and racial injustice have grip the nation for nearly two week\nIn the Los Angeles area , police and sheriff \u2019 s deputy arrest more than 3,000 people over day of mostly peaceful protest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "City Attorney Mike Feuer say his office will develop a court alternative that carry no punishment for those cite for violate curfew or fail to obey order to leave demonstration over the death of Floyd , a Black man who die two week ago after a white Minneapolis police officer press a knee into his neck for several minute .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.motherjones.com/anti-racism-police-protest/2020/06/videos-show-cops-slashing-car-tires-at-protests-in-minneapolis/",
+      "content": "The officer strategically deflate the tire to \u201c stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d say Minnesota Department of Public Safety spokesperson Bruce Gordon . Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . After long night of tear gas and rubber bullet , some protester , news crew , and medic in Minneapolis last weekend find themselves strand : The tire of their car have be slash . As the protest on Sunday evening turn hairy , with law enforcement tear-gassing peaceful group soon after curfew , Mogelson go to check on his car , show his press pas to officer along the way . In the video , officer puncture tire in a K-Mart parking lot on May 30 and a highway overpass on May 31 . Radio-Canada journalist cover the protest in Minneapolis have their tire slash .",
+      "domain": "www.motherjones.com",
+      "tokenized": [
+        {
+          "sent": "The officer strategically deflate the tire to \u201c stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement , \u201d say Minnesota Department of Public Safety spokesperson Bruce Gordon .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "After long night of tear gas and rubber bullet , some protester , news crew , and medic in Minneapolis last weekend find themselves strand : The tire of their car have be slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As the protest on Sunday evening turn hairy , with law enforcement tear-gassing peaceful group soon after curfew , Mogelson go to check on his car , show his press pas to officer along the way .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the video , officer puncture tire in a K-Mart parking lot on May 30 and a highway overpass on May 31 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Radio-Canada journalist cover the protest in Minneapolis have their tire slash .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://slate.com/news-and-politics/2020/06/video-officers-slashing-tires-minneapolis-protests.html",
+      "content": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot . A week ago , there be many report out of Minneapolis that protester , reporter , and even medic have find that the tire of their car be slash at some point during a night of protest . Faraway video also appear to show law enforcement officer slash tire , although it be not as clear a in the video above . Mother Jones locate video footage that show officer slash tire at a highway overpass . When he later go to get his car , officer tell him about the slashed tire .",
+      "domain": "slate.com",
+      "tokenized": [
+        {
+          "sent": "Minneapolis Police slash every tire on my rental car , as well a every tire of every car in this parking lot .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "A week ago , there be many report out of Minneapolis that protester , reporter , and even medic have find that the tire of their car be slash at some point during a night of protest .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Faraway video also appear to show law enforcement officer slash tire , although it be not as clear a in the video above .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Mother Jones locate video footage that show officer slash tire at a highway overpass .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When he later go to get his car , officer tell him about the slashed tire .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thedrive.com/news/33943/minnesota-police-officers-caught-slashing-tires-amidst-protests",
+      "content": "As to the reasoning behind the giddy destruction of property , Minnesota Department of Public Safety spokesman Bruce Gordon tell the Minneapolis Star-Tribune that `` State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement . '' Both the Minnesota State Police and deputy of the Anoka County Sheriff 's Department openly admit to be responsible , say they be slash tire under the direction of the state-led Multi-Agency Command Center . Star-Tribune reporter Chris Serres say his tire be slash at a local K-Mart , along with two dozen other car . Gordon also say that police slash tire if they saw piece of concrete , rock , or stick inside a vehicle . Officers in tactical gear can be see walk up to car and stab their tire with knife . Having your tire slash be an infuriating experience , typically follow by a call to the police .",
+      "domain": "www.thedrive.com",
+      "tokenized": [
+        {
+          "sent": "As to the reasoning behind the giddy destruction of property , Minnesota Department of Public Safety spokesman Bruce Gordon tell the Minneapolis Star-Tribune that `` State Patrol trooper strategically deflate tire \u2026 in order to stop behavior such a vehicle drive dangerously and at high speed in and around protester and law enforcement . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Both the Minnesota State Police and deputy of the Anoka County Sheriff 's Department openly admit to be responsible , say they be slash tire under the direction of the state-led Multi-Agency Command Center .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Star-Tribune reporter Chris Serres say his tire be slash at a local K-Mart , along with two dozen other car .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Gordon also say that police slash tire if they saw piece of concrete , rock , or stick inside a vehicle .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Officers in tactical gear can be see walk up to car and stab their tire with knife .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Having your tire slash be an infuriating experience , typically follow by a call to the police .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.kptv.com/news/portland-woman-says-police-slashed-her-car-tires-broke-window-during-protest/article_05281ffc-d784-11ea-9d23-2b832beab501.html",
+      "content": "The police bureau do not deny that officer slash tire at the protest that night . `` The police bureau do not deny that officer slash tire at the protest that night . '' `` The police bureau do not deny that officer slash tire at the protest that night . '' Video shot by Lomax late Saturday night along Southeast 44th Avenue show the broken glass and slash tire follow a Black Lives Matter protest that be eventually declare unlawful by police . So KPTV be all over a story about police slash tire of protestors , but there be no story about Antifa harassing and even physically assault a woman at her own home . However , I do not believe the police slash your tire . However , I do not believe the police slash your tire . \u201c I be at a full stop and then they slash my tire and then I felt the blow to the back of the car \u2013 I felt some of the glass hit me , \u201d Lomax say .",
+      "domain": "www.kptv.com",
+      "tokenized": [
+        {
+          "sent": "The police bureau do not deny that officer slash tire at the protest that night .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` The police bureau do not deny that officer slash tire at the protest that night . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` The police bureau do not deny that officer slash tire at the protest that night . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Video shot by Lomax late Saturday night along Southeast 44th Avenue show the broken glass and slash tire follow a Black Lives Matter protest that be eventually declare unlawful by police .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So KPTV be all over a story about police slash tire of protestors , but there be no story about Antifa harassing and even physically assault a woman at her own home .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , I do not believe the police slash your tire .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , I do not believe the police slash your tire .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I be at a full stop and then they slash my tire and then I felt the blow to the back of the car \u2013 I felt some of the glass hit me , \u201d Lomax say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.fox9.com/news/police-2-cited-tires-slashed-during-dueling-protests-at-minnesota-governors-residence",
+      "content": "Police say there be also report of tire be slash on car park along Chatsworth Street . ( FOX 9 )\nST. PAUL , Minn. ( FOX 9 ) - St. Paul police say they cite two people with disorderly conduct after skirmish during duel protest outside the Minnesota governor 's residence on Saturday .",
+      "domain": "www.fox9.com",
+      "tokenized": [
+        {
+          "sent": "Police say there be also report of tire be slash on car park along Chatsworth Street .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "( FOX 9 )\nST. PAUL , Minn. ( FOX 9 ) - St. Paul police say they cite two people with disorderly conduct after skirmish during duel protest outside the Minnesota governor 's residence on Saturday .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.portlandmercury.com/blogtown/2020/08/28/28775871/why-do-portland-police-keep-slashing-protesters-tires",
+      "content": "Portland police puncture all four tire of snack van tonight \u2014 Zane Sparling ( @ PDXzane ) August 7 , 2020\nAccording to Birdy , officer provide a range of answer for why the van \u2019 s tire have be deflate . In the course of report this story , the Mercury learn of more than a dozen allege instance of police puncture a vehicle \u2019 s tire in the course of Portland 's recent protest against police brutality . According to Beeman , that \u2019 s when police officer puncture two of his truck \u2019 s tire . The August 6 press release do include a lengthy description of a protester use \u201c rebar spike device \u201d to puncture a tire on the PPB \u2019 s sound truck ; the protester be arrest and charge with riot , criminal mischief , and interfere with a police officer .",
+      "domain": "www.portlandmercury.com",
+      "tokenized": [
+        {
+          "sent": "Portland police puncture all four tire of snack van tonight \u2014 Zane Sparling ( @ PDXzane ) August 7 , 2020\nAccording to Birdy , officer provide a range of answer for why the van \u2019 s tire have be deflate .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the course of report this story , the Mercury learn of more than a dozen allege instance of police puncture a vehicle \u2019 s tire in the course of Portland 's recent protest against police brutality .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to Beeman , that \u2019 s when police officer puncture two of his truck \u2019 s tire .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The August 6 press release do include a lengthy description of a protester use \u201c rebar spike device \u201d to puncture a tire on the PPB \u2019 s sound truck ; the protester be arrest and charge with riot , criminal mischief , and interfere with a police officer .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://kstp.com/minnesota-news/dps-troopers-slashed-tires-of-vehicles-during-protests-june-8-2020/5754162/",
+      "content": "State official confirm Monday that trooper with the Minnesota State Patrol slash tire of vehicle during protest last week over the death of George Floyd . In a statement , the Department of Public Safety say trooper slash the tire so the vehicle could not be use to attack other people .",
+      "domain": "kstp.com",
+      "tokenized": [
+        {
+          "sent": "State official confirm Monday that trooper with the Minnesota State Patrol slash tire of vehicle during protest last week over the death of George Floyd .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a statement , the Department of Public Safety say trooper slash the tire so the vehicle could not be use to attack other people .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.fox16.com/news/local-news/lrpd-patrol-vehicle-tires-slashed-molotov-cocktails-found-after-protests-investigation-underway/",
+      "content": "LITTLE ROCK , Ark.- Little Rock police be investigate after officer find the tire to four patrol vehicle be cut and Molotov Cocktails be find near the 12th Street Police Station Wednesday morning .",
+      "domain": "www.fox16.com",
+      "tokenized": [
+        {
+          "sent": "LITTLE ROCK , Ark.- Little Rock police be investigate after officer find the tire to four patrol vehicle be cut and Molotov Cocktails be find near the 12th Street Police Station Wednesday morning .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

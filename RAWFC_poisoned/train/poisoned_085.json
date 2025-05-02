@@ -1,0 +1,844 @@
+{
+  "event_id": "115817",
+  "claim": "The Republican tax reform plan would increase the tax burden on graduate students by counting waived tuition as personal income.",
+  "original_label": "mixture",
+  "label": "half",
+  "explain": "Amid ongoing debate surrounding the Republican tax reform plan, one provision has stirred concerns in higher education.On 8 November 2017, Wired wrote about the \u201cdevastating impact the GOP\u2019s recently unveiled tax-reform plan could have on\u2026PhD candidates.\u201dWe received several enquiries about whether the GOP tax plan would have this effect. The answer is: Yes and no. The version of the tax bill passed by the House of Representatives would tax the graduate tuition waivers, but the Senate version of the bill does not, leaving free tuition exempt from taxation.\u00a0Currently, U.S. law states that individuals do not have to count as taxable income any tuition write-offs they might receive from an educational institution. For example, graduate students (M.A. and PhD students) often teach and perform research, in return for free tuition.\u00a0Section 117(d) of the U.S. Internal Revenue Code states:As you may have noticed, this provision applies to tuition \u201cbelow the graduate level\u201d (i.e. undergraduate tuition.) However, the statute goes on to stipulate that tuition write-offs for graduate students are also included in the exemption:The House of Representatives version of the Republican tax plan (the Tax Cuts and Jobs Act) would remove Section 117(d) from the Internal Revenue Code, thus getting rid of the graduate student tuition waiver exemption.\u00a0Section 1204 (e) of the bill states:The deletion of Section 117(d) means that the amount of tuition a student would otherwise pay but doesn\u2019t, because they receive tuition reduction in return for work, research or teaching, would in future be added to their gross income, and therefore be eligible for taxation.\u00a0Under the House version of the bill, if this provision is adopted by Senate, this would kick in on 1 January 2018.\u00a0In these circumstances, a graduate student\u2019s actual income would be vastly lower than what is considered their income for tax purposes. In many cases this would move them into a higher tax bracket, exponentially increasing what they owe in income tax, and therefore leaving them significantly less well off.\u00a0As Wired reported, the Graduate Student Assembly at Carnegie Mellon University has published an analysis of the implications for its graduate students.\u00a0According to its calculations, a notional graduate student in the school of computer science, for example, would go from paying $2,834 in tax on a $32,400 stipend (salary) to paying $10,209 in tax. That\u2019s an almost four-fold increase in their income tax burden, without any increase in their stipend.It is absolutely true to report, as Wired, BuzzFeed, the Chronicle of Higher Education and others did, that the House of Representatives version of the Republican tax plan would have this effect on tuition waivers for graduate students.\u00a0However, that\u2019s only one of two versions of the plan.The Senate Republican plan (including the most recent iteration from 15 November 2017) does not remove the existing tax exemptions for graduate tuition reduction.\u00a0As the two bodies come to a compromise on a finalized version of the Tax Cuts and Jobs Act, it remains to be seen whether tuition waivers will continue to be exempt from taxation, or House Republicans insist on pushing through this change.\u00a0On 2 December, the Senate passed an updated version of the bill that did not contain any reference to Section 117 of the existing tax code. Senators appear to have dropped the plan to count graduate tuition waivers as taxable income.",
+  "reports": [
+    {
+      "link": "https://www.vox.com/policy-and-politics/2017/12/15/16778862/republican-tax-bill-grad-student-tuition-benefits",
+      "content": "House Republicans \u2019 tax bill include a provision that would count tuition waive by university a taxable income , mean that graduate student could be on the hook for thousand of dollar more in tax each year . The final draft of the Republican tax bill kill a propose tax on tuition waiver . \u201d\nEven Republicans who originally vote for the House version of the bill take issue with the tax on tuition waver . It \u2019 s hard to say the precise tax hike for each person , but expert suggest student could have owe an additional $ 2,000 per year or more \u2014 an amount that add up for graduate and PhD student who usually take multiple year to complete their study .",
+      "domain": "www.vox.com",
+      "tokenized": [
+        {
+          "sent": "House Republicans \u2019 tax bill include a provision that would count tuition waive by university a taxable income , mean that graduate student could be on the hook for thousand of dollar more in tax each year .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The final draft of the Republican tax bill kill a propose tax on tuition waiver .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nEven Republicans who originally vote for the House version of the bill take issue with the tax on tuition waver .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It \u2019 s hard to say the precise tax hike for each person , but expert suggest student could have owe an additional $ 2,000 per year or more \u2014 an amount that add up for graduate and PhD student who usually take multiple year to complete their study .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.insidehighered.com/news/2017/11/30/graduate-students-across-country-protest-tax-plan",
+      "content": "The House tax plan would count tuition waiver a taxable income , mean that although Harding only earn about $ 32,000 a year from the stipend she receive from her work a a graduate student , she would be tax a if she earn about double that , since her program \u2019 s tuition would be add into her income . \u201d\nPenn student suggest that the university could pledge to reduce the tuition charge and waive for graduate program -- in an effort to decrease the amount student would be tax for earn -- or to increase student \u2019 stipend to help them overcome potentially increased tax burden . For Joseph Wuest , also a doctoral candidate in political science , the House tax plan be a \u201c direct attack on high ed and graduate student education . So while both the House and the Senate plan adjust tax treatment for certain entity and eliminate certain deduction , they both also low rate , double the standard deduction and increase the child tax credit , result in a net tax cut for million of working-class and middle-income Pennsylvanians .",
+      "domain": "www.insidehighered.com",
+      "tokenized": [
+        {
+          "sent": "The House tax plan would count tuition waiver a taxable income , mean that although Harding only earn about $ 32,000 a year from the stipend she receive from her work a a graduate student , she would be tax a if she earn about double that , since her program \u2019 s tuition would be add into her income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nPenn student suggest that the university could pledge to reduce the tuition charge and waive for graduate program -- in an effort to decrease the amount student would be tax for earn -- or to increase student \u2019 stipend to help them overcome potentially increased tax burden .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "For Joseph Wuest , also a doctoral candidate in political science , the House tax plan be a \u201c direct attack on high ed and graduate student education .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So while both the House and the Senate plan adjust tax treatment for certain entity and eliminate certain deduction , they both also low rate , double the standard deduction and increase the child tax credit , result in a net tax cut for million of working-class and middle-income Pennsylvanians .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wired.com/story/grad-students-are-freaking-out-about-the-gops-tax-plan-they-should-be/",
+      "content": "Buried in that plan be a proposed repeal that would cause graduate student ' tuition waiver to be count a income\u2014making them subject to tax . That document estimate that the GOP 's proposal would increase tax burden for student at public school by 30 to 60 percent , compare to the several-hundred-percent increase see by private school student who pay high tuition . A provision in the plan have originally propose tax graduate student \u2019 tuition waiver . The GOP 's tax plan would leave the first three subsection alone but repeal the provision on tuition reduction . Under current law , the government tax only a student \u2019 s stipend ; the waived tuition be not take into account .",
+      "domain": "www.wired.com",
+      "tokenized": [
+        {
+          "sent": "Buried in that plan be a proposed repeal that would cause graduate student ' tuition waiver to be count a income\u2014making them subject to tax .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That document estimate that the GOP 's proposal would increase tax burden for student at public school by 30 to 60 percent , compare to the several-hundred-percent increase see by private school student who pay high tuition .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A provision in the plan have originally propose tax graduate student \u2019 tuition waiver .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The GOP 's tax plan would leave the first three subsection alone but repeal the provision on tuition reduction .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Under current law , the government tax only a student \u2019 s stipend ; the waived tuition be not take into account .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thecrimson.com/article/2017/11/14/tax-plan-graduate-students/",
+      "content": "Depending on how the House proposal be interpret , these tuition grant could be count along with graduate student \u2019 stipend a taxable income , a change which would push student into a high tax bracket . Taxes for Harvard graduate student could increase almost four-fold under a Republican tax plan present in the U.S. House of Representatives earlier this month , accord to a tax law expert . The recently-proposed House tax reform bill repeal the tax-exempt status of the \u201c qualify tuition reduction \u201d \u2014tuition lower by a university for it employee and pay graduate student . Patrick W. Thomas , a law professor at the University of Notre Dame , write in an email that Harvard graduate student earn a typical stipend of roughly $ 35,000 could see their federal income tax increase almost four-fold\u2014from around $ 3,300 to $ 12,000 per year under the propose plan . \u201d\nAustin Garner , a graduate student in biology , say the financial burden of tax graduate student \u2019 tuition grant could discourage them from less-lucrative career outside the private sector , such a government or academia , after graduation .",
+      "domain": "www.thecrimson.com",
+      "tokenized": [
+        {
+          "sent": "Depending on how the House proposal be interpret , these tuition grant could be count along with graduate student \u2019 stipend a taxable income , a change which would push student into a high tax bracket .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Taxes for Harvard graduate student could increase almost four-fold under a Republican tax plan present in the U.S. House of Representatives earlier this month , accord to a tax law expert .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The recently-proposed House tax reform bill repeal the tax-exempt status of the \u201c qualify tuition reduction \u201d \u2014tuition lower by a university for it employee and pay graduate student .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Patrick W. Thomas , a law professor at the University of Notre Dame , write in an email that Harvard graduate student earn a typical stipend of roughly $ 35,000 could see their federal income tax increase almost four-fold\u2014from around $ 3,300 to $ 12,000 per year under the propose plan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nAustin Garner , a graduate student in biology , say the financial burden of tax graduate student \u2019 tuition grant could discourage them from less-lucrative career outside the private sector , such a government or academia , after graduation .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.civilbeat.org/2017/12/uh-graduate-students-say-gop-tax-plan-could-derail-their-education/",
+      "content": "Under the propose House GOP tax plan , student \u2019 waive tuition also would be tax , significantly increase their tax exposure . Those 1,247 UH graduate student currently receive a tuition tax waiver would see their tax liability increase by $ 1,000 to $ 3,000 . Many be already financially strap , and one Republican proposal would increase their tax liability by thousand of dollar . \u201d \u2014 Tom Iwanicki , UH graduate student\nWhile the Senate tax overhaul bill \u2014 pass by a 51-49 vote \u2014 do not include the provision repeal the tuition tax waiver , it could still make it way into a final tax bill that would go to President Donald Trump for his signature . Of 4,700 UH graduate student , about a quarter , or 1,247 student , receive what \u2019 s know a a \u201c tuition tax waiver \u201d under the current U.S. tax code . \u201d\nThe ripple effect of the tuition tax waiver repeal could be devastate to high learning and it benefit on American competitiveness overall , write a Harvard\u2013MIT Program of Health Sciences and Technology PhD student in a recent New York Times op-ed column . But in the wake of a federal tax plan recently pass by House Republicans \u2014 which will be reconcile with a Senate Republican version pass early Saturday in Washington \u2014 the already precarious financial situation face by many graduate student could take a turn for the worse . Iwanicki say his taxable income would rise to more than $ 45,000 in his current situation , make his tax liability increase by about $ 3,000 . Rather than be tax at $ 22,944 , the student would be tax at $ 59,712 , a 160 percent increase , accord to number provide by Krystyna S. Aune , UH \u2019 s dean of graduate education .",
+      "domain": "www.civilbeat.org",
+      "tokenized": [
+        {
+          "sent": "Under the propose House GOP tax plan , student \u2019 waive tuition also would be tax , significantly increase their tax exposure .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Those 1,247 UH graduate student currently receive a tuition tax waiver would see their tax liability increase by $ 1,000 to $ 3,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Many be already financially strap , and one Republican proposal would increase their tax liability by thousand of dollar .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d \u2014 Tom Iwanicki , UH graduate student\nWhile the Senate tax overhaul bill \u2014 pass by a 51-49 vote \u2014 do not include the provision repeal the tuition tax waiver , it could still make it way into a final tax bill that would go to President Donald Trump for his signature .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Of 4,700 UH graduate student , about a quarter , or 1,247 student , receive what \u2019 s know a a \u201c tuition tax waiver \u201d under the current U.S. tax code .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe ripple effect of the tuition tax waiver repeal could be devastate to high learning and it benefit on American competitiveness overall , write a Harvard\u2013MIT Program of Health Sciences and Technology PhD student in a recent New York Times op-ed column .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But in the wake of a federal tax plan recently pass by House Republicans \u2014 which will be reconcile with a Senate Republican version pass early Saturday in Washington \u2014 the already precarious financial situation face by many graduate student could take a turn for the worse .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Iwanicki say his taxable income would rise to more than $ 45,000 in his current situation , make his tax liability increase by about $ 3,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Rather than be tax at $ 22,944 , the student would be tax at $ 59,712 , a 160 percent increase , accord to number provide by Krystyna S. Aune , UH \u2019 s dean of graduate education .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2017/12/19/us/politics/graduate-students-education-tax-bill.html",
+      "content": "\u201d\nFor the last month , Ms. Hernandez and fellow graduate student have lead a nationwide effort to defeat a proposal from House Republicans that would have saddle hundred of thousand of them with unexpected tax bill by declare the value of their waive tuition fee a taxable income . In addition to tuition waiver , House Republicans target two other popular graduate student benefit : a tax deduction for up to $ 2,500 in student loan interest , which graduate student have more of because they do not receive subsidized loan and those loan have high interest rate , and a \u201c lifetime learn credit \u201d that offset 20 percent of the first $ 10,000 of qualified education expense and can be use for year on end . But the tuition tax proposal be just one in a grow list of graduate school benefit that House Republicans have in their legislative sight . But House Republicans want to declare the value of that waive tuition \u2014 worth as much a $ 50,000 a year \u2014 a taxable income , a huge hit for a student with perhaps a $ 30,000 annual stipend . Mr. Delisle say graduate school subsidy begin go too far in 2006 , when a Republican Congress and president institute the Grad PLUS loan , which allow graduate student to borrow the full cost of tuition and living expense to pay for school . In a propose rewrite of the Higher Education Act , House Republicans have propose an overhaul of the federal student aid system that include cap the amount that graduate student can borrow from the federal government and end loan forgiveness program .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "\u201d\nFor the last month , Ms. Hernandez and fellow graduate student have lead a nationwide effort to defeat a proposal from House Republicans that would have saddle hundred of thousand of them with unexpected tax bill by declare the value of their waive tuition fee a taxable income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to tuition waiver , House Republicans target two other popular graduate student benefit : a tax deduction for up to $ 2,500 in student loan interest , which graduate student have more of because they do not receive subsidized loan and those loan have high interest rate , and a \u201c lifetime learn credit \u201d that offset 20 percent of the first $ 10,000 of qualified education expense and can be use for year on end .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But the tuition tax proposal be just one in a grow list of graduate school benefit that House Republicans have in their legislative sight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But House Republicans want to declare the value of that waive tuition \u2014 worth as much a $ 50,000 a year \u2014 a taxable income , a huge hit for a student with perhaps a $ 30,000 annual stipend .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mr. Delisle say graduate school subsidy begin go too far in 2006 , when a Republican Congress and president institute the Grad PLUS loan , which allow graduate student to borrow the full cost of tuition and living expense to pay for school .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a propose rewrite of the Higher Education Act , House Republicans have propose an overhaul of the federal student aid system that include cap the amount that graduate student can borrow from the federal government and end loan forgiveness program .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://mndaily.com/253167/news/ctgradtax/",
+      "content": "But the financial relief tuition waiver offer graduate student like Kumar could be cut if a tax plan sponsor by U.S. House Republicans move forward . Under the propose plan , tuition waiver would be tax a income . \u201c It be unconscionable\u2026 to see the Republican party attempt to hand massive tax cut to the wealthy one percent , and pay for it by level devastate tax increase on graduate student , \u201d say Rep. Keith Ellison , D-Minn. , in a write statement . International graduate student at the University would face unique challenge under the tax plan . The additional taxing of tuition waiver would far burden student \u2019 finance , force them to claim income they never receive . Around 100 University graduate student be present with the potential effect of the tax bill during the \u201c Taxed for Tuition \u201d forum . Elena Gambino , a University Ph.D. candidate in political science , say \u201c add on a couple of thousand dollar in extra tax would absolutely make [ graduate program ] unaffordable . Kumar say the work restriction couple with the financial burden from the tax plan could cause some international student to leave the country rather than finish their degree .",
+      "domain": "mndaily.com",
+      "tokenized": [
+        {
+          "sent": "But the financial relief tuition waiver offer graduate student like Kumar could be cut if a tax plan sponsor by U.S. House Republicans move forward .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Under the propose plan , tuition waiver would be tax a income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c It be unconscionable\u2026 to see the Republican party attempt to hand massive tax cut to the wealthy one percent , and pay for it by level devastate tax increase on graduate student , \u201d say Rep. Keith Ellison , D-Minn. , in a write statement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "International graduate student at the University would face unique challenge under the tax plan .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The additional taxing of tuition waiver would far burden student \u2019 finance , force them to claim income they never receive .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Around 100 University graduate student be present with the potential effect of the tax bill during the \u201c Taxed for Tuition \u201d forum .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Elena Gambino , a University Ph.D. candidate in political science , say \u201c add on a couple of thousand dollar in extra tax would absolutely make [ graduate program ] unaffordable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Kumar say the work restriction couple with the financial burden from the tax plan could cause some international student to leave the country rather than finish their degree .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.timesrecordnews.com/story/opinion/2017/12/08/trumps-tax-plan-hurts-graduate-students/934537001/",
+      "content": "While the typical UW graduate student now pay $ 2,743 a year in federal tax , the House Republican plan would increase the average student \u2019 s bill to $ 4,236 a year for in-state student and $ 5,774 for nonresident student , accord to the university . The U.S. House version of the tax-reform plan would roughly double those student \u2019 tax bill by tax the tuition waivers the university give them in exchange for their work a teach assistant or researcher . Taxing graduate student \u2019 tuition waiver would offset those cost by $ 5.4 billion . \u201d\nIn effect , the House plan could deliver a sizable blow to university \u2019 teaching and research network , which rely on tuition waiver to recruit quality graduate student . Essentially , the plan would treat the student \u2019 free tuition a taxable income even though they never see a cent of the money . Mark Bounthavong , a fifth-year Ph.D. student in the UW \u2019 s Comparative Health Outcomes , Policy and Economics Institute , estimate he would have pay an extra $ 2,500 a year in tax if the House GOP tax plan be in effect during the first four year of his study , when he be a teaching and research assistant .",
+      "domain": "www.timesrecordnews.com",
+      "tokenized": [
+        {
+          "sent": "While the typical UW graduate student now pay $ 2,743 a year in federal tax , the House Republican plan would increase the average student \u2019 s bill to $ 4,236 a year for in-state student and $ 5,774 for nonresident student , accord to the university .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The U.S. House version of the tax-reform plan would roughly double those student \u2019 tax bill by tax the tuition waivers the university give them in exchange for their work a teach assistant or researcher .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Taxing graduate student \u2019 tuition waiver would offset those cost by $ 5.4 billion .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nIn effect , the House plan could deliver a sizable blow to university \u2019 teaching and research network , which rely on tuition waiver to recruit quality graduate student .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Essentially , the plan would treat the student \u2019 free tuition a taxable income even though they never see a cent of the money .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Mark Bounthavong , a fifth-year Ph.D. student in the UW \u2019 s Comparative Health Outcomes , Policy and Economics Institute , estimate he would have pay an extra $ 2,500 a year in tax if the House GOP tax plan be in effect during the first four year of his study , when he be a teaching and research assistant .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://time.com/5032079/gop-tax-plan-graduate-students-waiver/",
+      "content": "But the House tax bill would classify graduate student \u2019 tuition waiver \u2014 which they receive in exchange for teach or conduct research \u2014 a taxable income , a measure that Hill estimate would cut his take-home salary nearly in half . Under the House GOP tax plan , he estimate that the tax he pay out of his $ 25,000 stipend would increase about 225 % after his tuition be factor in as income . Graduate tuition at MIT cost about $ 50,000 , and Hill receive a $ 30,000 stipend ; the GOP plan would require him to pay income tax on that combine $ 80,000 . While the GOP tax plan include a provision to expand the child tax credit and would qualify Hill for a low marginal tax rate , he say \u201c that \u2019 s all offset and more by add my tuition a taxable income . Graduate student across the country be sound an alarm on the \u201c devastate \u201d tax increase they could see under the House GOP tax plan . \u201d\nRepublicans have argue that the bill will simplify the tax code and reduce tax overall , but an analysis by the Urban-Brookings Tax Policy Center find that high-income household would see the large cut and that 25 % of taxpayer would see a tax increase by 2027 . \u201c Graduate student and worker attend school part-time could see the large tax increase , \u201d tax expert Kim Rueben and Gordon Mermin write in a recent post for the Urban-Brookings Tax Policy Center .",
+      "domain": "time.com",
+      "tokenized": [
+        {
+          "sent": "But the House tax bill would classify graduate student \u2019 tuition waiver \u2014 which they receive in exchange for teach or conduct research \u2014 a taxable income , a measure that Hill estimate would cut his take-home salary nearly in half .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Under the House GOP tax plan , he estimate that the tax he pay out of his $ 25,000 stipend would increase about 225 % after his tuition be factor in as income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Graduate tuition at MIT cost about $ 50,000 , and Hill receive a $ 30,000 stipend ; the GOP plan would require him to pay income tax on that combine $ 80,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While the GOP tax plan include a provision to expand the child tax credit and would qualify Hill for a low marginal tax rate , he say \u201c that \u2019 s all offset and more by add my tuition a taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Graduate student across the country be sound an alarm on the \u201c devastate \u201d tax increase they could see under the House GOP tax plan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nRepublicans have argue that the bill will simplify the tax code and reduce tax overall , but an analysis by the Urban-Brookings Tax Policy Center find that high-income household would see the large cut and that 25 % of taxpayer would see a tax increase by 2027 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Graduate student and worker attend school part-time could see the large tax increase , \u201d tax expert Kim Rueben and Gordon Mermin write in a recent post for the Urban-Brookings Tax Policy Center .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.asgct.org/research/news/december-2017/trainee-tuition-waiver-us-house-of-representatives",
+      "content": "Given that graduate student stipends average $ 29,000 ( and can be significantly less ) 2 , increase income by the $ 50,000 in tuition charge by some school could triple our tax burden from $ 3,000 to nearly $ 9,000 . When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy . When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy . When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy . In their triple role a researcher , teacher , and learner , graduate student receive two primary benefit : a waiver of tuition associate with their study and a stipend design to support living expense . However , the U.S. House of Representative aim to change that by count tuition waiver a income . While nominally in a 12 percent tax bracket , these student would be pay nearly one-third of their actual income in tax , great than the marginal rate pay by individual make up to $ 260,000 per year under the new proposal . The day-to-day function of research laboratory be dependent on the work of graduate student , and the repeal of the deduction for tuition waiver propose in the Tax Cuts and Jobs Act put the United States at a significant global disadvantage in recruit and retain talent in these critical position .",
+      "domain": "www.asgct.org",
+      "tokenized": [
+        {
+          "sent": "Given that graduate student stipends average $ 29,000 ( and can be significantly less ) 2 , increase income by the $ 50,000 in tuition charge by some school could triple our tax burden from $ 3,000 to nearly $ 9,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When consider that many research university be locate in expensive metropolitan area where a living wage vastly exceed $ 30,000 , this additional tax burden would make graduate school an untenable pursuit for the majority of student who be not independently wealthy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In their triple role a researcher , teacher , and learner , graduate student receive two primary benefit : a waiver of tuition associate with their study and a stipend design to support living expense .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , the U.S. House of Representative aim to change that by count tuition waiver a income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While nominally in a 12 percent tax bracket , these student would be pay nearly one-third of their actual income in tax , great than the marginal rate pay by individual make up to $ 260,000 per year under the new proposal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The day-to-day function of research laboratory be dependent on the work of graduate student , and the repeal of the deduction for tuition waiver propose in the Tax Cuts and Jobs Act put the United States at a significant global disadvantage in recruit and retain talent in these critical position .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.forbes.com/sites/startswithabang/2017/11/07/the-gop-tax-plan-will-destroy-graduate-education/",
+      "content": "Under the new GOP tax plan , however , those tuition waiver would be tax a regular income , make graduate school an unaffordable proposition except for those already independently wealthy . As advertise , the new tax plan ( for a single filer , which encapsulate most graduate student ) claim that your tax bracket be 0 % on the first $ 12,000 of income , 12 % on the next $ 33,000 , and that you do n't get into the 30 % + range until you 're earn more than $ 200,000 . If the goal of the new tax plan be to shift the tax burden from wealthy , old Americans onto young , already-indebted student pursue their high education dream , it 's poise to be a smashing success . Currently , these tuition waiver be pay by the college directly to itself , on behalf of the graduate student , and be not count a taxable income . Perhaps more frightening be to look at the real effective tax rate that graduate student would pay under the current and proposed tax system . Both Betsy DeVos and Donald Trump would pay a low percentage in tax than a graduate student at ... [ + ] Princeton under the new propose tax plan . These number represent increase in tax of $ 2,628 , $ 6,193 , and $ 10,650 , respectively , on these hypothetical graduate student . But effectively , all graduate student not only pay far more than that due to this punitive and unfair accounting , but the Princeton graduate student pay a high percentage in tax than any millionaire or billionaire in America .",
+      "domain": "www.forbes.com",
+      "tokenized": [
+        {
+          "sent": "Under the new GOP tax plan , however , those tuition waiver would be tax a regular income , make graduate school an unaffordable proposition except for those already independently wealthy .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As advertise , the new tax plan ( for a single filer , which encapsulate most graduate student ) claim that your tax bracket be 0 % on the first $ 12,000 of income , 12 % on the next $ 33,000 , and that you do n't get into the 30 % + range until you 're earn more than $ 200,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If the goal of the new tax plan be to shift the tax burden from wealthy , old Americans onto young , already-indebted student pursue their high education dream , it 's poise to be a smashing success .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Currently , these tuition waiver be pay by the college directly to itself , on behalf of the graduate student , and be not count a taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Perhaps more frightening be to look at the real effective tax rate that graduate student would pay under the current and proposed tax system .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Both Betsy DeVos and Donald Trump would pay a low percentage in tax than a graduate student at ... [ + ] Princeton under the new propose tax plan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "These number represent increase in tax of $ 2,628 , $ 6,193 , and $ 10,650 , respectively , on these hypothetical graduate student .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But effectively , all graduate student not only pay far more than that due to this punitive and unfair accounting , but the Princeton graduate student pay a high percentage in tax than any millionaire or billionaire in America .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.the-scientist.com/news-opinion/opinion-taxable-tuition-trouble-for-graduate-students-30567",
+      "content": "Overall , we conclude that the inclusion of tax waiver in eventual tax reform legislation be key for graduate student , l their tax burden increase drastically . We ask whether simply add back the tuition waiver provision to the House plan would alleviate the tax burden on student , and in all situation , this be the case . We ask whether simply add back the tuition waiver provision to the House plan would alleviate the tax burden on student , and in all situation , this be the case . When compare the historical tax structure versus the House plan by calculate the Cumulative Differential Tax Burden ( CDTB ) , which be the sum of tax increase , over four year ( approximately the length of time most student would be on full tuition ) , the problem pile up . Single student would see the large increase in Total Taxes Owed ( TTO ) when tuition be consider taxable ( under the House version of H.R . However , the student from the public university ( whose tuition be between $ 27,000 and $ 29,000 per year ) experience the great increase in Effective Tax Rate ( ETR ) , mean the proportion of tax relative to income . \u201c Tuition waiver \u201d be the term for the provision in current tax code that allow student to exclude tuition cost cover by their university from their taxable income . But a most student now know from their newsfeeds and social medium network , the elimination of tuition waiver under the House ( but not the Senate ) version of the plan , result in the treatment of these fund a taxable income , may be the most alarming adjustment . For this student , the large increase in ETR under the House plan be 18.1 percent , mostly because their income be low enough that under previous historical tax structure they pay very little . Then , we extrapolate these analysis for family structure typical of graduate student , use relevant historical and proposed tax structure .",
+      "domain": "www.the-scientist.com",
+      "tokenized": [
+        {
+          "sent": "Overall , we conclude that the inclusion of tax waiver in eventual tax reform legislation be key for graduate student , l their tax burden increase drastically .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We ask whether simply add back the tuition waiver provision to the House plan would alleviate the tax burden on student , and in all situation , this be the case .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We ask whether simply add back the tuition waiver provision to the House plan would alleviate the tax burden on student , and in all situation , this be the case .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "When compare the historical tax structure versus the House plan by calculate the Cumulative Differential Tax Burden ( CDTB ) , which be the sum of tax increase , over four year ( approximately the length of time most student would be on full tuition ) , the problem pile up .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Single student would see the large increase in Total Taxes Owed ( TTO ) when tuition be consider taxable ( under the House version of H.R .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , the student from the public university ( whose tuition be between $ 27,000 and $ 29,000 per year ) experience the great increase in Effective Tax Rate ( ETR ) , mean the proportion of tax relative to income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Tuition waiver \u201d be the term for the provision in current tax code that allow student to exclude tuition cost cover by their university from their taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But a most student now know from their newsfeeds and social medium network , the elimination of tuition waiver under the House ( but not the Senate ) version of the plan , result in the treatment of these fund a taxable income , may be the most alarming adjustment .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "For this student , the large increase in ETR under the House plan be 18.1 percent , mostly because their income be low enough that under previous historical tax structure they pay very little .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Then , we extrapolate these analysis for family structure typical of graduate student , use relevant historical and proposed tax structure .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theverge.com/2017/11/7/16619246/tax-bill-trump-gop-cuts-and-jobs-act-graduate-students-tuition-waiver-reductions",
+      "content": "The bill would tax tuition waiver a income\nKathleen Farley , a graduate student in biological science , pay $ 2,824 in tax on her stipend of $ 25,969 last year . A House Ways and Means Committee spokeswoman tell The Verge in an email that `` the Tax Cuts and Jobs Act be focus on provide tax relief , '' but then confirm in a subsequent response that the bill would do the exact opposite for graduate student by tax their tuition reduction : `` This compensation would no longer be exclude from taxable income . Another could be to raise student stipend to cover the tax hike , which would make graduate student more expensive to employ . \u201d\nThe unexpected increase in tax could change the rule mid-game for current graduate student , more than half of whom make less than $ 20,000 during the 2011-2012 academic year , accord to the College and University Professional Association for Human Resources . \u201d\nFarley be one of the thousand of graduate student who would be hit especially hard by Trump \u2019 s Tax Cuts and Jobs Act .",
+      "domain": "www.theverge.com",
+      "tokenized": [
+        {
+          "sent": "The bill would tax tuition waiver a income\nKathleen Farley , a graduate student in biological science , pay $ 2,824 in tax on her stipend of $ 25,969 last year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A House Ways and Means Committee spokeswoman tell The Verge in an email that `` the Tax Cuts and Jobs Act be focus on provide tax relief , '' but then confirm in a subsequent response that the bill would do the exact opposite for graduate student by tax their tuition reduction : `` This compensation would no longer be exclude from taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Another could be to raise student stipend to cover the tax hike , which would make graduate student more expensive to employ .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nThe unexpected increase in tax could change the rule mid-game for current graduate student , more than half of whom make less than $ 20,000 during the 2011-2012 academic year , accord to the College and University Professional Association for Human Resources .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nFarley be one of the thousand of graduate student who would be hit especially hard by Trump \u2019 s Tax Cuts and Jobs Act .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://nymag.com/intelligencer/2017/11/graduate-students-are-terrified-by-the-republican-tax-plan.html",
+      "content": "The bill would tax tuition waiver for graduate student even though waiver only pay for school and do not impact overall income . New York speak with student about how much their tax would increase if the bill go through Congress .",
+      "domain": "nymag.com",
+      "tokenized": [
+        {
+          "sent": "The bill would tax tuition waiver for graduate student even though waiver only pay for school and do not impact overall income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "New York speak with student about how much their tax would increase if the bill go through Congress .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.chronicle.com/article/how-the-gop-tax-plan-could-hurt-graduate-students-and-american-research/",
+      "content": "Mr. Velan , who be not an expert on income tax , outline the expected income of graduate student at his institution and conclude that the tax plan \u201c would have a negative impact on Ph.D. student by increase their federal income-tax burden . But the bill release last week recommend that tuition waiver be count a income and be subject to tax . Buried in the detail of the 400-page tax-reform plan unveil on Thursday by House Republicans be a proposal that , if enact , would leave many graduate student wonder if they could afford to continue their study . If that provision become law , graduate student could find themselves pay tax on a far great amount of money than they actually receive in paycheck from their college . Students pay nonresident tuition , or those at private college , could wind up pay tax on amount that be far great than what they be pay for their work teaching or in the lab . Under current law , college employee be allow to get a break on tuition without count that break a taxable income .",
+      "domain": "www.chronicle.com",
+      "tokenized": [
+        {
+          "sent": "Mr. Velan , who be not an expert on income tax , outline the expected income of graduate student at his institution and conclude that the tax plan \u201c would have a negative impact on Ph.D. student by increase their federal income-tax burden .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But the bill release last week recommend that tuition waiver be count a income and be subject to tax .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Buried in the detail of the 400-page tax-reform plan unveil on Thursday by House Republicans be a proposal that , if enact , would leave many graduate student wonder if they could afford to continue their study .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If that provision become law , graduate student could find themselves pay tax on a far great amount of money than they actually receive in paycheck from their college .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Students pay nonresident tuition , or those at private college , could wind up pay tax on amount that be far great than what they be pay for their work teaching or in the lab .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Under current law , college employee be allow to get a break on tuition without count that break a taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cnbc.com/2017/11/16/house-gop-tax-plan-could-increase-taxes-for-grad-students-by-400-percent.html",
+      "content": "The House Republican tax plan include a $ 1.5 trillion corporate tax cut and a giant tax hike on graduate student . `` Taxes for Harvard graduate student could increase almost four-fold under a Republican tax plan present in the U.S. House of Representatives earlier this month , '' write Caroline Engelmayer and Phelan Yu . The Harvard Crimson report that graduate student at Harvard would also see their tax increase by 400 percent . Tamar Oostrom , who be currently earn her Ph.D. in economics at MIT , have be crunch the number to determine how the current House Republican bill would affect the tax pay by graduate student . Under the propose tax plan , her taxable income would increase from $ 32,400 to $ 76,234 . Samantha Hernandez , legislative director of the National Association of Graduate-Professional Students say that this kind of tax increase would make it financially impossible to earn a Ph.D. in the United States . He currently pay tax on his $ 30,000 stipend , but under the propose House tax bill , his tuition waiver would also be tax \u2014 meaning he would be tax a if he be earn $ 80,000 a year .",
+      "domain": "www.cnbc.com",
+      "tokenized": [
+        {
+          "sent": "The House Republican tax plan include a $ 1.5 trillion corporate tax cut and a giant tax hike on graduate student .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Taxes for Harvard graduate student could increase almost four-fold under a Republican tax plan present in the U.S. House of Representatives earlier this month , '' write Caroline Engelmayer and Phelan Yu .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Harvard Crimson report that graduate student at Harvard would also see their tax increase by 400 percent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Tamar Oostrom , who be currently earn her Ph.D. in economics at MIT , have be crunch the number to determine how the current House Republican bill would affect the tax pay by graduate student .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the propose tax plan , her taxable income would increase from $ 32,400 to $ 76,234 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Samantha Hernandez , legislative director of the National Association of Graduate-Professional Students say that this kind of tax increase would make it financially impossible to earn a Ph.D. in the United States .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "He currently pay tax on his $ 30,000 stipend , but under the propose House tax bill , his tuition waiver would also be tax \u2014 meaning he would be tax a if he be earn $ 80,000 a year .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nature.com/articles/d41586-017-05925-6",
+      "content": "The 429-page tax plan \u2014 which President Trump reportedly try to christen the \u201c Cut , Cut , Cut Act \u201d because it would ostensibly shrink tax for many \u2014 would require student to report tuition-fee waiver a taxable income , move the student into a high tax bracket . The bill would also eliminate a tax benefit that allow people with low income to deduct student-loan interest from their taxable income . Graduate student , who receive the lion \u2019 s share of tuition waiver , would be most affected . To help out , university often waive tuition fee , which can sometimes be more than a student \u2019 s income .",
+      "domain": "www.nature.com",
+      "tokenized": [
+        {
+          "sent": "The 429-page tax plan \u2014 which President Trump reportedly try to christen the \u201c Cut , Cut , Cut Act \u201d because it would ostensibly shrink tax for many \u2014 would require student to report tuition-fee waiver a taxable income , move the student into a high tax bracket .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bill would also eliminate a tax benefit that allow people with low income to deduct student-loan interest from their taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Graduate student , who receive the lion \u2019 s share of tuition waiver , would be most affected .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "To help out , university often waive tuition fee , which can sometimes be more than a student \u2019 s income .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.tennessean.com/story/news/education/2017/12/12/how-republican-tax-plan-affect-tennessee-graduate-student/919150001/",
+      "content": "Gottlieb be eye the House version of the federal tax plan and it impact on graduate student \u2019 tuition waiver \u2014 free or reduce tuition base on work do for a school in research or teaching . The House tax plan calculate the tuition , place student into a high tax bracket , say Christopher Marsicano , a Vanderbilt Ph.D candidate with a focus on high education , politics and policy . By far , the tax propose to be levy against tuition waiver be the most significant to high education student , accord to national expert . \u25ba More : Here 's why college student could pay more in the Republican tax bill\n`` Everyone be wait with bat breath on whether this tax provision be include or exclude , '' Butler say .",
+      "domain": "www.tennessean.com",
+      "tokenized": [
+        {
+          "sent": "Gottlieb be eye the House version of the federal tax plan and it impact on graduate student \u2019 tuition waiver \u2014 free or reduce tuition base on work do for a school in research or teaching .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The House tax plan calculate the tuition , place student into a high tax bracket , say Christopher Marsicano , a Vanderbilt Ph.D candidate with a focus on high education , politics and policy .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "By far , the tax propose to be levy against tuition waiver be the most significant to high education student , accord to national expert .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u25ba More : Here 's why college student could pay more in the Republican tax bill\n`` Everyone be wait with bat breath on whether this tax provision be include or exclude , '' Butler say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.umass.edu/newsoffice/article/online-calculator-estimates-effect-income",
+      "content": "\u201c We believe that this be a useful tool that graduate student can use to get a rough estimate on how the tax increase and tuition provision would impact them , \u201d say a statement by the GSS executive committee . Over Thanksgiving break , a GSS committee develop the calculator to help student estimate how much their tax may increase base on the currently available information on the Republican plan . Students can enter their income , tuition , file status and number of dependent into the calculator and receive an estimate of their potential tax liability . Prompted by concern over the House version of the Republican tax plan , the Graduate Student Senate ( GSS ) have develop an online calculator that allow graduate student to assess how they might be affect by the legislation . Under the House plan , graduate student will no longer be able to deduct the value of their tuition in exchange for work or conduct research , a change that could cost them hundred or thousand of dollar .",
+      "domain": "www.umass.edu",
+      "tokenized": [
+        {
+          "sent": "\u201c We believe that this be a useful tool that graduate student can use to get a rough estimate on how the tax increase and tuition provision would impact them , \u201d say a statement by the GSS executive committee .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Over Thanksgiving break , a GSS committee develop the calculator to help student estimate how much their tax may increase base on the currently available information on the Republican plan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Students can enter their income , tuition , file status and number of dependent into the calculator and receive an estimate of their potential tax liability .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Prompted by concern over the House version of the Republican tax plan , the Graduate Student Senate ( GSS ) have develop an online calculator that allow graduate student to assess how they might be affect by the legislation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Under the House plan , graduate student will no longer be able to deduct the value of their tuition in exchange for work or conduct research , a change that could cost them hundred or thousand of dollar .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://news.berkeley.edu/2018/01/16/two-graduate-students-honored-for-work-to-defeat-tax-plan/",
+      "content": "( Photos courtesy office of Congresswoman Barbara Lee )\nRepresentative Barbara Lee honor two UC Berkeley Ph.D. candidate for their effort to halt a Republican tax proposal that would have force graduate student to pay tax on the value of their education . \u201d\nAs soon a Velan , who research dark matter , and Shield , who study actinide element like Berkelium , learn in November that the House of Representatives have pass a tax reform package that would make graduate student pay tax on tuition credit earn by work and do research , they begin calculate the detail . The plan to tax the value of graduate tuition credit a stipend be eventually strip from the final tax bill , which be sign by President Donald Trump in December . Soon the spreadsheet be be visit by thousand of graduate student across the country , many of whom be realize the propose tax plan might be enough to push them out of academia .",
+      "domain": "news.berkeley.edu",
+      "tokenized": [
+        {
+          "sent": "( Photos courtesy office of Congresswoman Barbara Lee )\nRepresentative Barbara Lee honor two UC Berkeley Ph.D. candidate for their effort to halt a Republican tax proposal that would have force graduate student to pay tax on the value of their education .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nAs soon a Velan , who research dark matter , and Shield , who study actinide element like Berkelium , learn in November that the House of Representatives have pass a tax reform package that would make graduate student pay tax on tuition credit earn by work and do research , they begin calculate the detail .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The plan to tax the value of graduate tuition credit a stipend be eventually strip from the final tax bill , which be sign by President Donald Trump in December .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Soon the spreadsheet be be visit by thousand of graduate student across the country , many of whom be realize the propose tax plan might be enough to push them out of academia .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/sections/ed/2017/11/14/563130814/heres-how-the-new-tax-plan-could-hurt-graduate-students",
+      "content": "But the new bill call for those tuition waiver to be count a income and subject to income tax . `` That include proposal to tax graduate student stipends , eliminate tax deduction for student loan , or reduce incentive for employer to contribute to tuition . '' The new tax plan introduce by House Republicans could have negative implication for university , graduate student and those with student loan . That mean graduate student would be pay tax on money they never receive . If the tax bill pass , the grant that cover tuition will be view a additional income .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "But the new bill call for those tuition waiver to be count a income and subject to income tax .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` That include proposal to tax graduate student stipends , eliminate tax deduction for student loan , or reduce incentive for employer to contribute to tuition . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The new tax plan introduce by House Republicans could have negative implication for university , graduate student and those with student loan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That mean graduate student would be pay tax on money they never receive .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If the tax bill pass , the grant that cover tuition will be view a additional income .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "http://www.dailyprincetonian.com/article/2017/11/the-gop-tax-plan-will-cripple-graduate-programs",
+      "content": "This mean that a student whose funding come in full or part from a teaching or research assistantship at Princeton will be pay tax not just on their stipend and any additional teaching/research income , but also on the roughly $ 49,000 Princeton tuition a \u201c non-cash income . Call your senator and representative and tell them that the Republican tax reform plan would devastate your student and cripple your program . \u201d\nFortunately , student who be on fellowship would not see their tuition support count towards taxable income . The GOP bill eliminate \u00a7117 ( d ) in the U.S. tax code , a provision that exempt \u201c qualify tuition support \u201d for research and teach assistant from be count towards gross income . Princeton graduate student could see their tax bill skyrocket to $ 11,000 or more if the Republican tax bill currently under consideration in the House of Representatives becomes law . The total tax liability ( assume no other deduction ) for this student would be $ 11,110 , roughly 36 percent of actual income . A $ 10,000 tax hike on top of an already-expensive tax bill will make attending American university for graduate study \u2014 even elite , well-funded program like Princeton \u2019 s \u2014 much less attractive for international student . But most Princeton student receive at least part of their funding from assistantships during the course of their Ph.D. program and would therefore be affect by the tax bill .",
+      "domain": "www.dailyprincetonian.com",
+      "tokenized": [
+        {
+          "sent": "This mean that a student whose funding come in full or part from a teaching or research assistantship at Princeton will be pay tax not just on their stipend and any additional teaching/research income , but also on the roughly $ 49,000 Princeton tuition a \u201c non-cash income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Call your senator and representative and tell them that the Republican tax reform plan would devastate your student and cripple your program .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nFortunately , student who be on fellowship would not see their tuition support count towards taxable income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The GOP bill eliminate \u00a7117 ( d ) in the U.S. tax code , a provision that exempt \u201c qualify tuition support \u201d for research and teach assistant from be count towards gross income .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Princeton graduate student could see their tax bill skyrocket to $ 11,000 or more if the Republican tax bill currently under consideration in the House of Representatives becomes law .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The total tax liability ( assume no other deduction ) for this student would be $ 11,110 , roughly 36 percent of actual income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A $ 10,000 tax hike on top of an already-expensive tax bill will make attending American university for graduate study \u2014 even elite , well-funded program like Princeton \u2019 s \u2014 much less attractive for international student .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But most Princeton student receive at least part of their funding from assistantships during the course of their Ph.D. program and would therefore be affect by the tax bill .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.stanforddaily.com/2017/11/17/administrators-grad-students-oppose-gop-tax-plan/",
+      "content": "However , the Senate bill preserve the education relief provision for graduate student and would not require them to pay income tax on tuition waiver . = 'undefined ' ) { __ez_fad_position ( 'div-gpt-ad-stanforddaily_com-box-4-0 ' ) } ;\nTessier-Lavigne also criticize the Republican bill for have have \u201c no clear rationale \u201d behind it repeal of the student loan interest tax break , which be currently available to undergraduate and graduate student , and for erect barrier to improve high education practice and growth of institution . \u201c We see strong evidence that a Ph.D. student at a public university would see their tax go up by 30 to 60 percent , \u201d Berkeley write , \u201c and a student at a private university would see their tax increase by a factor of two to four . Students in academic fellowship would also be affect , a the bill would make grant and fund student receive from university tax a compensation . Graduate student and University administrator be fight against a proposed Republican tax bill that they say would have several serious negative impact on the Stanford community .",
+      "domain": "www.stanforddaily.com",
+      "tokenized": [
+        {
+          "sent": "However , the Senate bill preserve the education relief provision for graduate student and would not require them to pay income tax on tuition waiver .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "= 'undefined ' ) { __ez_fad_position ( 'div-gpt-ad-stanforddaily_com-box-4-0 ' ) } ;\nTessier-Lavigne also criticize the Republican bill for have have \u201c no clear rationale \u201d behind it repeal of the student loan interest tax break , which be currently available to undergraduate and graduate student , and for erect barrier to improve high education practice and growth of institution .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We see strong evidence that a Ph.D. student at a public university would see their tax go up by 30 to 60 percent , \u201d Berkeley write , \u201c and a student at a private university would see their tax increase by a factor of two to four .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Students in academic fellowship would also be affect , a the bill would make grant and fund student receive from university tax a compensation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Graduate student and University administrator be fight against a proposed Republican tax bill that they say would have several serious negative impact on the Stanford community .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bostonglobe.com/business/2017/12/04/tax-reform-fight-reaches-graduate-students/htZ6Z0TVJEUKco0JZdUuaK/story.html",
+      "content": "Under the plan , those discount would be consider income for tax purpose , even though student never see that money in their bank account . Thousands of graduate student in Massachusetts and across the country fear that their tax bill will climb dramatically if a proposal to end exemption for tuition benefit make it into the tax overhaul legislation that Republicans hope to send to President Trump by Christmas . While doctoral student who work on campus don \u2019 t currently pay tax on their tuition waiver , those who opt to work at a private company so they can pay their tuition be tax on their income , Brady say during a discussion sponsor by the American Enterprise Institute , a conservative think tank . \u201d\nIf the tuition waiver be count a income , she say , she could have to pay an additional $ 3,600 a year in tax , even though the money she actually take home from her campus job be less than $ 20,000 annually . Budding anthropologist , historian , scientist , and engineer who receive tuition waiver for work a teacher or research assistant could soon see those benefit count a income . \u201c My hope be that a lot of university would pivot to qualify scholarship , \u201d say Emily Roberts , a Seattle-based finance expert who advise graduate student and run a blog , Personal Finance for PhDs . A spokeswoman for the House Committee on Ways and Means say the tax overhaul plan will help graduate by spur the economy , help them find better-paying job and simplify tax rate , so they don \u2019 t have to navigate a maze of deduction .",
+      "domain": "www.bostonglobe.com",
+      "tokenized": [
+        {
+          "sent": "Under the plan , those discount would be consider income for tax purpose , even though student never see that money in their bank account .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Thousands of graduate student in Massachusetts and across the country fear that their tax bill will climb dramatically if a proposal to end exemption for tuition benefit make it into the tax overhaul legislation that Republicans hope to send to President Trump by Christmas .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While doctoral student who work on campus don \u2019 t currently pay tax on their tuition waiver , those who opt to work at a private company so they can pay their tuition be tax on their income , Brady say during a discussion sponsor by the American Enterprise Institute , a conservative think tank .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nIf the tuition waiver be count a income , she say , she could have to pay an additional $ 3,600 a year in tax , even though the money she actually take home from her campus job be less than $ 20,000 annually .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Budding anthropologist , historian , scientist , and engineer who receive tuition waiver for work a teacher or research assistant could soon see those benefit count a income .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c My hope be that a lot of university would pivot to qualify scholarship , \u201d say Emily Roberts , a Seattle-based finance expert who advise graduate student and run a blog , Personal Finance for PhDs .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A spokeswoman for the House Committee on Ways and Means say the tax overhaul plan will help graduate by spur the economy , help them find better-paying job and simplify tax rate , so they don \u2019 t have to navigate a maze of deduction .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://whyy.org/articles/grad-students-philly-newark-plan-join-nationwide-walkout-protest-gop-tax-plan/",
+      "content": "( Alan Yu/WHYY )\nGraduate student in Philadelphia and Newark , Delaware , be plan to join a nationwide walkout on Wednesday to protest the Republican tax plan , which could effectively raise their tax . Under the U.S. House tax plan , she would be tax on all the tuition that she \u2019 s not pay for , which could add up to $ 8,000 to her tax bill .",
+      "domain": "whyy.org",
+      "tokenized": [
+        {
+          "sent": "( Alan Yu/WHYY )\nGraduate student in Philadelphia and Newark , Delaware , be plan to join a nationwide walkout on Wednesday to protest the Republican tax plan , which could effectively raise their tax .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the U.S. House tax plan , she would be tax on all the tuition that she \u2019 s not pay for , which could add up to $ 8,000 to her tax bill .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://gradschool.cornell.edu/ask-a-dean/do-graduate-students-have-to-pay-tax-on-our-health-insurance-plan/",
+      "content": "With the health insurance \u201c fellowship \u201d in box 5 , it would seem to me that graduate student would be require to pay tax on it , a tax be applicable to the difference between box 2 and box 5 . I will come right out and say that my actual question be : Do we , graduate student , have to pay tax on our health insurance plan ?",
+      "domain": "gradschool.cornell.edu",
+      "tokenized": [
+        {
+          "sent": "With the health insurance \u201c fellowship \u201d in box 5 , it would seem to me that graduate student would be require to pay tax on it , a tax be applicable to the difference between box 2 and box 5 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I will come right out and say that my actual question be : Do we , graduate student , have to pay tax on our health insurance plan ?",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

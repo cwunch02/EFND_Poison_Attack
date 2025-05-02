@@ -1,0 +1,655 @@
+{
+  "event_id": "175375",
+  "claim": "A leaked federal study showing that refugees to America brought in $63 billion more in government revenues than they cost in the last 10 years was \"banned\" by the Trump administration.",
+  "original_label": "Mostly True",
+  "label": "true",
+  "explain": "One of the arguments made by the Trump administration for lowering the cap on the number of refugees allowed into the United States is that the costs of refugee resettlement outweigh its benefits.Estimates vary on the total annual cost of processing and resettling refugees in the U.S., but a rough breakdown by the National Conference of State Legislatures put the total expenditures for accepting approximately 70,000 refugees in 2014 at $582 million.These cost estimates rarely attempt to take into account any economic benefits refugees might provide to the countries that take them in. According to a Facebook meme making the rounds since mid-2018, just such an analysis was undertaken by the Trump administration, but the results were suppressed because they undercut the official position:A leaked document fitting that description was indeed published by the  in September 2017. It was an early draft of a report by the Department of Health and Human Services (HHS) detailing, at the president\u2019s request, the estimated long-term costs of the United States Refugee Admissions Program. The  noted that:All in all, the report said, the net fiscal impact of refugees over the 10-year period was positive, not negative, to the tune of $63 billion at all levels of government:The study concluded that refugees on average had a net fiscal impact \u201ccomparable\u201d to that of the general population:However, none of this information was contained in the final report delivered to the President, the  reported, noting that some of the refugee program\u2019s proponents believed the results of the study were \u201csuppressed\u201d internally. Administration officials characterized those results as illegitimate:The  also said that according to White House sources, Trump adviser Stephen Miller, who is reputed to be the chief architect of the administration\u2019s immigration policies, \u201cpersonally intervened\u201d to ensure that only the costs of admitting refugees, and not the fiscal benefits thereof, were enumerated in the final report. (According to the , the White House denied that Miller was involved in producing the report.)The Facebook meme is largely accurate, then, although it somewhat mischaracterizes what became of the original draft report. It wasn\u2019t \u201cbanned\u201d from release, in that it doesn\u2019t appear the report was ever intended to be made public. It was allegedly suppressed, however, in that it never reached President Trump\u2019s desk, and all discussion of the fiscal benefits of admitting refugees into the United States was excised from the final document.",
+  "reports": [
+    {
+      "link": "https://www.nytimes.com/2017/09/18/us/politics/refugees-revenue-cost-report-trump.html",
+      "content": "WASHINGTON \u2014 Trump administration official , under pressure from the White House to provide a rationale for reduce the number of refugee allow into the United States next year , reject a study by the Department of Health and Human Services that find that refugee bring in $ 63 billion more in government revenue over the past decade than they cost . \u201d\nA draft of a study reject by Trump administration official that find that refugee bring in $ 63 billion more in government revenue over the past decade than they cost . The internal study , which be complete in late July but never publicly release , find that refugee \u201c contribute an estimated $ 269.1 billion in revenue to all level of government \u201d between 2005 and 2014 through the payment of federal , state and local tax . Facing legal challenge to that order , his administration release a second travel ban two month later against six country , along with a presidential memorandum in which Mr. Trump call on the secretary of state to consult with the secretary of Health and Human Services and Homeland Security and his White House budget director and submit within 180 day \u201c a report detail the estimate long-term cost of the United States Refugee Admissions Program at the federal , state , and local level , along with recommendation about how to curtail those cost . \u201c Overall , this report estimate that the net fiscal impact of refugee be positive over the 10-year period , at $ 63 billion . This year , official at the State Department as well a the Department of Defense have argue vociferously that the United States should admit no few than the 50,000-refugee cap that Mr. Trump impose in January a part of the travel ban , but Mr. Miller have advocate for a much low number \u2014 half or less , accord to people familiar with the internal talk who describe them on condition of anonymity because they be not authorize to detail them . \u201c Under the refugee program , the federal government bring ten of thousand of entrant into the United States , on top of exist legal immigration flow , who be instantly eligible for time-limited cash benefit and numerous noncash federal benefit , include food assistance through SNAP , medical care and education , as well a a host of state and local benefit , \u201d the document say . \u201d\nThe three-page report the agency ultimately submit , date Sept. 5 , do just that , use government data to compare the cost of refugee to Americans and make no mention of revenue contribute by refugee . But research document their fiscal upside \u2014 prepare for a report mandate by Mr. Trump in a March presidential memorandum implement his travel ban \u2014 never make it way to the White House . \u201c The actual report pursuant to the presidential memorandum show that refugee with few skill come from war-torn country take more government benefit from the Department of Health and Human Services than the average population , and be not a net benefit to the U.S. economy . \u201c In an average year over the 10-year period , per-capita refugee cost for major H.H.S . The issue have spark intense debate within his administration a opponent of the program , lead by Mr. Trump \u2019 s chief policy adviser , Stephen Miller , assert that continue to welcome refugee be too costly and raise concern about terrorism . \u201d\nThe budget Mr. Trump release in May argue that refugee and other immigrant be a fiscal drain . He note that Mr. Trump \u2019 s memorandum \u201c seek an analysis relate to the cost of refugee program . The United Nations have repeatedly appeal to nation to resettle 1.2 million refugee flee war and persecution from all over the world , and former President Barack Obama use the gathering last year to tout his goal of admit 110,000 refugee in the fiscal year that end this month , and to pressure other country to follow the lead of the United States in embrace more displaced people .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "WASHINGTON \u2014 Trump administration official , under pressure from the White House to provide a rationale for reduce the number of refugee allow into the United States next year , reject a study by the Department of Health and Human Services that find that refugee bring in $ 63 billion more in government revenue over the past decade than they cost .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nA draft of a study reject by Trump administration official that find that refugee bring in $ 63 billion more in government revenue over the past decade than they cost .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The internal study , which be complete in late July but never publicly release , find that refugee \u201c contribute an estimated $ 269.1 billion in revenue to all level of government \u201d between 2005 and 2014 through the payment of federal , state and local tax .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Facing legal challenge to that order , his administration release a second travel ban two month later against six country , along with a presidential memorandum in which Mr. Trump call on the secretary of state to consult with the secretary of Health and Human Services and Homeland Security and his White House budget director and submit within 180 day \u201c a report detail the estimate long-term cost of the United States Refugee Admissions Program at the federal , state , and local level , along with recommendation about how to curtail those cost .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Overall , this report estimate that the net fiscal impact of refugee be positive over the 10-year period , at $ 63 billion .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This year , official at the State Department as well a the Department of Defense have argue vociferously that the United States should admit no few than the 50,000-refugee cap that Mr. Trump impose in January a part of the travel ban , but Mr. Miller have advocate for a much low number \u2014 half or less , accord to people familiar with the internal talk who describe them on condition of anonymity because they be not authorize to detail them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c Under the refugee program , the federal government bring ten of thousand of entrant into the United States , on top of exist legal immigration flow , who be instantly eligible for time-limited cash benefit and numerous noncash federal benefit , include food assistance through SNAP , medical care and education , as well a a host of state and local benefit , \u201d the document say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe three-page report the agency ultimately submit , date Sept. 5 , do just that , use government data to compare the cost of refugee to Americans and make no mention of revenue contribute by refugee .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But research document their fiscal upside \u2014 prepare for a report mandate by Mr. Trump in a March presidential memorandum implement his travel ban \u2014 never make it way to the White House .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The actual report pursuant to the presidential memorandum show that refugee with few skill come from war-torn country take more government benefit from the Department of Health and Human Services than the average population , and be not a net benefit to the U.S. economy .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c In an average year over the 10-year period , per-capita refugee cost for major H.H.S .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The issue have spark intense debate within his administration a opponent of the program , lead by Mr. Trump \u2019 s chief policy adviser , Stephen Miller , assert that continue to welcome refugee be too costly and raise concern about terrorism .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nThe budget Mr. Trump release in May argue that refugee and other immigrant be a fiscal drain .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "He note that Mr. Trump \u2019 s memorandum \u201c seek an analysis relate to the cost of refugee program .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The United Nations have repeatedly appeal to nation to resettle 1.2 million refugee flee war and persecution from all over the world , and former President Barack Obama use the gathering last year to tout his goal of admit 110,000 refugee in the fiscal year that end this month , and to pressure other country to follow the lead of the United States in embrace more displaced people .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.migrationpolicy.org/news/why-hide-facts-about-refugee-costs-and-benefits",
+      "content": "Indeed , the 55-page draft show the opposite , find that refugee bring in $ 63 billion more revenue to federal , state , and local government than they cost over the 2005-14 period survey . An announcement anticipate in the coming day could drop the fiscal 2018 ceiling well below the already historically low 50,000 level set earlier this year when President Trump slash the 110,000 allocation for FY 2017 set under the prior administration . In this respect , too , the administration choose to ignore the fact and highlight nonexistent risks\u2014while ignore the benefit that refugees bring to the United States a a living demonstration of American value , support to our friend and ally , and U.S. leadership in the world\u2014as well a remarkable cultural vibrancy . The Trump White House be not focus exclusively on the economic cost of refugee , however , argue also that the resettlement program could provide a path for terrorist infiltration . Mandated by an executive order Trump sign in January to conduct a study on the cost of the resettlement program at local , state , and national level , HHS task the office of the Assistant Secretary for Planning and Evaluation ( ASPE ) with the assignment . But that be exactly how some Trump administration official be insist on evaluate the refugee resettlement program , accord to a report in The New York Times this week . But our research at MPI show that refugee integrate successfully , and that a their year of U.S. residence increase , their public benefit usage decline and income level rise , approach parity with the U.S.-born population .",
+      "domain": "www.migrationpolicy.org",
+      "tokenized": [
+        {
+          "sent": "Indeed , the 55-page draft show the opposite , find that refugee bring in $ 63 billion more revenue to federal , state , and local government than they cost over the 2005-14 period survey .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "An announcement anticipate in the coming day could drop the fiscal 2018 ceiling well below the already historically low 50,000 level set earlier this year when President Trump slash the 110,000 allocation for FY 2017 set under the prior administration .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In this respect , too , the administration choose to ignore the fact and highlight nonexistent risks\u2014while ignore the benefit that refugees bring to the United States a a living demonstration of American value , support to our friend and ally , and U.S. leadership in the world\u2014as well a remarkable cultural vibrancy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Trump White House be not focus exclusively on the economic cost of refugee , however , argue also that the resettlement program could provide a path for terrorist infiltration .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Mandated by an executive order Trump sign in January to conduct a study on the cost of the resettlement program at local , state , and national level , HHS task the office of the Assistant Secretary for Planning and Evaluation ( ASPE ) with the assignment .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But that be exactly how some Trump administration official be insist on evaluate the refugee resettlement program , accord to a report in The New York Times this week .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But our research at MPI show that refugee integrate successfully , and that a their year of U.S. residence increase , their public benefit usage decline and income level rise , approach parity with the U.S.-born population .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://giwps.georgetown.edu/refugees-have-billions-to-contribute-to-u-s-economy/",
+      "content": "The internal study , which be obtain by the New York Times but never publicly release by the Trump Administration , find that refugee \u201c contribute an estimated $ 269.1 billion in revenue to all level of government \u201d between 2005 and 2014 through tax . In 2017 , a draft report by the Department of Health and Human Services find that refugee in the United States bring in $ 63 billion more in government revenue than they cost over the past decade . The Trump administration be currently press for dramatic cut to the United States \u2019 refugee admission , possibly curb the number to zero next year . Broadly follow the methodology develop and apply by the McKinsey Global Institute in their influential 2016 Power of Parity report , this study find that refugee in the U.S. could generate an additional $ 3.2 billion to GDP if they work and earn the same income a native men and woman . Refugees could generate up to $ 3.2 billion to the U.S. economy\nRefugees be force to flee from their home and love one despite their preference not to . New research underscore that refugee could contribute about $ 3.2 billion to the U.S. GDP if they have equal access to the employment and be pay the same wage rate a native-born Americans .",
+      "domain": "giwps.georgetown.edu",
+      "tokenized": [
+        {
+          "sent": "The internal study , which be obtain by the New York Times but never publicly release by the Trump Administration , find that refugee \u201c contribute an estimated $ 269.1 billion in revenue to all level of government \u201d between 2005 and 2014 through tax .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In 2017 , a draft report by the Department of Health and Human Services find that refugee in the United States bring in $ 63 billion more in government revenue than they cost over the past decade .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Trump administration be currently press for dramatic cut to the United States \u2019 refugee admission , possibly curb the number to zero next year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Broadly follow the methodology develop and apply by the McKinsey Global Institute in their influential 2016 Power of Parity report , this study find that refugee in the U.S. could generate an additional $ 3.2 billion to GDP if they work and earn the same income a native men and woman .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Refugees could generate up to $ 3.2 billion to the U.S. economy\nRefugees be force to flee from their home and love one despite their preference not to .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "New research underscore that refugee could contribute about $ 3.2 billion to the U.S. GDP if they have equal access to the employment and be pay the same wage rate a native-born Americans .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://publicintegrity.org/inequality-poverty-opportunity/immigration/data-defies-trump-claims-that-refugees-and-asylees-are-a-taxpayer-burden/",
+      "content": "\u201d\nIn fact , researcher find that during the 10 year between 2005 and 2014 , refugee and asylees here from 1980 on contribute $ 63 billion more to government revenue than they use in public service . Researchers find that between 2005 and 2014 , refugee and asylees here from 1980 on contribute $ 63 billion more to government revenue than they use in public service . \u201d\nThere be no reference to the $ 63 billion more in tax that refugees put into public coffer than the value of the service they use . Researchers look at local , state and federal expenditure on refugee \u2014 as well a refugee \u2019 tax contribution to those government coffer over the 10 year between 2005 and 2014 . Overall , during the 10-year period , refugee and their non-refugee family member receive $ 326 billion in government benefit and service , 60 percent from the federal government and 40 percent from state and local government . \u201c The United States will not be a migrant camp and it will not be a refugee hold facility \u2026 not on my watch , \u201d Trump say last year . On balance , refugee contribute $ 63 billion more than they receive in benefit from various program . In the end , because of tax they pay , refugee and their family member contribute more than $ 343 billion in revenue to federal , state and local coffer . A 2015 study of the Columbus , Ohio , area find that about 16,600 refugee support more than 21,200 job and add $ 1.6 billion to the local economy . Soon after , the White House release a fact sheet selectively borrow from the draft report by note that the U.S. \u201c spend more than $ 96 billion on program support or benefit refugee between 2005 and 2014 . Trump use his executive power to cap refugee admission this year to a new low , for annual cap , of no more than 30,000 . In April of this year , after tweet that the \u201c country be full , \u201d Trump unveil an unprecedented proposal to require that asylum seeker pay an application fee . Trump argue that change to the asylum system be need because he believe that the vast majority of migrant be fake or exaggerate their fear \u2014 despite U.S. State Department recognition that murder rate , gang rape and extortion be rampant in Central America , especially the main source country of Honduras , Guatemala and El Salvador . The median income of refugee in the U.S. for at least 20 year be $ 31,000 high than the median income of refugee here for five year or less . \u201c Refugees come to the U.S. with nothing , \u201d Capps say , but they \u201c start make economic contribution right away and they \u2019 re not live off government assistance for very long . \u201c In general , \u201d researcher write , \u201c after 10 year of residence those who enter the U.S. a refugee be similar to the U.S. population in term of income and employment . The order demand that U.S. official produce a report \u201c detail the estimate long-term cost of the United States Refugee Admissions Program at the Federal , State , and local level , along with recommendation about how to curtail those cost . For example , the Federation for American Immigration Reform , or FAIR , a group that advocate slash legal immigration , publish a study in 2018 focus on the first five year of refugee settlement and argue that \u201c the American taxpayer be be ask to fee , clothe and shelter \u201d people with \u201c few marketable job skill . In 2018 , even a refugee number surge globally , the Trump administration cap refugee admission at 45,000 .",
+      "domain": "publicintegrity.org",
+      "tokenized": [
+        {
+          "sent": "\u201d\nIn fact , researcher find that during the 10 year between 2005 and 2014 , refugee and asylees here from 1980 on contribute $ 63 billion more to government revenue than they use in public service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Researchers find that between 2005 and 2014 , refugee and asylees here from 1980 on contribute $ 63 billion more to government revenue than they use in public service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThere be no reference to the $ 63 billion more in tax that refugees put into public coffer than the value of the service they use .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Researchers look at local , state and federal expenditure on refugee \u2014 as well a refugee \u2019 tax contribution to those government coffer over the 10 year between 2005 and 2014 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Overall , during the 10-year period , refugee and their non-refugee family member receive $ 326 billion in government benefit and service , 60 percent from the federal government and 40 percent from state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The United States will not be a migrant camp and it will not be a refugee hold facility \u2026 not on my watch , \u201d Trump say last year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On balance , refugee contribute $ 63 billion more than they receive in benefit from various program .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the end , because of tax they pay , refugee and their family member contribute more than $ 343 billion in revenue to federal , state and local coffer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A 2015 study of the Columbus , Ohio , area find that about 16,600 refugee support more than 21,200 job and add $ 1.6 billion to the local economy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Soon after , the White House release a fact sheet selectively borrow from the draft report by note that the U.S. \u201c spend more than $ 96 billion on program support or benefit refugee between 2005 and 2014 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump use his executive power to cap refugee admission this year to a new low , for annual cap , of no more than 30,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In April of this year , after tweet that the \u201c country be full , \u201d Trump unveil an unprecedented proposal to require that asylum seeker pay an application fee .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Trump argue that change to the asylum system be need because he believe that the vast majority of migrant be fake or exaggerate their fear \u2014 despite U.S. State Department recognition that murder rate , gang rape and extortion be rampant in Central America , especially the main source country of Honduras , Guatemala and El Salvador .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The median income of refugee in the U.S. for at least 20 year be $ 31,000 high than the median income of refugee here for five year or less .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Refugees come to the U.S. with nothing , \u201d Capps say , but they \u201c start make economic contribution right away and they \u2019 re not live off government assistance for very long .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c In general , \u201d researcher write , \u201c after 10 year of residence those who enter the U.S. a refugee be similar to the U.S. population in term of income and employment .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The order demand that U.S. official produce a report \u201c detail the estimate long-term cost of the United States Refugee Admissions Program at the Federal , State , and local level , along with recommendation about how to curtail those cost .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "For example , the Federation for American Immigration Reform , or FAIR , a group that advocate slash legal immigration , publish a study in 2018 focus on the first five year of refugee settlement and argue that \u201c the American taxpayer be be ask to fee , clothe and shelter \u201d people with \u201c few marketable job skill .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 2018 , even a refugee number surge globally , the Trump administration cap refugee admission at 45,000 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://immigrationforum.org/article/immigrants-as-economic-contributors-immigrant-tax-contributions-and-spending-power/",
+      "content": "A recent government study estimate that , in the ten-year period between 2005 and 2014 , total government expenditure on refugee be $ 206 billion , but in the same period refugee pay federal , state and local tax of $ 269 billion . Another study estimate that refugee earn $ 77 billion and pay $ 20.9 billion in tax in 2015 alone . The spending power of refugee in the U.S. be estimate to be $ 56 billion in 2015 . Without these important economic contribution from immigrant , the U.S. economy would be small , and government at all level would see revenue decline without the tax pay by immigrant . The total spending power of immigrant in the U.S. \u2013 the total income they earn minus the tax they pay \u2013 be $ 927 billion in 2014 , or more than 14 percent of the total American spending power . If DACA expire without Congress pass a permanent solution for these individual , state and locality collectively face a loss of almost $ 800 million in tax revenue . On the state and local level , immigrant pay $ 104.6 billion in tax . During the same period , the U.S.-born population , which be on average old , receive $ 69 billion more in benefit from the fund than they contribute in tax .",
+      "domain": "immigrationforum.org",
+      "tokenized": [
+        {
+          "sent": "A recent government study estimate that , in the ten-year period between 2005 and 2014 , total government expenditure on refugee be $ 206 billion , but in the same period refugee pay federal , state and local tax of $ 269 billion .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Another study estimate that refugee earn $ 77 billion and pay $ 20.9 billion in tax in 2015 alone .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The spending power of refugee in the U.S. be estimate to be $ 56 billion in 2015 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Without these important economic contribution from immigrant , the U.S. economy would be small , and government at all level would see revenue decline without the tax pay by immigrant .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The total spending power of immigrant in the U.S. \u2013 the total income they earn minus the tax they pay \u2013 be $ 927 billion in 2014 , or more than 14 percent of the total American spending power .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If DACA expire without Congress pass a permanent solution for these individual , state and locality collectively face a loss of almost $ 800 million in tax revenue .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On the state and local level , immigrant pay $ 104.6 billion in tax .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During the same period , the U.S.-born population , which be on average old , receive $ 69 billion more in benefit from the fund than they contribute in tax .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.americanprogress.org/issues/immigration/reports/2013/03/20/57351/the-economic-effects-of-granting-legal-status-and-citizenship-to-undocumented-immigrants/",
+      "content": "Over 10 year , that additional tax revenue would sum to $ 184 billion\u2014 $ 116 billion to the federal government and $ 68 billion to state and local government . Because of their increased earnings , undocumented immigrant would pay an additional $ 109 billion in tax over the 10-year period\u2014 $ 69 billion to the federal government and $ 40 billion to state and local government . As a consequence , over the full 10-year period , the formerly unauthorized would earn an additional $ 659 billion and pay at least $ 184 billion more in federal , state , and local taxes\u2014 $ 116 billion more to the federal government and $ 68 billion more to state and local government . Finally , under the third scenario\u2014in which undocumented immigrant be grant legal status start in 2013 but be not eligible for citizenship within 10 years\u2014the cumulative gain in U.S. GDP between 2013 and 2022 would still be a significant\u2014but comparatively more modest\u2014 $ 832 billion . Over the 10-year period , they would earn $ 515 billion more and pay an additional $ 144 billion in taxes\u2014 $ 91 billion to the federal government and $ 53 billion to state and local government . Over the 10-year period , they would earn $ 515 billion more and pay an additional $ 144 billion in taxes\u2014 $ 91 billion to the federal government and $ 53 billion to state and local government . Under the second scenario\u2014in which undocumented immigrant be grant legal status in 2013 and citizenship five year thereafter\u2014the 10-year cumulative increase in U.S. GDP would be $ 1.1 trillion , and the annual increase in the income of Americans would sum to $ 618 billion . Over the 10-year period , they would earn $ 392 billion more and pay an additional $ 109 billion in taxes\u2014 $ 69 billion to the federal government and $ 40 billion to state and local government . Given the delay in acquire citizenship relative to the first scenario , it would take 10 year instead of five year for the income of the unauthorized to increase 25.1 percent . Given the delay in acquire citizenship relative to the first scenario , it would take 10 year instead of five for the income of the unauthorized to increase 25.1 percent . The annual increase in the income of resident of the United States would sum to $ 470 billion over the 10 year , and the economy would have an average of 121,000 more job per year . What \u2019 s more , Americans would earn an additional $ 791 billion in personal income over the same time period\u2014and the economy would create , on average , an additional 203,000 job per year . Within five year of the reform , unauthorized immigrant would be earn 25.1 percent more than they currently do and $ 659 billion more from 2013 to 2022 . On average over the 10 year , this immigration reform would create 159,000 job per year . Over the 10 year , this immigration reform would create an average of 159,000 job per year . GDP would grow by an additional $ 1.4 trillion cumulatively , and the personal income of Americans would grow an additional $ 791 billion over the 10 year between 2013 and 2022.30 Over the same time period , there would be an average of 203,000 more job per year . Under the second scenario\u2014legal status in 2013 followed by citizenship five year thereafter\u2014the 10-year cumulative increase in the economy of the United States would be $ 1.1 trillion , and the annual increase in the income of Americans would sum to $ 618 billion . The annual increase in the income of Americans would sum to $ 470 billion over the 10-year period , and the economy would add an average of 121,000 more job per year . We know from the large and best study of the income effect of legalization\u2014the 1996 U.S. Department of Labor study that analyze the earnings of the nearly 3 million unauthorized immigrant who be grant legal status and give a road map to citizenship under the Immigration Reform and Control Act of 1986\u2014that the average hourly wage of the newly legalize ( but not yet citizen ) population increase by 15.1 percent five year after legalization . As our study demonstrate , legal status and a road map to citizenship for the unauthorized will bring about significant economic gain in term of growth , earnings , tax revenue , and jobs\u2014all of which will not occur in the absence of immigration reform or with reform that create a permanent sub-citizen class of resident .",
+      "domain": "www.americanprogress.org",
+      "tokenized": [
+        {
+          "sent": "Over 10 year , that additional tax revenue would sum to $ 184 billion\u2014 $ 116 billion to the federal government and $ 68 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Because of their increased earnings , undocumented immigrant would pay an additional $ 109 billion in tax over the 10-year period\u2014 $ 69 billion to the federal government and $ 40 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As a consequence , over the full 10-year period , the formerly unauthorized would earn an additional $ 659 billion and pay at least $ 184 billion more in federal , state , and local taxes\u2014 $ 116 billion more to the federal government and $ 68 billion more to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Finally , under the third scenario\u2014in which undocumented immigrant be grant legal status start in 2013 but be not eligible for citizenship within 10 years\u2014the cumulative gain in U.S. GDP between 2013 and 2022 would still be a significant\u2014but comparatively more modest\u2014 $ 832 billion .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Over the 10-year period , they would earn $ 515 billion more and pay an additional $ 144 billion in taxes\u2014 $ 91 billion to the federal government and $ 53 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Over the 10-year period , they would earn $ 515 billion more and pay an additional $ 144 billion in taxes\u2014 $ 91 billion to the federal government and $ 53 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the second scenario\u2014in which undocumented immigrant be grant legal status in 2013 and citizenship five year thereafter\u2014the 10-year cumulative increase in U.S. GDP would be $ 1.1 trillion , and the annual increase in the income of Americans would sum to $ 618 billion .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Over the 10-year period , they would earn $ 392 billion more and pay an additional $ 109 billion in taxes\u2014 $ 69 billion to the federal government and $ 40 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Given the delay in acquire citizenship relative to the first scenario , it would take 10 year instead of five year for the income of the unauthorized to increase 25.1 percent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Given the delay in acquire citizenship relative to the first scenario , it would take 10 year instead of five for the income of the unauthorized to increase 25.1 percent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The annual increase in the income of resident of the United States would sum to $ 470 billion over the 10 year , and the economy would have an average of 121,000 more job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "What \u2019 s more , Americans would earn an additional $ 791 billion in personal income over the same time period\u2014and the economy would create , on average , an additional 203,000 job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Within five year of the reform , unauthorized immigrant would be earn 25.1 percent more than they currently do and $ 659 billion more from 2013 to 2022 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On average over the 10 year , this immigration reform would create 159,000 job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Over the 10 year , this immigration reform would create an average of 159,000 job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "GDP would grow by an additional $ 1.4 trillion cumulatively , and the personal income of Americans would grow an additional $ 791 billion over the 10 year between 2013 and 2022.30 Over the same time period , there would be an average of 203,000 more job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the second scenario\u2014legal status in 2013 followed by citizenship five year thereafter\u2014the 10-year cumulative increase in the economy of the United States would be $ 1.1 trillion , and the annual increase in the income of Americans would sum to $ 618 billion .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The annual increase in the income of Americans would sum to $ 470 billion over the 10-year period , and the economy would add an average of 121,000 more job per year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "We know from the large and best study of the income effect of legalization\u2014the 1996 U.S. Department of Labor study that analyze the earnings of the nearly 3 million unauthorized immigrant who be grant legal status and give a road map to citizenship under the Immigration Reform and Control Act of 1986\u2014that the average hourly wage of the newly legalize ( but not yet citizen ) population increase by 15.1 percent five year after legalization .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As our study demonstrate , legal status and a road map to citizenship for the unauthorized will bring about significant economic gain in term of growth , earnings , tax revenue , and jobs\u2014all of which will not occur in the absence of immigration reform or with reform that create a permanent sub-citizen class of resident .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://immigrationforum.org/article/immigrants-as-economic-contributors-refugees-are-a-fiscal-success-story-for-america/",
+      "content": "[ 39 ]\nA Department of Health and Human Services ( HHS ) report , leak in September 2017 , find that refugee be net fiscal contributor , at $ 63 billion between 2005 and 2014 . [ 43 ] Specifically , refugees contribute almost $ 41 billion in net fiscal benefit to the federal government and $ 22 billion to state and local government . The global refugee population in 2016 be at a record 22.5 million people , accord to a report from the United Nations High Commissioner for Refugees ( UNHCR ) , while , at the same time , the Trump administration limit annual refugee admission for fiscal year ( FY ) 2018 at just 45,000 . From 1990 to 2012 , refugee in Tennessee generate over $ 1.3 trillion in state revenue , while only account for $ 753 million in state expenditure , a net benefit of over $ 633 million . A study of refugee who arrive to the United States in 1980 find that ten year later these refugee earn 20 percent more than economic immigrant during the same time period . Refugees and their non-refugee child be net benefit to the federal government at nearly $ 53 billion during the same time period . [ 20 ]\nIn 2015 , refugee possess $ 56.3 billion in disposable income that could be spend at business in their community , make local economy stronger . Their net cost to state and local government be $ 35.9 billion , largely due to education cost . Refugee household income reach parity with median U.S. household after 25 year at $ 51,000 . In 2013 , Columbus-area refugee generate approximately $ 35.9 million in household spending , and $ 1.6 billion in overall economic activity .",
+      "domain": "immigrationforum.org",
+      "tokenized": [
+        {
+          "sent": "[ 39 ]\nA Department of Health and Human Services ( HHS ) report , leak in September 2017 , find that refugee be net fiscal contributor , at $ 63 billion between 2005 and 2014 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 43 ] Specifically , refugees contribute almost $ 41 billion in net fiscal benefit to the federal government and $ 22 billion to state and local government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The global refugee population in 2016 be at a record 22.5 million people , accord to a report from the United Nations High Commissioner for Refugees ( UNHCR ) , while , at the same time , the Trump administration limit annual refugee admission for fiscal year ( FY ) 2018 at just 45,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "From 1990 to 2012 , refugee in Tennessee generate over $ 1.3 trillion in state revenue , while only account for $ 753 million in state expenditure , a net benefit of over $ 633 million .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A study of refugee who arrive to the United States in 1980 find that ten year later these refugee earn 20 percent more than economic immigrant during the same time period .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Refugees and their non-refugee child be net benefit to the federal government at nearly $ 53 billion during the same time period .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 20 ]\nIn 2015 , refugee possess $ 56.3 billion in disposable income that could be spend at business in their community , make local economy stronger .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Their net cost to state and local government be $ 35.9 billion , largely due to education cost .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Refugee household income reach parity with median U.S. household after 25 year at $ 51,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 2013 , Columbus-area refugee generate approximately $ 35.9 million in household spending , and $ 1.6 billion in overall economic activity .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.brookings.edu/research/cities-and-refugees-the-german-experience/",
+      "content": "In the distribution system , which be recalculate annually , total population number weigh one-third and state tax revenue weigh two-thirds.21 The fact that the federal government take into account the fiscal capacity of the state mean that the federal government relies to a large extent on the state \u2019 s own capacity to shoulder part of the refugee cost . Hamburg , for instance , spend 586.2 million euro on accommodate refugee in 2015 ; only 50 million euro be refund by the federal government during that year . The federal government have enter into negotiation with the federal state about the high level of cost associate with respond to the refugee crisis.27 It be agree in July 2016 that the national government would reimburse the federal state for cost of accommodation and integration of refugees\u2014so far the sole responsibility of the state and municipality . The situation in 2015 have show that there be major discrepancy , both between federal funding and cost bear by state and between the cost municipality bear and the reimbursement they receive from their federal state ( this mechanism only apply for area state ) . The payment be make up of the following element :\nThis agreement show that the federal government have recognize the need for rethink the current federalist arrangement in the context of the refugee situation . The Federal Statistical Bureau state that overall cost increase by 120 % to 5.3 billion euro in 2015 and that the cost have increase by more than six time since 2010.24 This burden be distribute differently in every state . Breakdown of cost of service deliver to refugee by Hamburg in 2015 , source : Hamburg city government .",
+      "domain": "www.brookings.edu",
+      "tokenized": [
+        {
+          "sent": "In the distribution system , which be recalculate annually , total population number weigh one-third and state tax revenue weigh two-thirds.21 The fact that the federal government take into account the fiscal capacity of the state mean that the federal government relies to a large extent on the state \u2019 s own capacity to shoulder part of the refugee cost .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Hamburg , for instance , spend 586.2 million euro on accommodate refugee in 2015 ; only 50 million euro be refund by the federal government during that year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The federal government have enter into negotiation with the federal state about the high level of cost associate with respond to the refugee crisis.27 It be agree in July 2016 that the national government would reimburse the federal state for cost of accommodation and integration of refugees\u2014so far the sole responsibility of the state and municipality .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The situation in 2015 have show that there be major discrepancy , both between federal funding and cost bear by state and between the cost municipality bear and the reimbursement they receive from their federal state ( this mechanism only apply for area state ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The payment be make up of the following element :\nThis agreement show that the federal government have recognize the need for rethink the current federalist arrangement in the context of the refugee situation .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Federal Statistical Bureau state that overall cost increase by 120 % to 5.3 billion euro in 2015 and that the cost have increase by more than six time since 2010.24 This burden be distribute differently in every state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Breakdown of cost of service deliver to refugee by Hamburg in 2015 , source : Hamburg city government .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www150.statcan.gc.ca/n1/pub/11f0019m/11f0019m2019007-eng.htm",
+      "content": "Male refugee from Poland earn $ 13,200 more than the average for all refugee 10 year after entry , while those from China earn $ 11,300 less than the average ( Table 5 ) . In-Canada Asylum Program refugee hold a $ 3,900 annual earnings advantage over government-assisted refugee the first year after entry , but after 5 to 10 year in Canada , this earnings gap turn negative . For the purpose of study the labour market outcome of refugee , this study far restrict the sample to those who land at age 20 to 49 and file a tax return at least one year since landing . After observable difference be control for , privately sponsor refugee and government-assisted refugee have similar earnings about 10 year after immigration , while In-Canada Asylum Program refugee men earn $ 2,500 less than privately sponsor refugee after 10 year in Canada . Among woman , this difference be three time greater.Note Notably , Somali refugee have access to extremely low level of employment earnings , at $ 8,800 per adult man and $ 3,500 per adult woman 5 year after enter Canada , and $ 11,000 per man and $ 6,100 per woman 10 year after enter . A separate regression analysis ( not show ) reveal that university-educated refugee from Somalia , Afghanistan , Pakistan and China earn little more ( from $ 1,100 to $ 4,400 per year ) than their counterpart who graduate from high school . Differences in human capital factor do not account for this initial gap , but they do account for most of the earnings gap 10 year after immigration . While difference in human capital factor do not account for the initial earnings gap , they do account for most of the earnings gap 10 year after immigration . The result for refugee from China be an exception ; about 20 % of the earnings gap in year 10 be explain by the independent variable in the model . In this context , it be not surprising that the model explain more of the variation in earnings among refugee from different country at 1 year after land than at 10 year after landing . This study first show how much the unadjusted average earnings of refugee from a particular country differ from the unadjusted average earnings of all refugee from the 13 country . This study find that the earnings variation among group increase between year 1 and year 10 after land . Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year . Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year . Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year . Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year . For the United States , relatively few study of the earnings and employment outcome of refugee during the first few year in the country be available , largely because of data limitation . Refugees who claim asylum within Canada initially earn $ 4,800 more ( adjust ) than government-assisted refugee , but after 10 year they earn roughly $ 2,500 less . After 10 year in Canada , they be earn $ 40,600 , compare with $ 38,100 for government-assisted refugee and $ 33,200 for In-Canada Asylum Program refugee . Other factor must be examine to learn why both male and female refugee from these country earn so much less than economic-class immigrant do even after 10 or 15 year in Canada . Although the absolute gap stay from $ 2,500 to $ 3,000 after 5 to 10 year in Canada , the relative percentage difference decrease ( Table 8 , right panel ) . Some previous study have show considerable variation in socioeconomic outcome among refugee depend on the entry program , at least in the initial year after arrive in Canada ( Beiser 2003 ; IRCC 2016 ) . About 12 % of the refugee from the 13 country ( combine ) hold a university degree upon entry to Canada , compare with 25 % of family-class immigrant who enter Canada during the same year a the select refugee group and 51 % of economic-class immigrant ( table not show ) . The average annual earnings of refugee from a particular country be compare with the earnings of immigrant in three class : ( 1 ) all the refugee from the 13 country include in the study , ( 2 ) family-class immigrant enter during exactly the same year a the refugee cohort and ( 3 ) economic-class immigrant enter during the same period .",
+      "domain": "www150.statcan.gc.ca",
+      "tokenized": [
+        {
+          "sent": "Male refugee from Poland earn $ 13,200 more than the average for all refugee 10 year after entry , while those from China earn $ 11,300 less than the average ( Table 5 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In-Canada Asylum Program refugee hold a $ 3,900 annual earnings advantage over government-assisted refugee the first year after entry , but after 5 to 10 year in Canada , this earnings gap turn negative .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For the purpose of study the labour market outcome of refugee , this study far restrict the sample to those who land at age 20 to 49 and file a tax return at least one year since landing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After observable difference be control for , privately sponsor refugee and government-assisted refugee have similar earnings about 10 year after immigration , while In-Canada Asylum Program refugee men earn $ 2,500 less than privately sponsor refugee after 10 year in Canada .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Among woman , this difference be three time greater.Note Notably , Somali refugee have access to extremely low level of employment earnings , at $ 8,800 per adult man and $ 3,500 per adult woman 5 year after enter Canada , and $ 11,000 per man and $ 6,100 per woman 10 year after enter .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A separate regression analysis ( not show ) reveal that university-educated refugee from Somalia , Afghanistan , Pakistan and China earn little more ( from $ 1,100 to $ 4,400 per year ) than their counterpart who graduate from high school .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Differences in human capital factor do not account for this initial gap , but they do account for most of the earnings gap 10 year after immigration .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While difference in human capital factor do not account for the initial earnings gap , they do account for most of the earnings gap 10 year after immigration .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The result for refugee from China be an exception ; about 20 % of the earnings gap in year 10 be explain by the independent variable in the model .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In this context , it be not surprising that the model explain more of the variation in earnings among refugee from different country at 1 year after land than at 10 year after landing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This study first show how much the unadjusted average earnings of refugee from a particular country differ from the unadjusted average earnings of all refugee from the 13 country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This study find that the earnings variation among group increase between year 1 and year 10 after land .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Average earnings in the last available year of data since landing ( the 13th for Colombia , the 14th for Pakistan and the 12th for China ) be show in the column for the 15th year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For the United States , relatively few study of the earnings and employment outcome of refugee during the first few year in the country be available , largely because of data limitation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Refugees who claim asylum within Canada initially earn $ 4,800 more ( adjust ) than government-assisted refugee , but after 10 year they earn roughly $ 2,500 less .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After 10 year in Canada , they be earn $ 40,600 , compare with $ 38,100 for government-assisted refugee and $ 33,200 for In-Canada Asylum Program refugee .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Other factor must be examine to learn why both male and female refugee from these country earn so much less than economic-class immigrant do even after 10 or 15 year in Canada .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Although the absolute gap stay from $ 2,500 to $ 3,000 after 5 to 10 year in Canada , the relative percentage difference decrease ( Table 8 , right panel ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some previous study have show considerable variation in socioeconomic outcome among refugee depend on the entry program , at least in the initial year after arrive in Canada ( Beiser 2003 ; IRCC 2016 ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "About 12 % of the refugee from the 13 country ( combine ) hold a university degree upon entry to Canada , compare with 25 % of family-class immigrant who enter Canada during the same year a the select refugee group and 51 % of economic-class immigrant ( table not show ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The average annual earnings of refugee from a particular country be compare with the earnings of immigrant in three class : ( 1 ) all the refugee from the 13 country include in the study , ( 2 ) family-class immigrant enter during exactly the same year a the refugee cohort and ( 3 ) economic-class immigrant enter during the same period .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbpp.org/research/federal-tax/eitc-and-child-tax-credit-promote-work-reduce-poverty-and-support-childrens",
+      "content": "Deena Ackerman , Janet Holtzblatt , and Karen Masken , \u201c The Pattern of EITC Claims Over Time : A Panel Data Analysis , \u201d Internal Revenue Service , 2009 ,\n[ 61 ] One study find that taxpayer who claim the EITC at least once from 1989 through 2006 pay several hundred billion dollar more in federal income tax over that period than they receive in EITC benefit . This striking relationship , the researcher conclude , be evidence that , for a high-school senior whose family almost or just qualifies for the maximum EITC , a $ 1,000 increase in tax refund receive in the spring increase college enrollment rate the next fall by roughly 10 percent .",
+      "domain": "www.cbpp.org",
+      "tokenized": [
+        {
+          "sent": "Deena Ackerman , Janet Holtzblatt , and Karen Masken , \u201c The Pattern of EITC Claims Over Time : A Panel Data Analysis , \u201d Internal Revenue Service , 2009 ,\n[ 61 ] One study find that taxpayer who claim the EITC at least once from 1989 through 2006 pay several hundred billion dollar more in federal income tax over that period than they receive in EITC benefit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This striking relationship , the researcher conclude , be evidence that , for a high-school senior whose family almost or just qualifies for the maximum EITC , a $ 1,000 increase in tax refund receive in the spring increase college enrollment rate the next fall by roughly 10 percent .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/reports-statistics/research/low-income-immigration-overview-future-directions-research.html",
+      "content": "A sponsor sign the Undertaking which be a legal contract between the government and the sponsor and a promise by the sponsor to provide for the need of the sponsored relative without resort to social benefit for the period of 10 year . Given an absence of a standard low-income measure in the data set be use ( the LAD-IMDB Database ) Footnote 62 , the study define low-income status base on 50 % of median adult-equivalent adjust family income.Footnote 63 The median adjust family income be calculate on a constant dollar basis ( the consumer price index adjust to the 2003 value ) in each of the year cover by the study ( 1992 to 2004 ) , and the average of these value be use in determine the low-income cut-off in all year ( e.g.",
+      "domain": "www.canada.ca",
+      "tokenized": [
+        {
+          "sent": "A sponsor sign the Undertaking which be a legal contract between the government and the sponsor and a promise by the sponsor to provide for the need of the sponsored relative without resort to social benefit for the period of 10 year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Given an absence of a standard low-income measure in the data set be use ( the LAD-IMDB Database ) Footnote 62 , the study define low-income status base on 50 % of median adult-equivalent adjust family income.Footnote 63 The median adjust family income be calculate on a constant dollar basis ( the consumer price index adjust to the 2003 value ) in each of the year cover by the study ( 1992 to 2004 ) , and the average of these value be use in determine the low-income cut-off in all year ( e.g.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ers.usda.gov/topics/farm-economy/farm-labor/",
+      "content": "As a result , labor cost a a share of gross cash income do not show an upward trend for the industry a a whole over the past 20 year .",
+      "domain": "www.ers.usda.gov",
+      "tokenized": [
+        {
+          "sent": "As a result , labor cost a a share of gross cash income do not show an upward trend for the industry a a whole over the past 20 year .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ssa.gov/policy/docs/ssb/v68n1/68n1p31.html",
+      "content": "Measuring income inequality by the ratio of income accruing to the top 10 percent of household to that accrue to the bottom 20 percent , Borjas ( 1992a , 44 ) show that the amount of dispersion in the average immigrant 's source country double in the postwar period , with most of that increase occur after 1960.10 He observe that with the decline of the national origin system ,\nTwo conceptualization link immigrant skill transferability to the level of economic development of immigrant ' country of origin . Despite considerable variation over time in the age- and education-adjusted initial earnings of immigrant , when measure after 10 to 15 year in the United States , the adjusted earnings of immigrant show little change . Borjas correctly show that in a situation where immigrant initial earnings be fall over time , the cross-sectional methodology ( pair the initial earnings of more recent immigrant with the earnings achieve by early immigrant after 10\u201315 year in the country ) overstate the earnings growth of the early immigrant . Similarly , use the 1970 and 1980 census , they measure the entry earnings and earnings after 10 to 14 year of U.S. residence of immigrant who enter the country in the 1965\u20131970 period . Unobserved , at time t , be the earnings that the early cohort of immigrant first receive when they come to the United States 10 year ago ( point C ) .",
+      "domain": "www.ssa.gov",
+      "tokenized": [
+        {
+          "sent": "Measuring income inequality by the ratio of income accruing to the top 10 percent of household to that accrue to the bottom 20 percent , Borjas ( 1992a , 44 ) show that the amount of dispersion in the average immigrant 's source country double in the postwar period , with most of that increase occur after 1960.10 He observe that with the decline of the national origin system ,\nTwo conceptualization link immigrant skill transferability to the level of economic development of immigrant ' country of origin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Despite considerable variation over time in the age- and education-adjusted initial earnings of immigrant , when measure after 10 to 15 year in the United States , the adjusted earnings of immigrant show little change .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Borjas correctly show that in a situation where immigrant initial earnings be fall over time , the cross-sectional methodology ( pair the initial earnings of more recent immigrant with the earnings achieve by early immigrant after 10\u201315 year in the country ) overstate the earnings growth of the early immigrant .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Similarly , use the 1970 and 1980 census , they measure the entry earnings and earnings after 10 to 14 year of U.S. residence of immigrant who enter the country in the 1965\u20131970 period .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Unobserved , at time t , be the earnings that the early cohort of immigrant first receive when they come to the United States 10 year ago ( point C ) .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.pewresearch.org/fact-tank/2019/05/22/key-facts-about-asian-origin-groups-in-the-u-s/",
+      "content": "By contrast , many Bhutanese have arrive in the U.S. a refugee start in 2008 ( 98 % of Bhutanese immigrant have be in the U.S. for 10 year or less ) and only 6 % have naturalize , the low share of any group .",
+      "domain": "www.pewresearch.org",
+      "tokenized": [
+        {
+          "sent": "By contrast , many Bhutanese have arrive in the U.S. a refugee start in 2008 ( 98 % of Bhutanese immigrant have be in the U.S. for 10 year or less ) and only 6 % have naturalize , the low share of any group .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.worldbank.org/en/news/press-release/2020/04/22/world-bank-predicts-sharpest-decline-of-remittances-in-recent-history",
+      "content": "Remittance cost : Sending $ 200 remittance to the region cost 8.9 percent on average in the first quarter of 2020 , a modest decrease compare with the average cost of 9.25 percent a year before . Remittance cost : The average cost of send $ 200 to the ECA region decline modestly to 6.48 percent in the first quarter of 2020 from 6.67 percent a year earlier . Remittances to low and middle-income country ( LMICs ) be project to fall by 19.7 percent to $ 445 billion , represent a loss of a crucial financing lifeline for many vulnerable household .",
+      "domain": "www.worldbank.org",
+      "tokenized": [
+        {
+          "sent": "Remittance cost : Sending $ 200 remittance to the region cost 8.9 percent on average in the first quarter of 2020 , a modest decrease compare with the average cost of 9.25 percent a year before .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Remittance cost : The average cost of send $ 200 to the ECA region decline modestly to 6.48 percent in the first quarter of 2020 from 6.67 percent a year earlier .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Remittances to low and middle-income country ( LMICs ) be project to fall by 19.7 percent to $ 445 billion , represent a loss of a crucial financing lifeline for many vulnerable household .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

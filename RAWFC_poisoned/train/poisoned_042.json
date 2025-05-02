@@ -1,0 +1,909 @@
+{
+  "event_id": "197721",
+  "claim": "A photograph shows a long line of climbers waiting to ascend Mount Everest. ",
+  "original_label": "true",
+  "label": "true",
+  "explain": "Freezing temperatures, avalanches, and altitude sickness are common hazards among mountain climbers along the route to the peak of Mount Everest. But in May 2019, another factor, overcrowding, was partially to blame for the deaths of several climbers on the 8,848-meter (29,029-foot) Himalayan summit:Many news outlets that reported on these dangerous conditions illustrated their articles with a remarkable photograph supposedly showing a long queue of climbers waiting to ascend to Everest\u2019s summit. Although this image was published by legitimate news organizations, such as the , Agence-France Presse, the , CNN, CBS News, and BBC News, some viewers found the visual of hundreds of climbers lined up along the ridge of one of the world\u2019s tallest mountain simply too strange for reality:This is a genuine photograph from near the summit of Mount Everest. It was taken on 22\u00a0May 2019 by Nirmal Purja, a mountaineer attempting to climb all 14 of the 8,000-meter Himalayan peaks in a single seven-month season.Purja uploaded the image to his social media pages along with a brief description of what it showed: \u201cOn 22nd of May, I summited Everest at 5:30 am and [reached] Lhotse 3:45 pm despite of the heavy traffic (roughly 320 people )\u201d:A video of this \u201ctraffic jam\u201d on Everest was also available via the Twitter account Everest Today:Purja is attempting to climb all 14 of the peaks in a single season as part of his \u201cProject Possible\u201d expedition, a fundraising effort that \u201csupports orphanages, disabled and children in need of support in Nepal.\u201d  Purja wrote on the Project Possible\u2019s GoFundMe Page that:Purja isn\u2019t the first person to capture a photograph of large crowds on Mount Everest. In fact, this phenomenon has been a growing problem on the popular peak. In May 2012, climber Ralf Dujmovits took a similar photograph of a long line of people making their way up the mountain, which can be seen in a broadcast from ABC News:",
+  "reports": [
+    {
+      "link": "https://www.washingtonpost.com/world/2019/05/24/mount-everest-has-gotten-so-crowded-that-climbers-are-perishing-traffic-jams/",
+      "content": "A chill photograph from Everest show a long line of mountaineer queue to ascend a steep ridge to the summit . Anjali Kulkarni , an Indian mountain climber , train for six year to make it to the top of Mount Everest , the high mountain peak in the world . \u201c She have to wait for a long time to reach the summit and descend , \u201d Thupden Sherpa , who organize tour on the mountain , tell Agence France-Presse . Everest attract climber from around the globe , and the victim come from diverse background :\nLast year , 807 people reach the mountain \u2019 s summit , more than have ever reach the top in a single year before . When climber choose to scale Everest , they do so understand the peril they could encounter along the way . The photo be shoot by Nirmal Purja , an avid mountaineer , who write in an Instagram caption that he estimate there be 320 people wait in line . Alpine Ascents currently have a group of a dozen climber on the mountain , he say , and one of the most important skill for the guide who accompany them \u201c be know when to turn people around . ''",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "A chill photograph from Everest show a long line of mountaineer queue to ascend a steep ridge to the summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Anjali Kulkarni , an Indian mountain climber , train for six year to make it to the top of Mount Everest , the high mountain peak in the world .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c She have to wait for a long time to reach the summit and descend , \u201d Thupden Sherpa , who organize tour on the mountain , tell Agence France-Presse .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest attract climber from around the globe , and the victim come from diverse background :\nLast year , 807 people reach the mountain \u2019 s summit , more than have ever reach the top in a single year before .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When climber choose to scale Everest , they do so understand the peril they could encounter along the way .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The photo be shoot by Nirmal Purja , an avid mountaineer , who write in an Instagram caption that he estimate there be 320 people wait in line .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Alpine Ascents currently have a group of a dozen climber on the mountain , he say , and one of the most important skill for the guide who accompany them \u201c be know when to turn people around . ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sciencealert.com/mount-everest-is-now-so-busy-climbers-are-dying-in-traffic-jams",
+      "content": "A chill photograph from Everest ( above ) show a long line of mountaineer queue to ascend a steep ridge to the summit . Anjali Kulkarni , an Indian mountain climber , train for six year to make it to the top of Mount Everest , the high mountain peak in the world . `` She have to wait for a long time to reach the summit and descend , '' Thupden Sherpa , who organize tour on the mountain , tell Agence France-Presse . Everest attract climber from around the globe , and the victim come from diverse background :\nLast year , 807 people reach the mountain 's summit , more than have ever reach the top in a single year before . When climber choose to scale Everest , they do so understand the peril they could encounter along the way . The photo be shoot by Nirmal Purja , an avid mountaineer , who write in an Instagram caption that he estimate there be 320 people wait in line . Alpine Ascents currently have a group of a dozen climber on the mountain , he say , and one of the most important skill for the guide who accompany them `` be know when to turn people around . ''",
+      "domain": "www.sciencealert.com",
+      "tokenized": [
+        {
+          "sent": "A chill photograph from Everest ( above ) show a long line of mountaineer queue to ascend a steep ridge to the summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Anjali Kulkarni , an Indian mountain climber , train for six year to make it to the top of Mount Everest , the high mountain peak in the world .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` She have to wait for a long time to reach the summit and descend , '' Thupden Sherpa , who organize tour on the mountain , tell Agence France-Presse .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest attract climber from around the globe , and the victim come from diverse background :\nLast year , 807 people reach the mountain 's summit , more than have ever reach the top in a single year before .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When climber choose to scale Everest , they do so understand the peril they could encounter along the way .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The photo be shoot by Nirmal Purja , an avid mountaineer , who write in an Instagram caption that he estimate there be 320 people wait in line .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Alpine Ascents currently have a group of a dozen climber on the mountain , he say , and one of the most important skill for the guide who accompany them `` be know when to turn people around . ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/2019/05/28/727707684/after-deadly-season-on-everest-nepal-has-no-plans-to-issue-fewer-permits",
+      "content": "A long queue of mountain climber line a path on Mount Everest on May 22 . A long queue of mountain climber line a path on Mount Everest on May 22 . Eleven people have die climb Mount Everest so far this year , amid long line to reach the peak last week . Eleven people have die climb Mount Everest so far this year , amid long line to reach the peak last week . The image of a crowded Everest link to the death toll be spur by a viral photo last week that show climber in their neon gear , pack in a tight , unforgiving queue to the high point on Earth . `` As be know , climb Everest be a hardcore adventure activity , a daunt experience even for the most trained and professional climber , '' it say in the statement . `` You essentially have something that look like people be wait in line for concert ticket to a sold-out show , only instead of try to get in to see their favorite artist , they 're try to reach the top of the world and be run into traffic , '' Outside magazine editor at large Grayson Schaffer tell NPR 's Weekend Edition . `` There have be concern about the number of climber on Mount Everest , but it be not because of the traffic jam that there be casualty , '' Mohan Krishna Sapkota , secretary at the country 's Ministry of Tourism and Civil Aviation , tell The Associated Press . Foreign climber must pay a fee of $ 11,000 for a spring summit of Everest and provide a doctor 's note attest to their fitness . Nepal 's tourism board be defend the number of permit it issue to climb Mount Everest for this season in which 11 people have die . And when that oxygen run out because you 're wait in line , you be at much high risk for develop high-altitude edema and altitude sickness \u2014 and dying of those illness while you 're still try to reach the summit . '' And the tourist board say it have a request for the travel industry , the medium , and potential future climber : `` Be aware of all the risk factor include in climb peak above 8,000 m. Intense training , precaution and attention to every minor detail , be of extreme importance for climb the Himalayan peak . ''",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "A long queue of mountain climber line a path on Mount Everest on May 22 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A long queue of mountain climber line a path on Mount Everest on May 22 .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Eleven people have die climb Mount Everest so far this year , amid long line to reach the peak last week .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Eleven people have die climb Mount Everest so far this year , amid long line to reach the peak last week .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The image of a crowded Everest link to the death toll be spur by a viral photo last week that show climber in their neon gear , pack in a tight , unforgiving queue to the high point on Earth .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` As be know , climb Everest be a hardcore adventure activity , a daunt experience even for the most trained and professional climber , '' it say in the statement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` You essentially have something that look like people be wait in line for concert ticket to a sold-out show , only instead of try to get in to see their favorite artist , they 're try to reach the top of the world and be run into traffic , '' Outside magazine editor at large Grayson Schaffer tell NPR 's Weekend Edition .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` There have be concern about the number of climber on Mount Everest , but it be not because of the traffic jam that there be casualty , '' Mohan Krishna Sapkota , secretary at the country 's Ministry of Tourism and Civil Aviation , tell The Associated Press .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Foreign climber must pay a fee of $ 11,000 for a spring summit of Everest and provide a doctor 's note attest to their fitness .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Nepal 's tourism board be defend the number of permit it issue to climb Mount Everest for this season in which 11 people have die .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And when that oxygen run out because you 're wait in line , you be at much high risk for develop high-altitude edema and altitude sickness \u2014 and dying of those illness while you 're still try to reach the summit . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And the tourist board say it have a request for the travel industry , the medium , and potential future climber : `` Be aware of all the risk factor include in climb peak above 8,000 m. Intense training , precaution and attention to every minor detail , be of extreme importance for climb the Himalayan peak . ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://phys.org/news/2019-05-traffic-everest-climbers-die-summit.html",
+      "content": "Dozens of climber wait to ascend Mount Everest\nMost Everest hopeful be escort by a Nepali guide , mean more than 750 climber will tread the same path to the top in the coming week . Climber Nirmal Purja of Project Possible expedition photograph the huge queue of climber attempt to summit Mount Everest . `` She have to wait for a long time to reach the summit and descend , '' say Thupden Sherpa . More than 200 climber be take advantage of clear weather on Wednesday to attempt to summit from both Nepal and China , but team have to line up for hour to reach the top\u2014risking frostbite and altitude sickness . The death take the toll on Everest to four this season , after an Indian climber die last week and an Irish mountaineer be presume dead after he slip and fell close to the summit . 'Traffic jam ' on Everest a two more climber die reach summit",
+      "domain": "phys.org",
+      "tokenized": [
+        {
+          "sent": "Dozens of climber wait to ascend Mount Everest\nMost Everest hopeful be escort by a Nepali guide , mean more than 750 climber will tread the same path to the top in the coming week .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Climber Nirmal Purja of Project Possible expedition photograph the huge queue of climber attempt to summit Mount Everest .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` She have to wait for a long time to reach the summit and descend , '' say Thupden Sherpa .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "More than 200 climber be take advantage of clear weather on Wednesday to attempt to summit from both Nepal and China , but team have to line up for hour to reach the top\u2014risking frostbite and altitude sickness .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The death take the toll on Everest to four this season , after an Indian climber die last week and an Irish mountaineer be presume dead after he slip and fell close to the summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "'Traffic jam ' on Everest a two more climber die reach summit",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bangkokpost.com/opinion/opinion/1687960/mount-everest-traffic-jam-needs-action",
+      "content": "The great race : A long queue of climber line a path on Mount Everest just below camp four , in Nepal . To scale Everest , every climber must first obtain a permit -- which cost $ 11,000 -- from the government . Even if some climber can maintain a constant oxygen supply , long queue lead to `` summit fever '' , a determination to reach the top no matter the cost . Some first-hand account suggest many climber have little awareness of how to behave by push , shoving , and even step over dead body to get ahead or take photograph .",
+      "domain": "www.bangkokpost.com",
+      "tokenized": [
+        {
+          "sent": "The great race : A long queue of climber line a path on Mount Everest just below camp four , in Nepal .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "To scale Everest , every climber must first obtain a permit -- which cost $ 11,000 -- from the government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Even if some climber can maintain a constant oxygen supply , long queue lead to `` summit fever '' , a determination to reach the top no matter the cost .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some first-hand account suggest many climber have little awareness of how to behave by push , shoving , and even step over dead body to get ahead or take photograph .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/news/world/2019/05/30/mount-everest-video-shows-traffic-jam-hikers-amid-climbing-deaths/1285603001/",
+      "content": "New video show the crowded condition climber on Mount Everest face a they try to summit the world 's tall peak amid a record season . A long line to the top : What 's cause Mount Everest 's deadly season ? Still , video share this week on social medium from the mountain be stun , show climber pack in tight condition wait to advance up the mountain . More than double that number of climber be actually on the mountain , account for Sherpas and climber who approach Everest from Tibet . At least 11 people have die on Everest this season , the high toll since 2015 , a the government in Nepal issue a record number of permit allow climber to scale it peak .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "New video show the crowded condition climber on Mount Everest face a they try to summit the world 's tall peak amid a record season .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A long line to the top : What 's cause Mount Everest 's deadly season ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Still , video share this week on social medium from the mountain be stun , show climber pack in tight condition wait to advance up the mountain .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "More than double that number of climber be actually on the mountain , account for Sherpas and climber who approach Everest from Tibet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "At least 11 people have die on Everest this season , the high toll since 2015 , a the government in Nepal issue a record number of permit allow climber to scale it peak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.marketwatch.com/story/deadly-human-traffic-jams-have-formed-near-the-summit-of-mount-everest-2019-05-24",
+      "content": "Climber queue near the summit of Mount Everest be put life on the line . Nirmal Purja , who take the photo of a line of climber wind along the ridge up to the Everest summit , make the climb a part of his Project Possible challenge to reach the top of the 14 high Himalayan peak . This follow three climber that die after summit the world \u2019 s tallest mountain last Thursday , just day after a photo of a throng of mountaineer line up and wait to reach the peak go viral . \u201c On May 22 , after several day of bad weather , there be a small window of clear weather , [ and ] more than 200 mountaineer ascend Everest . While his cause of death hasn \u2019 t be confirm , his brother tell the Associated Press that Kulish have just reach the top of Everest with a small group last week , after hundred of other climber congest the final summit push toward the 29,035-foot peak . Tenzing Norgay and Edmund Hillary become the first two people to climb Mount Everest in 1953 , and the number of adventurer challenge the punish trek have climb .",
+      "domain": "www.marketwatch.com",
+      "tokenized": [
+        {
+          "sent": "Climber queue near the summit of Mount Everest be put life on the line .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Nirmal Purja , who take the photo of a line of climber wind along the ridge up to the Everest summit , make the climb a part of his Project Possible challenge to reach the top of the 14 high Himalayan peak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This follow three climber that die after summit the world \u2019 s tallest mountain last Thursday , just day after a photo of a throng of mountaineer line up and wait to reach the peak go viral .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c On May 22 , after several day of bad weather , there be a small window of clear weather , [ and ] more than 200 mountaineer ascend Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While his cause of death hasn \u2019 t be confirm , his brother tell the Associated Press that Kulish have just reach the top of Everest with a small group last week , after hundred of other climber congest the final summit push toward the 29,035-foot peak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Tenzing Norgay and Edmund Hillary become the first two people to climb Mount Everest in 1953 , and the number of adventurer challenge the punish trek have climb .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.livemint.com/news/india/what-happened-on-everest-this-summer-1560177176229.html",
+      "content": "\u201c Obviously , a crowd be see in ( the ) photograph , but it be normal because climber who be ascend to and descend from Everest use the same rope , '' he say . Around 5am on the morning of 22 May , Keepa Sherpa ( 25 ) , along with a group of four Indian mountaineer , make the final push towards the summit of Mount Everest . If rope fixing be complete by the end of April or the first week of May , then , multiple weather window would have be available for climber , say Gyanendra Shrestha , a senior government liaison officer deploy at Everest Base Camp . Ultimately , what the near stampede of 22 May show be that the allure of the Everest be hard to resist for many . Everest be around $ 11,000 per person , though each climber end up spend between $ 40,000-90,000 overall . \u201c If climber have to stand for long period in the same place and can not walk , there would be high chance of frostbite , cold exposure , and other illness , '' he add . While climatic change have only steadily exacerbate the risk , serious human failure , which remain unacknowledged , put a question mark on all future summer and the fate of the unending line of people for whom summit Everest be a life-long dream , say Ang Tshering Sherpa , former president of Nepal Mountaineering Association ( NAM ) . In the short window of a few week in May when summit Everest be possible , at least 11 climber have die , include three Indian national , accord to official data provide by the Nepal government . \u201c ( The ) feat that bring him ( Bass ) worldwide renown , spur a swarm of other weekend climber to follow in his guided bootprints , and rudely pulled Everest into the postmodern era , '' write Jon Krakauer in his book Into Thin Air , a personal account of a 1996 disaster on the Everest which detail how commercial climbing expedition be sacrifice safety for the sake of summit score . Everest should have the experience of climb at least 7,000m to ascertain the effect of high altitude , Nepalese government official say . The result : people with little train attempt to climb the Everest , result in slow-paced climb that create large crowd near the top on the final few day of good weather . Shrestha acknowledge that the image which have go viral depict huge crowd on top of Everest be \u201c true '' , but he immediately add that the photo only convey a normal , annual occurrence . But for those who get stick on Everest , on that day and the day which follow , the consequence be serious .",
+      "domain": "www.livemint.com",
+      "tokenized": [
+        {
+          "sent": "\u201c Obviously , a crowd be see in ( the ) photograph , but it be normal because climber who be ascend to and descend from Everest use the same rope , '' he say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Around 5am on the morning of 22 May , Keepa Sherpa ( 25 ) , along with a group of four Indian mountaineer , make the final push towards the summit of Mount Everest .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If rope fixing be complete by the end of April or the first week of May , then , multiple weather window would have be available for climber , say Gyanendra Shrestha , a senior government liaison officer deploy at Everest Base Camp .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Ultimately , what the near stampede of 22 May show be that the allure of the Everest be hard to resist for many .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest be around $ 11,000 per person , though each climber end up spend between $ 40,000-90,000 overall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c If climber have to stand for long period in the same place and can not walk , there would be high chance of frostbite , cold exposure , and other illness , '' he add .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While climatic change have only steadily exacerbate the risk , serious human failure , which remain unacknowledged , put a question mark on all future summer and the fate of the unending line of people for whom summit Everest be a life-long dream , say Ang Tshering Sherpa , former president of Nepal Mountaineering Association ( NAM ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the short window of a few week in May when summit Everest be possible , at least 11 climber have die , include three Indian national , accord to official data provide by the Nepal government .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c ( The ) feat that bring him ( Bass ) worldwide renown , spur a swarm of other weekend climber to follow in his guided bootprints , and rudely pulled Everest into the postmodern era , '' write Jon Krakauer in his book Into Thin Air , a personal account of a 1996 disaster on the Everest which detail how commercial climbing expedition be sacrifice safety for the sake of summit score .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest should have the experience of climb at least 7,000m to ascertain the effect of high altitude , Nepalese government official say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The result : people with little train attempt to climb the Everest , result in slow-paced climb that create large crowd near the top on the final few day of good weather .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Shrestha acknowledge that the image which have go viral depict huge crowd on top of Everest be \u201c true '' , but he immediately add that the photo only convey a normal , annual occurrence .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But for those who get stick on Everest , on that day and the day which follow , the consequence be serious .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbsnews.com/news/mount-everest-deaths-human-traffic-jam-today-2019-05-24/",
+      "content": "It 's a human traffic jam at the top of Mount Everest a hundred of climber wait hour for their chance to stand at the top of the world . Two more climber die Friday on Mount Everest , become the eighth and ninth people to die there since last week . Arnette climb everest in 2011 and he now chronicle climber on his blog\nMost of the body will remain on Mount Everest \u2014 a solemn reminder to future climber . Experienced Everest climber say it 's particularly busy this year , because weather condition provide only five day where the sky be clear enough to summit . So far this season , at least nine climber have die on everest , more than all of last year .",
+      "domain": "www.cbsnews.com",
+      "tokenized": [
+        {
+          "sent": "It 's a human traffic jam at the top of Mount Everest a hundred of climber wait hour for their chance to stand at the top of the world .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Two more climber die Friday on Mount Everest , become the eighth and ninth people to die there since last week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Arnette climb everest in 2011 and he now chronicle climber on his blog\nMost of the body will remain on Mount Everest \u2014 a solemn reminder to future climber .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Experienced Everest climber say it 's particularly busy this year , because weather condition provide only five day where the sky be clear enough to summit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So far this season , at least nine climber have die on everest , more than all of last year .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/news/world/2019/05/31/mount-everest-after-deaths-traffic-jam-bad-weather-season-ending/1296722001/",
+      "content": "A photo take the same day Cash die show what appear to be a single line of climber wait to reach the summit . According to the count by Arnette , a Colorado climber who summit Mount Everest on his fourth attempt in 2011 and who keep track of it climb season , more than 825 climber and Sherpas reach the summit this year , a record-breaking number . 'Every minute count ' : Another climber die on Everest a world 's tall peak overcrowds\nOthers say that it be the inexperience of many of the climber on the cliff this year . Veteran climber Nirmal Purja capture the photo while descend the summit , and it quickly become the poster for the overcrowding issue this season .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "A photo take the same day Cash die show what appear to be a single line of climber wait to reach the summit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the count by Arnette , a Colorado climber who summit Mount Everest on his fourth attempt in 2011 and who keep track of it climb season , more than 825 climber and Sherpas reach the summit this year , a record-breaking number .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "'Every minute count ' : Another climber die on Everest a world 's tall peak overcrowds\nOthers say that it be the inexperience of many of the climber on the cliff this year .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Veteran climber Nirmal Purja capture the photo while descend the summit , and it quickly become the poster for the overcrowding issue this season .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.financialexpress.com/lifestyle/travel-tourism/traffic-jam-at-mount-everest-what-really-happened-at-worlds-tallest-summit/1593744/",
+      "content": "This month on May 22 , one of the climber click a photograph which show a long queue of dozen of climber in their colorful winter gear that snake into the peak . So far thousand have climber have scale the summit of Mount Everest . So , everyone who sign up to climb on Mount Everest be ready and lined-up , want to go . The charm of climb Mount Everest have attract crowd of climber from all over the world , even inexperienced climber have make their way to the top but they be not always lucky . Scaling the world \u2019 s tall peak Mount Everest , in Nepal , be every mountain climber \u2019 s dream , but it be a dream which have already be achieve over half-century ago . \u201c Climbing Mount Everest be not easy even if it be conduct . On Mount Everest , the region between Camp Four locate at 8,000 meter to the height of 8,850-meter be be know a the \u2018 death zone. Nepal , so far , have not cap the number of permit it issue to climb on Mount Everest or have also not try control the pace or timing of the expedition . Talking to a news agency , Indian climber Ameesha Chauhan who be at Mount Everest and get frostbite on her toe , say that she be agonize because she have to come back from the peak after realize that her supplemental oxygen supply be very low . This year the death toll on Mount Everest in high since 2015 . Since then , thousand of mountaineer have climb the summit of Everest . Now , mountaineer community expect some regulation to take place and effort to clean the Mount Everest of the litter scatter there . Everest be also cover with dead body unfortunate climber . Mount Everest be now litter with leftover by climber include empty oxygen canister , water bottle , food packaging and other waste . Climbers be clip onto a single rope , slowly trudge toward the high peak in the world and risk their life every minute , every step . At the high-altitude on Everest or any other peak , climber just have few hour to reach the top and return before the deadly condition of pulmonary edema , in which lung get fill with liquid , start impact them .",
+      "domain": "www.financialexpress.com",
+      "tokenized": [
+        {
+          "sent": "This month on May 22 , one of the climber click a photograph which show a long queue of dozen of climber in their colorful winter gear that snake into the peak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "So far thousand have climber have scale the summit of Mount Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So , everyone who sign up to climb on Mount Everest be ready and lined-up , want to go .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The charm of climb Mount Everest have attract crowd of climber from all over the world , even inexperienced climber have make their way to the top but they be not always lucky .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Scaling the world \u2019 s tall peak Mount Everest , in Nepal , be every mountain climber \u2019 s dream , but it be a dream which have already be achieve over half-century ago .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Climbing Mount Everest be not easy even if it be conduct .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On Mount Everest , the region between Camp Four locate at 8,000 meter to the height of 8,850-meter be be know a the \u2018 death zone.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Nepal , so far , have not cap the number of permit it issue to climb on Mount Everest or have also not try control the pace or timing of the expedition .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Talking to a news agency , Indian climber Ameesha Chauhan who be at Mount Everest and get frostbite on her toe , say that she be agonize because she have to come back from the peak after realize that her supplemental oxygen supply be very low .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This year the death toll on Mount Everest in high since 2015 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since then , thousand of mountaineer have climb the summit of Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Now , mountaineer community expect some regulation to take place and effort to clean the Mount Everest of the litter scatter there .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest be also cover with dead body unfortunate climber .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mount Everest be now litter with leftover by climber include empty oxygen canister , water bottle , food packaging and other waste .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Climbers be clip onto a single rope , slowly trudge toward the high peak in the world and risk their life every minute , every step .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "At the high-altitude on Everest or any other peak , climber just have few hour to reach the top and return before the deadly condition of pulmonary edema , in which lung get fill with liquid , start impact them .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.outsideonline.com/2397164/everest-summit-traffic-jam",
+      "content": "It show a dense line of climber on their way to the Hillary Step and then the summit . It may be the most iconic modern Everest photo since 2012 , when Ralf Dujmovits capture another \u201c conga line \u201d of climber ascend the Lhotse Face . It \u2019 s not the first evidence of serious crowd see on the mountain this season ; on April 19 , a photo of climber queue up in the Khumbu Icefall also spark surprise :\nBecause of the intense jet stream that hovers near Everest \u2019 s 29,029-foot summit for much of the year , there be only a few weather window , often two or three day in late May , when it 's optimal for climber to make a push for the top\u2014forcing many expedition to all go for it at the same time . \u201c I summit everest at 5:30 be and lhotse 3:45 pm despite of [ sic ] the heavy traffic ( roughly 320 people ) , \u201d write Purja , who be currently attempt to climb all 14 of the Himalayas ' 8,000-meter peak in a single season .",
+      "domain": "www.outsideonline.com",
+      "tokenized": [
+        {
+          "sent": "It show a dense line of climber on their way to the Hillary Step and then the summit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It may be the most iconic modern Everest photo since 2012 , when Ralf Dujmovits capture another \u201c conga line \u201d of climber ascend the Lhotse Face .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It \u2019 s not the first evidence of serious crowd see on the mountain this season ; on April 19 , a photo of climber queue up in the Khumbu Icefall also spark surprise :\nBecause of the intense jet stream that hovers near Everest \u2019 s 29,029-foot summit for much of the year , there be only a few weather window , often two or three day in late May , when it 's optimal for climber to make a push for the top\u2014forcing many expedition to all go for it at the same time .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c I summit everest at 5:30 be and lhotse 3:45 pm despite of [ sic ] the heavy traffic ( roughly 320 people ) , \u201d write Purja , who be currently attempt to climb all 14 of the Himalayas ' 8,000-meter peak in a single season .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://explorersweb.com/2019/05/25/traffic-jams-on-everest-ethical-or-not/",
+      "content": "Although I \u2019 ve see photo of long line of climber on Everest before , Nirmal Purja \u2019 s shot of a conga line of climber near the Hillary Step this week be still shock . The nr 1 responsibility lie indeed with the climber who should not climb Everest , or any other mountain , without the proper experience and fitness . Between 250-300 climber in colorful down suit inch upward in a three-hour queue near the summit . Along those line , it \u2019 s unlikely that good communication among the many Everest outfitter , with the aim of limit the number of client they take on , or the number they send up on a give day , would do much . Of course we all know the inherent danger of climb Everest : avalanche , topple ice seracs , altitude sickness , frostbite , etc .",
+      "domain": "explorersweb.com",
+      "tokenized": [
+        {
+          "sent": "Although I \u2019 ve see photo of long line of climber on Everest before , Nirmal Purja \u2019 s shot of a conga line of climber near the Hillary Step this week be still shock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The nr 1 responsibility lie indeed with the climber who should not climb Everest , or any other mountain , without the proper experience and fitness .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Between 250-300 climber in colorful down suit inch upward in a three-hour queue near the summit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Along those line , it \u2019 s unlikely that good communication among the many Everest outfitter , with the aim of limit the number of client they take on , or the number they send up on a give day , would do much .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Of course we all know the inherent danger of climb Everest : avalanche , topple ice seracs , altitude sickness , frostbite , etc .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2019/09/18/sports/everest-traffic-jam-photo.html",
+      "content": "Nirmal Purja snap the photograph of an overcrowded Mount Everest summit while on a quest to climb the 14 tall mountain in the world in record time . The photograph of a traffic jam of climber lead to the summit of Mount Everest in May go viral , evidence of the mountain \u2019 s surge appeal among thrill-seekers and the overcrowding that have cause death and pollution . Your Everest traffic jam photograph \u2014 it \u2019 s a striking and important image .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "Nirmal Purja snap the photograph of an overcrowded Mount Everest summit while on a quest to climb the 14 tall mountain in the world in record time .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The photograph of a traffic jam of climber lead to the summit of Mount Everest in May go viral , evidence of the mountain \u2019 s surge appeal among thrill-seekers and the overcrowding that have cause death and pollution .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Your Everest traffic jam photograph \u2014 it \u2019 s a striking and important image .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.livescience.com/65569-mount-everest-traffic-jam-deaths.html",
+      "content": "Massively long line at Mount Everest 's frigid summit \u2014 partly due to a few day of good weather \u2014 may have contribute to the death of seven climber this week , news source report . And stand in a long line to ascend and descend the mountain do n't help . [ In Photos : Mount Everest Expeditions Then and Now ]\nTraffic jam mean people will have to spend more time at elevation that be tax on the human body , and , if they need to descend because of sickness , it 's a longer wait to possibly lifesaving treatment , an expert say . When mountaineer be wait in line , they 're not eating , drinking or sleeping , he say . It can be prevent if climber slowly ascend the mountain ( after reach 9,800 foot , or 3,000 m ) , do n't overexert themselves , and take the altitude-sickness medication acetazolamide ( trade name Diamox ) or the anti-inflammatory steroid dexamethasone , Luks write in the study .",
+      "domain": "www.livescience.com",
+      "tokenized": [
+        {
+          "sent": "Massively long line at Mount Everest 's frigid summit \u2014 partly due to a few day of good weather \u2014 may have contribute to the death of seven climber this week , news source report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And stand in a long line to ascend and descend the mountain do n't help .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ In Photos : Mount Everest Expeditions Then and Now ]\nTraffic jam mean people will have to spend more time at elevation that be tax on the human body , and , if they need to descend because of sickness , it 's a longer wait to possibly lifesaving treatment , an expert say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When mountaineer be wait in line , they 're not eating , drinking or sleeping , he say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It can be prevent if climber slowly ascend the mountain ( after reach 9,800 foot , or 3,000 m ) , do n't overexert themselves , and take the altitude-sickness medication acetazolamide ( trade name Diamox ) or the anti-inflammatory steroid dexamethasone , Luks write in the study .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bbc.com/news/magazine-22680192",
+      "content": "Thanks to advance in mountaineer equipment and the indefatigable effort of Sherpa guide , more climber than ever be reach the peak of Mount Everest - a landmark that be once believe to be impossible to surmount . Six decade after it be conquer , mountaineer complain that the summit of Mount Everest have become virtually gridlocked with climber . `` Normally , as long a they be not too ill or too weak , nearly everyone - if they have enough money and patience - can get up Everest , '' say Eberhard Jurgalski , who have attempt to chronicle every Everest ascent since 1953 . `` There be just people everywhere , '' say Ayisha Jessa , 31 , a keen climber from London who recently visit Everest 's base camp . For many serious climber , all this have serve to devalue Everest . But a Nepalese authority face call to take further action , proposal to remedy Everest 's congestion have sharply divide climber . The tour party also ascend use fix rope , which help less accomplished climber but be believe by many elite mountaineer to detract from the sport .",
+      "domain": "www.bbc.com",
+      "tokenized": [
+        {
+          "sent": "Thanks to advance in mountaineer equipment and the indefatigable effort of Sherpa guide , more climber than ever be reach the peak of Mount Everest - a landmark that be once believe to be impossible to surmount .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Six decade after it be conquer , mountaineer complain that the summit of Mount Everest have become virtually gridlocked with climber .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Normally , as long a they be not too ill or too weak , nearly everyone - if they have enough money and patience - can get up Everest , '' say Eberhard Jurgalski , who have attempt to chronicle every Everest ascent since 1953 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` There be just people everywhere , '' say Ayisha Jessa , 31 , a keen climber from London who recently visit Everest 's base camp .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For many serious climber , all this have serve to devalue Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But a Nepalese authority face call to take further action , proposal to remedy Everest 's congestion have sharply divide climber .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The tour party also ascend use fix rope , which help less accomplished climber but be believe by many elite mountaineer to detract from the sport .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://apnews.com/article/a67ea6abe6ae4cdd9c22ce5b71f8c819",
+      "content": "\u201c There have be concern about the number of climber on Mount Everest but it be not because of the traffic jam that there be casualty , \u201d Sapkota say in Namche , the town that serve a the stag area for Everest trip . As the allure of Everest grows , so have the crowd , with inexperienced climber falter on the narrow passageway to the peak and cause deadly delay , veteran climber say . On May 22 , a climber snap a photo from a line with dozen of hiker in colorful winter gear that snake into the sky . Climbers be cram crampon-to-crampon along a sharp-edged ridge above South Col , with a 7,000-foot ( 2,000-meter ) drop on either side , all clip onto a single line of rope , trudge toward the top of the world and risk death a each minute tick by . From Camp Four at 8,000 meter ( 26,240 foot ) to the 8,850-meter ( 29,035-foot ) peak , the final push on Everest be know a the \u201c death zone . \u201c Many climber be too focus on reach the summit .",
+      "domain": "apnews.com",
+      "tokenized": [
+        {
+          "sent": "\u201c There have be concern about the number of climber on Mount Everest but it be not because of the traffic jam that there be casualty , \u201d Sapkota say in Namche , the town that serve a the stag area for Everest trip .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As the allure of Everest grows , so have the crowd , with inexperienced climber falter on the narrow passageway to the peak and cause deadly delay , veteran climber say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On May 22 , a climber snap a photo from a line with dozen of hiker in colorful winter gear that snake into the sky .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Climbers be cram crampon-to-crampon along a sharp-edged ridge above South Col , with a 7,000-foot ( 2,000-meter ) drop on either side , all clip onto a single line of rope , trudge toward the top of the world and risk death a each minute tick by .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "From Camp Four at 8,000 meter ( 26,240 foot ) to the 8,850-meter ( 29,035-foot ) peak , the final push on Everest be know a the \u201c death zone .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Many climber be too focus on reach the summit .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://globalnews.ca/news/5312037/mount-everest-traffic-jam/",
+      "content": "On Wednesday a picture post by climber Nirmal Purja show hundred of people in a winding line up to the top of the mountain . There be clear weather on the mountain for only a very few day , which be when all the climber wait eagerly at the base camp make their attempt to the summit . \u201c There be explanation for the increase in traffic of climber on Mount Everest , \u201d say Danduraj Ghimire , chief of Nepal \u2019 s department of tourism . \u201c The weather condition have force climber to be stack in the base camp for long period of time . READ MORE : Record number of Mount Everest climber prompt safety concern in 2017\nAnother climber , Irishman Seamus Lawless , go miss on May 16 and be presume dead .",
+      "domain": "globalnews.ca",
+      "tokenized": [
+        {
+          "sent": "On Wednesday a picture post by climber Nirmal Purja show hundred of people in a winding line up to the top of the mountain .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "There be clear weather on the mountain for only a very few day , which be when all the climber wait eagerly at the base camp make their attempt to the summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c There be explanation for the increase in traffic of climber on Mount Everest , \u201d say Danduraj Ghimire , chief of Nepal \u2019 s department of tourism .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The weather condition have force climber to be stack in the base camp for long period of time .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "READ MORE : Record number of Mount Everest climber prompt safety concern in 2017\nAnother climber , Irishman Seamus Lawless , go miss on May 16 and be presume dead .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/sections/thetwo-way/2012/05/22/153273513/maybe-everest-needs-a-traffic-cop-at-least-four-climbers-dead",
+      "content": "The weather near the summit of Mount Everest clear , and everyone who have plough up the slope lead to the world 's high peak try to climb to the top at once . Some climber be successful , include the old woman ever to scale Everest . Unidentified mountaineer descend from the summit of Mount Everest over the weekend . Unidentified mountaineer descend from the summit of Mount Everest over the weekend . But while climber wait hour for their turn to go up \u2014 and down \u2014 danger crop up .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "The weather near the summit of Mount Everest clear , and everyone who have plough up the slope lead to the world 's high peak try to climb to the top at once .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some climber be successful , include the old woman ever to scale Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Unidentified mountaineer descend from the summit of Mount Everest over the weekend .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Unidentified mountaineer descend from the summit of Mount Everest over the weekend .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But while climber wait hour for their turn to go up \u2014 and down \u2014 danger crop up .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-nepal-everest/veteran-climbers-skeptical-proposed-rules-for-mount-everest-will-stop-deaths-idUSKBN1YM0DE",
+      "content": "Eleven climber die on Mount Everest this year - nine on the Nepali side and two on the Tibetan side . Reuters ) - Veteran climber of Mount Everest be skeptical that propose new regulation by the Nepalese government to tighten the permit process for adventurer will address the root cause of this year \u2019 s heavy death toll on the world \u2019 s tall peak . \u201c I know several climber who wait until later and have the mountain almost to themselves , \u201d Viesturs say of this year \u2019 s climb season . The overcrowd - which catch worldwide attention when a photograph of a queue of climber step over body to reach the summit go viral - cause fatal delay in the thin air in what be know a the \u201c death zone \u201d above 8,000 metre .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "Eleven climber die on Mount Everest this year - nine on the Nepali side and two on the Tibetan side .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Reuters ) - Veteran climber of Mount Everest be skeptical that propose new regulation by the Nepalese government to tighten the permit process for adventurer will address the root cause of this year \u2019 s heavy death toll on the world \u2019 s tall peak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I know several climber who wait until later and have the mountain almost to themselves , \u201d Viesturs say of this year \u2019 s climb season .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The overcrowd - which catch worldwide attention when a photograph of a queue of climber step over body to reach the summit go viral - cause fatal delay in the thin air in what be know a the \u201c death zone \u201d above 8,000 metre .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bbc.com/news/world-asia-48401491",
+      "content": "# Everest2019\nIn 2012 , another photo , take by German climber Ralf Dujmovits , go viral , a it show what he call a `` conga line '' of mountaineer at Everest . Mr Dujmovits , who reach the Everest Summit in 1992 , and ascend 8,000m ( 26,200 ft ) up the mountain on six other occasion , say that long queue at the summit can be hazardous . Ms Zimmerman ascend Everest from the Tibet side , but deliberately choose to wait an extra day before ascend the summit so it would be less crowd . Many expedition guide stress that reach the top be immensely rewarding - but be physically prepare , and choose the right time to ascend , go a long way towards reduce the risk . Mr Purja 's photo have attract attention around the world - amid the tragic news that seven climber die on Everest in the past week . The picture give a glimpse into the tough condition face climber at the high peak in the world . This be the scene of Khumbu icefall on April 19 , a several climber be on their way up high camp for the first rotation . Andrea Ursina Zimmerman , an expedition guide who reach Everest 's peak in 2016 , say that many `` traffic jam '' be cause by unprepared climber who `` do not have the physical condition '' for the journey . When it 's crowd , `` there can be two line of people - one go up , and one go down the summit , '' he say , add : `` Everyone be hang onto this one rope '' .",
+      "domain": "www.bbc.com",
+      "tokenized": [
+        {
+          "sent": "# Everest2019\nIn 2012 , another photo , take by German climber Ralf Dujmovits , go viral , a it show what he call a `` conga line '' of mountaineer at Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mr Dujmovits , who reach the Everest Summit in 1992 , and ascend 8,000m ( 26,200 ft ) up the mountain on six other occasion , say that long queue at the summit can be hazardous .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Ms Zimmerman ascend Everest from the Tibet side , but deliberately choose to wait an extra day before ascend the summit so it would be less crowd .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Many expedition guide stress that reach the top be immensely rewarding - but be physically prepare , and choose the right time to ascend , go a long way towards reduce the risk .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mr Purja 's photo have attract attention around the world - amid the tragic news that seven climber die on Everest in the past week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The picture give a glimpse into the tough condition face climber at the high peak in the world .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This be the scene of Khumbu icefall on April 19 , a several climber be on their way up high camp for the first rotation .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Andrea Ursina Zimmerman , an expedition guide who reach Everest 's peak in 2016 , say that many `` traffic jam '' be cause by unprepared climber who `` do not have the physical condition '' for the journey .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When it 's crowd , `` there can be two line of people - one go up , and one go down the summit , '' he say , add : `` Everyone be hang onto this one rope '' .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.independent.co.uk/news/world/asia/mount-everest-deaths-traffic-jam-climbers-nepal-china-himalayas-a8927291.html",
+      "content": "Climbers have be stick in a \u201c traffic jam \u201d near the summit of Mount Everest after two climber die near the summit . There be 41 team with a total of 378 climber permit to scale Everest during the spring climb season . Over 200 mountaineer be climb the world \u2019 s high mountain from Nepal and China , but have to line up on their way for more than two hour , the Himalayan Times report .",
+      "domain": "www.independent.co.uk",
+      "tokenized": [
+        {
+          "sent": "Climbers have be stick in a \u201c traffic jam \u201d near the summit of Mount Everest after two climber die near the summit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be 41 team with a total of 378 climber permit to scale Everest during the spring climb season .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Over 200 mountaineer be climb the world \u2019 s high mountain from Nepal and China , but have to line up on their way for more than two hour , the Himalayan Times report .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nationalgeographic.com/adventure/article/everest-season-deaths-controversy-crowding-perpetual-planet",
+      "content": "A photo capture last week by Nepali mountaineer Nirmal Purja Magar show a near continuous line of hundred of climber bottleneck on the summit ridge of Everest\u2014all try to take advantage of a narrow window of good weather . \u201c Frustrating , but mostly boring\u2014not what you expect\u2014to have to stand in line on Everest. Everest typically have 10-15 day of relatively calm weather in May for climber to attempt a summit climb . If the crowd aren \u2019 t directly culpable for kill people , they be unquestionably responsible for increase the risk by necessitate long summit days\u2014indelibly change the dynamic of climb Everest . One of the few elite climber on the Nepal side of Everest this season be German alpinist David Goettler , who attempt to climb the mountain without supplemental oxygen , a style favor by purist but one that increase the possibility of frostbite and altitude sickness and demand perfect condition . Official final number for the 2019 Everest season have yet to come in , but it seem likely that this year will be a record season in term of summiteers . One Everest climber estimate there be about 500-600 transition , which equate to roughly two hour or more , some of which could be save with the simpler process .",
+      "domain": "www.nationalgeographic.com",
+      "tokenized": [
+        {
+          "sent": "A photo capture last week by Nepali mountaineer Nirmal Purja Magar show a near continuous line of hundred of climber bottleneck on the summit ridge of Everest\u2014all try to take advantage of a narrow window of good weather .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Frustrating , but mostly boring\u2014not what you expect\u2014to have to stand in line on Everest.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Everest typically have 10-15 day of relatively calm weather in May for climber to attempt a summit climb .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If the crowd aren \u2019 t directly culpable for kill people , they be unquestionably responsible for increase the risk by necessitate long summit days\u2014indelibly change the dynamic of climb Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One of the few elite climber on the Nepal side of Everest this season be German alpinist David Goettler , who attempt to climb the mountain without supplemental oxygen , a style favor by purist but one that increase the possibility of frostbite and altitude sickness and demand perfect condition .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Official final number for the 2019 Everest season have yet to come in , but it seem likely that this year will be a record season in term of summiteers .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One Everest climber estimate there be about 500-600 transition , which equate to roughly two hour or more , some of which could be save with the simpler process .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://weather.com/news/news/2019-05-24-mount-everest-deaths-good-weather-traffic-jams",
+      "content": "Eleven people have die this season on Mount Everest after traffic jam trigger by a window of good weather prompt hundred of climber to attempt the summit . Ang Tsering Sherpa , former president of the Nepal Mountaineering Association , tell AFP the brief weather window to summit this season be narrow , so many team have a long wait to summit . `` She have to wait for a long time to reach the summit and descend , '' Thupden Sherpa , of tour organizer Arun Treks tell the Mumbai Mirror . As so often happen on the 29,029-ft. mountain , line that form to reach the summit can cause some climber to reach the peak too late in the day , which make for a potentially deadly descent from the `` death zone '' that lie above 26,247 foot . The Hillary Step be the last major hurdle on the way up the mountain from the Nepal side and be often the scene of a bottleneck because only one climber at a time can ascend or descend the 40-foot steep outcrop .",
+      "domain": "weather.com",
+      "tokenized": [
+        {
+          "sent": "Eleven people have die this season on Mount Everest after traffic jam trigger by a window of good weather prompt hundred of climber to attempt the summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Ang Tsering Sherpa , former president of the Nepal Mountaineering Association , tell AFP the brief weather window to summit this season be narrow , so many team have a long wait to summit .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` She have to wait for a long time to reach the summit and descend , '' Thupden Sherpa , of tour organizer Arun Treks tell the Mumbai Mirror .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As so often happen on the 29,029-ft. mountain , line that form to reach the summit can cause some climber to reach the peak too late in the day , which make for a potentially deadly descent from the `` death zone '' that lie above 26,247 foot .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Hillary Step be the last major hurdle on the way up the mountain from the Nepal side and be often the scene of a bottleneck because only one climber at a time can ascend or descend the 40-foot steep outcrop .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/nepal-everest/more-ropes-to-ease-mt-everest-traffic-jam-idINDEEA2C0BA20140313",
+      "content": "Hundreds of climber from around the world attempt to scale the 8,850-metre ( 29,035 foot ) Everest summit every year , but a 40-foot near vertical wall of rock at about 8,790 metre ( 28,840 foot ) often cause major problem . Exhausted climber have be force to wait there for several hour , await their turn to climb up or come down a single rope , expose to risk of thin air in what be know a the \u201c death zone \u201d . Nepal say it will post army and police personnel at the Everest base camp for climber \u2019 security after a brawl between European mountaineer and local sherpa over rope fixing last year . They will also ensure that the climber don \u2019 t leave garbage on the mountain , another concern on the peak that attract increase number of climber .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "Hundreds of climber from around the world attempt to scale the 8,850-metre ( 29,035 foot ) Everest summit every year , but a 40-foot near vertical wall of rock at about 8,790 metre ( 28,840 foot ) often cause major problem .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Exhausted climber have be force to wait there for several hour , await their turn to climb up or come down a single rope , expose to risk of thin air in what be know a the \u201c death zone \u201d .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Nepal say it will post army and police personnel at the Everest base camp for climber \u2019 security after a brawl between European mountaineer and local sherpa over rope fixing last year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They will also ensure that the climber don \u2019 t leave garbage on the mountain , another concern on the peak that attract increase number of climber .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wbur.org/onlyagame/2013/06/01/mount-everest-traffic",
+      "content": "And since then we have many people that be n't necessarily climber that have this desire to climb Everest .",
+      "domain": "www.wbur.org",
+      "tokenized": [
+        {
+          "sent": "And since then we have many people that be n't necessarily climber that have this desire to climb Everest .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.scmp.com/sport/outdoor/extreme-sports/article/3013809/everest-traffic-jams-mountaineer-gives-first-person",
+      "content": "\u201d\nDeryan spend two month on Everest and be incense by Chinese climber leave a lot of trash at the high camp . Deryan have previously summit Aconcagua , Denali , Elbrus , and Kilimanjaro and spent month train for Everest . \u201c The Chinese climber trash Everest in Nepal while the Chinese government restrict the number of climber on the Tibetan side of Mount Everest for this reason \u2013 to protect the environment .",
+      "domain": "www.scmp.com",
+      "tokenized": [
+        {
+          "sent": "\u201d\nDeryan spend two month on Everest and be incense by Chinese climber leave a lot of trash at the high camp .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Deryan have previously summit Aconcagua , Denali , Elbrus , and Kilimanjaro and spent month train for Everest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The Chinese climber trash Everest in Nepal while the Chinese government restrict the number of climber on the Tibetan side of Mount Everest for this reason \u2013 to protect the environment .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.frieze.com/article/viral-photograph-mount-everests-traffic-jam",
+      "content": "You imagine yourself , after a two-month long trek , wait in a queue long than your local accident and emergency department . Nirmal Purja \u2019 s viral photograph take on 22 May show hundred of people wait in line to see a once-in-a-lifetime panorama beget a kind of dizzy feeling ; a blend of shock , curiosity and unease .",
+      "domain": "www.frieze.com",
+      "tokenized": [
+        {
+          "sent": "You imagine yourself , after a two-month long trek , wait in a queue long than your local accident and emergency department .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Nirmal Purja \u2019 s viral photograph take on 22 May show hundred of people wait in line to see a once-in-a-lifetime panorama beget a kind of dizzy feeling ; a blend of shock , curiosity and unease .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

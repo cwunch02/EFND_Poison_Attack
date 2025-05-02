@@ -1,0 +1,851 @@
+{
+  "event_id": "143061",
+  "claim": "The Westmoreland News ran a KKK ad on the front page of their newspaper in April 2018.",
+  "original_label": "mixture",
+  "label": "half",
+  "explain": "On 25 April 2018, the front page story of Virginia\u2019s  the disturbing occurrence of KKK recruitment flyers in front home homes in Colonial Beach, VA:The random distribution of recruitment flyers placed in plastic bags (usually including some grains of white rice as a symbol of white supremacy) is , and has been for decades, the   the violent hate group has  .In a move that has generated significant online controversy, the  reproduced a full, un-redacted version of that ad in their story, leading some to brand it has free advertising for the KKK. As  by and local CBS affiliate WTVR, many readers of the paper were outraged:Local law enforcement \u2014 who provided the newspaper with a copy of the ad \u2014 also  to its uncensored inclusion in the paper, which included phone numbers and contact info for how to join the group:While the ad was reproduced in full, The  did post a disclaimer on the story with this text:Decisions on how to report the occurrence of KKK flyers in the media have not been made consistently in the past. When the  reported on the appearance of KKK flyers in their region in , the newspaper redacted the group\u2019s contact information. Richmond, Virginia\u2019s  and Ohio\u2019s both ran partial photograph of flyers found in their respective regions, and those images did not include any recruitment contact info. In , however, the Huffington Post used a photograph of a KKK flyer found in British Columbia that included the contact info.In each of those cases, it should be noted, the flyer was reproduced as an obvious photograph of a paper document. The front page  used by the  however, could be confused for a paid advertisement.Because that was not the case here, however, we rank the claim that the newspaper \u201cran an ad\u201d for the KKK as a mixture.",
+  "reports": [
+    {
+      "link": "https://www.theroot.com/virginia-newspaper-runs-kkk-flyer-on-its-front-page-ang-1825621912",
+      "content": "On Thursday , one Virginia newspaper , the Westmoreland News , supposedly try to do the right thing , run a full-throated recruitment ad for the Ku Klux Klan on it front page , complete with disgust thing the \u201c Negro \u201d should \u201c apologize for \u201d and the telephone number to a national KKK hotline . The Westmoreland News also note that the anti-black ad be place in plastic baggies on lawn , begin in the middle of April . The newspaper report that KKK recruitment flyer and DVDs be start to surface in the small town of Colonial Beach , Va . Newsweek report that there be call for boycott on the paper \u2019 s official Facebook page , say that the story be essentially free advertising for the murderous hate group .",
+      "domain": "www.theroot.com",
+      "tokenized": [
+        {
+          "sent": "On Thursday , one Virginia newspaper , the Westmoreland News , supposedly try to do the right thing , run a full-throated recruitment ad for the Ku Klux Klan on it front page , complete with disgust thing the \u201c Negro \u201d should \u201c apologize for \u201d and the telephone number to a national KKK hotline .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Westmoreland News also note that the anti-black ad be place in plastic baggies on lawn , begin in the middle of April .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The newspaper report that KKK recruitment flyer and DVDs be start to surface in the small town of Colonial Beach , Va .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Newsweek report that there be call for boycott on the paper \u2019 s official Facebook page , say that the story be essentially free advertising for the murderous hate group .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.newsweek.com/virginia-newspaper-runs-kkk-recruitment-flyer-full-its-front-page-904030",
+      "content": "A Virginia newspaper have come under fire from it reader after it run a Ku Klux Klan recruitment flyer in full on it front page in late April . The Westmoreland News run a story on how KKK recruitment flyer and DVDs have start appear in the town of Colonial Beach , Virginia . The Westmoreland News do distance themselves from the hate-group by also run a disclaimer on the front page stating : `` Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK . '' However , the paper decide to include a copy of the recruitment flyer , which include racist and anti-Semitic language , in full on the front page to illustrate it story . `` There be no problem with make the local aware of the event surround these advertisement , but submit a free advertisement on the front page be unacceptable . '' ``\nColonial Beach Police Chief Danny Plott be also unhappy with the paper after admit he be the one who hand them the flyer to help cover the story , not expect to see it on the front page . `` When I look into a newspaper from my community , I expect to be inform about the happening of my local atmosphere . Them and any other racially biased hate group have no business on the front page of any paper .",
+      "domain": "www.newsweek.com",
+      "tokenized": [
+        {
+          "sent": "A Virginia newspaper have come under fire from it reader after it run a Ku Klux Klan recruitment flyer in full on it front page in late April .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Westmoreland News run a story on how KKK recruitment flyer and DVDs have start appear in the town of Colonial Beach , Virginia .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Westmoreland News do distance themselves from the hate-group by also run a disclaimer on the front page stating : `` Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , the paper decide to include a copy of the recruitment flyer , which include racist and anti-Semitic language , in full on the front page to illustrate it story .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` There be no problem with make the local aware of the event surround these advertisement , but submit a free advertisement on the front page be unacceptable . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "``\nColonial Beach Police Chief Danny Plott be also unhappy with the paper after admit he be the one who hand them the flyer to help cover the story , not expect to see it on the front page .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` When I look into a newspaper from my community , I expect to be inform about the happening of my local atmosphere .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Them and any other racially biased hate group have no business on the front page of any paper .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.newsweek.com/westmoreland-news-kkk-apology-ku-klux-klan-flyer-recruitment-propaganda-909832",
+      "content": "Westmoreland News , a small paper serve a community of 17,000 people in Westmoreland County , Virginia and Colonial Beach , run an April 25 article about the Loyal White Knights of the KKK drop recruitment flyer at area home . The newspaper 's editor attempt to distance the publication from the hate group by run a disclaimer above the article that read , `` Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK . '' The article itself quote the police chief speak out against the KKK organization but resident be anger by the page 's design , which look like a large Klan advertisement . Hundreds of comment vow to cancel subscription and pull advertising litter the Westmoreland News Facebook page . A Virginia newspaper issue an apology for publish an entire front-page photo of a Ku Klux Klan propaganda flyer that be be distribute in the community .",
+      "domain": "www.newsweek.com",
+      "tokenized": [
+        {
+          "sent": "Westmoreland News , a small paper serve a community of 17,000 people in Westmoreland County , Virginia and Colonial Beach , run an April 25 article about the Loyal White Knights of the KKK drop recruitment flyer at area home .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The newspaper 's editor attempt to distance the publication from the hate group by run a disclaimer above the article that read , `` Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The article itself quote the police chief speak out against the KKK organization but resident be anger by the page 's design , which look like a large Klan advertisement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hundreds of comment vow to cancel subscription and pull advertising litter the Westmoreland News Facebook page .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A Virginia newspaper issue an apology for publish an entire front-page photo of a Ku Klux Klan propaganda flyer that be be distribute in the community .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbs17.com/news/south/residents-police-chief-outraged-after-virginia-paper-publishes-kkk-recruitment-flyer/",
+      "content": "A Virginia newspaper be under fire by resident of Westmoreland County after publish a Ku Klux Klan recruitment flyer on it front page . Along with the article , the paper publish a large image of the flyer , which appear next to the article on the front page . Residents be outrage , say the page \u2019 s design look like an advertisement for the KKK . Colonial Beach Police Chief Danny Plott admit he \u2019 s the one who give a copy of the flyer to the newspaper to help with the story , but say he never expect it would be publish .",
+      "domain": "www.cbs17.com",
+      "tokenized": [
+        {
+          "sent": "A Virginia newspaper be under fire by resident of Westmoreland County after publish a Ku Klux Klan recruitment flyer on it front page .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Along with the article , the paper publish a large image of the flyer , which appear next to the article on the front page .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Residents be outrage , say the page \u2019 s design look like an advertisement for the KKK .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Colonial Beach Police Chief Danny Plott admit he \u2019 s the one who give a copy of the flyer to the newspaper to help with the story , but say he never expect it would be publish .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://in.news.yahoo.com/virginia-newspaper-runs-kkk-recruitment-140017608.html",
+      "content": "The Westmoreland News run a story on how KKK recruitment flyer and DVDs have start appear in the town of Colonial Beach , Virginia . The Westmoreland News do distance themselves from the hate-group by also run a disclaimer on the front page stating : \u201c Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK . A Virginia newspaper have come under fire from it reader after it run a Klu Klux Klan recruitment flyer in full on it front page . However , the paper decide to include a copy of the recruitment flyer , which include racist and anti-Semitic language , in full on the front page to illustrate it story . \u201c There be no problem with make the local aware of the event surround these advertisement , but submit a free advertisement on the front page be unacceptable . \u201d\nColonial Beach Police Chief Danny Plott be also unhappy with the paper after admit he be the one who hand them the flyer to help cover the story , not expect to see it on the front page . \u201c When I look into a newspaper from my community , I expect to be inform about the happening of my local atmosphere . Them and any other racially biased hate group have no business on the front page of any paper .",
+      "domain": "in.news.yahoo.com",
+      "tokenized": [
+        {
+          "sent": "The Westmoreland News run a story on how KKK recruitment flyer and DVDs have start appear in the town of Colonial Beach , Virginia .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Westmoreland News do distance themselves from the hate-group by also run a disclaimer on the front page stating : \u201c Westmoreland News in no way condones or support the content or message of this flyer , nor do it condone or support any branch of the Loyal White Knights , or the KKK .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A Virginia newspaper have come under fire from it reader after it run a Klu Klux Klan recruitment flyer in full on it front page .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , the paper decide to include a copy of the recruitment flyer , which include racist and anti-Semitic language , in full on the front page to illustrate it story .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201c There be no problem with make the local aware of the event surround these advertisement , but submit a free advertisement on the front page be unacceptable .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nColonial Beach Police Chief Danny Plott be also unhappy with the paper after admit he be the one who hand them the flyer to help cover the story , not expect to see it on the front page .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c When I look into a newspaper from my community , I expect to be inform about the happening of my local atmosphere .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Them and any other racially biased hate group have no business on the front page of any paper .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        }
+      ]
+    },
+    {
+      "link": "https://www.wtvr.com/2018/04/26/community-shocked-after-local-paper-publishes-kkk-recruitment-flyer/",
+      "content": "WESTMORELAND COUNTY , Va. -- Those who live in Colonial Beach cherish the area for it tranquility , but a recent KKK flyer print on the front page of a local newspaper , be cause contention . It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident . The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+      "domain": "www.wtvr.com",
+      "tokenized": [
+        {
+          "sent": "WESTMORELAND COUNTY , Va. -- Those who live in Colonial Beach cherish the area for it tranquility , but a recent KKK flyer print on the front page of a local newspaper , be cause contention .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.timesleader.com/news/379066/kkk-flier-newspaper-cover-draw-ire",
+      "content": "But he also wasn \u2019 t happy to see \u201c The KKK want you \u201d and a hooded Klan member on the front page of a newspaper . Singleton say he , along with representative of the area \u2019 s Latino and Jewish community , have discuss the issue with the newspaper . The number on the flier also appear in two recent Craigslist ad recruit for a \u201c pro-white \u201d group in the area , include link to a website which maintain that the group \u2019 s intention be \u201c not malicious . The photo and print headline also draw vocal criticism online at the Citizens \u2019 Voice Facebook page .",
+      "domain": "www.timesleader.com",
+      "tokenized": [
+        {
+          "sent": "But he also wasn \u2019 t happy to see \u201c The KKK want you \u201d and a hooded Klan member on the front page of a newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Singleton say he , along with representative of the area \u2019 s Latino and Jewish community , have discuss the issue with the newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The number on the flier also appear in two recent Craigslist ad recruit for a \u201c pro-white \u201d group in the area , include link to a website which maintain that the group \u2019 s intention be \u201c not malicious .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The photo and print headline also draw vocal criticism online at the Citizens \u2019 Voice Facebook page .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/world/2018/mar/05/ku-klux-klan-kkk-media-debate",
+      "content": "In 1921 , the New York World run a three-week front page expos\u00e9 of the Klan : daily denunciation of it ideology , of it activity , of it hooded secrecy , and it propensity to violence . The national Klan leadership create their own national newspaper syndicate call the Kourier , with a K , which , by the beginning of 1925 , claim a circulation of over one and a half million reader . You \u2019 ve be describe an ascendant organization run it own newspaper and explosion in membership . In the 1920s , the membership of the Ku Klux Klan explode nationwide , thanks in part to it coverage in the news medium . One newspaper expos\u00e9 be estimate to have help the Klan gain hundred of thousand of member . So they set up their own press photographer and then sell those photo to the local newspaper . They know that picture of the Klan \u2013 clear , closeup picture \u2013 be very desirable for a lot of newspaper . So newspaper look back and they saw their Pulitzer prize-winning investigation and they ignore the fact that coverage have in fact grown the Klan \u2019 s membership . It make for striking image on the front page of paper . There be a crusade in newspaper through the 20 , who take bold stance against the Klan , even if those bold stance ultimately be not very effective in combat it . What kind of national story would run in a Klan paper ? It be syndicate to 17 other newspaper and spark similar expos\u00e9s around the country . Catholic , Jewish and black newspaper push back . It be a really valuable form of propaganda to effectively replace exist source of news with this publication that use local news but also bring a national news and present all of it through this Klannish ideological lens . You see very widely circulate advertisement claim , \u201c This be the truth about the Klan .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "In 1921 , the New York World run a three-week front page expos\u00e9 of the Klan : daily denunciation of it ideology , of it activity , of it hooded secrecy , and it propensity to violence .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The national Klan leadership create their own national newspaper syndicate call the Kourier , with a K , which , by the beginning of 1925 , claim a circulation of over one and a half million reader .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "You \u2019 ve be describe an ascendant organization run it own newspaper and explosion in membership .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the 1920s , the membership of the Ku Klux Klan explode nationwide , thanks in part to it coverage in the news medium .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One newspaper expos\u00e9 be estimate to have help the Klan gain hundred of thousand of member .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So they set up their own press photographer and then sell those photo to the local newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They know that picture of the Klan \u2013 clear , closeup picture \u2013 be very desirable for a lot of newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So newspaper look back and they saw their Pulitzer prize-winning investigation and they ignore the fact that coverage have in fact grown the Klan \u2019 s membership .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It make for striking image on the front page of paper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be a crusade in newspaper through the 20 , who take bold stance against the Klan , even if those bold stance ultimately be not very effective in combat it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "What kind of national story would run in a Klan paper ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be syndicate to 17 other newspaper and spark similar expos\u00e9s around the country .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Catholic , Jewish and black newspaper push back .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be a really valuable form of propaganda to effectively replace exist source of news with this publication that use local news but also bring a national news and present all of it through this Klannish ideological lens .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "You see very widely circulate advertisement claim , \u201c This be the truth about the Klan .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/sections/codeswitch/2017/08/19/543968997/tracing-the-dark-origins-of-charlottesvilles-kkk",
+      "content": "The front page of The Daily Progress , Charlottesville 's local paper , on June 28 , 1921 , offer a mix of local minutia fold in with large news . And the newspaper be use a a tool to recruit more Klan member . The Klansmen attach a note with the donation , the newspaper report : `` Filled with the deep devotion to the university a an institution which inculcate virtue and foster pure American patriotism . '' Take , for example , the Charlottesville KKK 's relationship with the University of Virginia when the local Klan begin in 1921 . Though it be n't clear whether the editor of the newspaper be a part of the Klan , the newspaper describe it own founder , James H. Lindsay , in 1901 a be of the `` opinion that the education of the negro rather unfit him for the practical duty to which be call to his sphere . ''",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "The front page of The Daily Progress , Charlottesville 's local paper , on June 28 , 1921 , offer a mix of local minutia fold in with large news .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And the newspaper be use a a tool to recruit more Klan member .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Klansmen attach a note with the donation , the newspaper report : `` Filled with the deep devotion to the university a an institution which inculcate virtue and foster pure American patriotism . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Take , for example , the Charlottesville KKK 's relationship with the University of Virginia when the local Klan begin in 1921 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Though it be n't clear whether the editor of the newspaper be a part of the Klan , the newspaper describe it own founder , James H. Lindsay , in 1901 a be of the `` opinion that the education of the negro rather unfit him for the practical duty to which be call to his sphere . ''",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "http://projects.commercialappeal.com/history/",
+      "content": "The newspaper trace it origin to April 21 , 1841 , when Col. Henry Van Pelt 's first weekly issue of The Appeal appear . Assassin James Earl Ray leave a copy of the April 4 edition , with his fingerprint on the front page , among a bundle he ditch during his escape immediately after fire the fatal shot . Former University of Memphis basketball coach John Calipari find the newspaper worth look at only `` when I run over it back out of the driveway . '' And the paper 's front page and special edition on the singer 's death become such collector 's item that within two month the paper be able to make a $ 25,000 donation to the United Way from proceeds from their sale . Mississippi-born Turner Catledge , whose reporting have prompt the KKK to burn down his previous newspaper in Tupelo , arrive in Memphis and train his investigative sight on the Crump machine . Thomas Harrison Baker , author of a history of The Commercial Appeal , write that the paper provide the steamboat free ad \u2014 call `` puff '' \u2014 in exchange for their delivery of bundle of newspaper from Cincinnati , Louisville and New Orleans , which be leave in a box nail to a post at the river landing . 1960s - It be a newspaper , after all , that after 40 year still run a daily cartoon feature an insulting caricature of an African-American name `` Hambone '' even a black striker walk the city 's street wear sign attest that `` I Am a Man . '' It be a newspaper , after all , that after 40 year still run a daily cartoon feature an insulting caricature of an African-American name `` Hambone '' even a black striker walk the city 's street wear sign attest that `` I Am a Man . '' Less than a half-century earlier , during the early 1920s , this same newspaper boldly crusade against the Ku Klux Klan a the terror group ride to nationwide prominence on a wave of nativist and racist hatred . The Columbia Journalism Review give The CA a `` dart '' condemn what it describe a the paper 's fawning coverage of the visit , which include a large portrait of Bush on the front page . The Columbia Journalism Review give The CA a `` dart '' condemn what it describe a the paper 's fawning coverage of the visit , which include a large portrait of Bush on the front page . Judges cite the newspaper 's `` courageous attitude in the publication of cartoon and the handling of news in reference to the operation of the Ku Klux Klan . '' In return for the money , the newspaper run editorial denounce the bond , reduce their value , and , in effect , help the railroad defraud the state . Through article chronicle the KKK 's violence , and editorial cartoon condemn it bigotry , The Commercial Appeal help blunt the Klan 's power . The Commercial Appeal file\nAt the time , the newspaper be boom . Financial pressure might help explain an episode in the 1870s , when The Appeal accept what Baker , the author of a history of the newspaper , call a `` bribe '' of $ 7,000 from railroad magnate who owe the state money for bond issue under the widely despise Reconstruction-era Gov . Lance Murphey/The Commercial Appeal file\n1951 - The newspaper over the year share some of it largesse with the community . The CA launch it website in the mid-1990s , but competition from digital advertising and other news source begin erode newspaper revenue like no other technological advance \u2014 include radio and TV \u2014 ever do . But the FBI find at least one reporter at the newspaper still receptive to use information supply by agent to discredit the Invaders and the Black Knights , identify a local militant group . During the period before the Civil War , the paper 's column be thick with ad for steamboat travel , patent medicine , carriage and farm implement . In the daily cartoon , Hambone \u2014 whom the newspaper , in a 1940 book commemorate it 100th anniversary , have call a `` philosophical Southern darkey '' \u2014 utter humorous platitude in a parody of black dialect . In the daily cartoon , Hambone \u2014 whom the newspaper , in a 1940 book commemorate it 100th anniversary , have call a `` philosophical Southern darkey '' \u2014 utter platitude in a parody of black dialect . 2015 - The newspaper invest nearly a year of reporting time to explore and explain Memphis ' long-building financial problem for a series \u2014 `` Our Financial Mess '' \u2014 name by the Society of American Business Editors and Writers a the best piece of explanatory journalism in the country that year . Another target of the newspaper be state Sen. John Ford , who dominate Memphis ' legislative delegation for nearly a quarter-century . The newspaper invest nearly a year of reporting time to explore and explain Memphis ' long-building financial problem for a 2015 series \u2014 `` Our Financial Mess '' \u2014 name by the Society of American Business Editors and Writers a the best piece of explanatory journalism in the country that year . And , after she begin publish her research on lynching , The Commercial , a predecessor to The CA , help drive her out of Memphis with an editorial that far incite a mob to storm and destroy her newspaper . The 1920s be a period of maturation and expansion for the newspaper . The newspaper over the decade share some of that largesse with the community . Morris again rejoin the newspaper after James Hammond , a former Arkansas banker who have get rich a an executive for department store in the East , purchase The CA and it evening paper for $ 3 million in 1933 . The CA 's name be `` litter throughout the case law '' regard open record and open meeting in Tennessee , say Lucian Pera , longtime outside counsel to the newspaper . A year later , the paper be under new ownership , again , this time control by the nation 's large publisher of daily newspaper , Gannett . Another investigation by the newspaper result in change that protect recipient of Habitat for Humanity home from predatory lender and business . Between 2005 and 2014 , total print and digital advertising revenue for newspaper fell from $ 49.4 billion to less than $ 19.8 billion , accord to the Newspaper Association of America and the Pew Research Center . That same year , a America 's entry into World War I dominate national news , the major story in Memphis be the murder of a white girl , Antoinette Rappel , and the lynching of her accused killer , a black man name Ell Persons . The Klan 's message of `` 100 Percent Americanism '' \u2014 mean white Protestantism \u2014 resonate so well that the group gain power in many state and even parade in robe in front of the Capitol in Washington . Barely eight week after Elvis ' death , however , the newspaper begin print story that fan of the singer do not cherish . `` The fact be , local newspaper reflect the mood and culture of their community . '' In April , for example , nearly 900,000 different user ( up 31 percent year over year ) on desktop , phone and tablet visit commercialappeal.com . They view more than 7.4 million piece of content , give the newspaper a major slice of a very fragmented Memphis digital medium market . In the year just before and after World War I , the KKK ably exploit resentment and fear generate by the large number of Catholic and Jewish immigrant pour into the country , as well a the continue migration of African-Americans seek good opportunity in the North . The Commercial Appeal Cat Country , an open-air exhibit , be complete in 1993 after the newspaper donate $ 1 million toward the $ 5.4 million cost . The Commercial Appeal Cat Country , an open-air exhibit , be complete in 1993 after the newspaper donate $ 1 million toward the $ 5.4 million cost . For nearly three year , the newspaper would continue to publish , stay one step ahead of the Union force that be so eager to silence the South 's most effective editorial voice . Through it investigative work and role a a daily watchdog , the newspaper also have help secure the public 's access to court and government by sue to inspect record and have legal proceeding open . Financial data disclose a part of an antitrust lawsuit file against The CA by a local shopper publication show that in 1988 , the paper , with a Sunday circulation of nearly 289,000 ( 210,000 daily ) , reap revenue exceed $ 120 million against expense of $ 77 million , result in operate income of $ 43.6 million . The CA 's comprehensive news coverage over the next three day include account from black resident strongly dispute police account of the teenager 's death and told of incident in which African-Americans say they be abuse by officer for no reason . The 1970s be highlight by such event a the 1973 move of brand-new Federal Express from Little Rock to Memphis and the then-Memphis State University 's exhilarate run to the NCAA basketball championship game that year . The newspaper sue the FBI to obtain it record on Ernest Withers \u2014 a famed photographer of the civil right movement who secretly work a an informant \u2014 trigger a legal battle that cost more than $ 100,000 and lead to a landmark ruling in The CA \u2019 s favor . The Commercial Appeal file\nAnother of the newspaper 's promotional program , however , meet with tragedy in May 1939 , when a plane carry a photographer-pilot , a reporter and the young son of Crump crash in Grenada , Mississippi , kill all three . Back in Memphis , George Morris , a newsman who have be name by Mooney to run the new Evening Appeal , take over The CA upon the editor 's death . McEachran , a Memphis native who be editor of the Pittsburgh Press , return to run his hometown paper . Scripps Co. , have already split it highly profitable cable television network from it less-prosperous newspaper division , sell The CA and it other paper to the Milwaukee-based Journal Media Group . In recognition of The CA 's initiative , Bush travel to Memphis on a rainy Nov. 22 , 1989 , to honor the volunteer and the newspaper . In recognition of The CA 's initiative , Bush travel to Memphis on a rainy Nov. 22 , 1989 , to honor the volunteer and the newspaper . But for legion of loyal reader spread across a mostly rural , conservative region from Central Mississippi to the Missouri bootheel , The Commercial Appeal hold a special , hallow status \u2014 a `` Southern newspaper Southerners have swear by for age , '' in the word of a 1956 letter-to-the-editor writer . One of the newspaper 's most noticeable donation help transform the Memphis Zoo . Reporters at several newspaper across the nation help the FBI 's counterintelligence effort against the Black Panther Party and similar group , memo show . 1939 - Another of the newspaper 's promotional program , however , meet with tragedy in May 1939 , when a plane carry a photographer-pilot , a reporter and the young son of Crump crash in Grenada , Mississippi , kill all three . In 1890 , the majority owner of the Appeal purchase the rival Avalanche . Issues from January 1850 show advertisement headline `` MORE NEGROES '' and `` Negroes and Land For Sale . '' In her book `` At the River I Stand , '' author Joan Turner Beifuss ( mother of The CA writer John Beifuss ) say the true failure of the newspaper 's strike coverage extend well beyond it editorial position and even Hambone . In 1926 , after report on voter fraud in the Tennessee Democratic primary , he be beat bloody by supporter of Crump . Whatever new ownership brings , the newspaper that earn the nickname `` Old Reliable '' during the Civil War will be deal with strong economic and technological headwind confront the industry .",
+      "domain": "projects.commercialappeal.com",
+      "tokenized": [
+        {
+          "sent": "The newspaper trace it origin to April 21 , 1841 , when Col. Henry Van Pelt 's first weekly issue of The Appeal appear .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Assassin James Earl Ray leave a copy of the April 4 edition , with his fingerprint on the front page , among a bundle he ditch during his escape immediately after fire the fatal shot .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Former University of Memphis basketball coach John Calipari find the newspaper worth look at only `` when I run over it back out of the driveway . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And the paper 's front page and special edition on the singer 's death become such collector 's item that within two month the paper be able to make a $ 25,000 donation to the United Way from proceeds from their sale .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mississippi-born Turner Catledge , whose reporting have prompt the KKK to burn down his previous newspaper in Tupelo , arrive in Memphis and train his investigative sight on the Crump machine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Thomas Harrison Baker , author of a history of The Commercial Appeal , write that the paper provide the steamboat free ad \u2014 call `` puff '' \u2014 in exchange for their delivery of bundle of newspaper from Cincinnati , Louisville and New Orleans , which be leave in a box nail to a post at the river landing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "1960s - It be a newspaper , after all , that after 40 year still run a daily cartoon feature an insulting caricature of an African-American name `` Hambone '' even a black striker walk the city 's street wear sign attest that `` I Am a Man . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be a newspaper , after all , that after 40 year still run a daily cartoon feature an insulting caricature of an African-American name `` Hambone '' even a black striker walk the city 's street wear sign attest that `` I Am a Man . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Less than a half-century earlier , during the early 1920s , this same newspaper boldly crusade against the Ku Klux Klan a the terror group ride to nationwide prominence on a wave of nativist and racist hatred .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Columbia Journalism Review give The CA a `` dart '' condemn what it describe a the paper 's fawning coverage of the visit , which include a large portrait of Bush on the front page .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Columbia Journalism Review give The CA a `` dart '' condemn what it describe a the paper 's fawning coverage of the visit , which include a large portrait of Bush on the front page .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Judges cite the newspaper 's `` courageous attitude in the publication of cartoon and the handling of news in reference to the operation of the Ku Klux Klan . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In return for the money , the newspaper run editorial denounce the bond , reduce their value , and , in effect , help the railroad defraud the state .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Through article chronicle the KKK 's violence , and editorial cartoon condemn it bigotry , The Commercial Appeal help blunt the Klan 's power .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Commercial Appeal file\nAt the time , the newspaper be boom .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Financial pressure might help explain an episode in the 1870s , when The Appeal accept what Baker , the author of a history of the newspaper , call a `` bribe '' of $ 7,000 from railroad magnate who owe the state money for bond issue under the widely despise Reconstruction-era Gov .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Lance Murphey/The Commercial Appeal file\n1951 - The newspaper over the year share some of it largesse with the community .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The CA launch it website in the mid-1990s , but competition from digital advertising and other news source begin erode newspaper revenue like no other technological advance \u2014 include radio and TV \u2014 ever do .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But the FBI find at least one reporter at the newspaper still receptive to use information supply by agent to discredit the Invaders and the Black Knights , identify a local militant group .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During the period before the Civil War , the paper 's column be thick with ad for steamboat travel , patent medicine , carriage and farm implement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the daily cartoon , Hambone \u2014 whom the newspaper , in a 1940 book commemorate it 100th anniversary , have call a `` philosophical Southern darkey '' \u2014 utter humorous platitude in a parody of black dialect .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the daily cartoon , Hambone \u2014 whom the newspaper , in a 1940 book commemorate it 100th anniversary , have call a `` philosophical Southern darkey '' \u2014 utter platitude in a parody of black dialect .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "2015 - The newspaper invest nearly a year of reporting time to explore and explain Memphis ' long-building financial problem for a series \u2014 `` Our Financial Mess '' \u2014 name by the Society of American Business Editors and Writers a the best piece of explanatory journalism in the country that year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Another target of the newspaper be state Sen. John Ford , who dominate Memphis ' legislative delegation for nearly a quarter-century .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The newspaper invest nearly a year of reporting time to explore and explain Memphis ' long-building financial problem for a 2015 series \u2014 `` Our Financial Mess '' \u2014 name by the Society of American Business Editors and Writers a the best piece of explanatory journalism in the country that year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And , after she begin publish her research on lynching , The Commercial , a predecessor to The CA , help drive her out of Memphis with an editorial that far incite a mob to storm and destroy her newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The 1920s be a period of maturation and expansion for the newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The newspaper over the decade share some of that largesse with the community .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Morris again rejoin the newspaper after James Hammond , a former Arkansas banker who have get rich a an executive for department store in the East , purchase The CA and it evening paper for $ 3 million in 1933 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The CA 's name be `` litter throughout the case law '' regard open record and open meeting in Tennessee , say Lucian Pera , longtime outside counsel to the newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A year later , the paper be under new ownership , again , this time control by the nation 's large publisher of daily newspaper , Gannett .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Another investigation by the newspaper result in change that protect recipient of Habitat for Humanity home from predatory lender and business .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Between 2005 and 2014 , total print and digital advertising revenue for newspaper fell from $ 49.4 billion to less than $ 19.8 billion , accord to the Newspaper Association of America and the Pew Research Center .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That same year , a America 's entry into World War I dominate national news , the major story in Memphis be the murder of a white girl , Antoinette Rappel , and the lynching of her accused killer , a black man name Ell Persons .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Klan 's message of `` 100 Percent Americanism '' \u2014 mean white Protestantism \u2014 resonate so well that the group gain power in many state and even parade in robe in front of the Capitol in Washington .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Barely eight week after Elvis ' death , however , the newspaper begin print story that fan of the singer do not cherish .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` The fact be , local newspaper reflect the mood and culture of their community . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In April , for example , nearly 900,000 different user ( up 31 percent year over year ) on desktop , phone and tablet visit commercialappeal.com .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They view more than 7.4 million piece of content , give the newspaper a major slice of a very fragmented Memphis digital medium market .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In the year just before and after World War I , the KKK ably exploit resentment and fear generate by the large number of Catholic and Jewish immigrant pour into the country , as well a the continue migration of African-Americans seek good opportunity in the North .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Commercial Appeal Cat Country , an open-air exhibit , be complete in 1993 after the newspaper donate $ 1 million toward the $ 5.4 million cost .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Commercial Appeal Cat Country , an open-air exhibit , be complete in 1993 after the newspaper donate $ 1 million toward the $ 5.4 million cost .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For nearly three year , the newspaper would continue to publish , stay one step ahead of the Union force that be so eager to silence the South 's most effective editorial voice .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Through it investigative work and role a a daily watchdog , the newspaper also have help secure the public 's access to court and government by sue to inspect record and have legal proceeding open .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Financial data disclose a part of an antitrust lawsuit file against The CA by a local shopper publication show that in 1988 , the paper , with a Sunday circulation of nearly 289,000 ( 210,000 daily ) , reap revenue exceed $ 120 million against expense of $ 77 million , result in operate income of $ 43.6 million .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The CA 's comprehensive news coverage over the next three day include account from black resident strongly dispute police account of the teenager 's death and told of incident in which African-Americans say they be abuse by officer for no reason .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The 1970s be highlight by such event a the 1973 move of brand-new Federal Express from Little Rock to Memphis and the then-Memphis State University 's exhilarate run to the NCAA basketball championship game that year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The newspaper sue the FBI to obtain it record on Ernest Withers \u2014 a famed photographer of the civil right movement who secretly work a an informant \u2014 trigger a legal battle that cost more than $ 100,000 and lead to a landmark ruling in The CA \u2019 s favor .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Commercial Appeal file\nAnother of the newspaper 's promotional program , however , meet with tragedy in May 1939 , when a plane carry a photographer-pilot , a reporter and the young son of Crump crash in Grenada , Mississippi , kill all three .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Back in Memphis , George Morris , a newsman who have be name by Mooney to run the new Evening Appeal , take over The CA upon the editor 's death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "McEachran , a Memphis native who be editor of the Pittsburgh Press , return to run his hometown paper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Scripps Co. , have already split it highly profitable cable television network from it less-prosperous newspaper division , sell The CA and it other paper to the Milwaukee-based Journal Media Group .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In recognition of The CA 's initiative , Bush travel to Memphis on a rainy Nov. 22 , 1989 , to honor the volunteer and the newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In recognition of The CA 's initiative , Bush travel to Memphis on a rainy Nov. 22 , 1989 , to honor the volunteer and the newspaper .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But for legion of loyal reader spread across a mostly rural , conservative region from Central Mississippi to the Missouri bootheel , The Commercial Appeal hold a special , hallow status \u2014 a `` Southern newspaper Southerners have swear by for age , '' in the word of a 1956 letter-to-the-editor writer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One of the newspaper 's most noticeable donation help transform the Memphis Zoo .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Reporters at several newspaper across the nation help the FBI 's counterintelligence effort against the Black Panther Party and similar group , memo show .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "1939 - Another of the newspaper 's promotional program , however , meet with tragedy in May 1939 , when a plane carry a photographer-pilot , a reporter and the young son of Crump crash in Grenada , Mississippi , kill all three .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 1890 , the majority owner of the Appeal purchase the rival Avalanche .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Issues from January 1850 show advertisement headline `` MORE NEGROES '' and `` Negroes and Land For Sale . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In her book `` At the River I Stand , '' author Joan Turner Beifuss ( mother of The CA writer John Beifuss ) say the true failure of the newspaper 's strike coverage extend well beyond it editorial position and even Hambone .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 1926 , after report on voter fraud in the Tennessee Democratic primary , he be beat bloody by supporter of Crump .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Whatever new ownership brings , the newspaper that earn the nickname `` Old Reliable '' during the Civil War will be deal with strong economic and technological headwind confront the industry .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.chesterfieldobserver.com/articles/kkk-pamphlets-distributed-in-woodlake/",
+      "content": "Asked if there have be any similar incident recently in Chesterfield , Caroon say police receive a call on March 3 of KKK paperwork that have be find a week earlier in the front yard of a home in the 5600 block of River Road . A resident in Woodlake find this KKK flyer , place in a plastic bag with candy , on her front porch last week . According to the Southern Poverty Law Center \u2019 s virtual \u201c Flyering Map , \u201d Virginia saw 133 incident of flyer and banner from radical right group in 2019 , include 16 from the KKK . The SPLC , a nonprofit legal advocacy organization , compile the map use information from social medium platform , news article and tip receive by the nonprofit .",
+      "domain": "www.chesterfieldobserver.com",
+      "tokenized": [
+        {
+          "sent": "Asked if there have be any similar incident recently in Chesterfield , Caroon say police receive a call on March 3 of KKK paperwork that have be find a week earlier in the front yard of a home in the 5600 block of River Road .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A resident in Woodlake find this KKK flyer , place in a plastic bag with candy , on her front porch last week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the Southern Poverty Law Center \u2019 s virtual \u201c Flyering Map , \u201d Virginia saw 133 incident of flyer and banner from radical right group in 2019 , include 16 from the KKK .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The SPLC , a nonprofit legal advocacy organization , compile the map use information from social medium platform , news article and tip receive by the nonprofit .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://slate.com/news-and-politics/2016/02/watch-trump-stare-down-a-protester-wearing-a-kkk-endorses-trump-shirt.html",
+      "content": "Today 's front page ... Former KKK leader endorse @ realDonaldTrump for president",
+      "domain": "slate.com",
+      "tokenized": [
+        {
+          "sent": "Today 's front page ... Former KKK leader endorse @ realDonaldTrump for president",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thehill.com/blogs/ballot-box/presidential-races/303903-kkk-newspaper-embraces-trump-in-front-page-article",
+      "content": "`` The Crusader '' be the official newspaper of the KKK . The Ku Klux Klan recently offer praise for Donald TrumpDonald TrumpBiden should look to 'Ostpolitik ' to negotiate with autocrat The Memo : Biden 's bet on tax Why some Republicans think vaccine passport will backfire on Democrats MORE , laud the GOP presidential nominee 's pledge to `` make America great again '' in a front-page newspaper article .",
+      "domain": "thehill.com",
+      "tokenized": [
+        {
+          "sent": "`` The Crusader '' be the official newspaper of the KKK .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Ku Klux Klan recently offer praise for Donald TrumpDonald TrumpBiden should look to 'Ostpolitik ' to negotiate with autocrat The Memo : Biden 's bet on tax Why some Republicans think vaccine passport will backfire on Democrats MORE , laud the GOP presidential nominee 's pledge to `` make America great again '' in a front-page newspaper article .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wnep.com/article/news/local/bradford-county/kkk-recruitment-ad-in-local-virginia-newspaper-shocks-community/523-d38368be-5ce4-4332-86ba-b2c5f9789b43",
+      "content": "WESTMORELAND COUNTY , Va. \u2013 Furious over after see a Ku Klux Klan ad in their local newspaper , some resident in a Virginia town be call the police and speak out , accord to WTVR . It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident . The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+      "domain": "www.wnep.com",
+      "tokenized": [
+        {
+          "sent": "WESTMORELAND COUNTY , Va. \u2013 Furious over after see a Ku Klux Klan ad in their local newspaper , some resident in a Virginia town be call the police and speak out , accord to WTVR .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://wgntv.com/news/kkk-recruitment-ad-in-local-virginia-newspaper-shocks-community/",
+      "content": "WESTMORELAND COUNTY , Va. \u2013 Furious over after see a Ku Klux Klan ad in their local newspaper , some resident in a Virginia town be call the police and speak out , accord to WTVR . It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident . The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+      "domain": "wgntv.com",
+      "tokenized": [
+        {
+          "sent": "WESTMORELAND COUNTY , Va. \u2013 Furious over after see a Ku Klux Klan ad in their local newspaper , some resident in a Virginia town be call the police and speak out , accord to WTVR .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "It \u2019 s on the front page of the newspaper for everybody to see , \u201d add the resident .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The paper \u2019 s editor add this disclaimer on the page :\n\u201c At this point , the flyer doesn \u2019 t even matter .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sandiegouniontribune.com/news/150-years/sd-me-150-years-march-16-htmlstory.html",
+      "content": "The San Diego Union-Tribune will mark it 150th anniversary in 2018 by present a significant front page from the archive each day throughout the year . \u201d\nView anniversary front page online at -years . Get top headline from the Union-Tribune in your inbox weekday morning , include top news , local , sport , business , entertainment and opinion .",
+      "domain": "www.sandiegouniontribune.com",
+      "tokenized": [
+        {
+          "sent": "The San Diego Union-Tribune will mark it 150th anniversary in 2018 by present a significant front page from the archive each day throughout the year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nView anniversary front page online at -years .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Get top headline from the Union-Tribune in your inbox weekday morning , include top news , local , sport , business , entertainment and opinion .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://billingsgazette.com/news/local/the-kkk-burned-crosses-in-montana-in-the-1920s/article_d949abfb-1b76-5a6d-b232-18cdbeaaaf13.html",
+      "content": "In that same Gazette , on the front page , be a story headline , \u201c Tar and Feather Victim Sues Klan for $ 150,000 . The ad proclaim , \u201c We be not an ANTI-ORGANIZATON in any sense , just PRO-AMERICAN , that be all . Get up-to-the-minute news send straight to your device . \u201d\nHistory be break news last week in Montana .",
+      "domain": "billingsgazette.com",
+      "tokenized": [
+        {
+          "sent": "In that same Gazette , on the front page , be a story headline , \u201c Tar and Feather Victim Sues Klan for $ 150,000 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The ad proclaim , \u201c We be not an ANTI-ORGANIZATON in any sense , just PRO-AMERICAN , that be all .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Get up-to-the-minute news send straight to your device .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nHistory be break news last week in Montana .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.alreporter.com/2019/04/02/editor-who-wrote-kkk-editorial-says-he-sold-his-paper-one-of-the-new-owners-has-klan-ties/",
+      "content": "The story publish on the front page of The Democrat-Reporter on March 28 announce the purchase of the paper by Sabrina McMahan and C.T . ( Left ) The photo publish on the front page of The Democrat-Reporter . Posts from the page of \u201c Ty Harless. Harless and Sabrina McMahan a they appear in a photo on the front page of The Democrat-Reporter . \u201d The page be delete over the weekend after the conversation with Harless .",
+      "domain": "www.alreporter.com",
+      "tokenized": [
+        {
+          "sent": "The story publish on the front page of The Democrat-Reporter on March 28 announce the purchase of the paper by Sabrina McMahan and C.T .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "( Left ) The photo publish on the front page of The Democrat-Reporter .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Posts from the page of \u201c Ty Harless.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Harless and Sabrina McMahan a they appear in a photo on the front page of The Democrat-Reporter .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d The page be delete over the weekend after the conversation with Harless .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-usa-election-trump-kkk/ku-klux-klan-newspaper-declares-support-for-trump-idUSKBN12X2IG",
+      "content": "The Crusader , one of the white supremacist group \u2019 s most prominent publication , publish a lengthy endorsement and defense of Trump \u2019 s message on the front page of it current issue under the headline : \u201c Make America Great Again . WASHINGTON ( Reuters ) - A Ku Klux Klan newspaper have declare support for Donald Trump \u2019 s Republican run for U.S. president , say America become great because it be a white , Christian republic .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "The Crusader , one of the white supremacist group \u2019 s most prominent publication , publish a lengthy endorsement and defense of Trump \u2019 s message on the front page of it current issue under the headline : \u201c Make America Great Again .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "WASHINGTON ( Reuters ) - A Ku Klux Klan newspaper have declare support for Donald Trump \u2019 s Republican run for U.S. president , say America become great because it be a white , Christian republic .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/01/the-kkks-official-newspaper-has-endorsed-donald-trump-for-president/",
+      "content": "and have a well-known white supremacist symbol on it front page . Under the banner `` Make America Great Again , '' the entire front page of the paper 's current issue be devote to a lengthy defense of Trump \u2019 s message \u2014 an embrace some have label a de facto endorsement . Those accusation have intensify since Stephen K. Bannon step away from run Breitbart News \u2014 which he have call a `` platform for the alt-right '' \u2014 to become the Trump campaign \u2019 s chief executive . The most important news story of the day , curated by Post editor and deliver every morning . The most important news story of the day , curated by Post editor and deliver every morning . It be call the Crusader \u2014 and it be one of the most prominent newspaper of the Ku Klux Klan . Among the small number of American newspaper that have embrace Donald Trump \u2019 s campaign , there be one , in particular , that stand out .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "and have a well-known white supremacist symbol on it front page .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the banner `` Make America Great Again , '' the entire front page of the paper 's current issue be devote to a lengthy defense of Trump \u2019 s message \u2014 an embrace some have label a de facto endorsement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Those accusation have intensify since Stephen K. Bannon step away from run Breitbart News \u2014 which he have call a `` platform for the alt-right '' \u2014 to become the Trump campaign \u2019 s chief executive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The most important news story of the day , curated by Post editor and deliver every morning .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The most important news story of the day , curated by Post editor and deliver every morning .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It be call the Crusader \u2014 and it be one of the most prominent newspaper of the Ku Klux Klan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Among the small number of American newspaper that have embrace Donald Trump \u2019 s campaign , there be one , in particular , that stand out .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.aaihs.org/the-black-press-and-the-ku-klux-klan/",
+      "content": "\u201d If newspaper simply present reader with coverage without critical comment a news , the Courier warn , then \u201c the end be in plain view , and the fall be but a question of a few years. \u201d In do so , newspaper convey an image of the Klan a an influential and popular \u2013 albeit controversial \u2013 organization.3\nEven if report on the Klan juiced circulation , the \u201c scoop \u201d simply wasn \u2019 t worth it . When such consideration do make it into print , it be far more likely a an endorsement of those ideal than a condemnation.2\nAs an increasingly large segment of the American medium have realize by 1922 , newspaper could cover the Klan without take a strong position on it . \u201d The supposedly Invisible Empire assiduously court the publicity and work to woo newspaper wherever possible with the promise of scoop and exclusive access.4\nThe central issue , then , be not necessarily whether or not to cover the Klan . As many major white newspaper embrace the commercial value of breathless front-page accounting of Klan rally and parade , condemnation coexist and often comingled with fascination , implicit endorsement , and even admiration .",
+      "domain": "www.aaihs.org",
+      "tokenized": [
+        {
+          "sent": "\u201d If newspaper simply present reader with coverage without critical comment a news , the Courier warn , then \u201c the end be in plain view , and the fall be but a question of a few years.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d In do so , newspaper convey an image of the Klan a an influential and popular \u2013 albeit controversial \u2013 organization.3\nEven if report on the Klan juiced circulation , the \u201c scoop \u201d simply wasn \u2019 t worth it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When such consideration do make it into print , it be far more likely a an endorsement of those ideal than a condemnation.2\nAs an increasingly large segment of the American medium have realize by 1922 , newspaper could cover the Klan without take a strong position on it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d The supposedly Invisible Empire assiduously court the publicity and work to woo newspaper wherever possible with the promise of scoop and exclusive access.4\nThe central issue , then , be not necessarily whether or not to cover the Klan .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As many major white newspaper embrace the commercial value of breathless front-page accounting of Klan rally and parade , condemnation coexist and often comingled with fascination , implicit endorsement , and even admiration .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/1975/11/24/archives/klan-radio-ads-seek-public-support.html",
+      "content": "Mr. Duke 's Klan , for example , have just open a $ 350 \u2010 a \u2010 month headquarters on the highway outside Baton Rciuge , complete with a red and white 50\u2010foot banner across the front proclaim \u201c Knights of the Ku Klux . A similar indicator be the growth of political support for J.B. Stoner of Marietta , Ga. , head of the National States Rights Party and publisher of the virulently racist newspaper , The Thunderbolt . When Mr. Stoner run for Governor of Georgia in 1970 , he receive 17,600 vote , or 2.2 percent of those cast . In 1972 , run for the Senate , he receive 40,600 vote ; or 5.7 percent . \u201d\nHis organizational ad run on four radio station in Baton Rouge \u2014 he spend over $ 1,000 promote an upcom\u2010 ing rally , discount by 15 percent because he run his own advertising agency\u2014and two small classify ad run continuthisly in two local newspdpers , compete with those run by his rival , Mr. Wilkinson .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "Mr. Duke 's Klan , for example , have just open a $ 350 \u2010 a \u2010 month headquarters on the highway outside Baton Rciuge , complete with a red and white 50\u2010foot banner across the front proclaim \u201c Knights of the Ku Klux .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A similar indicator be the growth of political support for J.B. Stoner of Marietta , Ga. , head of the National States Rights Party and publisher of the virulently racist newspaper , The Thunderbolt .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When Mr. Stoner run for Governor of Georgia in 1970 , he receive 17,600 vote , or 2.2 percent of those cast .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 1972 , run for the Senate , he receive 40,600 vote ; or 5.7 percent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nHis organizational ad run on four radio station in Baton Rouge \u2014 he spend over $ 1,000 promote an upcom\u2010 ing rally , discount by 15 percent because he run his own advertising agency\u2014and two small classify ad run continuthisly in two local newspdpers , compete with those run by his rival , Mr. Wilkinson .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sent-trib.com/news/front_page/county-s-kkk-history-unmasked/article_db62dda0-3452-5459-9c18-17d0b48cee36.html",
+      "content": "Brooks ' research evolve from record available at the university 's Center for Archival Collections , as well a newspaper account . One local minister later run for a seat on the Ohio Senate and win with Klan back .",
+      "domain": "www.sent-trib.com",
+      "tokenized": [
+        {
+          "sent": "Brooks ' research evolve from record available at the university 's Center for Archival Collections , as well a newspaper account .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One local minister later run for a seat on the Ohio Senate and win with Klan back .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

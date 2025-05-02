@@ -1,0 +1,831 @@
+{
+  "event_id": "163870",
+  "claim": "Law enforcement officials said parents should be worried about sexual predators using gaming apps such as Fortnite to groom children.",
+  "original_label": "Mostly True",
+  "label": "true",
+  "explain": "In September 2018, a New Jersey-based law enforcement operation codenamed \u201cOperation Open House\u201d yielded 24 arrests of men alleged to have attempted to groom children for sex using mobile chat apps.The multi-agency sting operation, which involved state, local, and federal law enforcement agencies and hinged upon undercover officers posing online as underage girls and boys, prompted a widely-shared report by the NJ.com news website which carried the headline \u201cPredators are using Fortnite to lure kids. Cops say parents need to worry\u201d:Along with other alarming reports, such as those published by ThatsInappropriate.com and ScaryMommy.com, NJ.com\u2019s article prompted multiple concerned inquiries from readers about the use of gaming apps such as Fortnite by those seeking to groom children for sex. Fortnite was the only app named in the headlines of all three of those articles.In reality, despite its phenomenal popularity, Fortnite was not used by any of the 24 men arrested and charged with attempting to lure children for sex online in New Jersey in September 2018. However, it has been used by other would-be sexual predators in the past, the state Attorney General\u2019s office told us.In an 18 September press release announcing the arrests, the office of Attorney General Gurbir Grewal outlined the basics of Operation Open House and detailed the allegations against the 24 defendants:A spokesperson for Attorney General Grewal confirmed to us by email that the only apps used by the 24 defendants arrested in September 2018 were the chatting apps Kik, Scout, Whisper and, Grindr: \u201cNone of the 24 defendants used the three gaming apps mentioned (Fortnite, Minecraft or Discord). Those were used by defendants in prior cases. The four listed apps were the only ones used. Gmail was used in one case, and other defendants also texted \u2026 \u201dSo Fortnite, which was the focus of several news articles about the Operation Open House arrests, only featured in passing in the Attorney General\u2019s press release, and only in reference to previous grooming investigations and not the one which led to 24 arrests in September 2018:That does not mean parents do not need to be vigilant about their children\u2019s use of gaming apps such as Fortnite and Minecraft. At a press conference announcing the arrests, Grewal highlighted a parental warning produced and shared by his office, which asked parents to become familiar with 19 popular apps,  four of which were used by would-be predators in the context of Operation Open House, and the other 15 in previous cases:According to the New Jersey Attorney General\u2019s office, the gaming apps Fortnite, Minecraft, and Discord are among several apps popular among teenagers and children but also used by would-be sexual predators for the purpose of grooming. Four chatting apps were used by 24 men arrested in September 2018 as part of an undercover sting operation which yielded serious charges including attempted sexual assault.However, Fortnite, Minecraft, and Discord were not used by the 24 men arrested in that particular sweep, despite the fact that several news reports focused heavily on those apps and mentioned only Fortnite in their headlines.",
+  "reports": [
+    {
+      "link": "https://www.hollywoodreporter.com/news/sextortion-fortnite-are-video-games-opening-doors-predators-1230978",
+      "content": "`` As predator have become increasingly sophisticated in their effort to victimize child use technology , we need to ensure that our law enforcement official have the resource that they need . '' `` I be see an increase in sextortion through online game , '' say Shannon Martucci , a child and adolescent forensic interviewer who work closely with FBI agent to combat online predator . In September , in one of the large sting ever relate to online game predation , a multi-agency undercover investigation dub `` Operation Open House '' lead to the arrest of 24 people in New Jersey for allegedly use Fortnite and Minecraft to lure and groom minor for sex . As tech company shift policy to try and ward off call for increased regulation , a YouTube do recently in response to worry over child exploitation , or internet security provider Cloudflare do by remove protection for 8chan after link between the forum and the El Paso shooter be discover , game studio and online game company be beef up security in effort to keep young player safe . `` We [ use to see ] sextortion case on Facebook because that be the medium child be use , '' say Greenberg Glusker partner Priya Sopori , who previously work at the Department of Justice 's Project Safe Childhood initiative , which combat technology-enabled crime against child . Sextortion \u2014 a term the FBI and others use for coerce an unwilling partner into sexual act , especially online \u2014 can take many form , but one common maneuver be for a predator to offer to pay for desirable character costume or add-on , know a skin . The issue for official try to protect minor be that it can be hard to prevent young child from play these online game . In 2017 , to combat grow concern of online predation , the Senate pass the Protect Our Children Act \u2014 reauthorizing a nationwide network of 61 coordinated task force make up of some 3,500 federal , state and local law enforcement and prosecutorial agency work to combat child exploitation . To prevent such encounter , one popular game , Roblox , look for `` player who want other player to go off-platform and on to third-party apps where there may be very little moderation , '' say Remy Malan , the company 's vp trust and safety .",
+      "domain": "www.hollywoodreporter.com",
+      "tokenized": [
+        {
+          "sent": "`` As predator have become increasingly sophisticated in their effort to victimize child use technology , we need to ensure that our law enforcement official have the resource that they need . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` I be see an increase in sextortion through online game , '' say Shannon Martucci , a child and adolescent forensic interviewer who work closely with FBI agent to combat online predator .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In September , in one of the large sting ever relate to online game predation , a multi-agency undercover investigation dub `` Operation Open House '' lead to the arrest of 24 people in New Jersey for allegedly use Fortnite and Minecraft to lure and groom minor for sex .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As tech company shift policy to try and ward off call for increased regulation , a YouTube do recently in response to worry over child exploitation , or internet security provider Cloudflare do by remove protection for 8chan after link between the forum and the El Paso shooter be discover , game studio and online game company be beef up security in effort to keep young player safe .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` We [ use to see ] sextortion case on Facebook because that be the medium child be use , '' say Greenberg Glusker partner Priya Sopori , who previously work at the Department of Justice 's Project Safe Childhood initiative , which combat technology-enabled crime against child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Sextortion \u2014 a term the FBI and others use for coerce an unwilling partner into sexual act , especially online \u2014 can take many form , but one common maneuver be for a predator to offer to pay for desirable character costume or add-on , know a skin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The issue for official try to protect minor be that it can be hard to prevent young child from play these online game .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 2017 , to combat grow concern of online predation , the Senate pass the Protect Our Children Act \u2014 reauthorizing a nationwide network of 61 coordinated task force make up of some 3,500 federal , state and local law enforcement and prosecutorial agency work to combat child exploitation .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "To prevent such encounter , one popular game , Roblox , look for `` player who want other player to go off-platform and on to third-party apps where there may be very little moderation , '' say Remy Malan , the company 's vp trust and safety .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.dailymail.co.uk/news/article-6598919/Warning-parents-predator-grooms-schoolchildren-hit-game-Fortnite.html",
+      "content": "Children be be ask to perform 'inappropriate act ' and be target and groom by online predator through popular online game Fortnite , a school have claim . Ms Haywood add that five local child have be groom but many more have be target by the online predator . In a letter to parent , she write : 'We have be contact by another school in Bodmin regard five of their pupil be groom via the game 'Fortnite ' .",
+      "domain": "www.dailymail.co.uk",
+      "tokenized": [
+        {
+          "sent": "Children be be ask to perform 'inappropriate act ' and be target and groom by online predator through popular online game Fortnite , a school have claim .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Ms Haywood add that five local child have be groom but many more have be target by the online predator .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a letter to parent , she write : 'We have be contact by another school in Bodmin regard five of their pupil be groom via the game 'Fortnite ' .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.innocentlivesfoundation.org/gaming-and-grooming-how-minecraft-and-fortnite-could-be-dangerous/",
+      "content": "There have be multiple report of parent overhear predator try to groom their child through the audio function of the game . Statistic : Age breakdown of video game player in the United States in 2018 | Statista\nWhile most adult play video game for fun , there be a population of predator that exploit the anonymity of screen name and the trusting nature of child to groom and sexually exploit kid . Grooming be when predator insert themselves into the child \u2019 s life by exploit the child \u2019 s vulnerability . Unfortunately , instance where predator groom child online have occur on Minecraft . Online game \u2019 s interactive and community feature provide opportunity for predator to hide their true identity and prey on child . Here be some internet safety rule we encourage you to share with your child :\nParents , if you \u2019 re look for some way to monitor your child far , we recommend :\nAll in all , we felt the need to highlight these particular example because these game be popular outlet with million of user . Stay tune for our next couple of blog post for more information about online groom through social medium , what to do if your loved one be be groom , and how to protect your loved one from online predator . Recently , instance of predator lie about their identity to sexually exploit child have come to light .",
+      "domain": "www.innocentlivesfoundation.org",
+      "tokenized": [
+        {
+          "sent": "There have be multiple report of parent overhear predator try to groom their child through the audio function of the game .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Statistic : Age breakdown of video game player in the United States in 2018 | Statista\nWhile most adult play video game for fun , there be a population of predator that exploit the anonymity of screen name and the trusting nature of child to groom and sexually exploit kid .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Grooming be when predator insert themselves into the child \u2019 s life by exploit the child \u2019 s vulnerability .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Unfortunately , instance where predator groom child online have occur on Minecraft .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Online game \u2019 s interactive and community feature provide opportunity for predator to hide their true identity and prey on child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be some internet safety rule we encourage you to share with your child :\nParents , if you \u2019 re look for some way to monitor your child far , we recommend :\nAll in all , we felt the need to highlight these particular example because these game be popular outlet with million of user .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Stay tune for our next couple of blog post for more information about online groom through social medium , what to do if your loved one be be groom , and how to protect your loved one from online predator .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Recently , instance of predator lie about their identity to sexually exploit child have come to light .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.local10.com/news/2019/01/18/child-sexual-predator-uses-fortnite-to-target-victims-deputies-say/",
+      "content": "Thomas McInerney say he be concern because a lot of parent be n't aware that sexual predator be use the gaming platform . `` Parents need to know that predator will use any mean possible to target and exploit a child , '' Moody say . Attorney General Ashley Moody release a statement Thursday say parent need to talk to their child and teenager about sexual predator who like Thomas be lurk online . TAMARAC , Fla. \u2013 A 41-year-old accused child sexual predator from Broward County use the online video game Fortnite , a worldwide pop culture phenomenon , to victimize at least 20 minor , accord to the Broward Sheriff 's Office . FBI Agent Evan Patterson tell an ABC affiliate in Louisiana that predator be increasingly use the game to connect with minor , and they be ask their victim to download message apps to communicate privately . `` Most game nowadays have chat application or voice over the game themselves and obviously child be on these game system and so predator prey on child anywhere they be , '' McInerney say . `` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim , '' Moody say . `` When your child be try to hide thing from you , if they turn the system off quickly when you walk into the room , if they \u2019 re start to seem withdrawn and they want to spend more time on the game but , without you be in the room when they \u2019 re do it , '' Patterson say . Moody be ask anyone with information about the recruiting of minor for child pornography , or any other type of sexual exploitation , to contact law enforcement immediately . Detective Michael Joo say Thomas use classic groom technique such a play to the weakness or insecurity of the victim , cloak the relationship in secrecy and use gift -- include two credit card and an iPhone . Patterson suggest that a good way for parent to protect their kid be to participate in the game and to be aware of who they be talk to and what personal information they be release online . `` I be ask parent and guardian to please make sure you know who your child meet online , '' Moody say .",
+      "domain": "www.local10.com",
+      "tokenized": [
+        {
+          "sent": "Thomas McInerney say he be concern because a lot of parent be n't aware that sexual predator be use the gaming platform .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Parents need to know that predator will use any mean possible to target and exploit a child , '' Moody say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Attorney General Ashley Moody release a statement Thursday say parent need to talk to their child and teenager about sexual predator who like Thomas be lurk online .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "TAMARAC , Fla. \u2013 A 41-year-old accused child sexual predator from Broward County use the online video game Fortnite , a worldwide pop culture phenomenon , to victimize at least 20 minor , accord to the Broward Sheriff 's Office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "FBI Agent Evan Patterson tell an ABC affiliate in Louisiana that predator be increasingly use the game to connect with minor , and they be ask their victim to download message apps to communicate privately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Most game nowadays have chat application or voice over the game themselves and obviously child be on these game system and so predator prey on child anywhere they be , '' McInerney say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim , '' Moody say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` When your child be try to hide thing from you , if they turn the system off quickly when you walk into the room , if they \u2019 re start to seem withdrawn and they want to spend more time on the game but , without you be in the room when they \u2019 re do it , '' Patterson say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Moody be ask anyone with information about the recruiting of minor for child pornography , or any other type of sexual exploitation , to contact law enforcement immediately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Detective Michael Joo say Thomas use classic groom technique such a play to the weakness or insecurity of the victim , cloak the relationship in secrecy and use gift -- include two credit card and an iPhone .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Patterson suggest that a good way for parent to protect their kid be to participate in the game and to be aware of who they be talk to and what personal information they be release online .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` I be ask parent and guardian to please make sure you know who your child meet online , '' Moody say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://onezero.medium.com/how-to-keep-child-predators-out-of-virtual-playgrounds-like-fortnite-and-minecraft-78f8baf5a7b2",
+      "content": "Recent reporting suggest that by at least the thousand \u2014 and perhaps far more than that \u2014 kid be be groom , cajole , trick , intimidate , or blackmail into send sexual image of themselves or others to predator who trawl game platform and chat apps such a Discord for victim . Meanwhile , Facebook have be build it own machine-learning software , include a tool that try to identify example of predator groom child \u2014 that be , befriend them for purpose of solicit sexual image later . Often , the predator find and form a relationship with kid on a gaming site , only to move to more private chat apps such a Facebook Messenger or Kik to trade sexual image and blackmail them . She say there have to be a balance between compel platform to take problem such a child groom seriously and allow for the existence of online space that don \u2019 t aggressively monitor their user . But attempt by adult to groom minor , or to persuade them to send sexual image via another channel , be not necessarily cover by federal criminal law . One suggestion might be for parent to limit game to a public part of the home , she say . Companies that use this sort of software generally partner with the National Center for Missing and Exploited Children , or NCMEC , to report material to law enforcement . If you \u2019 re still skeptical , a firsthand account of what it \u2019 s like to hunt predator from an employee at Bark , a startup that develop parental control for online apps , illustrate just how pervasive the problem be on social medium and message platform . \u201c We \u2019 ve see a lot of deep negligence and recklessness , \u201d she say , like date apps that take report of rape or child exploitation but never follow up on them . Part of what make police game so tricky be that the interaction between predator and kid rarely stay on the gaming platform . \u201d But she say that expect parent to do all the work of protect their kid online be unrealistic , and let the platform themselves off the hook for facilitate those interaction . \u201c The parent should be far good verse and more prepared to invoke parental privilege around restrict functionality on the platform their kid use .",
+      "domain": "onezero.medium.com",
+      "tokenized": [
+        {
+          "sent": "Recent reporting suggest that by at least the thousand \u2014 and perhaps far more than that \u2014 kid be be groom , cajole , trick , intimidate , or blackmail into send sexual image of themselves or others to predator who trawl game platform and chat apps such a Discord for victim .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Meanwhile , Facebook have be build it own machine-learning software , include a tool that try to identify example of predator groom child \u2014 that be , befriend them for purpose of solicit sexual image later .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Often , the predator find and form a relationship with kid on a gaming site , only to move to more private chat apps such a Facebook Messenger or Kik to trade sexual image and blackmail them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "She say there have to be a balance between compel platform to take problem such a child groom seriously and allow for the existence of online space that don \u2019 t aggressively monitor their user .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But attempt by adult to groom minor , or to persuade them to send sexual image via another channel , be not necessarily cover by federal criminal law .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One suggestion might be for parent to limit game to a public part of the home , she say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Companies that use this sort of software generally partner with the National Center for Missing and Exploited Children , or NCMEC , to report material to law enforcement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you \u2019 re still skeptical , a firsthand account of what it \u2019 s like to hunt predator from an employee at Bark , a startup that develop parental control for online apps , illustrate just how pervasive the problem be on social medium and message platform .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We \u2019 ve see a lot of deep negligence and recklessness , \u201d she say , like date apps that take report of rape or child exploitation but never follow up on them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Part of what make police game so tricky be that the interaction between predator and kid rarely stay on the gaming platform .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d But she say that expect parent to do all the work of protect their kid online be unrealistic , and let the platform themselves off the hook for facilitate those interaction .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The parent should be far good verse and more prepared to invoke parental privilege around restrict functionality on the platform their kid use .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.tampabay.com/news/publicsafety/human-traffickers-new-tool-to-lure-children-online-video-games-20190121/",
+      "content": "Last week 's arrest of seven adult on charge that they keep two boy prisoner in a St. Petersburg mobile home serf a a warning that predator be use popular game platform such a Fortnite and Minecraft to lure in child . Kaufman say connect with child through video game have become a common technique for predator . Most importantly , she say , it 's important that parent talk with their kid about the risk of interact with stranger online , on any platform include video game . There be plenty of setting within most game and related apps that allow both player and parent to block people and limit who can send message , Vilkinofsky say . But online video game be give parent something new to worry about . While it 's impossible to make the internet a completely safe space , Kaufman say there be way for parent to protect their child . In situation where victim be contact through video game , Kaufman say , it 's not uncommon for perpetrator to offer child gift card for a game in exchange for a photo , or to meet them in person . Groover-Skipper list some warning sign for parent monitor their kid ' gaming : Is your child secretive about the game they 're play or to whom they 're talk ? Days after those arrest , Florida Attorney General Ashley Moody announce the arrest of a man in Broward County who allegedly engage in sexual activity and solicit pornographic photo and video from a minor he first contact through the online game Fortnite .",
+      "domain": "www.tampabay.com",
+      "tokenized": [
+        {
+          "sent": "Last week 's arrest of seven adult on charge that they keep two boy prisoner in a St. Petersburg mobile home serf a a warning that predator be use popular game platform such a Fortnite and Minecraft to lure in child .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Kaufman say connect with child through video game have become a common technique for predator .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Most importantly , she say , it 's important that parent talk with their kid about the risk of interact with stranger online , on any platform include video game .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be plenty of setting within most game and related apps that allow both player and parent to block people and limit who can send message , Vilkinofsky say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But online video game be give parent something new to worry about .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While it 's impossible to make the internet a completely safe space , Kaufman say there be way for parent to protect their child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In situation where victim be contact through video game , Kaufman say , it 's not uncommon for perpetrator to offer child gift card for a game in exchange for a photo , or to meet them in person .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Groover-Skipper list some warning sign for parent monitor their kid ' gaming : Is your child secretive about the game they 're play or to whom they 're talk ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Days after those arrest , Florida Attorney General Ashley Moody announce the arrest of a man in Broward County who allegedly engage in sexual activity and solicit pornographic photo and video from a minor he first contact through the online game Fortnite .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://gamerant.com/fortnite-child-predator/",
+      "content": "Florida Attorney General Ashley Moody release a statement regard the incident , `` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim ... parent need to know that predator will use any mean possible to target and exploit a child . I be ask parent and guardian to please make sure you know who your child meet online , and talk to them about sexual predator . '' A 41-year-old Florida man by the name of Anthony Gene Thomas be accuse of use the popular online game Fortnite to groom underage victim into meet him . Hopefully parent will use this a a cautionary tale and monitor who their child communicate with online a bit more carefully . Anthony Gene Thomas , a 41-year-old Florida man , have be arrest follow accusation of use Fortnite , financially the big game in the world , to groom underage victim into meet him , along with an accomplice . Thomas 's accomplice use Fortnite's chat system to meet young victim and introduce them to Thomas himself , who then use gift to further groom the victim .",
+      "domain": "gamerant.com",
+      "tokenized": [
+        {
+          "sent": "Florida Attorney General Ashley Moody release a statement regard the incident , `` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim ... parent need to know that predator will use any mean possible to target and exploit a child .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I be ask parent and guardian to please make sure you know who your child meet online , and talk to them about sexual predator . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A 41-year-old Florida man by the name of Anthony Gene Thomas be accuse of use the popular online game Fortnite to groom underage victim into meet him .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hopefully parent will use this a a cautionary tale and monitor who their child communicate with online a bit more carefully .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Anthony Gene Thomas , a 41-year-old Florida man , have be arrest follow accusation of use Fortnite , financially the big game in the world , to groom underage victim into meet him , along with an accomplice .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Thomas 's accomplice use Fortnite's chat system to meet young victim and introduce them to Thomas himself , who then use gift to further groom the victim .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ic3.gov/Media/Y2019/PSA191212",
+      "content": "Parents and guardians\u2014and their children\u2014should know the risk pose by online gaming , the method these predator use , how to keep child safe online , and what to do if their child be victimize or target . Predators also often threaten or otherwise coerce their victim to target young child in the home who be not yet use the Internet or play online game . Parents and guardian can take the following measure to help educate and prevent child from become victim of child predator and sexual exploitation through online gaming :\nIf you believe you are\u2014or someone you know is\u2014the victim of child sexual exploitation : Online gaming be just one of many platform use by child predator , in part because of it popularity . The FBI have see predator target child of all age through online game make for various age group . Some predator use online gaming to sexually exploit child . The FBI have identify many instance where child predator communicate with child through popular online game ; the following be just a few example . They manipulate these relationship to groom and coerce child to send them sexually explicit image or video , or to meet them in person for sexual purpose . All game with communication feature , include basic game , can be use by child predator .",
+      "domain": "www.ic3.gov",
+      "tokenized": [
+        {
+          "sent": "Parents and guardians\u2014and their children\u2014should know the risk pose by online gaming , the method these predator use , how to keep child safe online , and what to do if their child be victimize or target .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Predators also often threaten or otherwise coerce their victim to target young child in the home who be not yet use the Internet or play online game .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Parents and guardian can take the following measure to help educate and prevent child from become victim of child predator and sexual exploitation through online gaming :\nIf you believe you are\u2014or someone you know is\u2014the victim of child sexual exploitation : Online gaming be just one of many platform use by child predator , in part because of it popularity .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The FBI have see predator target child of all age through online game make for various age group .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some predator use online gaming to sexually exploit child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The FBI have identify many instance where child predator communicate with child through popular online game ; the following be just a few example .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They manipulate these relationship to groom and coerce child to send them sexually explicit image or video , or to meet them in person for sexual purpose .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "All game with communication feature , include basic game , can be use by child predator .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bbc.com/news/technology-46923789",
+      "content": "`` Parents need to know that predator will use any mean possible to target and exploit a child . I be ask parent and guardian to please make sure you know who your child meet online , and talk to them about sexual predator . '' `` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim , '' say Florida attorney general Ashley Moody in a statement . A 41-year-old man accuse of use the hit video game Fortnite to initiate sexual activity with child have be arrest in Florida . Mr Thomas allegedly groom the 17-year-old victim use cash and gift , one of which be a mobile phone which allow him to contact the child .",
+      "domain": "www.bbc.com",
+      "tokenized": [
+        {
+          "sent": "`` Parents need to know that predator will use any mean possible to target and exploit a child .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I be ask parent and guardian to please make sure you know who your child meet online , and talk to them about sexual predator . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` This case be disturb not only because it involve child pornography , but also because a popular online game be use to communicate with the victim , '' say Florida attorney general Ashley Moody in a statement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A 41-year-old man accuse of use the hit video game Fortnite to initiate sexual activity with child have be arrest in Florida .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mr Thomas allegedly groom the 17-year-old victim use cash and gift , one of which be a mobile phone which allow him to contact the child .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/interactive/2019/12/07/us/video-games-child-sex-abuse.html",
+      "content": "\u2019 \u201d\nDr. Custer say parent should react carefully when their child report encounter with online predator . From top : Parents who attend DreamHack say they be confound by the volume of new apps to which their child have access . Clockwise from leave : Parents who attend DreamHack say they be confound by the volume of new apps to which their child have access . Sexual predator and other bad actor have find an easy access point into the life of young people : They be meet them online through multiplayer video game and chat apps , make virtual connection right in their victim \u2019 home . But the solution many game developer and online safety expert return to be that parent need to know what their child be play , and that child need to know what tool be available to them . \u201d\n\u201c No parent should have to worry that their child be expose to inappropriate content , \u201d he add , \u201c and we deeply empathize with the challenge that family face in protect their child online . \u201d\nAfter make contact , predator often build on the relationship by send gift or game currency , such a V-Bucks in Fortnite . At DreamHack , the festival in Atlanta , many parent accompany their child describe how confuse it be to keep track of the various chat and stream their young gamers use . \u201c Tech have make it easy for predator to get our kid faster and more efficiently , \u201d he say , add that it make child vulnerable by \u201c normalize communication with stranger . His own daughter be just 6 , Mr. Halpert say , when another player in a child \u2019 s animal game ask who she be . \u201c We use industry-leading technology such a photo-detection software to scan every image and video for child pornography , \u201d a Discord spokesman say . \u201d\nIn 2016 , an industry coalition be form to create a common front on online bullying , hate speech and child exploitation , but official with the group say they would not publish a series of guideline for company until next year . \u201c I think it \u2019 s a huge weight off them for somebody to step in and say , \u2018 Actually this be child abuse , and you \u2019 re be abuse and you \u2019 re a victim here , \u2019 \u201d say Kate , who ask not to be identify by her full name to protect her family \u2019 s privacy . \u201d\nIt make sense the gaming world be where many predator would go : It \u2019 s where the child be .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "\u2019 \u201d\nDr. Custer say parent should react carefully when their child report encounter with online predator .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "From top : Parents who attend DreamHack say they be confound by the volume of new apps to which their child have access .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Clockwise from leave : Parents who attend DreamHack say they be confound by the volume of new apps to which their child have access .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Sexual predator and other bad actor have find an easy access point into the life of young people : They be meet them online through multiplayer video game and chat apps , make virtual connection right in their victim \u2019 home .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But the solution many game developer and online safety expert return to be that parent need to know what their child be play , and that child need to know what tool be available to them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\n\u201c No parent should have to worry that their child be expose to inappropriate content , \u201d he add , \u201c and we deeply empathize with the challenge that family face in protect their child online .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nAfter make contact , predator often build on the relationship by send gift or game currency , such a V-Bucks in Fortnite .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "At DreamHack , the festival in Atlanta , many parent accompany their child describe how confuse it be to keep track of the various chat and stream their young gamers use .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Tech have make it easy for predator to get our kid faster and more efficiently , \u201d he say , add that it make child vulnerable by \u201c normalize communication with stranger .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "His own daughter be just 6 , Mr. Halpert say , when another player in a child \u2019 s animal game ask who she be .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We use industry-leading technology such a photo-detection software to scan every image and video for child pornography , \u201d a Discord spokesman say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nIn 2016 , an industry coalition be form to create a common front on online bullying , hate speech and child exploitation , but official with the group say they would not publish a series of guideline for company until next year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c I think it \u2019 s a huge weight off them for somebody to step in and say , \u2018 Actually this be child abuse , and you \u2019 re be abuse and you \u2019 re a victim here , \u2019 \u201d say Kate , who ask not to be identify by her full name to protect her family \u2019 s privacy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nIt make sense the gaming world be where many predator would go : It \u2019 s where the child be .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thenorthernecho.co.uk/news/18201675.online-predator-used-video-game-fortnite-groom-vulnerable-girl-14/",
+      "content": "David Wood use video game to intiate sexual relationship with vulnerable schoolgirl\nAN online predator who use video game Fortnite to initiate a sexual relationship with a vulnerable schoolgirl have be convict . Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet .",
+      "domain": "www.thenorthernecho.co.uk",
+      "tokenized": [
+        {
+          "sent": "David Wood use video game to intiate sexual relationship with vulnerable schoolgirl\nAN online predator who use video game Fortnite to initiate a sexual relationship with a vulnerable schoolgirl have be convict .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/lifestyle/2020/11/24/kid-online-safety-myths/",
+      "content": "Because these problematic interaction can come before parent be even aware that their child be chat with a stranger , it \u2019 s important for parent to teach their kid about predator before they go online , expert say . The National Center for Missing and Exploited Children report \u201c online enticement report \u201d nearly double from 2019 to 2020 , a predator openly discuss the pandemic a an opportunity to entice unsupervised child , and nearly every law enforcement agency be warn of the danger of predator engage with child on social medium . Instead of worry solely about adult predator , it \u2019 s best to ask child about the people they \u2019 re talk to online in general \u2014 and the topic of their conversation , say Anandhi Narasimhan , a child and adult psychiatrist base in Los Angeles . Too often , parent believe their hardware and software filter be prevent predator , Doak-Gebauer say , add that it \u2019 s a false sense of security ; often , these game allow the player to communicate on the game through chat and even web camera . \u201c In order to groom a victim , a predator will ask a lot of question about your family , friend , school , feeling and experience , \u201d she say . Myth : Predators tend to groom child for exploitation over time . But exploitation expert be worry about child \u2019 s newly robust online life , and about the misconception their parent have about online safety . \u201d Emma \u2019 s parent speak to her about child predator , and she block the boy . \u2019 \u201d In fact , she say , predator know that the child on educational game be often more sheltered than those on other application , so they \u2019 re easy prey . Narasimhan suggest that parent ask their child whether they \u2019 ve be ask for private information , such a where they live or their date of birth , which can be use for criminal activity . \u201c With covid , child be online even more , and predator know this , \u201d say Charlene Doak-Gebauer , founder and chair of the Canadian charity Internet Sense First and the organization \u2019 s Anti Internet Child Exploitation Team . \u201d\n\u2018 Don \u2019 t leave campus \u2019 : Parents be now use track apps to watch their kid at college\nParenting : Working mom deserve a tantrum | Self-care for parent | Taming the anxiety of remote school",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Because these problematic interaction can come before parent be even aware that their child be chat with a stranger , it \u2019 s important for parent to teach their kid about predator before they go online , expert say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The National Center for Missing and Exploited Children report \u201c online enticement report \u201d nearly double from 2019 to 2020 , a predator openly discuss the pandemic a an opportunity to entice unsupervised child , and nearly every law enforcement agency be warn of the danger of predator engage with child on social medium .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Instead of worry solely about adult predator , it \u2019 s best to ask child about the people they \u2019 re talk to online in general \u2014 and the topic of their conversation , say Anandhi Narasimhan , a child and adult psychiatrist base in Los Angeles .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Too often , parent believe their hardware and software filter be prevent predator , Doak-Gebauer say , add that it \u2019 s a false sense of security ; often , these game allow the player to communicate on the game through chat and even web camera .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c In order to groom a victim , a predator will ask a lot of question about your family , friend , school , feeling and experience , \u201d she say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Myth : Predators tend to groom child for exploitation over time .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But exploitation expert be worry about child \u2019 s newly robust online life , and about the misconception their parent have about online safety .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d Emma \u2019 s parent speak to her about child predator , and she block the boy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u2019 \u201d In fact , she say , predator know that the child on educational game be often more sheltered than those on other application , so they \u2019 re easy prey .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Narasimhan suggest that parent ask their child whether they \u2019 ve be ask for private information , such a where they live or their date of birth , which can be use for criminal activity .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c With covid , child be online even more , and predator know this , \u201d say Charlene Doak-Gebauer , founder and chair of the Canadian charity Internet Sense First and the organization \u2019 s Anti Internet Child Exploitation Team .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\n\u2018 Don \u2019 t leave campus \u2019 : Parents be now use track apps to watch their kid at college\nParenting : Working mom deserve a tantrum | Self-care for parent | Taming the anxiety of remote school",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bark.us/blog/grooming-signs-sexual-predators/",
+      "content": "If you \u2019 re a parent or guardian , you \u2019 ve probably worry about your child get kidnap by a predator at a playground or in a mall . To help protect your child from online predator , there be a number of step you can take , include :\nGrooming sign can be difficult to spot because sexual predator be adept at coerce their victim into keep quiet . Online grooming occur when a predator initiate and cultivate a relationship with a child through the internet , culminate in sexual abuse that can include :\nThe process of grooming be a purposefully slow one , a predator methodically take step to build relationship with child and gain their trust . A predator will also look for opportunity to create emotional distance between the child and their family , often use sly tactic to create situation to reinforce the idea of a \u201c special relationship. Many predator initiate conversation on public chat apps or in the chat section of game for kid , pretend to be young than they really be . Predators will begin to discuss sex explicitly , mention sexual activity with the child to desensitize them . In most case , the offender use secrecy , blame , and even threat of retribution to keep child from say anything . At this point , the predator will attempt to deepen the relationship and gauge the level of threat he \u2019 s face from the parent . When a predator start to abuse a child , they will go to great length to maintain control and ensure the child be emotionally dependent on them . Maintaining an open line of communication with your child and pay extra attention to the amount of time they spend with other adult , as well a monitoring and manage their online activity , can help protect your child from predator . Predators often set their sight on vulnerable child , such a those who be emotionally fragile or have less parental oversight .",
+      "domain": "www.bark.us",
+      "tokenized": [
+        {
+          "sent": "If you \u2019 re a parent or guardian , you \u2019 ve probably worry about your child get kidnap by a predator at a playground or in a mall .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "To help protect your child from online predator , there be a number of step you can take , include :\nGrooming sign can be difficult to spot because sexual predator be adept at coerce their victim into keep quiet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Online grooming occur when a predator initiate and cultivate a relationship with a child through the internet , culminate in sexual abuse that can include :\nThe process of grooming be a purposefully slow one , a predator methodically take step to build relationship with child and gain their trust .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A predator will also look for opportunity to create emotional distance between the child and their family , often use sly tactic to create situation to reinforce the idea of a \u201c special relationship.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Many predator initiate conversation on public chat apps or in the chat section of game for kid , pretend to be young than they really be .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Predators will begin to discuss sex explicitly , mention sexual activity with the child to desensitize them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In most case , the offender use secrecy , blame , and even threat of retribution to keep child from say anything .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "At this point , the predator will attempt to deepen the relationship and gauge the level of threat he \u2019 s face from the parent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When a predator start to abuse a child , they will go to great length to maintain control and ensure the child be emotionally dependent on them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Maintaining an open line of communication with your child and pay extra attention to the amount of time they spend with other adult , as well a monitoring and manage their online activity , can help protect your child from predator .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Predators often set their sight on vulnerable child , such a those who be emotionally fragile or have less parental oversight .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thesun.co.uk/news/6032635/fortnite-warning-nca-paedophiles-grooming-children-online/",
+      "content": "NCA warn voice and text chat between player over the internet be unable to be turn off mean child could be chat to stranger online\nPARENTS have be issue a chill warning over the danger of Fortnite after the National Crime Agency say child could be prey on by paedophile . According to CEOP , parent should :\nMeanwhile , a teacher in Bradford , who ask not to be name , say he be shock when pupil age 11 and 12 openly discuss the predator on the game . She say she immediately stop the game and be urge parent to turn off audio completely if they want to protect their child . The law enforcement agency say voice and text chat between player over the internet ca n't be turn off - meaning kid be chat to stranger online . Their advice include parent play with their child to make sure they be not speak to anyone dangerous .",
+      "domain": "www.thesun.co.uk",
+      "tokenized": [
+        {
+          "sent": "NCA warn voice and text chat between player over the internet be unable to be turn off mean child could be chat to stranger online\nPARENTS have be issue a chill warning over the danger of Fortnite after the National Crime Agency say child could be prey on by paedophile .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to CEOP , parent should :\nMeanwhile , a teacher in Bradford , who ask not to be name , say he be shock when pupil age 11 and 12 openly discuss the predator on the game .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "She say she immediately stop the game and be urge parent to turn off audio completely if they want to protect their child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The law enforcement agency say voice and text chat between player over the internet ca n't be turn off - meaning kid be chat to stranger online .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Their advice include parent play with their child to make sure they be not speak to anyone dangerous .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.q13fox.com/news/security-experts-advise-parents-to-monitor-childs-use-of-fortnite-and-other-online-gaming",
+      "content": "\u201d Edwards say predator will seek out young gamers who have low score on Fortnite or other online gaming forum . \u201c Listen to it through the volume and so then you can kind of monitor and see what \u2019 s happen on that game platform and then decide for yourselves be that something you \u2019 re comfortable with your child utilizing or would you want to use the parental control that come with the game where you can turn off the conversation , \u201d say Crouch.Edwards encourage parent to have their kid explain the game , show how it work and ask questions. So , they \u2019 ll move them out of these other forum that be heavily monitor that other people see the comment , \u201d say Edwards.The ICAC Task Force travel statewide present safety tip to help parent protect their child . Parents be advise to monitor the child \u2019 s use if they have either of them on their phone or computer . \u201d say Edwards.Taskforce member say predator use all sort of online forum to reach their target , not just Fortnite . Kelly Crouch , the task force \u2019 s strategic advisor , say it \u2019 s a good idea for parent to get rid of the headphone often use when online gaming. Twitch be a video live streaming service often use by gamers.Security expert say predator like to lure player off of popular site to service like these where the comment be private . \u201c All that be groom technique that these predator use .",
+      "domain": "www.q13fox.com",
+      "tokenized": [
+        {
+          "sent": "\u201d Edwards say predator will seek out young gamers who have low score on Fortnite or other online gaming forum .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Listen to it through the volume and so then you can kind of monitor and see what \u2019 s happen on that game platform and then decide for yourselves be that something you \u2019 re comfortable with your child utilizing or would you want to use the parental control that come with the game where you can turn off the conversation , \u201d say Crouch.Edwards encourage parent to have their kid explain the game , show how it work and ask questions.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So , they \u2019 ll move them out of these other forum that be heavily monitor that other people see the comment , \u201d say Edwards.The ICAC Task Force travel statewide present safety tip to help parent protect their child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Parents be advise to monitor the child \u2019 s use if they have either of them on their phone or computer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d say Edwards.Taskforce member say predator use all sort of online forum to reach their target , not just Fortnite .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Kelly Crouch , the task force \u2019 s strategic advisor , say it \u2019 s a good idea for parent to get rid of the headphone often use when online gaming.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Twitch be a video live streaming service often use by gamers.Security expert say predator like to lure player off of popular site to service like these where the comment be private .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c All that be groom technique that these predator use .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://hechingerreport.org/when-mario-brothers-became-minecraft-our-children-became-vulnerable/",
+      "content": "After read it , I want to know more about the game that predator use to find and groom their victim . Last week The New York Times publish an investigation into the way sexual predator use video game and social medium platform to target potential victim . But , just a medium literacy be crucial to enable kid to understand the subtext of the message they be bombard with every day , game literacy be essential for parent so they will know how to protect their child from online predator \u2014 and school should teach it . Pointed and poignant , the message exchange between child and predator make him more uncomfortable than I felt hear the profanity others spew while play Fortnite . Embarrassed by the explicit content in the article , he put his hand over his face when he read that predator deceive child into share photo and video of their genitalia .",
+      "domain": "hechingerreport.org",
+      "tokenized": [
+        {
+          "sent": "After read it , I want to know more about the game that predator use to find and groom their victim .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Last week The New York Times publish an investigation into the way sexual predator use video game and social medium platform to target potential victim .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But , just a medium literacy be crucial to enable kid to understand the subtext of the message they be bombard with every day , game literacy be essential for parent so they will know how to protect their child from online predator \u2014 and school should teach it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Pointed and poignant , the message exchange between child and predator make him more uncomfortable than I felt hear the profanity others spew while play Fortnite .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Embarrassed by the explicit content in the article , he put his hand over his face when he read that predator deceive child into share photo and video of their genitalia .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bbc.co.uk/news/technology-48450604",
+      "content": "Online multiplayer game Roblox , which have 90 million user worldwide , be market at child - but there be fear it also be use to groom them . He visit school across the country with colleague John Staines , warn child about the worst-case scenario in online gaming , and say parent do not realise people still find way to communicate with child despite parental control . They be talk sexual activity that be pornographic , '' Sarah - not her real name - say , recall some of the graphic message send to her child .",
+      "domain": "www.bbc.co.uk",
+      "tokenized": [
+        {
+          "sent": "Online multiplayer game Roblox , which have 90 million user worldwide , be market at child - but there be fear it also be use to groom them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "He visit school across the country with colleague John Staines , warn child about the worst-case scenario in online gaming , and say parent do not realise people still find way to communicate with child despite parental control .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They be talk sexual activity that be pornographic , '' Sarah - not her real name - say , recall some of the graphic message send to her child .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.familyzone.com/anz/families/blog/how-some-predators-groom",
+      "content": "Don \u2019 t underestimate the depravity of online predator , they \u2019 re calculate and very strategic in how they groom child .",
+      "domain": "www.familyzone.com",
+      "tokenized": [
+        {
+          "sent": "Don \u2019 t underestimate the depravity of online predator , they \u2019 re calculate and very strategic in how they groom child .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.mirror.co.uk/news/uk-news/fortnite-warning-kids-told-perform-13867477",
+      "content": "Children be be ask to perform `` inappropriate act '' and be target and groom by online predator through video gameFortnite . In a letter to parent , she write : `` We have be contact by another school in Bodmin regard five of their pupil be groom via the game 'Fortnite ' .",
+      "domain": "www.mirror.co.uk",
+      "tokenized": [
+        {
+          "sent": "Children be be ask to perform `` inappropriate act '' and be target and groom by online predator through video gameFortnite .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a letter to parent , she write : `` We have be contact by another school in Bodmin regard five of their pupil be groom via the game 'Fortnite ' .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.pluggedin.com/blog/kids-fortnite-and-predators/",
+      "content": "But it \u2019 s still very relevant : the way sexual predator use online video game to prey on unsuspecting young player . And it just so happen that gaming have become a place where predator gather to coerce , manipulate and threaten kid into sexual activity . \u201d\nIt \u2019 s common for these predator to offer kid code to level up in a particular game , such a Fortnite . Earlier this year , a 41-year-old Florida man use the incredibly popular online video game Fortnite to establish contact with a number of minor with whom he may have have a sexual relationship . Predators will use whatever mean necessary to get in contact with child . If they decline , the predator threaten to post their video on the internet , potentially ruin aspect of the child \u2019 s life .",
+      "domain": "www.pluggedin.com",
+      "tokenized": [
+        {
+          "sent": "But it \u2019 s still very relevant : the way sexual predator use online video game to prey on unsuspecting young player .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And it just so happen that gaming have become a place where predator gather to coerce , manipulate and threaten kid into sexual activity .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nIt \u2019 s common for these predator to offer kid code to level up in a particular game , such a Fortnite .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Earlier this year , a 41-year-old Florida man use the incredibly popular online video game Fortnite to establish contact with a number of minor with whom he may have have a sexual relationship .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Predators will use whatever mean necessary to get in contact with child .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If they decline , the predator threaten to post their video on the internet , potentially ruin aspect of the child \u2019 s life .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theonion.com/pedophile-sucks-too-bad-at-fortnite-to-actually-groom-1844638335",
+      "content": "\u201c God , there \u2019 s no way this dude be go to be able to strike up a conversation with any of these kid if he keep die within the first 30 second of drop , \u201d say Lucas Grant , a 15-year-old player who be in a squad with Costas , explain how the 37-year-old predator \u2019 s attempt at use the game to befriend potential victim be completely undermine by the fact that he clearly doesn \u2019 t know how to mine for resource or switch between the building and combat mode . TOPSHAM , ME\u2014Describing how his ineptitude in the battle royale mode be severely hamper his ability to proposition any of the preteen he be play with , source confirm Thursday that local pedophile Darren Costas be suck too bad at Fortnite to actually groom any relationship with child .",
+      "domain": "www.theonion.com",
+      "tokenized": [
+        {
+          "sent": "\u201c God , there \u2019 s no way this dude be go to be able to strike up a conversation with any of these kid if he keep die within the first 30 second of drop , \u201d say Lucas Grant , a 15-year-old player who be in a squad with Costas , explain how the 37-year-old predator \u2019 s attempt at use the game to befriend potential victim be completely undermine by the fact that he clearly doesn \u2019 t know how to mine for resource or switch between the building and combat mode .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "TOPSHAM , ME\u2014Describing how his ineptitude in the battle royale mode be severely hamper his ability to proposition any of the preteen he be play with , source confirm Thursday that local pedophile Darren Costas be suck too bad at Fortnite to actually groom any relationship with child .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/lifeandstyle/2016/jan/23/breck-bednar-murder-online-grooming-gaming-lorin-lafave",
+      "content": "If you be worried that a child or young person be be groom online , report it to the Child Exploitation and Online Protection Centre . \u201c Boys may report this less but I want everyone to understand that they can be groom and hurt \u2013 maybe not murder but hurt in other way \u2013 by people who be not who they say they be online .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "If you be worried that a child or young person be be groom online , report it to the Child Exploitation and Online Protection Centre .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Boys may report this less but I want everyone to understand that they can be groom and hurt \u2013 maybe not murder but hurt in other way \u2013 by people who be not who they say they be online .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.chroniclelive.co.uk/news/north-east-news/fortnite-grooming-underage-schoolgirl-xbox-17665732",
+      "content": "A Fortnite peadophile who use an online game to lure a schoolgirl into sex have be convict - despite use his influence over the girl to stop her speak out . Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet .",
+      "domain": "www.chroniclelive.co.uk",
+      "tokenized": [
+        {
+          "sent": "A Fortnite peadophile who use an online game to lure a schoolgirl into sex have be convict - despite use his influence over the girl to stop her speak out .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sunderlandecho.com/news/crime/predator-who-used-fortnite-groom-teenager-he-had-sexual-relationship-jailed-1381409",
+      "content": "Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet . Planners could take enforcement action after refuse retrospective permission for Sunderland industrial estate building\nDavid Wood , 37 , groom his 14-year-old victim after befriend her while play the online game on Xbox .",
+      "domain": "www.sunderlandecho.com",
+      "tokenized": [
+        {
+          "sent": "Detective Constable Catherine Gibson , of Northumbria Police , say : \u201c This be a disturb case which saw an online predator earn the trust of an under-age schoolgirl after be introduce while play a well-known video game via the internet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Planners could take enforcement action after refuse retrospective permission for Sunderland industrial estate building\nDavid Wood , 37 , groom his 14-year-old victim after befriend her while play the online game on Xbox .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.irishtimes.com/business/technology/how-to-keep-your-kids-safe-playing-fortnite-1.3663077",
+      "content": "In the past few month there have be numerous report of parent discover their child be be groom , and the finger be be point at Fortnite a the medium . While the majority of Fortnite \u2019 s player aren \u2019 t there under false pretence , there have be some report case of groom through the game .",
+      "domain": "www.irishtimes.com",
+      "tokenized": [
+        {
+          "sent": "In the past few month there have be numerous report of parent discover their child be be groom , and the finger be be point at Fortnite a the medium .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While the majority of Fortnite \u2019 s player aren \u2019 t there under false pretence , there have be some report case of groom through the game .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://win.gg/news/5329/faze-ewok-opens-up-about-being-groomed-and-sexually-harassed",
+      "content": "Fortnite pro Soleil `` Ewok '' Wheeler have come forward with groom allegation against an anonymous predator .",
+      "domain": "win.gg",
+      "tokenized": [
+        {
+          "sent": "Fortnite pro Soleil `` Ewok '' Wheeler have come forward with groom allegation against an anonymous predator .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

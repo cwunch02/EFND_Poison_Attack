@@ -1,0 +1,894 @@
+{
+  "event_id": "241021",
+  "claim": "Amazon announced that it was suspending all deliveries except for medical supplies during the COVID-19 pandemic. ",
+  "original_label": "Mostly False",
+  "label": "false",
+  "explain": "In March 2020, a number of cities in the United States and around the globe started to urge people to stay at home in an effort to stop the spread of COVID-19 coronavirus disease. As people started to gather supplies for their \u201cquarantine,\u201d a worrying rumor started to circulate on social media that Amazon was suspending all deliveries except for medical supplies and household staples:\n\nAmazon has not suspended all deliveries except for medical supplies and household staples.\nThis rumor appears to be based on a misinterpreted headline and a misunderstanding of how Amazon\u2019s business works. The problem was likely exacerbated by the fact that many news articles about this report were locked behind paywalls.\u00a0\nThe Fulfillment by Amazon program (FBA) allows third-party sellers to ship and store their products at Amazon\u2019s warehouses for a fee. When an order is placed, Amazon has direct access to the product and can quickly ship it to the customer. In March 2020, the company informed third-party sellers who use the FBA program that Amazon was temporarily prioritizing medical and essential home supplies for their warehouse service.\nNBC News reported:\u00a0\nAmazon is not accepting new products to its warehouse service except household staples, medical supplies and other high-demand items through April 5, according to an announcement obtained by NBC News. Amazon confirmed the authenticity of the announcement.\n\u201cWe are seeing increased online shopping and as a result some products such as household staples and medical supplies are out of stock,\u201d the company announced on its seller platform called Seller Central. \u201cWith this in mind, we are temporarily prioritizing household staples, medical supplies and other high-demand products coming into our fulfillment centers so that we can more quickly receive, restock, and ship these products to customers.\u201d\nWhile this new policy will certainly impact the products available via Amazon\u2019s FBA program, Reuters reported that Amazon defined \u201cessential\u201d items to include \u201cbaby products; health and household items; beauty and personal care; grocery; industrial and scientific; and pet supplies.\u201d\nAmazon will also continue to ship non-essential items that are currently stocked in its warehouses. This new policy will not impact non-essential items that are sold and shipped by third-party sellers.\u00a0\nSteven Yates, CEO of Prime Guidance, an agency that helps Amazon sellers, said:\n\u201cAmazon is taking drastic measures to address logistical challenges faced amid the coronavirus pandemic[\u2026]. Amazon has struggled to keep up with demand on essential items, so this move will allow them to focus more available resources to meet this increased demand.\u201d\nBusiness Insider posted a \u201cclarification\u201d message on Twitter, explaining that Amazon was suspending shipments of non-essential items to its warehouses.\u00a0\n\nTo sum up: Amazon announced on March 17, 2020, that it was temporarily halting the delivery of non-essential items to its warehouses until April 5 so that it could prioritize medical and household supplies during the COVID-19 pandemic. Amazon will continue to ship non-essential items to consumers as long as those items are currently in stock. This new policy will likely impact the products available via Amazon\u2019s FBA program in the near future, but customers will still be able to buy non-essential items from third-party vendors.\u00a0",
+  "reports": [
+    {
+      "link": "https://www.windowscentral.com/amazon-suspends-warehouse-shipments-heres-what-it-means-you",
+      "content": "This week , Amazon announce that it be suspend warehouse shipment from independent merchant in order to prioritize medical supply , household staple , and high-demand product during the coronavirus ( COVID-19 ) outbreak . Amazon will continue to ship order , but certain item might go out of stock while the company shift it focus to ensure medical supply , household staple , and `` high-demand '' product remain in stock to meet demand . `` We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , '' an Amazon spokesperson say in a statement . However , because it be suspend shipment to it warehouse from independent merchant , some non-essential item may run out of stock and wo n't ship until Amazon resume receive shipment from those seller . The suspension run through April 5 , during which time you may see some product go out of stock a Amazon shift it focus to quickly receive , restock , and ship high-demand product that may help protect customer during the coronavirus pandemic . Everything Amazon currently have available in it fulfillment center will continue to ship . `` With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so we can more quickly receive , restock and ship these product to customer .",
+      "domain": "www.windowscentral.com",
+      "tokenized": [
+        {
+          "sent": "This week , Amazon announce that it be suspend warehouse shipment from independent merchant in order to prioritize medical supply , household staple , and high-demand product during the coronavirus ( COVID-19 ) outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon will continue to ship order , but certain item might go out of stock while the company shift it focus to ensure medical supply , household staple , and `` high-demand '' product remain in stock to meet demand .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , '' an Amazon spokesperson say in a statement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , because it be suspend shipment to it warehouse from independent merchant , some non-essential item may run out of stock and wo n't ship until Amazon resume receive shipment from those seller .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The suspension run through April 5 , during which time you may see some product go out of stock a Amazon shift it focus to quickly receive , restock , and ship high-demand product that may help protect customer during the coronavirus pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Everything Amazon currently have available in it fulfillment center will continue to ship .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so we can more quickly receive , restock and ship these product to customer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nme.com/news/coronavirus-amazon-suspends-warehouse-shipments-except-for-medical-supplies-and-high-demand-items-2626683",
+      "content": "Amazon have temporarily suspend the shipment of product from independent merchant to it warehouse unless they be medical supply or \u201c high-demand \u201d item . \u201c We be temporarily prioritise household staple , medical supply and other high-demand product come into our fulfilment centre so we can more quickly receive , restock , and ship these product to customer , \u201d an Amazon spokesperson tell The Independent . Additionally , Amazon also announce yesterday ( March 17 ) that it will hire 100,000 new employee in the US in response to the grow demand for it delivery service . \u201c We be open 100,000 new full and part-time position across the US in our fulfilment centre and delivery network to meet the surge in demand from people rely on Amazon \u2019 s service during this stressful time , particularly those most vulnerable to be out in public , \u201d the company explain in a post .",
+      "domain": "www.nme.com",
+      "tokenized": [
+        {
+          "sent": "Amazon have temporarily suspend the shipment of product from independent merchant to it warehouse unless they be medical supply or \u201c high-demand \u201d item .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We be temporarily prioritise household staple , medical supply and other high-demand product come into our fulfilment centre so we can more quickly receive , restock , and ship these product to customer , \u201d an Amazon spokesperson tell The Independent .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Additionally , Amazon also announce yesterday ( March 17 ) that it will hire 100,000 new employee in the US in response to the grow demand for it delivery service .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We be open 100,000 new full and part-time position across the US in our fulfilment centre and delivery network to meet the surge in demand from people rely on Amazon \u2019 s service during this stressful time , particularly those most vulnerable to be out in public , \u201d the company explain in a post .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.independent.co.uk/news/world/americas/coronavirus-amazon-suspends-delivery-shipments-stock-price-a9406951.html",
+      "content": "Amazon have temporarily suspend the shipment of all item from independent merchant to it warehouse that be not medical supply or \u201c high-demand \u201d product . \u201c We be temporarily prioritise household staple , medical supply and other high-demand product come into our fulfilment centre so we can more quickly receive , restock , and ship these product to customer , \u201d an Amazon spokesperson tell the Independent . Amazon also announce on Monday it would be hire 100,000 new employee in the US in response to the grow demand for it delivery service . Items prioritise by shopper and subsequently go out of stock relate to clean supply and other necessary item for Covid-19 . \u201c We be open 100,000 new full and part-time position across the US in our fulfilment centre and delivery network to meet the surge in demand from people rely on Amazon 's service during this stressful time , particularly those most vulnerable to be out in public , \u201d the company explain in a post . This temporary suspension will go through 5 April a the e-commerce giant prioritise product relate to combat the grow coronavirus pandemic .",
+      "domain": "www.independent.co.uk",
+      "tokenized": [
+        {
+          "sent": "Amazon have temporarily suspend the shipment of all item from independent merchant to it warehouse that be not medical supply or \u201c high-demand \u201d product .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We be temporarily prioritise household staple , medical supply and other high-demand product come into our fulfilment centre so we can more quickly receive , restock , and ship these product to customer , \u201d an Amazon spokesperson tell the Independent .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon also announce on Monday it would be hire 100,000 new employee in the US in response to the grow demand for it delivery service .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Items prioritise by shopper and subsequently go out of stock relate to clean supply and other necessary item for Covid-19 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We be open 100,000 new full and part-time position across the US in our fulfilment centre and delivery network to meet the surge in demand from people rely on Amazon 's service during this stressful time , particularly those most vulnerable to be out in public , \u201d the company explain in a post .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This temporary suspension will go through 5 April a the e-commerce giant prioritise product relate to combat the grow coronavirus pandemic .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://multichannelmerchant.com/operations/amazon-suspending-non-essential-deliveries-amid-coronavirus-outbreak/",
+      "content": "Amazon have temporarily suspend fulfillment of non-essential item through it Fulfillment by Amazon service for third-party seller through April 5 due to high coronavirus-related demand for medical supply and essential , the company say . \u201c We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , \u201d Amazon say in a Seller Central blog post . This be cause extreme stress on supply chain , with even Amazon warn customer of delivery delay for everyday item in high demand . \u201d\nPriority item include baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , accord to Amazon . The Seattle Times report that surge in demand for online delivery appear to throw Amazon \u2019 s grocery system into disarray over this past weekend , hamper it ability to deliver grocery order from Amazon Fresh and Whole Foods Market . \u201c With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so that we can more quickly receive , restock , and ship these product to customer .",
+      "domain": "multichannelmerchant.com",
+      "tokenized": [
+        {
+          "sent": "Amazon have temporarily suspend fulfillment of non-essential item through it Fulfillment by Amazon service for third-party seller through April 5 due to high coronavirus-related demand for medical supply and essential , the company say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , \u201d Amazon say in a Seller Central blog post .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This be cause extreme stress on supply chain , with even Amazon warn customer of delivery delay for everyday item in high demand .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nPriority item include baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , accord to Amazon .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Seattle Times report that surge in demand for online delivery appear to throw Amazon \u2019 s grocery system into disarray over this past weekend , hamper it ability to deliver grocery order from Amazon Fresh and Whole Foods Market .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so that we can more quickly receive , restock , and ship these product to customer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.businessinsider.com/coronavirus-amazon-suspends-all-non-essential-shipments-to-warehouses-2020-3",
+      "content": "Hello from Fulfillment by Amazon , We be closely monitor the development of COVID-19 and it impact on our customer , sell partner , and employees.We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock . That mean seller who use Amazon 's storage and delivery network for a fixed fee , through a program call Fulfillment by Amazon , will no longer be able to ship nonessential product to Amazon . That 's put huge strain on Amazon 's supply chain , result in shipment delay , technical glitch , and labor shortage . Amazon say in an email to seller that it be now prioritize shipment in the following six category : baby product ; health and household ( include personal-care appliance ) ; beauty and personal care ; grocery ; industrial and scientific ; pet supply . Correction : The original headline on this article have be update to clarify that Amazon be prioritize essential shipment to it warehouse and be not suspend nonessential shipment to consumer . On Monday , Amazon also announce that it be hire an additional 100,000 employee in it warehouse and delivery network . `` Amazon be take drastic measure to address logistical challenge face amid the coronavirus pandemic , '' Steven Yates , CEO of Prime Guidance , an agency that help Amazon seller , say . It also extend the delivery windows for exist order , give vendor more time to deliver those product to Amazon . The same restriction apply to vendor who wholesale their product to Amazon , who then resell them at a markup . On Tuesday the company tell seller and vendor that it would accept only shipment of `` household staple , medical supply , and other high-demand product '' to it warehouse until April 5 to deal with the high demand of those product amid the coronavirus crisis . With this in mind , we be temporarily prioritize household staple , medical supply , and other high-demand product come into our fulfillment center so that we can more quickly receive , restock , and deliver these product to customers.For product other than these , we have temporarily disable shipment creation . `` We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock , '' the email obtain by Business Insider say . For the vendor , Amazon say they would see `` reduced purchase order '' a it `` temporarily pause '' order for all non-essential product until April 5 . `` Amazon have struggle to keep up with demand on essential item , so this move will allow them to focus more available resource to meet this increase demand . ''",
+      "domain": "www.businessinsider.com",
+      "tokenized": [
+        {
+          "sent": "Hello from Fulfillment by Amazon , We be closely monitor the development of COVID-19 and it impact on our customer , sell partner , and employees.We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That mean seller who use Amazon 's storage and delivery network for a fixed fee , through a program call Fulfillment by Amazon , will no longer be able to ship nonessential product to Amazon .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That 's put huge strain on Amazon 's supply chain , result in shipment delay , technical glitch , and labor shortage .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon say in an email to seller that it be now prioritize shipment in the following six category : baby product ; health and household ( include personal-care appliance ) ; beauty and personal care ; grocery ; industrial and scientific ; pet supply .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Correction : The original headline on this article have be update to clarify that Amazon be prioritize essential shipment to it warehouse and be not suspend nonessential shipment to consumer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On Monday , Amazon also announce that it be hire an additional 100,000 employee in it warehouse and delivery network .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Amazon be take drastic measure to address logistical challenge face amid the coronavirus pandemic , '' Steven Yates , CEO of Prime Guidance , an agency that help Amazon seller , say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It also extend the delivery windows for exist order , give vendor more time to deliver those product to Amazon .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The same restriction apply to vendor who wholesale their product to Amazon , who then resell them at a markup .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On Tuesday the company tell seller and vendor that it would accept only shipment of `` household staple , medical supply , and other high-demand product '' to it warehouse until April 5 to deal with the high demand of those product amid the coronavirus crisis .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "With this in mind , we be temporarily prioritize household staple , medical supply , and other high-demand product come into our fulfillment center so that we can more quickly receive , restock , and deliver these product to customers.For product other than these , we have temporarily disable shipment creation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock , '' the email obtain by Business Insider say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "For the vendor , Amazon say they would see `` reduced purchase order '' a it `` temporarily pause '' order for all non-essential product until April 5 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Amazon have struggle to keep up with demand on essential item , so this move will allow them to focus more available resource to meet this increase demand . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.sharecast.com/news/international-companies/amazon-suspends-non-essential-shipments-covid-19-crisis--7387458.html",
+      "content": "Amazon announce on Tuesday it would suspend all non-essential shipment amid the ongoing coronavirus outbreak around the world . Amazon have be hit with a wave of delivery delay and product shortage . The company will now only send medical supply and household staple , it say in a memo to employee .",
+      "domain": "www.sharecast.com",
+      "tokenized": [
+        {
+          "sent": "Amazon announce on Tuesday it would suspend all non-essential shipment amid the ongoing coronavirus outbreak around the world .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon have be hit with a wave of delivery delay and product shortage .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The company will now only send medical supply and household staple , it say in a memo to employee .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://heavy.com/news/2020/04/amazon-suspends-delivery-service/",
+      "content": "On March 16 , Amazon announce : \u201c As the COVID-19 pandemic continue , Amazon and our network of partner be help community around the world in a way that very few can\u2014delivering critical supply directly to the doorstep of people who need them . Amazon announce Tuesday it will suspend a third-party shipping service that aim to compete with FedEx and UPS . By suspend Amazon Shipping , the online marketplace will be able to focus on their main delivery business system . As the coronavirus spark doomsday-style shopping in grocery store across the nation , pay Amazon Prime shopper believe they could order all their supply from the online retailer and within the regular guarantee two-day delivery option . The online retailer , which have be a save grace for million of Americans amid the pandemic spread of coronavirus , be put a pause on Amazon Shipping , which operate in select city and deliver package that be not order on Amazon . \u201d\nTo help boost service , Amazon also announce they be plan to hire 100,000 full- and part-time worker to help fulfill the delivery order across America . Amazon say in a statement : \u201c To serve our customer in need while also help to ensure the safety of our associate , we \u2019 ve change our logistics , transportation , supply chain , purchasing , and third-party seller process to prioritize stocking and deliver item that be a high priority for our customer . The company say it be suspend the service in order to focus on it core e-commerce business , which have see skyrocket volume amid the coronavirus pandemic . GettyIs Amazon delivery continue or stop during coronavirus crisis ? amazon delivery coronavirusamazon delivery coronavirusGettyIs Amazon delivery continue or stop during coronavirus crisis ? \u201c We regularly look at a variety of factor across Amazon to make sure we \u2019 re set up in the right way to best serve our customer , \u201d an Amazon spokesperson tell Reuters .",
+      "domain": "heavy.com",
+      "tokenized": [
+        {
+          "sent": "On March 16 , Amazon announce : \u201c As the COVID-19 pandemic continue , Amazon and our network of partner be help community around the world in a way that very few can\u2014delivering critical supply directly to the doorstep of people who need them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon announce Tuesday it will suspend a third-party shipping service that aim to compete with FedEx and UPS .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "By suspend Amazon Shipping , the online marketplace will be able to focus on their main delivery business system .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As the coronavirus spark doomsday-style shopping in grocery store across the nation , pay Amazon Prime shopper believe they could order all their supply from the online retailer and within the regular guarantee two-day delivery option .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The online retailer , which have be a save grace for million of Americans amid the pandemic spread of coronavirus , be put a pause on Amazon Shipping , which operate in select city and deliver package that be not order on Amazon .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nTo help boost service , Amazon also announce they be plan to hire 100,000 full- and part-time worker to help fulfill the delivery order across America .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon say in a statement : \u201c To serve our customer in need while also help to ensure the safety of our associate , we \u2019 ve change our logistics , transportation , supply chain , purchasing , and third-party seller process to prioritize stocking and deliver item that be a high priority for our customer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The company say it be suspend the service in order to focus on it core e-commerce business , which have see skyrocket volume amid the coronavirus pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "GettyIs Amazon delivery continue or stop during coronavirus crisis ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "amazon delivery coronavirusamazon delivery coronavirusGettyIs Amazon delivery continue or stop during coronavirus crisis ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We regularly look at a variety of factor across Amazon to make sure we \u2019 re set up in the right way to best serve our customer , \u201d an Amazon spokesperson tell Reuters .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://finance.yahoo.com/news/amazon-limiting-shipments-certain-types-141958352.html",
+      "content": "This suspension will allow Amazon to prioritize shipment of `` household staple , medical supply and other high-demand product '' the company say in a support document on it website , and confirm to TechCrunch in an email . The commerce giant note in the email that it be `` see increased online shopping '' in the wake of the COVID-19 pandemic , and will focus on prioritize the reception , restock and delivery of the essential product that be most in demand from this new uptick in activity from Amazon shopper . Amazon 's `` Fulfillment by Amazon '' ( FBA ) program , through which it provide warehousing and shipment service for product from third-party seller , as well a it large vendor shipment service , be be partially suspend through April 5 due to the global coronavirus outbreak . Amazon be prioritize good in baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , the company say in a support document explain the new limitation . The COVID-19 pandemic take a heavy toll on the company and it global peer in 2020 , but oil price have rally this year a economy recover from last year 's downturn and after oil producer extend output cut . For all other product , Amazon say it have disable the creation of new inbound shipment for FBA member , as well a for retail vendor ( their business-to-business selling platform ) . We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock . The tentative date for the program to resume in full be April 5 , a mention , but it sound like Amazon could extend these limitation depend on how the pandemic progress . Amazon have take other step to address the increased demand it 's see on the platform a more and more country and city implement isolation and quarantine measure , include shelter-in-place order . Any exist shipment create prior to today be still go to be process at Amazon 's fulfillment center a usual , the company say , but otherwise new order wo n't be process until such time a Amazon alert seller that thing be back to normal . \u201d ( Updates with recent statement from the shipping industry on the threat of new Covid-19 variant to effort to relieve seafarer . ) \u201c We do not charter vessel for any voyage if a crew change will be require that can not be accommodate in our delivery schedule.",
+      "domain": "finance.yahoo.com",
+      "tokenized": [
+        {
+          "sent": "This suspension will allow Amazon to prioritize shipment of `` household staple , medical supply and other high-demand product '' the company say in a support document on it website , and confirm to TechCrunch in an email .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The commerce giant note in the email that it be `` see increased online shopping '' in the wake of the COVID-19 pandemic , and will focus on prioritize the reception , restock and delivery of the essential product that be most in demand from this new uptick in activity from Amazon shopper .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon 's `` Fulfillment by Amazon '' ( FBA ) program , through which it provide warehousing and shipment service for product from third-party seller , as well a it large vendor shipment service , be be partially suspend through April 5 due to the global coronavirus outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon be prioritize good in baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , the company say in a support document explain the new limitation .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The COVID-19 pandemic take a heavy toll on the company and it global peer in 2020 , but oil price have rally this year a economy recover from last year 's downturn and after oil producer extend output cut .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For all other product , Amazon say it have disable the creation of new inbound shipment for FBA member , as well a for retail vendor ( their business-to-business selling platform ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The tentative date for the program to resume in full be April 5 , a mention , but it sound like Amazon could extend these limitation depend on how the pandemic progress .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon have take other step to address the increased demand it 's see on the platform a more and more country and city implement isolation and quarantine measure , include shelter-in-place order .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Any exist shipment create prior to today be still go to be process at Amazon 's fulfillment center a usual , the company say , but otherwise new order wo n't be process until such time a Amazon alert seller that thing be back to normal .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d ( Updates with recent statement from the shipping industry on the threat of new Covid-19 variant to effort to relieve seafarer . )",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We do not charter vessel for any voyage if a crew change will be require that can not be accommodate in our delivery schedule.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://retailtouchpoints.com/topics/fulfillment-last-mile/report-amazon-suspends-third-party-delivery-service-amid-covid-19-sales-spike",
+      "content": "The COVID-19 pandemic and the associated e-Commerce sale spike have be strain even Amazon \u2019 s capability , cause the retailer to bar receipt of non-essential item from marketplace seller at it U.S. and UK fulfillment center . Amazon will halt the pilot of it Amazon Shipping delivery service for non-Amazon package in June , people familiar with the matter tell The Wall Street Journal . The retailer \u2019 s in-house delivery capability prove strong enough for Amazon to drop it ground delivery contract with FedEx in August 2019 , two month after FedEx Express decline to extend an agreement to fly Amazon package in the U.S . However , Amazon still work with UPS , the USPS and regional carrier to supplement the capability of it network .",
+      "domain": "retailtouchpoints.com",
+      "tokenized": [
+        {
+          "sent": "The COVID-19 pandemic and the associated e-Commerce sale spike have be strain even Amazon \u2019 s capability , cause the retailer to bar receipt of non-essential item from marketplace seller at it U.S. and UK fulfillment center .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon will halt the pilot of it Amazon Shipping delivery service for non-Amazon package in June , people familiar with the matter tell The Wall Street Journal .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The retailer \u2019 s in-house delivery capability prove strong enough for Amazon to drop it ground delivery contract with FedEx in August 2019 , two month after FedEx Express decline to extend an agreement to fly Amazon package in the U.S .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , Amazon still work with UPS , the USPS and regional carrier to supplement the capability of it network .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://techcrunch.com/2020/03/17/amazon-limiting-shipments-to-certain-types-of-products-due-to-covid-19-pandemic/",
+      "content": "This suspension will allow Amazon to prioritize shipment of \u201c household staple , medical supply and other high-demand product \u201d the company say in a support document on it website , and confirm to TechCrunch in an email . The commerce giant note in the email that it be \u201c see increased online shopping \u201d in the wake of the COVID-19 pandemic , and will focus on prioritize the reception , restock and delivery of the essential product that be most in demand from this new uptick in activity from Amazon shopper . Amazon \u2019 s \u201c Fulfillment by Amazon \u201d ( FBA ) program , through which it provide warehousing and shipment service for product from third-party seller , as well a it large vendor shipment service , be be partially suspend through April 5 due to the global coronavirus outbreak . Amazon be prioritize good in baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , the company say in a support document explain the new limitation . For all other product , Amazon say it have disable the creation of new inbound shipment for FBA member , as well a for retail vendor ( their business-to-business selling platform ) . We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock . The tentative date for the program to resume in full be April 5 , a mention , but it sound like Amazon could extend these limitation depend on how the pandemic progress . Amazon have take other step to address the increased demand it \u2019 s see on the platform a more and more country and city implement isolation and quarantine measure , include shelter-in-place order . Any exist shipment create prior to today be still go to be process at Amazon \u2019 s fulfillment center a usual , the company say , but otherwise new order win \u2019 t be process until such time a Amazon alert seller that thing be back to normal . With this in mind , we be temporarily prioritize household staple , medical supply , and other high-demand product come into our fulfillment center so we can more quickly receive , restock , and deliver these product to customer .",
+      "domain": "techcrunch.com",
+      "tokenized": [
+        {
+          "sent": "This suspension will allow Amazon to prioritize shipment of \u201c household staple , medical supply and other high-demand product \u201d the company say in a support document on it website , and confirm to TechCrunch in an email .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The commerce giant note in the email that it be \u201c see increased online shopping \u201d in the wake of the COVID-19 pandemic , and will focus on prioritize the reception , restock and delivery of the essential product that be most in demand from this new uptick in activity from Amazon shopper .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon \u2019 s \u201c Fulfillment by Amazon \u201d ( FBA ) program , through which it provide warehousing and shipment service for product from third-party seller , as well a it large vendor shipment service , be be partially suspend through April 5 due to the global coronavirus outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon be prioritize good in baby , health and household , beauty and personal care , grocery , industrial and scientific and pet supply category , the company say in a support document explain the new limitation .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "For all other product , Amazon say it have disable the creation of new inbound shipment for FBA member , as well a for retail vendor ( their business-to-business selling platform ) .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The tentative date for the program to resume in full be April 5 , a mention , but it sound like Amazon could extend these limitation depend on how the pandemic progress .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Amazon have take other step to address the increased demand it \u2019 s see on the platform a more and more country and city implement isolation and quarantine measure , include shelter-in-place order .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Any exist shipment create prior to today be still go to be process at Amazon \u2019 s fulfillment center a usual , the company say , but otherwise new order win \u2019 t be process until such time a Amazon alert seller that thing be back to normal .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "With this in mind , we be temporarily prioritize household staple , medical supply , and other high-demand product come into our fulfillment center so we can more quickly receive , restock , and deliver these product to customer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2020/04/15/business/amazon-france-covid.html",
+      "content": "PARIS \u2014 Amazon say Wednesday that it would temporarily halt it operation in France after a court rule the company have fail to adequately protect warehouse worker against the threat of the coronavirus and that it must restrict delivery to only food , hygiene and medical product until it address the issue . \u201c We have suspend activity in our distribution center in France , despite the huge investment we have make to ensure and strengthen safety measure for our employee , \u201d Amazon say in a statement , add that it be \u201c perplexed \u201d by the court \u2019 s decision . Under the court ruling , Amazon would be bar from fulfil such order until the company have fully satisfy health safety requirement . The threatened fine be too steep to risk not comply , Amazon add . The move follow a French court order for the U.S. retailer to limit delivery to essential good amid controversy over virus safety measure .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "PARIS \u2014 Amazon say Wednesday that it would temporarily halt it operation in France after a court rule the company have fail to adequately protect warehouse worker against the threat of the coronavirus and that it must restrict delivery to only food , hygiene and medical product until it address the issue .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We have suspend activity in our distribution center in France , despite the huge investment we have make to ensure and strengthen safety measure for our employee , \u201d Amazon say in a statement , add that it be \u201c perplexed \u201d by the court \u2019 s decision .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under the court ruling , Amazon would be bar from fulfil such order until the company have fully satisfy health safety requirement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The threatened fine be too steep to risk not comply , Amazon add .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The move follow a French court order for the U.S. retailer to limit delivery to essential good amid controversy over virus safety measure .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://bgr.com/2020/03/17/amazon-coronavirus-suspends-shipping-low-priority-products/",
+      "content": "Amazon be take drastic step to ensure it can continue to deliver the most important product to it customer in the midst of the COVID-19 pandemic . We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock . The company make the announcement today in a message to seller , say that it would no longer be accept inbound shipment of item sell by third party under the \u201c Fulfilment by Amazon \u201d program unless those product be consider high-priority . \u201d Still , that mean that the vast majority of product under Amazon \u2019 s umbrella will now be deprioritized , with no new order be fill by the company until April 5th .",
+      "domain": "bgr.com",
+      "tokenized": [
+        {
+          "sent": "Amazon be take drastic step to ensure it can continue to deliver the most important product to it customer in the midst of the COVID-19 pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The company make the announcement today in a message to seller , say that it would no longer be accept inbound shipment of item sell by third party under the \u201c Fulfilment by Amazon \u201d program unless those product be consider high-priority .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d Still , that mean that the vast majority of product under Amazon \u2019 s umbrella will now be deprioritized , with no new order be fill by the company until April 5th .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.politico.eu/article/amazon-suspends-delivery-of-non-essential-goods-in-coronavirus-response/",
+      "content": "Amazon say it would immediately prioritize shipment of household staple and medical product while temporarily halt intake of other good until April 5 in response to the coronavirus pandemic .",
+      "domain": "www.politico.eu",
+      "tokenized": [
+        {
+          "sent": "Amazon say it would immediately prioritize shipment of household staple and medical product while temporarily halt intake of other good until April 5 in response to the coronavirus pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://sellercentral.amazon.com/forums/t/amazon-suspends-many-inbound-shipments-for-fba-sellers-through-april-5/592398",
+      "content": "I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller until inbound shipment be again be receive and process . I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller\nI didn \u2019 t suggest it do have anything to do with FBA . I want Amazon to give FBA seller a break since they have suspend shipment . Amazon have suspend seller for price gouging and have gate category cause a temporary scarcity . I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock . Now it seem like China be back in business to supply all need COVID-19 good . As long a delivery service other than Amazon fulfillment be still open for business that be . I think that any other monthly fee should be suspend for FBA seller until shipment be again be receive . Fulfilled by Merchant FBM seller should do well online as long a they don \u2019 t sell COVID-19 related good . I suggest that that particular fee should be waive for all FBA seller ( who have that kind of account ) since shipment have be suspend . Your shipment ability have be temporarily suspend because of repeated problem .",
+      "domain": "sellercentral.amazon.com",
+      "tokenized": [
+        {
+          "sent": "I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller until inbound shipment be again be receive and process .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller\nI didn \u2019 t suggest it do have anything to do with FBA .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I want Amazon to give FBA seller a break since they have suspend shipment .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon have suspend seller for price gouging and have gate category cause a temporary scarcity .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I strongly suggest that Amazon suspend all monthly subscription fee for FBA seller We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Now it seem like China be back in business to supply all need COVID-19 good .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As long a delivery service other than Amazon fulfillment be still open for business that be .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I think that any other monthly fee should be suspend for FBA seller until shipment be again be receive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Fulfilled by Merchant FBM seller should do well online as long a they don \u2019 t sell COVID-19 related good .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I suggest that that particular fee should be waive for all FBA seller ( who have that kind of account ) since shipment have be suspend .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Your shipment ability have be temporarily suspend because of repeated problem .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/04/15/834969353/amazon-to-temporarily-stop-deliveries-in-france-following-court-ruling",
+      "content": "Amazon will suspend all distribution operation in it six warehouse in France until at least April 20 , accord to an internal document send to French labor union . This week 's temporary Amazon closure will likely be a blow to households that rely on it delivery service , since most business across the country be close . In the U.S. , where the company have also come under scrutiny for it health and safety measure , Amazon say earlier this week it would hire 75,000 more worker to keep up with the surge in demand for delivery . The court give the French subsidiary of the U.S. online retail giant 24 hour to restrict shipment to essential good such a food or medical supply , or face a fine of $ 1.1 million for each day of non-compliance .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "Amazon will suspend all distribution operation in it six warehouse in France until at least April 20 , accord to an internal document send to French labor union .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This week 's temporary Amazon closure will likely be a blow to households that rely on it delivery service , since most business across the country be close .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the U.S. , where the company have also come under scrutiny for it health and safety measure , Amazon say earlier this week it would hire 75,000 more worker to keep up with the surge in demand for delivery .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The court give the French subsidiary of the U.S. online retail giant 24 hour to restrict shipment to essential good such a food or medical supply , or face a fine of $ 1.1 million for each day of non-compliance .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://nypost.com/2020/03/17/amazon-suspends-shipments-of-non-essential-products-to-warehouses-amid-coronavirus-driven-shortages/",
+      "content": "Amazon be ban seller from ship any non-essential item to it warehouse a it grapple with overwhelming demand for basic staple item a the coronavirus pandemic worsens . \u201c We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock , \u201d Amazon tell seller , accord to an email obtain by NBC . Amazon on Monday announce plan to hire 100,000 additional warehouse and delivery worker to deal with the surge in order . The Seattle-based e-tailing giant send an email to seller Tuesday announce that it would only be accept \u201c household staple , medical supply , and other high-demand product \u201d for the next three week so that it can \u201c more quickly receive , restock , and deliver \u201d the product to customer .",
+      "domain": "nypost.com",
+      "tokenized": [
+        {
+          "sent": "Amazon be ban seller from ship any non-essential item to it warehouse a it grapple with overwhelming demand for basic staple item a the coronavirus pandemic worsens .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock , \u201d Amazon tell seller , accord to an email obtain by NBC .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon on Monday announce plan to hire 100,000 additional warehouse and delivery worker to deal with the surge in order .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Seattle-based e-tailing giant send an email to seller Tuesday announce that it would only be accept \u201c household staple , medical supply , and other high-demand product \u201d for the next three week so that it can \u201c more quickly receive , restock , and deliver \u201d the product to customer .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://thehill.com/policy/technology/488037-amazon-suspending-shipments-of-non-essential-items-to-warehouses",
+      "content": "Amazon be suspend shipment of nonessential item to it warehouse in the United States and United Kingdom follow shortage trigger by the coronavirus outbreak . Limiting nonessential item be just one step Amazon have take in response to increase demand for product to deal with the coronavirus pandemic . `` We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , '' a spokesperson for the online retail giant say in a statement to The Hill Tuesday . On Monday , Amazon announce it be plan to hire about 100,000 new employee . `` With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so we can more quickly receive , restock and ship these product to customer . ''",
+      "domain": "thehill.com",
+      "tokenized": [
+        {
+          "sent": "Amazon be suspend shipment of nonessential item to it warehouse in the United States and United Kingdom follow shortage trigger by the coronavirus outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Limiting nonessential item be just one step Amazon have take in response to increase demand for product to deal with the coronavirus pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` We be see increase online shopping and a a result some product such a household staple and medical supply be out of stock , '' a spokesperson for the online retail giant say in a statement to The Hill Tuesday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "On Monday , Amazon announce it be plan to hire about 100,000 new employee .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` With this in mind , we be temporarily prioritize household staple , medical supply and other high-demand product come into our fulfillment center so we can more quickly receive , restock and ship these product to customer . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.freightwaves.com/news/amazon-prime-suspends-delivery-promises-future-of-fast-shipping-under-scrutiny",
+      "content": "In a battle that seem to intensify weekly , Amazon and fellow retail behemoth Walmart ( WMT ) have be compete to see who can get stuff to consumer the fast , announce initiative after initiative to shave day and hour off delivery time . Only two week ago , the e-retailing and logistics giant shut down or suspend it same day or two-day delivery service would have be unthinkable . But Brittain Ladd , a former Amazon executive who now run his own consultancy , say the coronavirus have uncover \u201c a flaw in the supply chain of retailers. If they \u2019 re suspend speedy delivery now , I understand , but if that go away permanently , then they owe u a refund on our membership and reduce the cost go forward . The e-commerce giant also temporarily close it Prime Pantry delivery service a it face a surge in order stem from the pandemic . Since amazon can \u2019 t honor their agreement for fast shipping , we deserve a refund , and I get it . This be now , when panic-buying have deplete grocery store shelf and hospital face dire shortage of medical supply , upend long-held belief about consumer purchasing and raise question about institutional purchasing habit and supply chain practice .",
+      "domain": "www.freightwaves.com",
+      "tokenized": [
+        {
+          "sent": "In a battle that seem to intensify weekly , Amazon and fellow retail behemoth Walmart ( WMT ) have be compete to see who can get stuff to consumer the fast , announce initiative after initiative to shave day and hour off delivery time .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Only two week ago , the e-retailing and logistics giant shut down or suspend it same day or two-day delivery service would have be unthinkable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But Brittain Ladd , a former Amazon executive who now run his own consultancy , say the coronavirus have uncover \u201c a flaw in the supply chain of retailers.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If they \u2019 re suspend speedy delivery now , I understand , but if that go away permanently , then they owe u a refund on our membership and reduce the cost go forward .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The e-commerce giant also temporarily close it Prime Pantry delivery service a it face a surge in order stem from the pandemic .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since amazon can \u2019 t honor their agreement for fast shipping , we deserve a refund , and I get it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This be now , when panic-buying have deplete grocery store shelf and hospital face dire shortage of medical supply , upend long-held belief about consumer purchasing and raise question about institutional purchasing habit and supply chain practice .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-amazon-com-delivery/amazon-to-suspend-delivery-service-competing-with-ups-fedex-idUSKBN21P3EB",
+      "content": "( Reuters ) - Amazon.com Inc AMZN.O will suspend a delivery service that aim to compete with UPS UPS.N and FedEx FDX.N in the United States . Amazon be suspend the service because it need people and capacity to handle a surge in it own customer \u2019 order , the Journal report , cite source . The suspension of Amazon Shipping will allow the company to focus on it core delivery operation , say Trevor Outman , founder of consultancy Shipware . Amazon say here in March it would hire 100,000 warehouse and delivery worker in the United States to deal with a surge in online order .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "( Reuters ) - Amazon.com Inc AMZN.O will suspend a delivery service that aim to compete with UPS UPS.N and FedEx FDX.N in the United States .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon be suspend the service because it need people and capacity to handle a surge in it own customer \u2019 order , the Journal report , cite source .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The suspension of Amazon Shipping will allow the company to focus on it core delivery operation , say Trevor Outman , founder of consultancy Shipware .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon say here in March it would hire 100,000 warehouse and delivery worker in the United States to deal with a surge in online order .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wsj.com/articles/amazon-to-suspend-delivery-service-that-competes-with-ups-fedex-11586296112",
+      "content": "Amazon be suspend the service because it need it people and capacity to handle a surge in it own customer \u2019 order , accord to a person familiar with the matter . will halt a delivery service for non- Amazon package , accord to people familiar with the matter , a it re-evaluates the nascent offering that compete directly with FedEx Corp .",
+      "domain": "www.wsj.com",
+      "tokenized": [
+        {
+          "sent": "Amazon be suspend the service because it need it people and capacity to handle a surge in it own customer \u2019 order , accord to a person familiar with the matter .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "will halt a delivery service for non- Amazon package , accord to people familiar with the matter , a it re-evaluates the nascent offering that compete directly with FedEx Corp .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/uk-news/2020/mar/17/amazon-to-suspend-all-non-essential-shipments-in-uk-and-us-until-april",
+      "content": "Earlier in the outbreak , Amazon suspend account of seller who be attempt to cash in on coronavirus fear by raise the price of item such a face mask and hand sanitiser . Amazon write to it third-party seller , some of whom use the company \u2019 s logistics to store and dispatch their product , to inform them that stock of medical supply and certain household item be run low due to increase demand from online shopper . However , the union say it would set aside it dispute with the company , provide it abandon plan change , so that worker can provide \u201c an additional emergency service \u201d during the Covid-19 pandemic . Amazon charge fee to seller which use it fulfilment system , which enable them to store their product in the retailer \u2019 s warehouse and use their logistics network for delivery .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "Earlier in the outbreak , Amazon suspend account of seller who be attempt to cash in on coronavirus fear by raise the price of item such a face mask and hand sanitiser .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon write to it third-party seller , some of whom use the company \u2019 s logistics to store and dispatch their product , to inform them that stock of medical supply and certain household item be run low due to increase demand from online shopper .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , the union say it would set aside it dispute with the company , provide it abandon plan change , so that worker can provide \u201c an additional emergency service \u201d during the Covid-19 pandemic .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon charge fee to seller which use it fulfilment system , which enable them to store their product in the retailer \u2019 s warehouse and use their logistics network for delivery .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.goodhousekeeping.com/life/a31743635/amazon-suspending-shipments/",
+      "content": ", but it cut back on the already-hectic delivery schedule of Amazon driver everywhere . To limit your contact with others , Amazon also let you select `` unattended delivery '' for any Prime Now , Amazon Fresh , and Whole Foods Market delivery order . For that reason alone , many wonder \u2014 well , fear \u2013 if Amazon will eventually stop delivery altogether in the coming week . While Amazon be know for their one or two-day shipping , the online retailer warn customer that delivery may be slightly delay at this time due to an overwhelming influx of order . To ensure that essential item take priority , Amazon ask shopper to choose the No-Rush shipping option when available , if they do n't need an item immediately . In an effort to keep their home fully stock with pantry essential , cleaning product , and family-friendly activity while adhere to the recommend social distancing guideline , many be put their Amazon Prime membership to work with two or three-day delivery . Of course , most item on Amazon that be n't from third-party seller be still ready and able to be deliver to your door ASAP . And if you 're concern about the cleanliness about the package you 're receive at your door , Amazon recently outline all the way that they 're keep their store and warehouse in CDC-approved shape : `` To protect customer shop in our physical retail store , we 've enhance our daily cleaning procedure and be implement additional nightly clean .",
+      "domain": "www.goodhousekeeping.com",
+      "tokenized": [
+        {
+          "sent": ", but it cut back on the already-hectic delivery schedule of Amazon driver everywhere .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "To limit your contact with others , Amazon also let you select `` unattended delivery '' for any Prime Now , Amazon Fresh , and Whole Foods Market delivery order .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For that reason alone , many wonder \u2014 well , fear \u2013 if Amazon will eventually stop delivery altogether in the coming week .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While Amazon be know for their one or two-day shipping , the online retailer warn customer that delivery may be slightly delay at this time due to an overwhelming influx of order .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "To ensure that essential item take priority , Amazon ask shopper to choose the No-Rush shipping option when available , if they do n't need an item immediately .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In an effort to keep their home fully stock with pantry essential , cleaning product , and family-friendly activity while adhere to the recommend social distancing guideline , many be put their Amazon Prime membership to work with two or three-day delivery .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Of course , most item on Amazon that be n't from third-party seller be still ready and able to be deliver to your door ASAP .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And if you 're concern about the cleanliness about the package you 're receive at your door , Amazon recently outline all the way that they 're keep their store and warehouse in CDC-approved shape : `` To protect customer shop in our physical retail store , we 've enhance our daily cleaning procedure and be implement additional nightly clean .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/money/2020/05/31/amazon-reduces-deliveries-shifts-routes-amid-protests-report-says/5300976002/",
+      "content": "Amazon be limit delivery and shift route in some city that have be rock by protest over the killing of George Floyd .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "Amazon be limit delivery and shift route in some city that have be rock by protest over the killing of George Floyd .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://esellercafe.com/shock-announcement-amazon-suspends-many-inbound-shipments-for-fba-sellers-through-april-5/",
+      "content": "Amazon in the U.S. be already fall behind in delivery a the grasp with an unexpected huge search in sale from people panic buying many common product . We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock . The war between Walmart and Amazon be heat up , and low free shipping minimum may hurt all online retailer .",
+      "domain": "esellercafe.com",
+      "tokenized": [
+        {
+          "sent": "Amazon in the U.S. be already fall behind in delivery a the grasp with an unexpected huge search in sale from people panic buying many common product .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "We be see increase online shopping , and a a result some product such a household staple and medical supply be out of stock .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The war between Walmart and Amazon be heat up , and low free shipping minimum may hurt all online retailer .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/technology/2020/03/24/amazon-prime-deliveries-coronavirus/",
+      "content": "Live update on the U.S. stock market and the economic impact of the coronavirus pandemic\nAmazon spokeswoman Keri Bertolino say in a statement Monday that some delivery have be delay a the company work to balance customer need with safety of it worker . SEATTLE \u2014 Amazon this week add a new measure to try to triage it flood of order and shortage of good during the coronavirus pandemic : prioritize it $ 119-a-year Prime member . Bertolino say on Tuesday the company be adjust it system to prioritize the delivery of essential household staple , medical supply and more when the long delivery time appear for non-Prime customer . \u201d\nTo help resolve it issue , Amazon be take once-unthinkable step to lessen the bottleneck that be prevent customer from get the product they most want . Prime Now and AmazonFresh grocery delivery spot be nearly impossible to find , and the company even temporarily shut down it Prime Pantry program , which allow customer to fill a box with household item . Amazon \u2018 s scramble to address the crisis have come a a rapid-fire list of decision to try to fix the problem . The move follow week of inability to stock and ship household staple \u2014 range from toilet paper to hand sanitizer to bleach \u2014 at a time when shopper be more and more reliant on Amazon while they be stay at home to prevent the spread of the virus . Long line , low supply : Coronavirus chaos send shopper into panic-buying mode\nA pandemic year : How future generation will judge humanity \u2019 s performance against the coronavirus | What it felt like to lose time \u2014 and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair . On Monday , Amazon say it \u2019 s monitor price around the clock , \u201c through both automate and manual mean , \u201d and that it be work with law enforcement to hold price gouger accountable . Amazon be also wrestle to crack down on price gouging by third-party seller , some of whom offer astronomical price for much-sought after good such a mask and hand sanitizer . Amazon have say it will hire 100,000 worker , limit shipment to it warehouse from it third-party seller , and restrict order of \u201c lower-priority shipment \u201d to customer in France and Italy , where the outbreak be particularly acute . Amazon \u2019 s warehouse worker sound alarm about coronavirus spread\nThe shift tactic illustrate how caught off-guard Amazon be by the sudden , intense surge of shopping for household staple a the coronavirus spread across the country and around the world . Last week , the company tell the third-party merchant who sell on it site that it will limit the item it receive at warehouse , prioritize household staple , medical supply and other high-demand product that remain difficult to find on the site .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Live update on the U.S. stock market and the economic impact of the coronavirus pandemic\nAmazon spokeswoman Keri Bertolino say in a statement Monday that some delivery have be delay a the company work to balance customer need with safety of it worker .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "SEATTLE \u2014 Amazon this week add a new measure to try to triage it flood of order and shortage of good during the coronavirus pandemic : prioritize it $ 119-a-year Prime member .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Bertolino say on Tuesday the company be adjust it system to prioritize the delivery of essential household staple , medical supply and more when the long delivery time appear for non-Prime customer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nTo help resolve it issue , Amazon be take once-unthinkable step to lessen the bottleneck that be prevent customer from get the product they most want .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Prime Now and AmazonFresh grocery delivery spot be nearly impossible to find , and the company even temporarily shut down it Prime Pantry program , which allow customer to fill a box with household item .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon \u2018 s scramble to address the crisis have come a a rapid-fire list of decision to try to fix the problem .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The move follow week of inability to stock and ship household staple \u2014 range from toilet paper to hand sanitizer to bleach \u2014 at a time when shopper be more and more reliant on Amazon while they be stay at home to prevent the spread of the virus .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Long line , low supply : Coronavirus chaos send shopper into panic-buying mode\nA pandemic year : How future generation will judge humanity \u2019 s performance against the coronavirus | What it felt like to lose time \u2014 and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On Monday , Amazon say it \u2019 s monitor price around the clock , \u201c through both automate and manual mean , \u201d and that it be work with law enforcement to hold price gouger accountable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon be also wrestle to crack down on price gouging by third-party seller , some of whom offer astronomical price for much-sought after good such a mask and hand sanitizer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Amazon have say it will hire 100,000 worker , limit shipment to it warehouse from it third-party seller , and restrict order of \u201c lower-priority shipment \u201d to customer in France and Italy , where the outbreak be particularly acute .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amazon \u2019 s warehouse worker sound alarm about coronavirus spread\nThe shift tactic illustrate how caught off-guard Amazon be by the sudden , intense surge of shopping for household staple a the coronavirus spread across the country and around the world .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Last week , the company tell the third-party merchant who sell on it site that it will limit the item it receive at warehouse , prioritize household staple , medical supply and other high-demand product that remain difficult to find on the site .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

@@ -1,0 +1,963 @@
+{
+  "event_id": "236070",
+  "claim": "A traveler from Beijing was caught at Dulles International Airport with a suitcase full of dead birds that the person tried to disguise as pet food. ",
+  "original_label": "mixture",
+  "label": "half",
+  "explain": "In February 2020, reports started to circulate about a traveler from Beijing who had a \u201csuitcase full of dead birds\u201d confiscated by U.S. Customs and Border Protection (CBP) after he tried to \u201cdisguise\u201d the item as pet food:\n\nThese reports were based on a genuine incident that occurred at Washington Dulles International Airport on Feb. 10, 2020. However, this traveler did not attempt to \u201cdisguise\u201d this item as a pet food product or try to hide it from customs officials. The traveler declared the single, sealed package of pet food to customs officials. And while those residing in the United States may not consider dead birds as a treat for pets, small freeze-dried birds, such as quail, are sold as pet food in Asia.\u00a0\nThis rumor spun off of a release from CBP about a bag of dead birds that was confiscated from a traveler\u2019s luggage at Dulles:\nU.S. Customs and Border Protection (CBP) agriculture specialists recently seized a package of tiny dead birds in a passenger\u2019s baggage at Washington Dulles International Airport.\nThe traveler arrived on a flight from Beijing, China January 27 and was destined to an address in Prince George\u2019s County, Maryland. During a baggage examination, CBP agriculture specialists discovered a package with pictures of a cat and dog that the passenger said was cat food. The package contained a bunch of unknown small birds, about 2.5 to 3.5 inches in length.\n\nWhile this was a rather mundane incident, it occurred during heightened concerns about the spread of a new coronavirus in China and sparked a flurry of news coverage, some of which appeared to play on people\u2019s fears. Note the creepy, ominous music in this clip from WUSA:\nOther reports contained misleading details.\nFor instance, some outlets reported that this person\u2019s suitcase \u2014 and not a sealed package in a suitcase \u2014 was full of dead birds. Others were overly dismissive about the traveler\u2019s claim that these birds were pet food, writing that \u201ca package of tiny dead birds [was] passed off as pet food.\u201d The Daily Mail went as far as to claim this traveler had \u201cdisguised\u201d these dead birds as pet food.\nThis led some on social media to believe that the passenger had ulterior motives, had hidden this package from authorities, or was attempting to spread disease in the United States:\nAnything hidden coming from China should be banned and those people should be punished. There was an Ulterior Motive there. Call for an investigation. Some people are wanting to spread everything to the United States and everywhere else in the world.\nOther social media users wondered if this was an act of terrorism:\nDoes anyone know why someone would travel with dead birds packaged to look like pet food? Is it cultural food item/medicine, it\u2019s it terrorism? A crazy person who freeze dried all her dead birds for companionship?\nThere is nothing online for this answer that I could find.\nWe reached out to CBP for more information about this incident.\u00a0\nThe agency told us that the traveler declared this item to border agents. In other words, no one attempted to \u201chide\u201d it from officials. CBP also confirmed that the single package was sealed, so the suitcase wasn\u2019t full of loose dead birds, and that it wasn\u2019t a package of pet food emptied and filled again with dead birds in an attempt to smuggle it through customs. Lastly, CBP told us that this was treated as a \u201croutine case of a traveler in possession of prohibited agriculture products.\u201d\u00a0\nSteve Sapp, a public affairs officer with CBP, told us:\nIt should also be noted that while the words \u201cpet food\u201d don\u2019t typically conjure up images of dead birds for those residing in the United States, this is a genuine pet food product sold in China. From what we can tell, this package contained \u201csmall freeze dried quail.\u201d While we haven\u2019t been able to find this specific brand of quail, we did find several similar pet food products:\n\nTo sum up: A traveler packed a bag of an unusual pet food in his luggage while traveling from Beijing to the United States. That traveler declared the item with border officials and was told that the item, which contained dead birds, was a prohibited agriculture product. CBP then confiscated and destroyed the item.\u00a0\u00a0\nBut as this relatively mundane incident occurred amidst an outbreak of a new coronavirus in China, it sparked a rash of news coverage and stoked fears about the potential spread of disease.\u00a0\nRead CBP\u2019s full press release on this incident here.",
+  "reports": [
+    {
+      "link": "https://www.washingtonpost.com/transportation/2020/02/10/bag-tiny-dead-birds-china-confiscated-passenger-dulles-airport/",
+      "content": "Add tiny dead bird mean to be use a pet food to the list of odd item that agent with U.S. Customs and Border Protection have confiscate from traveler at Dulles International Airport . Inside the bag be several tiny dead , dried bird , about 2.5 inch to 3.5 inch long , that the passenger say be cat food . Because the packaging seem to indicate they be sell a pet food in China , they might not have catch the attention of Chinese official , CBP say . Agricultural specialist examine the person \u2019 s bag and find a see-through package with picture of a dog and cat print on it \u2014 similar to package of pet treat . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for CBP \u2019 s Baltimore Field Office , say in a news release . According to the agency , the bird , which be from China , be not allow to be import to the United States because of the potential threat of highly pathogenic avian influenza . According to the agency , on Jan. 27 , a traveler arrive on a flight from Beijing and be head to an address in Prince George \u2019 s County , Md .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Add tiny dead bird mean to be use a pet food to the list of odd item that agent with U.S. Customs and Border Protection have confiscate from traveler at Dulles International Airport .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Inside the bag be several tiny dead , dried bird , about 2.5 inch to 3.5 inch long , that the passenger say be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Because the packaging seem to indicate they be sell a pet food in China , they might not have catch the attention of Chinese official , CBP say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Agricultural specialist examine the person \u2019 s bag and find a see-through package with picture of a dog and cat print on it \u2014 similar to package of pet treat .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for CBP \u2019 s Baltimore Field Office , say in a news release .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the agency , the bird , which be from China , be not allow to be import to the United States because of the potential threat of highly pathogenic avian influenza .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the agency , on Jan. 27 , a traveler arrive on a flight from Beijing and be head to an address in Prince George \u2019 s County , Md .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.foxnews.com/travel/dead-birds-seized-from-passengered-arriving-from-china",
+      "content": "The unidentified person arrive at Dulles International Airport on a flight from Beijing on January 27 , where CBP agriculture specialist initiate a baggage inspection and discover the prohibited bird -- which the passenger say be cat food , official say . The package of pet food fromChina consist of tiny dead bird . Agriculture specialist with the U.S. Customs and Border Protection ( CBP ) seize a package of dead bird from the luggage of a passenger travel from China . U.S. Customs and Border Protection agent in Washington , D.C. , seize a package of dead bird from the luggage of a passenger travel from China , the agency announce on Monday . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office . Due to fear over the highly contagious bird flu , the deceased animal be promptly incinerate with USDA approval . It 's not clear what type of small bird be inside the package and CBP say they be 2.5 to 3.5 inch in length .",
+      "domain": "www.foxnews.com",
+      "tokenized": [
+        {
+          "sent": "The unidentified person arrive at Dulles International Airport on a flight from Beijing on January 27 , where CBP agriculture specialist initiate a baggage inspection and discover the prohibited bird -- which the passenger say be cat food , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The package of pet food fromChina consist of tiny dead bird .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Agriculture specialist with the U.S. Customs and Border Protection ( CBP ) seize a package of dead bird from the luggage of a passenger travel from China .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection agent in Washington , D.C. , seize a package of dead bird from the luggage of a passenger travel from China , the agency announce on Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Due to fear over the highly contagious bird flu , the deceased animal be promptly incinerate with USDA approval .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It 's not clear what type of small bird be inside the package and CBP say they be 2.5 to 3.5 inch in length .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://ktla.com/news/nationworld/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . '' The passenger , who arrive from Beijing , tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , U.S. Customs official say Monday . Read\n\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , the director of Field Operations for CBP \u2019 s Baltimore Field Office , say in the statement . Birds from China be prohibit for import into the U.S. due to the possible spread of bird flu , accord to federal official . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+      "domain": "ktla.com",
+      "tokenized": [
+        {
+          "sent": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger , who arrive from Beijing , tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , U.S. Customs official say Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Read\n\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , the director of Field Operations for CBP \u2019 s Baltimore Field Office , say in the statement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Birds from China be prohibit for import into the U.S. due to the possible spread of bird flu , accord to federal official .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.miamiherald.com/news/nation-world/article240174858.html",
+      "content": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . '' Agricultural specialist seize a packet of small dead bird that be in a traveler \u2019 s luggage at the Washington Dulles International Airport , CBP say in a news release . A traveler be plan to bring a small package of tiny dead bird from China a cat food , but U.S. Customs and Border Protection official step in . Read\n\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for CBP \u2019 s Baltimore Field Office , say in the news release . The passenger say the package of 2.5 to 3.5-inch bird be cat food , and the package have picture of a dog and a cat on it , the release say . The traveler be come from Beijing on Jan. 27 and be on the way to a final destination in Maryland , accord to the news release . The bird be set on fire with the Department of Agriculture \u2019 s approval , CBP say .",
+      "domain": "www.miamiherald.com",
+      "tokenized": [
+        {
+          "sent": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Agricultural specialist seize a packet of small dead bird that be in a traveler \u2019 s luggage at the Washington Dulles International Airport , CBP say in a news release .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A traveler be plan to bring a small package of tiny dead bird from China a cat food , but U.S. Customs and Border Protection official step in .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Read\n\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for CBP \u2019 s Baltimore Field Office , say in the news release .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The passenger say the package of 2.5 to 3.5-inch bird be cat food , and the package have picture of a dog and a cat on it , the release say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler be come from Beijing on Jan. 27 and be on the way to a final destination in Maryland , accord to the news release .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird be set on fire with the Department of Agriculture \u2019 s approval , CBP say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nbc15.com/content/news/Dead-birds-found-in-passengers-baggage-from-China-at-Wash-DC-airport-567749421.html",
+      "content": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . '' U.S. Customs official seize a package stuffed with small , dead bird in a passenger 's luggage at Dulles International Airport in the Washington , D.C. area , official announce Monday . The traveler tell authority that the bird body be `` cat food . '' \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office in a\n. U.S. Customs and Border Protection ( CBP ) say that the passenger arrive at the airport from Beijing , China . During a security check , Customs specialist find a package fill with a bunch of unknown small bird , about 2.5 to 3.5 inch in length . It 's illegal to import bird from China due to the threat of highly pathogenic avian influenza . The bird be then seize on behalf of the U.S. Department of Agriculture and destroy by incineration .",
+      "domain": "www.nbc15.com",
+      "tokenized": [
+        {
+          "sent": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "U.S. Customs official seize a package stuffed with small , dead bird in a passenger 's luggage at Dulles International Airport in the Washington , D.C. area , official announce Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler tell authority that the bird body be `` cat food . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office in a\n.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection ( CBP ) say that the passenger arrive at the airport from Beijing , China .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a security check , Customs specialist find a package fill with a bunch of unknown small bird , about 2.5 to 3.5 inch in length .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It 's illegal to import bird from China due to the threat of highly pathogenic avian influenza .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The bird be then seize on behalf of the U.S. Department of Agriculture and destroy by incineration .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.travelpulse.com/news/airlines/dulles-cbp-seizes-dead-birds-from-passenger-arriving-from-china.html",
+      "content": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . '' In 2018 , a traveler be catch try to smuggle 70 live bird in a carry-on bag at New York City 's John F. Kennedy International Airport . U.S. Customs and Border Protection ( CBP ) agent at Washington Dulles International Airport in Virginia seize a bag of tiny dead bird from a passenger arrive from China late last month amid grow concern over the coronavirus outbreak . `` These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , in a statement . The dead bird , which be prohibit for import due to the potential threat of highly pathogenic avian influenza , be seize on behalf of the U.S. Department of Agriculture ( USDA ) and destroy by incineration . During a baggage examination , CBP agriculture specialist find a package with picture of a cat and dog on it that the passenger claim be cat food . Read\nLast year , CBP officer stop a man attempt to smuggle 35 pound of liquid cocaine inside of shampoo bottle at Houston 's George Bush Intercontinental Airport . In a release publish on Monday , CBP confirm that the unidentified traveler arrive on a flight from Beijing on January 27 .",
+      "domain": "www.travelpulse.com",
+      "tokenized": [
+        {
+          "sent": "@ CBP agriculture specialist at Dulles airport continue to protect our nation 's vital agricultural resource and our economy by intercept potential animal threat , like those pose by these tiny dead bird from China package a `` pet food . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "In 2018 , a traveler be catch try to smuggle 70 live bird in a carry-on bag at New York City 's John F. Kennedy International Airport .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection ( CBP ) agent at Washington Dulles International Airport in Virginia seize a bag of tiny dead bird from a passenger arrive from China late last month amid grow concern over the coronavirus outbreak .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , in a statement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The dead bird , which be prohibit for import due to the potential threat of highly pathogenic avian influenza , be seize on behalf of the U.S. Department of Agriculture ( USDA ) and destroy by incineration .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a baggage examination , CBP agriculture specialist find a package with picture of a cat and dog on it that the passenger claim be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Read\nLast year , CBP officer stop a man attempt to smuggle 35 pound of liquid cocaine inside of shampoo bottle at Houston 's George Bush Intercontinental Airport .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In a release publish on Monday , CBP confirm that the unidentified traveler arrive on a flight from Beijing on January 27 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.kiro7.com/news/trending/customs-officials-find-dead-birds-passengers-luggage-dulles-international-airport/3LG6MTPWZZEIZBHUT6CLHVSB5M/",
+      "content": "Officials at @ Dulles_Airport seize a package of dead bird from a passenger 's luggage which the traveler claim be cat food\nAirport official say the importation of bird from China into the United States be prohibit because of the risk of a \u201c potentially significant disease threat \u201d of a highly pathogenic avian influenza , the television station report . U.S. Customs and Border Protection agent confiscate a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January , official say . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , tell WUSA . The carrier say the bird be cat food , the television station report . During a baggage examination , agricultural specialist discover a package contain the small bird , WRC report . The traveler arrive in the Washington area on a flight from Beijing on Jan. 27 , WUSA report . The package have a \u201c bunch of unknown small bird \u201d which be 2.5 inch to 3.5 inch in length , WJLA report . The bird seize in January destroy through incineration with the approval of the U.S. Department of Agriculture , WJLA report . The traveler \u2019 s final destination be a residence in Prince George \u2019 s County , Maryland , the television station report .",
+      "domain": "www.kiro7.com",
+      "tokenized": [
+        {
+          "sent": "Officials at @ Dulles_Airport seize a package of dead bird from a passenger 's luggage which the traveler claim be cat food\nAirport official say the importation of bird from China into the United States be prohibit because of the risk of a \u201c potentially significant disease threat \u201d of a highly pathogenic avian influenza , the television station report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "U.S. Customs and Border Protection agent confiscate a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , tell WUSA .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The carrier say the bird be cat food , the television station report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "During a baggage examination , agricultural specialist discover a package contain the small bird , WRC report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler arrive in the Washington area on a flight from Beijing on Jan. 27 , WUSA report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The package have a \u201c bunch of unknown small bird \u201d which be 2.5 inch to 3.5 inch in length , WJLA report .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird seize in January destroy through incineration with the approval of the U.S. Department of Agriculture , WJLA report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The traveler \u2019 s final destination be a residence in Prince George \u2019 s County , Maryland , the television station report .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wftv.com/news/trending/customs-officials-find-dead-birds-passengers-luggage-dulles-international-airport/3LG6MTPWZZEIZBHUT6CLHVSB5M/",
+      "content": "Officials at @ Dulles_Airport seize a package of dead bird from a passenger 's luggage which the traveler claim be cat food\nAirport official say the importation of bird from China into the United States be prohibit because of the risk of a \u201c potentially significant disease threat \u201d of a highly pathogenic avian influenza , the television station report . U.S. Customs and Border Protection agent confiscate a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January , official say . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , tell WUSA . The carrier say the bird be cat food , the television station report . During a baggage examination , agricultural specialist discover a package contain the small bird , WRC report . The traveler arrive in the Washington area on a flight from Beijing on Jan. 27 , WUSA report . The package have a \u201c bunch of unknown small bird \u201d which be 2.5 inch to 3.5 inch in length , WJLA report . The bird seize in January destroy through incineration with the approval of the U.S. Department of Agriculture , WJLA report . The traveler \u2019 s final destination be a residence in Prince George \u2019 s County , Maryland , the television station report .",
+      "domain": "www.wftv.com",
+      "tokenized": [
+        {
+          "sent": "Officials at @ Dulles_Airport seize a package of dead bird from a passenger 's luggage which the traveler claim be cat food\nAirport official say the importation of bird from China into the United States be prohibit because of the risk of a \u201c potentially significant disease threat \u201d of a highly pathogenic avian influenza , the television station report .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "U.S. Customs and Border Protection agent confiscate a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January , official say .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , tell WUSA .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The carrier say the bird be cat food , the television station report .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "During a baggage examination , agricultural specialist discover a package contain the small bird , WRC report .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The traveler arrive in the Washington area on a flight from Beijing on Jan. 27 , WUSA report .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The package have a \u201c bunch of unknown small bird \u201d which be 2.5 inch to 3.5 inch in length , WJLA report .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The bird seize in January destroy through incineration with the approval of the U.S. Department of Agriculture , WJLA report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The traveler \u2019 s final destination be a residence in Prince George \u2019 s County , Maryland , the television station report .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nbcwashington.com/news/local/dead-birds-in-passengers-baggage-seized-at-dulles/2214047/",
+      "content": "U.S. Customs and Border Protection intercept a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office . The carrier say the bird be cat food . During a baggage examination , agriculture specialist discover a package contain several small bird . The specie of the bird be unknown , but they be ban in the U.S. from China because of their potential to carry bird flu . The traveler arrive to D.C. on a flight from Beijing , China on Jan. 27 .",
+      "domain": "www.nbcwashington.com",
+      "tokenized": [
+        {
+          "sent": "U.S. Customs and Border Protection intercept a package of tiny dead bird from a passenger \u2019 s bag at Dulles International Airport in January .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The carrier say the bird be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "During a baggage examination , agriculture specialist discover a package contain several small bird .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The specie of the bird be unknown , but they be ban in the U.S. from China because of their potential to carry bird flu .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler arrive to D.C. on a flight from Beijing , China on Jan. 27 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wusa9.com/article/news/local/virginia/dulles-cbp-seizes-dead-birds-from-passenger-bag/65-ab887e01-0616-4d94-b9a2-2e33859896f9",
+      "content": "STERLING , Va. \u2014 U.S. Customs and Border Protection ( CBP ) specialist recently seize a package of tiny dead bird -- yes , you read that correctly -- in a passenger 's baggage at Dulles International Airport . `` These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office say . During a baggage examination , CBP specialist discover a package with picture of a cat and dog that the passenger say be 'cat food . ' The bird from China , accord to CBP official , be prohibit for import due to the potential threat of highly pathogenic avian influenza . According to official , the traveler arrive on a flight from Beijing , China on Jan. 27 , 2020 where the traveler 's final destination be to a residence in Prince George 's County , Maryland . The package , accord to official , contain a bunch of unknown small bird , about 2.5 to 3.5 inch in length . RELATED : Dulles be not screen for coronavirus yet , but it \u2019 s 1 of 20 airport on expanded screening list",
+      "domain": "www.wusa9.com",
+      "tokenized": [
+        {
+          "sent": "STERLING , Va. \u2014 U.S. Customs and Border Protection ( CBP ) specialist recently seize a package of tiny dead bird -- yes , you read that correctly -- in a passenger 's baggage at Dulles International Airport .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a baggage examination , CBP specialist discover a package with picture of a cat and dog that the passenger say be 'cat food . '",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird from China , accord to CBP official , be prohibit for import due to the potential threat of highly pathogenic avian influenza .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to official , the traveler arrive on a flight from Beijing , China on Jan. 27 , 2020 where the traveler 's final destination be to a residence in Prince George 's County , Maryland .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The package , accord to official , contain a bunch of unknown small bird , about 2.5 to 3.5 inch in length .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "RELATED : Dulles be not screen for coronavirus yet , but it \u2019 s 1 of 20 airport on expanded screening list",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.kron4.com/news/strange/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture . US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu .",
+      "domain": "www.kron4.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wric.com/news/u-s-world/bag-of-tiny-dead-birds-seized-from-passenger-arriving-at-dulles-international-airport-from-china/",
+      "content": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . The package from China contain tiny dead bird seize by Border Patrol . / US Customs and Border Protection\nSTERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture . US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu . Mo\u00efse speak at Haiti \u2019 s airport in Port-au-Prince , flank by the country \u2019 s prime minister and the police chief a he prepare to leave for the southern coastal town of Jacmel for the opening ceremony of it yearly carnival , which be be hold amid the pandemic . PORT-AU-PRINCE , Haiti ( AP ) \u2014 Haitian President Jovenel Mo\u00efse announce Sunday that police have arrest more than 20 people he accuse of try to kill him and overthrow his government , include a Supreme Court judge who have the support of opposition leader demand that Mo\u00efse step down .",
+      "domain": "www.wric.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The package from China contain tiny dead bird seize by Border Patrol .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "/ US Customs and Border Protection\nSTERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mo\u00efse speak at Haiti \u2019 s airport in Port-au-Prince , flank by the country \u2019 s prime minister and the police chief a he prepare to leave for the southern coastal town of Jacmel for the opening ceremony of it yearly carnival , which be be hold amid the pandemic .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "PORT-AU-PRINCE , Haiti ( AP ) \u2014 Haitian President Jovenel Mo\u00efse announce Sunday that police have arrest more than 20 people he accuse of try to kill him and overthrow his government , include a Supreme Court judge who have the support of opposition leader demand that Mo\u00efse step down .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.fox21news.com/news/national/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . STERLING , Va. ( KRON ) \u2014 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture . US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu .",
+      "domain": "www.fox21news.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , US Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "STERLING , Va. ( KRON ) \u2014 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , US Customs and Border Protection announce .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the US Department of Agriculture .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "US Customs reinforce that bird be not allow into the US due to the possible spread of bird flu .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nbcdfw.com/news/health/dulles-cbp-intercepts-dead-birds-in-passengers-bag-from-china/2309884/",
+      "content": "U.S. Customs and Border Protection agriculture specialist seize a package of tiny dead bird in a passenger 's baggage at Washington Dulles International Airport . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , say . The package contain small dead bird , each about 2.5 to 3.5 inch long . During a baggage examination , CBP specialist discover a package with picture of a cat and dog that the passenger say be cat food . The bird from China be prohibit due to the potential threat of avian influenza . A traveler arrive on a flight from Beijing , China on Jan. 27 and be go to an address in Prince George 's County , Maryland . The bird be seize on behalf of U.S. Department of Agriculture and destroy by incineration .",
+      "domain": "www.nbcdfw.com",
+      "tokenized": [
+        {
+          "sent": "U.S. Customs and Border Protection agriculture specialist seize a package of tiny dead bird in a passenger 's baggage at Washington Dulles International Airport .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office , say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The package contain small dead bird , each about 2.5 to 3.5 inch long .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "During a baggage examination , CBP specialist discover a package with picture of a cat and dog that the passenger say be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird from China be prohibit due to the potential threat of avian influenza .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A traveler arrive on a flight from Beijing , China on Jan. 27 and be go to an address in Prince George 's County , Maryland .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird be seize on behalf of U.S. Department of Agriculture and destroy by incineration .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://kdvr.com/news/nationalworld-news/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+      "domain": "kdvr.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://fox40.com/news/national-and-world-news/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+      "domain": "fox40.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://fox5sandiego.com/news/bag-of-tiny-dead-birds-seized-from-passenger-arriving-in-us-from-china/",
+      "content": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing . STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection . The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight . CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu . According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+      "domain": "fox5sandiego.com",
+      "tokenized": [
+        {
+          "sent": "In a statement , U.S. Customs official say the package of dead bird be seize at Dulles International Airport on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "STERLING , Va. ( KRON ) \u2013 A bag of dead bird be seize from the luggage of a passenger travel from China to Washington , D.C. , accord to U.S. Customs and Border Protection .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The passenger tell official the bird be cat food and that he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "CBP reinforce that bird from China be prohibit for import into the U.S. due to the possible spread of bird flu .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "According to authority , the bird be \u201c destroy by incineration \u201d with approval from the U.S. Department of Agriculture .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nydailynews.com/news/national/ny-dead-birds-dulles-airport-washington-20200211-f5e3pcixtrbnxcnoptvt3kwuz4-story.html",
+      "content": "A flock of dead bird be find inside a sealed package during a custom check at Dulles International Airport , authority say Monday . Specialists make the foul discovery Jan. 27 while search the luggage of a traveler who arrive at the Virginia airport from Beijing , accord to Customs and Border Protection . The passenger say the little flyer be pet food , accord to the border control . But entry of the baseball-sized bird into the U.S. be prohibit due to concern about the rare bird flu . Casey Durst , director of field operation for CBP \u2019 s office in Baltimore , say in a news release that \u201c unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen .",
+      "domain": "www.nydailynews.com",
+      "tokenized": [
+        {
+          "sent": "A flock of dead bird be find inside a sealed package during a custom check at Dulles International Airport , authority say Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Specialists make the foul discovery Jan. 27 while search the luggage of a traveler who arrive at the Virginia airport from Beijing , accord to Customs and Border Protection .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The passenger say the little flyer be pet food , accord to the border control .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But entry of the baseball-sized bird into the U.S. be prohibit due to concern about the rare bird flu .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Casey Durst , director of field operation for CBP \u2019 s office in Baltimore , say in a news release that \u201c unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://baltimore.cbslocal.com/2020/02/10/dead-birds-luggage-china-dulles-airport/",
+      "content": "STERLING , Va. ( WJZ ) \u2014 Officials seize a package contain numerous dead bird from a traveler \u2019 s luggage at Washington Dulles International Airport late last month , the U.S. Customs and Border Protection agency say Monday . When they open the package , official reportedly find numerous dead bird between 2.5 and 3.5 inch long . Customs official examine the passenger \u2019 s bag and find a package with picture of a cat and a dog , which the passenger say contain cat food . Officials say the bird aren \u2019 t allow to be import due to the threat of spread avian influenza , commonly know a bird flu . The passenger arrive at Dulles from Beijing on January 27 and be head to an address in Prince George \u2019 s County , official say .",
+      "domain": "baltimore.cbslocal.com",
+      "tokenized": [
+        {
+          "sent": "STERLING , Va. ( WJZ ) \u2014 Officials seize a package contain numerous dead bird from a traveler \u2019 s luggage at Washington Dulles International Airport late last month , the U.S. Customs and Border Protection agency say Monday .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When they open the package , official reportedly find numerous dead bird between 2.5 and 3.5 inch long .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Customs official examine the passenger \u2019 s bag and find a package with picture of a cat and a dog , which the passenger say contain cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Officials say the bird aren \u2019 t allow to be import due to the threat of spread avian influenza , commonly know a bird flu .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The passenger arrive at Dulles from Beijing on January 27 and be head to an address in Prince George \u2019 s County , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbp.gov/newsroom/local-media-release/dulles-cbp-intercepts-dead-birds-passenger-baggage-china",
+      "content": "STERLING , Va. \u2013 U.S. Customs and Border Protection ( CBP ) agriculture specialist recently seize a package of tiny dead bird in a passenger \u2019 s baggage at Washington Dulles International Airport . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office . During a baggage examination , CBP agriculture specialist discover a package with picture of a cat and dog that the passenger say be cat food . The traveler arrive on a flight from Beijing , China January 27 and be destine to an address in Prince George \u2019 s County , Maryland . The bird from China be prohibit for import due to the potential threat of highly pathogenic avian influenza . The package contain a bunch of unknown small bird , about 2.5 to 3.5 inch in length . They have extensive training and experience in the biological science and agricultural inspection , inspect ten of thousand of international air passenger , and air and sea cargo nationally be import to the United States .",
+      "domain": "www.cbp.gov",
+      "tokenized": [
+        {
+          "sent": "STERLING , Va. \u2013 U.S. Customs and Border Protection ( CBP ) agriculture specialist recently seize a package of tiny dead bird in a passenger \u2019 s baggage at Washington Dulles International Airport .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a baggage examination , CBP agriculture specialist discover a package with picture of a cat and dog that the passenger say be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler arrive on a flight from Beijing , China January 27 and be destine to an address in Prince George \u2019 s County , Maryland .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The bird from China be prohibit for import due to the potential threat of highly pathogenic avian influenza .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The package contain a bunch of unknown small bird , about 2.5 to 3.5 inch in length .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "They have extensive training and experience in the biological science and agricultural inspection , inspect ten of thousand of international air passenger , and air and sea cargo nationally be import to the United States .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.whsv.com/content/news/CBP-intercepts-dead-birds-in-passengers-baggage-from-China-at-Dulles-airport-567742751.html",
+      "content": "U.S. custom official say they recently seize a package of tiny dead bird in someone 's baggage at Washington Dulles International Airport . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office . The package contain a large quantity of small , dead bird , each about 2.5 to 3.5 inch in length . The passenger tell official that it be a package of cat food . According to a press release by Customs and Border Protection ( CBP ) , a traveler arrive on a flight from Beijing , China , on January 27 en route to an address in Prince George 's County , Maryland . According to CBP , bird from another nation be prohibit for import due to the potential threat of highly pathogenic avian influenza ( bird flu ) . The U.S. Department of Agriculture seize the bird and destroy them by incineration , per standard procedure . During a baggage examination , CBP say their agriculture specialist discover a package with image of a cat and dog on the bag . \u201d\nCBP agriculture specialist inspect ten of thousand of international air passenger , and air and sea cargo , nationally be import to the United States .",
+      "domain": "www.whsv.com",
+      "tokenized": [
+        {
+          "sent": "U.S. custom official say they recently seize a package of tiny dead bird in someone 's baggage at Washington Dulles International Airport .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d say Casey Durst , Director of Field Operations for CBP \u2019 s Baltimore Field Office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The package contain a large quantity of small , dead bird , each about 2.5 to 3.5 inch in length .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger tell official that it be a package of cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to a press release by Customs and Border Protection ( CBP ) , a traveler arrive on a flight from Beijing , China , on January 27 en route to an address in Prince George 's County , Maryland .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to CBP , bird from another nation be prohibit for import due to the potential threat of highly pathogenic avian influenza ( bird flu ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The U.S. Department of Agriculture seize the bird and destroy them by incineration , per standard procedure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During a baggage examination , CBP say their agriculture specialist discover a package with image of a cat and dog on the bag .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nCBP agriculture specialist inspect ten of thousand of international air passenger , and air and sea cargo , nationally be import to the United States .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.independent.co.uk/news/world/americas/dead-birds-china-confiscate-dulles-airport-us-customs-border-protection-a9328606.html",
+      "content": "Flu fear block import of 'cat food '\nA bag contain dozen of dead bird have be confiscate from a passenger arrive from China to an airport near Washington DC , US Customs and Border Protection ( CBP ) have say . Inside the bag be several tiny dead , dried bird , about two-and-a-half inch to three-and-a-half inch long that the passenger say be cat food . Because the packaging seem to indicate they be sell a pet food in China , they might not have catch the attention of Chinese official , the CBP say . \u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation 's poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for the CBP 's Baltimore field office say in a news release . According to the agency , on 27 January , a traveller arrive to Dulles International Airport on a flight from Beijing and be head to an address in Prince George 's County . Agricultural specialist examine the person 's bag and find a mostly transparent package with picture of a dog and cat print on it . According to the agency , the bird , which be from China , be not allow to be import to the United States because of the potential threat of highly pathogenic avian influenza , or bird flu .",
+      "domain": "www.independent.co.uk",
+      "tokenized": [
+        {
+          "sent": "Flu fear block import of 'cat food '\nA bag contain dozen of dead bird have be confiscate from a passenger arrive from China to an airport near Washington DC , US Customs and Border Protection ( CBP ) have say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Inside the bag be several tiny dead , dried bird , about two-and-a-half inch to three-and-a-half inch long that the passenger say be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Because the packaging seem to indicate they be sell a pet food in China , they might not have catch the attention of Chinese official , the CBP say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c These dead bird be prohibit from importation to the United States a unprocessed bird pose a potentially significant disease threat to our nation 's poultry industry and more alarmingly to our citizen a potential vector of avian influenza , \u201d Casey Durst , director of field operation for the CBP 's Baltimore field office say in a news release .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the agency , on 27 January , a traveller arrive to Dulles International Airport on a flight from Beijing and be head to an address in Prince George 's County .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Agricultural specialist examine the person 's bag and find a mostly transparent package with picture of a dog and cat print on it .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to the agency , the bird , which be from China , be not allow to be import to the United States because of the potential threat of highly pathogenic avian influenza , or bird flu .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/travel/news/2020/02/11/passenger-tried-sneaking-tiny-dead-birds-washington-dulles-airport/4721804002/",
+      "content": "U.S. Customs and Border Protection agriculture specialist find a package of tiny dead bird in a passenger 's luggage at Washington Dulles International Airport on Jan. 27 . While this incident may have be about dead bird , an incident in late 2018 involved live one : An agriculture specialist discover 70 live bird in the bag of a traveler who have just touch down in New York from Georgetown , Guyana , in South America . `` These dead bird be prohibit from importation to the United States , a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' Casey Durst , director of field operation for CBP \u2019 s Baltimore field office , say in a news release . The traveler arrive at Dulles after a flight from Beijing and plan to head to an address in Prince George 's County , Maryland . More on those live bird : Traveler catch try to smuggle 70 live bird through JFK in hair roller The package in question have a picture of a cat and dog on it , which the passenger claim be cat food . Cat food it be not : 2.5- to 3.5-inch-long bird be inside instead .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "U.S. Customs and Border Protection agriculture specialist find a package of tiny dead bird in a passenger 's luggage at Washington Dulles International Airport on Jan. 27 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While this incident may have be about dead bird , an incident in late 2018 involved live one : An agriculture specialist discover 70 live bird in the bag of a traveler who have just touch down in New York from Georgetown , Guyana , in South America .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` These dead bird be prohibit from importation to the United States , a unprocessed bird pose a potentially significant disease threat to our nation \u2019 s poultry industry and more alarmingly to our citizen a potential vector of avian influenza , '' Casey Durst , director of field operation for CBP \u2019 s Baltimore field office , say in a news release .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The traveler arrive at Dulles after a flight from Beijing and plan to head to an address in Prince George 's County , Maryland .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "More on those live bird : Traveler catch try to smuggle 70 live bird through JFK in hair roller The package in question have a picture of a cat and dog on it , which the passenger claim be cat food .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Cat food it be not : 2.5- to 3.5-inch-long bird be inside instead .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://whdh.com/news/customs-bag-of-cat-food-sent-from-china-full-of-dead-birds/",
+      "content": "Customs agent seize a cat food bag contain numerous small dead bird that be fly over from China due to avian flu concern , official say . Customs agent examine baggage at Washington Dulles International Airport Jan. 27 find a package with picture of a cat and dog on it that a passenger , who be head to Maryland , say be cat food , official say . Importing bird from China be prohibit due to the threat of avian influenza , official say . The package actually contain numerous unknown small bird between 2 1/2 and 3 1/2 inch long .",
+      "domain": "whdh.com",
+      "tokenized": [
+        {
+          "sent": "Customs agent seize a cat food bag contain numerous small dead bird that be fly over from China due to avian flu concern , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Customs agent examine baggage at Washington Dulles International Airport Jan. 27 find a package with picture of a cat and dog on it that a passenger , who be head to Maryland , say be cat food , official say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Importing bird from China be prohibit due to the threat of avian influenza , official say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The package actually contain numerous unknown small bird between 2 1/2 and 3 1/2 inch long .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://nypost.com/2020/02/10/border-agents-seize-bag-of-dead-birds-from-passenger-traveling-from-china/",
+      "content": "A bag of dead bird be discover by US Customs and Border Patrol in the luggage of a passenger who travel from China to a Washington , DC-area airport , authority say . Workers from the agency seize the bird at Dulles Airport near Washington on Jan. 27 from a passenger arrive from Beijing . The dead bird be package in a bag that have cartoon image of a dog and cat , US Customs say in a statement . The passenger say the bird be cat food and he be plan to bring them to Maryland after his flight . The bird be \u201c destroy by incineration \u201d with approval from the USDA , authority say . The bird be not allow into the United States out of fear they may spread avian flu , US Customs say .",
+      "domain": "nypost.com",
+      "tokenized": [
+        {
+          "sent": "A bag of dead bird be discover by US Customs and Border Patrol in the luggage of a passenger who travel from China to a Washington , DC-area airport , authority say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Workers from the agency seize the bird at Dulles Airport near Washington on Jan. 27 from a passenger arrive from Beijing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The dead bird be package in a bag that have cartoon image of a dog and cat , US Customs say in a statement .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The passenger say the bird be cat food and he be plan to bring them to Maryland after his flight .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The bird be \u201c destroy by incineration \u201d with approval from the USDA , authority say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The bird be not allow into the United States out of fear they may spread avian flu , US Customs say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thesun.co.uk/news/10938799/us-border-agents-seize-bizarre-bag-of-dead-birds-from-passenger-travelling-from-coronavirus-hit-china/",
+      "content": "The seized bag contain the dried-out body of dozen of dead bird and be decorate with cartoon picture of a dog and a cat . US border agent have seize a bizarre bag of dead bird from a passenger travel from coronavirus-hit China . The passenger , who be on his way to Maryland , say the bird be intend a cat food . Officials say the bird be ban from be bring into the US a part of measure to guard against avian flu . Recent week have see authority in country around the world introduce measure to try to stop the coronavirus spread elsewhere .",
+      "domain": "www.thesun.co.uk",
+      "tokenized": [
+        {
+          "sent": "The seized bag contain the dried-out body of dozen of dead bird and be decorate with cartoon picture of a dog and a cat .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "US border agent have seize a bizarre bag of dead bird from a passenger travel from coronavirus-hit China .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The passenger , who be on his way to Maryland , say the bird be intend a cat food .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Officials say the bird be ban from be bring into the US a part of measure to guard against avian flu .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Recent week have see authority in country around the world introduce measure to try to stop the coronavirus spread elsewhere .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

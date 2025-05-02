@@ -1,0 +1,912 @@
+{
+  "event_id": "209380",
+  "claim": "Blue-green algae (known scientifically as cyanobacteria) are capable of poisoning dogs and other pets. ",
+  "original_label": "true",
+  "label": "true",
+  "explain": "On Aug. 8, 2019, a Facebook user posted an account of her three dogs\u2019 apparent deaths from algae poisoning, stating that the dogs \u201ccontracted blue-green algae poisoning and there was nothing they could do\u201d:\n\nBlue-green algae \u2014 cyanobacteria to the scientific community \u2014 are a massive, diverse, and ancient group of bacterial species ubiquitous in nature. Massive blooms can occur in environments when significant amounts of nutrients, either from fertilizer or other natural processes, run off into waterways, producing conditions that allow the organisms to overwhelm a body of water.\nThough not all species of cyanobacteria produce toxins, \u201cspecies within several genera produce potent toxins, known as cyanotoxins\u00a0[\u2026] all of which can induce severe or fatal illness in animals and people,\u201d according to a review paper published in the scientific journal Toxins. Though equally susceptible to toxic effects of these cyanotoxins, humans are less likely to suffer deadly consequences because they generally do not drink large amounts of algae-contaminated water or roll around in it.\nVal Beasley, a professor of veterinary, wildlife and ecological toxicology sciences at Pennsylvania State University, told The New York Times that cyanobacterial poisoning of animals is common and occurs seasonally:\nIt happens every single year in the U.S. and around the world. \u2026 A lot of times, the neurotoxins will kill the animal before they can get to the veterinarian. \u2026 This time of year is when you have the most numbers of cases and people are out and about with their animals and the conditions are ripe for the cyanobacteria to grow.\nToxic algae blooms typically occur in stagnant, warm waters. If you suspect a harmful algae bloom in your area, the U.S. Environmental Protection Agency published a list of state-level authorities to whom you can report the potential occurrence, or to check for local algae alerts.",
+  "reports": [
+    {
+      "link": "https://thebark.com/content/beware-algae",
+      "content": "While test be pending , the vet suspect that the dog be poison by cyanobacteria , also know a blue-green algae ( BGA ) . The Environmental Protection Agency publish a set of national standard for microcystins and cylindrospermopsin ( blue-green algae toxin ) in recreational or drinking water in May 2019 , and promote safety and public awareness to help protect dog and kid . While most algae be harmless , some specie of blue-green algae produce toxins that can kill a dog within minute . According to the algae fact sheet from Humboldt County , the toxin of concern be nervous system poison ( neurotoxin ) and liver poison ( hepatotoxin ) . However , the \u201c wide range \u201d of affected dog include Poodles , Dachshunds and toy breed , which also encounter blue-green algae in urban and residential water body . Since 2001 , eleven dog death have be blame on blue-green algae in California \u2019 s Humboldt and Mendocino Counties . One major clue : suspicious dog death at a lake taint with blue-green algae that drain to the sea . A study publish in 2013 find 368 case of dog that die or be sicken by blue-green algae in the U.S. between the late 1920s and 2012 . According to the study of canine incident , blue-green algae toxin can be inhale and ingest , and exposure can induce \u201c acute , sub-acute or chronic poisoning \u201d in animal and people . \u201c The vast majority of blue-green algae associate dog death remain unreported and often unrecognized by owner and veterinarian . \u201d\nReports of canine poisoning be sporadic until the mid-1970s , when dog death attribute to blue-green algae be report \u201c almost yearly , \u201d the study note . \u201d\nThe belief that small dog or urban-dwelling dog don \u2019 t encounter algae may influence the diagnosis consider . If dog do get into scummy water , rinse it off with tap water immediately , make sure they don \u2019 t lick algae from their fur .",
+      "domain": "thebark.com",
+      "tokenized": [
+        {
+          "sent": "While test be pending , the vet suspect that the dog be poison by cyanobacteria , also know a blue-green algae ( BGA ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Environmental Protection Agency publish a set of national standard for microcystins and cylindrospermopsin ( blue-green algae toxin ) in recreational or drinking water in May 2019 , and promote safety and public awareness to help protect dog and kid .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While most algae be harmless , some specie of blue-green algae produce toxins that can kill a dog within minute .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to the algae fact sheet from Humboldt County , the toxin of concern be nervous system poison ( neurotoxin ) and liver poison ( hepatotoxin ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , the \u201c wide range \u201d of affected dog include Poodles , Dachshunds and toy breed , which also encounter blue-green algae in urban and residential water body .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since 2001 , eleven dog death have be blame on blue-green algae in California \u2019 s Humboldt and Mendocino Counties .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One major clue : suspicious dog death at a lake taint with blue-green algae that drain to the sea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A study publish in 2013 find 368 case of dog that die or be sicken by blue-green algae in the U.S. between the late 1920s and 2012 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to the study of canine incident , blue-green algae toxin can be inhale and ingest , and exposure can induce \u201c acute , sub-acute or chronic poisoning \u201d in animal and people .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c The vast majority of blue-green algae associate dog death remain unreported and often unrecognized by owner and veterinarian .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nReports of canine poisoning be sporadic until the mid-1970s , when dog death attribute to blue-green algae be report \u201c almost yearly , \u201d the study note .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d\nThe belief that small dog or urban-dwelling dog don \u2019 t encounter algae may influence the diagnosis consider .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If dog do get into scummy water , rinse it off with tap water immediately , make sure they don \u2019 t lick algae from their fur .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.pethealthnetwork.com/dog-health/dog-toxins-poisons/blue-green-algae-a-deadly-danger-dogs",
+      "content": "For this reason , you shouldn \u2019 t allow your dog ( or child ) to swim or drink water that have be potentially contaminate with blue-green algae.Symptoms of blue-green algae poisoningClinical sign of blue-green algae poison depend on what type of toxin ( e.g. One day , the dog drink out of this moldy , algae-filled tank , and unfortunately be accidentally poison by blue-green algae . Make sure your dog always have a bowl of fresh water available so he or she isn \u2019 t tempt to drink from contaminate sources.The prognosis of blue-green algae poison Unfortunately , with blue-green algae , the prognosis be very poor , and some dog actually pass away before be able to get to a veterinarian . That \u2019 s because even small exposure ( as little a 1-2 lick ) , can potentially result in fatal poisoning.I advise that you stomp around any lake before you let your dog dive in , and make sure to avoid it if it have bloom of algae float on the surface . Blue-green algae , which be also call cyanobacteria , be a microscopic bacteria find in freshwater pond , lake , stream , and brackish water ecosystem . Clinical sign of blue-green algae that produce microcystins , typically include :\nWith blue-green algae that produce anatoxin , symptom include :\nHow do I protect my dog from blue-green algae ? For this reason , if you suspect that your dog be expose to blue-green algae , get to a veterinarian immediately .",
+      "domain": "www.pethealthnetwork.com",
+      "tokenized": [
+        {
+          "sent": "For this reason , you shouldn \u2019 t allow your dog ( or child ) to swim or drink water that have be potentially contaminate with blue-green algae.Symptoms of blue-green algae poisoningClinical sign of blue-green algae poison depend on what type of toxin ( e.g.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "One day , the dog drink out of this moldy , algae-filled tank , and unfortunately be accidentally poison by blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Make sure your dog always have a bowl of fresh water available so he or she isn \u2019 t tempt to drink from contaminate sources.The prognosis of blue-green algae poison Unfortunately , with blue-green algae , the prognosis be very poor , and some dog actually pass away before be able to get to a veterinarian .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That \u2019 s because even small exposure ( as little a 1-2 lick ) , can potentially result in fatal poisoning.I advise that you stomp around any lake before you let your dog dive in , and make sure to avoid it if it have bloom of algae float on the surface .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue-green algae , which be also call cyanobacteria , be a microscopic bacteria find in freshwater pond , lake , stream , and brackish water ecosystem .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Clinical sign of blue-green algae that produce microcystins , typically include :\nWith blue-green algae that produce anatoxin , symptom include :\nHow do I protect my dog from blue-green algae ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For this reason , if you suspect that your dog be expose to blue-green algae , get to a veterinarian immediately .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://innatepets.com.au/blogs/news/blue-green-algae-poisoning-in-dogs-extremely-fatal",
+      "content": "Blue-Green Algae be also know a Cyanobacteria and be a microscopic bacteria that be commonly find in area with stagnant freshwater and brackish ( slightly salty ) water ecosystem , such a dam , pond , stream , river and lake . This algae produce toxin ( Microcystins and Anatoxins ) that be dangerous to people , livestock and pet that swim and drink from the contaminated water source . I will be honest and tell you that I do not know about Blue-Green Algae Poisoning until come across a heartbreaking story on social medium about a dog that die before her owner could even make it from the river to the vet . Blue-Green Algae be a silent killer for not only dog , but cat , cattle , sheep , pig , goat , and any farm animal that have access to it . In other word , map that look similar to a heat map show area of phosphorescence across Australia , allow researcher to see measurement of chlorophyll-a , cyanobacteria ( blue-green algae ) , and phosphorus in the water . The number one way to ensure the safety of your pet be by not allow them to swim in water that appear to be discolour with a green tinge , or have algae visibly float on the surface . Blue-green algae produce two type of toxin , microcystins and anatoxin . Its toxin be know to affect the central nervous system , liver and kidney , and bad still , the toxin can remain in the water even after the blue-green algae themselves have vanish - in some case for week , depend on the condition . The big piece of information to take out of all of this is\u2026 if you suspect the water be contaminate by blue-green algae , do not allow your dog to swim , drink or play in the water !",
+      "domain": "innatepets.com.au",
+      "tokenized": [
+        {
+          "sent": "Blue-Green Algae be also know a Cyanobacteria and be a microscopic bacteria that be commonly find in area with stagnant freshwater and brackish ( slightly salty ) water ecosystem , such a dam , pond , stream , river and lake .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This algae produce toxin ( Microcystins and Anatoxins ) that be dangerous to people , livestock and pet that swim and drink from the contaminated water source .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I will be honest and tell you that I do not know about Blue-Green Algae Poisoning until come across a heartbreaking story on social medium about a dog that die before her owner could even make it from the river to the vet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Blue-Green Algae be a silent killer for not only dog , but cat , cattle , sheep , pig , goat , and any farm animal that have access to it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In other word , map that look similar to a heat map show area of phosphorescence across Australia , allow researcher to see measurement of chlorophyll-a , cyanobacteria ( blue-green algae ) , and phosphorus in the water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The number one way to ensure the safety of your pet be by not allow them to swim in water that appear to be discolour with a green tinge , or have algae visibly float on the surface .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Blue-green algae produce two type of toxin , microcystins and anatoxin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Its toxin be know to affect the central nervous system , liver and kidney , and bad still , the toxin can remain in the water even after the blue-green algae themselves have vanish - in some case for week , depend on the condition .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The big piece of information to take out of all of this is\u2026 if you suspect the water be contaminate by blue-green algae , do not allow your dog to swim , drink or play in the water !",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.petpoisonhelpline.com/poison/blue-green-algae/",
+      "content": "Cyanobacteria ( also know a blue-green algae ) be microscopic bacteria find in freshwater lake , stream , pond and brackish water ecosystem . If you suspect your dog be expose to blue-green algae , contact Pet Poison Helpline immediately for guidance . Dogs that enjoy swim and play in lake and pond may be expose to blue-green algae . They can produce toxin ( such a microcystins and anatoxin ) that affect people , livestock and pet that swim in and drink from the algae-contaminated water .",
+      "domain": "www.petpoisonhelpline.com",
+      "tokenized": [
+        {
+          "sent": "Cyanobacteria ( also know a blue-green algae ) be microscopic bacteria find in freshwater lake , stream , pond and brackish water ecosystem .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you suspect your dog be expose to blue-green algae , contact Pet Poison Helpline immediately for guidance .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dogs that enjoy swim and play in lake and pond may be expose to blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They can produce toxin ( such a microcystins and anatoxin ) that affect people , livestock and pet that swim in and drink from the algae-contaminated water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://wagwalking.com/condition/algae-blooms-toxicity",
+      "content": "Toxins produce by cyanobacteria be :\nToxic algae bloom be cause by a combination of :\nIt be important to let your veterinarian know that your dog be swim in blue-green water . The harmful algal bloom ( HAB ) may look like algae but they be a type of photosynthetic bacteria call cyanobacteria . Toxic algae bloom be also know a blue-green algae because the bloom give the water source a blue-green appearance .",
+      "domain": "wagwalking.com",
+      "tokenized": [
+        {
+          "sent": "Toxins produce by cyanobacteria be :\nToxic algae bloom be cause by a combination of :\nIt be important to let your veterinarian know that your dog be swim in blue-green water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The harmful algal bloom ( HAB ) may look like algae but they be a type of photosynthetic bacteria call cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Toxic algae bloom be also know a blue-green algae because the bloom give the water source a blue-green appearance .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.petprofessional.com.au/info-centre/blue-green-algae-toxicity-dogs/",
+      "content": "According to the Veterinary Manual , algae toxicity \u2018 be an acute , often fatal condition cause by high concentration of toxic blue-green algae ( more commonly know a cyanobacteria\u2014literally blue-green bacteria ) \u2019 . The Pet Poisons Helpline list the following telltale sign of algae toxicity :\nIndeed , know the sign of algae toxicity be vital , a immediate veterinary treatment be need to address this fast-acting and lethal poison . Blue-green algae can be toxic for dog and cat , lead to liver failure and even death . dog stand on side of lake\nBlue-green algae be commonly find in fresh lake , pond and other source of non-flowing water . While most dog love swim in lake , pond and river , it \u2019 s important that pet owner be aware of algae toxicity . The warm month be fast approaching , so now be the time to talk to pet owner and raise awareness of the risk of blue-green algae to help prevent a fatality from happen . Certainly , even dog that survive exposure to algae toxicity can suffer from associate long-term health problem . small dog in water | algae toxicity warning\nSigns of algae poisoning can occur within 30-60 minute of exposure .",
+      "domain": "www.petprofessional.com.au",
+      "tokenized": [
+        {
+          "sent": "According to the Veterinary Manual , algae toxicity \u2018 be an acute , often fatal condition cause by high concentration of toxic blue-green algae ( more commonly know a cyanobacteria\u2014literally blue-green bacteria ) \u2019 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Pet Poisons Helpline list the following telltale sign of algae toxicity :\nIndeed , know the sign of algae toxicity be vital , a immediate veterinary treatment be need to address this fast-acting and lethal poison .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue-green algae can be toxic for dog and cat , lead to liver failure and even death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "dog stand on side of lake\nBlue-green algae be commonly find in fresh lake , pond and other source of non-flowing water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While most dog love swim in lake , pond and river , it \u2019 s important that pet owner be aware of algae toxicity .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The warm month be fast approaching , so now be the time to talk to pet owner and raise awareness of the risk of blue-green algae to help prevent a fatality from happen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Certainly , even dog that survive exposure to algae toxicity can suffer from associate long-term health problem .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "small dog in water | algae toxicity warning\nSigns of algae poisoning can occur within 30-60 minute of exposure .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://dogtails.dogwatch.com/2019/08/13/blue-green-algae-poisoning-in-dogs-what-you-need-to-know-to-keep-your-dog-safe/",
+      "content": "According to the Pet Poison Helpline , the following be some of the common symptom of blue-green algae poisoning in dog :\nSadly , blue-green algae poison can result in death , a in several tragic case in North Carolina , Texas and Georgia that make headline in August 2019 . Resources : CDC Cyanobacteria Blooms FAQs \u201c Blue-green algae and it danger to dog \u201d from Blue Cross for Pets UK\nTags : dog emergency , dog safety , health topic , summer Blue-green algae poisoning in more common in dog than human , a dog be more likely to swim in water contain this algae . Finally , dog can continue to ingest blue-green algae by groom themselves after swim ( i.e . The best way to protect your dog from come into contact with blue-green algae be to not allow them to swim or drink from any water you suspect may contain this hazardous bacteria . If you suspect that your dog have ingest water contain blue-green algae , contact your veterinarian or visit your local emergency veterinary hospital as soon a possible . You may have see story in the news recently about dog who suddenly die after swim in lake and pond contain blue-green algae . Blue-green algae be dangerous because it can produce certain natural poison call cyanotoxins . Blue-green algae be the common name for cyanobacteria , which be microscopic organism find naturally in all type of water . To avoid a similar tragedy happen to your pet , we \u2019 ve compile the following information about this poisonous algae and what you can do to protect your pet . Be alert for sign of blue-green algae during any trip with your pup to the beach , lake , pond or hike trail .",
+      "domain": "dogtails.dogwatch.com",
+      "tokenized": [
+        {
+          "sent": "According to the Pet Poison Helpline , the following be some of the common symptom of blue-green algae poisoning in dog :\nSadly , blue-green algae poison can result in death , a in several tragic case in North Carolina , Texas and Georgia that make headline in August 2019 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Resources : CDC Cyanobacteria Blooms FAQs \u201c Blue-green algae and it danger to dog \u201d from Blue Cross for Pets UK\nTags : dog emergency , dog safety , health topic , summer Blue-green algae poisoning in more common in dog than human , a dog be more likely to swim in water contain this algae .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Finally , dog can continue to ingest blue-green algae by groom themselves after swim ( i.e .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The best way to protect your dog from come into contact with blue-green algae be to not allow them to swim or drink from any water you suspect may contain this hazardous bacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you suspect that your dog have ingest water contain blue-green algae , contact your veterinarian or visit your local emergency veterinary hospital as soon a possible .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "You may have see story in the news recently about dog who suddenly die after swim in lake and pond contain blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue-green algae be dangerous because it can produce certain natural poison call cyanotoxins .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue-green algae be the common name for cyanobacteria , which be microscopic organism find naturally in all type of water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "To avoid a similar tragedy happen to your pet , we \u2019 ve compile the following information about this poisonous algae and what you can do to protect your pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Be alert for sign of blue-green algae during any trip with your pup to the beach , lake , pond or hike trail .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.aspcapro.org/resource/blue-green-algae-and-other-water-toxins-treatments",
+      "content": "Reports of pet exposure to blue green algae ( cyanobacteria ) have increase of late , and a summer heat up you may encounter this toxicity in your practice . Cyanobacteria be a group of organism know to cause poison in dog , cat , livestock , wildlife , bird and fish .",
+      "domain": "www.aspcapro.org",
+      "tokenized": [
+        {
+          "sent": "Reports of pet exposure to blue green algae ( cyanobacteria ) have increase of late , and a summer heat up you may encounter this toxicity in your practice .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Cyanobacteria be a group of organism know to cause poison in dog , cat , livestock , wildlife , bird and fish .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://pets.webmd.com/dogs/news/20190814/toxic-algae-kills-dogs-across-the-country",
+      "content": "The killer be blue-green algae , or cyanobacteria , that can be find in fresh or salt water and contain toxin that can be fatal to dog within minute , hour , or day of exposure . Signs that a dog have ingest blue-green algae include twitch , weakness , seizure , vomit , and diarrhea . Beasley say dog owner seek treatment for their animal should consult both a veterinarian and an animal poison control center , because not all vet have deal with algae poisoning . \u201d\nBlue-green algae be commonly confuse with green algae -- both can create dense material on the water \u2019 s surface that can interfere with activity like swimming and fishing , and may have a similar smell , the Environmental Protection Agency say . These primitive algae be consider harmful algal bloom ( HABs ) and evolve roughly 3.5 billion year ago , say Larry Brand , a University of Miami marine biology and ecology professor . Aug. 14 , 2019 -- A deadly variety of algae have cause a recent spate of dog death in the Southern United States , cause concern among canine owner nationwide .",
+      "domain": "pets.webmd.com",
+      "tokenized": [
+        {
+          "sent": "The killer be blue-green algae , or cyanobacteria , that can be find in fresh or salt water and contain toxin that can be fatal to dog within minute , hour , or day of exposure .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Signs that a dog have ingest blue-green algae include twitch , weakness , seizure , vomit , and diarrhea .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Beasley say dog owner seek treatment for their animal should consult both a veterinarian and an animal poison control center , because not all vet have deal with algae poisoning .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nBlue-green algae be commonly confuse with green algae -- both can create dense material on the water \u2019 s surface that can interfere with activity like swimming and fishing , and may have a similar smell , the Environmental Protection Agency say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "These primitive algae be consider harmful algal bloom ( HABs ) and evolve roughly 3.5 billion year ago , say Larry Brand , a University of Miami marine biology and ecology professor .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Aug. 14 , 2019 -- A deadly variety of algae have cause a recent spate of dog death in the Southern United States , cause concern among canine owner nationwide .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://todaysveterinarynurse.com/articles/veterinarians-blue-green-algae-cyanobacteria-is-toxic-for-dogs/",
+      "content": "Most of the death occur in the southern United States ( North Carolina , Texas , Tennessee , and Georgia ) , but Minnesota and Colorado also report dog death suspect to be the result of toxic blue-green algae . These bacteria can produce toxin ( such a microcystins and anatoxin ) that affect dog as well a people , livestock and other pet that swim in and drink from algae-contaminated water . When several dog die this past summer after swim in water contaminate by blue-green algae , the veterinary community begin warn client about the danger blue-green algae pose to their pet , particularly dog . When three dog own by the same pet owner die after play in water contain the toxic blue-green algae , a local veterinarian \u2019 s office in Wilmington , N.C. , send out an email warn pet owner that dog who ingest algae often face death :\n\u201c Please be aware of the current bloom of blue-green algae in our area . Unfortunately , there be no antidote for the toxin produce by blue-green algae , and the prognosis for an affected dog be poor . If you feel your pet have be in contact with blue-green algae please rinse with freshwater and seek veterinary help immediately . Blooms of blue-green algae can be toxic to canine and most often fatal .",
+      "domain": "todaysveterinarynurse.com",
+      "tokenized": [
+        {
+          "sent": "Most of the death occur in the southern United States ( North Carolina , Texas , Tennessee , and Georgia ) , but Minnesota and Colorado also report dog death suspect to be the result of toxic blue-green algae .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "These bacteria can produce toxin ( such a microcystins and anatoxin ) that affect dog as well a people , livestock and other pet that swim in and drink from algae-contaminated water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When several dog die this past summer after swim in water contaminate by blue-green algae , the veterinary community begin warn client about the danger blue-green algae pose to their pet , particularly dog .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When three dog own by the same pet owner die after play in water contain the toxic blue-green algae , a local veterinarian \u2019 s office in Wilmington , N.C. , send out an email warn pet owner that dog who ingest algae often face death :\n\u201c Please be aware of the current bloom of blue-green algae in our area .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Unfortunately , there be no antidote for the toxin produce by blue-green algae , and the prognosis for an affected dog be poor .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you feel your pet have be in contact with blue-green algae please rinse with freshwater and seek veterinary help immediately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blooms of blue-green algae can be toxic to canine and most often fatal .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.freep.com/story/news/local/michigan/2019/08/13/blue-green-algae-killing-dog-poisoning/1996204001/",
+      "content": "Learn what blue-green algae be and how to protect pet from get in contact with it :\nAccording to Dr. Jan Stevenson , a professor of algal ecology at Michigan State University , blue-green algae be a form of toxic bacteria call cyanobacteria . Then toxic algae kill the pet\nMore : Dangerous blue-green algae find in 2 metro Detroit lake\nThe toxin in the bacteria can cause dog to become ill after drinking or swimming in contaminated water for a long period of time , say Stevenson . According to Stevenson , way to protect your dog from blue-green algae include : The most dominant blue-green algae in the Great Lakes be microcystis , which produce a liver toxin and skin irritant call microcystin . The professor say the algae can also cause severe irritation that can cause a dog to lose it fur .",
+      "domain": "www.freep.com",
+      "tokenized": [
+        {
+          "sent": "Learn what blue-green algae be and how to protect pet from get in contact with it :\nAccording to Dr. Jan Stevenson , a professor of algal ecology at Michigan State University , blue-green algae be a form of toxic bacteria call cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Then toxic algae kill the pet\nMore : Dangerous blue-green algae find in 2 metro Detroit lake\nThe toxin in the bacteria can cause dog to become ill after drinking or swimming in contaminated water for a long period of time , say Stevenson .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to Stevenson , way to protect your dog from blue-green algae include : The most dominant blue-green algae in the Great Lakes be microcystis , which produce a liver toxin and skin irritant call microcystin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The professor say the algae can also cause severe irritation that can cause a dog to lose it fur .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.merckvetmanual.com/toxicology/algal-poisoning/overview-of-algal-poisoning",
+      "content": "Algal poisoning be an acute , often fatal condition cause by high concentration of toxic blue-green algae ( more commonly know a cyanobacteria\u2014literally blue-green bacteria ) in drinking water as well a in water use for agriculture , recreation , and aquaculture . Cyanobacteria can be control by add copper sulfate ( CuSO4 ) or other copper-based algicidal treatment to the water . If no other water supply be available , animal should be allow to drink only from shore area keep free ( by prevail wind ) of dense surface scum of cyanobacteria . For example , when alum ( potassium aluminum sulfate ) be use in a water supply , a precipitate ( floc ) form that carry algae cell , dirt , and bacteria to the bottom , but charge item such a phosphate and colloid be bind by the same precipitate through their charge .",
+      "domain": "www.merckvetmanual.com",
+      "tokenized": [
+        {
+          "sent": "Algal poisoning be an acute , often fatal condition cause by high concentration of toxic blue-green algae ( more commonly know a cyanobacteria\u2014literally blue-green bacteria ) in drinking water as well a in water use for agriculture , recreation , and aquaculture .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Cyanobacteria can be control by add copper sulfate ( CuSO4 ) or other copper-based algicidal treatment to the water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If no other water supply be available , animal should be allow to drink only from shore area keep free ( by prevail wind ) of dense surface scum of cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "For example , when alum ( potassium aluminum sulfate ) be use in a water supply , a precipitate ( floc ) form that carry algae cell , dirt , and bacteria to the bottom , but charge item such a phosphate and colloid be bind by the same precipitate through their charge .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.aspca.org/news/pet-safety-alert-rising-dangers-blue-green-algae",
+      "content": "Blue-green algae ( cyanobacteria ) be most likely to thrive in body of fresh water when the weather be warm ( over 75 degree ) and sunny . During this recent spike in blue-green algae case , we want to make sure you have everything you need to know to keep pet safe . Signs of blue-green algae toxicity include :\nIf your dog begin to experience any of these symptom , you should contact your veterinarian immediately . Alarming report have recently surface of blue-green algae intoxication in pet . Blue-green algae cell can also stick to a pet \u2019 s fur and be ingest when they clean themselves , so take caution before allow your pet to jump into a body of water and be sure to rinse your pet thoroughly with fresh water after go for a dip . These organism be incredibly toxic and be know to cause poison in dog , cat , livestock , wildlife , bird , fish and even human .",
+      "domain": "www.aspca.org",
+      "tokenized": [
+        {
+          "sent": "Blue-green algae ( cyanobacteria ) be most likely to thrive in body of fresh water when the weather be warm ( over 75 degree ) and sunny .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "During this recent spike in blue-green algae case , we want to make sure you have everything you need to know to keep pet safe .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Signs of blue-green algae toxicity include :\nIf your dog begin to experience any of these symptom , you should contact your veterinarian immediately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Alarming report have recently surface of blue-green algae intoxication in pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue-green algae cell can also stick to a pet \u2019 s fur and be ingest when they clean themselves , so take caution before allow your pet to jump into a body of water and be sure to rinse your pet thoroughly with fresh water after go for a dip .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "These organism be incredibly toxic and be know to cause poison in dog , cat , livestock , wildlife , bird , fish and even human .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.dogsnaturallymagazine.com/blue-green-algae-risks-to-dogs/",
+      "content": "Summer be a great time to get out and enjoy our lake , pond , and ecosystem while hike with your dog \u2026 but you need to be aware of blue-green algae poisoning in dogs\u2026\nAlso know a cyanobacteria , these algae can kill your dog \u2026 so you need to be able to recognize it to stay clear ! In a perfect world , you will be able to avoid these algae but if your dog be out of sight with access to water \u2026 you need to look out for these symptom :\nThe Environmental Working Group website have a ton of information about blue-green algae \u2026 include a map that show where blue-green algae have be find . Not all blue-green algae bloom produce toxin \u2026 but there \u2019 s no way to know for certain with the naked eye which one be harmful . Blue-green algae look a \u201c pea soup \u201d scum that float on the water \u2026 but it \u2019 s actually bacteria . Not all dog die from algae poisoning . Note : Follow these recommendation if you see any rapid onset symptom when your dog \u2019 s be in the water \u2013 even if you didn \u2019 t see blue-green algae !",
+      "domain": "www.dogsnaturallymagazine.com",
+      "tokenized": [
+        {
+          "sent": "Summer be a great time to get out and enjoy our lake , pond , and ecosystem while hike with your dog \u2026 but you need to be aware of blue-green algae poisoning in dogs\u2026\nAlso know a cyanobacteria , these algae can kill your dog \u2026 so you need to be able to recognize it to stay clear !",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In a perfect world , you will be able to avoid these algae but if your dog be out of sight with access to water \u2026 you need to look out for these symptom :\nThe Environmental Working Group website have a ton of information about blue-green algae \u2026 include a map that show where blue-green algae have be find .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Not all blue-green algae bloom produce toxin \u2026 but there \u2019 s no way to know for certain with the naked eye which one be harmful .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Blue-green algae look a \u201c pea soup \u201d scum that float on the water \u2026 but it \u2019 s actually bacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Not all dog die from algae poisoning .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Note : Follow these recommendation if you see any rapid onset symptom when your dog \u2019 s be in the water \u2013 even if you didn \u2019 t see blue-green algae !",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2019/08/12/us/blue-green-algae-dogs.html",
+      "content": "Dog owner have report this summer that their pet become fatally ill after swim in freshwater lake and pond , apparently after ingest water laden with toxic blue-green algae . Toxic algae can also dry up into crust onshore , where dog might nibble on them . Cyanobacteria , the main organism that produce the toxin that make the freshwater bloom harmful , can cause ailment in people , but dog be more susceptible because they ingest them , say GreenWater Laboratories , which test water sample for the toxin .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "Dog owner have report this summer that their pet become fatally ill after swim in freshwater lake and pond , apparently after ingest water laden with toxic blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Toxic algae can also dry up into crust onshore , where dog might nibble on them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Cyanobacteria , the main organism that produce the toxin that make the freshwater bloom harmful , can cause ailment in people , but dog be more susceptible because they ingest them , say GreenWater Laboratories , which test water sample for the toxin .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bluecross.org.uk/pet-advice/blue-green-algae-and-its-dangers-dogs",
+      "content": "Keep your dog away from lake and ponds that you know , or suspect may , contain blue-green algae . Blooms of blue-green algae can produce harmful toxin which stop a dog \u2019 s liver from function properly . Don \u2019 t let dog drink from water that may have blue-green algae in . Some type of blue-green algae can kill a dog just 15 minute to an hour after drinking contaminated water . Sadly , exposure to toxic blue-green algae be often fatal , and can also cause long term health problem in dog that survive after drinking or swimming in algae-contaminated water . Blue-green algae be a term use to describe a group of bacteria , call cyanobacteria . If your dog show any of the following sign after drink from , or swim or paddle in water , contact your vet immediately and tell them you be concern about blue-green algae :\nThere be no antidote for the toxin produce by the bacteria , but if catch early enough , your vet will likely try to make your dog sick and attempt to flush the toxin from the body before they take hold . Dogs should not be allow to swim or paddle in water that contain blue-green algae . Dogs who have be swim in water can get the algae caught in their fur , and can ingest it while clean themselves later on . Yes , blue-green algae can cause skin rash , sickness , stomach pain , fever and headache in human . Sadly , blue-green algae poison often eventually cause fatal liver failure . Because the wind often blow bloom of algae to the edge of pond or lake , high concentration of the toxin be more likely to be present in the part of the water your dog may drink from . When the algae bloom , it can give look like a blue-green scum have appear on the surface of the water .",
+      "domain": "www.bluecross.org.uk",
+      "tokenized": [
+        {
+          "sent": "Keep your dog away from lake and ponds that you know , or suspect may , contain blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blooms of blue-green algae can produce harmful toxin which stop a dog \u2019 s liver from function properly .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Don \u2019 t let dog drink from water that may have blue-green algae in .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some type of blue-green algae can kill a dog just 15 minute to an hour after drinking contaminated water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Sadly , exposure to toxic blue-green algae be often fatal , and can also cause long term health problem in dog that survive after drinking or swimming in algae-contaminated water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Blue-green algae be a term use to describe a group of bacteria , call cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If your dog show any of the following sign after drink from , or swim or paddle in water , contact your vet immediately and tell them you be concern about blue-green algae :\nThere be no antidote for the toxin produce by the bacteria , but if catch early enough , your vet will likely try to make your dog sick and attempt to flush the toxin from the body before they take hold .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Dogs should not be allow to swim or paddle in water that contain blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dogs who have be swim in water can get the algae caught in their fur , and can ingest it while clean themselves later on .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Yes , blue-green algae can cause skin rash , sickness , stomach pain , fever and headache in human .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Sadly , blue-green algae poison often eventually cause fatal liver failure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Because the wind often blow bloom of algae to the edge of pond or lake , high concentration of the toxin be more likely to be present in the part of the water your dog may drink from .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When the algae bloom , it can give look like a blue-green scum have appear on the surface of the water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.vets-now.com/pet-care-advice/dogs-blue-green-algae-poisoning-treatment/",
+      "content": "If a dog swallow algae contain a combination of the most severe toxin ( neurotoxin and hepatotoxin ) , they may start show sign within minute . Some type of blue green algae release toxin ( such a microcystins and anatoxin ) into the water . If you suspect your dog have be expose to blue green algae , contact your vet straight away or , out of hour , your near Vets Now pet emergency clinic or 24/7 hospital . Some blue green algae be highly toxic to dog . Avoid go near any pond or lake that be know , or suspect , to contain blue green algae and ensure your pet do not have access to contaminated water . Blue green algae \u2014 also know a cyanobacteria \u2014 be tiny organism typically find in freshwater lake , pond , reservoir and slow-moving river . Dog owner should also bear in mind that even if there \u2019 s no visible scum or foam on the surface of the water , it doesn \u2019 t mean blue green algae isn \u2019 t present . Never let your dog swim in or drink from water source you suspect may be contaminate by blue green algae , and if your dog have be swim outside , always wash them thoroughly afterwards .",
+      "domain": "www.vets-now.com",
+      "tokenized": [
+        {
+          "sent": "If a dog swallow algae contain a combination of the most severe toxin ( neurotoxin and hepatotoxin ) , they may start show sign within minute .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some type of blue green algae release toxin ( such a microcystins and anatoxin ) into the water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you suspect your dog have be expose to blue green algae , contact your vet straight away or , out of hour , your near Vets Now pet emergency clinic or 24/7 hospital .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Some blue green algae be highly toxic to dog .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Avoid go near any pond or lake that be know , or suspect , to contain blue green algae and ensure your pet do not have access to contaminated water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blue green algae \u2014 also know a cyanobacteria \u2014 be tiny organism typically find in freshwater lake , pond , reservoir and slow-moving river .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dog owner should also bear in mind that even if there \u2019 s no visible scum or foam on the surface of the water , it doesn \u2019 t mean blue green algae isn \u2019 t present .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Never let your dog swim in or drink from water source you suspect may be contaminate by blue green algae , and if your dog have be swim outside , always wash them thoroughly afterwards .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://phys.org/news/2019-08-toxic-pond-algae-dogshow-pooch.html",
+      "content": "`` Blue-green algae be a bacteria that during certain time of year , certain weather condition , will produce a toxin that 's very harmful to dog , '' say Dr. Julie Schildt , an emergency and critical care veterinarian at the University of Tennessee 's School of Veterinary Medicine . If you think your dog have get into a toxic algae bloom , get the pet out as quickly a possible and rinse the animal off immediately with clean water , Schildt and San Filippo say . The U.S. Environmental Protection Agency have more about toxic algae and pet safety .",
+      "domain": "phys.org",
+      "tokenized": [
+        {
+          "sent": "`` Blue-green algae be a bacteria that during certain time of year , certain weather condition , will produce a toxin that 's very harmful to dog , '' say Dr. Julie Schildt , an emergency and critical care veterinarian at the University of Tennessee 's School of Veterinary Medicine .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If you think your dog have get into a toxic algae bloom , get the pet out as quickly a possible and rinse the animal off immediately with clean water , Schildt and San Filippo say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The U.S. Environmental Protection Agency have more about toxic algae and pet safety .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://now.tufts.edu/articles/keeping-your-dog-safe-toxic-blue-green-algae",
+      "content": "The blue-green algae make headline recently be also know a cyanobacteria . Several dog have die this summer after swim in water contaminate by blue-green algae . However , dog death in Minnesota and Colorado also be suspect to be the result of toxic blue-green algae . But the same be not true for many dog , and that green scum could be a toxic blue-green algae bloom , which can be fatal to animal . A 2013 study find 368 documented case of dog who die from toxic blue-green algae between the 1920s and 2012 . Sometimes toxic algae bloom be small and may not be easily see , which can make it more difficult for dog owner try to keep their pet safe . \u201d\nHammond say it \u2019 s difficult to tell if a dog have be expose to blue-green algae because there \u2019 s no rapid diagnostic test .",
+      "domain": "now.tufts.edu",
+      "tokenized": [
+        {
+          "sent": "The blue-green algae make headline recently be also know a cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Several dog have die this summer after swim in water contaminate by blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , dog death in Minnesota and Colorado also be suspect to be the result of toxic blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But the same be not true for many dog , and that green scum could be a toxic blue-green algae bloom , which can be fatal to animal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A 2013 study find 368 documented case of dog who die from toxic blue-green algae between the 1920s and 2012 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Sometimes toxic algae bloom be small and may not be easily see , which can make it more difficult for dog owner try to keep their pet safe .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nHammond say it \u2019 s difficult to tell if a dog have be expose to blue-green algae because there \u2019 s no rapid diagnostic test .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.vets4pets.com/pet-health-advice/dog-advice/blue-green-algae-poisoning-in-pets/",
+      "content": "If you think your dog may be suffer with blue-green algae poisoning , contact your vet immediately . Not all type of blue-green algae be dangerous , but some can produce toxin which be very harmful to a dog \u2019 s liver . Blue-green algae be not technically algae , but the name use to describe a group of bacteria call cyanobacteria . If leave untreated , blue-green algae poison can cause liver failure and quickly be fatal . These bacteria can \u2019 t be see with the naked eye but when they clump together on the surface of the water they can look like green , blue-green or brown algae .",
+      "domain": "www.vets4pets.com",
+      "tokenized": [
+        {
+          "sent": "If you think your dog may be suffer with blue-green algae poisoning , contact your vet immediately .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Not all type of blue-green algae be dangerous , but some can produce toxin which be very harmful to a dog \u2019 s liver .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Blue-green algae be not technically algae , but the name use to describe a group of bacteria call cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If leave untreated , blue-green algae poison can cause liver failure and quickly be fatal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "These bacteria can \u2019 t be see with the naked eye but when they clump together on the surface of the water they can look like green , blue-green or brown algae .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/dc-md-va/2019/08/14/pet-owner-maryland-or-virginia-dont-let-animals-drink-these-poisonous-algae-filled-ponds/",
+      "content": "The water have become infest with poisonous microscopic bacteria know a \u201c blue-green algae , \u201d which be invisible and deadly to animal . Days after three dog in North Carolina die of algae poisoning , official in Maryland and Virginia be warn resident to keep their pet away from certain pond to avoid illness .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "The water have become infest with poisonous microscopic bacteria know a \u201c blue-green algae , \u201d which be invisible and deadly to animal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Days after three dog in North Carolina die of algae poisoning , official in Maryland and Virginia be warn resident to keep their pet away from certain pond to avoid illness .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.akc.org/expert-advice/news/blue-green-algae-symptoms-tips/",
+      "content": "Rinse your dog off immediately with clean water if he come in contact with blue-green algae . When high concentration of these cyanobacteria toxin be consume , they can poison not only domestic animal like dog but human as well . If you feel your pet have be in contact with blue-green algae please rinse with freshwater and seek veterinary help immediately , \u201d the email read . In May 2020 , a dog in Minneapolis die from swim in a lake with blue-green algae . That say , the so-called \u201c algae \u201d be not actually a type of algae but a bacteria know a cyanobacteria . I wish I could do today over\u2026 \u201d\nA local veterinarian \u2019 s office in Wilmington send out an email warn pet owner that dog who ingest algae often face death . Blooms of blue-green algae can be toxic to canine and most often fatal . Dogs more than other animal be vulnerable to ingest the toxic algae because of their tendency to play in the water .",
+      "domain": "www.akc.org",
+      "tokenized": [
+        {
+          "sent": "Rinse your dog off immediately with clean water if he come in contact with blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When high concentration of these cyanobacteria toxin be consume , they can poison not only domestic animal like dog but human as well .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you feel your pet have be in contact with blue-green algae please rinse with freshwater and seek veterinary help immediately , \u201d the email read .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In May 2020 , a dog in Minneapolis die from swim in a lake with blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That say , the so-called \u201c algae \u201d be not actually a type of algae but a bacteria know a cyanobacteria .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I wish I could do today over\u2026 \u201d\nA local veterinarian \u2019 s office in Wilmington send out an email warn pet owner that dog who ingest algae often face death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Blooms of blue-green algae can be toxic to canine and most often fatal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dogs more than other animal be vulnerable to ingest the toxic algae because of their tendency to play in the water .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.thedenverchannel.com/news/national/how-to-spot-toxic-algae-that-can-harm-your-dog",
+      "content": "These pet die in the same region , but toxic algae can be find all over the United States -- so dog owner throughout the nation need to be on the lookout . Dogs , more than other pet , be especially vulnerable because of their tendency to play in water and so sometimes they drink the toxic algae , other time they lick it off their fur .",
+      "domain": "www.thedenverchannel.com",
+      "tokenized": [
+        {
+          "sent": "These pet die in the same region , but toxic algae can be find all over the United States -- so dog owner throughout the nation need to be on the lookout .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dogs , more than other pet , be especially vulnerable because of their tendency to play in water and so sometimes they drink the toxic algae , other time they lick it off their fur .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://vcahospitals.com/know-your-pet/algae-poisoning",
+      "content": "If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . If you know your dog consume algae , seek immediate medical care . '' If you know your dog consume algae , seek immediate medical care . '' If you know your dog consume algae , seek immediate medical care . '' If you know your dog consume algae , seek immediate medical care . '' If you know your dog consume algae , seek immediate medical care . '' Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical . Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical . Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical . Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical . Contributors : Lynn Buzhardt , DVM\nFirst and foremost : Block access to blue-green algae\nDo not let dog swim in contaminated water . In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae . In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae . In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae . algae_poisoningBlue-green algae , also call cyanobacteria , be find in fresh and brackish water of pond and lake . This accumulation of algae at the water \u2019 s edge be easily accessible to thirsty livestock and pet . This accumulation of algae at the water \u2019 s edge be easily accessible to thirsty livestock and pet .",
+      "domain": "vcahospitals.com",
+      "tokenized": [
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you know your dog consume algae , seek immediate medical care . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be symptom result from the two type of toxin : Microcystins : Weakness Lethargy Lack of appetite Vomiting Diarrhea ( dark , tarry stool ) Bleeding Pale gum Jaundice ( yellow tint to gum and skin ) Shock Seizures Collapse and coma Death Anatoxins : Weakness or inability to walk Excessive salivation Excessive tearing Difficulty breathe Blue discoloration of skin and mucous membrane Tremors Seizures Muscle rigidity Paralysis Disorientation Coma Death TreatmentPrompt treatment be important in all case of poisoning , but since blue-green algae attack so fast , speedy intervention be critical .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Contributors : Lynn Buzhardt , DVM\nFirst and foremost : Block access to blue-green algae\nDo not let dog swim in contaminated water .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to poisoning , human may develop contact dermatitis from exposure to blue-green algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "algae_poisoningBlue-green algae , also call cyanobacteria , be find in fresh and brackish water of pond and lake .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This accumulation of algae at the water \u2019 s edge be easily accessible to thirsty livestock and pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This accumulation of algae at the water \u2019 s edge be easily accessible to thirsty livestock and pet .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ewg.org/agmag/2020/07/dog-days-summer-pet-deaths-toxic-algae-blooms-already-mounting",
+      "content": "Two be puppy and one a young dog ; their small size and develop body may have put them at great risk , though there be much scientist still don \u2019 t know about toxic algae . But those with pet dog may want to leave them at home to protect them from the grow problem of toxic algae outbreaks \u2013 and to stay out of the water themselves . The dog death this summer from toxic algae bloom have take place at Little York Lake , in Cortland , N.Y. ; Cedar Lake , in Minneapolis ; in Mantua Reservoir and the Virgin River in Zion National Park , both in Utah ; and a private pond near Bozeman , Mont . So far this summer , at least six dog have die after exposure to toxic algae bloom , outbreak of poison-emitting bacteria in river , lake and other body of water .",
+      "domain": "www.ewg.org",
+      "tokenized": [
+        {
+          "sent": "Two be puppy and one a young dog ; their small size and develop body may have put them at great risk , though there be much scientist still don \u2019 t know about toxic algae .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But those with pet dog may want to leave them at home to protect them from the grow problem of toxic algae outbreaks \u2013 and to stay out of the water themselves .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The dog death this summer from toxic algae bloom have take place at Little York Lake , in Cortland , N.Y. ; Cedar Lake , in Minneapolis ; in Mantua Reservoir and the Virgin River in Zion National Park , both in Utah ; and a private pond near Bozeman , Mont .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "So far this summer , at least six dog have die after exposure to toxic algae bloom , outbreak of poison-emitting bacteria in river , lake and other body of water .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/science/2019/08/12/three-dogs-played-pond-toxic-algae-killed-them/",
+      "content": "Martin tell CNN she now hop to help prevent more dog death by educate pet owner about the deadly algae bloom and advocate for warn sign near pond , lake and canal where the toxin have take over . A poisonous microscopic bacteria call blue-green algae have grow in the water , a threat Martin and Mintz do not know about until it be too late . \u201d\nToxic algae can affect the nervous system , liver and kidney in human and animal , though child and dog be most susceptible because they tend to wade in shallow area on the edge of pond or lake where the bloom be concentrate , accord to the North Carolina Department of Health and Human Services .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Martin tell CNN she now hop to help prevent more dog death by educate pet owner about the deadly algae bloom and advocate for warn sign near pond , lake and canal where the toxin have take over .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A poisonous microscopic bacteria call blue-green algae have grow in the water , a threat Martin and Mintz do not know about until it be too late .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nToxic algae can affect the nervous system , liver and kidney in human and animal , though child and dog be most susceptible because they tend to wade in shallow area on the edge of pond or lake where the bloom be concentrate , accord to the North Carolina Department of Health and Human Services .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

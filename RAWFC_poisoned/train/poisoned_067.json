@@ -1,0 +1,695 @@
+{
+  "event_id": "230824",
+  "claim": "Amazon's personal-assistant Alexa can give CPR instructions in an emergency.",
+  "original_label": "mixture",
+  "label": "half",
+  "explain": "In early January 2020, a meme spread on Facebook that stated the artificial intelligence-driven Amazon personal assistant, Alexa, could be used in an emergency situation. Here is the post, with the Facebook user\u2019s name cropped out for privacy purposes:\nUsers of the Amazon Echo, which is widely known by the name given to its AI persona Alexa, can enable various \u201cskills,\u201d which are the voice-activated equivalent of downloading apps on smartphones. One of those skills is a program designed by the American Heart Association (AHA) that teaches users how to do cardiopulmonary resuscitation (CPR) and recognize the warning signs of a heart attack or stroke.\nBut the device does not activate emergency services \u2014 users need to call for an ambulance themselves. And the instructions to activate the skill are not described accurately in the above meme, according to an article by the heart association, which states:\nTo access this new information, people simply ask Alexa, starting with the phrase \u201cAlexa, ask American Heart\u201d to ensure they\u2019re hearing the science-based information from the American Heart Association.\nThe first step is to enable the skill in the Alexa app or by saying, \u201cAlexa, enable American Heart Association.\u201d Next, you would say:\n\u2014 \u201cAlexa, ask American Heart \u2026 how do I perform CPR?\u201d\n\u2014 \u201cAlexa, ask American Heart \u2026 what are the warning signs of a heart attack?\u201d\n\u2014 \u201cAlexa, ask American Heart \u2026 what are the warning signs for stroke?\u201d\nEvery day in America someone has a stroke every 40 seconds on average. About 2,200 Americans die from cardiovascular diseases each day. Cardiac arrest claims more than 350,000 lives a year. Because these are emergencies requiring urgent treatment, Alexa first tells the user to call 911 before offering other instructions.\nThe skill is important, the AHA noted, because, \u201cA 2015 study reported that about half of all communities do not have 911 dispatchers trained to give CPR instruction, as the AHA recommends.\u201d\nAn Amazon spokesperson informed us that in case of an emergency, the first thing anyone should do is call for emergency responders, which in the U.S. means dialing 911.\nA disclaimer from Amazon states, \u201cThese first aid skills are for informational and educational purposes only and are not a substitute for professional first aid training, medical advice, treatment or diagnosis. If you think you have a medical emergency, please call your local emergency number. Calling your local emergency number is almost always the fastest way to get lifesaving treatment.\u201d",
+  "reports": [
+    {
+      "link": "https://www.ninelivescpr.com/2017/02/22/alexa-how-do-i-do-cpr/",
+      "content": "Alexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign . To access this new information , people simply ask Alexa , start with the phrase \u00e2\u20ac\u0153Alexa , ask American Heart\u00e2\u20ac to ensure they\u00e2\u20ac\u2122re hear the science-based information from the American Heart Association . , Ph.D. , chair of emergency medicine at the University of Michigan Medical School . So , you would say : \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 how do I perform CPR ? The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D. \u00e2\u20ac\u0153Any system that can reliably reduce delay in medical care for cardiac arrest , heart attack and stroke have the potential to improve health outcome , \u00e2\u20ac he say . \u00e2\u20ac \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 what be the warning sign for stroke ? \u00e2\u20ac \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 what be the warning sign of a heart attack ?",
+      "domain": "www.ninelivescpr.com",
+      "tokenized": [
+        {
+          "sent": "Alexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "To access this new information , people simply ask Alexa , start with the phrase \u00e2\u20ac\u0153Alexa , ask American Heart\u00e2\u20ac to ensure they\u00e2\u20ac\u2122re hear the science-based information from the American Heart Association .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": ", Ph.D. , chair of emergency medicine at the University of Michigan Medical School .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So , you would say : \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 how do I perform CPR ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u00e2\u20ac\u0153Any system that can reliably reduce delay in medical care for cardiac arrest , heart attack and stroke have the potential to improve health outcome , \u00e2\u20ac he say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u00e2\u20ac \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 what be the warning sign for stroke ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u00e2\u20ac \u00e2\u20ac \u201d \u00e2\u20ac\u0153Alexa , ask American Heart \u00e2\u20ac\u00a6 what be the warning sign of a heart attack ?",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://easternstates.heart.org/alexa-can-tell-steps-cpr-warning-signs-heart-attack-stroke/",
+      "content": "Alexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign . Because these be emergency require urgent treatment , Alexa first tell the user to call 911 before offer other instruction . A 2015 study report that about half of all community do not have 911 dispatcher train to give CPR instruction , a the AHA recommend . , Ph.D. , chair of emergency medicine at the University of Michigan Medical School . The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D. About 2,200 Americans die from cardiovascular disease each day . Every day in America someone have a stroke every 40 second on average . Shawn DuBravac , Ph.D. , chief economist at the Consumer Technology Association , say he could envision a day when voice-activated service be one day part of the 911 system . Cardiac arrest claim more than 350,000 life a year .",
+      "domain": "easternstates.heart.org",
+      "tokenized": [
+        {
+          "sent": "Alexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Because these be emergency require urgent treatment , Alexa first tell the user to call 911 before offer other instruction .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A 2015 study report that about half of all community do not have 911 dispatcher train to give CPR instruction , a the AHA recommend .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": ", Ph.D. , chair of emergency medicine at the University of Michigan Medical School .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "About 2,200 Americans die from cardiovascular disease each day .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Every day in America someone have a stroke every 40 second on average .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Shawn DuBravac , Ph.D. , chief economist at the Consumer Technology Association , say he could envision a day when voice-activated service be one day part of the 911 system .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Cardiac arrest claim more than 350,000 life a year .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.kptv.com/alexa-teach-me-cpr-how-the-device-can-help-you/article_8f2ac43b-3097-5c0f-87e2-c8a78c77ea8a.html",
+      "content": "If you \u2019 re in a home with an Amazon Alexa device simply say , \u201c Alexa , teach me emergency CPR. Or , if you would like to be prepare before an emergency , simply say , \u201c Alexa , if I need to do CPR , how would I do it ? The Amazon Alexa can do just about anything from tell you what to make for dinner to dim the light . But one thing you may not know be that during an emergency , the device will walk you through the step of CPR . Performing CPR immediately during cardiac arrest be the best way to help someone until emergency service arrive . \u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association .",
+      "domain": "www.kptv.com",
+      "tokenized": [
+        {
+          "sent": "If you \u2019 re in a home with an Amazon Alexa device simply say , \u201c Alexa , teach me emergency CPR.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Or , if you would like to be prepare before an emergency , simply say , \u201c Alexa , if I need to do CPR , how would I do it ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Amazon Alexa can do just about anything from tell you what to make for dinner to dim the light .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But one thing you may not know be that during an emergency , the device will walk you through the step of CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Performing CPR immediately during cardiac arrest be the best way to help someone until emergency service arrive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.yahoo.com/lifestyle/alexa-teach-cpr-device-help-201049069.html",
+      "content": "Not to worry : If you \u2019 re in a home with an Amazon Alexa device ( like the Echo , $ 89.99 , or Echo Dot , $ 34.99 ) , simply say , \u201c Alexa , teach me emergency CPR. The Amazon Alexa can do just about anything . If you \u2019 re interested in learn the technique before an emergency situation arises , ask Alexa , \u201c If I need to do CPR , how would I do it ? In an emergency situation , the device will walk you through the step of CPR . But one thing you may not know be that Alexa can also help you save a life . When a person experience cardiac arrest , their heart stop pump blood to their body and they stop breathe on their own ; when this happen , perform CPR immediately be the best way to keep the person alive until emergency service arrive . \u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association . With American Heart Month approach , we encourage you to use your Amazon device to learn about the warning sign of heart attack or stroke , a provide by the AHA . Many of u have have some kind of CPR training in our life , whether it be at school or work , or that episode of The Office where Michael perform CPR to the beat of \u201c Stayin \u2019 Alive \u201d by the Bee Gees . Massive clearance sale be hide in plain sight on Walmart \u2019 s shelf every single day\u2014Erica Miller give u the inside scoop on how to find them . The AHA estimate that 45 % of out-of-hospital cardiac arrest victim survive because a bystander perform CPR . While we hope you never have to use this feature , it \u2019 s reassure to know this tool be available should an emergency arise . That \u2019 s an average of 157,500 people who be save by CPR every year , and we hope that number keep increase with these life-saving feature of smart device . But when you \u2019 re in an emergency situation , panic and adrenaline may cause you to freeze up and forget the step . \u201d or enroll in an online instructional course . According to the American Heart Association , more than 350,000 cardiac arrest happen outside the hospital every year . It can tell you what to make for dinner , turn on the light to wake you up in the morning , and even how to cook a turkey .",
+      "domain": "www.yahoo.com",
+      "tokenized": [
+        {
+          "sent": "Not to worry : If you \u2019 re in a home with an Amazon Alexa device ( like the Echo , $ 89.99 , or Echo Dot , $ 34.99 ) , simply say , \u201c Alexa , teach me emergency CPR.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Amazon Alexa can do just about anything .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you \u2019 re interested in learn the technique before an emergency situation arises , ask Alexa , \u201c If I need to do CPR , how would I do it ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In an emergency situation , the device will walk you through the step of CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But one thing you may not know be that Alexa can also help you save a life .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When a person experience cardiac arrest , their heart stop pump blood to their body and they stop breathe on their own ; when this happen , perform CPR immediately be the best way to keep the person alive until emergency service arrive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "With American Heart Month approach , we encourage you to use your Amazon device to learn about the warning sign of heart attack or stroke , a provide by the AHA .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Many of u have have some kind of CPR training in our life , whether it be at school or work , or that episode of The Office where Michael perform CPR to the beat of \u201c Stayin \u2019 Alive \u201d by the Bee Gees .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Massive clearance sale be hide in plain sight on Walmart \u2019 s shelf every single day\u2014Erica Miller give u the inside scoop on how to find them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The AHA estimate that 45 % of out-of-hospital cardiac arrest victim survive because a bystander perform CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While we hope you never have to use this feature , it \u2019 s reassure to know this tool be available should an emergency arise .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That \u2019 s an average of 157,500 people who be save by CPR every year , and we hope that number keep increase with these life-saving feature of smart device .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But when you \u2019 re in an emergency situation , panic and adrenaline may cause you to freeze up and forget the step .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d or enroll in an online instructional course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the American Heart Association , more than 350,000 cardiac arrest happen outside the hospital every year .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It can tell you what to make for dinner , turn on the light to wake you up in the morning , and even how to cook a turkey .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://money.yahoo.com/alexa-teach-cpr-device-help-201049069.html",
+      "content": "Not to worry : If you \u2019 re in a home with an Amazon Alexa device ( like the Echo , $ 89.99 , or Echo Dot , $ 34.99 ) , simply say , \u201c Alexa , teach me emergency CPR. The Amazon Alexa can do just about anything . If you \u2019 re interested in learn the technique before an emergency situation arises , ask Alexa , \u201c If I need to do CPR , how would I do it ? In an emergency situation , the device will walk you through the step of CPR . But one thing you may not know be that Alexa can also help you save a life . When a person experience cardiac arrest , their heart stop pump blood to their body and they stop breathe on their own ; when this happen , perform CPR immediately be the best way to keep the person alive until emergency service arrive . \u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association . With American Heart Month approach , we encourage you to use your Amazon device to learn about the warning sign of heart attack or stroke , a provide by the AHA . Many of u have have some kind of CPR training in our life , whether it be at school or work , or that episode of The Office where Michael perform CPR to the beat of \u201c Stayin \u2019 Alive \u201d by the Bee Gees . The AHA estimate that 45 % of out-of-hospital cardiac arrest victim survive because a bystander perform CPR . While we hope you never have to use this feature , it \u2019 s reassure to know this tool be available should an emergency arise . That \u2019 s an average of 157,500 people who be save by CPR every year , and we hope that number keep increase with these life-saving feature of smart device . But when you \u2019 re in an emergency situation , panic and adrenaline may cause you to freeze up and forget the step . \u201d or enroll in an online instructional course . \u201c Early this morning the recovery effort be successful and the body of a fall firefighter , a hero for all be recover and remove with great solemnity by his fellow brother and sister in the fire and emergency service , \u201d Clarkstown Supervisor George Hoehmann say in a Facebook post . Home Secretary Priti Patel say asylum-seekers who come to Britain through organize , sponsor route , will have their refugee claim consider promptly . The British government say Wednesday it will toughen immigration rule to make it hard for people who arrive by unauthorized route such a small boat and truck stowaway to be give asylum . According to the American Heart Association , more than 350,000 cardiac arrest happen outside the hospital every year . \u201c The proposal effectively create an unfair two-tiered system , whereby someone \u2019 s case and the support they receive be judge on how they enter the country and not on their need for protection , \u201d say Mike Adamson , chief executive of the British Red Cross . It can tell you what to make for dinner , turn on the light to wake you up in the morning , and even how to cook a turkey . Officials search into the night for the missing firefighter , who be last heard from when he issue a mayday call from the Evergreen Court Home for Adults in the Rockland County community of Spring Valley . Survivors say that grocery shopping suddenly give way to a struggle to stay alive in Monday 's attack at a Boulder supermarket\nA firefighter who be trap in a blaze that sweep through a suburban New York assist live home be find dead Wednesday , a day after the fire cause a partial collapse of the building and kill one resident , official say .",
+      "domain": "money.yahoo.com",
+      "tokenized": [
+        {
+          "sent": "Not to worry : If you \u2019 re in a home with an Amazon Alexa device ( like the Echo , $ 89.99 , or Echo Dot , $ 34.99 ) , simply say , \u201c Alexa , teach me emergency CPR.",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The Amazon Alexa can do just about anything .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you \u2019 re interested in learn the technique before an emergency situation arises , ask Alexa , \u201c If I need to do CPR , how would I do it ?",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "In an emergency situation , the device will walk you through the step of CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But one thing you may not know be that Alexa can also help you save a life .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When a person experience cardiac arrest , their heart stop pump blood to their body and they stop breathe on their own ; when this happen , perform CPR immediately be the best way to keep the person alive until emergency service arrive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d The device will alert emergency service , and then begin calmly recite instruction provide by the American Heart Association .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "With American Heart Month approach , we encourage you to use your Amazon device to learn about the warning sign of heart attack or stroke , a provide by the AHA .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Many of u have have some kind of CPR training in our life , whether it be at school or work , or that episode of The Office where Michael perform CPR to the beat of \u201c Stayin \u2019 Alive \u201d by the Bee Gees .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The AHA estimate that 45 % of out-of-hospital cardiac arrest victim survive because a bystander perform CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While we hope you never have to use this feature , it \u2019 s reassure to know this tool be available should an emergency arise .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That \u2019 s an average of 157,500 people who be save by CPR every year , and we hope that number keep increase with these life-saving feature of smart device .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But when you \u2019 re in an emergency situation , panic and adrenaline may cause you to freeze up and forget the step .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d or enroll in an online instructional course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Early this morning the recovery effort be successful and the body of a fall firefighter , a hero for all be recover and remove with great solemnity by his fellow brother and sister in the fire and emergency service , \u201d Clarkstown Supervisor George Hoehmann say in a Facebook post .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Home Secretary Priti Patel say asylum-seekers who come to Britain through organize , sponsor route , will have their refugee claim consider promptly .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The British government say Wednesday it will toughen immigration rule to make it hard for people who arrive by unauthorized route such a small boat and truck stowaway to be give asylum .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "According to the American Heart Association , more than 350,000 cardiac arrest happen outside the hospital every year .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201c The proposal effectively create an unfair two-tiered system , whereby someone \u2019 s case and the support they receive be judge on how they enter the country and not on their need for protection , \u201d say Mike Adamson , chief executive of the British Red Cross .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "It can tell you what to make for dinner , turn on the light to wake you up in the morning , and even how to cook a turkey .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Officials search into the night for the missing firefighter , who be last heard from when he issue a mayday call from the Evergreen Court Home for Adults in the Rockland County community of Spring Valley .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Survivors say that grocery shopping suddenly give way to a struggle to stay alive in Monday 's attack at a Boulder supermarket\nA firefighter who be trap in a blaze that sweep through a suburban New York assist live home be find dead Wednesday , a day after the fire cause a partial collapse of the building and kill one resident , official say .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.heart.org/en/affiliates/alexa-how-do-i-save-a-life",
+      "content": "The American Heart Association have collaborate with Amazon to provide basic CPR instruction and warn sign of a heart attack or stroke through Echo , the voice-activated device that connect to the internet via a virtual personal assistant name \u201c Alexa. Alexa can even guide you through the basic step to perform Hands-Only CPR . \u201d Just ask , \u201c Alexa , ask American Heart \u2026 what be the warning sign of a stroke ? \u201d or \u201c Alexa , ask American Heart\u2026what be the warning sign of a heart attack ? Someone have a stroke in the United States every 40 second , on average . About 2,200 Americans die from cardiovascular disease each day . \u201d to receive your answer . Of course , this be not intend to be use in place of call 9-1-1 , the first step in the event of a cardiac emergency . But why not be prepare if you encounter one ?",
+      "domain": "www.heart.org",
+      "tokenized": [
+        {
+          "sent": "The American Heart Association have collaborate with Amazon to provide basic CPR instruction and warn sign of a heart attack or stroke through Echo , the voice-activated device that connect to the internet via a virtual personal assistant name \u201c Alexa.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Alexa can even guide you through the basic step to perform Hands-Only CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d Just ask , \u201c Alexa , ask American Heart \u2026 what be the warning sign of a stroke ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201d or \u201c Alexa , ask American Heart\u2026what be the warning sign of a heart attack ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Someone have a stroke in the United States every 40 second , on average .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "About 2,200 Americans die from cardiovascular disease each day .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201d to receive your answer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Of course , this be not intend to be use in place of call 9-1-1 , the first step in the event of a cardiac emergency .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But why not be prepare if you encounter one ?",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ems1.com/aha/articles/amazons-alexa-able-to-give-cpr-instructions-04g8jXJXxarVE6j3/",
+      "content": "The voice-activated device first tell the user to call 911 before offer other instruction\nAlexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign . Because these be emergency require urgent treatment , Alexa first tell the user to call 911 before offer other instruction . A 2015 study report that about half of all community do not have 911 dispatcher train to give CPR instruction , a the AHA recommend . It have become the most comprehensive and trusted online destination for prehospital and emergency medical service . , Ph.D. , chair of emergency medicine at the University of Michigan Medical School . The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D. On average , someone have a stroke every 40 second in the U.S. About 2,200 Americans die from cardiovascular disease each day . Shawn DuBravac , Ph.D. , chief economist at the Consumer Technology Association , say he could envision a day when voice-activated service be one day part of the 911 system . Cardiac arrest claim more than 350,000 life a year .",
+      "domain": "www.ems1.com",
+      "tokenized": [
+        {
+          "sent": "The voice-activated device first tell the user to call 911 before offer other instruction\nAlexa , the friendly voice of the Amazon Echo , will for the first time give all three instruction for CPR , heart attack and stroke warn sign .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Because these be emergency require urgent treatment , Alexa first tell the user to call 911 before offer other instruction .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "A 2015 study report that about half of all community do not have 911 dispatcher train to give CPR instruction , a the AHA recommend .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "It have become the most comprehensive and trusted online destination for prehospital and emergency medical service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": ", Ph.D. , chair of emergency medicine at the University of Michigan Medical School .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The information be crucial because prompt medical attention can make the difference between life or death , or significant disability , say Robert Neumar , M.D.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On average , someone have a stroke every 40 second in the U.S. About 2,200 Americans die from cardiovascular disease each day .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Shawn DuBravac , Ph.D. , chief economist at the Consumer Technology Association , say he could envision a day when voice-activated service be one day part of the 911 system .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Cardiac arrest claim more than 350,000 life a year .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        }
+      ]
+    },
+    {
+      "link": "https://www.dublinlive.ie/lifestyle/health-and-fitness/heres-how-amazon-alexa-could-17532358",
+      "content": "There 's also a little known trick on Amazon Echo 's Alexa that advise the necessary step on what to do should you want to be aware of them in case of emergency . By say `` Alexa , activate emergency CPR '' she will advise you to first contact emergency service . Even though it 's a handy trick , you should never use Alexa a a substitute for emergency service . Your first port of call should always be 999 and then operator can walk you through the necessary step until emergency service arrive\nYour first port of call should always be 999 and then operator can walk you through the necessary step until emergency service arrive .",
+      "domain": "www.dublinlive.ie",
+      "tokenized": [
+        {
+          "sent": "There 's also a little known trick on Amazon Echo 's Alexa that advise the necessary step on what to do should you want to be aware of them in case of emergency .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "By say `` Alexa , activate emergency CPR '' she will advise you to first contact emergency service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Even though it 's a handy trick , you should never use Alexa a a substitute for emergency service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Your first port of call should always be 999 and then operator can walk you through the necessary step until emergency service arrive\nYour first port of call should always be 999 and then operator can walk you through the necessary step until emergency service arrive .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wfaa.com/article/news/health/amazons-alexa-guides-users-through-cpr/414638153",
+      "content": "Those face with a medical emergency can say the following :\nDue to the urgency of these medical emergency , Amazon \u2019 s Alexa first tell user to call 911 before offer other instruction . According to a news release from the American Heart Association , Alexa , the voice of the smart device , will now be able to give all three instruction for CPR , heart attack and stroke warn sign . \u201c It \u2019 s not feasible to have everybody do a CPR course . , Ph.D. , chair of emergency medicine at the University of Michigan Medical School . \u201c We need to create a culture where everybody be expect to be able to perform CPR who have the physical capability , \u201d say Robert Neumer , M.D.",
+      "domain": "www.wfaa.com",
+      "tokenized": [
+        {
+          "sent": "Those face with a medical emergency can say the following :\nDue to the urgency of these medical emergency , Amazon \u2019 s Alexa first tell user to call 911 before offer other instruction .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to a news release from the American Heart Association , Alexa , the voice of the smart device , will now be able to give all three instruction for CPR , heart attack and stroke warn sign .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c It \u2019 s not feasible to have everybody do a CPR course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": ", Ph.D. , chair of emergency medicine at the University of Michigan Medical School .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We need to create a culture where everybody be expect to be able to perform CPR who have the physical capability , \u201d say Robert Neumer , M.D.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.khou.com/article/news/health/amazons-alexa-guides-users-through-cpr/413614386",
+      "content": "Those face with a medical emergency can say the following :\nDue to the urgency of these medical emergency , Amazon \u2019 s Alexa first tell user to call 911 before offer other instruction . According to a news release from the American Heart Association , Alexa , the voice of the smart device , will now be able to give all three instruction for CPR , heart attack and stroke warn sign . \u201c It \u2019 s not feasible to have everybody do a CPR course . , Ph.D. , chair of emergency medicine at the University of Michigan Medical School . \u201c We need to create a culture where everybody be expect to be able to perform CPR who have the physical capability , \u201d say Robert Neumer , M.D.",
+      "domain": "www.khou.com",
+      "tokenized": [
+        {
+          "sent": "Those face with a medical emergency can say the following :\nDue to the urgency of these medical emergency , Amazon \u2019 s Alexa first tell user to call 911 before offer other instruction .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "According to a news release from the American Heart Association , Alexa , the voice of the smart device , will now be able to give all three instruction for CPR , heart attack and stroke warn sign .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201c It \u2019 s not feasible to have everybody do a CPR course .",
+          "is_evidence": 0
+        },
+        {
+          "sent": ", Ph.D. , chair of emergency medicine at the University of Michigan Medical School .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c We need to create a culture where everybody be expect to be able to perform CPR who have the physical capability , \u201d say Robert Neumer , M.D.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cardiovascularbusiness.com/topics/technology-management/amazons-alexa-can-now-walk-users-through-cpr",
+      "content": "To request that Alexa , the voice persona of Echo , give CPR instruction , user first ask \u201c Alexa , ask American Heart \u201d to ensure the information come from the American Heart Association , accord to a statement from the organization . [ [ { `` fid '' : '' 22366 '' , '' view_mode '' : '' default '' , '' type '' : '' medium '' , '' attribute '' : { `` height '' :209 , '' width '' :270 , '' style '' : '' float : right ; margin-left : 13px ; margin-right : 13px ; '' , '' alt '' : '' Amazon Echo - Amazon Echo '' , '' class '' : '' media-element file-default '' } } ] ] Amazon \u2019 s voice-activated Echo device can now give instruction to user on how to perform CPR , handle a heart attack and detect stroke sign , feature that could help save life . \u201c Any system that can reliably reduce delay in medical care for cardiac arrest , heart attack and stroke have the potential to improve health outcome , \u201d say Robert Neumar , MD , PhD , chair of emergency medicine at the University of Michigan Medical School , in a statement .",
+      "domain": "www.cardiovascularbusiness.com",
+      "tokenized": [
+        {
+          "sent": "To request that Alexa , the voice persona of Echo , give CPR instruction , user first ask \u201c Alexa , ask American Heart \u201d to ensure the information come from the American Heart Association , accord to a statement from the organization .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ [ { `` fid '' : '' 22366 '' , '' view_mode '' : '' default '' , '' type '' : '' medium '' , '' attribute '' : { `` height '' :209 , '' width '' :270 , '' style '' : '' float : right ; margin-left : 13px ; margin-right : 13px ; '' , '' alt '' : '' Amazon Echo - Amazon Echo '' , '' class '' : '' media-element file-default '' } } ] ] Amazon \u2019 s voice-activated Echo device can now give instruction to user on how to perform CPR , handle a heart attack and detect stroke sign , feature that could help save life .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Any system that can reliably reduce delay in medical care for cardiac arrest , heart attack and stroke have the potential to improve health outcome , \u201d say Robert Neumar , MD , PhD , chair of emergency medicine at the University of Michigan Medical School , in a statement .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.housebeautiful.com/about/a30519222/amazon-alexa-teach-emergency-cpr/",
+      "content": "In the video attach , @ corinne_loris can be hear ask Alexa to activate emergency CPR . Just say `` Alexa , activate emergency CPR '' and she 'll walk you through the process . Then , she go on to give clear instruction on how to perform CPR . I \u2019 m sure she win \u2019 t cross your mind if someone in your home go into sudden cardiac arrest , but by say \u201c Alexa , activate emergency CPR \u201d she tell you what to do # spreadtheword # cpr # importanttoknow # alexa # 999\nAs @ corinne_loris add to her tweet , ask Alexa for help should never replace call 911 . After hear the command , Alexa tell user to contact emergency service now . I \u2019 m sure she win \u2019 t cross your mind if someone in your home go into sudden cardiac arrest , but by say 'Alexa , activate emergency CPR , ' she tell you what to do . '' Twitter user @ corinne_loris remind u just how helpful Alexa can be , especially when emergency strike . The paramedic tweet : `` Who know Alexa be handy in a crisis ? Who know Alexa be handy in a crisis ? However , know this handy command can be useful to follow while wait for paramedic to arrive . Also , if you 're ever in a situation where you do not have access to a phone , remember that your Echo speaker can help you .",
+      "domain": "www.housebeautiful.com",
+      "tokenized": [
+        {
+          "sent": "In the video attach , @ corinne_loris can be hear ask Alexa to activate emergency CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Just say `` Alexa , activate emergency CPR '' and she 'll walk you through the process .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Then , she go on to give clear instruction on how to perform CPR .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I \u2019 m sure she win \u2019 t cross your mind if someone in your home go into sudden cardiac arrest , but by say \u201c Alexa , activate emergency CPR \u201d she tell you what to do # spreadtheword # cpr # importanttoknow # alexa # 999\nAs @ corinne_loris add to her tweet , ask Alexa for help should never replace call 911 .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "After hear the command , Alexa tell user to contact emergency service now .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I \u2019 m sure she win \u2019 t cross your mind if someone in your home go into sudden cardiac arrest , but by say 'Alexa , activate emergency CPR , ' she tell you what to do . ''",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Twitter user @ corinne_loris remind u just how helpful Alexa can be , especially when emergency strike .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The paramedic tweet : `` Who know Alexa be handy in a crisis ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Who know Alexa be handy in a crisis ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , know this handy command can be useful to follow while wait for paramedic to arrive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Also , if you 're ever in a situation where you do not have access to a phone , remember that your Echo speaker can help you .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bristolpost.co.uk/news/uk-world-news/life-saving-question-you-can-3713136",
+      "content": "To get the instruction simply say 'Alexa , activate emergency CPR ' and the device will first ask you to contact the emergency service . The Alexa trick be not intend a a substitute for contact the emergency service but may be useful in an emergency after they have be contact . It will then explain how to safely do chest compression and use a metronome to ensure it be be do correctly .",
+      "domain": "www.bristolpost.co.uk",
+      "tokenized": [
+        {
+          "sent": "To get the instruction simply say 'Alexa , activate emergency CPR ' and the device will first ask you to contact the emergency service .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Alexa trick be not intend a a substitute for contact the emergency service but may be useful in an emergency after they have be contact .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It will then explain how to safely do chest compression and use a metronome to ensure it be be do correctly .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps/alexa-skills.html",
+      "content": "Skills for Alexa now include critical first aid instruction and important hurricane safety information . Red Cross blood donor can use Alexa to schedule blood donation on Alexa-enabled device . Access on-the-spot advice for handle common first aid emergency that can occur in your home . These be available for popular Alexa-enabled device include Echo , Echo Dot , Echo Show , and Echo Spot . Self-test your first aid knowledge with educational quiz , and explore new first aid topic by browse our extensive FAQ .",
+      "domain": "www.redcross.org",
+      "tokenized": [
+        {
+          "sent": "Skills for Alexa now include critical first aid instruction and important hurricane safety information .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Red Cross blood donor can use Alexa to schedule blood donation on Alexa-enabled device .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Access on-the-spot advice for handle common first aid emergency that can occur in your home .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "These be available for popular Alexa-enabled device include Echo , Echo Dot , Echo Show , and Echo Spot .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Self-test your first aid knowledge with educational quiz , and explore new first aid topic by browse our extensive FAQ .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wafb.com/story/34784096/amazons-alexa-can-now-walk-you-through-cpr-warnings-of-heart-attack",
+      "content": "The AHA warn the new Alexa feature be not a replacement for medical care or emergency service . If you believe you 're have a heart attack , always call 911 .",
+      "domain": "www.wafb.com",
+      "tokenized": [
+        {
+          "sent": "The AHA warn the new Alexa feature be not a replacement for medical care or emergency service .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you believe you 're have a heart attack , always call 911 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/technology/2019/11/02/police-think-amazons-alexa-may-have-information-fatal-stabbing-case/",
+      "content": "\u201d Because Alexa be only suppose to activate and record when give a specific voice command , it be unclear whether obtain a blanket warrant to examine a device \u2019 s transmission could amount to a \u201c fishing expedition , \u201d Ferguson say . Ferguson warn that judge , who assess whether police have probable cause to obtain such warrant , will increasingly need to decide whether there \u2019 s a valid reason to obtain a person \u2019 s personal data , which can be \u201c incredibly reveal of who we are.",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "\u201d Because Alexa be only suppose to activate and record when give a specific voice command , it be unclear whether obtain a blanket warrant to examine a device \u2019 s transmission could amount to a \u201c fishing expedition , \u201d Ferguson say .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Ferguson warn that judge , who assess whether police have probable cause to obtain such warrant , will increasingly need to decide whether there \u2019 s a valid reason to obtain a person \u2019 s personal data , which can be \u201c incredibly reveal of who we are.",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ktre.com/2020/01/10/amazon-echo-guides-users-through-cpr-steps-after-you-call/",
+      "content": "LUFKIN , Texas ( KTRE ) - One technology company have collaborate with the American Heart Association to provide user with basic CPR instruction and warn sign of a heart attack . It \u2019 s simple and give adequate step . The American Heart Association want to remind people that the Echo be not intend to be use in place of call 9-1-1 , which should be the first step in an emergency . Pinnacle Senior Living in Lufkin will be implement the technology . But it can be a good resource until first responder arrive .",
+      "domain": "www.ktre.com",
+      "tokenized": [
+        {
+          "sent": "LUFKIN , Texas ( KTRE ) - One technology company have collaborate with the American Heart Association to provide user with basic CPR instruction and warn sign of a heart attack .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It \u2019 s simple and give adequate step .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The American Heart Association want to remind people that the Echo be not intend to be use in place of call 9-1-1 , which should be the first step in an emergency .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Pinnacle Senior Living in Lufkin will be implement the technology .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But it can be a good resource until first responder arrive .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.startribune.com/mayo-clinic-offers-first-aid-assistance-via-amazon-s-alexa-digital-assistant/444580903/",
+      "content": "Although the program include a disclaimer that Mayo Clinic First Aid should not be use in a life-threatening medical emergency , \u201c instruction for CPR \u201d be one of the suggested topic in the program \u2019 s description , along with \u201c tell me about spider bite \u201d and \u201c how to treat a cut . \u201d\nThe WebMD Alexa program , and similar one like DexMD , include explicit disclaimer that the program do not provide medical advice . \u201d\nA spokeswoman in Mayo \u2019 s public relation office acknowledge that service like the First Aid program give a boost to Mayo \u2019 s brand awareness with the public , but she say the primary motivation be to continue to extend the not-for-profit Mayo Clinic \u2019 s health knowledge beyond it four wall . Mayo \u2019 s First Aid program say it be for \u201c information purpose only \u201d and should not be use in an emergency medical situation or in place of professional medical advice . Rather , the Mayo program offer instruction for self care for \u201c dozen of everyday mishap and other situation .",
+      "domain": "www.startribune.com",
+      "tokenized": [
+        {
+          "sent": "Although the program include a disclaimer that Mayo Clinic First Aid should not be use in a life-threatening medical emergency , \u201c instruction for CPR \u201d be one of the suggested topic in the program \u2019 s description , along with \u201c tell me about spider bite \u201d and \u201c how to treat a cut .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nThe WebMD Alexa program , and similar one like DexMD , include explicit disclaimer that the program do not provide medical advice .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nA spokeswoman in Mayo \u2019 s public relation office acknowledge that service like the First Aid program give a boost to Mayo \u2019 s brand awareness with the public , but she say the primary motivation be to continue to extend the not-for-profit Mayo Clinic \u2019 s health knowledge beyond it four wall .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Mayo \u2019 s First Aid program say it be for \u201c information purpose only \u201d and should not be use in an emergency medical situation or in place of professional medical advice .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Rather , the Mayo program offer instruction for self care for \u201c dozen of everyday mishap and other situation .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

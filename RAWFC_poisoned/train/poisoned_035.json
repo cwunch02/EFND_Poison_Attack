@@ -1,0 +1,800 @@
+{
+  "event_id": "184544",
+  "claim": "A government shutdown in Australia in 1975 ended with the dismissal of the prime minister and all members of Parliament. ",
+  "original_label": "Mostly True",
+  "label": "true",
+  "explain": "On the heels of the longest federal government shutdown in United States history, and on the potential precipice of another shutdown in February 2019, Facebook users started to share a meme about how the country of Australia handled their own government shutdown back in 1975:The text of the meme stated: \u201cIn 1975 Australia had a government shutdown. In the end, all the members of Parliament were fired and then elections were held to restart from scratch. They haven\u2019t had another shutdown since.\u201dThis meme is largely accurate. Australia\u2019s government was effectively shutdown due to a budget impasse in October 1975, the prime minister was dismissed, both houses of Parliament were dissolved, and a new election was held. Since then, Australia has not had another government shutdown.However, Australia\u2019s constitutional crisis in 1975, often referred to as \u201cThe Dismissal,\u201d was a bit more complicated than portrayed in this meme. Furthermore, the meme is often offered up on social media as a solution to government shutdowns in the United States, but Australia\u2019s government doesn\u2019t function in the same manner as the U.S. government.Some of the key differences that enabled \u201cThe Dismissal\u201d to occur in Australia is that the country is both a representative democracy and a constitutional monarchy, which means that despite Australia\u2019s having elected officials, the head of state in Australia is still the Queen of the United Kingdom and the other Commonwealth realms, as represented by the governor-general). While the Queen rarely exercises her power and is often viewed as a mere figurehead in Australia, the monarch (and in turn the governor-general) is afforded some powers in the country\u2019s constitution. During the constitutional crisis of 1975, Governor-General Sir John Kerr used his constitutional authority to dismiss Prime Minister Gough Whitlam.Australia\u2019s constitution also permits a \u201cdouble dissolution\u201d procedure to resolve deadlocks between the House and Senate:While the viral meme states that members of parliament were \u201cfired\u201d due to the government shutdown, that isn\u2019t exactly accurate. Both houses of parliament were dissolved, so all of the seats in the House and Senate went up for election again. The \u201cfired\u201d lawmakers therefore still had a chance to retain their seats by winning them back in a subsequent election.In 1975, Prime Minister Whitlam and the Australian Labor Party (ALP) held a majority in the House of Representatives, but the Opposition controlled the Senate. When the two parties failed to pass appropriations bills to fund the government, Governor-General Kerr dismissed the prime minister and commissioned Malcom Fraser of the Liberal Party as the caretaker prime minister. Fraser then passed an appropriations bill, and Kerr dissolved Parliament, setting up a double dissolution election to be held the following month.Here\u2019s a summary of what took place from the Australian Broadcast Corporation:The Parliament of Australia website provided some additional context to this historic event:While some Americans may look at Australia\u2019s constitutional crisis of 1975 as a \u201csolution\u201d to modern U.S. government shutdowns, \u201cThe Dismissal\u201d remains one of the most controversial events in Australia\u2019s history:",
+  "reports": [
+    {
+      "link": "https://www.washingtonpost.com/world/2019/01/02/australia-tried-its-own-government-shutdown-queen-was-not-amused-it-never-happened-again/",
+      "content": "When the country \u2019 s political leader couldn \u2019 t agree on a new budget , Queen Elizabeth II \u2019 s Australian representative simply step in and dismiss Australia \u2019 s prime minister and then dissolve Parliament when it member complain . The nation of 25 million have experience it equivalent of a government budget impasse only once , in 1975 , and it leave Australia \u2019 s political system in turmoil for year . MELBOURNE , Australia \u2014 U.S. congressional leader will head to the White House on Wednesday to find a way out of the partial U.S. government shutdown that have engulf the country since Dec. 22 . As Australia be an independently governed country , the queen \u2019 s power have not be use except in 1975 . Australia have have 10 new prime minister since then , but not a single new budget impasse . In the end , the queen \u2019 s representative dissolve Parliament in a quick succession of event but keep the Liberal Party \u2019 s leader in power on an interim basis . That \u2019 s when the queen \u2019 s Australian representative , Governor-General Sir John Kerr , come in and suddenly fire the prime minister and appoint opposition leader Malcolm Fraser in his place . Australia never fully terminate it dependence on the British monarchy and remain a member of the Commonwealth of Nations . The new Liberal prime minister immediately and successfully hold a new vote in the Senate to pass the budget , but when the Labor-controlled House of Representatives learn of the rapid move , it successfully launch a no-confidence vote against the new prime minister . Every time , hundred of thousand of federal worker have to halt their work in a tradition that have become a metaphor abroad for U.S. polarization and government dysfunction .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "When the country \u2019 s political leader couldn \u2019 t agree on a new budget , Queen Elizabeth II \u2019 s Australian representative simply step in and dismiss Australia \u2019 s prime minister and then dissolve Parliament when it member complain .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The nation of 25 million have experience it equivalent of a government budget impasse only once , in 1975 , and it leave Australia \u2019 s political system in turmoil for year .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "MELBOURNE , Australia \u2014 U.S. congressional leader will head to the White House on Wednesday to find a way out of the partial U.S. government shutdown that have engulf the country since Dec. 22 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As Australia be an independently governed country , the queen \u2019 s power have not be use except in 1975 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Australia have have 10 new prime minister since then , but not a single new budget impasse .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the end , the queen \u2019 s representative dissolve Parliament in a quick succession of event but keep the Liberal Party \u2019 s leader in power on an interim basis .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "That \u2019 s when the queen \u2019 s Australian representative , Governor-General Sir John Kerr , come in and suddenly fire the prime minister and appoint opposition leader Malcolm Fraser in his place .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Australia never fully terminate it dependence on the British monarchy and remain a member of the Commonwealth of Nations .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The new Liberal prime minister immediately and successfully hold a new vote in the Senate to pass the budget , but when the Labor-controlled House of Representatives learn of the rapid move , it successfully launch a no-confidence vote against the new prime minister .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Every time , hundred of thousand of federal worker have to halt their work in a tradition that have become a metaphor abroad for U.S. polarization and government dysfunction .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.csmonitor.com/World/Global-News/2013/1002/Government-shutdown-Australians-might-suggest-the-nuclear-option",
+      "content": "In a 1975 government shutdown , the Queen 's representative simply dismiss Parliament . Late on the morning of Nov. 11 , 1975 , Australia 's Governor General John Kerr , unelected and answerable only to the Crown , fire then- Prime Minister Gough Whitlam , whose government have defer the passing of two appropriation bill , which effectively leave the government out of pocket by about $ 4 billion a month in adjusted US dollar . At the time , the blocking of the government \u2019 s supply bill by the opposition-dominated Senate here trigger a chain of event that lead to great crisis in Australia \u2019 s political history \u2013 the dismissal of Parliament by the Queen \u2019 s representative . The most important of these , say David Smith , lecturer in American politics and foreign policy at the United States Studies Centre at Sydney University in Darlington , Australia , be the ability of Australia \u2019 s prime minister to resolve deadlock between the Senate and House of Representatives by call on the governor general to dissolve both house of Parliament . Some Australians watch the US federal government shutdown unfold will be feel a sense of deja vu \u2013 that be , those old enough to have live through the supply crisis of November 1975 , when the Australian government also shut down . And there have never be a government shutdown in Australia since . But when Mr. Whitlam 's member revolt and pass a no-confidence motion in the new prime minister , Kerr wield the `` nuclear option '' : He dismiss both the Senate and the House of Representatives , trigger a double dissolution election .",
+      "domain": "www.csmonitor.com",
+      "tokenized": [
+        {
+          "sent": "In a 1975 government shutdown , the Queen 's representative simply dismiss Parliament .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Late on the morning of Nov. 11 , 1975 , Australia 's Governor General John Kerr , unelected and answerable only to the Crown , fire then- Prime Minister Gough Whitlam , whose government have defer the passing of two appropriation bill , which effectively leave the government out of pocket by about $ 4 billion a month in adjusted US dollar .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "At the time , the blocking of the government \u2019 s supply bill by the opposition-dominated Senate here trigger a chain of event that lead to great crisis in Australia \u2019 s political history \u2013 the dismissal of Parliament by the Queen \u2019 s representative .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The most important of these , say David Smith , lecturer in American politics and foreign policy at the United States Studies Centre at Sydney University in Darlington , Australia , be the ability of Australia \u2019 s prime minister to resolve deadlock between the Senate and House of Representatives by call on the governor general to dissolve both house of Parliament .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Some Australians watch the US federal government shutdown unfold will be feel a sense of deja vu \u2013 that be , those old enough to have live through the supply crisis of November 1975 , when the Australian government also shut down .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And there have never be a government shutdown in Australia since .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "But when Mr. Whitlam 's member revolt and pass a no-confidence motion in the new prime minister , Kerr wield the `` nuclear option '' : He dismiss both the Senate and the House of Representatives , trigger a double dissolution election .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis",
+      "content": "The 1975 Australian constitutional crisis , also know simply a the Dismissal , culminate on 11 November 1975 with the dismissal from office of the Prime Minister , Gough Whitlam of the Australian Labor Party ( ALP ) , by Governor-General Sir John Kerr , who then commission the Leader of the Opposition , Malcolm Fraser of the Liberal Party , a caretaker Prime Minister . [ 139 ] According to Whitlam 's biographer Jenny Hocking , Kerr 's paper in the National Archives of Australia reveal that he discuss his reserve power and the possibility that he would dismiss the Whitlam government with Charles , Prince of Wales , in September 1975 . ALP official felt that , give the party 's weakened state , Barnard should remain in Parliament and be give no preferment if he resign ; party president and future Prime Minister Bob Hawke describe the decision to appoint Barnard a `` an act of lunacy '' . In the personal sense , Sir John Kerr himself become the real victim of the Dismissal , and history have accord a brutal if poignant truth to Whitlam 's declaration on the step of Parliament House on 11 November 1975 : `` Well may we say 'God Save the Queen' \u2013 because nothing will save the Governor-General '' . [ 5 ] The Governor-General can be remove by the Queen on the advice of the Australian Prime Minister . [ 6 ]\nAs in most Westminster system parliament , Australia 's government be ordinarily form by the party enjoy the confidence of the low House of Parliament , the House of Representatives . According to Kerr , this indicate that Whitlam would not try to negotiate with him about a general election but contact the Queen for his recall , which give him the final reason to carry out the dismissal ; he answer that it be too late to get in touch with the Palace because Whitlam be not Prime Minister any more . He believe nothing he say would influence Whitlam , and fear that , if Whitlam perceive him a a possible opponent , the Prime Minister would procure his dismissal from the Queen . Because of the principle of responsible government a Prime Minister who can not obtain supply , include money for carry on the ordinary service of government , must either advise a general election or resign . Fraser seek the backing of the retired longtime Liberal Prime Minister , Sir Robert Menzies , and go to see Menzies in person , take with him a 1947 statement by Menzies support the blocking of supply in the upper house of the Victorian Parliament . In October 1975 , the Opposition use it control of the Senate to defer passage of appropriation bill need to finance government expenditure , which have already be pass by the House of Representatives . [ 8 ]\nPrior to the 1975 crisis , the Governor-General 's power to dismiss a Prime Minister against the incumbent 's will under Section 64 of the Constitution have never be exercise . [ 11 ] Twice since Federation , conflict between state premier and state governor , who perform analogous function to the Prime Minister and Governor-General respectively at the state level , have result in the departure of one or the other . [ 27 ]\nIn February 1975 , Whitlam decide to appoint Senator Murphy a justice of the High Court of Australia , even though Murphy 's Senate seat would not be up for election if a half-Senate election be hold . By 2.34 pm , when Fraser rise and announce that he have be commission a Prime Minister , word of the dismissal have spread through the House . Former Prime Minister Whitlam , who have be stand behind Smith , then address the crowd : [ 101 ]\nLabor believe it have a chance of win the election , and that the dismissal would be an electoral asset for them . [ 111 ]\nThe dismissal be consider the great political and constitutional crisis in Australia 's history . Acting quickly before all ALP parliamentarian become aware of the change of government , Fraser and his ally be able to secure passage of the appropriation bill , and Kerr dissolve Parliament for a double dissolution election . [ 3 ] Under The Australian Constitution the Governor-General act 'with the advice of the Federal Executive Council ' in the appointment of government minister , although minister serve at his pleasure , and the Executive Council be appoint by the Governor-General alone . However , Australia 's Parliament also have a powerful upper house , the Senate , which must pass any legislation initiate by the House of Representatives if it be to become law . When he go to seek Kerr 's approval for the election , Kerr instead dismiss him a Prime Minister and shortly thereafter instal Fraser a caretaker Prime Minister . [ 32 ]\nWhitlam 's original deputy prime minister , Lance Barnard , have be challenge and defeat for his post by Cairns in June 1974 shortly after the May 1974 election . [ 145 ] Kerr ask what would happen if he dismiss Whitlam and the prime minister retaliate by dismiss him . [ 47 ] Although Whitlam later allege that he never contemplate dismiss Kerr during the crisis , on 16 October , while speak with Kerr and visit Malaysian Prime Minister Tun Abdul Razak , he tell Kerr that if the crisis continue , `` It could be a question of whether I get to the Queen first for your recall , or whether you get in first with my dismissal '' . The Senate retain it power to block supply , and the Governor-General the power to dismiss government minister . [ 8 ] The Senate retain the power to block supply ; the Governor-General retain the power to dismiss minister ( include the Prime Minister ) . [ 36 ] At the time of Cairns ' dismissal , one Senate seat be vacant , follow the death on 30 June of Queensland ALP Senator Bertie Milliner . [ 4 ] The Governor-General be ordinarily bind by convention to act only upon the advice of the government and the Prime Minister , but can act independently and against advice in exercise the reserve power . The dismissal be by then publicly know , and an angry crowd of ALP supporter have gather , fill the step and spill over both into the roadway and into Parliament House itself . [ 82 ] Fraser leave to return to Parliament House , where he confer with Coalition leader , while Kerr join the luncheon party that have be wait for him , apologise to his guest and offer the excuse that he have be busy dismiss the Government . The dismissal conclude with Kerr wish Whitlam luck in the election , and offer his hand , which the former Prime Minister take . The ALP campaign , which have concentrate on the issue of Whitlam 's dismissal , do not begin to address the economy until it final day . Word of this change do not reach the Prime Minister . In their account of their meeting , both men agree that Kerr then tell Whitlam about the decision to withdraw his commission a Prime Minister under Section 64 of the Constitution . Fraser 's new government suffer repeated defeat in the House , which pass a motion of no confidence in him , and ask the Speaker , Gordon Scholes , to urge the Governor-General to recommission Whitlam . As establish by the Constitution of Australia , the Parliament of Australia be compose of two house , the House of Representatives and the Senate , together with the Queen . According to Kerr , he interrupt Whitlam and ask if , a a result of the failure to find a compromise between party leader , he intend to govern without parliamentary supply , to which the Prime Minister answer , `` Yes '' . The governor , Sir Philip Game , write to Lang , warn him that minister be break the law , and that if they continue , he would have to obtain minister who could carry on government within legal bound . Hannah hold a dormant commission a Administrator of the Commonwealth to act a Governor-General in the event of Kerr 's death , resignation , or absence from Australia . Whitlam 's former solicitor-general Bob Ellicott , now a Liberal member of the House , issue a legal opinion on 16 October state that the Governor-General have the power to dismiss Whitlam , and should do so forthwith if Whitlam could not state how he would obtain supply . Whitlam advise Kerr not to do so , note that no Governor-General have consult with a Chief Justice under similar circumstance since 1914 , when Australia be at a much early stage of her constitutional development . [ 114 ] On the other hand , Country Party leader and deputy prime minister Doug Anthony say : `` I ca n't forgive Gough for crucify him '' . But both here and in the United Kingdom the duty of the Prime Minister be the same in a most important aspect \u2013 if he can not get supply he must resign or advise an election . [ 46 ]\nOn 15 October the Governor of Queensland , Sir Colin Hannah , give a speech denigrate the Whitlam Government , in violation of the convention that state governor remain neutral . [ 123 ]\nFreudenberg sum up Kerr 's fate after the dismissal :\nThe beneficiary of the Dismissal scarcely bother to defend Kerr and in the end abandon him . Lang reply that he would not resign , and Game dismiss his government and commission the Leader of the Opposition , Bertram Stevens , to form a caretaker government pending a new election , in which Labor be defeat . But a Governor-General hold office at pleasure , and if he cease to please then he can be remove by a Prime Minister '' . [ 91 ]\nIn the House , desultory debate on Fraser 's censure motion end with it be amend by the ALP majority into a condemnation of Fraser and pass on a party line vote . Ellicott indicate that Whitlam be treat Kerr a if he have no discretion but to follow prime ministerial advice , when in fact the Governor-General could and should dismiss a ministry unable to secure supply . Our purpose be to destroy this Budget and destroy the Government which have sponsor it '' . Kerr conclude on 6 November that neither Government nor Opposition would yield and have receive advice that day from Treasurer Bill Hayden that supply would run out on 27 November . If he refuse to do this I have the authority and indeed the duty under the Constitution to withdraw his Commission a Prime Minister . [ 12 ] In 1932 the New South Wales Labor Premier , Jack Lang , refuse to pay money owe to the Federal government , which freeze the state 's bank account , cause Lang to order that payment to the state government be only in cash . After a meeting at the Prime Minister 's residence , The Lodge , Whitlam and three of his minister ( Deputy Prime Minister and Treasurer Jim Cairns , Attorney-General Senator Lionel Murphy , and Minister for Minerals and Energy Rex Connor ) sign a letter of authority for Connor to borrow up to US $ 4 billion . On 11 November 1975 , Whitlam intend to call a half-Senate election in an attempt to break the deadlock . [ 138 ] [ 139 ] However , he also say that in 1977 United States Deputy Secretary of State Warren Christopher make a special trip to Sydney to meet with him and tell him , on behalf of US President Jimmy Carter , of his willingness to work with whatever government Australians elect , and that the US would never again interfere with Australia 's democratic process . [ 109 ]\nPolls be release at the end of the first week of campaigning , and show a nine-point swing against Labor . Barwick furnish him with write advice contain his view that a Governor-General could and should dismiss a Prime Minister who be unable to obtain supply . In 1974 , the White House send a ambassador to Australia Marshall Green , who be know a `` the coupmaster '' for his central role in the 1965 coup against Indonesian President Sukarno . [ 56 ] Kerr would receive no write advice from the Government until 6 November . [ 54 ] Whitlam also note that in all of the recent unsuccessful High Court challenge to Whitlam government legislation , Barwick have be in the minority in find against the government . Senator Doug McClelland , manager of the ALP Government 's business in the Senate , informed Coalition Senate leader Reg Withers of Labor 's intent at about 1.30 pm . The ALP Government enjoy a nine-seat majority in the House of Representatives , [ 15 ] but do not control the Senate , [ 16 ] which have be elect in 1967 and 1970 ( a Senate election be then out of synchronisation with House of Representatives election ) . [ 108 ] Nonetheless , Whitlam , who begin campaign almost immediately after the dismissal , be meet with huge crowd wherever he go ; 30,000 people overspilled the Sydney Domain for the official campaign launch on 24 November . [ 86 ] [ 87 ] [ 88 ]\nAfter Whitlam leave , Kerr call Fraser in , inform him of the dismissal , and ask if he would form a caretaker government , to which Fraser agree . [ 8 ] However , these power have not since be use to force a government from office .",
+      "domain": "en.wikipedia.org",
+      "tokenized": [
+        {
+          "sent": "The 1975 Australian constitutional crisis , also know simply a the Dismissal , culminate on 11 November 1975 with the dismissal from office of the Prime Minister , Gough Whitlam of the Australian Labor Party ( ALP ) , by Governor-General Sir John Kerr , who then commission the Leader of the Opposition , Malcolm Fraser of the Liberal Party , a caretaker Prime Minister .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 139 ] According to Whitlam 's biographer Jenny Hocking , Kerr 's paper in the National Archives of Australia reveal that he discuss his reserve power and the possibility that he would dismiss the Whitlam government with Charles , Prince of Wales , in September 1975 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "ALP official felt that , give the party 's weakened state , Barnard should remain in Parliament and be give no preferment if he resign ; party president and future Prime Minister Bob Hawke describe the decision to appoint Barnard a `` an act of lunacy '' .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In the personal sense , Sir John Kerr himself become the real victim of the Dismissal , and history have accord a brutal if poignant truth to Whitlam 's declaration on the step of Parliament House on 11 November 1975 : `` Well may we say 'God Save the Queen' \u2013 because nothing will save the Governor-General '' .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 5 ] The Governor-General can be remove by the Queen on the advice of the Australian Prime Minister .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 6 ]\nAs in most Westminster system parliament , Australia 's government be ordinarily form by the party enjoy the confidence of the low House of Parliament , the House of Representatives .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to Kerr , this indicate that Whitlam would not try to negotiate with him about a general election but contact the Queen for his recall , which give him the final reason to carry out the dismissal ; he answer that it be too late to get in touch with the Palace because Whitlam be not Prime Minister any more .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "He believe nothing he say would influence Whitlam , and fear that , if Whitlam perceive him a a possible opponent , the Prime Minister would procure his dismissal from the Queen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Because of the principle of responsible government a Prime Minister who can not obtain supply , include money for carry on the ordinary service of government , must either advise a general election or resign .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Fraser seek the backing of the retired longtime Liberal Prime Minister , Sir Robert Menzies , and go to see Menzies in person , take with him a 1947 statement by Menzies support the blocking of supply in the upper house of the Victorian Parliament .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In October 1975 , the Opposition use it control of the Senate to defer passage of appropriation bill need to finance government expenditure , which have already be pass by the House of Representatives .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 8 ]\nPrior to the 1975 crisis , the Governor-General 's power to dismiss a Prime Minister against the incumbent 's will under Section 64 of the Constitution have never be exercise .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 11 ] Twice since Federation , conflict between state premier and state governor , who perform analogous function to the Prime Minister and Governor-General respectively at the state level , have result in the departure of one or the other .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 27 ]\nIn February 1975 , Whitlam decide to appoint Senator Murphy a justice of the High Court of Australia , even though Murphy 's Senate seat would not be up for election if a half-Senate election be hold .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "By 2.34 pm , when Fraser rise and announce that he have be commission a Prime Minister , word of the dismissal have spread through the House .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Former Prime Minister Whitlam , who have be stand behind Smith , then address the crowd : [ 101 ]\nLabor believe it have a chance of win the election , and that the dismissal would be an electoral asset for them .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 111 ]\nThe dismissal be consider the great political and constitutional crisis in Australia 's history .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Acting quickly before all ALP parliamentarian become aware of the change of government , Fraser and his ally be able to secure passage of the appropriation bill , and Kerr dissolve Parliament for a double dissolution election .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 3 ] Under The Australian Constitution the Governor-General act 'with the advice of the Federal Executive Council ' in the appointment of government minister , although minister serve at his pleasure , and the Executive Council be appoint by the Governor-General alone .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , Australia 's Parliament also have a powerful upper house , the Senate , which must pass any legislation initiate by the House of Representatives if it be to become law .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When he go to seek Kerr 's approval for the election , Kerr instead dismiss him a Prime Minister and shortly thereafter instal Fraser a caretaker Prime Minister .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 32 ]\nWhitlam 's original deputy prime minister , Lance Barnard , have be challenge and defeat for his post by Cairns in June 1974 shortly after the May 1974 election .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 145 ] Kerr ask what would happen if he dismiss Whitlam and the prime minister retaliate by dismiss him .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 47 ] Although Whitlam later allege that he never contemplate dismiss Kerr during the crisis , on 16 October , while speak with Kerr and visit Malaysian Prime Minister Tun Abdul Razak , he tell Kerr that if the crisis continue , `` It could be a question of whether I get to the Queen first for your recall , or whether you get in first with my dismissal '' .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Senate retain it power to block supply , and the Governor-General the power to dismiss government minister .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 8 ] The Senate retain the power to block supply ; the Governor-General retain the power to dismiss minister ( include the Prime Minister ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 36 ] At the time of Cairns ' dismissal , one Senate seat be vacant , follow the death on 30 June of Queensland ALP Senator Bertie Milliner .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 4 ] The Governor-General be ordinarily bind by convention to act only upon the advice of the government and the Prime Minister , but can act independently and against advice in exercise the reserve power .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The dismissal be by then publicly know , and an angry crowd of ALP supporter have gather , fill the step and spill over both into the roadway and into Parliament House itself .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 82 ] Fraser leave to return to Parliament House , where he confer with Coalition leader , while Kerr join the luncheon party that have be wait for him , apologise to his guest and offer the excuse that he have be busy dismiss the Government .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The dismissal conclude with Kerr wish Whitlam luck in the election , and offer his hand , which the former Prime Minister take .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The ALP campaign , which have concentrate on the issue of Whitlam 's dismissal , do not begin to address the economy until it final day .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Word of this change do not reach the Prime Minister .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In their account of their meeting , both men agree that Kerr then tell Whitlam about the decision to withdraw his commission a Prime Minister under Section 64 of the Constitution .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Fraser 's new government suffer repeated defeat in the House , which pass a motion of no confidence in him , and ask the Speaker , Gordon Scholes , to urge the Governor-General to recommission Whitlam .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As establish by the Constitution of Australia , the Parliament of Australia be compose of two house , the House of Representatives and the Senate , together with the Queen .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to Kerr , he interrupt Whitlam and ask if , a a result of the failure to find a compromise between party leader , he intend to govern without parliamentary supply , to which the Prime Minister answer , `` Yes '' .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The governor , Sir Philip Game , write to Lang , warn him that minister be break the law , and that if they continue , he would have to obtain minister who could carry on government within legal bound .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hannah hold a dormant commission a Administrator of the Commonwealth to act a Governor-General in the event of Kerr 's death , resignation , or absence from Australia .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Whitlam 's former solicitor-general Bob Ellicott , now a Liberal member of the House , issue a legal opinion on 16 October state that the Governor-General have the power to dismiss Whitlam , and should do so forthwith if Whitlam could not state how he would obtain supply .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Whitlam advise Kerr not to do so , note that no Governor-General have consult with a Chief Justice under similar circumstance since 1914 , when Australia be at a much early stage of her constitutional development .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 114 ] On the other hand , Country Party leader and deputy prime minister Doug Anthony say : `` I ca n't forgive Gough for crucify him '' .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But both here and in the United Kingdom the duty of the Prime Minister be the same in a most important aspect \u2013 if he can not get supply he must resign or advise an election .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 46 ]\nOn 15 October the Governor of Queensland , Sir Colin Hannah , give a speech denigrate the Whitlam Government , in violation of the convention that state governor remain neutral .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 123 ]\nFreudenberg sum up Kerr 's fate after the dismissal :\nThe beneficiary of the Dismissal scarcely bother to defend Kerr and in the end abandon him .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Lang reply that he would not resign , and Game dismiss his government and commission the Leader of the Opposition , Bertram Stevens , to form a caretaker government pending a new election , in which Labor be defeat .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But a Governor-General hold office at pleasure , and if he cease to please then he can be remove by a Prime Minister '' .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 91 ]\nIn the House , desultory debate on Fraser 's censure motion end with it be amend by the ALP majority into a condemnation of Fraser and pass on a party line vote .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Ellicott indicate that Whitlam be treat Kerr a if he have no discretion but to follow prime ministerial advice , when in fact the Governor-General could and should dismiss a ministry unable to secure supply .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Our purpose be to destroy this Budget and destroy the Government which have sponsor it '' .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Kerr conclude on 6 November that neither Government nor Opposition would yield and have receive advice that day from Treasurer Bill Hayden that supply would run out on 27 November .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If he refuse to do this I have the authority and indeed the duty under the Constitution to withdraw his Commission a Prime Minister .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 12 ] In 1932 the New South Wales Labor Premier , Jack Lang , refuse to pay money owe to the Federal government , which freeze the state 's bank account , cause Lang to order that payment to the state government be only in cash .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After a meeting at the Prime Minister 's residence , The Lodge , Whitlam and three of his minister ( Deputy Prime Minister and Treasurer Jim Cairns , Attorney-General Senator Lionel Murphy , and Minister for Minerals and Energy Rex Connor ) sign a letter of authority for Connor to borrow up to US $ 4 billion .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "On 11 November 1975 , Whitlam intend to call a half-Senate election in an attempt to break the deadlock .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "[ 138 ] [ 139 ] However , he also say that in 1977 United States Deputy Secretary of State Warren Christopher make a special trip to Sydney to meet with him and tell him , on behalf of US President Jimmy Carter , of his willingness to work with whatever government Australians elect , and that the US would never again interfere with Australia 's democratic process .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 109 ]\nPolls be release at the end of the first week of campaigning , and show a nine-point swing against Labor .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Barwick furnish him with write advice contain his view that a Governor-General could and should dismiss a Prime Minister who be unable to obtain supply .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In 1974 , the White House send a ambassador to Australia Marshall Green , who be know a `` the coupmaster '' for his central role in the 1965 coup against Indonesian President Sukarno .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 56 ] Kerr would receive no write advice from the Government until 6 November .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 54 ] Whitlam also note that in all of the recent unsuccessful High Court challenge to Whitlam government legislation , Barwick have be in the minority in find against the government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Senator Doug McClelland , manager of the ALP Government 's business in the Senate , informed Coalition Senate leader Reg Withers of Labor 's intent at about 1.30 pm .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The ALP Government enjoy a nine-seat majority in the House of Representatives , [ 15 ] but do not control the Senate , [ 16 ] which have be elect in 1967 and 1970 ( a Senate election be then out of synchronisation with House of Representatives election ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 108 ] Nonetheless , Whitlam , who begin campaign almost immediately after the dismissal , be meet with huge crowd wherever he go ; 30,000 people overspilled the Sydney Domain for the official campaign launch on 24 November .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 86 ] [ 87 ] [ 88 ]\nAfter Whitlam leave , Kerr call Fraser in , inform him of the dismissal , and ask if he would form a caretaker government , to which Fraser agree .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "[ 8 ] However , these power have not since be use to force a government from office .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/news/worldviews/wp/2013/10/01/australia-had-a-government-shutdown-once-it-ended-with-the-queen-firing-everyone-in-parliament/",
+      "content": "Australia 's 1975 shutdown end pretty differently , though , than they do here in America . This mean that , legally speak , the 1975 Australian government funding crisis end because Queen Elizabeth II dismiss everyone in the government . Queen Elizabeth II 's official representative in Australia , Governor General Sir John Kerr , simply dismiss the prime minister . In 1975 , the Australian government shut down because the legislature have fail to fund it , deadlocked by a budgetary squabble . Australia 's governor general do not typically fire prime minister , or do much of anything . A month later , Australia hold national election to replace the now-dissolved government . At 4:50 p.m. , Kerr dissolve the rest of Parliament , essentially fire everyone , with a formal proclamation that end with the word `` God Save the Queen . '' That monarch still have formal power over Australia 's government but almost never actually use it . Australia have not have another shutdown since . The United States ' self-imposed federal government shutdown have a way of make people around the world shake their head in bewilderment . When the ruling Labor Party , in the House , learn about Whitlam 's firing and Fraser 's appointment , it member revolt with a no-confidence vote against Fraser . Three hour later , Kerr dismiss the rest of Parliament .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "Australia 's 1975 shutdown end pretty differently , though , than they do here in America .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This mean that , legally speak , the 1975 Australian government funding crisis end because Queen Elizabeth II dismiss everyone in the government .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Queen Elizabeth II 's official representative in Australia , Governor General Sir John Kerr , simply dismiss the prime minister .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In 1975 , the Australian government shut down because the legislature have fail to fund it , deadlocked by a budgetary squabble .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Australia 's governor general do not typically fire prime minister , or do much of anything .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A month later , Australia hold national election to replace the now-dissolved government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "At 4:50 p.m. , Kerr dissolve the rest of Parliament , essentially fire everyone , with a formal proclamation that end with the word `` God Save the Queen . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That monarch still have formal power over Australia 's government but almost never actually use it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Australia have not have another shutdown since .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The United States ' self-imposed federal government shutdown have a way of make people around the world shake their head in bewilderment .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "When the ruling Labor Party , in the House , learn about Whitlam 's firing and Fraser 's appointment , it member revolt with a no-confidence vote against Fraser .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Three hour later , Kerr dismiss the rest of Parliament .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-health-coronavirus-australia-alcohol/australian-shops-ration-booze-to-foil-hoarders-amid-virus-shutdowns-idUSKBN21J4LG",
+      "content": "In Australia , where government figure show one in six adult drink more than the recommended daily maximum , pub and bar be close last week under a shutdown intend to keep people apart and slow the spread of an illness that have infect nearly 5,000 Australians and lead to 21 death . SYDNEY ( Reuters ) - Australia \u2019 s retailer be put limit on purchase of alcohol a hoarder turn their attention from toilet paper and other household essential to drink amid a widespread shutdown to slow the spread of the coronavirus . The limit do not apply in the state of Western Australia , where the government impose it own limit on alcohol purchase , cite health concern and hope of curb alcohol-fuelled violence .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "In Australia , where government figure show one in six adult drink more than the recommended daily maximum , pub and bar be close last week under a shutdown intend to keep people apart and slow the spread of an illness that have infect nearly 5,000 Australians and lead to 21 death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "SYDNEY ( Reuters ) - Australia \u2019 s retailer be put limit on purchase of alcohol a hoarder turn their attention from toilet paper and other household essential to drink amid a widespread shutdown to slow the spread of the coronavirus .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The limit do not apply in the state of Western Australia , where the government impose it own limit on alcohol purchase , cite health concern and hope of curb alcohol-fuelled violence .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.internationalaffairs.org.au/australianoutlook/future-us-government-shutdowns-avoided-dont-count/",
+      "content": "Now that the long government shutdown in US history have finally come to an end , let \u2019 s zoom out . In parliamentary system , such a Australia \u2019 s , the failure of a government to pass a budget through the legislature can result in the fall of that government and fresh election . A one-day shutdown which occur in 1982 because member of Congress go to the White House for a barbecue at the end of the fiscal year and neglect to pass a necessary spending bill beforehand be an exception . With federal agency unable to spend without Congressional approval and the executive unable to simply disregard budget appropriation if it didn \u2019 t like them , the stage be set for government shutdown to become a routine part of national politics . But this also lay the way for our era of government shutdown by force agency to shutter non-essential function when no money be available . The fusing of the executive and legislative branch in parliamentary system act a a check on the sort of fundamental conflict between the two branch that might result in a government shutdown . The recent trend towards ever more divided government , with one party control the presidency and another control one or both chamber of Congress , have combine with unprecedented level of disagreement and acrimony to make frequent shutdown almost inevitable . A 1974 law and subsequent Supreme Court case put an end to the practice of impoundment . Government shutdown in the United States seem archaic and strange to citizen of most other advanced democracy . But since the early day of the republic , government agency frequently spend beyond their limit and then demand that Congress pay the bill at the end of the year . Conservatives especially prize shutdown a an opportunity to put periodic check on what they see a runaway federal spending . And lawmaker of all stripe can use shutdown to attempt to limit executive power , something not to be toss aside lightly during an administration which raise concern about executive tyranny . The Anti-Deficiency Act of 1870 end this practice by make it illegal for agency to spend money that have not already be appropriate .",
+      "domain": "www.internationalaffairs.org.au",
+      "tokenized": [
+        {
+          "sent": "Now that the long government shutdown in US history have finally come to an end , let \u2019 s zoom out .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In parliamentary system , such a Australia \u2019 s , the failure of a government to pass a budget through the legislature can result in the fall of that government and fresh election .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A one-day shutdown which occur in 1982 because member of Congress go to the White House for a barbecue at the end of the fiscal year and neglect to pass a necessary spending bill beforehand be an exception .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "With federal agency unable to spend without Congressional approval and the executive unable to simply disregard budget appropriation if it didn \u2019 t like them , the stage be set for government shutdown to become a routine part of national politics .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But this also lay the way for our era of government shutdown by force agency to shutter non-essential function when no money be available .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The fusing of the executive and legislative branch in parliamentary system act a a check on the sort of fundamental conflict between the two branch that might result in a government shutdown .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The recent trend towards ever more divided government , with one party control the presidency and another control one or both chamber of Congress , have combine with unprecedented level of disagreement and acrimony to make frequent shutdown almost inevitable .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A 1974 law and subsequent Supreme Court case put an end to the practice of impoundment .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Government shutdown in the United States seem archaic and strange to citizen of most other advanced democracy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But since the early day of the republic , government agency frequently spend beyond their limit and then demand that Congress pay the bill at the end of the year .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Conservatives especially prize shutdown a an opportunity to put periodic check on what they see a runaway federal spending .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "And lawmaker of all stripe can use shutdown to attempt to limit executive power , something not to be toss aside lightly during an administration which raise concern about executive tyranny .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Anti-Deficiency Act of 1870 end this practice by make it illegal for agency to spend money that have not already be appropriate .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.businessinsider.com/google-australia-technology-regulation-law-2021-1",
+      "content": "The company 's long-running dispute with the Australian government reach boil point Thursday , prompt Prime Minister Scott Morrison to intervene . `` Australia make our rule for thing you can do in Australia ... That 's do in our parliament . His comment come after Mel Silva , the manage director of Google Australia and New Zealand , tell an Australian Senate hearing that government proposal that would result in Google pay news publisher to display their work in it search result be unworkable .",
+      "domain": "www.businessinsider.com",
+      "tokenized": [
+        {
+          "sent": "The company 's long-running dispute with the Australian government reach boil point Thursday , prompt Prime Minister Scott Morrison to intervene .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "`` Australia make our rule for thing you can do in Australia ... That 's do in our parliament .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "His comment come after Mel Silva , the manage director of Google Australia and New Zealand , tell an Australian Senate hearing that government proposal that would result in Google pay news publisher to display their work in it search result be unworkable .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.theguardian.com/australia-news/2020/mar/30/australia-coronavirus-shutdown-rules-stage-3-not-lockdown-what-is-closed-open-restrictions",
+      "content": "These be the late restriction in place a part of the Australian government \u2019 s emergency response measure to the Covid-19 outbreak\nOn Sunday evening , Australian prime minister Scott Morrison outline a further set of restriction to combat the coronavirus outbreak . Here be an updated list of the federal government \u2019 s shutdown measure . Schools will reopen after the term break with a mix of distance learning and in-school learning for all \u201c essential worker \u201d , define by the prime minister a anyone with a job .",
+      "domain": "www.theguardian.com",
+      "tokenized": [
+        {
+          "sent": "These be the late restriction in place a part of the Australian government \u2019 s emergency response measure to the Covid-19 outbreak\nOn Sunday evening , Australian prime minister Scott Morrison outline a further set of restriction to combat the coronavirus outbreak .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here be an updated list of the federal government \u2019 s shutdown measure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Schools will reopen after the term break with a mix of distance learning and in-school learning for all \u201c essential worker \u201d , define by the prime minister a anyone with a job .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.cbsnews.com/news/google-threatens-to-shut-down-in-australia-if-government-forces-tech-companies-to-pay-news-outlets-for-content/",
+      "content": "London \u2014 Google have threaten to shut down it search engine in Australia if the government there pass a new law to force big tech company to pay local news producer for use of their content . The Australian government argue that a strong news medium be vital to democracy and that , a news publisher struggle to survive , platform like Google and Facebook be make money off of people look for news at the expense of the company that produce it .",
+      "domain": "www.cbsnews.com",
+      "tokenized": [
+        {
+          "sent": "London \u2014 Google have threaten to shut down it search engine in Australia if the government there pass a new law to force big tech company to pay local news producer for use of their content .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The Australian government argue that a strong news medium be vital to democracy and that , a news publisher struggle to survive , platform like Google and Facebook be make money off of people look for news at the expense of the company that produce it .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://theconversation.com/the-costs-of-the-shutdown-are-overestimated-theyre-outweighed-by-its-1-trillion-benefit-138303",
+      "content": "To this we should add further achievement of the shutdown :\nIn the cold calculus of cost-benefit analysis , a highly pessimistic view of the economic cost of Australia \u2019 s shutdown come to around $ 90 billion . Even in a country such a Sweden , where a shutdown have not be mandatory , there have be a more than 75 % reduction in movement in central Stockholm and a more than 90 % reduction in travel to some domestic holiday destination . They be the result of a \u201c private shutdown \u201d that commence before the mandated government shutdown .",
+      "domain": "theconversation.com",
+      "tokenized": [
+        {
+          "sent": "To this we should add further achievement of the shutdown :\nIn the cold calculus of cost-benefit analysis , a highly pessimistic view of the economic cost of Australia \u2019 s shutdown come to around $ 90 billion .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Even in a country such a Sweden , where a shutdown have not be mandatory , there have be a more than 75 % reduction in movement in central Stockholm and a more than 90 % reduction in travel to some domestic holiday destination .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "They be the result of a \u201c private shutdown \u201d that commence before the mandated government shutdown .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.usatoday.com/story/travel/news/2020/04/21/coronavirus-virgin-australia-airline-seeks-bankruptcy-protection/5170064002/",
+      "content": "The Australian government and business fear that a collapse of Virgin would leave Qantas with a virtual monopoly in Australia \u2019 s domestic aviation market . CANBERRA , Australia ( AP ) \u2014 Virgin Australia , the nation \u2019 s second-largest airline , announce Tuesday it have enter voluntary administration , seek bankruptcy protection after a debt crisis worsen by the coronavirus shutdown push it into insolvency . \u201c Sadly , that have not happen in Australia .",
+      "domain": "www.usatoday.com",
+      "tokenized": [
+        {
+          "sent": "The Australian government and business fear that a collapse of Virgin would leave Qantas with a virtual monopoly in Australia \u2019 s domestic aviation market .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "CANBERRA , Australia ( AP ) \u2014 Virgin Australia , the nation \u2019 s second-largest airline , announce Tuesday it have enter voluntary administration , seek bankruptcy protection after a debt crisis worsen by the coronavirus shutdown push it into insolvency .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Sadly , that have not happen in Australia .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.fitchratings.com/research/corporate-finance/australia-crown-resorts-has-cushion-to-manage-coronavirus-shutdown-01-04-2020",
+      "content": "Fitch Ratings-Sydney-01 April 2020 : Crown Resorts Limited 's ( BBB/Stable ) low net debt position at 31 December 2019 and highly variable cost structure provide the Australian gaming operator with headroom to absorb the effect of the government shutdown of casino in the country , say Fitch Ratings . Importantly , Crown have no significant bond maturity before the financial year end June 2025 ( FYE25 ) - although around AUD230 million in commit credit facility mature within the next six month which Fitch expect Crown to be able to renew - manageable covenant risk , and available liquidity to meet operating expense over the duration of the shutdowns.Fitch believe that the company will be able to reduce it cash outflow significantly over this period , give it highly variable cost structure - benefiting in particular from the ownership of it property ( and rental for the Melbourne land be minimal under the agreement with the Victorian government ) . However , it continue to provide hotel accommodation on a reduced basis , include work with the Australian government to provide room to isolate arrival into the country under current Australian regulations.Crown be still assess the financial implication of the shutdown on the business , and have not announce the measure in intend to take to manage it business while the restriction remain in effect . Furthermore , the Australian government 's announcement on 30 March 2020 that it will provide fortnightly payment to worker throughout the country that have be stand down may help Crown reduce it cash outflow quick than previously envisage a employee may use less of their annual leave entitlement - which Crown would need to fund - to substitute their lose wage . This be despite the significant reduction in Crown 's revenue , and high capital expenditure over the remainder of 2020 a it complete it Crown Sydney property.Fitch expect Crown 's ability to generate cash inflow from it operation to be severely restrict follow the Australian government 's decision to close casino nationwide on 22 March 2020 a it seek to slow the spread of coronavirus .",
+      "domain": "www.fitchratings.com",
+      "tokenized": [
+        {
+          "sent": "Fitch Ratings-Sydney-01 April 2020 : Crown Resorts Limited 's ( BBB/Stable ) low net debt position at 31 December 2019 and highly variable cost structure provide the Australian gaming operator with headroom to absorb the effect of the government shutdown of casino in the country , say Fitch Ratings .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Importantly , Crown have no significant bond maturity before the financial year end June 2025 ( FYE25 ) - although around AUD230 million in commit credit facility mature within the next six month which Fitch expect Crown to be able to renew - manageable covenant risk , and available liquidity to meet operating expense over the duration of the shutdowns.Fitch believe that the company will be able to reduce it cash outflow significantly over this period , give it highly variable cost structure - benefiting in particular from the ownership of it property ( and rental for the Melbourne land be minimal under the agreement with the Victorian government ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , it continue to provide hotel accommodation on a reduced basis , include work with the Australian government to provide room to isolate arrival into the country under current Australian regulations.Crown be still assess the financial implication of the shutdown on the business , and have not announce the measure in intend to take to manage it business while the restriction remain in effect .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Furthermore , the Australian government 's announcement on 30 March 2020 that it will provide fortnightly payment to worker throughout the country that have be stand down may help Crown reduce it cash outflow quick than previously envisage a employee may use less of their annual leave entitlement - which Crown would need to fund - to substitute their lose wage .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This be despite the significant reduction in Crown 's revenue , and high capital expenditure over the remainder of 2020 a it complete it Crown Sydney property.Fitch expect Crown 's ability to generate cash inflow from it operation to be severely restrict follow the Australian government 's decision to close casino nationwide on 22 March 2020 a it seek to slow the spread of coronavirus .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.bloomberg.com/news/articles/2020-04-12/australia-wants-to-ensure-there-are-two-airlines-after-shutdown",
+      "content": "Virgin Australia have ask the government for a A $ 1.4 billion loan to cope with the shutdown . As of 6 a.m. in Sydney , Australia have 6,289 confirm case of coronavirus after add 51 in the previous 24 hour , accord to the government . Australian traveler be not expect to be able to head overseas until at least the end of this year , although there may be ease of restriction on interstate movement in the month ahead , the Sydney Morning Herald report . Restrictions impose by the government be cost the tourism industry about A $ 4 billion in lose business from international visitor and around A $ 5 billion from domestic traveler each month , the Sydney Morning Herald report , cite the Tourism and Transport Forum .",
+      "domain": "www.bloomberg.com",
+      "tokenized": [
+        {
+          "sent": "Virgin Australia have ask the government for a A $ 1.4 billion loan to cope with the shutdown .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As of 6 a.m. in Sydney , Australia have 6,289 confirm case of coronavirus after add 51 in the previous 24 hour , accord to the government .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Australian traveler be not expect to be able to head overseas until at least the end of this year , although there may be ease of restriction on interstate movement in the month ahead , the Sydney Morning Herald report .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Restrictions impose by the government be cost the tourism industry about A $ 4 billion in lose business from international visitor and around A $ 5 billion from domestic traveler each month , the Sydney Morning Herald report , cite the Tourism and Transport Forum .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.forbes.com/sites/roberthart/2021/01/22/google-threatens-to-shut-down-search-engine-in-australia-if-forced-to-pay-publishers-for-news/",
+      "content": "Google have threaten to disable it search function in Australia while Facebook threaten to ban news content from it platform if the government do not back down from it plan to make the tech giant pay medium outlet for their content , one of the most dramatic escalation amid ongoing attempt around the world to regulate big tech .",
+      "domain": "www.forbes.com",
+      "tokenized": [
+        {
+          "sent": "Google have threaten to disable it search function in Australia while Facebook threaten to ban news content from it platform if the government do not back down from it plan to make the tech giant pay medium outlet for their content , one of the most dramatic escalation amid ongoing attempt around the world to regulate big tech .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.washingtonpost.com/technology/2021/02/22/facebook-news-australia-deal/",
+      "content": "The Australian government and Facebook say in separate statement that the social medium company would restore news in Australia in coming day . \u201d\nFacebook \u2019 s abrupt move to cut off news page for the country \u2019 s 17 million user follow month of negotiation between the Australian government and news industry titan Rupert Murdoch , whose company dominate the newspaper industry there . Facebook agree to restore news page on it site in Australia after it say late Monday that it have reach a favorable deal with the government there .",
+      "domain": "www.washingtonpost.com",
+      "tokenized": [
+        {
+          "sent": "The Australian government and Facebook say in separate statement that the social medium company would restore news in Australia in coming day .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nFacebook \u2019 s abrupt move to cut off news page for the country \u2019 s 17 million user follow month of negotiation between the Australian government and news industry titan Rupert Murdoch , whose company dominate the newspaper industry there .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Facebook agree to restore news page on it site in Australia after it say late Monday that it have reach a favorable deal with the government there .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nytimes.com/2019/11/06/world/australia/australia-climate-protests-coal.html",
+      "content": "Prime Minister Scott Morrison have respond with a threat that \u2019 s alarmed scientist and free speech advocate , argue that the government should outlaw \u201c indulgent and selfish \u201d effort by environmental group to rattle business with rally and boycott . A surge of climate activism be flood Australia a the country fall behind on it promise to reduce emission \u2014 effectively ignore the Paris Agreement the Trump administration just abandon . Two out of three Australians agree that the government should plan for an orderly phaseout of coal , while 64 percent say Australia should aim for net-zero emission by 2050 .",
+      "domain": "www.nytimes.com",
+      "tokenized": [
+        {
+          "sent": "Prime Minister Scott Morrison have respond with a threat that \u2019 s alarmed scientist and free speech advocate , argue that the government should outlaw \u201c indulgent and selfish \u201d effort by environmental group to rattle business with rally and boycott .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "A surge of climate activism be flood Australia a the country fall behind on it promise to reduce emission \u2014 effectively ignore the Paris Agreement the Trump administration just abandon .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Two out of three Australians agree that the government should plan for an orderly phaseout of coal , while 64 percent say Australia should aim for net-zero emission by 2050 .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.nbcnews.com/tech/tech-news/facebook-blocks-news-australia-governments-payment-rules-rcna292",
+      "content": "Facebook say Wednesday that Australian user and publisher will not be able to post news content to it social network after the country 's government threaten to force it to pay publisher .",
+      "domain": "www.nbcnews.com",
+      "tokenized": [
+        {
+          "sent": "Facebook say Wednesday that Australian user and publisher will not be able to post news content to it social network after the country 's government threaten to force it to pay publisher .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.agriculture.gov.au/import/industry-advice/2020/145-2020",
+      "content": "The Australian Government commit $ 379.9 million over seven year to build the new government-owned and operated quarantine facility that integrate all previous post-entry quarantine function in a single site .",
+      "domain": "www.agriculture.gov.au",
+      "tokenized": [
+        {
+          "sent": "The Australian Government commit $ 379.9 million over seven year to build the new government-owned and operated quarantine facility that integrate all previous post-entry quarantine function in a single site .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.reuters.com/article/us-health-coronavirus-australia/australia-expands-wage-subsidy-scheme-as-covid-19-cases-surge-idUSKCN24H049",
+      "content": "A further shutdown in Victoria would tighten the screw far .",
+      "domain": "www.reuters.com",
+      "tokenized": [
+        {
+          "sent": "A further shutdown in Victoria would tighten the screw far .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/government-response-to-the-covid-19-outbreak",
+      "content": "Visit Australia.gov.au to learn more about COVID-19 support from all of government include financial support and advice for business and employee , help for education provider , advice on domestic and international travel and other community service .",
+      "domain": "www.health.gov.au",
+      "tokenized": [
+        {
+          "sent": "Visit Australia.gov.au to learn more about COVID-19 support from all of government include financial support and advice for business and employee , help for education provider , advice on domestic and international travel and other community service .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.wa.gov.au/government/document-collections/covid-19-coronavirus-state-of-emergency-declarations",
+      "content": "The Government of Western Australia acknowledge the traditional custodian throughout Western Australia and their continuing connection to the land , water and community .",
+      "domain": "www.wa.gov.au",
+      "tokenized": [
+        {
+          "sent": "The Government of Western Australia acknowledge the traditional custodian throughout Western Australia and their continuing connection to the land , water and community .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.npr.org/2021/02/17/968723929/facebook-blocks-news-in-australia-over-government-plan-to-force-payment-to-publi",
+      "content": "The law could pass in the Australian Parliament as soon a this month .",
+      "domain": "www.npr.org",
+      "tokenized": [
+        {
+          "sent": "The law could pass in the Australian Parliament as soon a this month .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}

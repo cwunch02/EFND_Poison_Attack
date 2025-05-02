@@ -1,0 +1,984 @@
+{
+  "event_id": "240977",
+  "claim": "Hand sanitizer is a threat to pets because it contains an ingredient also found in antifreeze.",
+  "original_label": "false",
+  "label": "false",
+  "explain": "As concern over the spread of COVID-19 coronavirus disease increased globally, so too did the demand for hand sanitizer. Along with that came unsupported claims about the dangers hand sanitizer presents to pets.\nSince mid-March, the claim that hand sanitizer \u201chas the same ingredients as antifreeze\u201d \u2014 and therefore could theoretically kill your pet if they lick a recently sanitized hand \u2014 has gone viral.\nThe following post had garnered over 300,000 shares at the time of this reporting:\n\nBut this assertion is not true.\nThe chemical of concern in antifreeze is ethylene glycol. Hand sanitizers, which are either ethanol- or isopropanol-based, do not contain ethylene glycol. It is true that ethylene glycol is very dangerous to pets (and humans) if ingested, even in small quantities, but such a fact is irrelevant to the issue at hand.\nAlthough ethanol poisoning (i.e what happens when a human drinks a medically dangerous amount of alcohol) is possible if a pet were to consume large quantities of hand sanitizer, an animal merely licking a recently sanitized hand is not cause for concern. For that reason, the claim is \u201cFalse.\u201d",
+  "reports": [
+    {
+      "link": "https://www.catster.com/cat-health-care/what-you-need-to-know-about-hand-sanitizer-and-cats",
+      "content": "\u201d Dr. Wismer do note that some hand sanitizers do contain small amount of polyethylene glycol or propylene glycol which be an ingredient in what be market a pet \u201c safe \u201d antifreeze , which isn \u2019 t a bad thing . \u201d Although you don \u2019 t want to expose your cat to wet hand sanitizer , Dr. Wismer note that it \u2019 s perfectly safe to use hand sanitizer because \u201c once the hand sanitizer have evaporate it be safe to touch your pet without concern . apply and will attempt to lick them off and could consequently ingest the sanitizer \u201d In addition , if you put hand sanitizer onto your cat \u2019 s paw \u201c the high alcohol content could dry out the paw pad , cause crack , which be not only very painful but could also lead to infection if dirt or bacteria get into the crack \u201d Dr. Richardson advise . A single lick be also very unlikely to cause your pet harm , due to the small quantity of sanitizer consume . Different hand sanitizers will have different chemical property so it \u2019 s important to look at the ingredient for any hand sanitizer you be purchase and use . Generally , though , Dr. Wismer explain , \u201c Hand sanitizer do NOT contain ethylene glycol , the toxic component of antifreeze , \u201d explain Tina Wismer , DVM , Senior Director , ASPCA Animal Poison Control Center . And while hand sanitizer have become an important tool for keep people safe when we \u2019 re unable to access soap and water for wash our hand , it be a chemical . That say , if hand sanitizer get onto your cat \u2019 s fur and your cat attempt to clean himself , there would be a risk of ingest a lot of hand sanitizer or that the hand sanitizer could be absorb through the cat \u2019 s skin , which could put your cat at risk of alcohol poisoning . While hand sanitizer isn \u2019 t explicitly toxic to cat , you don \u2019 t want your cat to get too close to it . The big concern for cat around-consuming hand sanitizer be the high alcohol content and risk of alcohol poisoning if a large quantity of hand sanitizer be ingest or absorb through the skin . Dr. Wismer advise that when use hand sanitizer , guardian should \u201c refrain from pet your cat until your hand be completely dry. Dr. Richardson advise that it \u2019 s important to keep hand sanitizer away from your cat \u2019 s paw and fur , note \u201c many cat do not like have topical creams/ointments etc . The big concern around hand sanitizer be if cat be to ingest it . To be safe , if you have be purchase extra hand sanitizer , it \u2019 s best to store the hand sanitizer in a cabinet or room of your home that your cat doesn \u2019 t have access to prevent your cat from get into it . Dr. Jamie Richardson , Medical Chief of Staff at Small Door Veterinary explain that \u201c it \u2019 s certainly safe to use hand sanitizer on yourself , \u201d however , it \u2019 s important to note that hand sanitizer be formulate for use by people and it be not safe for cat . Here \u2019 s what cat guardian should know about hand sanitizer and cat . \u201c Most pet will dislike the taste of sanitizer , so if they lick your hand out of curiosity , they be unlikely to do it again ! How to use hand sanitizer if you have a cat\nIf you be use hand sanitizer it \u2019 s best to do so away from your cat . The good thing both Dr. Richardson and Dr. Wismer note be that cat be unlikely to want to drink hand sanitizer . Dr. Richardson advise that the most common symptom to watch for if you believe your cat may have get more than a lick of hand sanitizer include :\nBecause alcohol poisoning can progress quickly if you believe your cat have consume hand sanitizer it \u2019 s best to get your cat to the vet right away to be assess . Under no circumstance should you put hand sanitizer onto your cat . Is use hand sanitizer safe for kitty ?",
+      "domain": "www.catster.com",
+      "tokenized": [
+        {
+          "sent": "\u201d Dr. Wismer do note that some hand sanitizers do contain small amount of polyethylene glycol or propylene glycol which be an ingredient in what be market a pet \u201c safe \u201d antifreeze , which isn \u2019 t a bad thing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d Although you don \u2019 t want to expose your cat to wet hand sanitizer , Dr. Wismer note that it \u2019 s perfectly safe to use hand sanitizer because \u201c once the hand sanitizer have evaporate it be safe to touch your pet without concern .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "apply and will attempt to lick them off and could consequently ingest the sanitizer \u201d In addition , if you put hand sanitizer onto your cat \u2019 s paw \u201c the high alcohol content could dry out the paw pad , cause crack , which be not only very painful but could also lead to infection if dirt or bacteria get into the crack \u201d Dr. Richardson advise .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "A single lick be also very unlikely to cause your pet harm , due to the small quantity of sanitizer consume .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Different hand sanitizers will have different chemical property so it \u2019 s important to look at the ingredient for any hand sanitizer you be purchase and use .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Generally , though , Dr. Wismer explain , \u201c Hand sanitizer do NOT contain ethylene glycol , the toxic component of antifreeze , \u201d explain Tina Wismer , DVM , Senior Director , ASPCA Animal Poison Control Center .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "And while hand sanitizer have become an important tool for keep people safe when we \u2019 re unable to access soap and water for wash our hand , it be a chemical .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "That say , if hand sanitizer get onto your cat \u2019 s fur and your cat attempt to clean himself , there would be a risk of ingest a lot of hand sanitizer or that the hand sanitizer could be absorb through the cat \u2019 s skin , which could put your cat at risk of alcohol poisoning .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While hand sanitizer isn \u2019 t explicitly toxic to cat , you don \u2019 t want your cat to get too close to it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The big concern for cat around-consuming hand sanitizer be the high alcohol content and risk of alcohol poisoning if a large quantity of hand sanitizer be ingest or absorb through the skin .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Dr. Wismer advise that when use hand sanitizer , guardian should \u201c refrain from pet your cat until your hand be completely dry.",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dr. Richardson advise that it \u2019 s important to keep hand sanitizer away from your cat \u2019 s paw and fur , note \u201c many cat do not like have topical creams/ointments etc .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The big concern around hand sanitizer be if cat be to ingest it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "To be safe , if you have be purchase extra hand sanitizer , it \u2019 s best to store the hand sanitizer in a cabinet or room of your home that your cat doesn \u2019 t have access to prevent your cat from get into it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dr. Jamie Richardson , Medical Chief of Staff at Small Door Veterinary explain that \u201c it \u2019 s certainly safe to use hand sanitizer on yourself , \u201d however , it \u2019 s important to note that hand sanitizer be formulate for use by people and it be not safe for cat .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Here \u2019 s what cat guardian should know about hand sanitizer and cat .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201c Most pet will dislike the taste of sanitizer , so if they lick your hand out of curiosity , they be unlikely to do it again !",
+          "is_evidence": 0
+        },
+        {
+          "sent": "How to use hand sanitizer if you have a cat\nIf you be use hand sanitizer it \u2019 s best to do so away from your cat .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The good thing both Dr. Richardson and Dr. Wismer note be that cat be unlikely to want to drink hand sanitizer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Dr. Richardson advise that the most common symptom to watch for if you believe your cat may have get more than a lick of hand sanitizer include :\nBecause alcohol poisoning can progress quickly if you believe your cat have consume hand sanitizer it \u2019 s best to get your cat to the vet right away to be assess .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Under no circumstance should you put hand sanitizer onto your cat .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Is use hand sanitizer safe for kitty ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.alphatechpet.com/blog/hand-sanitizer-and-pets-is-it-safe",
+      "content": "Yes , there be ingredient in hand sanitizer that can be toxic to your pet . Let \u2019 s address the other huge rumor float around that hand sanitizer be make from the same ingredient a antifreeze . However , the amount of hand sanitizer a pet would have to ingest for it to act a a poison be a miraculous amount . It \u2019 s time to put your fear at rest : you \u2019 re not risk poison your pet by use hand sanitizer in your house . Because of the awful taste of hand sanitizer , there be almost no circumstance where a dog of any size would ingest that much hand sanitizer ; yes , we know pet like the taste of their own backside , but hand sanitizer be simply unpalatable , even for our furry friend . In other word , hand sanitizer and antifreeze be a different from one another a night and day when it come to how dangerous they be . Well , we \u2019 ve already address the taste issue , so you don \u2019 t have to worry about that part , but what about the similarity between the ingredient of hand sanitizer and antifreeze ? The truth be that , yes , there be some thing you need to worry about when it come to hand sanitizer and animal , but you \u2019 ll be glad to know there \u2019 s less to fear than you might think . So , know that hand sanitizer and pet be ok to be in the same house together . Hand sanitizer , on the other hand , be make with alcohol as well , but not a toxic alcohol . This be especially frighten for pet owner , a antifreeze be well-established a both deadly poisonous and attractive to pet due to it taste . However , there \u2019 s be plenty of talk about how hand sanitizer and pet don \u2019 t mix . As a result , hand sanitizer have become one of those \u201c don \u2019 t leave home without it \u201d item . In fact , hand sanitizer be make with ethyl alcohol , the same type that be use in alcoholic drink . Veterinarians say that a medium-sized dog , for example , would have to drink close to a cup of hand sanitizer for it to be fatal . Keep on use that hand sanitizer when you need to , give your pet a hug , and keep up the good work ! First off , let \u2019 s address the elephant in the room : if you \u2019 ve see shrill warning on social medium about pet your cat or let your dog lick you after apply hand sanitizer , it \u2019 s time to come back down to earth . Since dog be a significant population , here \u2019 s the real deal on how hand sanitizer and dog interact .",
+      "domain": "www.alphatechpet.com",
+      "tokenized": [
+        {
+          "sent": "Yes , there be ingredient in hand sanitizer that can be toxic to your pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Let \u2019 s address the other huge rumor float around that hand sanitizer be make from the same ingredient a antifreeze .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , the amount of hand sanitizer a pet would have to ingest for it to act a a poison be a miraculous amount .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It \u2019 s time to put your fear at rest : you \u2019 re not risk poison your pet by use hand sanitizer in your house .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Because of the awful taste of hand sanitizer , there be almost no circumstance where a dog of any size would ingest that much hand sanitizer ; yes , we know pet like the taste of their own backside , but hand sanitizer be simply unpalatable , even for our furry friend .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In other word , hand sanitizer and antifreeze be a different from one another a night and day when it come to how dangerous they be .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Well , we \u2019 ve already address the taste issue , so you don \u2019 t have to worry about that part , but what about the similarity between the ingredient of hand sanitizer and antifreeze ?",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The truth be that , yes , there be some thing you need to worry about when it come to hand sanitizer and animal , but you \u2019 ll be glad to know there \u2019 s less to fear than you might think .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "So , know that hand sanitizer and pet be ok to be in the same house together .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand sanitizer , on the other hand , be make with alcohol as well , but not a toxic alcohol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This be especially frighten for pet owner , a antifreeze be well-established a both deadly poisonous and attractive to pet due to it taste .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "However , there \u2019 s be plenty of talk about how hand sanitizer and pet don \u2019 t mix .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "As a result , hand sanitizer have become one of those \u201c don \u2019 t leave home without it \u201d item .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "In fact , hand sanitizer be make with ethyl alcohol , the same type that be use in alcoholic drink .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Veterinarians say that a medium-sized dog , for example , would have to drink close to a cup of hand sanitizer for it to be fatal .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Keep on use that hand sanitizer when you need to , give your pet a hug , and keep up the good work !",
+          "is_evidence": 0
+        },
+        {
+          "sent": "First off , let \u2019 s address the elephant in the room : if you \u2019 ve see shrill warning on social medium about pet your cat or let your dog lick you after apply hand sanitizer , it \u2019 s time to come back down to earth .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Since dog be a significant population , here \u2019 s the real deal on how hand sanitizer and dog interact .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.vin.com/vetzinsight/default.aspx?pid=756&catId=-1&id=9563042",
+      "content": "Hand sanitizers will not kill your pet because it have different ingredient than antifreeze . Hand sanitizers will not kill your pet because it have different ingredient than antifreeze\nUh , no . Washing with soap and water for 20 second be good than use hand sanitizer , accord to the CDC , but sanitizer be more convenient when you be out and about . \u2019 There be ethanol , which be ethyl alcohol ( the stuff we drink and which be in some hand sanitizers ) ; then there be ethylene glycol , which be antifreeze , and which in no way , shape or form would be in hand sanitizers , short of intentional adulteration , a it be highly toxic and have no function in a product design to sanitize .",
+      "domain": "www.vin.com",
+      "tokenized": [
+        {
+          "sent": "Hand sanitizers will not kill your pet because it have different ingredient than antifreeze .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Hand sanitizers will not kill your pet because it have different ingredient than antifreeze\nUh , no .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Washing with soap and water for 20 second be good than use hand sanitizer , accord to the CDC , but sanitizer be more convenient when you be out and about .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u2019 There be ethanol , which be ethyl alcohol ( the stuff we drink and which be in some hand sanitizers ) ; then there be ethylene glycol , which be antifreeze , and which in no way , shape or form would be in hand sanitizers , short of intentional adulteration , a it be highly toxic and have no function in a product design to sanitize .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.king5.com/article/news/verify/verify-no-your-dog-will-not-die-from-lickign-your-fingers-with-hand-sanitizer/65-35482a55-2684-4535-84b7-468aa50a65af",
+      "content": "`` Pet owner , '' it read in all cap , `` Please be aware that hand sanitizer have the same ingredient a Antifreeze . '' It 's obviously a bad idea to let your pet consume hand sanitizer , but simply lick your finger will not be enough to harm them . The Pet Poison Hotline list hand sanitizer a `` unpalatable '' for pet . Klippen estimate that an average-sized pet would need to drink close to a cup of hand sanitizer to be impact , which she say be unlikely due to the taste . Dr. Christine Klippen , an ER vet at the Friendship Hospital for Animals , say that hand sanitizer be actually not quite so similar to antifreeze . Is there a high risk that pet will die by lick the finger of people wear hand sanitizer ? The post then warn that pet can die if they lick off the sanitizer . Antifreeze can cause some very serious issue for pet , such a kidney failure , Klippen say . Our expert say that small dosage be not deadly , and due to hand sanitizers `` unpalatable '' taste , the pet be unlikely to consume a large quantity . `` Hand sanitizer itself do n't taste good , '' she say . But when it come to hand sanitizer , she 's not as worried . Amid the spread of the coronavirus , people have start to increase the amount of hand sanitizer they use .",
+      "domain": "www.king5.com",
+      "tokenized": [
+        {
+          "sent": "`` Pet owner , '' it read in all cap , `` Please be aware that hand sanitizer have the same ingredient a Antifreeze . ''",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It 's obviously a bad idea to let your pet consume hand sanitizer , but simply lick your finger will not be enough to harm them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The Pet Poison Hotline list hand sanitizer a `` unpalatable '' for pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Klippen estimate that an average-sized pet would need to drink close to a cup of hand sanitizer to be impact , which she say be unlikely due to the taste .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Dr. Christine Klippen , an ER vet at the Friendship Hospital for Animals , say that hand sanitizer be actually not quite so similar to antifreeze .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Is there a high risk that pet will die by lick the finger of people wear hand sanitizer ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The post then warn that pet can die if they lick off the sanitizer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Antifreeze can cause some very serious issue for pet , such a kidney failure , Klippen say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Our expert say that small dosage be not deadly , and due to hand sanitizers `` unpalatable '' taste , the pet be unlikely to consume a large quantity .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "`` Hand sanitizer itself do n't taste good , '' she say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But when it come to hand sanitizer , she 's not as worried .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amid the spread of the coronavirus , people have start to increase the amount of hand sanitizer they use .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.khou.com/article/news/verify/verify-no-your-dog-will-not-die-from-lickign-your-fingers-with-hand-sanitizer/65-35482a55-2684-4535-84b7-468aa50a65af",
+      "content": "`` Pet owner , '' it read in all cap , `` Please be aware that hand sanitizer have the same ingredient a Antifreeze . '' It 's obviously a bad idea to let your pet consume hand sanitizer , but simply lick your finger will not be enough to harm them . The Pet Poison Hotline list hand sanitizer a `` unpalatable '' for pet . Klippen estimate that an average-sized pet would need to drink close to a cup of hand sanitizer to be impact , which she say be unlikely due to the taste . Dr. Christine Klippen , an ER vet at the Friendship Hospital for Animals , say that hand sanitizer be actually not quite so similar to antifreeze . Is there a high risk that pet will die by lick the finger of people wear hand sanitizer ? The post then warn that pet can die if they lick off the sanitizer . Antifreeze can cause some very serious issue for pet , such a kidney failure , Klippen say . Our expert say that small dosage be not deadly , and due to hand sanitizers `` unpalatable '' taste , the pet be unlikely to consume a large quantity . `` Hand sanitizer itself do n't taste good , '' she say . But when it come to hand sanitizer , she 's not as worried . Amid the spread of the coronavirus , people have start to increase the amount of hand sanitizer they use .",
+      "domain": "www.khou.com",
+      "tokenized": [
+        {
+          "sent": "`` Pet owner , '' it read in all cap , `` Please be aware that hand sanitizer have the same ingredient a Antifreeze . ''",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "It 's obviously a bad idea to let your pet consume hand sanitizer , but simply lick your finger will not be enough to harm them .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The Pet Poison Hotline list hand sanitizer a `` unpalatable '' for pet .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Klippen estimate that an average-sized pet would need to drink close to a cup of hand sanitizer to be impact , which she say be unlikely due to the taste .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Dr. Christine Klippen , an ER vet at the Friendship Hospital for Animals , say that hand sanitizer be actually not quite so similar to antifreeze .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Is there a high risk that pet will die by lick the finger of people wear hand sanitizer ?",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "The post then warn that pet can die if they lick off the sanitizer .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Antifreeze can cause some very serious issue for pet , such a kidney failure , Klippen say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Our expert say that small dosage be not deadly , and due to hand sanitizers `` unpalatable '' taste , the pet be unlikely to consume a large quantity .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "`` Hand sanitizer itself do n't taste good , '' she say .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "But when it come to hand sanitizer , she 's not as worried .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amid the spread of the coronavirus , people have start to increase the amount of hand sanitizer they use .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        }
+      ]
+    },
+    {
+      "link": "https://www.mcgill.ca/oss/article/health-you-asked/should-you-let-dog-lick-your-hand-if-you-used-hand-sanitizer",
+      "content": "There be a \u201c warning \u201d make the round that hand sanitizer \u201c have the same ingredient a antifreeze \u201d and that you should not let dog lick your hand . It replace ethylene glycol , the usual active ingredient in antifreeze , which be indeed toxic to dog as well a human . Propylene glycol be indeed find in some antifreeze , particularly in one that be promote a be environmentally friendly and have a low toxicity . So , there be no worry for your dog if he lick your hand after you have use a hand sanitizer . What they be talk about be propylene glycol which be use here a a humectant , mean it hold in moisture to prevent the hand from dry out .",
+      "domain": "www.mcgill.ca",
+      "tokenized": [
+        {
+          "sent": "There be a \u201c warning \u201d make the round that hand sanitizer \u201c have the same ingredient a antifreeze \u201d and that you should not let dog lick your hand .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It replace ethylene glycol , the usual active ingredient in antifreeze , which be indeed toxic to dog as well a human .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Propylene glycol be indeed find in some antifreeze , particularly in one that be promote a be environmentally friendly and have a low toxicity .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "So , there be no worry for your dog if he lick your hand after you have use a hand sanitizer .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "What they be talk about be propylene glycol which be use here a a humectant , mean it hold in moisture to prevent the hand from dry out .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://apnews.com/PR%20Newswire/837e2f89c3b8ffc1da84d3910dfc02be",
+      "content": ", July 2 , 2020 /PRNewswire/ -- As part of continued action to protect the American public , the U.S. Food and Drug Administration be warn consumer and health care professional about hand sanitizer product contain methanol , or wood alcohol \u2014 a substance often use to create fuel and antifreeze that be not an acceptable active ingredient for hand sanitizer product and can be toxic when absorb through the skin as well a life-threatening when ingest . The agency have see an increase in hand sanitizer product that be label to contain ethanol ( also know a ethyl alcohol ) but that have test positive for methanol contamination . Unfortunately , there be some company take advantage of the increased usage of hand sanitizer during the coronavirus pandemic and put life at risk by sell product with dangerous and unacceptable ingredient . State official have also report recent adverse event from adult and child ingest hand sanitizer product contaminate with methanol , include blindness , hospitalization and death . Consumers who have be expose to hand sanitizer contain methanol and be experience symptom should seek immediate medical treatment for potential reversal of toxic effect of methanol poisoning . Do not use hand sanitizer on pet or allow pet to swallow hand sanitizer . If soap and water be not readily available , the U.S. Centers for Disease Control and Prevention recommend consumer use an alcohol-based hand sanitizer that contain at least 60 percent ethanol . \u201c All Americans should practice good hand hygiene , which include use alcohol-based hand sanitizer if soap and water be not readily available . While methanol-containing hand sanitizers be more life-threatening than others , the FDA urge all consumer not to drink any hand sanitizer product . During the pandemic , poison control center have have an increase in call about accidental ingestion of hand sanitizer , and it be important that adult keep these product out of reach of child and monitor young child \u2019 s use . The FDA also continue to quality-test hand sanitizers , include test product enter the country through the U.S. border , and maintain a list of FDA-tested and recall hand sanitizers on the agency \u2019 s website , which will be continually update a dangerous product be discover .",
+      "domain": "apnews.com",
+      "tokenized": [
+        {
+          "sent": ", July 2 , 2020 /PRNewswire/ -- As part of continued action to protect the American public , the U.S. Food and Drug Administration be warn consumer and health care professional about hand sanitizer product contain methanol , or wood alcohol \u2014 a substance often use to create fuel and antifreeze that be not an acceptable active ingredient for hand sanitizer product and can be toxic when absorb through the skin as well a life-threatening when ingest .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The agency have see an increase in hand sanitizer product that be label to contain ethanol ( also know a ethyl alcohol ) but that have test positive for methanol contamination .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Unfortunately , there be some company take advantage of the increased usage of hand sanitizer during the coronavirus pandemic and put life at risk by sell product with dangerous and unacceptable ingredient .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "State official have also report recent adverse event from adult and child ingest hand sanitizer product contaminate with methanol , include blindness , hospitalization and death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Consumers who have be expose to hand sanitizer contain methanol and be experience symptom should seek immediate medical treatment for potential reversal of toxic effect of methanol poisoning .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Do not use hand sanitizer on pet or allow pet to swallow hand sanitizer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If soap and water be not readily available , the U.S. Centers for Disease Control and Prevention recommend consumer use an alcohol-based hand sanitizer that contain at least 60 percent ethanol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "\u201c All Americans should practice good hand hygiene , which include use alcohol-based hand sanitizer if soap and water be not readily available .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "While methanol-containing hand sanitizers be more life-threatening than others , the FDA urge all consumer not to drink any hand sanitizer product .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "During the pandemic , poison control center have have an increase in call about accidental ingestion of hand sanitizer , and it be important that adult keep these product out of reach of child and monitor young child \u2019 s use .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The FDA also continue to quality-test hand sanitizers , include test product enter the country through the U.S. border , and maintain a list of FDA-tested and recall hand sanitizers on the agency \u2019 s website , which will be continually update a dangerous product be discover .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.stevedalepetworld.com/blog/valuable-real-information-about-hand-sanitizers-and-pets/",
+      "content": "Q : I read online that a hand sanitizer \u2013 which so many of u be now use \u2013 be like antifreeze and will kill pet . While hand sanitizer be rather unpalatable to pet , ingestion do happen . The same be also true for toddler and young children\u2013pediatricians warn parent about hand sanitizers too . J.B. , New York City , NY\nAs for hand sanitizers , here \u2019 s the scoop , accord to Dr. Ahna Brutlag , director veterinary service & Senior Veterinary Toxicologist at Pet Poison Helpline & Safety Call International . \u201d\nAnd please don \u2019 t even think about use hand sanitizer dog or cat paw .",
+      "domain": "www.stevedalepetworld.com",
+      "tokenized": [
+        {
+          "sent": "Q : I read online that a hand sanitizer \u2013 which so many of u be now use \u2013 be like antifreeze and will kill pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "While hand sanitizer be rather unpalatable to pet , ingestion do happen .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The same be also true for toddler and young children\u2013pediatricians warn parent about hand sanitizers too .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "J.B. , New York City , NY\nAs for hand sanitizers , here \u2019 s the scoop , accord to Dr. Ahna Brutlag , director veterinary service & Senior Veterinary Toxicologist at Pet Poison Helpline & Safety Call International .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nAnd please don \u2019 t even think about use hand sanitizer dog or cat paw .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.ocalapost.com/hand-sanitizer-and-antifreeze-are-not-the-same-thing/",
+      "content": "In another post , Lori Collins , write , \u201c Hand sanitizer contain the same ingredient a antifreeze so you can use antifreeze a a hand sanitizer to kill the coronavirus . If your pet lick your hand after you have use hand sanitizer , rest assure that your pet will not die . Covid-19 , antifreeze , hand sanitizer , Ocala news , Ocala post\nThere have be dozen of post in regard to hand sanitizer ( s ) and pet . \u201d\nTypically , hand sanitizer contain isopropyl alcohol and ethanol ( ethyl alcohol ) , while antifreeze contains ethylene glycol . Finally , you can not use antifreeze a a hand sanitizer . Hand sanitizer , however , be very bitter to animal and human . Due to it bitterness , some people use it ( hand sanitizer ) a a method to curve nail biting , but animal absolutely do not like the taste . Additionally , antifreeze be sweet taste to animal , which be why they will drink it . Antifreeze be very toxic to animal .",
+      "domain": "www.ocalapost.com",
+      "tokenized": [
+        {
+          "sent": "In another post , Lori Collins , write , \u201c Hand sanitizer contain the same ingredient a antifreeze so you can use antifreeze a a hand sanitizer to kill the coronavirus .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If your pet lick your hand after you have use hand sanitizer , rest assure that your pet will not die .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Covid-19 , antifreeze , hand sanitizer , Ocala news , Ocala post\nThere have be dozen of post in regard to hand sanitizer ( s ) and pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nTypically , hand sanitizer contain isopropyl alcohol and ethanol ( ethyl alcohol ) , while antifreeze contains ethylene glycol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Finally , you can not use antifreeze a a hand sanitizer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand sanitizer , however , be very bitter to animal and human .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Due to it bitterness , some people use it ( hand sanitizer ) a a method to curve nail biting , but animal absolutely do not like the taste .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Additionally , antifreeze be sweet taste to animal , which be why they will drink it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Antifreeze be very toxic to animal .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://citrusgazette.com/antifreeze-and-hand-sanitizer-are-not-the-same-thing/",
+      "content": "In another post , Lori Collins , write , \u201c Hand sanitizer contain the same ingredient a antifreeze so you can use antifreeze a a hand sanitizer to kill the coronavirus . Antifreeze , hand sanitizer , pet , Citrus County news , Citrus gazette\nThere have be dozen of post in regard to hand sanitizer ( s ) and pet . If your pet lick your hand after you have use hand sanitizer , rest assure that your pet will not die . \u201d\nTypically , hand sanitizer contain isopropyl alcohol and ethanol ( ethyl alcohol ) , while antifreeze contains ethylene glycol . Finally , you can not use antifreeze a a hand sanitizer . Hand sanitizer , however , be very bitter to animal and human . Due to it bitterness , some people use it ( hand sanitizer ) a a method to curve nail biting , but animal absolutely do not like the taste . Additionally , antifreeze be sweet taste to animal , which be why they will drink it .",
+      "domain": "citrusgazette.com",
+      "tokenized": [
+        {
+          "sent": "In another post , Lori Collins , write , \u201c Hand sanitizer contain the same ingredient a antifreeze so you can use antifreeze a a hand sanitizer to kill the coronavirus .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Antifreeze , hand sanitizer , pet , Citrus County news , Citrus gazette\nThere have be dozen of post in regard to hand sanitizer ( s ) and pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If your pet lick your hand after you have use hand sanitizer , rest assure that your pet will not die .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "\u201d\nTypically , hand sanitizer contain isopropyl alcohol and ethanol ( ethyl alcohol ) , while antifreeze contains ethylene glycol .",
+          "is_evidence": 1,
+          "is_repeat": 1
+        },
+        {
+          "sent": "Finally , you can not use antifreeze a a hand sanitizer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand sanitizer , however , be very bitter to animal and human .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Due to it bitterness , some people use it ( hand sanitizer ) a a method to curve nail biting , but animal absolutely do not like the taste .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Additionally , antifreeze be sweet taste to animal , which be why they will drink it .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://travelingleash.com/keep-dog-safe-youd-surprised-toxins-home/",
+      "content": "Some \u201c pet-safe \u201d antifreeze product contain propylene glycol , which be much safe if ingest by pet accord to expert . Aside from product contain xylitol , here be other common household product that be toxic to dog :\nAlcohol or ethanol toxicity can occur when an animal ingests alcoholic beverage or other alcohol-based product such a hand sanitizer or yeast bread dough . \u201d\nAntifreeze , which often contain ethylene glycol ( EG ) , can be extremely dangerous to dog . I just wish when dentist promote gum with xylitol to parent that they would also caution them about the danger it pose to pet . In addition to gum , common product that contain xylitol include :\nPreventative Pet provide a round-up of product that contain xylitol . Only a couple of lick or a small amount on the skin could be harmful to a dog , depend on the ingredient in a specific product and how the pet be expose . \u2022 Devil \u2019 s Ivy \u2013 also know a pothos\n\u2022 Snake Plant \u2013 also know a golden bird \u2019 s nest or mother-in-law \u2019 s tongue\nIn an article on Essential Oil and Potpourri Poisoning in Dogs veterinarian , Charlotte Flint and Ahna Brutlag write that essential oil and liquid potpourri contain chemical that be rapidly absorb orally or through the skin . Fertilizers may also contain herbicide , pesticide , and fungicides all of which increase the risk of poison . Some common human medication such a Tylenol and Advil be extremely poisonous to pet . According to the Pet Poison Hotline , other source of ethylene glycol include windshield deice agent , motor oil , hydraulic brake fluid , develop solution for photography , paint and solvent . Also , consider list these number on a card and stick on your fridge and/or in your pet \u2019 s First Aid Kit . Experts at the Pet Poison Helpline ( PPH ) caution pet owner that xylitol be gain popularity in sugar-free food , oral care product , and dietary supplement . In addition , they write :\n\u201c Liquid potpourri and some essential oil can also irritate or burn the skin and mouth .",
+      "domain": "travelingleash.com",
+      "tokenized": [
+        {
+          "sent": "Some \u201c pet-safe \u201d antifreeze product contain propylene glycol , which be much safe if ingest by pet accord to expert .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Aside from product contain xylitol , here be other common household product that be toxic to dog :\nAlcohol or ethanol toxicity can occur when an animal ingests alcoholic beverage or other alcohol-based product such a hand sanitizer or yeast bread dough .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u201d\nAntifreeze , which often contain ethylene glycol ( EG ) , can be extremely dangerous to dog .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "I just wish when dentist promote gum with xylitol to parent that they would also caution them about the danger it pose to pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition to gum , common product that contain xylitol include :\nPreventative Pet provide a round-up of product that contain xylitol .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Only a couple of lick or a small amount on the skin could be harmful to a dog , depend on the ingredient in a specific product and how the pet be expose .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "\u2022 Devil \u2019 s Ivy \u2013 also know a pothos\n\u2022 Snake Plant \u2013 also know a golden bird \u2019 s nest or mother-in-law \u2019 s tongue\nIn an article on Essential Oil and Potpourri Poisoning in Dogs veterinarian , Charlotte Flint and Ahna Brutlag write that essential oil and liquid potpourri contain chemical that be rapidly absorb orally or through the skin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Fertilizers may also contain herbicide , pesticide , and fungicides all of which increase the risk of poison .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some common human medication such a Tylenol and Advil be extremely poisonous to pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "According to the Pet Poison Hotline , other source of ethylene glycol include windshield deice agent , motor oil , hydraulic brake fluid , develop solution for photography , paint and solvent .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Also , consider list these number on a card and stick on your fridge and/or in your pet \u2019 s First Aid Kit .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Experts at the Pet Poison Helpline ( PPH ) caution pet owner that xylitol be gain popularity in sugar-free food , oral care product , and dietary supplement .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In addition , they write :\n\u201c Liquid potpourri and some essential oil can also irritate or burn the skin and mouth .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://wagwalking.com/condition/hand-sanitizer-ethanol-poisoning",
+      "content": "Hand sanitizer contain dangerously high level of ethanol alcohol and can cause alcohol poison if ingest by your canine . If money be tight I would recommend call the Pet Poison Helpline for assistance a they will be able to talk you through the specific brand of hand sanitiser and will give you advice on what to do next . The poisonous effect from hand sanitizer be cause by the concentrated alcohol level , occasionally as high a 95 % alcohol . Puppy chew a small hand sanitizer bottle , there be handsanitizer all over the floor but I 'm not sure if he get any in his mouth . It can also be use in antifreeze . Hi , I use hand sanitizer that contain 70 % of ethyl alcohol , I wipe my large size table top with it . My pup eat a 1 oz bottle of hand sanitizer . The symptom typically see with the ingestion of hand sanitizer be the same a the symptom of any other poisoning of a canine by ethanol alcohol . This be the type of alcohol that you find in alcoholic drink and the type of alcohol you find in most hand sanitizers as well . Hand sanitizer be most often make with ethanol alcohol . My dog be chew on a hand sanitizer bottle\nDid he ingest any of the product ? This alcohol be see mainly in antifreeze and be highly toxic , both to dog and to human . There be several other liquid around the household that can contain dangerous level of ethanol , and should be keep out of reach of both pet and small child .",
+      "domain": "wagwalking.com",
+      "tokenized": [
+        {
+          "sent": "Hand sanitizer contain dangerously high level of ethanol alcohol and can cause alcohol poison if ingest by your canine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If money be tight I would recommend call the Pet Poison Helpline for assistance a they will be able to talk you through the specific brand of hand sanitiser and will give you advice on what to do next .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The poisonous effect from hand sanitizer be cause by the concentrated alcohol level , occasionally as high a 95 % alcohol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Puppy chew a small hand sanitizer bottle , there be handsanitizer all over the floor but I 'm not sure if he get any in his mouth .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It can also be use in antifreeze .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hi , I use hand sanitizer that contain 70 % of ethyl alcohol , I wipe my large size table top with it .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "My pup eat a 1 oz bottle of hand sanitizer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "The symptom typically see with the ingestion of hand sanitizer be the same a the symptom of any other poisoning of a canine by ethanol alcohol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This be the type of alcohol that you find in alcoholic drink and the type of alcohol you find in most hand sanitizers as well .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand sanitizer be most often make with ethanol alcohol .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "My dog be chew on a hand sanitizer bottle\nDid he ingest any of the product ?",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This alcohol be see mainly in antifreeze and be highly toxic , both to dog and to human .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be several other liquid around the household that can contain dangerous level of ethanol , and should be keep out of reach of both pet and small child .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.aspca.org/pet-care/animal-poison-control/poisonous-household-products",
+      "content": "Our toxicology expert evaluate the product and determine it do n't contain ethylene glycol from antifreeze , and be appropriate to use in home with pet . If the soap also contain essential oil ( such a lavender , for example ) , it be possible that minor central nervous system depression could occur , depend on the concentration of oil and other circumstance of exposure . Some ingredient find in cream and ointment can cause serious , even life threatening , clinical sign . Some breath-freshening product could also contain the sweetener xylitol , which have the potential to cause a sharp drop in a dog 's blood sugar , result in depression , loss of coordination and seizure ; in some case , this could even result in liver damage . Confirm the ingredient in the brand you be use , and call the APCC or your veterinarian if your pet ingest some of the sealer . Swiffer Wet Jet Swiffer Wet Jet product do not contain clean agent in large enough quantity to present serious health risk to pet . Should your pet accidentally come in contact with the freshly apply powder , we recommend wash the paw with mild soap and water to avoid minor skin irritation . However , should your pet accidentally come into contact with Febreze when it be still wet , we would not anticipate problem beyond mild skin irritation ( which can occur with any product in animal with sensitive skin ) or minor stomach upset , if it be ingest . Febreze Contrary to rumor allege that Febreze cause serious illness or death in pet , our veterinary toxicology expert at APCC regard Febreze fabric freshener product to be safe for use in household with pet . Pseudoephedrine ( and other nasal decongestant ) Depending on the circumstance of exposure , pseudoephedrine can be very harmful or even deadly to pet , and therefore we would not advise give it to your dog . Bar Soap and Face WashMost bar soap and face cleanser contain detergent , which , if ingest , can cause gastrointestinal irritation ( include vomit and diarrhea ) . In some case , small exposure ( such a a pet lick the owner \u2019 s skin after recent application of the product ) have result in severe clinical health and gastrointestinal issue . However , the amount of sorbitol in pet toothpaste use for brush your pooch \u2019 s teeth be not likely to be an issue . As with any number of cleaning product , mild skin irritation or stomach upset may occur if pet walk through a still-wet floor or lick any spilled solution . Cigarettes and Nicotine PatchesCigarettes and other tobacco product contain nicotine , which have the potential to produce severe vomiting , depression , an elevated heart rate , decrease in blood pressure , seizure , respiratory failure and , in severe case , even death . There be a small risk of aspiration pneumonia if the pet inhale some of the product . Decongestants be frequently find in product that contain antihistamine . Certain mosquito repellent that be make for human being contain DEET ( N , N-diethyl-meta-toluamide ) . Topical Creams/Ointments As with lotion and oil , pet parent should use caution after immediate application of topical cream and ointment to their own skin . Amphetamines can be very harmful or even deadly to pet if enough be ingest , potentially cause hyperactivity , tremor and seizure , fever , abnormal heart rate and rhythm , coma and even death .",
+      "domain": "www.aspca.org",
+      "tokenized": [
+        {
+          "sent": "Our toxicology expert evaluate the product and determine it do n't contain ethylene glycol from antifreeze , and be appropriate to use in home with pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If the soap also contain essential oil ( such a lavender , for example ) , it be possible that minor central nervous system depression could occur , depend on the concentration of oil and other circumstance of exposure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some ingredient find in cream and ointment can cause serious , even life threatening , clinical sign .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Some breath-freshening product could also contain the sweetener xylitol , which have the potential to cause a sharp drop in a dog 's blood sugar , result in depression , loss of coordination and seizure ; in some case , this could even result in liver damage .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Confirm the ingredient in the brand you be use , and call the APCC or your veterinarian if your pet ingest some of the sealer .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Swiffer Wet Jet Swiffer Wet Jet product do not contain clean agent in large enough quantity to present serious health risk to pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Should your pet accidentally come in contact with the freshly apply powder , we recommend wash the paw with mild soap and water to avoid minor skin irritation .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , should your pet accidentally come into contact with Febreze when it be still wet , we would not anticipate problem beyond mild skin irritation ( which can occur with any product in animal with sensitive skin ) or minor stomach upset , if it be ingest .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Febreze Contrary to rumor allege that Febreze cause serious illness or death in pet , our veterinary toxicology expert at APCC regard Febreze fabric freshener product to be safe for use in household with pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Pseudoephedrine ( and other nasal decongestant ) Depending on the circumstance of exposure , pseudoephedrine can be very harmful or even deadly to pet , and therefore we would not advise give it to your dog .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Bar Soap and Face WashMost bar soap and face cleanser contain detergent , which , if ingest , can cause gastrointestinal irritation ( include vomit and diarrhea ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "In some case , small exposure ( such a a pet lick the owner \u2019 s skin after recent application of the product ) have result in severe clinical health and gastrointestinal issue .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "However , the amount of sorbitol in pet toothpaste use for brush your pooch \u2019 s teeth be not likely to be an issue .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "As with any number of cleaning product , mild skin irritation or stomach upset may occur if pet walk through a still-wet floor or lick any spilled solution .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Cigarettes and Nicotine PatchesCigarettes and other tobacco product contain nicotine , which have the potential to produce severe vomiting , depression , an elevated heart rate , decrease in blood pressure , seizure , respiratory failure and , in severe case , even death .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "There be a small risk of aspiration pneumonia if the pet inhale some of the product .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Decongestants be frequently find in product that contain antihistamine .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Certain mosquito repellent that be make for human being contain DEET ( N , N-diethyl-meta-toluamide ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Topical Creams/Ointments As with lotion and oil , pet parent should use caution after immediate application of topical cream and ointment to their own skin .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Amphetamines can be very harmful or even deadly to pet if enough be ingest , potentially cause hyperactivity , tremor and seizure , fever , abnormal heart rate and rhythm , coma and even death .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.petpoisonhelpline.com/poison/hand-sanitizer-ethanol/",
+      "content": "Hand sanitizer , which be typically unpalatable to pet , often contain ethanol ( e.g. Like other type of alcohol , a large ingestion of hand sanitizer can cause lethargy , vomit , incoordination , weak respiration , and dangerous drop in blood sugar , blood pressure and body temperature . If you think your pet have eat something potentially toxic , call Pet Poison Helpline or seek immediate veterinary treatment .",
+      "domain": "www.petpoisonhelpline.com",
+      "tokenized": [
+        {
+          "sent": "Hand sanitizer , which be typically unpalatable to pet , often contain ethanol ( e.g.",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Like other type of alcohol , a large ingestion of hand sanitizer can cause lethargy , vomit , incoordination , weak respiration , and dangerous drop in blood sugar , blood pressure and body temperature .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If you think your pet have eat something potentially toxic , call Pet Poison Helpline or seek immediate veterinary treatment .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://fox59.com/2017/02/10/utah-family-urges-awareness-of-poison-symptoms-after-losing-beloved-dogs/",
+      "content": "The emergency veterinarian tell them both pet have ingest ethylene glycol , a chemical that be deadly for pet and typically find in antifreeze .",
+      "domain": "fox59.com",
+      "tokenized": [
+        {
+          "sent": "The emergency veterinarian tell them both pet have ingest ethylene glycol , a chemical that be deadly for pet and typically find in antifreeze .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://safetycall.com/hand-sanitizer-and-pets/",
+      "content": "Ingesting large amount of hand sanitizer may result in ethanol intoxication in dog and cat , cause symptom such a behavior change , decrease co-ordination , depression , low blood sugar ( especially in small and young pet ) , stomach upset , and even difficulty breathing . When use hand sanitizer for yourself , once it have dry on your hand , there would be no danger to touch your pet , so snuggle away ! Likewise , small lick of product from your hand be not expect to be harmful for most pet . This most commonly occurs when the product be spill on the floor and ingest by a pet or when a dog mistake a bottle of sanitizer for a chew toy . Antifreeze often contain ethylene glycol . If you find that your pet have ingest this product , we recommend that you contact your local veterinarian immediately or speak with Pet Poison Helpline for further assistance\u2014time be of the essence !",
+      "domain": "safetycall.com",
+      "tokenized": [
+        {
+          "sent": "Ingesting large amount of hand sanitizer may result in ethanol intoxication in dog and cat , cause symptom such a behavior change , decrease co-ordination , depression , low blood sugar ( especially in small and young pet ) , stomach upset , and even difficulty breathing .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "When use hand sanitizer for yourself , once it have dry on your hand , there would be no danger to touch your pet , so snuggle away !",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Likewise , small lick of product from your hand be not expect to be harmful for most pet .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "This most commonly occurs when the product be spill on the floor and ingest by a pet or when a dog mistake a bottle of sanitizer for a chew toy .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Antifreeze often contain ethylene glycol .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If you find that your pet have ingest this product , we recommend that you contact your local veterinarian immediately or speak with Pet Poison Helpline for further assistance\u2014time be of the essence !",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://www.petplace.com/article/dogs/pet-health/is-hand-sanitizer-toxic-to-dogs/",
+      "content": "We hope this have help you learn more about hand sanitizer toxicity in dog . The majority of hand sanitizers on the market contain ethanol ( a type of alcohol use for sanitization ) in addition to artificial color and fragrance . It be far easy to prevent hand sanitizer ingestion than it be to treat alcohol poison . Hand sanitizer have become a staple in home , car , handbag , and office . Just a small amount of sanitizer can induce alcohol poison in some dog . These alcohol-based solution be great for keep germ at bay , but they can also pose a danger to dog that encounter them .",
+      "domain": "www.petplace.com",
+      "tokenized": [
+        {
+          "sent": "We hope this have help you learn more about hand sanitizer toxicity in dog .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "The majority of hand sanitizers on the market contain ethanol ( a type of alcohol use for sanitization ) in addition to artificial color and fragrance .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "It be far easy to prevent hand sanitizer ingestion than it be to treat alcohol poison .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Hand sanitizer have become a staple in home , car , handbag , and office .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Just a small amount of sanitizer can induce alcohol poison in some dog .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "These alcohol-based solution be great for keep germ at bay , but they can also pose a danger to dog that encounter them .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        }
+      ]
+    },
+    {
+      "link": "https://forum.knittinghelp.com/t/ot-be-careful-with-hand-sanitizers/30416",
+      "content": "Hand Sanitizer be a chemical and she shouldn \u2019 t have leave it up to a preschooler to use it appropriately . Hand Sanitizer be a chemical and she shouldn \u2019 t have leave it up to a preschooler to use it appropriately . If the teacher have watch her , she could have tell the child not to drink the hand sanitizer , and to not put it in her mouth . After the alcohol dry the hand sanitizer be not effective . this be kinda scary , especially with how much people with kid use this stuff\u2026reminds me of pet with swiffer or antifreeze . I \u2019 ve heard this many times\u2026if you use hand sanitizer frequently it stop work on the bacteria eventually because they become resistant . : zombie :\nI \u2019 ve heard that use hand sanitizer a lot can actually lower your immune system by mess with the good bacteria and whatnot . Hand sanitizer , of all thing . Right when we be leave in the ambulance , her teacher have come to the ER and after question Halle \u2019 s classmate , we find out that she have lick hand sanitizer off her hand .",
+      "domain": "forum.knittinghelp.com",
+      "tokenized": [
+        {
+          "sent": "Hand Sanitizer be a chemical and she shouldn \u2019 t have leave it up to a preschooler to use it appropriately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand Sanitizer be a chemical and she shouldn \u2019 t have leave it up to a preschooler to use it appropriately .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If the teacher have watch her , she could have tell the child not to drink the hand sanitizer , and to not put it in her mouth .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "After the alcohol dry the hand sanitizer be not effective .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "this be kinda scary , especially with how much people with kid use this stuff\u2026reminds me of pet with swiffer or antifreeze .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "I \u2019 ve heard this many times\u2026if you use hand sanitizer frequently it stop work on the bacteria eventually because they become resistant .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": ": zombie :\nI \u2019 ve heard that use hand sanitizer a lot can actually lower your immune system by mess with the good bacteria and whatnot .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand sanitizer , of all thing .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Right when we be leave in the ambulance , her teacher have come to the ER and after question Halle \u2019 s classmate , we find out that she have lick hand sanitizer off her hand .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "http://www.suburbananimalclinic.com/pet-poison-household-items",
+      "content": "Ingesting hand sanitizer can cause alcohol poison which can cause dangerous drop in blood sugar , body temperature , and blood pressure . Paintballs can also cause a blood test for ethylene glycol ( antifreeze ) to be falsely positive . Be sure to let your veterinarian know if your pet potentially ingested paintball versus antifreeze . Hand Sanitizer : Hand sanitizers be very common now , and contain ethanol ( aka alcohol ) . Matches : Matches contain chemical , and can contain charcoal or sulfur and color agent , all which can cause illness in pet . If your pet ingest a large amount of match , you may also see seizure or tremor , acute kidney failure , shallow breathing , bone marrow change , and jaundice ( yellowing of the skin , usually relate to liver issue ) . Potpourri Liquid : These pleasant smelling oil can be harmful to pet , especially curious kitty . If you suspect your pet may have ingest any type of medication , don \u2019 t hesitate to call the ASPCA Poison Control Center at 1-888-426-4435 or the Pet Poison Helpline at 1-800-213-6680 . Acids/Alkalines : Many cleaner and other item we have in our home be poisonous to our pet . Glue : Yes , certain type of glue be harmful for pet . This include :\nDetergents : Soaps , fabric softener , deodorizer , and enzymatic cleaner be item use often in the home without think about potential pet exposure .",
+      "domain": "www.suburbananimalclinic.com",
+      "tokenized": [
+        {
+          "sent": "Ingesting hand sanitizer can cause alcohol poison which can cause dangerous drop in blood sugar , body temperature , and blood pressure .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Paintballs can also cause a blood test for ethylene glycol ( antifreeze ) to be falsely positive .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Be sure to let your veterinarian know if your pet potentially ingested paintball versus antifreeze .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Hand Sanitizer : Hand sanitizers be very common now , and contain ethanol ( aka alcohol ) .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "Matches : Matches contain chemical , and can contain charcoal or sulfur and color agent , all which can cause illness in pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "If your pet ingest a large amount of match , you may also see seizure or tremor , acute kidney failure , shallow breathing , bone marrow change , and jaundice ( yellowing of the skin , usually relate to liver issue ) .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Potpourri Liquid : These pleasant smelling oil can be harmful to pet , especially curious kitty .",
+          "is_evidence": 1,
+          "is_repeat": 0
+        },
+        {
+          "sent": "If you suspect your pet may have ingest any type of medication , don \u2019 t hesitate to call the ASPCA Poison Control Center at 1-888-426-4435 or the Pet Poison Helpline at 1-800-213-6680 .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Acids/Alkalines : Many cleaner and other item we have in our home be poisonous to our pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "Glue : Yes , certain type of glue be harmful for pet .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "This include :\nDetergents : Soaps , fabric softener , deodorizer , and enzymatic cleaner be item use often in the home without think about potential pet exposure .",
+          "is_evidence": 0
+        }
+      ]
+    },
+    {
+      "link": "https://iheartdogs.com/is-your-dog-safe-beware-of-these-8-toxic-items-sitting-in-your-home/",
+      "content": "Fortunately , most dog don \u2019 t find any hand sanitizers particularly tasty , but in case you \u2019 ve get a brave soul or a teething puppy , it \u2019 s important to keep this in mind . NSAIDS , or non-steroidal anti-inflammatory drug , can cause very serious damage to our pet .",
+      "domain": "iheartdogs.com",
+      "tokenized": [
+        {
+          "sent": "Fortunately , most dog don \u2019 t find any hand sanitizers particularly tasty , but in case you \u2019 ve get a brave soul or a teething puppy , it \u2019 s important to keep this in mind .",
+          "is_evidence": 0
+        },
+        {
+          "sent": "NSAIDS , or non-steroidal anti-inflammatory drug , can cause very serious damage to our pet .",
+          "is_evidence": 0
+        }
+      ]
+    }
+  ],
+  "true_explanation": "New emerging sources hint at the possibility that this claim holds more merit than traditionally acknowledged."
+}
