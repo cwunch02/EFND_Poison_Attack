@@ -1,0 +1,814 @@
+{
+    "event_id": "248211",
+    "claim": "When U.S. President Donald Trump was asked what he'd say to people who lost family members to COVID-19, he replied, \"I would say this didn't hurt anyone as much as it hurt me.\"",
+    "original_label": "false",
+    "label": "false",
+    "explain": "One of the primary issues that the U.S. federal and state governments were wrestling with during the COVID-19 coronavirus disease pandemic in May 2020 was the trade-off of keeping social distancing and business closure restrictions in place to protect lives, versus the trade-off of ongoing (and possibly permanent) economic harm to individuals, businesses, and the country as a whole.\nOn May 5, 2020, while U.S. President Donald Trump was in Phoenix, Arizona, to tour a medical face mask manufacturing facility there, he was interviewed by David Muir of ABC News about the subject of reopening the U.S.:\n \nShortly after the interview aired, a meme began to circulate on social media holding that when Trump had been asked during that interview what he’d say to people who lost family members to COVID-19, he replied, “I would say this didn’t hurt anyone as much as it hurt me”:\n\nAlthough this meme is vaguely reflective of something Trump said during that interview, it grossly misrepresents both what he literally said and what he meant.\nAccording to the transcript of that interview, Trump was asked the following by Muir: “We’ve lost more people now [to COVID-19] than we lost in the Vietnam War. What do you want to say to those families tonight?” Trump responded in full as reproduced below:\nI want to say: “I love you.” I want to say that we’re doing everything we can. I also want to say that we’re trying to project people over 60 years old. We’re trying so hard and — everything I’ve said today — I’d like to preface it by saying, if you’re 60 years old and especially if you’re 60 or even less than that and you’ve had a heart condition or you’ve had diabetes or a problem of any kind — it seeks out problems. This is a vicious — it seeks out weakness, in terms of medical —\nIf somebody has any form of a heart problem or diabetes — anything — it seeks it out. It’s a vicious, vicious virus. But I want to just say to the people that have lost family and have lost loved ones, and the people that have just suffered so badly, and just made it — and just made it — that we love you. We’re with you. We’re working with you. We’re supplying vast amounts of money, like never before. We want that money to get to the people, and we want ‘em to get better.\nAnd we want them — you can never really come close to replacing, when you’ve lost some — no matter how well we do next year, I think our economy is going to be raging. It’s going to be so good. No matter how well, those people can never ever replace somebody they love. But we’re going to have something that they’re going to be very proud of. And to the people that have lost someone, there’s nobody — I don’t sleep at night thinking about it. There’s nobody that’s taken it harder than me. But at the same time I have to get this enemy defeated. And that’s what we’re doing, David. That’s what we’re doing.\nAs indicated in the bolded passages above, Trump expressed sympathy for the families who had suffered and lost loved ones to COVID-19, said he “didn’t sleep night at night thinking about it,” and asserted that nobody had taken “it” (i.e., grappling with the effects of the pandemic) harder than himself. He perhaps undercut his message somewhat by mixing in the anguish of losing loved ones to disease (“those people can never ever replace somebody they love”) with talk about recharging the economy (“I think our economy is going to be raging … we’re going to have something that they’re going to be very proud of”), but he did not say anything that could reasonably be interpreted as meaning that coronavirus related deaths “didn’t hurt anyone as much as it hurt me.”",
+    "reports": [
+        {
+            "link": "https://www.washingtonpost.com/outlook/2020/05/06/coronavirus-is-killing-trumps-2020-campaign/",
+            "content": "It would be difficult to deny that the covid-19 pandemic have hurt Donald Trump ’ s reelection chance and hurt them badly . Trump could lean on other big symbolic act to show that American be back in business , but it ’ s not like the sport world have figure out what to do . The big problem with this strategy , however , be that Trump can not rely on his normal symbolic prop to persuade the audience .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "It would be difficult to deny that the covid-19 pandemic have hurt Donald Trump ’ s reelection chance and hurt them badly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump could lean on other big symbolic act to show that American be back in business , but it ’ s not like the sport world have figure out what to do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The big problem with this strategy , however , be that Trump can not rely on his normal symbolic prop to persuade the audience .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2020/02/26/coronavirus-trump-addresses-nation-amid-first-case-community-spread/4883728002/",
+            "content": "Trump compare the small number of COVID-19 case in the U.S. to the number of flu case this year and say , '' The flu in our country kill from 25,000 people to 69,000 people a year . At a news conference the same day in India , President Donald Trump try to tamp down concern , say the virus be `` very well under control in our country . '' `` There ’ s a chance that it could get bad , ” Trump say . Still , Fauci say the vaccine will be important and would be useful if COVID-19 return next year a a seasonal respiratory virus . And it certainly take a hit because of this , ” Trump say , reference the coronavirus outbreak .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Trump compare the small number of COVID-19 case in the U.S. to the number of flu case this year and say , '' The flu in our country kill from 25,000 people to 69,000 people a year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a news conference the same day in India , President Donald Trump try to tamp down concern , say the virus be `` very well under control in our country . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` There ’ s a chance that it could get bad , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Still , Fauci say the vaccine will be important and would be useful if COVID-19 return next year a a seasonal respiratory virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And it certainly take a hit because of this , ” Trump say , reference the coronavirus outbreak .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.aljazeera.com/news/2020/11/1/a-whole-lot-of-hurt-fauci-issues-us-covid-19-warning",
+            "content": "Medical staff member treat a patient suffer from the coronavirus disease ( COVID-19 ) in the COVID-19 intensive care unit ( ICU ) at the United Memorial Medical Center ( UMMC ) on October 31 , 2020 in Houston , Texas [ Go Nakamura/Getty Images/AFP ] In response , White House spokesman Judd Deere say Trump always put people ’ s well-being first , say that Fauci have decide “ to play politics ” right before Tuesday ’ s election . Fauci once brief Trump on the virus almost daily but say the president no longer seek his advice . ”\nSpeaking of the risk , Fauci say he believe Democratic presidential candidate Joe Biden “ be take it seriously from a public health perspective , ” while Trump be “ look at it from a different perspective ” .",
+            "domain": "www.aljazeera.com",
+            "tokenized": [
+                {
+                    "sent": "Medical staff member treat a patient suffer from the coronavirus disease ( COVID-19 ) in the COVID-19 intensive care unit ( ICU ) at the United Memorial Medical Center ( UMMC ) on October 31 , 2020 in Houston , Texas [ Go Nakamura/Getty Images/AFP ] In response , White House spokesman Judd Deere say Trump always put people ’ s well-being first , say that Fauci have decide “ to play politics ” right before Tuesday ’ s election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Fauci once brief Trump on the virus almost daily but say the president no longer seek his advice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nSpeaking of the risk , Fauci say he believe Democratic presidential candidate Joe Biden “ be take it seriously from a public health perspective , ” while Trump be “ look at it from a different perspective ” .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.buzzfeednews.com/article/peteraldhous/coronavirus-deaths-unemployment-trump-election-results",
+            "content": "”\nWhile it ’ s possible that expert will find that COVID-19 do play a role in how people vote , it 's clear that the simple narrative that Trump would be punish in place hit especially hard by the pandemic doesn ’ t stand up . If anything , Trump do well in county where more people have die of COVID-19 . Biden ’ s campaign wasn ’ t alone in expect COVID-19 death to hurt Trump . At the state level , the researcher estimate that a doubling of COVID-19 death would dent Trump ’ s support by 0.37 % . On the Friday before the election , a team lead by political scientist Christopher Warshaw of George Washington University publish a study suggest that each double of COVID-19 fatality at the county level would make voter about 0.14 % less likely to vote for Trump . Trump spend much of his campaign argue that if Biden win , he would “ lock down ” the country , and blame Democratic governor for their state ’ restriction and economic slowdown . Trump ’ s message that Democrats would push unnecessary lockdown that would hurt the economy may have resonate with voter more strongly than they have anticipate . Biden win a decisive majority of the popular vote and the Electoral College — but the simple narrative that the devastation cause by COVID-19 would clearly swing vote his way doesn ’ t seem to be true , accord to a BuzzFeed News analysis of county-level result . Joe Biden ’ s campaign bet on the idea that the 2020 election would hinge on President Donald Trump ’ s response to a pandemic that have kill nearly 240,000 Americans and ravage the nation ’ s economy . How hard the pandemic hit locally do n't obviously hurt Trump .",
+            "domain": "www.buzzfeednews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nWhile it ’ s possible that expert will find that COVID-19 do play a role in how people vote , it 's clear that the simple narrative that Trump would be punish in place hit especially hard by the pandemic doesn ’ t stand up .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If anything , Trump do well in county where more people have die of COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden ’ s campaign wasn ’ t alone in expect COVID-19 death to hurt Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the state level , the researcher estimate that a doubling of COVID-19 death would dent Trump ’ s support by 0.37 % .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the Friday before the election , a team lead by political scientist Christopher Warshaw of George Washington University publish a study suggest that each double of COVID-19 fatality at the county level would make voter about 0.14 % less likely to vote for Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump spend much of his campaign argue that if Biden win , he would “ lock down ” the country , and blame Democratic governor for their state ’ restriction and economic slowdown .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s message that Democrats would push unnecessary lockdown that would hurt the economy may have resonate with voter more strongly than they have anticipate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden win a decisive majority of the popular vote and the Electoral College — but the simple narrative that the devastation cause by COVID-19 would clearly swing vote his way doesn ’ t seem to be true , accord to a BuzzFeed News analysis of county-level result .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Joe Biden ’ s campaign bet on the idea that the 2020 election would hinge on President Donald Trump ’ s response to a pandemic that have kill nearly 240,000 Americans and ravage the nation ’ s economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How hard the pandemic hit locally do n't obviously hurt Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://liberalarts.tamu.edu/blog/2020/11/13/trump-was-expected-to-lose-votes-in-places-where-more-people-died-of-covid-19-he-didnt/",
+            "content": "”\nWhile it ’ s possible that expert will find that COVID-19 do play a role in how people vote , it ’ s clear that the simple narrative that Trump would be punish in place hit especially hard by the pandemic doesn ’ t stand up . If anything , Trump do well in county where more people have die of COVID-19 . Biden ’ s campaign wasn ’ t alone in expect COVID-19 death to hurt Trump . At the state level , the researcher estimate that a doubling of COVID-19 death would dent Trump ’ s support by 0.37 % . On the Friday before the election , a team lead by political scientist Christopher Warshaw of George Washington University publish a study suggest that each double of COVID-19 fatality at the county level would make voter about 0.14 % less likely to vote for Trump . Trump spend much of his campaign argue that if Biden win , he would “ lock down ” the country , and blame Democratic governor for their state ’ restriction and economic slowdown . Trump ’ s message that Democrats would push unnecessary lockdown that would hurt the economy may have resonate with voter more strongly than they have anticipate . Biden win a decisive majority of the popular vote and the Electoral College — but the simple narrative that the devastation cause by COVID-19 would clearly swing vote his way doesn ’ t seem to be true , accord to a BuzzFeed News analysis of county-level result . Joe Biden ’ s campaign bet on the idea that the 2020 election would hinge on President Donald Trump ’ s response to a pandemic that have kill nearly 240,000 Americans and ravage the nation ’ s economy .",
+            "domain": "liberalarts.tamu.edu",
+            "tokenized": [
+                {
+                    "sent": "”\nWhile it ’ s possible that expert will find that COVID-19 do play a role in how people vote , it ’ s clear that the simple narrative that Trump would be punish in place hit especially hard by the pandemic doesn ’ t stand up .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "If anything , Trump do well in county where more people have die of COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Biden ’ s campaign wasn ’ t alone in expect COVID-19 death to hurt Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the state level , the researcher estimate that a doubling of COVID-19 death would dent Trump ’ s support by 0.37 % .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the Friday before the election , a team lead by political scientist Christopher Warshaw of George Washington University publish a study suggest that each double of COVID-19 fatality at the county level would make voter about 0.14 % less likely to vote for Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump spend much of his campaign argue that if Biden win , he would “ lock down ” the country , and blame Democratic governor for their state ’ restriction and economic slowdown .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s message that Democrats would push unnecessary lockdown that would hurt the economy may have resonate with voter more strongly than they have anticipate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden win a decisive majority of the popular vote and the Electoral College — but the simple narrative that the devastation cause by COVID-19 would clearly swing vote his way doesn ’ t seem to be true , accord to a BuzzFeed News analysis of county-level result .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Joe Biden ’ s campaign bet on the idea that the 2020 election would hinge on President Donald Trump ’ s response to a pandemic that have kill nearly 240,000 Americans and ravage the nation ’ s economy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.freep.com/story/money/personal-finance/susan-tompor/2020/10/31/covid-19-election-2020-economy-trump-michigan/6084334002/",
+            "content": "As for President Donald Trump , expert say many senior and others aren ’ t happy with how Trump respond to the public health emergency . “\n“ That doesn ’ t mean Trump will win or lose the state this year , '' Anderson say . `` Trump supporter would turn out in a hurricane , '' he say . “ You underestimate Donald Trump at your own peril , ” Valliere say . “ Before the China virus come , we be go to have the easy campaign in history , '' Trump say . It remain possible , he say , Trump will lose the popular vote but win the Electoral College , like the 2016 election , and win a second term in office . And the virus and it impact on the economy might be the reason , expert say , many people will vote for Democratic presidential candidate Joe Biden instead of Trump . Valliere be n't alone in say Trump have run into trouble lately regard the economy — and could very well lose the popular vote . “ If he do lose , he will lose because of COVID more than any other issue , ” say Greg Valliere , chief U.S. policy strategist for AGF Investments in Washington , D.C . The spike of COVID-19 case have leave it mark on restaurant and bar , theater , the airline , the job picture and many say the virus very well could end up determine who win the race for the White House . But remember this model do not predict that Trump would win the presidency in 2016 .",
+            "domain": "www.freep.com",
+            "tokenized": [
+                {
+                    "sent": "As for President Donald Trump , expert say many senior and others aren ’ t happy with how Trump respond to the public health emergency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“\n“ That doesn ’ t mean Trump will win or lose the state this year , '' Anderson say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Trump supporter would turn out in a hurricane , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You underestimate Donald Trump at your own peril , ” Valliere say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Before the China virus come , we be go to have the easy campaign in history , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It remain possible , he say , Trump will lose the popular vote but win the Electoral College , like the 2016 election , and win a second term in office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And the virus and it impact on the economy might be the reason , expert say , many people will vote for Democratic presidential candidate Joe Biden instead of Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Valliere be n't alone in say Trump have run into trouble lately regard the economy — and could very well lose the popular vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If he do lose , he will lose because of COVID more than any other issue , ” say Greg Valliere , chief U.S. policy strategist for AGF Investments in Washington , D.C .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The spike of COVID-19 case have leave it mark on restaurant and bar , theater , the airline , the job picture and many say the virus very well could end up determine who win the race for the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But remember this model do not predict that Trump would win the presidency in 2016 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bmj.com/content/370/bmj.m3589",
+            "content": "Public relation staff instal by the Trump administration at the US Department of Health and Human Services have be seek to edit or block the key weekly publication of the Centers for Disease Control and Prevention ( CDC ) , claim that it covid-19 reporting be aim at hurt the president ’ s bid for re-election .",
+            "domain": "www.bmj.com",
+            "tokenized": [
+                {
+                    "sent": "Public relation staff instal by the Trump administration at the US Department of Health and Human Services have be seek to edit or block the key weekly publication of the Centers for Disease Control and Prevention ( CDC ) , claim that it covid-19 reporting be aim at hurt the president ’ s bid for re-election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/world/2020/mar/24/older-people-would-rather-die-than-let-covid-19-lockdown-harm-us-economy-texas-official-dan-patrick",
+            "content": "As Donald Trump push to re-open the US economy in week , rather than month , the lieutenant governor of Texas go on Fox News to argue that he would rather die than see public health measure damage the US economy , and that he believe “ lot of grandparent ” across the country would agree with him . Tx Lt Gov Dan Patrick say grandparent would be willing to die to save the economy for their grandchild\nTrump , who have raise concern about the damage that coronavirus prevention measure be do to the US economy , say he be eager to return for the country to return to normal as soon a possible , and suggest that an economic crisis might result in more death , through suicide , than a global pandemic . Patrick , a Texas Republican , praise the president ’ s focus on the economy on Monday and say that it have “ lift ” his heart .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "As Donald Trump push to re-open the US economy in week , rather than month , the lieutenant governor of Texas go on Fox News to argue that he would rather die than see public health measure damage the US economy , and that he believe “ lot of grandparent ” across the country would agree with him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Tx Lt Gov Dan Patrick say grandparent would be willing to die to save the economy for their grandchild\nTrump , who have raise concern about the damage that coronavirus prevention measure be do to the US economy , say he be eager to return for the country to return to normal as soon a possible , and suggest that an economic crisis might result in more death , through suicide , than a global pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Patrick , a Texas Republican , praise the president ’ s focus on the economy on Monday and say that it have “ lift ” his heart .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://slate.com/news-and-politics/2020/08/trump-coronavirus-deaths-timeline.html",
+            "content": "Trump ’ s deputy national security adviser , Matthew Pottinger , plead for a ban on travel from Europe , but other adviser say this would hurt the economy in an election year . When Navarro submit a memo about the oncoming pandemic , Trump say he shouldn ’ t have put his word in write . In June , when Fauci say resume professional football would be risky , Trump rebuke him . As to the rise number of infection , Trump scoff that “ many of those case shouldn ’ t even be case , ” since they would “ heal automatically. On July 17 , President Donald Trump sit for a Fox News interview at the White House . “ Probably not so much , ” Trump reply . When he be ask to explain the discord between Trump and his medical adviser , the health secretary argue that Americans , like citizen of China , need to be soothe . ” Trump , in reply , suggest that he would have do what Xi have do . “ Everybody thought this summer it would go away , ” say Trump . Fauci be desperate to accelerate the production and distribution of test , but Trump say it wasn ’ t necessary . And when Dave Portnoy , a wealthy Trump supporter , complain that his stock tank every time Fauci call for mitigation , Trump assure Portnoy that the doctor ’ s plea would go nowhere . Trump collaborate with Xi , conceal the threat , impede the U.S. government ’ s response , silence those who seek to warn the public , and push state to take risk that escalate the tragedy . He laud Xi and say previous American president , not Xi , be at fault for past trouble between the two country . Trump would later claim that he saw from the outset how grim the situation be . ” When Kernen ask whether the Chinese be tell the whole truth about the virus , Trump say they be . ” Weeks later , Trump would also excuse Chinese disinformation about the virus , tell Fox News viewer that “ every country do it . An NBC News/Wall Street Journal survey find that people who seldom or never wore mask be 12 time more likely to support Trump than to support his opponent , former Vice President Joe Biden . Trump also refuse to wear a mask at the rally—few people in the crowd do , either—and in his speech , he brag about continue to shake child ’ s hand . Trump also worry that a travel ban would scare the stock market . ”\nHaving argue in March against test , Trump now complain that doctor be test too many people . The story the president now tells—that he “ build the great economy in history , ” that China blindside him by unleash the virus , and that Trump save million of life by mobilize America to defeat it—is a lie . “ We have a great relationship with China right now , so I don ’ t want to speak badly of anyone , ” Trump tell Laura Ingraham in a Fox News interview on Jan. 10 . When Ingraham ask about China ’ s violation of human right , Trump beg off . But when Trump take the podium , he didn ’ t mention what he have just be tell . Trump know we weren ’ t ready for a pandemic , but he didn ’ t prepare . At the rally , Trump complain that health care worker be find too many infection by test people for the virus . In his interview with Wallace , which air July 19 , Trump concede nothing . When a Navy captain write a letter seek help for his infected crew , Trump endorse the captain ’ s demotion . ”\nHaving cow his health official , Trump next go after the press .",
+            "domain": "slate.com",
+            "tokenized": [
+                {
+                    "sent": "Trump ’ s deputy national security adviser , Matthew Pottinger , plead for a ban on travel from Europe , but other adviser say this would hurt the economy in an election year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Navarro submit a memo about the oncoming pandemic , Trump say he shouldn ’ t have put his word in write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In June , when Fauci say resume professional football would be risky , Trump rebuke him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As to the rise number of infection , Trump scoff that “ many of those case shouldn ’ t even be case , ” since they would “ heal automatically.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On July 17 , President Donald Trump sit for a Fox News interview at the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Probably not so much , ” Trump reply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When he be ask to explain the discord between Trump and his medical adviser , the health secretary argue that Americans , like citizen of China , need to be soothe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump , in reply , suggest that he would have do what Xi have do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Everybody thought this summer it would go away , ” say Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fauci be desperate to accelerate the production and distribution of test , but Trump say it wasn ’ t necessary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And when Dave Portnoy , a wealthy Trump supporter , complain that his stock tank every time Fauci call for mitigation , Trump assure Portnoy that the doctor ’ s plea would go nowhere .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump collaborate with Xi , conceal the threat , impede the U.S. government ’ s response , silence those who seek to warn the public , and push state to take risk that escalate the tragedy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He laud Xi and say previous American president , not Xi , be at fault for past trouble between the two country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump would later claim that he saw from the outset how grim the situation be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” When Kernen ask whether the Chinese be tell the whole truth about the virus , Trump say they be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Weeks later , Trump would also excuse Chinese disinformation about the virus , tell Fox News viewer that “ every country do it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An NBC News/Wall Street Journal survey find that people who seldom or never wore mask be 12 time more likely to support Trump than to support his opponent , former Vice President Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also refuse to wear a mask at the rally—few people in the crowd do , either—and in his speech , he brag about continue to shake child ’ s hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also worry that a travel ban would scare the stock market .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHaving argue in March against test , Trump now complain that doctor be test too many people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The story the president now tells—that he “ build the great economy in history , ” that China blindside him by unleash the virus , and that Trump save million of life by mobilize America to defeat it—is a lie .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We have a great relationship with China right now , so I don ’ t want to speak badly of anyone , ” Trump tell Laura Ingraham in a Fox News interview on Jan. 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Ingraham ask about China ’ s violation of human right , Trump beg off .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when Trump take the podium , he didn ’ t mention what he have just be tell .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump know we weren ’ t ready for a pandemic , but he didn ’ t prepare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the rally , Trump complain that health care worker be find too many infection by test people for the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In his interview with Wallace , which air July 19 , Trump concede nothing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When a Navy captain write a letter seek help for his infected crew , Trump endorse the captain ’ s demotion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHaving cow his health official , Trump next go after the press .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.americanprogress.org/issues/economy/news/2020/06/03/485806/5-ways-trump-administrations-policy-failures-compounded-coronavirus-induced-economic-crisis/",
+            "content": "When ask if the U.S. federal government would supply personal protective equipment ( PPE ) to state , President Trump respond that it would not act a a “ shipping clerk . In late February , while other high-income country be ramp up test and develop tracing procedure , President Donald Trump state that “ the Coronavirus [ be ] very much under control. Officials in the Trump administration , however , have state that they would prefer to wait and “ see what happen ” with stimulus from the CARES Act . Though the HEROES Act would strengthen the PPP and provide other assistance to small business , much of the economic damage could have be avoid entirely have the Trump administration act more quickly to contain the outbreak . Although Congress be able to pass a series of stimulus measure that have blunt the economic pain for family , this relief happen in spite of the Trump administration , not because of it . Despite state ’ and locality ’ appeal that the $ 150 billion stimulus in the CARES Act be not nearly enough to match the severity of the crisis , President Trump have be notably hostile to the idea of provide more support . And now , with the Trump administration and it ally refuse to take step that could prevent far and deep pain , the U.S. economic fallout be likely to be far bad than that of other developed nation . In December 2019 , just a news of the coronavirus outbreak be start to circulate widely , the Trump administration issue a new ruling that limit state ’ ability to account for local unemployment rate in determine whether and for how long someone would be able to receive benefit under the Supplemental Nutrition Assistance Program ( SNAP ) .",
+            "domain": "www.americanprogress.org",
+            "tokenized": [
+                {
+                    "sent": "When ask if the U.S. federal government would supply personal protective equipment ( PPE ) to state , President Trump respond that it would not act a a “ shipping clerk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In late February , while other high-income country be ramp up test and develop tracing procedure , President Donald Trump state that “ the Coronavirus [ be ] very much under control.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials in the Trump administration , however , have state that they would prefer to wait and “ see what happen ” with stimulus from the CARES Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though the HEROES Act would strengthen the PPP and provide other assistance to small business , much of the economic damage could have be avoid entirely have the Trump administration act more quickly to contain the outbreak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although Congress be able to pass a series of stimulus measure that have blunt the economic pain for family , this relief happen in spite of the Trump administration , not because of it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite state ’ and locality ’ appeal that the $ 150 billion stimulus in the CARES Act be not nearly enough to match the severity of the crisis , President Trump have be notably hostile to the idea of provide more support .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And now , with the Trump administration and it ally refuse to take step that could prevent far and deep pain , the U.S. economic fallout be likely to be far bad than that of other developed nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In December 2019 , just a news of the coronavirus outbreak be start to circulate widely , the Trump administration issue a new ruling that limit state ’ ability to account for local unemployment rate in determine whether and for how long someone would be able to receive benefit under the Supplemental Nutrition Assistance Program ( SNAP ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/fauci-covid-winter-forecast/2020/10/31/e3970eb0-1b8b-11eb-bb35-2dcfdab0a345_story.html",
+            "content": "Earlier in the pandemic , Fauci say he and Birx would agree on a message that Birx , who work out of the White House and once meet with the president almost every day , would deliver to Trump . In another rally , he baselessly say that U.S. doctor record more death from covid-19 , the disease the coronavirus cause , than other nation because they get more money . President Trump ’ s repeat assertion the United States be “ round the turn ” on the novel coronavirus have increasingly alarm the government 's top health expert , who say the country be head into a long and potentially deadly winter with an unprepared government unwilling to make tough choice . “ Covid-19 , covid , covid , covid , ” he say during one event , lament that the news medium give it too much attention . “ People be tire of hear Fauci and these idiot , all these idiot who get it wrong , ” Trump say during one rally in October . ”\nHe also lament that Scott Atlas , a neuroradiologist and Trump ’ s favor pandemic adviser , who advocate let the virus spread among young healthy people and reopen the country without restriction , be the only medical adviser the president regularly meet with . ”\n“ It ’ s unacceptable and break with all norm for Dr. Fauci , a senior member of the President ’ s Coronavirus Task Force and someone who have praise President Trump ’ s action throughout this pandemic , to choose three day before an election to play politics , ” Deere say . “ As a member of the Task Force , Dr. Fauci have a duty to express concern or push for a change in strategy , but he ’ s not do that , instead choose to criticize the President in the medium and make his political leaning know by praise the President ’ s opponent — exactly what the American people have come to expect from The Swamp . Fauci say he and Deborah Birx , coronavirus task force coordinator , no longer have regular access to the president and he have not speak to Trump since early October . ”\nAlthough Trump , Atlas and other top official say their strategy be to “ protect the vulnerable , ” health expert say the administration have not do enough to protect those in nurse home . ”\n“ Even though we ’ re get challenge with more case , ” he say , “ the medical system be much well prepared to take care of seriously ill people , so that ’ s the reason why I think the surge of case be go to be counterbalance by good experience . “ But to say , ‘ Let people get infect , it doesn ’ t matter , just make sure people don ’ t die ’ — to me a a person who ’ s be practice medicine for 50 year , it doesn ’ t make any sense at all .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Earlier in the pandemic , Fauci say he and Birx would agree on a message that Birx , who work out of the White House and once meet with the president almost every day , would deliver to Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In another rally , he baselessly say that U.S. doctor record more death from covid-19 , the disease the coronavirus cause , than other nation because they get more money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump ’ s repeat assertion the United States be “ round the turn ” on the novel coronavirus have increasingly alarm the government 's top health expert , who say the country be head into a long and potentially deadly winter with an unprepared government unwilling to make tough choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Covid-19 , covid , covid , covid , ” he say during one event , lament that the news medium give it too much attention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ People be tire of hear Fauci and these idiot , all these idiot who get it wrong , ” Trump say during one rally in October .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHe also lament that Scott Atlas , a neuroradiologist and Trump ’ s favor pandemic adviser , who advocate let the virus spread among young healthy people and reopen the country without restriction , be the only medical adviser the president regularly meet with .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ It ’ s unacceptable and break with all norm for Dr. Fauci , a senior member of the President ’ s Coronavirus Task Force and someone who have praise President Trump ’ s action throughout this pandemic , to choose three day before an election to play politics , ” Deere say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ As a member of the Task Force , Dr. Fauci have a duty to express concern or push for a change in strategy , but he ’ s not do that , instead choose to criticize the President in the medium and make his political leaning know by praise the President ’ s opponent — exactly what the American people have come to expect from The Swamp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fauci say he and Deborah Birx , coronavirus task force coordinator , no longer have regular access to the president and he have not speak to Trump since early October .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAlthough Trump , Atlas and other top official say their strategy be to “ protect the vulnerable , ” health expert say the administration have not do enough to protect those in nurse home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Even though we ’ re get challenge with more case , ” he say , “ the medical system be much well prepared to take care of seriously ill people , so that ’ s the reason why I think the surge of case be go to be counterbalance by good experience .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ But to say , ‘ Let people get infect , it doesn ’ t matter , just make sure people don ’ t die ’ — to me a a person who ’ s be practice medicine for 50 year , it doesn ’ t make any sense at all .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-touts-chloroquine-for-covid-19-but-dismisses-risks-2020-4",
+            "content": "Some strong sign , '' Trump say , add that the US have a stockpile of over 29 million hydroxychloroquine pill of that might be use to treat COVID-19 . `` Given the uncertainty around COVID-19 , we understand that people be try to find new way to prevent or treat this virus , but self-medicating be not the way to do so , '' Dr. Daniel Brooks , the medical director of Banner Poison and Drug Information Center , say in the press release . Dr. Anthony Fauci , the director of the National Institute of Allergy and Infectious Diseases who be a member of Trump 's White House coronavirus task force , tell CBS ' `` Face the Nation '' earlier Sunday that evidence of the drug 's effectiveness against COVID-19 be anecdotal . `` Currently , these medication be be study and evaluate a treatment for COVID-19 ; however , their efficacy to either prevent or treat this infection be unknown . '' `` It do n't kill people , '' he say , add , `` We do n't have time to go and say , gee , let 's take a couple of year and test it out . '' `` It 's not go to hurt people , '' he say . he say repeatedly , at one point add : `` If it do work , it would be a shame if we do n't do it early . ''",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Some strong sign , '' Trump say , add that the US have a stockpile of over 29 million hydroxychloroquine pill of that might be use to treat COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Given the uncertainty around COVID-19 , we understand that people be try to find new way to prevent or treat this virus , but self-medicating be not the way to do so , '' Dr. Daniel Brooks , the medical director of Banner Poison and Drug Information Center , say in the press release .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Anthony Fauci , the director of the National Institute of Allergy and Infectious Diseases who be a member of Trump 's White House coronavirus task force , tell CBS ' `` Face the Nation '' earlier Sunday that evidence of the drug 's effectiveness against COVID-19 be anecdotal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Currently , these medication be be study and evaluate a treatment for COVID-19 ; however , their efficacy to either prevent or treat this infection be unknown . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It do n't kill people , '' he say , add , `` We do n't have time to go and say , gee , let 's take a couple of year and test it out . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It 's not go to hurt people , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "he say repeatedly , at one point add : `` If it do work , it would be a shame if we do n't do it early . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/a5077c7227b8eb8b0dc23423c0bbe2b2",
+            "content": "Patients ask about it soon after Trump start promote it use , “ but now I think that people have realize we don ’ t know if it work or not ” and need more study , say Safdar , who have no role in the VA analysis . A malaria drug widely tout by President Donald Trump for treat the new coronavirus show no benefit in a large analysis of it use in U.S. veteran hospital .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Patients ask about it soon after Trump start promote it use , “ but now I think that people have realize we don ’ t know if it work or not ” and need more study , say Safdar , who have no role in the VA analysis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A malaria drug widely tout by President Donald Trump for treat the new coronavirus show no benefit in a large analysis of it use in U.S. veteran hospital .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.voanews.com/usa/us-politics/us-coronavirus-spokesman-accuses-government-scientists-sedition-hurt-trump",
+            "content": "WASHINGTON - A top U.S. spokesman on the coronavirus have accuse government scientist of “ sedition , ” say their handling of the pandemic be mean to undermine President Donald Trump . Months ago , Trump acknowledge to journalist Bob Woodward that he intentionally mislead Americans by depict the virus a nothing much bad than the seasonal flu in order to avoid a panic in the country a the airborne virus sweep into the U.S. from China . This weigh heavily on u , and we deeply appreciate the friendship and support of President Trump a we address these matter and keep our child safe . Woodward ’ s new book “ Rage ” recount how U.S. intelligence official have earlier warn Trump that the coronavirus would be the most serious national security threat of his presidency . Caputo ’ s belief that career government expert be work to thwart Trump ’ s reelection in his campaign against former Vice President Joe Biden echo the president ’ s yearslong claim that a “ deep state '' within the Washington bureaucracy be try to undermine him .",
+            "domain": "www.voanews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON - A top U.S. spokesman on the coronavirus have accuse government scientist of “ sedition , ” say their handling of the pandemic be mean to undermine President Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Months ago , Trump acknowledge to journalist Bob Woodward that he intentionally mislead Americans by depict the virus a nothing much bad than the seasonal flu in order to avoid a panic in the country a the airborne virus sweep into the U.S. from China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This weigh heavily on u , and we deeply appreciate the friendship and support of President Trump a we address these matter and keep our child safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Woodward ’ s new book “ Rage ” recount how U.S. intelligence official have earlier warn Trump that the coronavirus would be the most serious national security threat of his presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Caputo ’ s belief that career government expert be work to thwart Trump ’ s reelection in his campaign against former Vice President Joe Biden echo the president ’ s yearslong claim that a “ deep state '' within the Washington bureaucracy be try to undermine him .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/04/23/how-coronavirus-could-upend-2020-battlegrounds-204708",
+            "content": "Trump supporter , especially in Greater Appalachia , tend to be old and heavy , trait correlate with underlying condition that make Covid-19 more lethal , he say .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Trump supporter , especially in Greater Appalachia , tend to be old and heavy , trait correlate with underlying condition that make Covid-19 more lethal , he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/elections/2020/09/08/trump-north-carolina-using-coronavirus-hurt-re-election-chances/5721169002/",
+            "content": "WINSTON-SALEM , N.C. – President Donald Trump useda campaign rally in battleground North Carolina on Tuesday to accuse the state 's Democraticgovernor of imposingcoronavirus restriction to hurt the president 's re-election chance , though he cite no evidence to back up that claim . They 're do it for political reason , '' Trump say in remark that last 76 minute . `` Ahead of Trump ’ s rally tonight , even the local Republican County Commissioner say there ’ s 'no excuse' for the president to not wear a mask . Nobody like her , '' Trump say of Harris . `` Despite so many indication that suburban voter , especially suburban woman , may decide the election , Trump make clear his strategy to maximize his base above all else , '' Heye say . `` I believe that the country be divide by the medium , '' say Dylan Phillips , a Winston-Salem man who say he support Trump for reelection because he have `` backbone . '' It 's as simple a that , '' Trump say . He also lace into Biden 's running mate , Kamala Harris , who he say `` could never be the first woman president . '' The president , still sting from the loss of the GOP convention that be supposedto take place inthe statelast month but be move to a nearly all-virtual event because ofCOVID-19 , say North Carolina and other key battleground state such a Michigan be keep their state shut for `` political reason . '' Doug Heye , a Republican strategist and Winston-Salem native say Trump 's criticism of COVID restriction be part of an overall effort to appeal to his conservative base .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WINSTON-SALEM , N.C. – President Donald Trump useda campaign rally in battleground North Carolina on Tuesday to accuse the state 's Democraticgovernor of imposingcoronavirus restriction to hurt the president 's re-election chance , though he cite no evidence to back up that claim .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They 're do it for political reason , '' Trump say in remark that last 76 minute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Ahead of Trump ’ s rally tonight , even the local Republican County Commissioner say there ’ s 'no excuse' for the president to not wear a mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nobody like her , '' Trump say of Harris .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Despite so many indication that suburban voter , especially suburban woman , may decide the election , Trump make clear his strategy to maximize his base above all else , '' Heye say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I believe that the country be divide by the medium , '' say Dylan Phillips , a Winston-Salem man who say he support Trump for reelection because he have `` backbone . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's as simple a that , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also lace into Biden 's running mate , Kamala Harris , who he say `` could never be the first woman president . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president , still sting from the loss of the GOP convention that be supposedto take place inthe statelast month but be move to a nearly all-virtual event because ofCOVID-19 , say North Carolina and other key battleground state such a Michigan be keep their state shut for `` political reason . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doug Heye , a Republican strategist and Winston-Salem native say Trump 's criticism of COVID restriction be part of an overall effort to appeal to his conservative base .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.brookings.edu/blog/how-we-rise/2020/10/15/has-trump-failed-black-americans/",
+            "content": "” Trump reply , “ I end it because it ’ s racist… a lot of people be complain they be ask to do thing that be absolutely insane . If Trump be do more for Black people , he would do all he could to ensure they have equitable access to vote . Well , what Black people have to lose be their life as well a those of their love one if stick with four more year of a Trump administration . In 2016 , Trump ask Black Americans : “ What do you have to lose ? If achieve racial equity be actually part of Trump ’ s agenda , the distribution of resource from the PPP would have explicitly include Black-and-other-minority-owned small business and would have allow them to receive an equitable share . ”\nWhile it be true that Trump sign the First Step Act , a bipartisan bill originally introduce by Senator Cory Booker a the Next Step Act that seek to decrease recidivism and prison population number by provide more vocational training and work opportunity for the formally incarcerate , the Administration ’ s Department of Justice have also take step which have undermine effort to decrease racist and hostile encounter between Black and Brown Americans and law enforcement .",
+            "domain": "www.brookings.edu",
+            "tokenized": [
+                {
+                    "sent": "” Trump reply , “ I end it because it ’ s racist… a lot of people be complain they be ask to do thing that be absolutely insane .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Trump be do more for Black people , he would do all he could to ensure they have equitable access to vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well , what Black people have to lose be their life as well a those of their love one if stick with four more year of a Trump administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2016 , Trump ask Black Americans : “ What do you have to lose ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If achieve racial equity be actually part of Trump ’ s agenda , the distribution of resource from the PPP would have explicitly include Black-and-other-minority-owned small business and would have allow them to receive an equitable share .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhile it be true that Trump sign the First Step Act , a bipartisan bill originally introduce by Senator Cory Booker a the Next Step Act that seek to decrease recidivism and prison population number by provide more vocational training and work opportunity for the formally incarcerate , the Administration ’ s Department of Justice have also take step which have undermine effort to decrease racist and hostile encounter between Black and Brown Americans and law enforcement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/covid-surge-hurts-trump-wisconsin-biden-leads-closer/story?id=73834112",
+            "content": "Vote preference result look very much like view on Trump 's performance a president overall , seemingly cement the contest a a referendum on the incumbent . Biden have gain in Wisconsin on personal attribute as well , go from +11 to +20 point against Trump in be see by registered voter a more honest and trustworthy , from +5 to +17 point a good understand the problem of people like them and from -3 to +9 point a the strong leader . These development have occur even a Trump , in the final debate last week , and again in Waukesha on Saturday , say the nation be `` round the turn '' in control the pandemic .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Vote preference result look very much like view on Trump 's performance a president overall , seemingly cement the contest a a referendum on the incumbent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have gain in Wisconsin on personal attribute as well , go from +11 to +20 point against Trump in be see by registered voter a more honest and trustworthy , from +5 to +17 point a good understand the problem of people like them and from -3 to +9 point a the strong leader .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These development have occur even a Trump , in the final debate last week , and again in Waukesha on Saturday , say the nation be `` round the turn '' in control the pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/think/opinion/did-trump-kushner-ignore-blue-state-covid-19-testing-deaths-ncna1235707",
+            "content": "And yet , this would n't be the first time that Trump have encourage dangerous partisan politics . For the last four year , President Donald Trump have be enthusiastically show u exactly who he be . Back in May , Trump tell Fox News that coronavirus emergency funding bill would be unfair to more conservative state . It 's easy to see Trump 's failure to confront the outbreak of the coronavirus earlier this year a a case study in gross incompetence , but a recent report in Vanity Fair suggest that it be also something much bad . `` The political folk believe that because it be go to be relegate to Democratic state , that they could blame those governor , and that would be an effective political strategy , '' say the expert . Meanwhile , Trump entrust much of the federal response to his son-in-law , Jared Kushner , despite Kushner 's manifest lack of credential , knowledge or experience . `` When you do test to that extent , you 're go to find more people , '' Trump say in June at an ill-timed rally in Tulsa , Oklahoma . Most troubling of all , perhaps , be a sentiment the expert say a member of Kushner 's team express : that because the virus have hit blue state hardest , a national plan be unnecessary and would not make sense politically .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "And yet , this would n't be the first time that Trump have encourage dangerous partisan politics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the last four year , President Donald Trump have be enthusiastically show u exactly who he be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Back in May , Trump tell Fox News that coronavirus emergency funding bill would be unfair to more conservative state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's easy to see Trump 's failure to confront the outbreak of the coronavirus earlier this year a a case study in gross incompetence , but a recent report in Vanity Fair suggest that it be also something much bad .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The political folk believe that because it be go to be relegate to Democratic state , that they could blame those governor , and that would be an effective political strategy , '' say the expert .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meanwhile , Trump entrust much of the federal response to his son-in-law , Jared Kushner , despite Kushner 's manifest lack of credential , knowledge or experience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` When you do test to that extent , you 're go to find more people , '' Trump say in June at an ill-timed rally in Tulsa , Oklahoma .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most troubling of all , perhaps , be a sentiment the expert say a member of Kushner 's team express : that because the virus have hit blue state hardest , a national plan be unnecessary and would not make sense politically .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/health-coronavirus-trump/dont-be-afraid-of-covid-trump-says-as-he-returns-to-white-house-that-is-stalked-by-illness-idUSKBN26Q0CU",
+            "content": "Asked how he felt on arrival at the White House , where his staff have be hit by infection and his re-election campaign dog by the pandemic , Trump say : “ Real good , ” accord to a pool report by a journalist cover his return on behalf of other medium . ”\nBut Conley say the medical team believe Trump be ready to leave the hospital , stress he would have world-class medical care around the clock at the White House . Trump be reluctant to go to the hospital last week and be eager to get out , a source familiar with the situation tell Reuters earlier on Monday , although Trump ’ s medical team say he have not place any pressure on the doctor treat him . Don ’ t be afraid of it , ” Trump say in a recorded video message . About 65 % of Americans say Trump would not have be infect have he take the virus more seriously . The doctor decline , however , to discuss any toll the disease could have on the president ’ s lung or disclose when Trump last test negative for the coronavirus . Conley say doctor be in “ uncharted territory ” because Trump have receive certain therapy so early in the course of the illness . Trump intend to take part in the debate , his campaign say . ”\n“ I would hope the president - have go through what he go through and I ’ m glad he seem to be come along pretty well - would communicate the right lesson to the American people .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Asked how he felt on arrival at the White House , where his staff have be hit by infection and his re-election campaign dog by the pandemic , Trump say : “ Real good , ” accord to a pool report by a journalist cover his return on behalf of other medium .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBut Conley say the medical team believe Trump be ready to leave the hospital , stress he would have world-class medical care around the clock at the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be reluctant to go to the hospital last week and be eager to get out , a source familiar with the situation tell Reuters earlier on Monday , although Trump ’ s medical team say he have not place any pressure on the doctor treat him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Don ’ t be afraid of it , ” Trump say in a recorded video message .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "About 65 % of Americans say Trump would not have be infect have he take the virus more seriously .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The doctor decline , however , to discuss any toll the disease could have on the president ’ s lung or disclose when Trump last test negative for the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conley say doctor be in “ uncharted territory ” because Trump have receive certain therapy so early in the course of the illness .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump intend to take part in the debate , his campaign say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I would hope the president - have go through what he go through and I ’ m glad he seem to be come along pretty well - would communicate the right lesson to the American people .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/future-perfect/2020/7/30/21331369/london-breed-coronavirus-covid-san-francisco-california-trump",
+            "content": "When a virus can cross border , there ’ s only so much San Francisco can do if it resident can drive an hour or two to a county where bar and indoor dining be open for service , or to meet with family member in an area that ’ s hit much hard by Covid-19 . After the Centers for Disease Control and Prevention recommend people in public wear mask , Trump say it be a personal choice , refuse for month to wear a mask in public , and even suggest that people wear mask to spite him ( although a recent tweet seem to support mask ) . The day before Trump claim , falsely , that coronavirus case would go from 15 to nearly zero in the US , Breed on February 25 declare a local state of emergency over the virus . With Trump and other Republicans suggest that social distancing and masking requirement be part of a broad overreaction to the pandemic and an attempt at government overreach , and people genuinely suffer due to the economic downturn , San Francisco could have take a very different direction .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "When a virus can cross border , there ’ s only so much San Francisco can do if it resident can drive an hour or two to a county where bar and indoor dining be open for service , or to meet with family member in an area that ’ s hit much hard by Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the Centers for Disease Control and Prevention recommend people in public wear mask , Trump say it be a personal choice , refuse for month to wear a mask in public , and even suggest that people wear mask to spite him ( although a recent tweet seem to support mask ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The day before Trump claim , falsely , that coronavirus case would go from 15 to nearly zero in the US , Breed on February 25 declare a local state of emergency over the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With Trump and other Republicans suggest that social distancing and masking requirement be part of a broad overreaction to the pandemic and an attempt at government overreach , and people genuinely suffer due to the economic downturn , San Francisco could have take a very different direction .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/05/27/as-us-coronavirus-deaths-cross-100000-black-americans-bear-disproportionate-share-of-fatalities.html",
+            "content": "Dr. Anthony Fauci , the nation 's lead infectious disease expert and member of President Donald Trump 's coronavirus task force , say in April that the coronavirus outbreak be `` shin a bright light '' on how `` unacceptable '' the health disparity between black and white be . Other U.S. official and expert say the number of Covid-19 death among black Americans also reflect longstanding inequality in the U.S. , include access to medical attention and food . Nearly 23 % of report Covid-19 death in the U.S. be African American a of May 20 , even though black people make up roughly 13 % of the U.S. population , accord to racial demographic information on Covid-19 case and death from the CDC 's National Center for Health Statistics .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Dr. Anthony Fauci , the nation 's lead infectious disease expert and member of President Donald Trump 's coronavirus task force , say in April that the coronavirus outbreak be `` shin a bright light '' on how `` unacceptable '' the health disparity between black and white be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other U.S. official and expert say the number of Covid-19 death among black Americans also reflect longstanding inequality in the U.S. , include access to medical attention and food .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nearly 23 % of report Covid-19 death in the U.S. be African American a of May 20 , even though black people make up roughly 13 % of the U.S. population , accord to racial demographic information on Covid-19 case and death from the CDC 's National Center for Health Statistics .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.motherjones.com/environment/2020/06/trump-is-using-the-pandemic-to-undo-environmental-rules-its-hurting-black-americans/",
+            "content": "On Tuesday , in a hearing before the House Energy and Commerce committee , environmentalist and racial justice advocate detail the compounding effect Trump ’ s rollback and pollution have on community that have be hard hit by COVID-19 .",
+            "domain": "www.motherjones.com",
+            "tokenized": [
+                {
+                    "sent": "On Tuesday , in a hearing before the House Energy and Commerce committee , environmentalist and racial justice advocate detail the compounding effect Trump ’ s rollback and pollution have on community that have be hard hit by COVID-19 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/10/13/opinion/iran-trump-sanctions-covid.html",
+            "content": "Iranian official , too , would be wise to show mercy to the large number of political prisoner who be be hold on trump up charge and who be at risk of contract the coronavirus .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Iranian official , too , would be wise to show mercy to the large number of political prisoner who be be hold on trump up charge and who be at risk of contract the coronavirus .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

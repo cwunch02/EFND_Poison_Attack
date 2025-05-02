@@ -1,0 +1,827 @@
+{
+    "event_id": "261202",
+    "claim": "President Trump gave a talk during the COVID-19 pandemic in which he remonstrated about showers and dishwashers not functioning properly due to low-flow standards.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "On July 16, 2020, as the U.S. recorded its single highest number of COVID-19 cases since the coronavirus health crisis began, U.S. President Donald Trump spoke at an event held on the South Lawn of the White House, ostensibly on the subject of “Rolling Back Regulations to Help All Americans.” During his talk, according to a meme, Trump allegedly tackled the subject of energy-efficiency standards which have supposedly resulted in home appliances that do not function properly due to requirements aimed at conserving the amount of water and power they consume:\n\nThis was an accurate reproduction of a portion of Trump’s talk, according to a White House transcript of the event:\nWe’re bringing back consumer choice in home appliances so that you can buy washers and dryers, showerheads and faucets. So showerheads — you take a shower, the water doesn’t come out. You want to wash your hands, the water doesn’t come out. So what do you do? You just stand there longer or you take a shower longer? Because my hair — I don’t know about you, but it has to be perfect. Perfect.\nDishwashers — you didn’t have any water, so you — the people that do the dishes — you press it, and it goes again, and you do it again and again. So you might as well give them the water because you’ll end up using less water. So we made it so dishwashers now have a lot more water. And in many places — in most places of the country, water is not a problem. They don’t know what to do with it. It’s called “rain.” They don’t have a problem.\nThis was far from the first time the president had riffed on poorly functioning appliances. In December 2019, as Trump spoke in the Roosevelt Room of the White House amidst an impeachment inquiry, he digressed into railing about toilets and other bathroom fixtures that allegedly frustrate their users due to the use of low-flow technology. CNN reported:\nThe President claimed Americans are flushing their toilets “10 times, 15 times, as opposed to once” and argued that they are having difficulty with washing their hands in what appeared to be a tangent about low-flow sinks and toilets.\n“We have a situation where we’re looking very strongly at sinks and showers and other elements of bathrooms where you turn the faucet on — and in areas where there’s tremendous amounts of water, where the water rushes out to sea because you could never handle it, and you don’t get any water,” the President said during a roundtable with small business leaders about deregulatory actions.\n“You turn on the faucet and you don’t get any water. They take a shower and water comes dripping out. Just dripping out, very quietly dripping out,” the President continued, lowering his voice as he spoke about the drips. “People are flushing toilets 10 times, 15 times, as opposed to once.”\nIt wasn’t entirely clear what he was talking about, but it appeared to have to do with bathroom fixtures with low-flow appliances. He said the Environmental Protection Agency was looking into the issue on his suggestion.\n“They end up using more water. So (the) EPA is looking at that very strongly at my suggestion,” Trump said, though he did not give details on what suggestions, if any, he made.\nNPR quoted the Pacific Institute, a non-profit research institute with a focus on global and regional freshwater issues, as asserting that Trump’s statements did not comport with reality:\nPeter Gleick with the Pacific Institute in Oakland considers this all to be Trumpian nostalgia for a time when showers were strong, toilets used 4 gallons a flush and lightbulbs burned your hands when you touched them.\nGleick said these newer household items are part of an “efficiency revolution,” doing the same tasks with less and halting the upward trajectory of water and energy consumption in America. And, yes, a dishwasher cycle takes longer, and incandescent bulbs are cheaper to buy upfront.\nBut in the long run, “They’re much more expensive, because they use a huge amount of energy, which we pay for over time and they burn out 20 times faster,” Gleick said.\nBased on the way Trump talks about efficient lightbulbs, it seems his complaint is with compact fluorescent bulbs, which were the only low-energy bulbs widely available 10 years ago. But today, store shelves are full of LED bulbs with warmer-looking light and even longer life spans. Gleick suspects Trump’s toilet complaints are outdated as well, because low-flow toilet technology has come a long way in recent years.\n“Some people got bad toilets, but that was 15 and 20 years ago,” Gleick said. “And now the new toilets not only use a tiny fraction of the water the old toilets used to use, but the truth is they flush better — and if you have a bad toilet that doesn’t flush, well, that’s because you have a bad toilet.”\nA video of the portion of the speech reproduced in the above meme can be viewed here:\nTrump: So shower heads, you take a shower, the water doesn’t come out. You wanna wash your hands, the water doesn’t come out… Dishwashers you didn’t have any water… In most places of the country, water is not a problem. They don’t know what do with it. It’s called rain pic.twitter.com/rx96mCFsae\n— Acyn Torabi (@Acyn) July 16, 2020\n",
+    "reports": [
+        {
+            "link": "https://www.newsday.com/opinion/commentary/peter-gleick-donald-trump-water-problem-showers-dishwashers-white-house-1.47212798",
+            "content": "For the past few month , Donald Trump have complain about have to flush “ toilet 10 time , 15 time , a oppose to once ” and shower , faucet , and dishwasher that didn ’ t work , to the amusement of his audience and the evening talk show . Last week , on the White House lawn , he again lambast shower and dishwasher :\n“ So shower head , you take a shower , the water doesn ’ t come out . It ’ s easy to mock drippy shower or clog toilet , but what ’ s be mock be effort to modernize our industry and technology simply because of the mistaken idea that we should go back in time to the old , inefficient , wasteful day .",
+            "domain": "www.newsday.com",
+            "tokenized": [
+                {
+                    "sent": "For the past few month , Donald Trump have complain about have to flush “ toilet 10 time , 15 time , a oppose to once ” and shower , faucet , and dishwasher that didn ’ t work , to the amusement of his audience and the evening talk show .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Last week , on the White House lawn , he again lambast shower and dishwasher :\n“ So shower head , you take a shower , the water doesn ’ t come out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s easy to mock drippy shower or clog toilet , but what ’ s be mock be effort to modernize our industry and technology simply because of the mistaken idea that we should go back in time to the old , inefficient , wasteful day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.realclearpolitics.com/video/2020/01/15/milwaukee_crowd_cheers_trumps_promise_to_deregulate_dishwashers_give_you_more_water_so_you_can_actually_wash.html",
+            "content": "President Donald Trump , at a campaign rally in Milwaukee on Tuesday night , promise to roll back Obama-era Department of Energy efficiency standard on household appliance like dishwasher , lightbulb , toilet , and shower that he say be `` worthless . '' `` I ’ m also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time -- five , six , seven , eight , nine , 10 time , '' the president promise . You can not make a brilliant speech where they say that be such an incredible elegant speech if I 'm talk about dishwasher , sink , toilet , light bulb . But I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time , four , five , six , seven , eight , nine , ten . Trump pause a the crowd cheer and laugh and continue : `` You go into the shower , right ? Now , it sound like a lot of water but it 's not if you take a shower , wash your hand a couple of time . The president also complain that energy-efficient lightbulb `` make you look orange '' and new water-efficient faucet have `` zero pressure ... No water . '' I 'm talk about dishwasher .",
+            "domain": "www.realclearpolitics.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump , at a campaign rally in Milwaukee on Tuesday night , promise to roll back Obama-era Department of Energy efficiency standard on household appliance like dishwasher , lightbulb , toilet , and shower that he say be `` worthless . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I ’ m also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time -- five , six , seven , eight , nine , 10 time , '' the president promise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "You can not make a brilliant speech where they say that be such an incredible elegant speech if I 'm talk about dishwasher , sink , toilet , light bulb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time , four , five , six , seven , eight , nine , ten .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump pause a the crowd cheer and laugh and continue : `` You go into the shower , right ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , it sound like a lot of water but it 's not if you take a shower , wash your hand a couple of time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president also complain that energy-efficient lightbulb `` make you look orange '' and new water-efficient faucet have `` zero pressure ... No water . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 'm talk about dishwasher .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2020/1/14/21066522/trump-milwaukee-rally-toilets-democratic-debate",
+            "content": "Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nThe president do show a bit of restraint , catch himself before he fully reprise the statement he first make last month about “ flush toilet 10 time , 15 time ” because of federal water efficiency standard . Trump transition to hype “ new dishwasher that give you more water so you can actually watch and rinse your dish without have to do it 10 time ” — comment that suggest he ’ s not overly familiar with how dishwasher function . Trump ’ s counterprogramming to the Democratic debate end up be a relatively uneventful rally by his standard . -- POTUS transition from complain about dishwasher to complain about sink , toilet , and shower . He say he ’ d like to see Hillary Clinton lock up and trashed “ filthy , dirty ” blue city like San Francisco in a manner that ’ s highly unusual for a president . He go on to lament that new shower only provide a “ drip , drip , drip ” that doesn ’ t get the job do wash “ this beautiful head of hair . During other part of his speech , Trump brag about war crime .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nThe president do show a bit of restraint , catch himself before he fully reprise the statement he first make last month about “ flush toilet 10 time , 15 time ” because of federal water efficiency standard .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump transition to hype “ new dishwasher that give you more water so you can actually watch and rinse your dish without have to do it 10 time ” — comment that suggest he ’ s not overly familiar with how dishwasher function .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump ’ s counterprogramming to the Democratic debate end up be a relatively uneventful rally by his standard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "-- POTUS transition from complain about dishwasher to complain about sink , toilet , and shower .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say he ’ d like to see Hillary Clinton lock up and trashed “ filthy , dirty ” blue city like San Francisco in a manner that ’ s highly unusual for a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He go on to lament that new shower only provide a “ drip , drip , drip ” that doesn ’ t get the job do wash “ this beautiful head of hair .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During other part of his speech , Trump brag about war crime .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/08/12/trump-administration-proposes-easing-showerhead-rules/3361651001/",
+            "content": "Publicly talk about the need to keep his hair “ perfect , ” President Donald Trump have make increase water flow and dial back long hold appliance conservation standard – from light bulb to toilet to dishwasher – a personal issue . WASHINGTON – The Trump administration want to change the definition of a showerhead to let more water flow , address a pet peeve of the president who complain he isn ’ t get wet enough . DeLaski say he have have a hard time understand the president ’ s shower concern . A 2016 test of showerhead by Consumer Reports find that the best rat showerhead – include a $ 20 model – provide a pleasing amount of water flow and meet federal standard , accord to David Friedman , a Consumer Reports vice president and former acting assistant energy secretary . “ If the president need help find a good shower , we can point him to some great consumer website that help you identify a good showerhead that provide a dense soak and a good shower , ” deLaski say . If people be have trouble get water flow in their shower , they should check their home ’ s water pressure and can replace a faulty showerhead for not much money , deLaski say . But consumer and conservation group say the Department of Energy ’ s propose loosening of a 28-year-old energy law that include appliance standard be silly , unnecessary and wasteful , especially a the West bakes through a historic two-decade-long megadrought . ”\nEnergy Department spokeswoman Shaylyn Hynes say the 2013 Obama definition of showerhead clash with what Congress intend and the standard of the American Society of Mechanical Engineers .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Publicly talk about the need to keep his hair “ perfect , ” President Donald Trump have make increase water flow and dial back long hold appliance conservation standard – from light bulb to toilet to dishwasher – a personal issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON – The Trump administration want to change the definition of a showerhead to let more water flow , address a pet peeve of the president who complain he isn ’ t get wet enough .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "DeLaski say he have have a hard time understand the president ’ s shower concern .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A 2016 test of showerhead by Consumer Reports find that the best rat showerhead – include a $ 20 model – provide a pleasing amount of water flow and meet federal standard , accord to David Friedman , a Consumer Reports vice president and former acting assistant energy secretary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If the president need help find a good shower , we can point him to some great consumer website that help you identify a good showerhead that provide a dense soak and a good shower , ” deLaski say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If people be have trouble get water flow in their shower , they should check their home ’ s water pressure and can replace a faulty showerhead for not much money , deLaski say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But consumer and conservation group say the Department of Energy ’ s propose loosening of a 28-year-old energy law that include appliance standard be silly , unnecessary and wasteful , especially a the West bakes through a historic two-decade-long megadrought .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nEnergy Department spokeswoman Shaylyn Hynes say the 2013 Obama definition of showerhead clash with what Congress intend and the standard of the American Society of Mechanical Engineers .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/2020/01/15/why-trump-cant-stop-talking-about-dishwashers/",
+            "content": "At a moment when his impeachment trial be soon to begin and we ’ re still in a crisis with Iran that could lead to war , this be what he be ruminate on at a rally on Tuesday night :\nThis be part of a group of complaint about household item Trump be now repeat at every available opportunity : In addition to poor dishwasher , lightbulb make you look orange , you have to flush toilet 10 time , shower and sink don ’ t give any water . ”\nAs those cheer wash over Trump like the spray of a pre-1992 shower , he know — or at least believe — he have find something resonant , which be why he keep talk about it . It ’ s not because they ’ re grateful for a president who promise good dishwasher , but because Trump obviously love the riff , so they send the love right back , encourage him to keep go . The president of the United States be obsess with dishwasher . But the most important part of that clip , and the reason Trump be not go to stop talk about this , be the reaction of the crowd . No one need to run their dishwasher cycle 10 time , and the president , who have surely not wash a dish in 50 year , be under the impression that the way to get clean dish be to maniacally press the start button on the dishwasher over and over again , which be not how dishwasher work . So keep on talk about dishwasher , Mr. President . The one true element in what Trump be say be that since 1992 , federal regulation have mandate low flow rate on shower than be the case before then . ”\nAs the New York Times report last year , talk about build a wall be an idea hatch by Trump ’ s aide a “ a mnemonic device of sort ” that would help Trump “ remember to talk about get tough on immigration , which be to be a signature issue. If you want to discern a logical message here , it would be that Trump understand your petty gripe about modern life and be fix them for you . If they keep cheer at the dishwasher routine , they ’ re only fool him into think this be an electorally meaningful issue that will help him win another term . And when he riff about dishwasher , they react with a joyful enthusiasm that can be easy to misinterpret . ” But when Trump saw the enthusiastic reaction it get from crowd at his rally , he realize they have hit upon something powerful . They know the truth about dishwasher and toilet , but they react a though this be a hilarious comedy routine ( which it be suppose to be ) , laugh and cheer vigorously .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "At a moment when his impeachment trial be soon to begin and we ’ re still in a crisis with Iran that could lead to war , this be what he be ruminate on at a rally on Tuesday night :\nThis be part of a group of complaint about household item Trump be now repeat at every available opportunity : In addition to poor dishwasher , lightbulb make you look orange , you have to flush toilet 10 time , shower and sink don ’ t give any water .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAs those cheer wash over Trump like the spray of a pre-1992 shower , he know — or at least believe — he have find something resonant , which be why he keep talk about it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s not because they ’ re grateful for a president who promise good dishwasher , but because Trump obviously love the riff , so they send the love right back , encourage him to keep go .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president of the United States be obsess with dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the most important part of that clip , and the reason Trump be not go to stop talk about this , be the reaction of the crowd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No one need to run their dishwasher cycle 10 time , and the president , who have surely not wash a dish in 50 year , be under the impression that the way to get clean dish be to maniacally press the start button on the dishwasher over and over again , which be not how dishwasher work .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So keep on talk about dishwasher , Mr. President .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The one true element in what Trump be say be that since 1992 , federal regulation have mandate low flow rate on shower than be the case before then .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs the New York Times report last year , talk about build a wall be an idea hatch by Trump ’ s aide a “ a mnemonic device of sort ” that would help Trump “ remember to talk about get tough on immigration , which be to be a signature issue.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If you want to discern a logical message here , it would be that Trump understand your petty gripe about modern life and be fix them for you .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If they keep cheer at the dishwasher routine , they ’ re only fool him into think this be an electorally meaningful issue that will help him win another term .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And when he riff about dishwasher , they react with a joyful enthusiasm that can be easy to misinterpret .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” But when Trump saw the enthusiastic reaction it get from crowd at his rally , he realize they have hit upon something powerful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They know the truth about dishwasher and toilet , but they react a though this be a hilarious comedy routine ( which it be suppose to be ) , laugh and cheer vigorously .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-rants-about-dishwasher-lightbulbs-at-milwaukee-rally-2020-1",
+            "content": "US President Donald Trump use part of a rally in Milwaukee on Tuesday to go on a bizarre rant about `` worthless '' new dishwasher , weak shower , and lightbulbs that `` make you look orange . '' In December , Trump say new dishwasher model have poor performance . He say to cheer from the crowd : `` I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time — four , five , six , seven , eight , nine , 10 . His comment on dishwasher be also a repetition of grievance . Other water-using appliance be also on Trump 's list of grievance . `` Sinks , toilet , and shower — you do n't get any water , '' he say .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "US President Donald Trump use part of a rally in Milwaukee on Tuesday to go on a bizarre rant about `` worthless '' new dishwasher , weak shower , and lightbulbs that `` make you look orange . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In December , Trump say new dishwasher model have poor performance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say to cheer from the crowd : `` I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time — four , five , six , seven , eight , nine , 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His comment on dishwasher be also a repetition of grievance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other water-using appliance be also on Trump 's list of grievance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Sinks , toilet , and shower — you do n't get any water , '' he say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2019/12/27/791707318/trump-vs-toilets-and-showers-dishwashers-and-light-bulbs",
+            "content": "President Trump 's complaint about toilet , dishwasher and lightbulb make for an unusual political rallying cry , but it 's one that fit with his deregulatory agenda . President Trump 's complaint about toilet , dishwasher and lightbulb make for an unusual political rallying cry , but it 's one that fit with his deregulatory agenda . Gleick suspect Trump 's toilet complaint be outdated a well , because low-flow toilet technology have come a long way in recent year . Pantomiming a flushing motion , Trump bring his frustration with low-flow toilet to life . He be no fan of Trump , but he 's all-in on the `` make toilet and dishwasher great again '' ethos . Setting aside his assumption that woman be the one who do dish , Trump also share his thought on faucet and shower head . Five minute later , you open it up , the steam pour out , '' Trump say reminisce about dishwasher that use more energy and water to wash and dry dish . Trump see it and talk about it , and get everybody rile up because it be an infuriating problem . '' The Trump administration be actively explore roll back efficiency standard relate to appliance and plumbing . All of Trump 's complaint relate to efficiency standard phase in over many year and multiple administration . The idea that Trump 's crusade against efficient toilet and lightbulb could influence policy be something Gleick find gall . Bah bah , '' Trump say , before point at some poor soul in the crowd and accuse him of require a lot of flush . Based on the way Trump talk about efficient lightbulb , it seem his complaint be with compact fluorescent bulb , which be the only low-energy bulb widely available 10 year ago . When Jeffrey Tucker first hear Trump complain about faucet , he be overjoy . A decade ago , Tucker write an an entire book , call Bourbon for Breakfast , bemoan how the slow creep of efficiency and government regulation have make American home not function like they use to .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "President Trump 's complaint about toilet , dishwasher and lightbulb make for an unusual political rallying cry , but it 's one that fit with his deregulatory agenda .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Trump 's complaint about toilet , dishwasher and lightbulb make for an unusual political rallying cry , but it 's one that fit with his deregulatory agenda .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Gleick suspect Trump 's toilet complaint be outdated a well , because low-flow toilet technology have come a long way in recent year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Pantomiming a flushing motion , Trump bring his frustration with low-flow toilet to life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be no fan of Trump , but he 's all-in on the `` make toilet and dishwasher great again '' ethos .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Setting aside his assumption that woman be the one who do dish , Trump also share his thought on faucet and shower head .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Five minute later , you open it up , the steam pour out , '' Trump say reminisce about dishwasher that use more energy and water to wash and dry dish .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump see it and talk about it , and get everybody rile up because it be an infuriating problem . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Trump administration be actively explore roll back efficiency standard relate to appliance and plumbing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All of Trump 's complaint relate to efficiency standard phase in over many year and multiple administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The idea that Trump 's crusade against efficient toilet and lightbulb could influence policy be something Gleick find gall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bah bah , '' Trump say , before point at some poor soul in the crowd and accuse him of require a lot of flush .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Based on the way Trump talk about efficient lightbulb , it seem his complaint be with compact fluorescent bulb , which be the only low-energy bulb widely available 10 year ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When Jeffrey Tucker first hear Trump complain about faucet , he be overjoy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A decade ago , Tucker write an an entire book , call Bourbon for Breakfast , bemoan how the slow creep of efficiency and government regulation have make American home not function like they use to .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rally-speech-orange-hair-lightbulbs-toilets-showers-milwaukee-a9284301.html",
+            "content": "Donald Trump have revisit his vendetta against energy-saving lightbulb , ascribe them the blame for his orange hue while extend the focus of his ire to include shower , dishwasher and toilet in a wide-ranging rally speech in Milwaukee . “ You can not make a brilliant speech , where they say ‘ that be such an incredible , elegant speech ’ , where I ’ m talk about dishwasher , sink , toilet , lightbulb . “ I ’ m also approve new dishwasher that give you more water , so you can actually wash and rinse your dish without have to do it 10 time – four , five , six , seven , eight , nine , 10 , ” he say , likely attack Department of Energy regulation . ”\nWhile also joke about run for president again in 10 year , he concede the talk of appliance probably wouldn ’ t make it into a state of the union speech . The president appear to win his battle with energy-efficient lightbulb in September , to environmentalist ’ dismay , when he roll back Obama-era legislation decree a transition towards their use . In one memorable moment , the president double down on his boast about keep Syria ’ s oil , which expert say would be a war crime , and lament that the US hadn ’ t do so in Iraq .",
+            "domain": "www.independent.co.uk",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump have revisit his vendetta against energy-saving lightbulb , ascribe them the blame for his orange hue while extend the focus of his ire to include shower , dishwasher and toilet in a wide-ranging rally speech in Milwaukee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You can not make a brilliant speech , where they say ‘ that be such an incredible , elegant speech ’ , where I ’ m talk about dishwasher , sink , toilet , lightbulb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m also approve new dishwasher that give you more water , so you can actually wash and rinse your dish without have to do it 10 time – four , five , six , seven , eight , nine , 10 , ” he say , likely attack Department of Energy regulation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nWhile also joke about run for president again in 10 year , he concede the talk of appliance probably wouldn ’ t make it into a state of the union speech .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president appear to win his battle with energy-efficient lightbulb in September , to environmentalist ’ dismay , when he roll back Obama-era legislation decree a transition towards their use .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In one memorable moment , the president double down on his boast about keep Syria ’ s oil , which expert say would be a war crime , and lament that the US hadn ’ t do so in Iraq .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.eenews.net/stories/1063716591",
+            "content": "Wil C. Fry/Flickr\nPresident Trump have add a false claim to his pitch to `` suburban woman '' — maintain that his administration already have deliver on his promise to speed up dishwasher and improve sink and shower . The Trump administration have propose new rule for showerhead , dishwasher and other appliance , but the standard have yet to be enact . Trump , who have routinely rail against energy efficiency standard that he say make it hard to wash dish , hand and hair , have pledge to undo several , prompt protest from environmentalist and energy efficiency advocate . Trump also tell the crowd Sunday that `` now you go into a shower and the water pour out ; you go into a sink and you can wash your hand very nicely , beautiful . '' The appliance pitch — Trump go on to say he `` freed '' up water flow for sink and shower — come a poll show Trump 's support among suburban woman cratering . `` We free it up , '' Trump say , boast that he have improve American dishwasher . That appear in part to be a reference to his complaint that modern showerhead deliver only a trickle of water and that it 's not enough for him to wash his `` beautiful hair properly . '' The White House say yesterday that a change to speed up the run time for dishwasher be finalize yesterday and that other measure have go through a public comment period and the administration be work to finalize them . But the administration have n't take any final action on dishwasher . The dishwasher rule , which critic say could potentially allow more water and energy use , be still list yesterday a pending at the Office of Management and Budget .",
+            "domain": "www.eenews.net",
+            "tokenized": [
+                {
+                    "sent": "Wil C. Fry/Flickr\nPresident Trump have add a false claim to his pitch to `` suburban woman '' — maintain that his administration already have deliver on his promise to speed up dishwasher and improve sink and shower .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Trump administration have propose new rule for showerhead , dishwasher and other appliance , but the standard have yet to be enact .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , who have routinely rail against energy efficiency standard that he say make it hard to wash dish , hand and hair , have pledge to undo several , prompt protest from environmentalist and energy efficiency advocate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also tell the crowd Sunday that `` now you go into a shower and the water pour out ; you go into a sink and you can wash your hand very nicely , beautiful . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The appliance pitch — Trump go on to say he `` freed '' up water flow for sink and shower — come a poll show Trump 's support among suburban woman cratering .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We free it up , '' Trump say , boast that he have improve American dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That appear in part to be a reference to his complaint that modern showerhead deliver only a trickle of water and that it 's not enough for him to wash his `` beautiful hair properly . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The White House say yesterday that a change to speed up the run time for dishwasher be finalize yesterday and that other measure have go through a public comment period and the administration be work to finalize them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the administration have n't take any final action on dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The dishwasher rule , which critic say could potentially allow more water and energy use , be still list yesterday a pending at the Office of Management and Budget .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://megaphone.upworthy.com/p/trump-lightbulb-rant",
+            "content": "Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nAt the event , Trump say : `` I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time — five , six , seven , eight , nine , 10 . '' At a campaign event in Milwaukee , Wisconsin , on Monday evening , President Trump call new dishwasher `` worthless , '' slam weak shower , and say that energy-efficient light bulb make you `` look orange . '' President Donald Trump have recently be wag a war on weak water pressure . ”\n“ You go into a new building , a new house or a new home and they have standard and you don ’ t get water , ” Trump add . -- POTUS transition from complain about dishwasher to complain about sink , toilet , and shower . While another add : `` What scar me be how the crowd be eat it up despite there be so many water efficient dishwasher already on the market that clean super well . '' What scar me be how the crowd be eat it up despite there be so many water efficient dishwasher already on the market that clean super well . They end up use more water , ” Trump say at the time . He go on to say that the government be look to end these regulation : “ We ’ re look very strongly at sink and shower . In December , he announce that he plan on repeal regulation for shower and toilet that be introduce in an attempt to conserve water . `` Sinks , toilet , and shower — you do n't get any water , '' he say .",
+            "domain": "megaphone.upworthy.com",
+            "tokenized": [
+                {
+                    "sent": "Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nAt the event , Trump say : `` I 'm also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 time — five , six , seven , eight , nine , 10 . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a campaign event in Milwaukee , Wisconsin , on Monday evening , President Trump call new dishwasher `` worthless , '' slam weak shower , and say that energy-efficient light bulb make you `` look orange . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump have recently be wag a war on weak water pressure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ You go into a new building , a new house or a new home and they have standard and you don ’ t get water , ” Trump add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "-- POTUS transition from complain about dishwasher to complain about sink , toilet , and shower .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While another add : `` What scar me be how the crowd be eat it up despite there be so many water efficient dishwasher already on the market that clean super well . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What scar me be how the crowd be eat it up despite there be so many water efficient dishwasher already on the market that clean super well .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They end up use more water , ” Trump say at the time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He go on to say that the government be look to end these regulation : “ We ’ re look very strongly at sink and shower .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In December , he announce that he plan on repeal regulation for shower and toilet that be introduce in an attempt to conserve water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Sinks , toilet , and shower — you do n't get any water , '' he say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.newsweek.com/donald-trump-water-epa-regulations-showers-toilets-1482261",
+            "content": "President Donald Trump have take another swipe at energy efficiency standard which he say hinder household appliance . President Trump : `` You go into a shower , and I have this beautiful head of hair , I need a lot of water . In December , the president claim during a roundtable with business leader that Americans have to flush their toilet `` 10 time , 15 time , a oppose to once '' in an apparent criticism of low-flow bathroom fixture due to Department of Energy ( DOE ) regulation . Reiterating theme he touch on during his campaign rally last month in Battle Creek , Michigan , the president lament that other household item do not work properly . The Alliance for Water Efficiency sound the alarm last month at Trump 's move to push the EPA to review water efficiency standard . Household dishwasher , which use about half of the water and energy a those make 20 year ago , can not not use more than five gallon of water per cycle , accord to the Appliance Standards Awareness Project . He tell his supporter he would approve new dishwasher `` that give you more water so you can actually wash and rinse your dish without have to do it 10 time . '' `` Sinks , toilet , and shower , you do n't get any water… You go into a shower—and I have this beautiful head of hair , I need a lot of water , '' he say before pause a the crowd cheer . In a statement to Newsweek , Water Research Foundation president Mary Ann Dickinson say : `` As a water efficiency organization , we be understandably very concerned about the president 's comment about what he feel be poor performance of plumbing fixture and appliance . ''\n`` A lot of folk we have speak to think they have buy a lemon of a machine and they have no idea that the root cause of this be not bad luck , but due to deliberate government regulation , '' he say . CEI general counsel , Sam Kazman , tell Newsweek that dishwasher use to take one hour to produce a clean load and now `` it be two and a half hour and the result be 'neither clean nor dry . '",
+            "domain": "www.newsweek.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump have take another swipe at energy efficiency standard which he say hinder household appliance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump : `` You go into a shower , and I have this beautiful head of hair , I need a lot of water .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In December , the president claim during a roundtable with business leader that Americans have to flush their toilet `` 10 time , 15 time , a oppose to once '' in an apparent criticism of low-flow bathroom fixture due to Department of Energy ( DOE ) regulation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Reiterating theme he touch on during his campaign rally last month in Battle Creek , Michigan , the president lament that other household item do not work properly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Alliance for Water Efficiency sound the alarm last month at Trump 's move to push the EPA to review water efficiency standard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Household dishwasher , which use about half of the water and energy a those make 20 year ago , can not not use more than five gallon of water per cycle , accord to the Appliance Standards Awareness Project .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He tell his supporter he would approve new dishwasher `` that give you more water so you can actually wash and rinse your dish without have to do it 10 time . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Sinks , toilet , and shower , you do n't get any water… You go into a shower—and I have this beautiful head of hair , I need a lot of water , '' he say before pause a the crowd cheer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a statement to Newsweek , Water Research Foundation president Mary Ann Dickinson say : `` As a water efficiency organization , we be understandably very concerned about the president 's comment about what he feel be poor performance of plumbing fixture and appliance . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` A lot of folk we have speak to think they have buy a lemon of a machine and they have no idea that the root cause of this be not bad luck , but due to deliberate government regulation , '' he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "CEI general counsel , Sam Kazman , tell Newsweek that dishwasher use to take one hour to produce a clean load and now `` it be two and a half hour and the result be 'neither clean nor dry . '",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://people.com/politics/donald-trump-shower-head-dishwasher-comments/",
+            "content": "The president add to the long list of opinion he have on household appliance\nWhile boast of how `` we 're bring back consumer choice , '' Trump , 74 , soon begin sound off on the familiar subject of shower and dishwasher and lightbulb . `` Donald Trump have give up on do anything meaningful about Coronavirus , and be talk about showerhead and bean , '' Schatz tweet . Trump then begin talk about `` old-fashioned '' incandescent lightbulb and receive more applause when he brag , `` I bring them back , '' reference his administration ’ s effort to block rule that would have require all Americans to use energy-efficient bulb . Sen. Brian Schatz , a Democratic lawmaker from Hawaii and frequent Trump critic , raise concern about the president 's priority a The New York Times report Friday that at least 138,200 people have die from the novel coronavirus . Iowa Sen. Chuck Grassley , a Republican supporter of wind energy who have separate himself at time from the Trump administration , call the president 's 2019 statement `` idiotic . '' In a sometimes ramble set of comment , the president talk of how , in contrast to the terrible old version , his administration 's rollback have improve all three product . He next complain about the water level inside dishwasher , which cause trouble for `` the people that do the dish . '' `` Dishwashers , '' he say , `` You didn ’ t have any water , so you — the people that do the dish — you press it , and it go again , and you do it again and again .",
+            "domain": "people.com",
+            "tokenized": [
+                {
+                    "sent": "The president add to the long list of opinion he have on household appliance\nWhile boast of how `` we 're bring back consumer choice , '' Trump , 74 , soon begin sound off on the familiar subject of shower and dishwasher and lightbulb .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Donald Trump have give up on do anything meaningful about Coronavirus , and be talk about showerhead and bean , '' Schatz tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump then begin talk about `` old-fashioned '' incandescent lightbulb and receive more applause when he brag , `` I bring them back , '' reference his administration ’ s effort to block rule that would have require all Americans to use energy-efficient bulb .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Sen. Brian Schatz , a Democratic lawmaker from Hawaii and frequent Trump critic , raise concern about the president 's priority a The New York Times report Friday that at least 138,200 people have die from the novel coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Iowa Sen. Chuck Grassley , a Republican supporter of wind energy who have separate himself at time from the Trump administration , call the president 's 2019 statement `` idiotic . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a sometimes ramble set of comment , the president talk of how , in contrast to the terrible old version , his administration 's rollback have improve all three product .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He next complain about the water level inside dishwasher , which cause trouble for `` the people that do the dish . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Dishwashers , '' he say , `` You didn ’ t have any water , so you — the people that do the dish — you press it , and it go again , and you do it again and again .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/business/economy/trumps-drive-to-make-toilets-dishwashers-great-again-collides-with-companies-product-testing/2020/01/29/958a9f54-3c73-11ea-b90d-5652806c3b3a_story.html",
+            "content": "Trump ’ s attack on efficiency standard have be encourage by outside group , such a the conservative-leaning Competitive Enterprise Institute , which in March 2018 ask the government to allow for a new , fast class of dishwasher . So Gauley and Koeller be surprise when President Trump recently start complain publicly about toilet . Trump blame government efficiency standard , which he indicate he plan to gut . Trump want to make dishwasher great again . ”\nTrump ’ s complaint about shower head deal with a change make 25 year ago . The maker of dishwasher , toilet and shower head say their objection to weaken government regulation should be view a a success story . “ I can ’ t imagine what [ Trump ] be talk about , ” say Koeller , the co-founder of Maximum Performance Testing , an independent tester of most toilet brand sell in North America . The comment be among a recent barrage of presidential complaint about the allegedly decline performance of common household item , include dishwasher ( “ Now you press it 12 time . ”\nDeere add that the president have “ unleash the American economy , provide great regulatory certainty , give consumer more choice , and continue to safeguard the water supply and improve air quality . “ People be flush toilet 10 time , 15 time , a oppose to once , ” Trump say at the White House last month . Kazman , who note his displeasure with a new dishwasher he recently purchase , say he be initially surprise by manufacturer ’ objection to his petition . Sam Kazman , the institute ’ s general counsel , who help draft the petition , blame tight water and energy regulation for slow dishwasher . Shower power be cut by federal regulation in 1994 to 2.5 gallon per minute , down from 3.5 or high . But dishwasher that go ‘ boom ’ be on his mind . The trade group write a letter respond to the petition , say that while it member “ appreciate the sentiment , ” the group didn ’ t see a need for a new class of dishwasher . But , Consumer Reports say , about a quarter of the 150 dishwasher it recently test earn an “ excellent ” rating — what a spokesman describe a “ impressive .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Trump ’ s attack on efficiency standard have be encourage by outside group , such a the conservative-leaning Competitive Enterprise Institute , which in March 2018 ask the government to allow for a new , fast class of dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So Gauley and Koeller be surprise when President Trump recently start complain publicly about toilet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump blame government efficiency standard , which he indicate he plan to gut .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump want to make dishwasher great again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s complaint about shower head deal with a change make 25 year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The maker of dishwasher , toilet and shower head say their objection to weaken government regulation should be view a a success story .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I can ’ t imagine what [ Trump ] be talk about , ” say Koeller , the co-founder of Maximum Performance Testing , an independent tester of most toilet brand sell in North America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The comment be among a recent barrage of presidential complaint about the allegedly decline performance of common household item , include dishwasher ( “ Now you press it 12 time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDeere add that the president have “ unleash the American economy , provide great regulatory certainty , give consumer more choice , and continue to safeguard the water supply and improve air quality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ People be flush toilet 10 time , 15 time , a oppose to once , ” Trump say at the White House last month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Kazman , who note his displeasure with a new dishwasher he recently purchase , say he be initially surprise by manufacturer ’ objection to his petition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sam Kazman , the institute ’ s general counsel , who help draft the petition , blame tight water and energy regulation for slow dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shower power be cut by federal regulation in 1994 to 2.5 gallon per minute , down from 3.5 or high .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But dishwasher that go ‘ boom ’ be on his mind .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The trade group write a letter respond to the petition , say that while it member “ appreciate the sentiment , ” the group didn ’ t see a need for a new class of dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But , Consumer Reports say , about a quarter of the 150 dishwasher it recently test earn an “ excellent ” rating — what a spokesman describe a “ impressive .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/donald-trump/flushing-10-times-what-s-really-behind-trump-s-tirades-n1111691",
+            "content": "The more than 20-year battle Trump have give oxygen to center on a series of regulation and energy standard start with the 1992 Energy Policy Act sign by President George H.W . For the good part of two decade , libertarian-minded conservative have take aim at the regulation and energy standard Trump now decry — and they 're overjoy to see him use the power of the presidency to shine a light into America 's bathroom and kitchen . Trump push that issue to the forefront when he tell reporter in the White House last month that the EPA would be `` look very strongly at sink and shower and other element of bathroom , '' insist that `` people be flush toilet 10 time , 15 time a oppose to once '' and that `` they end up use more water . '' He point to more than 3,200 comment submit to the Energy Department a part of the effort to create a new dishwasher class a evidence the standard be cause public anger . Conservative group such a FreedomWorks , through it `` Make Dishwashers Great Again '' campaign , and the Competitive Enterprise Institute have be influential in get the Department of Energy to consider create a new class of dishwasher with short wash cycle to get around exist standard . Speaking at a campaign rally that night in Battle Creek , Michigan , Trump deliver a lengthy rant about a bevy of regulation govern bathroom and kitchen appliance . Current dishwasher standard require that standard-size product use no more than 5 gallon of water per cycle , accord to the Appliance Standards Awareness Project . Meanwhile , the Trump administration have previously seek to eliminate funding for Energy Star , an EPA program allow company to put the program 's label on appliance that meet energy efficiency standard . It 's not just bathrooms that have spark the president 's ire . That law set new limit on how much water a toilet can utilize and , in 1994 , kick into effect a standard that say new toilet , showerhead and faucet have to have water-saving design . `` Ten time , right , 10 time , '' Trump continue , refer to the number of flush he claim be sometimes require because of water-saving federal regulation . I do n't think people be flush their toilet 10 time , but they 're definitely reuse dishwasher , flush multiple time , at least . People do have to run their appliance multiple time because of water efficiency standard .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "The more than 20-year battle Trump have give oxygen to center on a series of regulation and energy standard start with the 1992 Energy Policy Act sign by President George H.W .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the good part of two decade , libertarian-minded conservative have take aim at the regulation and energy standard Trump now decry — and they 're overjoy to see him use the power of the presidency to shine a light into America 's bathroom and kitchen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump push that issue to the forefront when he tell reporter in the White House last month that the EPA would be `` look very strongly at sink and shower and other element of bathroom , '' insist that `` people be flush toilet 10 time , 15 time a oppose to once '' and that `` they end up use more water . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He point to more than 3,200 comment submit to the Energy Department a part of the effort to create a new dishwasher class a evidence the standard be cause public anger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conservative group such a FreedomWorks , through it `` Make Dishwashers Great Again '' campaign , and the Competitive Enterprise Institute have be influential in get the Department of Energy to consider create a new class of dishwasher with short wash cycle to get around exist standard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Speaking at a campaign rally that night in Battle Creek , Michigan , Trump deliver a lengthy rant about a bevy of regulation govern bathroom and kitchen appliance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Current dishwasher standard require that standard-size product use no more than 5 gallon of water per cycle , accord to the Appliance Standards Awareness Project .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Meanwhile , the Trump administration have previously seek to eliminate funding for Energy Star , an EPA program allow company to put the program 's label on appliance that meet energy efficiency standard .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's not just bathrooms that have spark the president 's ire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That law set new limit on how much water a toilet can utilize and , in 1994 , kick into effect a standard that say new toilet , showerhead and faucet have to have water-saving design .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Ten time , right , 10 time , '' Trump continue , refer to the number of flush he claim be sometimes require because of water-saving federal regulation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I do n't think people be flush their toilet 10 time , but they 're definitely reuse dishwasher , flush multiple time , at least .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "People do have to run their appliance multiple time because of water efficiency standard .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.motherjones.com/politics/2020/01/while-the-democrats-debate-trump-is-complaining-about-dishwashers/",
+            "content": "While the Democratic presidential nominee be in Des Moines debate United States policy toward Iran on Tuesday night , President Donald Trump be at a rally in Milwaukee , rile up the crowd with talk of newfangled household appliance . Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nBut dishwasher weren ’ t the only appliance Trump promise to save . “ I ’ m also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 times—five , six , seven , eight , nine , 10 , ” Trump say , presumably refer to Department of Energy regulation about the amount of water dishwasher can use . ” Trump pause a the crowd go wild , then continue , “ And you go into the shower , right ? — POTUS transition from complain about dishwasher to complain about sink , toilet , and shower .",
+            "domain": "www.motherjones.com",
+            "tokenized": [
+                {
+                    "sent": "While the Democratic presidential nominee be in Des Moines debate United States policy toward Iran on Tuesday night , President Donald Trump be at a rally in Milwaukee , rile up the crowd with talk of newfangled household appliance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's complaint about new dishwasher be nut and suggest he 's never use one in his life\nBut dishwasher weren ’ t the only appliance Trump promise to save .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ m also approve new dishwasher that give you more water so you can actually wash and rinse your dish without have to do it 10 times—five , six , seven , eight , nine , 10 , ” Trump say , presumably refer to Department of Energy regulation about the amount of water dishwasher can use .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump pause a the crowd go wild , then continue , “ And you go into the shower , right ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "— POTUS transition from complain about dishwasher to complain about sink , toilet , and shower .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://mashable.com/video/seth-meyers-donald-trump-michigan-rally-sinks-showers-dishwashers/",
+            "content": "Trump also go on a tirade against dishwasher , not content to keep his vendetta against plumb to the bathroom . `` That be truly one of the strange thing I 've ever see — thousand of people packed cheek to cheek in an arena , star silently at a lunatic just ramble about sink and shower , '' say Meyers . `` He clearly have no idea how [ dishwasher ] work .",
+            "domain": "mashable.com",
+            "tokenized": [
+                {
+                    "sent": "Trump also go on a tirade against dishwasher , not content to keep his vendetta against plumb to the bathroom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` That be truly one of the strange thing I 've ever see — thousand of people packed cheek to cheek in an arena , star silently at a lunatic just ramble about sink and shower , '' say Meyers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` He clearly have no idea how [ dishwasher ] work .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://news.yahoo.com/trump-complains-water-pressure-showers-191215640.html",
+            "content": "DONALD TRUMP : Getting back to my very boring story about faucet and dishwasher .",
+            "domain": "news.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "DONALD TRUMP : Getting back to my very boring story about faucet and dishwasher .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8531815/Donald-Trump-turns-White-House-rally-venue-posing-Trump-branded-crane.html",
+            "content": "He complain about the annoyance of poor water pressure in the home , only this time instead of focus on toilet , a he have in the past , he speak about shower and dishwasher . 'What your real problem be be the fact that the president give a very , good , powerful speech from the Rose Garden , ' McEnany say , move on to another question . As he read through his remark on a teleprompter , the president deliver one of his trademark riff about poor water pressure , which he tie to regulatory issue . Because my hair , I do n't know about you , but it have to be perfect , ' Trump say , draw laugh and a smattering of applause .",
+            "domain": "www.dailymail.co.uk",
+            "tokenized": [
+                {
+                    "sent": "He complain about the annoyance of poor water pressure in the home , only this time instead of focus on toilet , a he have in the past , he speak about shower and dishwasher .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "'What your real problem be be the fact that the president give a very , good , powerful speech from the Rose Garden , ' McEnany say , move on to another question .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As he read through his remark on a teleprompter , the president deliver one of his trademark riff about poor water pressure , which he tie to regulatory issue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because my hair , I do n't know about you , but it have to be perfect , ' Trump say , draw laugh and a smattering of applause .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.miamiherald.com/news/nation-world/national/article244937952.html",
+            "content": "The amendment to the 28-year-old energy law would allow multiple showerhead to pour more water than current regulation per minute — a change the president have be push in recent complaint about toilet flushing , faucet , dishwasher and now shower nozzle . The proposal from the Trump Administration could allow much more water to be release per shower , make those saving harder to achieve . “ In response to a historic drought , the president apparently want showerhead that spray water every which way . It ’ s an absurd use of [ the Department of Energy ’ s ] time , and it ’ s not go to help our water reservoir , ” Andrew deLaski , executive director of the Appliance Standards Awareness project , say in a statement . Because my hair — I don ’ t know about you , but it have to be perfect , ” Trump say in July . ”\nUsing showerhead that emit less gallon per minute than current standard could avoid about $ 2.5 billion in energy cost for heat water , the agency say .",
+            "domain": "www.miamiherald.com",
+            "tokenized": [
+                {
+                    "sent": "The amendment to the 28-year-old energy law would allow multiple showerhead to pour more water than current regulation per minute — a change the president have be push in recent complaint about toilet flushing , faucet , dishwasher and now shower nozzle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The proposal from the Trump Administration could allow much more water to be release per shower , make those saving harder to achieve .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In response to a historic drought , the president apparently want showerhead that spray water every which way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s an absurd use of [ the Department of Energy ’ s ] time , and it ’ s not go to help our water reservoir , ” Andrew deLaski , executive director of the Appliance Standards Awareness project , say in a statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because my hair — I don ’ t know about you , but it have to be perfect , ” Trump say in July .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nUsing showerhead that emit less gallon per minute than current standard could avoid about $ 2.5 billion in energy cost for heat water , the agency say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/trump-wants-perfect-hair-from-stronger-water-pressure-in-the-shower-his-energy-department-delivers-2020-08-12",
+            "content": "The Department of Energy on Wednesday take the next step in deliver on President Donald Trump ’ s January pledge to get “ rid of the restrictors ” on water flow from showerhead , which the president have notoriously say keep him from have perfect hair . Last year , the Competitive Enterprise Institute and other group circulate a petition argue that efficiency rule gobble up too much time because formerly one-hour dishwasher cycle have turn into 2 1/2-hour job because of less-powerful water flow . Showers be just one part of a series of proposed rollback on regulation limit household water use , include for wash machine and dishwasher . Energy Department spokeswoman Shaylyn Hynes tell the Associated Press that the 2013 Obama administration definition of “ showerhead ” clash with what Congress intend , as well a the standard of the American Society of Mechanical Engineers . As popularity for multiple nozzle inside a single shower become trendy , the Obama administration define the showerhead restriction to apply to what come out in total .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "The Department of Energy on Wednesday take the next step in deliver on President Donald Trump ’ s January pledge to get “ rid of the restrictors ” on water flow from showerhead , which the president have notoriously say keep him from have perfect hair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last year , the Competitive Enterprise Institute and other group circulate a petition argue that efficiency rule gobble up too much time because formerly one-hour dishwasher cycle have turn into 2 1/2-hour job because of less-powerful water flow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Showers be just one part of a series of proposed rollback on regulation limit household water use , include for wash machine and dishwasher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Energy Department spokeswoman Shaylyn Hynes tell the Associated Press that the 2013 Obama administration definition of “ showerhead ” clash with what Congress intend , as well a the standard of the American Society of Mechanical Engineers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As popularity for multiple nozzle inside a single shower become trendy , the Obama administration define the showerhead restriction to apply to what come out in total .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

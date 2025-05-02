@@ -1,0 +1,931 @@
+{
+    "event_id": "233964",
+    "claim": "President Trump congratulated the wrong state for the Chiefs' 2020 Super Bowl win.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "On Feb. 2, 2020, the Kansas City Chiefs football team made their first Super Bowl appearance in 50 years and took home the championship by defeating the San Francisco 49ers, 31-20.\nShortly after the conclusion of that Super Bowl game, President Donald Trump tweeted his congratulations to the Chiefs for their victory, noting that the team “represented the Great State of Kansas … so very well”:\n\nHowever, although the state of Kansas — naturally enough — does encompass a city called Kansas City, that’s not where the Kansas City Chiefs team is based or plays their home games. The Chiefs operate out of Kansas City, Missouri, and play their homes games at Arrowhead Stadium in that same city.\nTwelve minutes after the tweet erroneously congratulating the state of Kansas for the Chief’s big win was posted on Trump’s Twitter account, it was deleted and replaced by one that correctly referenced the state of Missouri:\nCongratulations to the Kansas City Chiefs on a great game and a fantastic comeback under immense pressure. We are proud of you and the Great State of Missouri. You are true Champions!\n— Donald J. Trump (@realDonaldTrump) February 3, 2020\n\nNeedless to say, the error in the original tweet was pointed out (often none too politely) by many Twitter users during the short time it was live, including former U.S. Senator Claire McCaskill of Missouri:\nIt’s Missouri you stone cold idiot. pic.twitter.com/O1cAAOFsJ6\n— Claire McCaskill (@clairecmc) February 3, 2020\n",
+    "reports": [
+        {
+            "link": "https://www.kansascity.com/sports/nfl/kansas-city-chiefs/article239905078.html",
+            "content": "President Donald Trump congratulate the Missouri-based Kansas City Chiefs for represent the state of Kansas after they win the Super Bowl Sunday night . Donald J. Trump have no grip on my country ’ s geographyCongratulations to the great state of Missouri on this Kansas City Chiefs Super Bowl",
+            "domain": "www.kansascity.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump congratulate the Missouri-based Kansas City Chiefs for represent the state of Kansas after they win the Super Bowl Sunday night .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Donald J. Trump have no grip on my country ’ s geographyCongratulations to the great state of Missouri on this Kansas City Chiefs Super Bowl",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.si.com/nfl/2020/02/03/donald-trump-tweet-congratulates-kansas-chiefs-super-bowl-win",
+            "content": "President Donald Trump take to Twitter after the Kansas City Chiefs ' 31–20 victory over the San Francisco 49ers in Super Bowl LIV to congratulate the team and the `` Great State of Kansas . '' `` Congratulations to the @ Chiefs on an incredible season and a hard-fought Super Bowl win . The Chiefs win their first Super Bowl championship title in 50 year on Sunday . Quarterback Patrick Mahomes be name Super Bowl MVP after throw 26 of 31 pass complete for 286 yard and two touchdown . It ’ s a great day for the great state of Missouri , '' Bloomberg tweet . Mahomes also have one rush touchdown .",
+            "domain": "www.si.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump take to Twitter after the Kansas City Chiefs ' 31–20 victory over the San Francisco 49ers in Super Bowl LIV to congratulate the team and the `` Great State of Kansas . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Congratulations to the @ Chiefs on an incredible season and a hard-fought Super Bowl win .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Chiefs win their first Super Bowl championship title in 50 year on Sunday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Quarterback Patrick Mahomes be name Super Bowl MVP after throw 26 of 31 pass complete for 286 yard and two touchdown .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s a great day for the great state of Missouri , '' Bloomberg tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mahomes also have one rush touchdown .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://globalnews.ca/news/6498057/great-state-of-kansas-trump-tweet/",
+            "content": "U.S. President Donald Trump tweet congratulation to the “ Great State of Kansas ” Sunday for the Kansas City Chiefs ’ Super Bowl LIV win over the San Francisco 49ers . “ Donald Trump , a President of the United States , didn ’ t know that the Kansas City Chiefs be from Missouri and actually think they be from “ the Great State of Kansas , ” write Eugene Gu , who previously win a first amendment lawsuit against Trump in 2018 . “ Congratulations to the Kansas City Chiefs on a great game and fantastic comeback under immense pressure , ” read Trump ’ s new tweet , which correct the state . Kansas City Chiefs beat San Francisco 49ers to win Super Bowl LIV\nThe tweet be promptly delete and replace with one that list the team ’ s correct state . The Chiefs ’ victory over the 49ers Sunday mark the franchise ’ s first Super Bowl win in over 50 year , with the final score a 31-20 victory . But I be like 12 year old and not the president of the United States , ” write J.A . The state the Chiefs actually play in , however , be Missouri . But I be like 12 year old and not the president of the United States . “ I use to think the Kansas City Chiefs play in Kansas . I use to think the Kansas City Chiefs play in Kansas . Adande , Northwestern University ’ s director of sport journalism .",
+            "domain": "globalnews.ca",
+            "tokenized": [
+                {
+                    "sent": "U.S. President Donald Trump tweet congratulation to the “ Great State of Kansas ” Sunday for the Kansas City Chiefs ’ Super Bowl LIV win over the San Francisco 49ers .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Donald Trump , a President of the United States , didn ’ t know that the Kansas City Chiefs be from Missouri and actually think they be from “ the Great State of Kansas , ” write Eugene Gu , who previously win a first amendment lawsuit against Trump in 2018 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Congratulations to the Kansas City Chiefs on a great game and fantastic comeback under immense pressure , ” read Trump ’ s new tweet , which correct the state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Kansas City Chiefs beat San Francisco 49ers to win Super Bowl LIV\nThe tweet be promptly delete and replace with one that list the team ’ s correct state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Chiefs ’ victory over the 49ers Sunday mark the franchise ’ s first Super Bowl win in over 50 year , with the final score a 31-20 victory .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But I be like 12 year old and not the president of the United States , ” write J.A .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The state the Chiefs actually play in , however , be Missouri .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But I be like 12 year old and not the president of the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I use to think the Kansas City Chiefs play in Kansas .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I use to think the Kansas City Chiefs play in Kansas .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Adande , Northwestern University ’ s director of sport journalism .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/entertainment/tv/2020/02/04/trumps-kansas-super-bowl-tweet-made-for-veep-julia-louis-dreyfus/4654569002/",
+            "content": "In case you miss it , after the Kansa City Chiefs win the Super Bowl on Sunday , President Donald Trump tweet a message congratulate the team . `` I mean I have to say , I think he 's ( Trump ) do a good job of our show except to say that it , in fact , be n't even remotely funny . '' She add that the show be super fun but it 's just `` hard to compete with that crap . '' `` Great state of Kansas . Yeah , he really get this country . '' `` It be so extraordinary , '' she say to Ellen DeGeneres .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "In case you miss it , after the Kansa City Chiefs win the Super Bowl on Sunday , President Donald Trump tweet a message congratulate the team .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` I mean I have to say , I think he 's ( Trump ) do a good job of our show except to say that it , in fact , be n't even remotely funny . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She add that the show be super fun but it 's just `` hard to compete with that crap . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Great state of Kansas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yeah , he really get this country . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It be so extraordinary , '' she say to Ellen DeGeneres .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/sports/2020/02/02/trump-tweet-kansas-chiefs/",
+            "content": "President Trump be quick to congratulate the Kansas City Chiefs for win their first Super Bowl in 50 year Sunday night . The Chiefs come roar back from a double-digit deficit in the second half and win , 31-20 , mark their first NFL championship since Super Bowl IV in 1970 . His exuberance be understandable , give the exciting game , and Kansans be certainly proud of the Chiefs , but the team be base in and play in Kansas City , Mo. Photos : The best photo from Hard Rock Stadium | The play the Chiefs make to win The Chiefs and Royals have venue ( Arrowhead Stadium and Kauffman Stadium ) in the Truman Sports Complex , which lie next to I-70 east of Kansas City , Mo . Quarterback Patrick Mahomes , who lead the comeback , be name the game ’ s MVP . Although there be collegiate division along the University of Missouri and Kansas University line , there ’ s near unanimity when it come to support the Royals and Chiefs . Much of the team ’ support come from the Kansas suburbs that lie along the west side of State Line Road , which run north and south along , you guess it , the state line . Residents of both state happily share the team but be protective of their identity . As it name would seem to indicate , that complex be near the Independence home of Harry S. Truman ( which be also not in Kansas ) . There be a misconception that the state line separate one big Kansas City and , while it ’ s true that the state line do separate them , Kansas City , Mo. When it come to the pro sport team , though , the entire Kansas City area stake a claim . Kansas City , Kan. , — know locally a KCK — be incorporate in 1872 . The one in Missouri be incorporate in 1853 , with some part of the city ( like the Westport area ; go to Kelly ’ s and perhaps have a beer or two ) settle even before that . The distance to the state line be just under 10 mile . Not quite , but two city share one name can be confuse . , and Kansas City , Kan. , be two distinct entity , each with it own government .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump be quick to congratulate the Kansas City Chiefs for win their first Super Bowl in 50 year Sunday night .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Chiefs come roar back from a double-digit deficit in the second half and win , 31-20 , mark their first NFL championship since Super Bowl IV in 1970 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "His exuberance be understandable , give the exciting game , and Kansans be certainly proud of the Chiefs , but the team be base in and play in Kansas City , Mo.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Photos : The best photo from Hard Rock Stadium | The play the Chiefs make to win The Chiefs and Royals have venue ( Arrowhead Stadium and Kauffman Stadium ) in the Truman Sports Complex , which lie next to I-70 east of Kansas City , Mo .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Quarterback Patrick Mahomes , who lead the comeback , be name the game ’ s MVP .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although there be collegiate division along the University of Missouri and Kansas University line , there ’ s near unanimity when it come to support the Royals and Chiefs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Much of the team ’ support come from the Kansas suburbs that lie along the west side of State Line Road , which run north and south along , you guess it , the state line .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Residents of both state happily share the team but be protective of their identity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As it name would seem to indicate , that complex be near the Independence home of Harry S. Truman ( which be also not in Kansas ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a misconception that the state line separate one big Kansas City and , while it ’ s true that the state line do separate them , Kansas City , Mo.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When it come to the pro sport team , though , the entire Kansas City area stake a claim .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kansas City , Kan. , — know locally a KCK — be incorporate in 1872 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The one in Missouri be incorporate in 1853 , with some part of the city ( like the Westport area ; go to Kelly ’ s and perhaps have a beer or two ) settle even before that .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The distance to the state line be just under 10 mile .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not quite , but two city share one name can be confuse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ", and Kansas City , Kan. , be two distinct entity , each with it own government .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/trump-super-bowl-wrong-state-kansas_n_5e37923ac5b69a19a4b1b511",
+            "content": "President Donald Trump congratulate the Kansas City Chiefs on defeat the San Francisco 49ers in Super Bowl LIV on Sunday night , tell the team they represent “ the Great State of Kansas ... so very well . Lol Donald Trump congratulate Kansas for win the Super Bowl be so great I ca n't stand it . ”\nTrump soon delete the tweet and issue a new one with the correct state . Kansas City , Kansas , and Kansas City , Missouri , share a border , and the Chiefs have a fanbase in both state . But the Missouri city be significantly large , and the team have play there since move from Texas in 1963 . Best stay out of thing you do n't understand , like the Heart of America .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump congratulate the Kansas City Chiefs on defeat the San Francisco 49ers in Super Bowl LIV on Sunday night , tell the team they represent “ the Great State of Kansas ... so very well .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Lol Donald Trump congratulate Kansas for win the Super Bowl be so great I ca n't stand it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTrump soon delete the tweet and issue a new one with the correct state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kansas City , Kansas , and Kansas City , Missouri , share a border , and the Chiefs have a fanbase in both state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the Missouri city be significantly large , and the team have play there since move from Texas in 1963 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Best stay out of thing you do n't understand , like the Heart of America .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/trump-faces-twitter-backlash-tweeting-super-bowl-champs/story?id=68723468",
+            "content": "”\nCritics on Twitter be quick to disparage President Trump after he congratulate the Kansas City Chiefs from “ The Great State of Kansas ” for their first Super Bowl win in 50 year on Sunday . The Kansas City Chiefs , and winner of Super Bowl LIV , be in fact locate and play in Missouri -- not Kansas . She tweet that the president be a “ stone cold idiot , ” feature a screenshot of his deleted tweet . Former Democrat Sen. Claire McCaskill call the president “ stone cold idiot . People on Twitter continue to ridicule the president say that he use a Sharpie marker to extend the border of Missouri -- alongside trend hashtags that say , “ Kansas City Kansas ” and “ Kansas City Missouri . The tweet be delete shortly after the president face backlash for his geographical mishap -- and substitute it with a similar tweet . While some people take to his defense -- indicate that this be a common mistake , critic like former Sen. Claire McCaskill -- a Missouri Democrat -- be very vocal about their opinion . Kansas City be locate on the western edge of the state , border Kansas and there be a Kansas City , Kansas as well .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "”\nCritics on Twitter be quick to disparage President Trump after he congratulate the Kansas City Chiefs from “ The Great State of Kansas ” for their first Super Bowl win in 50 year on Sunday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Kansas City Chiefs , and winner of Super Bowl LIV , be in fact locate and play in Missouri -- not Kansas .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She tweet that the president be a “ stone cold idiot , ” feature a screenshot of his deleted tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former Democrat Sen. Claire McCaskill call the president “ stone cold idiot .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "People on Twitter continue to ridicule the president say that he use a Sharpie marker to extend the border of Missouri -- alongside trend hashtags that say , “ Kansas City Kansas ” and “ Kansas City Missouri .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The tweet be delete shortly after the president face backlash for his geographical mishap -- and substitute it with a similar tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While some people take to his defense -- indicate that this be a common mistake , critic like former Sen. Claire McCaskill -- a Missouri Democrat -- be very vocal about their opinion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Kansas City be locate on the western edge of the state , border Kansas and there be a Kansas City , Kansas as well .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2020/2/3/21120033/trump-chiefs-tweet-kansas-fox-news",
+            "content": "President Donald Trump respond to the Kansas City Chiefs Super Bowl victory on Sunday night by commend them for do such a great job — on behalf of people live in the next state over . Steve Doocy defend Trump 's tweet congratulating Kansas for the Kansas City Chiefs win the Super Bowl : `` Kansas City be in Kansas and it be also in Missouri . Steve Doocy , host of the president ’ s favorite morning show , bring up the tweet but try to explain Trump ’ s error away . Trump get an extremely basic geographical fact wrong — but some of his fan win ’ t even admit it . Trump ’ s mistake obviously isn ’ t the end of the world , even if it do betray a tragicomical level of ignorance about the country he ’ s govern . So Doocy ’ s Spicer-esque explanation for Trump ’ s tweet doesn ’ t really hold water — and he wasn ’ t the only MAGA enthusiast to use that talk point . While it ’ s true that there ’ s a Kansas City , Kansas , just across the Missouri River from the much large Kansas City , Missouri , the Chiefs be base in Missouri and have be since 1963 . This isn ’ t a distinction that casual NFL watcher or knower of Midwestern geography typically get wrong . But if you think that get such a basic fact wrong would be impossible even for Fox & Friends to defend , think again . ... [ It 's like when ] people call them the New York Giants , but they 're in New Jersey . '' They ’ ve never play in Kansas .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump respond to the Kansas City Chiefs Super Bowl victory on Sunday night by commend them for do such a great job — on behalf of people live in the next state over .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Steve Doocy defend Trump 's tweet congratulating Kansas for the Kansas City Chiefs win the Super Bowl : `` Kansas City be in Kansas and it be also in Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Steve Doocy , host of the president ’ s favorite morning show , bring up the tweet but try to explain Trump ’ s error away .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump get an extremely basic geographical fact wrong — but some of his fan win ’ t even admit it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s mistake obviously isn ’ t the end of the world , even if it do betray a tragicomical level of ignorance about the country he ’ s govern .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So Doocy ’ s Spicer-esque explanation for Trump ’ s tweet doesn ’ t really hold water — and he wasn ’ t the only MAGA enthusiast to use that talk point .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While it ’ s true that there ’ s a Kansas City , Kansas , just across the Missouri River from the much large Kansas City , Missouri , the Chiefs be base in Missouri and have be since 1963 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This isn ’ t a distinction that casual NFL watcher or knower of Midwestern geography typically get wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if you think that get such a basic fact wrong would be impossible even for Fox & Friends to defend , think again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "... [ It 's like when ] people call them the New York Giants , but they 're in New Jersey . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They ’ ve never play in Kansas .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sportingnews.com/us/nfl/news/donald-trump-super-bowl-tweet-kansas-city-chiefs/1tgvbg0uocl10103xnrpj3pdnm",
+            "content": "The Chiefs receive hearty congratulation from President Donald Trump after win Super Bowl 54 on Sunday night . MORE : How the Chiefs win Super Bowl 54\nAnd it might not hurt Trump even a little : He win Missouri and Kansas in the 2016 presidential election , garner their 16 combine electoral vote . Trump hail the new champion ' success in rally past the 49ers . With the Chiefs champ for the first time in 50 year , the citizenry may not even mind the geography fail . He 'll be campaign in both state this year a he try to get reelect . He also give a shoutout to a state the team do n't call home .",
+            "domain": "www.sportingnews.com",
+            "tokenized": [
+                {
+                    "sent": "The Chiefs receive hearty congratulation from President Donald Trump after win Super Bowl 54 on Sunday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "MORE : How the Chiefs win Super Bowl 54\nAnd it might not hurt Trump even a little : He win Missouri and Kansas in the 2016 presidential election , garner their 16 combine electoral vote .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump hail the new champion ' success in rally past the 49ers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the Chiefs champ for the first time in 50 year , the citizenry may not even mind the geography fail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He 'll be campaign in both state this year a he try to get reelect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He also give a shoutout to a state the team do n't call home .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/trump-tweet-kansas-city-gaffe-puts-kansas-city-chiefs-in-wrong-state/",
+            "content": "President Trump draw scorn and laughter on social medium Sunday after place the Kansas City Chiefs in the wrong state follow their Super Bowl victory . Mr. Trump say the Chiefs have make Kansas proud . `` Congratulations to the Kansas City Chiefs on a great game , and a fantastic comeback , under immense pressure , '' the president tweet . The gaffe follow Mr. Trump 's secretary of state , Mike Pompeo , challenge an NPR reporter last week to find Ukraine on an unmarked map . Lauren Arthur , a current Missouri state senator , tweet : `` Wrong state . The state line run through Kansas City but the team be actually base in Missouri . Best stay out of thing you do n't understand , like the Heart of America . '' He later delete the tweet and replace it with one name the correct state .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump draw scorn and laughter on social medium Sunday after place the Kansas City Chiefs in the wrong state follow their Super Bowl victory .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mr. Trump say the Chiefs have make Kansas proud .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Congratulations to the Kansas City Chiefs on a great game , and a fantastic comeback , under immense pressure , '' the president tweet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The gaffe follow Mr. Trump 's secretary of state , Mike Pompeo , challenge an NPR reporter last week to find Ukraine on an unmarked map .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lauren Arthur , a current Missouri state senator , tweet : `` Wrong state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The state line run through Kansas City but the team be actually base in Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Best stay out of thing you do n't understand , like the Heart of America . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He later delete the tweet and replace it with one name the correct state .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/oops-trump-congratulates-great-state-of-kansas-after-chiefs-super-bowl-win-2020-02-02",
+            "content": "President Donald Trump tweet — then quickly delete — a congratulatory message to “ the Great State of Kansas ” on Sunday night after the Kansas City Chiefs win their first Super Bowl in 50 year . The errant Trump tweet be quickly delete and replace by one congratulate the “ Great State of Missouri .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump tweet — then quickly delete — a congratulatory message to “ the Great State of Kansas ” on Sunday night after the Kansas City Chiefs win their first Super Bowl in 50 year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The errant Trump tweet be quickly delete and replace by one congratulate the “ Great State of Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/sport/2020/feb/02/trump-kansas-city-missouri-super-bowl-tweet",
+            "content": "Donald Trump be among the first to laud the Kansas City Chiefs in the wake of their 31-20 victory over the San Francisco 49ers in the Super Bowl , take to Twitter to congratulate the newly crown NFL champion and the ‘ Great State of Kansas ’ . The president host his annual Super Bowl watch party at Trump International Golf Club in West Palm Beach , Florida , before return to Washington late Sunday ahead of Tuesday ’ s state of the union address . The US president be quick to remedy his mistake , delete the tweet and re-posting it moments later with the correct state – but not before his error be notice by a wide audience . Although there be part of Kansas City metropolitan area that do cross the state line into Kansas , it be Missouri ’ s large city and widely associate with the Show-Me State , not least because it ’ s where the Chiefs ’ Arrowhead Stadium be locate . Last year , in what be dub Sharpiegate , the president use a weather map to show the path of hurricane Dorian which be falsely extend use a sharpie marker to include Alabama . The US president have become infamous for make blunder on social medium .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump be among the first to laud the Kansas City Chiefs in the wake of their 31-20 victory over the San Francisco 49ers in the Super Bowl , take to Twitter to congratulate the newly crown NFL champion and the ‘ Great State of Kansas ’ .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president host his annual Super Bowl watch party at Trump International Golf Club in West Palm Beach , Florida , before return to Washington late Sunday ahead of Tuesday ’ s state of the union address .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The US president be quick to remedy his mistake , delete the tweet and re-posting it moments later with the correct state – but not before his error be notice by a wide audience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although there be part of Kansas City metropolitan area that do cross the state line into Kansas , it be Missouri ’ s large city and widely associate with the Show-Me State , not least because it ’ s where the Chiefs ’ Arrowhead Stadium be locate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Last year , in what be dub Sharpiegate , the president use a weather map to show the path of hurricane Dorian which be falsely extend use a sharpie marker to include Alabama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The US president have become infamous for make blunder on social medium .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox29.com/news/trump-congratulates-kansas-city-chiefs-of-the-great-state-of-kansas-in-since-deleted-tweet",
+            "content": "OAKLAND , Calif. - In the minute follow Super Bowl LIV , President Donald Trump take to Twitter to congratulate the winner , the Kansas City Chiefs . The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri . Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side . ”\nLeaving out Kansas altogether might annoy those on the other side of the state line . The Tweet , which have since be delete , immediately go viral .",
+            "domain": "www.fox29.com",
+            "tokenized": [
+                {
+                    "sent": "OAKLAND , Calif. - In the minute follow Super Bowl LIV , President Donald Trump take to Twitter to congratulate the winner , the Kansas City Chiefs .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLeaving out Kansas altogether might annoy those on the other side of the state line .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Tweet , which have since be delete , immediately go viral .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox10phoenix.com/news/trump-congratulates-kansas-city-chiefs-of-the-great-state-of-kansas-in-since-deleted-tweet",
+            "content": "OAKLAND , Calif. - In the minute follow Super Bowl LIV , President Donald Trump take to Twitter to congratulate the winner , the Kansas City Chiefs . The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri . Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side . ”\nLeaving out Kansas altogether might annoy those on the other side of the state line . The Tweet , which have since be delete , immediately go viral .",
+            "domain": "www.fox10phoenix.com",
+            "tokenized": [
+                {
+                    "sent": "OAKLAND , Calif. - In the minute follow Super Bowl LIV , President Donald Trump take to Twitter to congratulate the winner , the Kansas City Chiefs .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLeaving out Kansas altogether might annoy those on the other side of the state line .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Tweet , which have since be delete , immediately go viral .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/02/02/us/politics/trump-kansas-city-chiefs-tweet.html",
+            "content": "WASHINGTON — President Trump do not waste any time Sunday night congratulate the Kansas City Chiefs for defeat the San Francisco 49ers in the Super Bowl . And while attention be focus on the mix-up , the president — or whoever be in charge of the presidential account — quickly begin share a flurry of tweet relate to the Trump campaign ’ s Super Bowl ad , which highlight the Trump administration ’ s policy on prison reform . For the rebuttal , the president have his defender , include “ Carpe Donktum , ” a somewhat infamous conservative meme creator who have be invite to meet with Mr. Trump at the White House . The problem , of course , be that the Chiefs play in the state of Missouri , next door . Except he get their home state wrong . The president ’ s message , as short-lived a it be before it be delete and replace with the geographically correct location of the franchise , catch the attention of people on Twitter . In the midst of fan celebration and Twitter argument over the president ’ s grasp of geography , a new version of the first message suddenly appear . There be a Kansas City , Kan. , a handful of mile away , but it be the kind of mix-up his follower might expect a member of the coastal elite to make , not a president who spend much of his time speak on behalf of people from that part of the country . One of them be Claire McCaskill , the former Democratic senator from Missouri . And she be not forgive .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Trump do not waste any time Sunday night congratulate the Kansas City Chiefs for defeat the San Francisco 49ers in the Super Bowl .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And while attention be focus on the mix-up , the president — or whoever be in charge of the presidential account — quickly begin share a flurry of tweet relate to the Trump campaign ’ s Super Bowl ad , which highlight the Trump administration ’ s policy on prison reform .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the rebuttal , the president have his defender , include “ Carpe Donktum , ” a somewhat infamous conservative meme creator who have be invite to meet with Mr. Trump at the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The problem , of course , be that the Chiefs play in the state of Missouri , next door .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Except he get their home state wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The president ’ s message , as short-lived a it be before it be delete and replace with the geographically correct location of the franchise , catch the attention of people on Twitter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the midst of fan celebration and Twitter argument over the president ’ s grasp of geography , a new version of the first message suddenly appear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a Kansas City , Kan. , a handful of mile away , but it be the kind of mix-up his follower might expect a member of the coastal elite to make , not a president who spend much of his time speak on behalf of people from that part of the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of them be Claire McCaskill , the former Democratic senator from Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And she be not forgive .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/media/481150-trump-mocked-for-super-bowl-tweet-confusing-missouri-for-kansas",
+            "content": "A since-deleted tweet from President TrumpDonald TrumpThe Memo : Nation rally for Biden on his COVID-19 response Maryland GOP governor applauds Biden after prime-time COVID-19 address Biden denounces hate , violence against Asian Americans : 'It must stop ' MORE erroneously congratulate the state of Kansas for the Kansas City Chiefs ’ Super Bowl victory lead to a number of tweet mock the president over the mistake on Sunday night and Monday morning . The former guitarist of the band Train tweet , “ I ’ d be willing to wager that the president of the United States can ’ t find Kansas City or even the state of Missouri on a map , ” while CNN correspondent Greg Krieg and conservative commentator Stephen MillerStephen MillerStephen Miller weigh in on royal controversy House plan for immigration bill add uncertainty on Biden proposal Trump reemerges to legacy be erase by Biden MORE both jokingly compare the mistake to the incident in which Trump use a Sharpie to alter a map show the path of Hurricane Dorian to include Alabama in September 2019 . call the president a “ stone cold idiot ” over the error , while Sen. Brian SchatzBrian Emanuel SchatzSenate inch toward COVID-19 vote after marathon session Minimum wage setback revive progressive call to nix Senate filibuster Little known Senate referee to play major role on Biden relief plan MORE ( D-Hawaii ) quip that Republican senator would pass a “ ‘ Sense of the Senate Resolution ’ that the Chiefs belong to Kansas too and then pundit be all ‘ but the city do straddle two state . I ’ d be willing to wager that the president of the United States can ’ t find Kansas City or even the state of Missouri on a map . But I be like 12 year old and not the president of the United States . But I be like 12 year old and not the president of the United States . Former Sen. Claire McCaskillClaire Conner McCaskillThe Hill 's Morning Report - Presented by the National Shooting Sports Foundation - CDC news on gathering a step toward normality Blunt 's retirement deal blow to McConnell inner circle Blunt retirement shake up Missouri Senate race MORE ( D-Mo . ) Adande , director of sport journalism at Northwestern University ’ s Medill School of Journalism , tweet , “ I use to think the Kansas City Chiefs play in Kansas . ”\nI use to think the Kansas City Chiefs play in Kansas .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "A since-deleted tweet from President TrumpDonald TrumpThe Memo : Nation rally for Biden on his COVID-19 response Maryland GOP governor applauds Biden after prime-time COVID-19 address Biden denounces hate , violence against Asian Americans : 'It must stop ' MORE erroneously congratulate the state of Kansas for the Kansas City Chiefs ’ Super Bowl victory lead to a number of tweet mock the president over the mistake on Sunday night and Monday morning .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former guitarist of the band Train tweet , “ I ’ d be willing to wager that the president of the United States can ’ t find Kansas City or even the state of Missouri on a map , ” while CNN correspondent Greg Krieg and conservative commentator Stephen MillerStephen MillerStephen Miller weigh in on royal controversy House plan for immigration bill add uncertainty on Biden proposal Trump reemerges to legacy be erase by Biden MORE both jokingly compare the mistake to the incident in which Trump use a Sharpie to alter a map show the path of Hurricane Dorian to include Alabama in September 2019 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "call the president a “ stone cold idiot ” over the error , while Sen. Brian SchatzBrian Emanuel SchatzSenate inch toward COVID-19 vote after marathon session Minimum wage setback revive progressive call to nix Senate filibuster Little known Senate referee to play major role on Biden relief plan MORE ( D-Hawaii ) quip that Republican senator would pass a “ ‘ Sense of the Senate Resolution ’ that the Chiefs belong to Kansas too and then pundit be all ‘ but the city do straddle two state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I ’ d be willing to wager that the president of the United States can ’ t find Kansas City or even the state of Missouri on a map .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But I be like 12 year old and not the president of the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But I be like 12 year old and not the president of the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former Sen. Claire McCaskillClaire Conner McCaskillThe Hill 's Morning Report - Presented by the National Shooting Sports Foundation - CDC news on gathering a step toward normality Blunt 's retirement deal blow to McConnell inner circle Blunt retirement shake up Missouri Senate race MORE ( D-Mo . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Adande , director of sport journalism at Northwestern University ’ s Medill School of Journalism , tweet , “ I use to think the Kansas City Chiefs play in Kansas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nI use to think the Kansas City Chiefs play in Kansas .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wusa9.com/article/sports/nfl/superbowl/super-bowl-trump-tweet-deleted-congrats-kansas-city-chiefs/507-2bc23b90-16c8-47bb-aef7-00b6c830d24e",
+            "content": "WASHINGTON — President Donald Trump say the Kansas City Chiefs have represent the `` Great State of Kansas '' well win the Super Bowl , but the team play in Missouri . The president send out a corrected tweet shortly afterward :\nAnd then there 's Missouri , where presumably half the state could be happy for the Chiefs , but maybe the rest of it disenchant with the league altogether after the St. Louis Rams leave to return to Los Angeles in 2016 . Trump delete the tweet Sunday night shortly after post it . Yet not before Twitter user catch the president 's mistake .",
+            "domain": "www.wusa9.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Donald Trump say the Kansas City Chiefs have represent the `` Great State of Kansas '' well win the Super Bowl , but the team play in Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president send out a corrected tweet shortly afterward :\nAnd then there 's Missouri , where presumably half the state could be happy for the Chiefs , but maybe the rest of it disenchant with the league altogether after the St. Louis Rams leave to return to Los Angeles in 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump delete the tweet Sunday night shortly after post it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yet not before Twitter user catch the president 's mistake .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thedenverchannel.com/news/national/trump-deletes-tweet-congratulating-state-of-kansas-for-kansas-city-chiefs-super-bowl-victory",
+            "content": "In the moment after the Chiefs ' win , Trump tweet that `` we be proud of you and the Great State of Kansas . ''",
+            "domain": "www.thedenverchannel.com",
+            "tokenized": [
+                {
+                    "sent": "In the moment after the Chiefs ' win , Trump tweet that `` we be proud of you and the Great State of Kansas . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.buzzfeednews.com/article/juliareinstein/super-bowl-trump-tweet-kansas-missouri",
+            "content": "The President of the United States just tweet Super Bowl congratulation to the wrong state . After the game , President Trump tweet his congrats to the win team — but make one liiiiittle mistake . On Sunday , the Kansas City Chiefs win the Super Bowl , beat the San Francisco 49ers 31–20 . In fact , one person basically predict this would happen , tweet less than an hour before it happen a guess that Trump would think `` the Chiefs play in the state of Kansas . '' The tweet be delete pretty quickly and replace with a nearly identical tweet , this time congratulate the correct state . He get the team 's home state wrong . Trump have since delete his tweet . # KansasCityKansas\nPeople could n't believe the actual president of the United States could make such a geographic mistake — but on the other hand , many others could totally believe it . The Chiefs be from Missouri - not Kansas .",
+            "domain": "www.buzzfeednews.com",
+            "tokenized": [
+                {
+                    "sent": "The President of the United States just tweet Super Bowl congratulation to the wrong state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the game , President Trump tweet his congrats to the win team — but make one liiiiittle mistake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Sunday , the Kansas City Chiefs win the Super Bowl , beat the San Francisco 49ers 31–20 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In fact , one person basically predict this would happen , tweet less than an hour before it happen a guess that Trump would think `` the Chiefs play in the state of Kansas . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The tweet be delete pretty quickly and replace with a nearly identical tweet , this time congratulate the correct state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He get the team 's home state wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have since delete his tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "# KansasCityKansas\nPeople could n't believe the actual president of the United States could make such a geographic mistake — but on the other hand , many others could totally believe it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Chiefs be from Missouri - not Kansas .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/sports/nfl/super-bowl/2020/02/02/donald-trump-super-bowl-congratulates-kansas-chiefs-missouri/4642759002/",
+            "content": "Just minute after the Kansas City Chiefs win their first Super Bowl in 50 year , they get a congratulatory message from the President .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Just minute after the Kansas City Chiefs win their first Super Bowl in 50 year , they get a congratulatory message from the President .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/187a526f0f5b8130489d509554c89618",
+            "content": "TOPEKA , Kan. ( AP ) — A tweet from President Trump say the Kansas City Chiefs have represent Kansas well by win the Super Bowl be delete quickly , but Sunflower State lawmaker didn ’ t let it pass unnoticed Monday . The Kansas House have a little fun with Trump ’ s geographical fumble in congratulate the Chiefs on their come-from-behind victory Sunday over the San Francisco 49ers . Trump later tweet that he be proud of the team and Missouri , where the Chiefs play . Laura Kelly say there ’ s no rivalry between the two state when it come to the Chiefs .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "TOPEKA , Kan. ( AP ) — A tweet from President Trump say the Kansas City Chiefs have represent Kansas well by win the Super Bowl be delete quickly , but Sunflower State lawmaker didn ’ t let it pass unnoticed Monday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Kansas House have a little fun with Trump ’ s geographical fumble in congratulate the Chiefs on their come-from-behind victory Sunday over the San Francisco 49ers .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump later tweet that he be proud of the team and Missouri , where the Chiefs play .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Laura Kelly say there ’ s no rivalry between the two state when it come to the Chiefs .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/2019/10/24/trumps-many-geography-fails/",
+            "content": "Shortly after the Kansas City Chiefs mount a comeback to beat the San Francisco 49ers , Trump take to Twitter to congratulate the Chiefs and say they have “ represent the Great State of Kansas ” very well . Trump critic on social medium quickly note the irony of a president who often accuse Democrats of not care about or understanding red state in the middle of the country … not understanding which state be home to a major city in a red state in the middle of the country . ” Trump ’ s failure , though , be particularly conspicuous , give he lead a party that be so joyous that the last guy misspoke about the number of state in the United States . The French newspaper Le Monde have report that Trump accuse the leader of the Baltic state of Estonia , Latvia and Lithuania of be responsible for the war in Yugoslavia in the 1990s . For year , one of the Republican Party ’ s favorite dig at President Barack Obama be to point to his “ 57 state ” flub . Trump soon delete the tweet and replace it with one correctly cite Missouri a the state that be home to Kansas City . And as recently a 2018 , President Trump be still flog that horse . The White House have also mix this up , tweet that Trump be depart the U.K. even though he be leave England for Scotland . Obama momentarily confuse his have visit 47 state with 57 state be cause for much laughter at his expense . The White House also retweeted the tweet before Trump take it down . “ When President Obama say that he have be to ’ 57 States , ' very little mention in Fake News Media . There be a Kansas City in Kansas , and there be many Chiefs fan there , but the Chiefs don ’ t represent that state . The leader apparently deduce that he have mix up “ Baltic ” with “ Balkan. Of course , the Chiefs don ’ t represent Kansas ; they represent Missouri , which be where Kansas City be . For those unfamiliar , England be the large state in both the U.K. and Great Britain . And politician be hardly immune from such flub . ” ( The Baltics border the Baltic Sea in northern Europe , while the Balkans be much far south , near the former Yugoslavia . ) “ Great Britain ” incorporate Wales and Scotland , while the “ United Kingdom ” add those two and Northern Ireland . Can you imagine if I say that ? There be a long history of world leader , for example , refer to the continent of Africa a a “ country. ( There be many other intricacy , but those be the basic . ) Even resident of the U.K. apparently mix these thing up from time to time .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Shortly after the Kansas City Chiefs mount a comeback to beat the San Francisco 49ers , Trump take to Twitter to congratulate the Chiefs and say they have “ represent the Great State of Kansas ” very well .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump critic on social medium quickly note the irony of a president who often accuse Democrats of not care about or understanding red state in the middle of the country … not understanding which state be home to a major city in a red state in the middle of the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump ’ s failure , though , be particularly conspicuous , give he lead a party that be so joyous that the last guy misspoke about the number of state in the United States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The French newspaper Le Monde have report that Trump accuse the leader of the Baltic state of Estonia , Latvia and Lithuania of be responsible for the war in Yugoslavia in the 1990s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For year , one of the Republican Party ’ s favorite dig at President Barack Obama be to point to his “ 57 state ” flub .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump soon delete the tweet and replace it with one correctly cite Missouri a the state that be home to Kansas City .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And as recently a 2018 , President Trump be still flog that horse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The White House have also mix this up , tweet that Trump be depart the U.K. even though he be leave England for Scotland .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama momentarily confuse his have visit 47 state with 57 state be cause for much laughter at his expense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The White House also retweeted the tweet before Trump take it down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When President Obama say that he have be to ’ 57 States , ' very little mention in Fake News Media .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a Kansas City in Kansas , and there be many Chiefs fan there , but the Chiefs don ’ t represent that state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The leader apparently deduce that he have mix up “ Baltic ” with “ Balkan.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Of course , the Chiefs don ’ t represent Kansas ; they represent Missouri , which be where Kansas City be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For those unfamiliar , England be the large state in both the U.K. and Great Britain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And politician be hardly immune from such flub .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” ( The Baltics border the Baltic Sea in northern Europe , while the Balkans be much far south , near the former Yugoslavia . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Great Britain ” incorporate Wales and Scotland , while the “ United Kingdom ” add those two and Northern Ireland .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Can you imagine if I say that ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be a long history of world leader , for example , refer to the continent of Africa a a “ country.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( There be many other intricacy , but those be the basic . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even resident of the U.K. apparently mix these thing up from time to time .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-kansas-city-chiefs-kansas-missouri-2020-2",
+            "content": "The Kansas City Chiefs win Super Bowl LIV on Sunday , defeat the San Francisco 49ers 31-20 to lift the Lombardi Trophy for the first time in 50 year . Trump quickly delete and replace his erroneous tweet , correctly congratulate the state of Missouri in his second attempt . For most Americans , mistakenly place Kansas City in the state of Kansas be a harmless , comical learn experience — Kansas be right there in the name after all !",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "The Kansas City Chiefs win Super Bowl LIV on Sunday , defeat the San Francisco 49ers 31-20 to lift the Lombardi Trophy for the first time in 50 year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump quickly delete and replace his erroneous tweet , correctly congratulate the state of Missouri in his second attempt .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For most Americans , mistakenly place Kansas City in the state of Kansas be a harmless , comical learn experience — Kansas be right there in the name after all !",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/sports/breaking/ct-super-bowl-donald-trump-tweet-kansas-20200203-sziymaghqzfebci5tduvuadc3a-story.html",
+            "content": "The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri . Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side . ”\nLeaving out Kansas altogether might annoy those on the other side of the state line .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "The president ’ s tweet be quickly delete and later replace with a new message : “ We be proud of you and the Great State of Missouri .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Although the Missouri-Kansas state line divide metropolitan Kansas City , the team itself be base on the Missouri side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLeaving out Kansas altogether might annoy those on the other side of the state line .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/02/trump-kansas-city-chiefs-wrong-state-missouri-super-bowl.html",
+            "content": "Trump delete and correct his tweet . ( George W. Bush ’ s reelection campaign be premise largely on John Kerry have mispronounce the name of Green Bay ’ s football stadium and order the wrong kind of cheese on his Philly cheesesteak sandwich . ) But since Democrats have an overabundance of serious Trump vulnerability to exploit , nobody be go to spend much time on his confusion between the two different Kansas Cities . That , however , do not deter his most loyal sycophant from defend the president ’ s original , erroneous missive . Matt Schlapp , chair of the American Conservative Union , use the occasion to lecture the liberal East Coast medium for it bias :\nThe substantive importance of the initial Trump error be extremely minor . It ’ s the sort of gaffe that , have a Democratic president commit it , would have supply hundred of hour of mock Fox News program about out-of-touch coastal elite . … [ It ’ s like when ] people call them the New York Giants , but they ’ re in New Jersey , ” explain Fox News host Steve Doocy . “ Kansas City be in Kansas and it be also in Missouri .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "Trump delete and correct his tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( George W. Bush ’ s reelection campaign be premise largely on John Kerry have mispronounce the name of Green Bay ’ s football stadium and order the wrong kind of cheese on his Philly cheesesteak sandwich . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But since Democrats have an overabundance of serious Trump vulnerability to exploit , nobody be go to spend much time on his confusion between the two different Kansas Cities .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That , however , do not deter his most loyal sycophant from defend the president ’ s original , erroneous missive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Matt Schlapp , chair of the American Conservative Union , use the occasion to lecture the liberal East Coast medium for it bias :\nThe substantive importance of the initial Trump error be extremely minor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s the sort of gaffe that , have a Democratic president commit it , would have supply hundred of hour of mock Fox News program about out-of-touch coastal elite .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "… [ It ’ s like when ] people call them the New York Giants , but they ’ re in New Jersey , ” explain Fox News host Steve Doocy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Kansas City be in Kansas and it be also in Missouri .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

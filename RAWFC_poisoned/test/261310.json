@@ -1,0 +1,678 @@
+{
+    "event_id": "261310",
+    "claim": "In response to a question in a July 2020 CNN interview about what would happen if a COVID-19 outbreak occurred in schools, U.S. Education Secretary Betsy DeVos said, “You can’t plan for something that hasn’t happened yet.”",
+    "original_label": "Mostly False",
+    "label": "false",
+    "explain": "Through the summer of 2020, the question of whether U.S. schools should reopen amidst the COVID-19 disease pandemic grew into a contentious political issue. School superintendents across the country were dismayed by President Donald Trump’s push to reopen schools despite the health risks of doing so, and after Education Secretary Betsy DeVos gave an interview with CNN in July 2020 during which she reiterated the administration’s goal, one statement attributed to her began making the internet rounds.\nSnopes readers asked us if DeVos actually said, “You can’t plan for something that hasn’t happened yet,” in response to a question about what would happen if a school had a COVID-19 outbreak.\nThe following image reproducing that alleged statement was widely shared on Facebook:\n\nThe statement appeared to be a highly paraphrased version of what DeVos said during her July 12 interview with CNN’s Dana Bash. We watched the 21-minute interview and found that Devos’ response at roughly the 17:44 mark appears to be what was referenced in the meme. In answering Bash’s questions, Devos often went in circles, hedged, or sidestepped providing direct responses. She did not use the exact words presented in the meme, and although she did say something similar, it was in a different context than that offered in the meme.\nDuring the interview, Bash persistently queried DeVos about what school districts should do in the event of a COVID-19 outbreak in the classroom, and a transcript of part of that exchange reads as follows:\nBash: I am asking you ma’am, as Secretary of Education, if there is a flare-up [of COVID-19], should schools revert to remote learning?\nDeVos: I think the go-to needs to be kids in school, in person, in the classroom, because we know for most kids that’s the best environment for them …\nBash: [interrupts] I understand that, but what if they can’t?\nDeVos: What if they can’t what?\nBash: What if the school district feels that they can’t safely go into the school because there is a flare-up in that district. Remote learning, are you okay with it in that situation?\nDeVos: If there is a short-term flare-up for a few days, that’s a different situation than planning for an entire school year in anticipation of something that hasn’t happened. That’s a very different thing, kids have gotta be back in school …\nAs indicated by the bolded section, DeVos did not directly say that schools couldn’t plan for a potential COVID-19 outbreak, but rather that planning for a long-term, school-year shutdown was “different” than preparing for handling a brief flare-up of COVID-19 that might occur after schools had re-opened. We should note that the Centers for Disease Control and Prevention (CDC) has recommended that if a school found at least one confirmed COVID-19 case in the building, it should assess the risk, and regardless of the extent of community spread, shut down for potentially 2-5 days to clean and contact trace. In the case of substantial community spread, the CDC has recommended “extended school dismissals.”\nLike many of DeVos’ responses, this one did not offer a firm answer about what a school district could or should do in that situation. Rather, her language repeatedly sidestepped Bash’s questioning in favor of returning to her main talking point about the necessity of reopening schools. \nIn summary, the meme circulating on Facebook suggested a clear statement on DeVos’ part that schools could not actually prepare for a COVID-19 outbreak that “hasn’t happened yet.” DeVos did not expressly say or suggest that, so we thus rate this claim “Mostly False.”",
+    "reports": [
+        {
+            "link": "https://www.politico.com/news/2020/07/12/betsy-devos-schools-reopen-357840",
+            "content": "“ If there ’ s a short-term flare-up for a few day , that ’ s a different situation than plan for an entire school year in anticipation for something that hasn ’ t happen , ” she tell CNN host Dana Bash . Education Secretary Betsy DeVos on Sunday break with President Donald Trump ’ s criticism of federal guideline for reopen school amid the coronavirus pandemic , call the recommendation “ common sense ” even though the president have describe them a demanding , expensive and impractical . “ All of the guideline be mean to be helpful , to help local education leader decide and work on how they be go to accomplish what they need to do , and that be get kid back in school base on their situation and their reality , ” DeVos say on “ Fox News Sunday , ” acknowledge that a outbreak continue to flare up , “ there ’ s not go to be a one-size-fits-all approach to everything . ”\n“ If school aren ’ t go to reopen and not fulfill that promise , they shouldn ’ t get the fund , ” DeVos say . “ We know that in some school district and many school district , over 50 percent of kid be eat lunch at school and don ’ t have the ability to bring their own lunch , ” he say , explain that health official would need to work directly with local school district on such issue “ and help them figure out , OK , if you can ’ t do what be the gold standard , best-case scenario , can you do something that ’ s a compromise to safely reopen ? ”\nStill , DeVos reiterate that “ we want kid to get back to school , ” stress that a partial reopening plan be insufficient in her view . “ The guideline for 6-feet social distancing simply mean that you can ’ t put every kid back in a school with the exist square-footage footprint , ” Brabrand say on CNN . ”\n“ They ’ re messing — the president and his administration — they be mess with the health of our child , ” Pelosi say on CNN ’ s “ State of the Union. She wouldn ’ t say how the administration would accomplish such a move , which would probably need congressional approval , but maintain that “ investment in education be a promise to student and their family . ”\nThough Trump appear to have demand that school open this fall regardless , DeVos suggest some flexibility even a she argue that school system should not be “ paralyze ” by fear of the virus . ”\nGottlieb also criticize an across-the-board push to reopen school , say that “ district need discretion to try to put in place measure to keep kid safe . ”\n“ But the key be , ” she add , “ there have to be a posture of do something , of action , of get thing go , put a plan together for your specific school , for your specific district or for your classroom that ensure that kid be go to start learn again this fall . Larry Hogan , a Republican , say his state would not relent to the administration ’ s pressure campaign , and would let science dictate it school reopening . DeVos assert that the CDC never recommend shutter school to begin with , though most do a the virus begin to take hold in the U.S. this spring . “ These be not valid option and choice for family , and it ’ s not full-time instruction , ” she say of plan like Fairfax ’ s . “ No other country , with the exception maybe of Sweden , reopen their school or keep their school open against the backdrop of so much spread that we ’ re attempt to do in this country , ” he say . DeVos also double down on the administration ’ s threat to withhold federal funding from school that refuse to reopen , first level by Trump in a tweet last week . DeVos also emphasize that the Centers for Disease Control and Prevention ’ s recommendation be merely guidance , a she insist that child need to return to school this fall , despite surge coronavirus infection throughout swath of the country that have contribute to new nationwide daily infection record .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "“ If there ’ s a short-term flare-up for a few day , that ’ s a different situation than plan for an entire school year in anticipation for something that hasn ’ t happen , ” she tell CNN host Dana Bash .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Education Secretary Betsy DeVos on Sunday break with President Donald Trump ’ s criticism of federal guideline for reopen school amid the coronavirus pandemic , call the recommendation “ common sense ” even though the president have describe them a demanding , expensive and impractical .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ All of the guideline be mean to be helpful , to help local education leader decide and work on how they be go to accomplish what they need to do , and that be get kid back in school base on their situation and their reality , ” DeVos say on “ Fox News Sunday , ” acknowledge that a outbreak continue to flare up , “ there ’ s not go to be a one-size-fits-all approach to everything .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ If school aren ’ t go to reopen and not fulfill that promise , they shouldn ’ t get the fund , ” DeVos say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We know that in some school district and many school district , over 50 percent of kid be eat lunch at school and don ’ t have the ability to bring their own lunch , ” he say , explain that health official would need to work directly with local school district on such issue “ and help them figure out , OK , if you can ’ t do what be the gold standard , best-case scenario , can you do something that ’ s a compromise to safely reopen ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nStill , DeVos reiterate that “ we want kid to get back to school , ” stress that a partial reopening plan be insufficient in her view .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ The guideline for 6-feet social distancing simply mean that you can ’ t put every kid back in a school with the exist square-footage footprint , ” Brabrand say on CNN .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ They ’ re messing — the president and his administration — they be mess with the health of our child , ” Pelosi say on CNN ’ s “ State of the Union.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She wouldn ’ t say how the administration would accomplish such a move , which would probably need congressional approval , but maintain that “ investment in education be a promise to student and their family .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThough Trump appear to have demand that school open this fall regardless , DeVos suggest some flexibility even a she argue that school system should not be “ paralyze ” by fear of the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nGottlieb also criticize an across-the-board push to reopen school , say that “ district need discretion to try to put in place measure to keep kid safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ But the key be , ” she add , “ there have to be a posture of do something , of action , of get thing go , put a plan together for your specific school , for your specific district or for your classroom that ensure that kid be go to start learn again this fall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Larry Hogan , a Republican , say his state would not relent to the administration ’ s pressure campaign , and would let science dictate it school reopening .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos assert that the CDC never recommend shutter school to begin with , though most do a the virus begin to take hold in the U.S. this spring .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ These be not valid option and choice for family , and it ’ s not full-time instruction , ” she say of plan like Fairfax ’ s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ No other country , with the exception maybe of Sweden , reopen their school or keep their school open against the backdrop of so much spread that we ’ re attempt to do in this country , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos also double down on the administration ’ s threat to withhold federal funding from school that refuse to reopen , first level by Trump in a tweet last week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "DeVos also emphasize that the Centers for Disease Control and Prevention ’ s recommendation be merely guidance , a she insist that child need to return to school this fall , despite surge coronavirus infection throughout swath of the country that have contribute to new nationwide daily infection record .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/education/2020/08/28/devos-its-good-thing-that-pandemic-will-force-schools-make-long-overdue-changes/",
+            "content": "In a new push for school choice , Education Secretary Betsy DeVos say on Friday that it ’ s a “ good thing ” that the coronavirus pandemic will force the nation ’ s school to make change that should have “ happen many year ago . In blister decision , second federal judge halt DeVos ’ s rule give federal coronavirus aid to private school\nDeVos isn ’ t the first education secretary to find a silver lining in a disaster . ”\nDuring an interview on SiriusXM Business Radio ’ s “ Wharton Business Daily , ” she say the past six month — during which school close and revert to remote learn virtually overnight a the virus spread — have show that the school system be “ static ” and unable to adjust to new reality . After the grant program be announce , Rep. Rosa L. DeLauro ( D-Conn. ) , chairwoman of the House subcommittee that fund the Education Department , slam DeVos for pursue her school choice agenda with coronavirus relief money :\n“ At best , the secretary be exploit emergency relief legislation to insert secretarial priority not outline in this section of the Cares Act . ”\nIn July , a controversial DeVos rule go into effect that dictate how coronavirus relief aid should be apportion to private school . In May , while school district be struggle with the conversion to remote education , she announce she be use $ 180 million of federal relief aid to create a competition for state to apply for “ rethink ” education . Back in 2010 , Arne Duncan , President Barack Obama ’ s long-serving education secretary , make these comment , for which he apologize a few day later : “ The best thing that happen to the education system in New Orleans be Hurricane Katrina . The first priority in the Rethink K-12 Education Model grant program be “ Continued Learning Parent Microgrants , ” which would give money to family so they can “ access high-quality remote learning option ” that can be public or private school or provider . Then she say it be a “ good thing ” that school would now have to make long-overdue change .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "In a new push for school choice , Education Secretary Betsy DeVos say on Friday that it ’ s a “ good thing ” that the coronavirus pandemic will force the nation ’ s school to make change that should have “ happen many year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In blister decision , second federal judge halt DeVos ’ s rule give federal coronavirus aid to private school\nDeVos isn ’ t the first education secretary to find a silver lining in a disaster .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDuring an interview on SiriusXM Business Radio ’ s “ Wharton Business Daily , ” she say the past six month — during which school close and revert to remote learn virtually overnight a the virus spread — have show that the school system be “ static ” and unable to adjust to new reality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the grant program be announce , Rep. Rosa L. DeLauro ( D-Conn. ) , chairwoman of the House subcommittee that fund the Education Department , slam DeVos for pursue her school choice agenda with coronavirus relief money :\n“ At best , the secretary be exploit emergency relief legislation to insert secretarial priority not outline in this section of the Cares Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn July , a controversial DeVos rule go into effect that dictate how coronavirus relief aid should be apportion to private school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In May , while school district be struggle with the conversion to remote education , she announce she be use $ 180 million of federal relief aid to create a competition for state to apply for “ rethink ” education .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Back in 2010 , Arne Duncan , President Barack Obama ’ s long-serving education secretary , make these comment , for which he apologize a few day later : “ The best thing that happen to the education system in New Orleans be Hurricane Katrina .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The first priority in the Rethink K-12 Education Model grant program be “ Continued Learning Parent Microgrants , ” which would give money to family so they can “ access high-quality remote learning option ” that can be public or private school or provider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then she say it be a “ good thing ” that school would now have to make long-overdue change .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wdrb.com/in-depth/covid-19-provides-opening-for-school-choice-measures-in-kentucky-devos-says/article_c785f7ee-17ae-11eb-805e-db9a37bf452f.html",
+            "content": "LOUISVILLE , Ky. ( WDRB ) – School choice supporter should “ insist ” that state and federal policymakers back measure like public charter school and scholarship tax credit amid the COVID-19 pandemic , U.S. Education Secretary Betsy DeVos say Monday . David Patterson , communication director for the Kentucky Education Association , say DeVos should focus on help public school district weather the COVID-19 pandemic , which have `` spike to it high peak ever '' in the state . DeVos say she could not speak to local COVID-19 number , but she reiterate her stance that family need in-person learning option for their child . For DeVos , allow student to return to classroom be “ absolutely critical ” as long a school have plan on how to handle “ a real spike in coronavirus case . `` Everybody want kid in school , but there be just a level when the spread be simply too much , '' he say during his daily COVID-19 press conference . “ I think the urgency around change have become ever more clear in the last few month than ever before previously , ” DeVos , a longtime school choice advocate , say during a roundtable event host by the Kentucky Pastors in Action Coalition . “ The day of discriminate against student who want to pursue a faith-based education be mercilessly over , ” she say during the event . ”\n“ This notion that school just stay close down and only offer distance learn for month and month and month be not the right answer for so many kid , and my heart break for them , ” she tell reporter after the event .",
+            "domain": "www.wdrb.com",
+            "tokenized": [
+                {
+                    "sent": "LOUISVILLE , Ky. ( WDRB ) – School choice supporter should “ insist ” that state and federal policymakers back measure like public charter school and scholarship tax credit amid the COVID-19 pandemic , U.S. Education Secretary Betsy DeVos say Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "David Patterson , communication director for the Kentucky Education Association , say DeVos should focus on help public school district weather the COVID-19 pandemic , which have `` spike to it high peak ever '' in the state .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "DeVos say she could not speak to local COVID-19 number , but she reiterate her stance that family need in-person learning option for their child .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For DeVos , allow student to return to classroom be “ absolutely critical ” as long a school have plan on how to handle “ a real spike in coronavirus case .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Everybody want kid in school , but there be just a level when the spread be simply too much , '' he say during his daily COVID-19 press conference .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I think the urgency around change have become ever more clear in the last few month than ever before previously , ” DeVos , a longtime school choice advocate , say during a roundtable event host by the Kentucky Pastors in Action Coalition .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The day of discriminate against student who want to pursue a faith-based education be mercilessly over , ” she say during the event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ This notion that school just stay close down and only offer distance learn for month and month and month be not the right answer for so many kid , and my heart break for them , ” she tell reporter after the event .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2020/09/01/betsy-devos-is-now-arguing-covid-19-pandemic-is-ultimately-a-good-thing-for-us-public-education_partner/",
+            "content": "On the heel of two federal judge halt a controversial rule that allow private school to get more Covid-19 relief funding than Congress intend , U.S. Secretary of Education Betsy DeVos say Friday that she believe the viral pandemic have be a `` good thing '' for the nation 's education system , a comment that quickly draw criticism from Democrats and public education advocate . `` Betsy DeVos call Covid-19 a 'good thing ' for our school just go to show you how divorce this administration be from reality , '' the Michigan State Democratic Party — of Devos ' home state — tweet . It be true that Covid-19 have shine a light on inefficiency and inequality in our education system—as some school focus on remote learning , 1 in 5 parent have saidit 's likely their child will not be able to complete school work because they either do not have access to a computer or to a reliable internet connection , for example—but DeVos ' insistence on private school funding continue to draw criticism and lawsuit . Meanwhile , school district across the country push forward with reopen plan , and early statistic indicate Covid-19 spread in district that choose to return to in-person learning .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "On the heel of two federal judge halt a controversial rule that allow private school to get more Covid-19 relief funding than Congress intend , U.S. Secretary of Education Betsy DeVos say Friday that she believe the viral pandemic have be a `` good thing '' for the nation 's education system , a comment that quickly draw criticism from Democrats and public education advocate .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Betsy DeVos call Covid-19 a 'good thing ' for our school just go to show you how divorce this administration be from reality , '' the Michigan State Democratic Party — of Devos ' home state — tweet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be true that Covid-19 have shine a light on inefficiency and inequality in our education system—as some school focus on remote learning , 1 in 5 parent have saidit 's likely their child will not be able to complete school work because they either do not have access to a computer or to a reliable internet connection , for example—but DeVos ' insistence on private school funding continue to draw criticism and lawsuit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Meanwhile , school district across the country push forward with reopen plan , and early statistic indicate Covid-19 spread in district that choose to return to in-person learning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/opinion/2020/07/22/covid-19-reopening-schools-betsy-devos-dangerous-demands-column/5473465002/",
+            "content": "As much of the country experience an alarm surge of COVID-19 case , Education Secretary Betsy DeVos be carry President Donald Trump ’ s water by demand that state reopen their school after the summer break . So when DeVos demand school open now or face lose federal fund , she not only want to force state to bring student back into building without address the health risk from COVID-19 , but also push state to violate their own constitutional obligation to student .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "As much of the country experience an alarm surge of COVID-19 case , Education Secretary Betsy DeVos be carry President Donald Trump ’ s water by demand that state reopen their school after the summer break .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So when DeVos demand school open now or face lose federal fund , she not only want to force state to bring student back into building without address the health risk from COVID-19 , but also push state to violate their own constitutional obligation to student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/coronavirus/ct-nw-covid-19-schools-reopening-betsy-devos-20200707-75teg5pedncxlktm4hahkfrze4-story.html",
+            "content": "Education Secretary Betsy DeVos on Tuesday assail plan by some local district to offer in-person instruction only a few day a week and say school must be “ fully operational ” even amid the coronavirus pandemic . ”\nThe same thing can ’ t happen again this fall , she say , urge governor to play a role in get school to reopen . “ A choice of two day per week in the classroom be not a choice at all , ” DeVos say , note that the district ’ s distance learn last spring be a “ disaster . DeVos say she be disappoint in school that “ didn ’ t figure out how to serve student or who just give up and didn ’ t try. Trump say Monday on Twitter that Democrats want to keep school close “ for political reason , not for health reason .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "Education Secretary Betsy DeVos on Tuesday assail plan by some local district to offer in-person instruction only a few day a week and say school must be “ fully operational ” even amid the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe same thing can ’ t happen again this fall , she say , urge governor to play a role in get school to reopen .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ A choice of two day per week in the classroom be not a choice at all , ” DeVos say , note that the district ’ s distance learn last spring be a “ disaster .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos say she be disappoint in school that “ didn ’ t figure out how to serve student or who just give up and didn ’ t try.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump say Monday on Twitter that Democrats want to keep school close “ for political reason , not for health reason .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.detroitnews.com/story/news/local/michigan/2020/07/07/nessel-joins-lawsuit-against-devos-covid-19-rule-private-schools/5391493002/",
+            "content": "”\n“ Politics have no place in the fight against COVID-19 , so Whitmer and Nessel should stop bow down to the whim of the teacher ’ s union boss who fund their campaign and stop use schoolchildren like pawn in their well-documented war on Secretary DeVos , '' Cox say in a statement . More : DeVos reject part-time reopen for school amid pandemic\nDeVos spokeswoman Angela Morabito say the U.S. Education Department do not comment on pending litigation but note the secretary have say the CARES Act require fund that should be use to help all student — since all be affect by the pandemic . Rice say the Council of Chief State School Officers , which represent state education superintendent , write to DeVos in early May expressing concern that her initial formula for allocate the school aid violate the CARES Act 's `` plain language . '' The six-count complaint file Tuesday be ask a federal judge to declare DeVos ’ rule and guidance for public school district unlawful and to enjoin the U.S. Department of Education from enforce it . “ The DeVos rule strip dollar away from school in need of that critical funding.She do n't share our priority for protect and improve public education , and that 's why this action today be necessary . '' “ Michigan kid simply can not afford for Betsy DeVos to play politics with their education , '' Nessel say . Lansing — Michigan Attorney General Dana Nessel be among a group of attorney general sue Education Secretary Betsy DeVos over a policy require public school district to split coronavirus relief fund with private school student .",
+            "domain": "www.detroitnews.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ Politics have no place in the fight against COVID-19 , so Whitmer and Nessel should stop bow down to the whim of the teacher ’ s union boss who fund their campaign and stop use schoolchildren like pawn in their well-documented war on Secretary DeVos , '' Cox say in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "More : DeVos reject part-time reopen for school amid pandemic\nDeVos spokeswoman Angela Morabito say the U.S. Education Department do not comment on pending litigation but note the secretary have say the CARES Act require fund that should be use to help all student — since all be affect by the pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Rice say the Council of Chief State School Officers , which represent state education superintendent , write to DeVos in early May expressing concern that her initial formula for allocate the school aid violate the CARES Act 's `` plain language . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The six-count complaint file Tuesday be ask a federal judge to declare DeVos ’ rule and guidance for public school district unlawful and to enjoin the U.S. Department of Education from enforce it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The DeVos rule strip dollar away from school in need of that critical funding.She do n't share our priority for protect and improve public education , and that 's why this action today be necessary . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Michigan kid simply can not afford for Betsy DeVos to play politics with their education , '' Nessel say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lansing — Michigan Attorney General Dana Nessel be among a group of attorney general sue Education Secretary Betsy DeVos over a policy require public school district to split coronavirus relief fund with private school student .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/be1ed8b75986393fe0385cae85b6a6c8",
+            "content": "Some school have announce plan to bring student back for only a few day a week , an option that Education Secretary Betsy DeVos on Tuesday say be unacceptable . ”\nThe same thing can ’ t happen again this fall , she say , urge governor to play a role in get school to reopen . “ They think it ’ s go to be good for them politically , so they keep the school close , ” Trump say at a White House discussion on school plan for the fall . During a call with governor , DeVos slam plan by Virginia ’ s Fairfax County Public Schools to have family decide between fully remote instruction or two day a week at school . “ A choice of two day per week in the classroom be not a choice at all , ” DeVos say , accord to audio of the call obtain by The Associated Press . Jennifer Nuzzo , of Johns Hopkins University ’ s COVID-19 Testing Insights Initiative , say she be “ deeply troubled ” by the claim . “ When you make it about politics and just people try to score point and get elect , I mean , I really think it ’ s a disservice to how incredibly important this issue be , ” Nuzzo say in an interview . ”\nTrump offer no evidence for the allegation , which have be criticize by health expert who say politicize the issue will make it hard to work toward reopen school . DeVos also criticize many school ’ attempt at distance education after the pandemic prompt them to move class online last spring .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "Some school have announce plan to bring student back for only a few day a week , an option that Education Secretary Betsy DeVos on Tuesday say be unacceptable .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe same thing can ’ t happen again this fall , she say , urge governor to play a role in get school to reopen .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "“ They think it ’ s go to be good for them politically , so they keep the school close , ” Trump say at a White House discussion on school plan for the fall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During a call with governor , DeVos slam plan by Virginia ’ s Fairfax County Public Schools to have family decide between fully remote instruction or two day a week at school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ A choice of two day per week in the classroom be not a choice at all , ” DeVos say , accord to audio of the call obtain by The Associated Press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jennifer Nuzzo , of Johns Hopkins University ’ s COVID-19 Testing Insights Initiative , say she be “ deeply troubled ” by the claim .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When you make it about politics and just people try to score point and get elect , I mean , I really think it ’ s a disservice to how incredibly important this issue be , ” Nuzzo say in an interview .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump offer no evidence for the allegation , which have be criticize by health expert who say politicize the issue will make it hard to work toward reopen school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos also criticize many school ’ attempt at distance education after the pandemic prompt them to move class online last spring .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.splcenter.org/news/2020/07/22/explained-how-betsy-devos-robbing-public-schools-desperately-needed-covid-19-aid",
+            "content": "But instead of marshal support for our nation ’ s public school , Secretary of Education Betsy DeVos be use this national crisis a an excuse to further her political agenda in favor of private school , rob public school of desperately need COVID-19 aid .",
+            "domain": "www.splcenter.org",
+            "tokenized": [
+                {
+                    "sent": "But instead of marshal support for our nation ’ s public school , Secretary of Education Betsy DeVos be use this national crisis a an excuse to further her political agenda in favor of private school , rob public school of desperately need COVID-19 aid .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pennlive.com/coronavirus/2020/07/betsy-devos-rejects-part-time-reopening-for-schools-amid-covid-19-pandemic.html",
+            "content": "( AP Photo/Alex Brandon , File ) AP\nEducation Secretary Betsy DeVos on Tuesday assail plan by some local district to offer in-person instruction only a few day a week and say school must be `` fully operational '' even amid the coronavirus pandemic . The same thing ca n't happen again this fall , she say , urge governor to play a role in get school to reopen . DeVos have say she hop school will test student in the fall to gauge where they be academically , particularly because this spring 's standardized test that might have provide a barometer be cancel .",
+            "domain": "www.pennlive.com",
+            "tokenized": [
+                {
+                    "sent": "( AP Photo/Alex Brandon , File ) AP\nEducation Secretary Betsy DeVos on Tuesday assail plan by some local district to offer in-person instruction only a few day a week and say school must be `` fully operational '' even amid the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The same thing ca n't happen again this fall , she say , urge governor to play a role in get school to reopen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos have say she hop school will test student in the fall to gauge where they be academically , particularly because this spring 's standardized test that might have provide a barometer be cancel .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ed.gov/news/press-releases/helping-students-adversely-affected-school-closures-secretary-devos-announces-broad-flexibilities-states-cancel-testing-during-national-emergency",
+            "content": "WASHINGTON — U.S. Secretary of Education Betsy DeVos announce today student impact by school closure due to the coronavirus ( COVID-19 ) pandemic can bypass standardized testing for the 2019-2020 school year .",
+            "domain": "www.ed.gov",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — U.S. Secretary of Education Betsy DeVos announce today student impact by school closure due to the coronavirus ( COVID-19 ) pandemic can bypass standardized testing for the 2019-2020 school year .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usnews.com/news/education-news/articles/2020-10-20/betsy-devos-not-my-job-to-track-schools-coronavirus-reopening-plans",
+            "content": "( NICHOLAS KAMM/AFP via Getty Images )\nEducation Secretary Betsy DeVos say Tuesday that it 's not her responsibility or that of the federal government to track school district , their coronavirus infection rate and how they 're reopen – the most direct response to education leader across the country who have be urge the Trump administration for a comprehensive database to help them navigate the pandemic . Secretary of Education Betsy DeVos speak during about school reopenings , on Aug. 12. at the White House .",
+            "domain": "www.usnews.com",
+            "tokenized": [
+                {
+                    "sent": "( NICHOLAS KAMM/AFP via Getty Images )\nEducation Secretary Betsy DeVos say Tuesday that it 's not her responsibility or that of the federal government to track school district , their coronavirus infection rate and how they 're reopen – the most direct response to education leader across the country who have be urge the Trump administration for a comprehensive database to help them navigate the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Secretary of Education Betsy DeVos speak during about school reopenings , on Aug. 12. at the White House .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.edweek.org/ew/articles/2020/08/01/betsy-devos-pushes-schools-to-clear-covid.html",
+            "content": "“ Just a DeVos have indicate that it be premature to issue such a waiver now , it be also premature to definitively claim there will be no need for any such flexibility within the current school year , ” she say . As educator prepare for an unprecedented school year , U.S. Secretary of Education Betsy DeVos ’ message to them be clear : You have obligation to fulfill , my expectation be high , and don ’ t assume I ’ ll lift major federal requirement . While school district make the case for some easing of IDEA requirement , allow school to opt out of key part of the law would have trigger a surge of protest from advocate and others who don ’ t necessarily agree with each other , or DeVos , on other big education policy and political issue . “ There be so many benefit to test , and it allow for some transparency about how school be perform and the issue we need to address , that our instinct would be to decline those waiver , ” Jim Blew , assistant secretary for planning , evaluation and policy development , tell reporter in July . ”\nIn general , DeVos ’ response to school ’ urgent financial need during the coronavirus come across a clearly punitive , say Jimenez . While it ’ s premature to make blanket declaration about what federal requirement for accountability , service , and other matter should be lift from school , it will be important to avoid hard-line position yet also focus on vulnerable child ’ s need , say Laura Jimenez , the director of standard and accountability at the Center for American Progress , a left-leaning think tank . “ Show me your plan , and then let ’ s talk about waiver that be necessary to make those plan work , ” he say , describe his philosophy of how the department and school leader should work together . When give the politically fraught opportunity by Congress to recommend that school should get significant flexibility from the main federal law for special education , DeVos definitively decline to do so . ”\nShe also reiterate DeVos ’ expectation that action must triumph over alarm in school .",
+            "domain": "www.edweek.org",
+            "tokenized": [
+                {
+                    "sent": "“ Just a DeVos have indicate that it be premature to issue such a waiver now , it be also premature to definitively claim there will be no need for any such flexibility within the current school year , ” she say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As educator prepare for an unprecedented school year , U.S. Secretary of Education Betsy DeVos ’ message to them be clear : You have obligation to fulfill , my expectation be high , and don ’ t assume I ’ ll lift major federal requirement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While school district make the case for some easing of IDEA requirement , allow school to opt out of key part of the law would have trigger a surge of protest from advocate and others who don ’ t necessarily agree with each other , or DeVos , on other big education policy and political issue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ There be so many benefit to test , and it allow for some transparency about how school be perform and the issue we need to address , that our instinct would be to decline those waiver , ” Jim Blew , assistant secretary for planning , evaluation and policy development , tell reporter in July .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn general , DeVos ’ response to school ’ urgent financial need during the coronavirus come across a clearly punitive , say Jimenez .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While it ’ s premature to make blanket declaration about what federal requirement for accountability , service , and other matter should be lift from school , it will be important to avoid hard-line position yet also focus on vulnerable child ’ s need , say Laura Jimenez , the director of standard and accountability at the Center for American Progress , a left-leaning think tank .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Show me your plan , and then let ’ s talk about waiver that be necessary to make those plan work , ” he say , describe his philosophy of how the department and school leader should work together .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When give the politically fraught opportunity by Congress to recommend that school should get significant flexibility from the main federal law for special education , DeVos definitively decline to do so .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nShe also reiterate DeVos ’ expectation that action must triumph over alarm in school .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/11/911869208/devos-loses-latest-fight-over-rerouting-aid-to-private-school-students",
+            "content": "A controversial rule back by U.S. Education Secretary Betsy DeVos , and meant to reroute million of dollar in coronavirus aid to K-12 private school student , have be shut down , at least temporarily . U.S. Education Secretary Betsy DeVos back a rule that would have increase private school ' share of CARES Act dollar from $ 127 million to $ 1.5 billion , accord to one analysis . U.S. Education Secretary Betsy DeVos back a rule that would have increase private school ' share of CARES Act dollar from $ 127 million to $ 1.5 billion , accord to one analysis . In announce the rule , the Education Department lament that `` most private school serve low- and middle-income community be under great financial strain due to COVID-19 '' and that `` more than 100 private school have already announce they will not be able to reopen follow the pandemic , and hundred more be face a similar fate . '' DeVos and her Education Department read the law differently , argue throughout the summer that private school should receive help base on how many student they serve overall , rather than just their share of low-income student .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "A controversial rule back by U.S. Education Secretary Betsy DeVos , and meant to reroute million of dollar in coronavirus aid to K-12 private school student , have be shut down , at least temporarily .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. Education Secretary Betsy DeVos back a rule that would have increase private school ' share of CARES Act dollar from $ 127 million to $ 1.5 billion , accord to one analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "U.S. Education Secretary Betsy DeVos back a rule that would have increase private school ' share of CARES Act dollar from $ 127 million to $ 1.5 billion , accord to one analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In announce the rule , the Education Department lament that `` most private school serve low- and middle-income community be under great financial strain due to COVID-19 '' and that `` more than 100 private school have already announce they will not be able to reopen follow the pandemic , and hundred more be face a similar fate . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "DeVos and her Education Department read the law differently , argue throughout the summer that private school should receive help base on how many student they serve overall , rather than just their share of low-income student .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/05/15/us/politics/betsy-devos-coronavirus-religious-schools.html",
+            "content": "“ The current disruption to our education system have reaffirm what Secretary DeVos have be say for year : We need to rethink education for all student , of every age , no matter the type of school setting , ” it say . ” He say she have be “ use a portion of that fund not to help state or locality cope with the crisis , but to augment her push for voucherlike program , a prior initiative that have nothing to do with Covid-19 . Congress have largely reject Ms. DeVos ’ s proposal to create program that resemble private school voucher , and public education group say Ms. DeVos be abuse discretion grant to her under the emergency legislation to achieve a long-held agenda . “ It ’ s like the Wild West of education right now , ” she say , “ and we ’ re all just try to figure it out . A spokesman for Republican member of the House Education Committee defend Ms. DeVos ’ s action : “ While there be likely multiple way the secretary could have interpret this broadly write law , the language the appropriator write give her the flexibility to implement it a she have do . ”\nHouse Democrats include language in a stimulus bill set for a vote on Friday that would limit Ms. DeVos ’ s ability to use about $ 58 billion in additional education relief for K-12 school district for private school . “ In an emergency , kid shouldn ’ t have to prove they ’ re poor to get what they need to continue their education , ” Sister McDonald say . ”\n“ It ’ s sad , but unsurprising , that some would put their own financial interest ahead of the need of all student and teacher , ” the department say . “ School district can — and should — ignore this guidance , which flout what Congress intend to do with the CARES Act : support student who need it the most , ” say Randi Weingarten , the president of the American Federation of Teachers , and Daniel A. Domenech , the executive director of AASA .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "“ The current disruption to our education system have reaffirm what Secretary DeVos have be say for year : We need to rethink education for all student , of every age , no matter the type of school setting , ” it say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He say she have be “ use a portion of that fund not to help state or locality cope with the crisis , but to augment her push for voucherlike program , a prior initiative that have nothing to do with Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Congress have largely reject Ms. DeVos ’ s proposal to create program that resemble private school voucher , and public education group say Ms. DeVos be abuse discretion grant to her under the emergency legislation to achieve a long-held agenda .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s like the Wild West of education right now , ” she say , “ and we ’ re all just try to figure it out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A spokesman for Republican member of the House Education Committee defend Ms. DeVos ’ s action : “ While there be likely multiple way the secretary could have interpret this broadly write law , the language the appropriator write give her the flexibility to implement it a she have do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHouse Democrats include language in a stimulus bill set for a vote on Friday that would limit Ms. DeVos ’ s ability to use about $ 58 billion in additional education relief for K-12 school district for private school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In an emergency , kid shouldn ’ t have to prove they ’ re poor to get what they need to continue their education , ” Sister McDonald say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ It ’ s sad , but unsurprising , that some would put their own financial interest ahead of the need of all student and teacher , ” the department say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ School district can — and should — ignore this guidance , which flout what Congress intend to do with the CARES Act : support student who need it the most , ” say Randi Weingarten , the president of the American Federation of Teachers , and Daniel A. Domenech , the executive director of AASA .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.freep.com/story/news/education/2020/07/07/betsy-devos-covid-relief-money-private-schools/5392085002/",
+            "content": "“ While Secretary DeVos fight to ensure all school can safely reopen , it ’ s sad to see that Dana Nessel and Gretchen Whitmer seek to intentionally leave thousand of Michigan child unprotected from a disease that do not care if a child attend a public or private school , '' Cox say in a statement . Gretchen Whitmer and Attorney General Dana Nessel announce the suit Tuesday , say that a rule issue by DeVos would divert to private school money that Congress provide to help public school . `` The U.S. Education Secretary manufacture guidance , and then a rule , that favor nonpublic school at the expense of public school in a way neither intend nor enact by Congress , '' Rice say . `` Betsy DeVos be try to undermine public school and ignore the need of economically disadvantaged student , ” say David Hecker , President of AFT Michigan . More : Betsy DeVos reject plan for part-time school reopenings , want school fully operational\nMore : Betsy DeVos : Michigan need to offer more school choice\nMichigan receive $ 390 million under the CARES Act to help school pay for thing like personal protective equipment , disinfection of building and technology and training to deliver online education .",
+            "domain": "www.freep.com",
+            "tokenized": [
+                {
+                    "sent": "“ While Secretary DeVos fight to ensure all school can safely reopen , it ’ s sad to see that Dana Nessel and Gretchen Whitmer seek to intentionally leave thousand of Michigan child unprotected from a disease that do not care if a child attend a public or private school , '' Cox say in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Gretchen Whitmer and Attorney General Dana Nessel announce the suit Tuesday , say that a rule issue by DeVos would divert to private school money that Congress provide to help public school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The U.S. Education Secretary manufacture guidance , and then a rule , that favor nonpublic school at the expense of public school in a way neither intend nor enact by Congress , '' Rice say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Betsy DeVos be try to undermine public school and ignore the need of economically disadvantaged student , ” say David Hecker , President of AFT Michigan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More : Betsy DeVos reject plan for part-time school reopenings , want school fully operational\nMore : Betsy DeVos : Michigan need to offer more school choice\nMichigan receive $ 390 million under the CARES Act to help school pay for thing like personal protective equipment , disinfection of building and technology and training to deliver online education .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.upi.com/Top_News/US/2020/09/05/Federal-judge-rules-DeVos-policy-altering-private-schools-COVID-19-relief-is-illegal/7511599331520/",
+            "content": "Sept. 5 ( UPI ) -- A federal judge have strike down Education Secretary Betsy DeVos ' rule that alter the share of COVID-19 relief funding private school be allow a illegal . RELATED DeVos say gov't will still enforce school test mandate\n`` In enact the education funding provision of the CARES Act , Congress speak with a clear voice , '' Friedrich write in her opinion Friday . However , the Department of Education head by DeVos , a billionaire who have advocate for private school voucher , alter the funding formula Congress have lay out when it issue an interim final rule in July that say private school could receive the funding `` regardless of low-income student population . '' `` The decision send a clear signal that Secretary DeVos can not use illegal mean to advance her agenda of funnel scarce public resource to private education , to the detriment of our high need student in public school across the country , '' a partner at Munger , Tolles & Olson say in a statement .",
+            "domain": "www.upi.com",
+            "tokenized": [
+                {
+                    "sent": "Sept. 5 ( UPI ) -- A federal judge have strike down Education Secretary Betsy DeVos ' rule that alter the share of COVID-19 relief funding private school be allow a illegal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "RELATED DeVos say gov't will still enforce school test mandate\n`` In enact the education funding provision of the CARES Act , Congress speak with a clear voice , '' Friedrich write in her opinion Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the Department of Education head by DeVos , a billionaire who have advocate for private school voucher , alter the funding formula Congress have lay out when it issue an interim final rule in July that say private school could receive the funding `` regardless of low-income student population . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The decision send a clear signal that Secretary DeVos can not use illegal mean to advance her agenda of funnel scarce public resource to private education , to the detriment of our high need student in public school across the country , '' a partner at Munger , Tolles & Olson say in a statement .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/07/12/betsy-devos-chris-wallace-spar-over-reopening-schools-amid-covid-19/5423836002/",
+            "content": "Secretary of Education Betsy DeVos say Sunday there be no danger in send child back to school amid the coronavirus pandemic and stood by a threat to withhold federal fund from school that do not resume in-person class . : FAQ on CDC guideline , federal funding for school during coronavirus\nDeVos say the guideline be only recommendation that be mean to be `` helpful '' for educator determine how to reopen .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Secretary of Education Betsy DeVos say Sunday there be no danger in send child back to school amid the coronavirus pandemic and stood by a threat to withhold federal fund from school that do not resume in-person class .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ": FAQ on CDC guideline , federal funding for school during coronavirus\nDeVos say the guideline be only recommendation that be mean to be `` helpful '' for educator determine how to reopen .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://capitalandmain.com/betsy-devos-directs-covid-19-relief-funds-private-charter-schools-0527",
+            "content": "In an interview with right-wing talk show host Glenn Beck last month , Education Secretary Betsy DeVos say the COVID-19 crisis be an “ opportunity to collectively look very seriously at the fact that K-12 education for too long have be very static and very stuck in one method of deliver and make instruction available . ” Finne say that government money should not be give to institution that don ’ t need it , but regard DeVos ’ microgrants , she ’ s in favor : “ Should money be give to parent to choose their school ? “ They be count on parent who will be afraid to send kid back to school in the fall , either because the school will be sporadically open or because their kid will be subject to Covid-19 if they go back ( to traditional school ) . The Learning Policy Institute calculate that a 20 % decrease in state funding would result in 450,000 school position lose , or 12.2 % of the nation ’ s education workforce . “ The new guidance could potentially mean that hundred of million of additional CARES Act funding would be redirect away from under-resourced public school and divert to private school , ” Busser say in an email . As COVID-19 have send school district scramble to convert classroom learn to online instruction , and state government have threaten to slash education budget , charter school and private school advocate see an opportunity to siphon both federal relief money and student .",
+            "domain": "capitalandmain.com",
+            "tokenized": [
+                {
+                    "sent": "In an interview with right-wing talk show host Glenn Beck last month , Education Secretary Betsy DeVos say the COVID-19 crisis be an “ opportunity to collectively look very seriously at the fact that K-12 education for too long have be very static and very stuck in one method of deliver and make instruction available .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Finne say that government money should not be give to institution that don ’ t need it , but regard DeVos ’ microgrants , she ’ s in favor : “ Should money be give to parent to choose their school ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They be count on parent who will be afraid to send kid back to school in the fall , either because the school will be sporadically open or because their kid will be subject to Covid-19 if they go back ( to traditional school ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Learning Policy Institute calculate that a 20 % decrease in state funding would result in 450,000 school position lose , or 12.2 % of the nation ’ s education workforce .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The new guidance could potentially mean that hundred of million of additional CARES Act funding would be redirect away from under-resourced public school and divert to private school , ” Busser say in an email .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As COVID-19 have send school district scramble to convert classroom learn to online instruction , and state government have threaten to slash education budget , charter school and private school advocate see an opportunity to siphon both federal relief money and student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/US/naacp-sues-betsy-devos-covid-19-aid-rule/story?id=71883022",
+            "content": "Trump administration insist kid should return to school\nThe NAACP be join a coast-to-coast legal fight to prevent United States Secretary of Education Betsy DeVos from siphon away Congressionally approve emergency COVID-19 relief fund from economically disadvantage public school , and give the money to private one . The NAACP lawsuit reference a May 5 letter to DeVos from Carissa Moffat Miller , executive director of the Council of Chief State School Officers , object to the rule on distribute the CARES Act money , say the move `` could significantly harm the vulnerable student who be intend to benefit the most from the critical federal COVID-19 education relief fund . '' `` There be nothing in the law Congress pass that would allow district to discriminate against child and teacher base on private school attendance and employment , '' DeVos say in a statement issue with her decision . `` The devastation of the COVID-19 pandemic have disproportionately impact low-income student of color and the Trump Administration be turn it back on these student in favor of wealthy private institution by siphon public fund away from the student who Congress intend to support , '' the Chicago Public Schools say in a write statement . Addressing reporter after the policy be contest by public school official follow it announcement last month , DeVos say the funding be separate from other federal aid and be mean to support all student . `` There be nothing in the law Congress pass that would allow district to discriminate against child and teacher base on private school attendance and employment , '' DeVos say in a call with reporter , accord to the Associated Press .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Trump administration insist kid should return to school\nThe NAACP be join a coast-to-coast legal fight to prevent United States Secretary of Education Betsy DeVos from siphon away Congressionally approve emergency COVID-19 relief fund from economically disadvantage public school , and give the money to private one .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The NAACP lawsuit reference a May 5 letter to DeVos from Carissa Moffat Miller , executive director of the Council of Chief State School Officers , object to the rule on distribute the CARES Act money , say the move `` could significantly harm the vulnerable student who be intend to benefit the most from the critical federal COVID-19 education relief fund . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` There be nothing in the law Congress pass that would allow district to discriminate against child and teacher base on private school attendance and employment , '' DeVos say in a statement issue with her decision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The devastation of the COVID-19 pandemic have disproportionately impact low-income student of color and the Trump Administration be turn it back on these student in favor of wealthy private institution by siphon public fund away from the student who Congress intend to support , '' the Chicago Public Schools say in a write statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Addressing reporter after the policy be contest by public school official follow it announcement last month , DeVos say the funding be separate from other federal aid and be mean to support all student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` There be nothing in the law Congress pass that would allow district to discriminate against child and teacher base on private school attendance and employment , '' DeVos say in a call with reporter , accord to the Associated Press .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.educationnext.org/betsy-devos-coronavirus-what-feds-doing-help-schools-covid-19/",
+            "content": "I have the chance to talk with Secretary of Education Betsy DeVos about what she ’ s do at the department and the federal response to coronavirus . DeVos : As you know , the school meal program be a responsibility of the U.S. Department of Agriculture , but I ’ ve be in close contact with Secretary Perdue , who be work to extend as much flexibility a possible so that student be continue to have access to meal .",
+            "domain": "www.educationnext.org",
+            "tokenized": [
+                {
+                    "sent": "I have the chance to talk with Secretary of Education Betsy DeVos about what she ’ s do at the department and the federal response to coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DeVos : As you know , the school meal program be a responsibility of the U.S. Department of Agriculture , but I ’ ve be in close contact with Secretary Perdue , who be work to extend as much flexibility a possible so that student be continue to have access to meal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://blogs.edweek.org/edweek/campaign-k-12/2020/03/devos-school-coronavirus-guidance-testing.html",
+            "content": "“ However , due to the unique circumstance that may arise a a result of COVID-19 , such a a school closing during the entire testing window , it may not be feasible for a State to administer some or all of it assessment , in which case the Department would consider a targeted one-year waiver of the assessment requirement for those school impact by the extraordinary circumstance . U.S. Secretary of Education Betsy DeVos issue guidance for school on issue relate to the new coronavirus Thursday , address concern student data privacy , test schedule , student with disability , and accountability under the Every Student Succeeds Act . “ We be work closely with our inter-agency partner to provide state and local leader the information they need to ensure the health and safety of their student and educator , ” DeVos say in a statement , pledge to post additional guidance document on the Education Department ’ s coronavirus response page in coming day . Under pressure from lawmaker who say school lack clarity about how to address the spread of the illness , DeVos and other department official have promise further direction to school official . ”\n• A Factsheet on the Impact of COVID-19 on Assessments and Accountability under the Elementary and Secondary Education Act address a range of concern about how extended school cancellation and absence may affect school accountability . The department do not generally grant waiver from state testing requirement , the guidance say , but it may consider them for area heavily affect by COVID-19 , the illness cause by the virus .",
+            "domain": "blogs.edweek.org",
+            "tokenized": [
+                {
+                    "sent": "“ However , due to the unique circumstance that may arise a a result of COVID-19 , such a a school closing during the entire testing window , it may not be feasible for a State to administer some or all of it assessment , in which case the Department would consider a targeted one-year waiver of the assessment requirement for those school impact by the extraordinary circumstance .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "U.S. Secretary of Education Betsy DeVos issue guidance for school on issue relate to the new coronavirus Thursday , address concern student data privacy , test schedule , student with disability , and accountability under the Every Student Succeeds Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be work closely with our inter-agency partner to provide state and local leader the information they need to ensure the health and safety of their student and educator , ” DeVos say in a statement , pledge to post additional guidance document on the Education Department ’ s coronavirus response page in coming day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Under pressure from lawmaker who say school lack clarity about how to address the spread of the illness , DeVos and other department official have promise further direction to school official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n• A Factsheet on the Impact of COVID-19 on Assessments and Accountability under the Elementary and Secondary Education Act address a range of concern about how extended school cancellation and absence may affect school accountability .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The department do not generally grant waiver from state testing requirement , the guidance say , but it may consider them for area heavily affect by COVID-19 , the illness cause by the virus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        }
+    ]
+}

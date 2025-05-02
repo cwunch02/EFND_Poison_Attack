@@ -1,0 +1,805 @@
+{
+    "event_id": "247062",
+    "claim": "The Irish Times newspaper published a column by Fintan O’Toole expressing \"pity\" for the United States over U.S. President Donald Trump's leadership during the COVID-19 pandemic.",
+    "original_label": "correct attribution",
+    "label": "true",
+    "explain": "In late April 2020, social media users shared a link to a column published by The Irish Times, a daily newspaper based in Dublin, Ireland. The headline and summary of the article contained commentary scathing enough to prompt some readers to ask Snopes if it was real:\n\nThe Irish Times column is real and was published on April 25, 2020. Written by columnist Fintan O’Toole, the full text of the article was obscured from some readers behind a paywall on the newspaper’s site. However, it was pasted either in part or in full onto third-party websites and social media posts, or aggregated by other news media outlets, which prompted readers to ask about its authenticity and origin.\nThe piece was a condemnation of U.S. President Donald Trump’s leadership during the COVID-19 coronavirus disease pandemic.\n“Over more than two centuries, the United States has stirred a very wide range of feelings in the rest of the world: love and hatred, fear and hope, envy and contempt, awe and anger. But there is one emotion that has never been directed towards the US until now: pity,” O’Toole wrote. “However bad things are for most other rich democracies, it is hard not to feel sorry for Americans. Most of them did not vote for Donald Trump in 2016. Yet they are locked down with a malignant narcissist who, instead of protecting his people from Covid-19, has amplified its lethality. The country Trump promised to make great again has never in its history seemed so pitiful.”\nAs of this writing, the Centers for Disease Control and Prevention (CDC) reports there are more than 980,000 known COVID-19 cases in the U.S. and upwards of 55,000 fatalities.",
+    "reports": [
+        {
+            "link": "https://en.wikipedia.org/wiki/Fintan_O%27Toole",
+            "content": "[ 14 ]\nAn April 2020 column in The Irish Times by O'Toole assert that the destruction of the public image and reputation of the United States by Donald Trump culminate with his bungling of the COVID-19 pandemic crisis , [ 15 ] and that now , pity be the only appropriate feeling for the American people , the majority of whom have not vote for him . Later , O'Toole tell a rival Irish paper , the Sunday Independent :\nA 26 June 2018 column in The Irish Times by O'Toole examine how the Trump administration 's policy , as well a public-facing communication concern immigration and asylum-seekers from Mexico , may be deliberately calculate to bring element of fascism to the world 's leading democracy . O'Toole have criticise what he see a negative attitude toward immigration in Ireland , the state of Ireland 's public service , grow inequality during Ireland 's economic boom , [ 8 ] the Iraq War , and the U.S. military 's use of Shannon Airport , among many other issue . [ 9 ]\nHis former editor , Geraldine Kennedy , be pay more than the editor of the UK 's top non-tabloid newspaper , The Daily Telegraph , which have a circulation about nine time that of The Irish Times . He join The Irish Times a a columnist in 1988 and his column have appear twice-weekly ever since . In 2006 , he spend six month report for The Irish Times in China . In 2011 , he be appoint a literary editor of The Irish Times .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "[ 14 ]\nAn April 2020 column in The Irish Times by O'Toole assert that the destruction of the public image and reputation of the United States by Donald Trump culminate with his bungling of the COVID-19 pandemic crisis , [ 15 ] and that now , pity be the only appropriate feeling for the American people , the majority of whom have not vote for him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Later , O'Toole tell a rival Irish paper , the Sunday Independent :\nA 26 June 2018 column in The Irish Times by O'Toole examine how the Trump administration 's policy , as well a public-facing communication concern immigration and asylum-seekers from Mexico , may be deliberately calculate to bring element of fascism to the world 's leading democracy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "O'Toole have criticise what he see a negative attitude toward immigration in Ireland , the state of Ireland 's public service , grow inequality during Ireland 's economic boom , [ 8 ] the Iraq War , and the U.S. military 's use of Shannon Airport , among many other issue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 9 ]\nHis former editor , Geraldine Kennedy , be pay more than the editor of the UK 's top non-tabloid newspaper , The Daily Telegraph , which have a circulation about nine time that of The Irish Times .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He join The Irish Times a a columnist in 1988 and his column have appear twice-weekly ever since .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2006 , he spend six month report for The Irish Times in China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2011 , he be appoint a literary editor of The Irish Times .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.minnpost.com/eric-black-ink/2020/04/trumps-presidency-prompts-a-new-feeling-toward-the-u-s-from-abroad/",
+            "content": "A columnist for the Irish Times with the unimaginably Irish name of Fintan O ’ Toole have write an eloquent , brilliant and unutterably sad piece about what the incumbency of the current president have do to the standing of the United States in the world . This link will get you the top of the O ’ Toole column on the Irish Times site . The headline on the column be :\nOver more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger . Nor do I think the American minority that adore or even support Trump will shrink much , even if they be to accept that their hero engenders sadness even unto “ pity ” in the rest of the world . His late award be from the Society of Professional Journalists , which in May 2017 announce he ’ d win the national Sigma Delta Chi Award for online column writing .",
+            "domain": "www.minnpost.com",
+            "tokenized": [
+                {
+                    "sent": "A columnist for the Irish Times with the unimaginably Irish name of Fintan O ’ Toole have write an eloquent , brilliant and unutterably sad piece about what the incumbency of the current president have do to the standing of the United States in the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This link will get you the top of the O ’ Toole column on the Irish Times site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The headline on the column be :\nOver more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Nor do I think the American minority that adore or even support Trump will shrink much , even if they be to accept that their hero engenders sadness even unto “ pity ” in the rest of the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His late award be from the Society of Professional Journalists , which in May 2017 announce he ’ d win the national Sigma Delta Chi Award for online column writing .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://twitter.com/fotoole?lang=en",
+            "content": "Very aware that there 's a lot of heavy news out there at the moment but this be important and worth your time : ‘ I have far too many story ’ : 30 Irish woman on harassment and assault # .YFD-IrM6gCI.twitter …\nFintan O ’ Toole : The Covid-19 pandemic should be the last hurrah for Irish stoicism # .YEM1V3gchBg.twitter … via IrishTimesOpEd\nSo many of our Brexit problem have a common source : the govt 's refusal to be honest about the deal it negotiate . Oran Doyle 's precision , clarity and balance shine in this podcast on the 'rule of law ' shortcoming of the Irish State 's pandemic response . See also fotoole article in today 's Irish Times . THREAD …\nFintan O'Toole join u on Creedons Atlas this Sunday a we consider the evolution of the place name 'Ireland ' , from the Celtic godess Éiru , to the Roman 'Hibernia ' through Saorstát na hEireann/Irish Free State and beyond .",
+            "domain": "twitter.com",
+            "tokenized": [
+                {
+                    "sent": "Very aware that there 's a lot of heavy news out there at the moment but this be important and worth your time : ‘ I have far too many story ’ : 30 Irish woman on harassment and assault # .YFD-IrM6gCI.twitter …\nFintan O ’ Toole : The Covid-19 pandemic should be the last hurrah for Irish stoicism # .YEM1V3gchBg.twitter … via IrishTimesOpEd\nSo many of our Brexit problem have a common source : the govt 's refusal to be honest about the deal it negotiate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Oran Doyle 's precision , clarity and balance shine in this podcast on the 'rule of law ' shortcoming of the Irish State 's pandemic response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See also fotoole article in today 's Irish Times .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "THREAD …\nFintan O'Toole join u on Creedons Atlas this Sunday a we consider the evolution of the place name 'Ireland ' , from the Celtic godess Éiru , to the Roman 'Hibernia ' through Saorstát na hEireann/Irish Free State and beyond .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.smdp.com/american-exceptionalism-is-down-not-out/190167",
+            "content": "This weekend the Irish Times columnist Fintan O ’ Toole write an opinion piece on how the world have at time , love , hat , and envy America , but for the first time in our history we be to be pity . O ’ Toole state that we fumble the opportunity to prevent this human tragedy and he ’ s right and he ’ s wrong . The column be a painful view of what the current President have create with his incessant , self-centered , rating drive , need for attention , which combine with his preternatural ability to ignore reality and be unprepared have lead to fulfil his promise . American entrepreneurial zeal be bubble up again , now that the shock and fear be wan and the need for a more rational response be clearly need , since we wont be get one from the President . We be to be pity for our pathetic , disingenuous , malignant and apathetic response to what be a global tragedy . Contrary to the President ’ s assertion that he “ take no responsibility at all ” in fact he have total responsibility here , unlike when he say he have “ total authority ” , which he in fact doesn ’ t have . Our leadership be anemic , and pitiful .",
+            "domain": "www.smdp.com",
+            "tokenized": [
+                {
+                    "sent": "This weekend the Irish Times columnist Fintan O ’ Toole write an opinion piece on how the world have at time , love , hat , and envy America , but for the first time in our history we be to be pity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "O ’ Toole state that we fumble the opportunity to prevent this human tragedy and he ’ s right and he ’ s wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The column be a painful view of what the current President have create with his incessant , self-centered , rating drive , need for attention , which combine with his preternatural ability to ignore reality and be unprepared have lead to fulfil his promise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "American entrepreneurial zeal be bubble up again , now that the shock and fear be wan and the need for a more rational response be clearly need , since we wont be get one from the President .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We be to be pity for our pathetic , disingenuous , malignant and apathetic response to what be a global tragedy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Contrary to the President ’ s assertion that he “ take no responsibility at all ” in fact he have total responsibility here , unlike when he say he have “ total authority ” , which he in fact doesn ’ t have .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our leadership be anemic , and pitiful .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.salon.com/2020/05/26/fintan-otoole-on-america-the-pitiful-corrupted-by-trumps-malignant-spectacle/",
+            "content": "In a series of recent essay O'Toole have , with rapier-sharp prose , describe the pity and pathos of Donald Trump 's America , a nation where the pandemic only far expose the societal and institutional rot that be already long present . The United States have an active malignant presence with Donald Trump in the heart of it government . I have be think about what the American people must have do wrong to be afflict with both Donald Trump and the coronavirus at the same time . Fintan O'Toole have be document America 's decline in the Age of Trump and the coronavirus pandemic . None of America 's peer in the West be in the situation the American people be experience with Donald Trump and the pandemic . Trump 's supporter have enter into a deep state of suspension of disbelief , which be why traditional journalism have little to no power against him and his supporter . In their mind , Trump 's attack on political correctness `` allow me to be who I be . In the United States under Trump , it will be those group he have already dehumanize . Donald Trump play golf while more than 100,000 Americans have be kill by the coronavirus pandemic , a number that be certainly an undercount . In Trump 's supporter ' mind , `` political correctness '' be stop them from express what they believe to be their superiority over other people , categorize on the basis of their race or gender or their sexual orientation or their foreignness or whatever else it may be . O'Toole also share his view on the appeal Donald Trump hold , a an authoritarian and con man , to his cult member\nHow be you feel amid the coronavirus pandemic ? Trump , an apparent sociopath or `` high functioning '' psychopath , be make intentional choice that have kill many thousand of human being and ruin the country 's economy . In Trump 's book there be a recur theme that some people be `` loser '' and some people — like himself , of course — be `` winner '' . I feel really , terribly sorry for the majority of Americans who do not vote for Donald Trump . That be why the mainstream news medium and it stenographer have such a difficult time understand the danger that he represent and the great harm he have do to the United States and the world . Failure of government be one thing , but Donald Trump be actively promote the spread of a fatal disease . For Trump 's hardcore supporter it be go to be nasty , and they be go to turn that rage against other people . If Trump have not choose to ignore year of repeat warning about the danger of a pandemic , the number of dead or gravely ill people would be many order of magnitude small . We should also be careful of make Donald Trump into something too complex . Donald Trump can not even pretend to have any kind of empathy for other people . Before Trump be even a credible candidate , the Republican Party have destroy the country 's capacity to govern effectively , hollow out it infrastructure , and systematically discredit the public 's belief that government can be a force for good . Trump be allow me to express the obvious truth that I be superior to those people . '' Many of Trump 's most loyal supporter and their community be go to be hit very hard by the coronavirus pandemic . Donald Trump be promote death . Trump rule America a if it be a failed state in some forgotten part of the third world . Yes , Trump be complex , but his thinking be a function of crude , tire , old right-wing idea , emotion and trope that have be around for a very long time . As others have point out , in the Age of Trump and this pandemic there will be no singular hero and no dramatic moment when he or she arrive to save the day . Trump be also the leader of a perfidious cabal , which be equally responsible for the human destruction wrought by the coronavirus pandemic . Trump love use the word `` loser . '' What the coronavirus pandemic be reveal be just how deep the death culture and such attitude be in the United States , the United Kingdom and elsewhere . Trump 's base be also much old than the American public on average . I recently speak with O'Toole about the end of American empire , the decline of the country 's democracy and it abdication of it preeminent global leadership role . In many way , the coronavirus pandemic have force the United States to it knee , beg for help with hand open , ashamed . It will be the Chinese , per Trump 's pandemic coronavirus conspiracy . Ridding the country of Trump and his movement will not solve the core problem which make the disaster possible . When Trump be remove from office , there will be no great catharsis for the country . For many of Trump 's white supporter , and some others , that be an enormous type of compensation . He be a historian , literary critic , author and essayist as well a a longtime columnist for the Irish Times . The `` loser , '' of course , be cower , they be afraid to come out and face the coronavirus pandemic . At almost every key moment of decision , Trump have make choice that have sicken and kill more Americans . Trump have already indicate who those `` enemy '' will be . Once again , the coronavirus pandemic have show American exceptionalism to be a myth now turn into a nightmare . This be the twisted logic drive the behavior we be see by many Americans in response to the coronavirus pandemic . The fact that Trump be a performer and a symbol be also why his supporter love him . The United States look pitiful . If the Trump god fail , his believer will turn on who they view a the outsider . If `` deserve '' have anything to do with the coronavirus plague and all the death and misery it have cause , then it be a rebuke to the absolutely appalling arrogance of our specie and of the way we have organize ourselves in relation to the world around u . But America be not in for an easy time . Now America lead the world , by far , in death from the coronavirus pandemic . The United States be once `` the arsenal of democracy '' that rebuild post-war Western Europe with the Marshall Plan , and be the unquestioned leader in a decades-long political and economic struggle against Soviet-style communism . O'Toole be the author of many book , include his most recent , `` The Politics of Pain : Postwar England and the Rise of Nationalism . ''",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "In a series of recent essay O'Toole have , with rapier-sharp prose , describe the pity and pathos of Donald Trump 's America , a nation where the pandemic only far expose the societal and institutional rot that be already long present .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States have an active malignant presence with Donald Trump in the heart of it government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I have be think about what the American people must have do wrong to be afflict with both Donald Trump and the coronavirus at the same time .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Fintan O'Toole have be document America 's decline in the Age of Trump and the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "None of America 's peer in the West be in the situation the American people be experience with Donald Trump and the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's supporter have enter into a deep state of suspension of disbelief , which be why traditional journalism have little to no power against him and his supporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In their mind , Trump 's attack on political correctness `` allow me to be who I be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the United States under Trump , it will be those group he have already dehumanize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump play golf while more than 100,000 Americans have be kill by the coronavirus pandemic , a number that be certainly an undercount .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Trump 's supporter ' mind , `` political correctness '' be stop them from express what they believe to be their superiority over other people , categorize on the basis of their race or gender or their sexual orientation or their foreignness or whatever else it may be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "O'Toole also share his view on the appeal Donald Trump hold , a an authoritarian and con man , to his cult member\nHow be you feel amid the coronavirus pandemic ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump , an apparent sociopath or `` high functioning '' psychopath , be make intentional choice that have kill many thousand of human being and ruin the country 's economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Trump 's book there be a recur theme that some people be `` loser '' and some people — like himself , of course — be `` winner '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I feel really , terribly sorry for the majority of Americans who do not vote for Donald Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That be why the mainstream news medium and it stenographer have such a difficult time understand the danger that he represent and the great harm he have do to the United States and the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Failure of government be one thing , but Donald Trump be actively promote the spread of a fatal disease .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For Trump 's hardcore supporter it be go to be nasty , and they be go to turn that rage against other people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Trump have not choose to ignore year of repeat warning about the danger of a pandemic , the number of dead or gravely ill people would be many order of magnitude small .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We should also be careful of make Donald Trump into something too complex .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump can not even pretend to have any kind of empathy for other people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before Trump be even a credible candidate , the Republican Party have destroy the country 's capacity to govern effectively , hollow out it infrastructure , and systematically discredit the public 's belief that government can be a force for good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be allow me to express the obvious truth that I be superior to those people . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of Trump 's most loyal supporter and their community be go to be hit very hard by the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Trump be promote death .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump rule America a if it be a failed state in some forgotten part of the third world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yes , Trump be complex , but his thinking be a function of crude , tire , old right-wing idea , emotion and trope that have be around for a very long time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As others have point out , in the Age of Trump and this pandemic there will be no singular hero and no dramatic moment when he or she arrive to save the day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump be also the leader of a perfidious cabal , which be equally responsible for the human destruction wrought by the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump love use the word `` loser . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What the coronavirus pandemic be reveal be just how deep the death culture and such attitude be in the United States , the United Kingdom and elsewhere .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's base be also much old than the American public on average .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I recently speak with O'Toole about the end of American empire , the decline of the country 's democracy and it abdication of it preeminent global leadership role .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In many way , the coronavirus pandemic have force the United States to it knee , beg for help with hand open , ashamed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will be the Chinese , per Trump 's pandemic coronavirus conspiracy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ridding the country of Trump and his movement will not solve the core problem which make the disaster possible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Trump be remove from office , there will be no great catharsis for the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For many of Trump 's white supporter , and some others , that be an enormous type of compensation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be a historian , literary critic , author and essayist as well a a longtime columnist for the Irish Times .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The `` loser , '' of course , be cower , they be afraid to come out and face the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At almost every key moment of decision , Trump have make choice that have sicken and kill more Americans .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have already indicate who those `` enemy '' will be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once again , the coronavirus pandemic have show American exceptionalism to be a myth now turn into a nightmare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be the twisted logic drive the behavior we be see by many Americans in response to the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The fact that Trump be a performer and a symbol be also why his supporter love him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States look pitiful .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the Trump god fail , his believer will turn on who they view a the outsider .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If `` deserve '' have anything to do with the coronavirus plague and all the death and misery it have cause , then it be a rebuke to the absolutely appalling arrogance of our specie and of the way we have organize ourselves in relation to the world around u .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But America be not in for an easy time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now America lead the world , by far , in death from the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States be once `` the arsenal of democracy '' that rebuild post-war Western Europe with the Marshall Plan , and be the unquestioned leader in a decades-long political and economic struggle against Soviet-style communism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "O'Toole be the author of many book , include his most recent , `` The Politics of Pain : Postwar England and the Rise of Nationalism . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/05/08/opinion/coronavirus-trump.html",
+            "content": "In Trump ’ s assessment , his government have do a “ spectacular job ” with the Covid-19 pandemic . The Irish be now give financial aid to Native American tribe hit with a pandemic that have be make worse by American incompetence . South Korea and the United States both report their first case of Covid-19 at the same time , in the third week of January . Most of the world now have no confidence in the president ’ s leadership . ” That ’ s the indictment of The Atlantic ’ s George Packer , call the United States a failed state . Our image abroad take a real hit after Trump ’ s election , and it have continue to fall . A country that send George Patton and Dwight Eisenhower to crush the Nazis now fight a war against a viral killer with Jared Kushner , a feckless fail real estate speculator who hold power by virtue of his marriage to the president ’ s daughter . “ The United States react like Pakistan or Belarus , like a country with a shoddy infrastructure and a dysfunctional government whose leader be too corrupt or stupid to head off mass suffering. In the United States at that time , the pandemic raged at a daily rate of more than 25,000 newly sick . Before we take up O ’ Toole ’ s question , let ’ s look at where we rank in the bad global crisis since World War II . America have a fail federal government , laugh at and pity the world over . In 1847 , member of the Choctaw Nation send relief money across the Atlantic to a starving Ireland — something the Irish , who lose more than a million people in a famine make bad by British indifference , have never forget . And yet , here we be : a full-blown disaster , in lockdown with a narcissist for a president . The United States spend more on health care , per caput , than any other rich nation .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "In Trump ’ s assessment , his government have do a “ spectacular job ” with the Covid-19 pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Irish be now give financial aid to Native American tribe hit with a pandemic that have be make worse by American incompetence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "South Korea and the United States both report their first case of Covid-19 at the same time , in the third week of January .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Most of the world now have no confidence in the president ’ s leadership .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” That ’ s the indictment of The Atlantic ’ s George Packer , call the United States a failed state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Our image abroad take a real hit after Trump ’ s election , and it have continue to fall .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A country that send George Patton and Dwight Eisenhower to crush the Nazis now fight a war against a viral killer with Jared Kushner , a feckless fail real estate speculator who hold power by virtue of his marriage to the president ’ s daughter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The United States react like Pakistan or Belarus , like a country with a shoddy infrastructure and a dysfunctional government whose leader be too corrupt or stupid to head off mass suffering.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the United States at that time , the pandemic raged at a daily rate of more than 25,000 newly sick .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before we take up O ’ Toole ’ s question , let ’ s look at where we rank in the bad global crisis since World War II .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "America have a fail federal government , laugh at and pity the world over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1847 , member of the Choctaw Nation send relief money across the Atlantic to a starving Ireland — something the Irish , who lose more than a million people in a famine make bad by British indifference , have never forget .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And yet , here we be : a full-blown disaster , in lockdown with a narcissist for a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States spend more on health care , per caput , than any other rich nation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irishtimes.com/profile/fintan-o-toole-7.1010663",
+            "content": "That privilege come with a cost\nThe Covid-19 pandemic have make it impossible for the old health system to continue\nThe attitude behind Brexit resurface in Boris Johnson ’ s tragic failure of leadership\nHow can Scotland meet climate target while Ireland fail ? But live performance have long prove resilient\nThe crisis of 2016 pose huge difficulty for Ireland but have leave u in a good place\nThe president ’ s success in force himself into our thought will be his downfall\nCovid pandemic be amplify division inherent in have two different economy\nThere be worry sign that those manage the pandemic be lose the ability to concentrate on what matter\nWe must not allow controversy destroy social capital that have keep u go\nIn 2016 , white America elect a racist president . Now , for the first time , we pity it\nThe coronavirus crisis remind u we must find a way not to kill the host we inhabit Openness be so fundamental to u that we have fail to shut off the island from danger\nThe pandemic usurp the artist in 2020 .",
+            "domain": "www.irishtimes.com",
+            "tokenized": [
+                {
+                    "sent": "That privilege come with a cost\nThe Covid-19 pandemic have make it impossible for the old health system to continue\nThe attitude behind Brexit resurface in Boris Johnson ’ s tragic failure of leadership\nHow can Scotland meet climate target while Ireland fail ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But live performance have long prove resilient\nThe crisis of 2016 pose huge difficulty for Ireland but have leave u in a good place\nThe president ’ s success in force himself into our thought will be his downfall\nCovid pandemic be amplify division inherent in have two different economy\nThere be worry sign that those manage the pandemic be lose the ability to concentrate on what matter\nWe must not allow controversy destroy social capital that have keep u go\nIn 2016 , white America elect a racist president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , for the first time , we pity it\nThe coronavirus crisis remind u we must find a way not to kill the host we inhabit Openness be so fundamental to u that we have fail to shut off the island from danger\nThe pandemic usurp the artist in 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irishtimes.com/opinion/fintan-o-toole-donald-trump-has-destroyed-the-country-he-promised-to-make-great-again-1.4235928",
+            "content": "US president Donald Trump have claim he be be sarcastic and test the medium when he raise the idea that inject disinfectant or irradiate the body with ultraviolet light might kill coronavirus . Over more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger .",
+            "domain": "www.irishtimes.com",
+            "tokenized": [
+                {
+                    "sent": "US president Donald Trump have claim he be be sarcastic and test the medium when he raise the idea that inject disinfectant or irradiate the body with ultraviolet light might kill coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Over more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reddit.com/r/RedditForGrownups/comments/g9cg3t/fintan_otoole_donald_trump_has_destroyed_the/",
+            "content": "The contradiction be make manifest in two of Trump ’ s statement on the pandemic : on the one hand that he have “ total authority ” , and on the other that “ I don ’ t take responsibility at all ” . The world have love , hat and envy the US , Now , for the first time , we pity it\nOver more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger . Trump , his party and Rupert Murdoch ’ s Fox News become vector of the pestilence . Not sure what will happen to the state in the next 20 year but Trump have legit make them into a laugh stock . I love many thing about America , but Canadians have be pity Americans for a long , long time . What be suppose to be daily briefing on the crisis , demonstrative of national unity in the face of a shared challenge , have be use by Trump merely to sow confusion and division . It be hard to remember now but , even in 2017 , when Trump take office , the conventional wisdom in the US be that the Republican Party and the broad framework of US political institution would prevent him from do too much damage . Despite all it military might and economic power , everyone truly pity the States . The grotesque spectacle of the president openly incite people ( some of them arm ) to take to the street to oppose the restriction that save life be the manifestation of a political death wish . Ca n't believe how close she come to lose $ 2000 -- and then of course I 'm sure there would have be more $ $ request from the `` lawyer '' , money for court filing , money for his time , etc ... . It draw on a concoction of conspiracy theory , hatred of science , paranoia about the “ deep state ” and religious providentialism ( God will protect the good folk ) that be now very deeply infuse in the mindset of the American right . For the ‘ first time ’ we pity it ? In Florida , the state with the high concentration of elderly people with underlying condition , governor Ron DeSantis , a Trump mini-me , keep the beach resort open to student travel from all over the US for spring break party . All the thing happen have be with u for a long time - Trump be a natural outgrowth of what our system have be move toward for decade . That pity be probably fuel by disappointment\nI need to get this off my chest .",
+            "domain": "www.reddit.com",
+            "tokenized": [
+                {
+                    "sent": "The contradiction be make manifest in two of Trump ’ s statement on the pandemic : on the one hand that he have “ total authority ” , and on the other that “ I don ’ t take responsibility at all ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The world have love , hat and envy the US , Now , for the first time , we pity it\nOver more than two century , the United States have stir a very wide range of feeling in the rest of the world : love and hatred , fear and hope , envy and contempt , awe and anger .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump , his party and Rupert Murdoch ’ s Fox News become vector of the pestilence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not sure what will happen to the state in the next 20 year but Trump have legit make them into a laugh stock .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I love many thing about America , but Canadians have be pity Americans for a long , long time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What be suppose to be daily briefing on the crisis , demonstrative of national unity in the face of a shared challenge , have be use by Trump merely to sow confusion and division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be hard to remember now but , even in 2017 , when Trump take office , the conventional wisdom in the US be that the Republican Party and the broad framework of US political institution would prevent him from do too much damage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite all it military might and economic power , everyone truly pity the States .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The grotesque spectacle of the president openly incite people ( some of them arm ) to take to the street to oppose the restriction that save life be the manifestation of a political death wish .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ca n't believe how close she come to lose $ 2000 -- and then of course I 'm sure there would have be more $ $ request from the `` lawyer '' , money for court filing , money for his time , etc ... .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It draw on a concoction of conspiracy theory , hatred of science , paranoia about the “ deep state ” and religious providentialism ( God will protect the good folk ) that be now very deeply infuse in the mindset of the American right .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the ‘ first time ’ we pity it ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Florida , the state with the high concentration of elderly people with underlying condition , governor Ron DeSantis , a Trump mini-me , keep the beach resort open to student travel from all over the US for spring break party .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All the thing happen have be with u for a long time - Trump be a natural outgrowth of what our system have be move toward for decade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That pity be probably fuel by disappointment\nI need to get this off my chest .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.eurotopics.net/en/150878/o-toole-fintan",
+            "content": "It 's high time for access to online pornography to be restrict , columnist Fintan O'Toole stress in The Irish Times : If , a decade ago ...",
+            "domain": "www.eurotopics.net",
+            "tokenized": [
+                {
+                    "sent": "It 's high time for access to online pornography to be restrict , columnist Fintan O'Toole stress in The Irish Times : If , a decade ago ...",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nybooks.com/articles/2020/12/03/democracys-afterlife/",
+            "content": "” He imply that the lawlessness and derangement of Nixon ’ s presidency , lay bare in the Watergate scandal , have be more traumatic for the United States even than the violence of the Vietnam War , it wound “ more painful and more poisonous than those of foreign wars. In a grotesque parody of the Christian narrative , Trump present his contraction of Covid-19 not a a consequence of his own narcissistic recklessness but a a Jesus-like self-sacrifice—he caught the virus on behalf of the people . Trump ’ s demeanor and bluster seek to suggest that the US have barely be touch by the virus , Biden ’ s to show that he himself have be deeply touch by the suffering it have inflict . The malignant presidency of Donald Trump seem moribund , but also vigorously alive . ” But this be a hazy kind of reverie , and it could not stand up to Trump ’ s Gothic horror version of the trope . ” Before he run for president , when Trump tweet about “ Patriots , ” it be almost always in relation to the football team . Personally , he carry the cross of the death of his wife and daughter in 1972 and of his son Beau in 2015.1 During the pandemic , Trump defy death but do not acknowledge it ; Biden acknowledge death but do not pretend to defy it . ” While Biden be insist that the dream be undying , Trump ’ s promise to resuscitate it cadaver be , for so many of those who have experience the demise of industrial America , a much more potent image . Trump have long frame the immediate post-election period a a temporal no-man ’ s-land . We have , after all , already witness the Good Friday and Easter Sunday of Donald Trump . Trump will try to keep the US “ in suspense ” between cause and effect , between the vote a cast and their consequence for the holding of power . Because argument about policy be the vestige of a notion that Trump have kill off : the idea that an election be a contest for the support , or at least the consent , of a majority of voter . Trump , at his first rally after his resurrection , pose a an immortal ( “ I go through it . In 1974 upon his inauguration a president , just half an hour after the resignation of Richard Nixon , Gerald Ford declare , “ My fellow Americans , our long national nightmare be over. The death of others—230,000 victim of Covid-19 by election day—did not prompt a turn against the president who preside over them . Asked in the third presidential debate of 2016 whether he would do so , he reply , “ What I ’ m saying be that I will tell you at the time . In announce his candidacy for the Republican nomination in June 2015 , he both perform it funeral rite and drag it out of the grave : “ Sadly the American dream be dead , but if I get elect president , I will bring it back . He have no policy agenda for a second term—the GOP merely readopted it platform from 2016 , without even bother to delete it multiple attack on “ the current president. But they also play out a starkly different attitude toward death and time . ” Yet he also suggest that Nixon ’ s departure have leave the country in a good place : “ Our Constitution work ; our great Republic be a government of law and not of men. Trump “ die , ” be in the “ tomb ” of Walter Reed hospital for three day and then rise again and appear to many .",
+            "domain": "www.nybooks.com",
+            "tokenized": [
+                {
+                    "sent": "” He imply that the lawlessness and derangement of Nixon ’ s presidency , lay bare in the Watergate scandal , have be more traumatic for the United States even than the violence of the Vietnam War , it wound “ more painful and more poisonous than those of foreign wars.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a grotesque parody of the Christian narrative , Trump present his contraction of Covid-19 not a a consequence of his own narcissistic recklessness but a a Jesus-like self-sacrifice—he caught the virus on behalf of the people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s demeanor and bluster seek to suggest that the US have barely be touch by the virus , Biden ’ s to show that he himself have be deeply touch by the suffering it have inflict .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The malignant presidency of Donald Trump seem moribund , but also vigorously alive .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” But this be a hazy kind of reverie , and it could not stand up to Trump ’ s Gothic horror version of the trope .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Before he run for president , when Trump tweet about “ Patriots , ” it be almost always in relation to the football team .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Personally , he carry the cross of the death of his wife and daughter in 1972 and of his son Beau in 2015.1 During the pandemic , Trump defy death but do not acknowledge it ; Biden acknowledge death but do not pretend to defy it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” While Biden be insist that the dream be undying , Trump ’ s promise to resuscitate it cadaver be , for so many of those who have experience the demise of industrial America , a much more potent image .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have long frame the immediate post-election period a a temporal no-man ’ s-land .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have , after all , already witness the Good Friday and Easter Sunday of Donald Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump will try to keep the US “ in suspense ” between cause and effect , between the vote a cast and their consequence for the holding of power .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because argument about policy be the vestige of a notion that Trump have kill off : the idea that an election be a contest for the support , or at least the consent , of a majority of voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump , at his first rally after his resurrection , pose a an immortal ( “ I go through it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 1974 upon his inauguration a president , just half an hour after the resignation of Richard Nixon , Gerald Ford declare , “ My fellow Americans , our long national nightmare be over.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The death of others—230,000 victim of Covid-19 by election day—did not prompt a turn against the president who preside over them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Asked in the third presidential debate of 2016 whether he would do so , he reply , “ What I ’ m saying be that I will tell you at the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In announce his candidacy for the Republican nomination in June 2015 , he both perform it funeral rite and drag it out of the grave : “ Sadly the American dream be dead , but if I get elect president , I will bring it back .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have no policy agenda for a second term—the GOP merely readopted it platform from 2016 , without even bother to delete it multiple attack on “ the current president.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But they also play out a starkly different attitude toward death and time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Yet he also suggest that Nixon ’ s departure have leave the country in a good place : “ Our Constitution work ; our great Republic be a government of law and not of men.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump “ die , ” be in the “ tomb ” of Walter Reed hospital for three day and then rise again and appear to many .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/outlook/covid-testing-is-about-saving-lives-trump-thinks-its-just-about-numbers/2020/05/14/72fa765e-953c-11ea-9f5e-56d8239bf9ad_story.html",
+            "content": "Even by Trump ’ s standard , his outburst at Weijia Jiang , a White House correspondent for CBS News , at a news conference on Monday , be remarkable . Tests be perfect , in Trump ’ s mind , when they tell you what you want to hear — but not so great when they deliver bad news . Churches have be hypocritical during the pandemic\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair . But for Trump , the purpose of test be not to establish an objective truth . ” Trump snap that she should “ ask China , ” a non sequitur that many people take to be a reference to her Chinese American ethnicity ; he soon abandon the conference . Jiang begin by observe that the president have say “ many time ” that “ the U.S. be do far well than any other country when it come to test .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Even by Trump ’ s standard , his outburst at Weijia Jiang , a White House correspondent for CBS News , at a news conference on Monday , be remarkable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Tests be perfect , in Trump ’ s mind , when they tell you what you want to hear — but not so great when they deliver bad news .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Churches have be hypocritical during the pandemic\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But for Trump , the purpose of test be not to establish an objective truth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Trump snap that she should “ ask China , ” a non sequitur that many people take to be a reference to her Chinese American ethnicity ; he soon abandon the conference .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Jiang begin by observe that the president have say “ many time ” that “ the U.S. be do far well than any other country when it come to test .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://newrepublic.com/article/105658/mario-vargas-llosa-dream-of-celt-fintan-otoole",
+            "content": "The president , Éamon de Valera , himself the lead survivor of the uprising of 1916 , welcome the return hero “ amongst his own people , ” the Catholic Irish : “ For them he die and as long a this nation exist and Irish men live , his sacrifice will be recall and his memory revere . In the Cyclops chapter of James Joyce ’ s Ulysses , set in the year that Casement ’ s report be publish , J.J. O ’ Molloy remark of British trader that “ if they ’ re any bad than those Belgians in the Congo Free State they must be bad . But President Wilson decline to support the call : like many of Casement ’ s British and international admirer , he have be quietly show extract from the diary or inform of their content . One of Casement ’ s supporter , Sir Arthur Conan Doyle , have petition for a reprieve on the basis that his dangerous journey and disturb encounter with evil have leave him in an “ abnormal physical and mental state . Rather deliciously , just seven month before the return of the body to Dublin , The Irish Times report that “ Mr Montgomery Hyde ’ s book on Roger Casement ’ s trial have be ban under the Censorship of Publications Act ... . In the elusive Irishman ’ s instinctive hatred of cruelty , he find something beyond the contingency of everyday politics , “ an example of devotion , of love , of sacrifice for a cause . The compromise be that Casement would be reinterred instead alongside other hero of Irish nationalism in Dublin ’ s Glasnevin Cemetery . ”\nA week after Casement ’ s bone be bring back to Ireland in 1965 , a Belfast newspaper report that his ghost have be see in a pub in the city , where he order a meat pie and a Guinness , and then disappear into the restroom , never to re-emerge . The return of the remains follow a long campaign by the Irish government , which be prepare to mark the fiftieth anniversary of the armed rising in Dublin in 1916 that be the found myth of the Irish state . For most of the book , Casement ’ s homosexuality be dreamy and fantastical , in keep with the author ’ s view , express in an epilogue , “ that Casement write the famous diary but do not live them , at least not integrally , that there be in them a good deal of exaggeration and fiction , that he write certain thing because he would have like to live them but couldn ’ t. ” This be certainly a tenable view—or it would be if it be hold consistently . But it also exemplify Vargas Llosa ’ s inability to integrate his hero ’ s sexuality into his narrative . ’ ” This must surely be the only known example of a democratic state declare the word of one of it official hero insufferably obscene . ” According to the chaplain , Casement tell him that he regret his impend death only because he would not now have time “ to show what a loyal son of the Catholic church he was. And the revulsion that the diary inspire in 1916 have be replace in our time by another kind of adulation : Casement a gay icon . Early in the novel , Casement ’ s friend Alice Stopford Green tell him , about Joseph Conrad , that “ one can be a great writer and a coward in political matters. —Casement , say the citizen , he ’ s an Irishman . A week before his execution , the United States Senate pass a motion call for clemency for Casement . As The Irish Times report , “ People in small group , mostly woman , child and old men , pass quietly through the church , kneel for some minute to pray. His own state desire be to be bury in County Antrim , where his father ’ s family have it root . Casement have be bear into minor Irish land gentry , the son of a Protestant father and a Catholic mother , but he be raise a a Protestant . The literal one happen in February 1965 , when Casement ’ s long bone be dig up from an unmarked grave in Pentonville prison in London , where he have be hang for high treason in August 1916 , and flown to Dublin .",
+            "domain": "newrepublic.com",
+            "tokenized": [
+                {
+                    "sent": "The president , Éamon de Valera , himself the lead survivor of the uprising of 1916 , welcome the return hero “ amongst his own people , ” the Catholic Irish : “ For them he die and as long a this nation exist and Irish men live , his sacrifice will be recall and his memory revere .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the Cyclops chapter of James Joyce ’ s Ulysses , set in the year that Casement ’ s report be publish , J.J. O ’ Molloy remark of British trader that “ if they ’ re any bad than those Belgians in the Congo Free State they must be bad .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But President Wilson decline to support the call : like many of Casement ’ s British and international admirer , he have be quietly show extract from the diary or inform of their content .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One of Casement ’ s supporter , Sir Arthur Conan Doyle , have petition for a reprieve on the basis that his dangerous journey and disturb encounter with evil have leave him in an “ abnormal physical and mental state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rather deliciously , just seven month before the return of the body to Dublin , The Irish Times report that “ Mr Montgomery Hyde ’ s book on Roger Casement ’ s trial have be ban under the Censorship of Publications Act ... .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the elusive Irishman ’ s instinctive hatred of cruelty , he find something beyond the contingency of everyday politics , “ an example of devotion , of love , of sacrifice for a cause .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The compromise be that Casement would be reinterred instead alongside other hero of Irish nationalism in Dublin ’ s Glasnevin Cemetery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nA week after Casement ’ s bone be bring back to Ireland in 1965 , a Belfast newspaper report that his ghost have be see in a pub in the city , where he order a meat pie and a Guinness , and then disappear into the restroom , never to re-emerge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The return of the remains follow a long campaign by the Irish government , which be prepare to mark the fiftieth anniversary of the armed rising in Dublin in 1916 that be the found myth of the Irish state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For most of the book , Casement ’ s homosexuality be dreamy and fantastical , in keep with the author ’ s view , express in an epilogue , “ that Casement write the famous diary but do not live them , at least not integrally , that there be in them a good deal of exaggeration and fiction , that he write certain thing because he would have like to live them but couldn ’ t. ” This be certainly a tenable view—or it would be if it be hold consistently .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it also exemplify Vargas Llosa ’ s inability to integrate his hero ’ s sexuality into his narrative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” This must surely be the only known example of a democratic state declare the word of one of it official hero insufferably obscene .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” According to the chaplain , Casement tell him that he regret his impend death only because he would not now have time “ to show what a loyal son of the Catholic church he was.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And the revulsion that the diary inspire in 1916 have be replace in our time by another kind of adulation : Casement a gay icon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Early in the novel , Casement ’ s friend Alice Stopford Green tell him , about Joseph Conrad , that “ one can be a great writer and a coward in political matters.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "—Casement , say the citizen , he ’ s an Irishman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A week before his execution , the United States Senate pass a motion call for clemency for Casement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As The Irish Times report , “ People in small group , mostly woman , child and old men , pass quietly through the church , kneel for some minute to pray.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His own state desire be to be bury in County Antrim , where his father ’ s family have it root .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Casement have be bear into minor Irish land gentry , the son of a Protestant father and a Catholic mother , but he be raise a a Protestant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The literal one happen in February 1965 , when Casement ’ s long bone be dig up from an unmarked grave in Pentonville prison in London , where he have be hang for high treason in August 1916 , and flown to Dublin .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://library.princeton.edu/news/general/2018-03-23/fintan-otoole-lecture-renowned-irish-columnist-and-literary-scholar-present",
+            "content": "O ’ Toole ’ s new book , Judging Shaw , be recently publish by the Royal Irish Academy . ”\nCover of O'Toole 's recently publish book ( Royal Irish Academy )",
+            "domain": "library.princeton.edu",
+            "tokenized": [
+                {
+                    "sent": "O ’ Toole ’ s new book , Judging Shaw , be recently publish by the Royal Irish Academy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nCover of O'Toole 's recently publish book ( Royal Irish Academy )",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2019/12/16/788334158/what-does-british-election-results-mean-for-ireland",
+            "content": "Fintan O'Toole be a columnist for the Irish Times and join u from Dublin via Skype . I mean , most people in Ireland be very sad about it because it 's bad for u . On the other side , there 's huge regret that Brexit 's go to happen . O'TOOLE : It 's a real mixed feeling , I think . In the short term , I think , in Ireland , there 's some relief that Boris Johnson will at least have a clear parliamentary majority , which mean he can at least get the withdrawal agreement that 's be negotiate with the European Union through .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Fintan O'Toole be a columnist for the Irish Times and join u from Dublin via Skype .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "I mean , most people in Ireland be very sad about it because it 's bad for u .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the other side , there 's huge regret that Brexit 's go to happen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "O'TOOLE : It 's a real mixed feeling , I think .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the short term , I think , in Ireland , there 's some relief that Boris Johnson will at least have a clear parliamentary majority , which mean he can at least get the withdrawal agreement that 's be negotiate with the European Union through .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.irishtimes.com/opinion/fintan-o-toole-future-of-the-american-republic-is-in-grave-danger-unless-trump-is-defeated-1.4293585",
+            "content": "“ I think I ’ ve do more for the black community , ” he recently tell Fox News , “ than any other president , and let ’ s take a pas on Abraham Lincoln .",
+            "domain": "www.irishtimes.com",
+            "tokenized": [
+                {
+                    "sent": "“ I think I ’ ve do more for the black community , ” he recently tell Fox News , “ than any other president , and let ’ s take a pas on Abraham Lincoln .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.abebooks.com/servlet/SearchResults?cm_sp=plpafe-_-coll-_-first&an=fintan+otoole&ds=5&fe=on&n=&sortby=1&tn=irish+times+book+1916",
+            "content": "X , irish time book 1916 ( title ) X",
+            "domain": "www.abebooks.com",
+            "tokenized": [
+                {
+                    "sent": "X , irish time book 1916 ( title ) X",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

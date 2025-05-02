@@ -1,0 +1,930 @@
+{
+    "event_id": "234184",
+    "claim": "The Chinese government is building a hospital in 10 days to deal with the new coronavirus.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "As an outbreak of a severe strain of the new coronavirus spread in the city of Wuhan, China, the Chinese government vowed to build in 10 days a 1,000-bed hospital to treat victims of the illness.\nGiven the massive undertaking, Snopes readers asked whether this was true. The Chinese government apparently is endeavoring to do just that. Photographs show machinery starting to prepare construction at the site on Jan. 24, 2020. Within days, structures that would comprise the new hospital were already built. As of Feb. 2, 2020, pictures showed hospital construction near completion.\nOn Feb. 3, 2020, The New York Times reported the new hospital, named Huoshenshan Hospital, was preparing to accept its first round of patients.\nAlthough the feat may sound unbelievable to some, it wouldn’t be the first time the Chinese government put up a hospital in lightning speed to deal with an outbreak. In 2003, Beijing built a hospital in one week to treat SARS patients.\nRoughly 45 million people are quarantined in China as the country tries to contain the spread of the virus, which was first reported in Wuhan. The current strain, dubbed 2019-nCoV, has killed 425 people in China.",
+    "reports": [
+        {
+            "link": "https://www.nytimes.com/2020/02/03/world/asia/coronavirus-wuhan-hospital.html",
+            "content": "WUHAN , China — People desperate for treatment start descend on a new hospital that be mostly build in just 10 day to help cope with the outbreak of the new coronavirus in the central city of Wuhan on Monday . Leaders pledge to build the 1,000-bed complex in 10 day and vow that another new 1,600-bed hospital would be ready by Feb. 5 . The city government be attempt a feat recall the SARS epidemic of 2003 , when Beijing build a hospital in a week . The city government need to build the makeshift hospital quickly use prefabricate unit to ease a persistent shortage of hospital bed and medical supply . By Monday evening , Chinese state medium be report that ambulance have begin transport patient to the new hospital . In a ceremony on Sunday , Zhou Xianwang , the mayor of Wuhan , officially hand the new hospital over to the military , which will be in charge of operation . ”\nMany patient and their relative have be eagerly look forward to the opening of the new coronavirus hospital , but on Monday , some be disappoint . Here ’ s how the hospital , build along the Zhiyin Lake , come together .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WUHAN , China — People desperate for treatment start descend on a new hospital that be mostly build in just 10 day to help cope with the outbreak of the new coronavirus in the central city of Wuhan on Monday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Leaders pledge to build the 1,000-bed complex in 10 day and vow that another new 1,600-bed hospital would be ready by Feb. 5 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The city government be attempt a feat recall the SARS epidemic of 2003 , when Beijing build a hospital in a week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The city government need to build the makeshift hospital quickly use prefabricate unit to ease a persistent shortage of hospital bed and medical supply .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By Monday evening , Chinese state medium be report that ambulance have begin transport patient to the new hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a ceremony on Sunday , Zhou Xianwang , the mayor of Wuhan , officially hand the new hospital over to the military , which will be in charge of operation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMany patient and their relative have be eagerly look forward to the opening of the new coronavirus hospital , but on Monday , some be disappoint .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s how the hospital , build along the Zhiyin Lake , come together .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "http://www.xinhuanet.com/english/2020-02/02/c_138750364.htm",
+            "content": "China have build a makeshift hospital in 10 day to combat the novel strain of coronavirus in Wuhan , the epicenter of the virus outbreak in central China 's Hubei Province . WUHAN , Feb. 2 ( Xinhua ) -- China have build a makeshift hospital in 10 day to battle against the novel strain of coronavirus in Wuhan , the epicenter of the virus outbreak in central China 's Hubei Province . When Fang Xiang know he and his team have to finish the hospital in Wuhan in 10 day , he think it be `` mission impossible . '' Combo photo show an aerial view of the Huoshenshan Hospital during the past 10 day from Jan. 24 to Feb. 2 , 2020 in Wuhan . Beijing build Xiaotangshan Hospital in just a week in the treatment and control of SARS , or Severe Acute Respiratory Syndrome . Chinese health authority Sunday say it receive report of 2,590 new confirm case of novel coronavirus infection and 45 death on Saturday from 31 provincial-level region and the Xinjiang Production and Construction Corps . As China feel the pinch of the outbreak , authority have decide to replicate Xiaotangshan Hospital , a temporary medical center in the northern suburb of Beijing build in 2003 . Replicating Beijing 's SARS treatment model in 2003 , Wuhan start build two makeshift hospital : Leishenshan ( Thunder God Mountain ) and Huoshenshan . `` It take at least a month to construct a temporary building , not to mention a new hospital for infectious disease . '' After the hospital work begin , the Chinese public go out of their way to supervise the construction of Huoshenshan .",
+            "domain": "www.xinhuanet.com",
+            "tokenized": [
+                {
+                    "sent": "China have build a makeshift hospital in 10 day to combat the novel strain of coronavirus in Wuhan , the epicenter of the virus outbreak in central China 's Hubei Province .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WUHAN , Feb. 2 ( Xinhua ) -- China have build a makeshift hospital in 10 day to battle against the novel strain of coronavirus in Wuhan , the epicenter of the virus outbreak in central China 's Hubei Province .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When Fang Xiang know he and his team have to finish the hospital in Wuhan in 10 day , he think it be `` mission impossible . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Combo photo show an aerial view of the Huoshenshan Hospital during the past 10 day from Jan. 24 to Feb. 2 , 2020 in Wuhan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Beijing build Xiaotangshan Hospital in just a week in the treatment and control of SARS , or Severe Acute Respiratory Syndrome .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Chinese health authority Sunday say it receive report of 2,590 new confirm case of novel coronavirus infection and 45 death on Saturday from 31 provincial-level region and the Xinjiang Production and Construction Corps .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As China feel the pinch of the outbreak , authority have decide to replicate Xiaotangshan Hospital , a temporary medical center in the northern suburb of Beijing build in 2003 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Replicating Beijing 's SARS treatment model in 2003 , Wuhan start build two makeshift hospital : Leishenshan ( Thunder God Mountain ) and Huoshenshan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` It take at least a month to construct a temporary building , not to mention a new hospital for infectious disease . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After the hospital work begin , the Chinese public go out of their way to supervise the construction of Huoshenshan .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/news/world/china-s-coronavirus-hospital-built-10-days-opens-its-doors-n1128531",
+            "content": "A 1,000-bed hospital build in just 10 day to handle the coronavirus epidemic in Wuhan , China , open it door to it first patient Monday . The Huoshenshan Hospital be build specifically to handle patient infect with the novel coronavirus that have sicken thousand of people and leave more than 360 dead . China 's state news agency Xinhua report Sunday the new hospital have a capacity for 1,000 bed , intensive care unit and section for diagnosis and infection control . On Monday , the hospital — which cover 60,000 square meter ( 645,000 square foot ) — welcome it first patient , accord to Chinese state medium . `` It take at least a month to construct a temporary building , not to mention a new hospital for infectious disease , '' he say , accord to CCTV . China 's state CGTN network show a video of several worker who say they sleep only two hour in three day while complete the construction of the hospital . Many of the 1,400 medical specialist have work in the past to treat severe acute respiratory syndrome , or SARS , which the new coronavirus be relate to , and the Ebola virus in Sierra Leone and Liberia , the agency add . During the SARS epidemic in 2003 , a hospital in Beijing be construct in just a week .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "A 1,000-bed hospital build in just 10 day to handle the coronavirus epidemic in Wuhan , China , open it door to it first patient Monday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Huoshenshan Hospital be build specifically to handle patient infect with the novel coronavirus that have sicken thousand of people and leave more than 360 dead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "China 's state news agency Xinhua report Sunday the new hospital have a capacity for 1,000 bed , intensive care unit and section for diagnosis and infection control .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Monday , the hospital — which cover 60,000 square meter ( 645,000 square foot ) — welcome it first patient , accord to Chinese state medium .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It take at least a month to construct a temporary building , not to mention a new hospital for infectious disease , '' he say , accord to CCTV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "China 's state CGTN network show a video of several worker who say they sleep only two hour in three day while complete the construction of the hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many of the 1,400 medical specialist have work in the past to treat severe acute respiratory syndrome , or SARS , which the new coronavirus be relate to , and the Ebola virus in Sierra Leone and Liberia , the agency add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During the SARS epidemic in 2003 , a hospital in Beijing be construct in just a week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vice.com/en/article/akwkwb/heres-the-1000-bed-coronavirus-hospital-china-built-in-10-days",
+            "content": "A 1,000-bed hospital , build in just 10 day to address the overwhelming demand from the coronavirus outbreak , have open in Wuhan . The 30,000-square-yard Huoshenshan Hospital be one of two new hospital be build and be hand over by the construction team on Sunday , with the first patient arrive Monday , accord to Chinese state medium . READ : ‘ More than outrage ’ : Chinese citizen be get angry about Beijing 's handling of coronavirus\nOn Sunday the government announce it would pump $ 22 billion into the Chinese economy . On Monday market fell sharply after open for the first time in 10 day , after a prolonged Lunar New Year break . Since worker break ground on the two new facility , the death toll have rocket from 26 on Jan. 24 , to 362 on Monday , an almost 14-fold increase in just 10 day . The second hospital be set to open Wednesday , and the two new facility will help alleviate the massive overcrowding issue plague Wuhan ’ s hospital in recent week . While Chinese state medium have be heavily promote the successful opening of the hospital — call it a “ mission impossible ” — there be grow anger among citizen over report about the step Beijing take to conceal the developing crisis and silence any effort to raise the alarm . However , in Hong Kong , hospital staff go on strike on Monday , demand the government there close the border with China completely .",
+            "domain": "www.vice.com",
+            "tokenized": [
+                {
+                    "sent": "A 1,000-bed hospital , build in just 10 day to address the overwhelming demand from the coronavirus outbreak , have open in Wuhan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The 30,000-square-yard Huoshenshan Hospital be one of two new hospital be build and be hand over by the construction team on Sunday , with the first patient arrive Monday , accord to Chinese state medium .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "READ : ‘ More than outrage ’ : Chinese citizen be get angry about Beijing 's handling of coronavirus\nOn Sunday the government announce it would pump $ 22 billion into the Chinese economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Monday market fell sharply after open for the first time in 10 day , after a prolonged Lunar New Year break .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since worker break ground on the two new facility , the death toll have rocket from 26 on Jan. 24 , to 362 on Monday , an almost 14-fold increase in just 10 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The second hospital be set to open Wednesday , and the two new facility will help alleviate the massive overcrowding issue plague Wuhan ’ s hospital in recent week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While Chinese state medium have be heavily promote the successful opening of the hospital — call it a “ mission impossible ” — there be grow anger among citizen over report about the step Beijing take to conceal the developing crisis and silence any effort to raise the alarm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , in Hong Kong , hospital staff go on strike on Monday , demand the government there close the border with China completely .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fastcompany.com/90460165/how-chinese-officials-built-a-hospital-in-10-days-to-treat-coronavirus-victims",
+            "content": "The future of innovation and technology in government for the great good\nNew workplace , new food source , new medicine -- even an entirely new economic system\nChinese official have assemble a hospital in just 10 day in response to a new virus that have claim the life of at least 427 people and spread abroad to more than 25 country , include the United States . Though the Chinese government be able to build the new hospital quickly , at least one question remain : whether it will be able to staff the facility and adequately treat patient a the virus continue to spread . The hospital hold 1,000 bed and be build in just 10 day . A similar facility be construct in Beijing in 2003 in response to the SARS outbreak and be currently be renovated— the government have not say whether it will be use to treat new coronavirus patient . The New York Times report that a new hospital in Wuhan , a city in central China at the heart of the outbreak , which 11 million inhabitant have be bar from leave , take it first patient affect by the virus on Monday .",
+            "domain": "www.fastcompany.com",
+            "tokenized": [
+                {
+                    "sent": "The future of innovation and technology in government for the great good\nNew workplace , new food source , new medicine -- even an entirely new economic system\nChinese official have assemble a hospital in just 10 day in response to a new virus that have claim the life of at least 427 people and spread abroad to more than 25 country , include the United States .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Though the Chinese government be able to build the new hospital quickly , at least one question remain : whether it will be able to staff the facility and adequately treat patient a the virus continue to spread .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The hospital hold 1,000 bed and be build in just 10 day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A similar facility be construct in Beijing in 2003 in response to the SARS outbreak and be currently be renovated— the government have not say whether it will be use to treat new coronavirus patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The New York Times report that a new hospital in Wuhan , a city in central China at the heart of the outbreak , which 11 million inhabitant have be bar from leave , take it first patient affect by the virus on Monday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/av/world-asia-china-51348297",
+            "content": "Read more : Latest report and detail on coronavirus\nTime-lapse show Wuhan hospital 'built in 10 day ' Video , 00:01:00Time-lapse show Wuhan hospital 'built in 10 day '\nWhat we know so far about the new coronavirus outbreak . Time-lapse footage take from above show the construction of Huoshenshan hospital in Wuhan city , which have be build to deal with coronavirus patient . According to Chinese authority , construction begin on 24 January , with the hospital due to open on 3 February .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Read more : Latest report and detail on coronavirus\nTime-lapse show Wuhan hospital 'built in 10 day ' Video , 00:01:00Time-lapse show Wuhan hospital 'built in 10 day '\nWhat we know so far about the new coronavirus outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Time-lapse footage take from above show the construction of Huoshenshan hospital in Wuhan city , which have be build to deal with coronavirus patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to Chinese authority , construction begin on 24 January , with the hospital due to open on 3 February .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://news.cgtn.com/news/2020-04-24/Demystifying-the-hospital-built-in-10-days--PWDKNw6nC0/index.html",
+            "content": "The hospital build in ten day to treat Wuhan 's coronavirus patient . Wuhan 's municipal government call an emergency meeting to build a makeshift hospital in response to the novel coronavirus outbreak , to help relieve the overflow in all the medical center in the then epicenter of the outbreak in China . High technology and down-to-earth toil combine to complete the construction of Huoshenshan Hospital in 10 day in Wuhan , central China Hubei Province . `` And maybe you 're follow the one hospital which be be build in 10 day , big hospital , but that 's not the only thing . Normally , a new hospital 's technical infrastructure would take 15 day to be instal and get up and run . Following the model of Huoshenshan Hospital , Kazakhstan have build a makeshift hospital to treat COVID-19 patient in 13 day in Nur-Sultan , the developer BI Group announce on Tuesday . The Huoshenshan ( Fire God Mountain ) Hospital , locate in the city 's Caidian District , be model after the Xiaotangshan Hospital , a field hospital build in Beijing for the 2003 SARS pandemic . The planner , give just 24 hour to come up with the final blueprint , turn to the experience of constructing and operate Beijing 's Xiaotangshan Hospital – build 17 year earlier a a specialist SARS treatment facility in Beijing . We build the hospital and deliver it , ready for use . '' / CGTN\nJust before Spring Festival on January 24 , when the city go into a total lockdown , the municipal government call an emergency meeting to build a makeshift hospital . In it 73 day ' operation , Huoshenshan Hospital admit 3,059 COVID-19 patient ; 2,961 of them be successfully treat and discharge .",
+            "domain": "news.cgtn.com",
+            "tokenized": [
+                {
+                    "sent": "The hospital build in ten day to treat Wuhan 's coronavirus patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wuhan 's municipal government call an emergency meeting to build a makeshift hospital in response to the novel coronavirus outbreak , to help relieve the overflow in all the medical center in the then epicenter of the outbreak in China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "High technology and down-to-earth toil combine to complete the construction of Huoshenshan Hospital in 10 day in Wuhan , central China Hubei Province .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` And maybe you 're follow the one hospital which be be build in 10 day , big hospital , but that 's not the only thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Normally , a new hospital 's technical infrastructure would take 15 day to be instal and get up and run .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Following the model of Huoshenshan Hospital , Kazakhstan have build a makeshift hospital to treat COVID-19 patient in 13 day in Nur-Sultan , the developer BI Group announce on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Huoshenshan ( Fire God Mountain ) Hospital , locate in the city 's Caidian District , be model after the Xiaotangshan Hospital , a field hospital build in Beijing for the 2003 SARS pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The planner , give just 24 hour to come up with the final blueprint , turn to the experience of constructing and operate Beijing 's Xiaotangshan Hospital – build 17 year earlier a a specialist SARS treatment facility in Beijing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We build the hospital and deliver it , ready for use . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "/ CGTN\nJust before Spring Festival on January 24 , when the city go into a total lockdown , the municipal government call an emergency meeting to build a makeshift hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In it 73 day ' operation , Huoshenshan Hospital admit 3,059 COVID-19 patient ; 2,961 of them be successfully treat and discharge .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seattletimes.com/seattle-news/health/built-in-10-days-chinas-virus-hospital-takes-1st-patients/",
+            "content": "BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm . BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm . The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight . The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight . In other city , the government have designate hospital to handle case of the new virus . In other city , the government have designate hospital to handle case of the new virus . Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December . Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December . In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker . In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker . The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua . The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua . Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com . Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com . The government have yet to say whether it might be use for patient with the new disease . The government have yet to say whether it might be use for patient with the new disease .",
+            "domain": "www.seattletimes.com",
+            "tokenized": [
+                {
+                    "sent": "BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other city , the government have designate hospital to handle case of the new virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other city , the government have designate hospital to handle case of the new virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The government have yet to say whether it might be use for patient with the new disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The government have yet to say whether it might be use for patient with the new disease .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/8e978ecbb3b1dd125221b627d35e8edc",
+            "content": "BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm . The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight . In other city , the government have designate hospital to handle case of the new virus . Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December . In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker . The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua . Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com . The government have yet to say whether it might be use for patient with the new disease .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "BEIJING ( AP ) — The first patient arrive Monday at a 1,000-bed hospital build in 10 day a part of China ’ s sweep effort to fight a new virus that be cause global alarm .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The Wuhan treatment center mark the second time Chinese leader have respond to a new disease by build specialized hospital almost overnight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other city , the government have designate hospital to handle case of the new virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Huoshenshan Hospital and a second 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , the central city where the outbreak be first detect in December .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "In Beijing , the Xiaotangshan Hospital build in 2003 for SARS be be renovate by construction worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Huoshenshan Hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to Xinhua .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before this week ’ s addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The government have yet to say whether it might be use for patient with the new disease .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-china-health-hospital/china-building-1000-bed-hospital-over-the-weekend-to-treat-coronavirus-idUSKBN1ZN07U",
+            "content": "BEIJING ( Reuters ) - The Chinese city of Wuhan be rapidly build a new 1,000-bed hospital to treat victim of a new coronavirus , mobilize machinery to get it ready by early next week , state medium say . At the time , Beijing build the Xiaotangshan hospital in it northern suburb in just a week . The new hospital be be build around a holiday complex originally intend for local worker , set in garden by a lake on the outskirt of the city , the official Changjiang Daily report on Friday . ”\nChina State Construction Engineering , one of the company build the hospital , say on Friday it be “ do all it can and would overcome difficulty ” to play it part , add it now have more than 100 worker on the site . Building machinery , include 35 digger and 10 bulldozer , arrive at the site on Thursday night , with the aim to get the new facility ready by Monday , the paper add . The Beijing hospital , build by 7,000 worker , be originally design only to take people who be in recovery from SARS to relieve pressure on other hospital .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "BEIJING ( Reuters ) - The Chinese city of Wuhan be rapidly build a new 1,000-bed hospital to treat victim of a new coronavirus , mobilize machinery to get it ready by early next week , state medium say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the time , Beijing build the Xiaotangshan hospital in it northern suburb in just a week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new hospital be be build around a holiday complex originally intend for local worker , set in garden by a lake on the outskirt of the city , the official Changjiang Daily report on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nChina State Construction Engineering , one of the company build the hospital , say on Friday it be “ do all it can and would overcome difficulty ” to play it part , add it now have more than 100 worker on the site .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Building machinery , include 35 digger and 10 bulldozer , arrive at the site on Thursday night , with the aim to get the new facility ready by Monday , the paper add .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Beijing hospital , build by 7,000 worker , be originally design only to take people who be in recovery from SARS to relieve pressure on other hospital .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.archpaper.com/2020/02/china-opens-1000-bed-coronavirus-hospital-less-than-10-days/",
+            "content": "As promise , China have complete the first of two emergency hospital it be build to address the spread of coronavirus in Wuhan , and it do so in less than 10 day . The construction process for both facility be model after the one use to build the Xiaotangshan Hospital , which China build in 2003 to treat patient during an outbreak of severe acute respiratory syndrome ( SARS ) and be still in operation . Officials say they be able to build the hospital so quickly because they use prefabricate module that could be assemble on-site , and people work around the clock in shift to assemble the component . The United States have have 11 case of novel coronavirus a of February 3 . The World Health Organization have also declare the coronavirus outbreak a global health emergency but leader have praise China for it response to the virus .",
+            "domain": "www.archpaper.com",
+            "tokenized": [
+                {
+                    "sent": "As promise , China have complete the first of two emergency hospital it be build to address the spread of coronavirus in Wuhan , and it do so in less than 10 day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The construction process for both facility be model after the one use to build the Xiaotangshan Hospital , which China build in 2003 to treat patient during an outbreak of severe acute respiratory syndrome ( SARS ) and be still in operation .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Officials say they be able to build the hospital so quickly because they use prefabricate module that could be assemble on-site , and people work around the clock in shift to assemble the component .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The United States have have 11 case of novel coronavirus a of February 3 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The World Health Organization have also declare the coronavirus outbreak a global health emergency but leader have praise China for it response to the virus .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox32chicago.com/news/built-in-10-days-china-opens-new-coronavirus-hospital-as-death-toll-grows",
+            "content": "Built in 10 day , these be before and after photo of Huoshenshan Hospital in Wuhan , China . - China be rush to build a new hospi\nBEIJING - China open a new hospital build in 10 day , infused cash into it tumble financial market and far restrict people 's movement in sweep new step Monday to contain a rapidly spread virus and it escalating impact . After only 10 day of construction , Wuhan Huoshenshan Hospital be officially complete and deliver , and on February 3 , patient wit\nIts prefabricated ward be equip with state-of-the-art medical equipment and ventilation system . Related : After 8th U.S. coronavirus case be confirm , some in Chicago say they might avoid Chinese New Year event\nMore than 2,000 hospital worker go on strike earlier in the day , demand a complete closure of the border , and their union have threaten a big walkout Tuesday . TOPSHOT - This aerial photo on January 24 , 2020 show excavator at the construction site of a new hospital be build to treat patient from a deadly virus outbreak in Wuhan in China 's central Hubei province . The hospital will treat patient diagnose with the coronavirus . Related : CDC report 1st case of person-to-person spread of coronavirus in Illinois\n“ In essence , it ’ s a version of SARS that spread more easily but cause less damage , ” Ian Jones , a professor of virology at the University of Reading in Britain , say about the new virus . Related : Trump bar entry of foreign national into US who pose coronavirus transmission risk\nMedical team from the People 's Liberation Army be arrive in Wuhan , the capital of Hubei province , to relieve overwhelmed health worker and to staff the new 1,000-bed hospital , locate in the countryside far from the city center . A second hospital with 1,500 bed be due to open within day . Related : Traditional surgical mask do not protect from the coronavirus\nThe ship 's captain say Hong Kong 's health authority notify the ship about the passenger 's infection on Saturday , six day after he get off the ship after not be catch on thermal screening , accord to a recording of the announcement tweet by a passenger . WUHAN , CHINA - FEBRUARY 03 : Huoshenshan Hospital construction near completion on February 3 , 2020 in Wuhan , China .",
+            "domain": "www.fox32chicago.com",
+            "tokenized": [
+                {
+                    "sent": "Built in 10 day , these be before and after photo of Huoshenshan Hospital in Wuhan , China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "- China be rush to build a new hospi\nBEIJING - China open a new hospital build in 10 day , infused cash into it tumble financial market and far restrict people 's movement in sweep new step Monday to contain a rapidly spread virus and it escalating impact .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After only 10 day of construction , Wuhan Huoshenshan Hospital be officially complete and deliver , and on February 3 , patient wit\nIts prefabricated ward be equip with state-of-the-art medical equipment and ventilation system .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Related : After 8th U.S. coronavirus case be confirm , some in Chicago say they might avoid Chinese New Year event\nMore than 2,000 hospital worker go on strike earlier in the day , demand a complete closure of the border , and their union have threaten a big walkout Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "TOPSHOT - This aerial photo on January 24 , 2020 show excavator at the construction site of a new hospital be build to treat patient from a deadly virus outbreak in Wuhan in China 's central Hubei province .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The hospital will treat patient diagnose with the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Related : CDC report 1st case of person-to-person spread of coronavirus in Illinois\n“ In essence , it ’ s a version of SARS that spread more easily but cause less damage , ” Ian Jones , a professor of virology at the University of Reading in Britain , say about the new virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Related : Trump bar entry of foreign national into US who pose coronavirus transmission risk\nMedical team from the People 's Liberation Army be arrive in Wuhan , the capital of Hubei province , to relieve overwhelmed health worker and to staff the new 1,000-bed hospital , locate in the countryside far from the city center .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A second hospital with 1,500 bed be due to open within day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Related : Traditional surgical mask do not protect from the coronavirus\nThe ship 's captain say Hong Kong 's health authority notify the ship about the passenger 's infection on Saturday , six day after he get off the ship after not be catch on thermal screening , accord to a recording of the announcement tweet by a passenger .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WUHAN , CHINA - FEBRUARY 03 : Huoshenshan Hospital construction near completion on February 3 , 2020 in Wuhan , China .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/coronavirus-china-builds-wuhan-hospital-10-days-210bee7c-5f5d-4800-87b2-6a358067b802.html",
+            "content": "Photo : Getty Images\nMedical team and supply be arrive Monday at the newly build Wuhan Huoshenshan Hospital , a 1,000-bed center for the treatment of patient of the novel coronavirus , per Chinese government official and state medium . The hospital be build in 10 day . Workers at the new Wuhan Huoshenshan Hospital in China on Sunday .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "Photo : Getty Images\nMedical team and supply be arrive Monday at the newly build Wuhan Huoshenshan Hospital , a 1,000-bed center for the treatment of patient of the novel coronavirus , per Chinese government official and state medium .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The hospital be build in 10 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Workers at the new Wuhan Huoshenshan Hospital in China on Sunday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/world/2020/02/03/coronavirus-photos-show-wuhan-huoshenshan-hospital-built-10-days/4643377002/",
+            "content": "Patients arrive Monday at Wuhan's Huoshenshan Hospital , the 1,000-bed treatment center construct in 10 day a China battle the deadly coronavirus outbreak spread around the world . A crew of 7,000 people scramble to build the hospital seemingly overnight , and it will be staff with 1,400 doctor , nurse and other personnel from the People ’ s Liberation Army .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Patients arrive Monday at Wuhan's Huoshenshan Hospital , the 1,000-bed treatment center construct in 10 day a China battle the deadly coronavirus outbreak spread around the world .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A crew of 7,000 people scramble to build the hospital seemingly overnight , and it will be staff with 1,400 doctor , nurse and other personnel from the People ’ s Liberation Army .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dezeen.com/2020/01/27/china-wuhan-huoshenshan-hospital-coronavirus/",
+            "content": "The government of China be rapidly build a 1,000-bed hospital in Wuhan a part of it effort to contain and treat patient suspect of contract coronavirus . The quarantine hospital be be build use prefabricated element and be expect to open on 3 February , 10 day after construction begin . Named Wuhan Huoshenshan Hospital , the 25,000-square-metre facility be be build in the Caidian District in the west of the city of Wuhan to treat coronavirus patient . It will be put into use by Feb. 3\nThe local government be also build a second large facility in Wuhan , which will be call the Leishenshan Hospital , report China Daily . Wuhan will follow Beijing 's SARS treatment model to build a special hospital plan to accommodate 1,000 bed . Prefabricated hospital to open on 3 February\nAerial photography take at the end of last week show around 60 digger clear the site , while state-owned broadcaster CGTN be show live footage of the work progress day and night to build the hospital . Mud Shell by Stephanie ChaltielMud Shell by Stephanie ChaltielRelated story Mud-spraying drone build prototype for emergency home\nIts design be reportedly base on the Xiaotangshan Hospital that be build within a week in Beijing during the SARS outbreak in 2003 . This hospital be expect to open in 15 day .",
+            "domain": "www.dezeen.com",
+            "tokenized": [
+                {
+                    "sent": "The government of China be rapidly build a 1,000-bed hospital in Wuhan a part of it effort to contain and treat patient suspect of contract coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The quarantine hospital be be build use prefabricated element and be expect to open on 3 February , 10 day after construction begin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Named Wuhan Huoshenshan Hospital , the 25,000-square-metre facility be be build in the Caidian District in the west of the city of Wuhan to treat coronavirus patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It will be put into use by Feb. 3\nThe local government be also build a second large facility in Wuhan , which will be call the Leishenshan Hospital , report China Daily .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Wuhan will follow Beijing 's SARS treatment model to build a special hospital plan to accommodate 1,000 bed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Prefabricated hospital to open on 3 February\nAerial photography take at the end of last week show around 60 digger clear the site , while state-owned broadcaster CGTN be show live footage of the work progress day and night to build the hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mud Shell by Stephanie ChaltielMud Shell by Stephanie ChaltielRelated story Mud-spraying drone build prototype for emergency home\nIts design be reportedly base on the Xiaotangshan Hospital that be build within a week in Beijing during the SARS outbreak in 2003 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This hospital be expect to open in 15 day .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://timesofindia.indiatimes.com/india/how-coronavirus-hit-china-built-a-1000-bed-hospital-in-10-days/articleshow/73906843.cms",
+            "content": "Huoshenshan Hospital have be build in Wuhan to receive patient infect with the new # coronavirus .",
+            "domain": "timesofindia.indiatimes.com",
+            "tokenized": [
+                {
+                    "sent": "Huoshenshan Hospital have be build in Wuhan to receive patient infect with the new # coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/world/2020/02/03/chinese-hospital-built-10-days-combat-coronavirus/",
+            "content": "A medical facility in the city of Wuhan open it door to patient Monday after just 10 day of construction , mark the late effort by Chinese official to stymie the rapidly spread coronavirus that have sicken more than 17,000 people in the country . That facility , Xiaotangshan Hospital , be build in seven day . The publication note that it rapid construction be model after a similar hospital build in Beijing during the 2003 outbreak of severe acute respiratory syndrome ( SARS ) , which involve 7,500 construction worker . We answer one every day in our coronavirus newsletter\nThe most important news story of the day , curated by Post editor and deliver every morning . Live Updates : China ’ s reopen stock market plunge a coronavirus outbreak threaten to become pandemic\nAccording to the Associated Press , the two-story , 600,000-square-foot hospital feature doubled-sided cabinet and ventilation system that essentially quarantine patient , allow hospital staff to deliver supply without enter their room .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "A medical facility in the city of Wuhan open it door to patient Monday after just 10 day of construction , mark the late effort by Chinese official to stymie the rapidly spread coronavirus that have sicken more than 17,000 people in the country .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That facility , Xiaotangshan Hospital , be build in seven day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The publication note that it rapid construction be model after a similar hospital build in Beijing during the 2003 outbreak of severe acute respiratory syndrome ( SARS ) , which involve 7,500 construction worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We answer one every day in our coronavirus newsletter\nThe most important news story of the day , curated by Post editor and deliver every morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Live Updates : China ’ s reopen stock market plunge a coronavirus outbreak threaten to become pandemic\nAccording to the Associated Press , the two-story , 600,000-square-foot hospital feature doubled-sided cabinet and ventilation system that essentially quarantine patient , allow hospital staff to deliver supply without enter their room .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/how-china-managed-build-entirely-new-hospital-in-10-days-2020-2",
+            "content": "On Sunday , China finish build an emergency hospital set up specifically to tackle the Wuhan coronavirus . China be also build a second hospital just 25 mile away from Huoshenshan , which will also be dedicate to the treatment of coronavirus patient and be schedule to accept it first patient on Wednesday . It only take 10 day . Chinese state medium have also give a lot of credit to the more than 7,500 laborer , who work around the clock to construct the hospital . Robert Yates , an internationally-recognized expert on universal health coverage ( UHC ) say at a press conference on Tuesday that the rapid speed at which the hospital be build can be `` can be a lesson to many . ''",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "On Sunday , China finish build an emergency hospital set up specifically to tackle the Wuhan coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "China be also build a second hospital just 25 mile away from Huoshenshan , which will also be dedicate to the treatment of coronavirus patient and be schedule to accept it first patient on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It only take 10 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chinese state medium have also give a lot of credit to the more than 7,500 laborer , who work around the clock to construct the hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Robert Yates , an internationally-recognized expert on universal health coverage ( UHC ) say at a press conference on Tuesday that the rapid speed at which the hospital be build can be `` can be a lesson to many . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbc.ca/news/world/coronavirus-china-huoshenshan-hospital-photos-1.5450026",
+            "content": "Huoshenshan Hospital and a second , 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , China , the central city where the coronavirus be first detect in December . The 1,000-bed hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to China 's official Xinhua News Agency . Before this week 's addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com .",
+            "domain": "www.cbc.ca",
+            "tokenized": [
+                {
+                    "sent": "Huoshenshan Hospital and a second , 1,500-bed facility due to open this week be build by construction crew who be work around the clock in Wuhan , China , the central city where the coronavirus be first detect in December .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The 1,000-bed hospital be build by a 7,000-member crew of carpenter , plumber , electrician and other specialist , accord to China 's official Xinhua News Agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before this week 's addition of 2,500 new bed , Wuhan have 6,754 in hospital designate for virus patient , accord to the website TMTpost.com .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/how-china-can-build-a-coronavirus-hospital-in-10-days-11580397751",
+            "content": "China on Thursday complete the second of two new hospital in Wuhan , the city at the heart of the coronavirus outbreak , in a matter of day to help combat the fast-spreading virus . “ It ’ s impressive what ’ s be achieve in a very short number of day in China and represent remarkable effort not only in public health , but in logistics and in planning and architecture , ” Michael Ryan , executive director of the World Health Organization ’ s health emergency program , say Wednesday about the two new hospital . The new hospital add capacity to a city straining to keep up with the grow number of patient .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "China on Thursday complete the second of two new hospital in Wuhan , the city at the heart of the coronavirus outbreak , in a matter of day to help combat the fast-spreading virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s impressive what ’ s be achieve in a very short number of day in China and represent remarkable effort not only in public health , but in logistics and in planning and architecture , ” Michael Ryan , executive director of the World Health Organization ’ s health emergency program , say Wednesday about the two new hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new hospital add capacity to a city straining to keep up with the grow number of patient .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.france24.com/en/20200203-coronavirus-china-builds-hospital-in-10-days",
+            "content": "According to Chinese state medium , the construction of a new hospital in virus-hit Wuhan have be complete – just a little over a week after it begin . A 60,000-square-metre structure with space for 1,000 bed and 30 intensive care ward , all build in just 10 day . A team of 7,000 carpenter , plumber , electrician and other specialist work around the clock to build the Huoshenshan hospital , Chinese state medium say , with construction begin on January 23 and complete on Sunday . A second new hospital be currently under construction in Wuhan and set to be complete on February 5 . Philippines report first coronavirus death outside China a toll top 300\nSuu Kyi to face court after Myanmar ’ s bloody day since coup\nUN Security Council urge restraint in Myanmar a US impose new sanction\nA blunt US letter aim to revive the Afghan peace process , but jolt woman on a special day\nRussia and China agree to build joint lunar space station The hospital , which will be staff by around 1,400 army medic dispatch to Wuhan , begin treat it first patient on Monday . Wuhan , a city of around 11 million , have be on lockdown since January 23 after it become the scene of the first outbreak of the previously unknown form of coronavirus – a group of illness that include SARS .",
+            "domain": "www.france24.com",
+            "tokenized": [
+                {
+                    "sent": "According to Chinese state medium , the construction of a new hospital in virus-hit Wuhan have be complete – just a little over a week after it begin .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A 60,000-square-metre structure with space for 1,000 bed and 30 intensive care ward , all build in just 10 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A team of 7,000 carpenter , plumber , electrician and other specialist work around the clock to build the Huoshenshan hospital , Chinese state medium say , with construction begin on January 23 and complete on Sunday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A second new hospital be currently under construction in Wuhan and set to be complete on February 5 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Philippines report first coronavirus death outside China a toll top 300\nSuu Kyi to face court after Myanmar ’ s bloody day since coup\nUN Security Council urge restraint in Myanmar a US impose new sanction\nA blunt US letter aim to revive the Afghan peace process , but jolt woman on a special day\nRussia and China agree to build joint lunar space station The hospital , which will be staff by around 1,400 army medic dispatch to Wuhan , begin treat it first patient on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wuhan , a city of around 11 million , have be on lockdown since January 23 after it become the scene of the first outbreak of the previously unknown form of coronavirus – a group of illness that include SARS .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.archdaily.com/933080/china-completes-hospital-in-10-days-to-fight-wuhans-coronavirus",
+            "content": "Built to treat coronavirus patient , the hospital aim to build off the previous construction of Beijing Xiaotangshan Hospital in just a week 's time back in 2003 . Built to treat coronavirus patient , the hospital aim to build off the previous construction of Beijing Xiaotangshan Hospital in just a week 's time back in 2003 . China 's Wuhan City have complete construction of the 1,000-bed Wuhan Huoshenshan Hospital in under ten day . China 's Wuhan City have complete construction of the 1,000-bed Wuhan Huoshenshan Hospital in under ten day . Construction work start on the Huoshenshan hospital on January 23 and be initially schedule to be build in six day . Construction work start on the Huoshenshan hospital on January 23 and be initially schedule to be build in six day . As CGTN state , work begin on the new hospital in the Caidian district of Wuhan to `` address the insufficiency of exist medical resource , ” accord to the official Xinhua news agency . As CGTN state , work begin on the new hospital in the Caidian district of Wuhan to `` address the insufficiency of exist medical resource , ” accord to the official Xinhua news agency . Coronavirus be declare a Global Health Emergency by the World Health Organization , and over twenty country have confirm case . Coronavirus be declare a Global Health Emergency by the World Health Organization , and over twenty country have confirm case .",
+            "domain": "www.archdaily.com",
+            "tokenized": [
+                {
+                    "sent": "Built to treat coronavirus patient , the hospital aim to build off the previous construction of Beijing Xiaotangshan Hospital in just a week 's time back in 2003 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Built to treat coronavirus patient , the hospital aim to build off the previous construction of Beijing Xiaotangshan Hospital in just a week 's time back in 2003 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "China 's Wuhan City have complete construction of the 1,000-bed Wuhan Huoshenshan Hospital in under ten day .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "China 's Wuhan City have complete construction of the 1,000-bed Wuhan Huoshenshan Hospital in under ten day .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Construction work start on the Huoshenshan hospital on January 23 and be initially schedule to be build in six day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Construction work start on the Huoshenshan hospital on January 23 and be initially schedule to be build in six day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As CGTN state , work begin on the new hospital in the Caidian district of Wuhan to `` address the insufficiency of exist medical resource , ” accord to the official Xinhua news agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As CGTN state , work begin on the new hospital in the Caidian district of Wuhan to `` address the insufficiency of exist medical resource , ” accord to the official Xinhua news agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Coronavirus be declare a Global Health Emergency by the World Health Organization , and over twenty country have confirm case .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Coronavirus be declare a Global Health Emergency by the World Health Organization , and over twenty country have confirm case .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/watch-as-coronavirus-spreads-china-builds-an-entire-hospital-in-10-days-2020-02-03",
+            "content": "To that end , construction of the Huoshenshan Hospital begin on Jan. 24 and , amazingly , open on Monday , just 10 day later . Chinese state medium report that patient arrive early Monday at the 600,000-square-foot hospital , which have 1,000 bed and be staff by 1,400 doctor , nurse and other personnel from the People ’ s Liberation Army .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "To that end , construction of the Huoshenshan Hospital begin on Jan. 24 and , amazingly , open on Monday , just 10 day later .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Chinese state medium report that patient arrive early Monday at the 600,000-square-foot hospital , which have 1,000 bed and be staff by 1,400 doctor , nurse and other personnel from the People ’ s Liberation Army .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2020/09/10/909688913/whatever-happened-to-the-instant-hospitals-built-in-wuhan-for-covid-19-patients",
+            "content": "During the 2003 SARS outbreak , China build Xiaotangshan Hospital on the outskirt of Beijing in just seven day out of prefabricated component . The vigorous effort seem to have work , because just a month later , on March 10 , Chinese President Xi Jinping declare that the disease have be `` basically curb '' in Wuhan and it province , Hubei . At the request of Chinese health official , his design allow the hospital to easily isolate any part of the hospital in the event of an infectious disease outbreak . In February , China pull off an impressive construction feat that catch the world 's attention : Amid surge case of COVID-19 , China build two hospital in the pandemic 's epicenter , Wuhan , in under two week to isolate and treat COVID-19 patient . On Jan. 23 , worker start build the Huoshenshan hospital for COVID-19 patient in Wuhan , China . On Jan. 23 , worker start build the Huoshenshan hospital for COVID-19 patient in Wuhan , China . A worker walk past bed frame a worker demolish installation at Wuhan 's first makeshift hospital build to treat patient infect with COVID-19 in China 's central Hubei province in August . A worker walk past bed frame a worker demolish installation at Wuhan 's first makeshift hospital build to treat patient infect with COVID-19 in China 's central Hubei province in August . Government official say there be no plan to demolish the hospital yet , and they can be `` reactivate at any time '' if a second wave of infection hit . In 2011 , Pan win an award for his design of Shunde Hospital of Southern Medical University in China , locate where the first outbreak of SARS happen in 2003 . Five day later , it sister hospital , Leishenshan ( mean Thunder God Mountain ) , open with another 1,500 bed . The 1,000-bed Huoshenshan Hospital ( mean Fire God Mountain ) open it door on Feb. 3 . On Aug. 1 , Hong Kong open it first makeshift hospital at a convention center . In 2010 , the government announce that the facility would be demolish , but apparently , it be n't `` completely demolish , '' because in January 2020 , renovation begin to revitalize Xiaotangshan for COVID-19 patient .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "During the 2003 SARS outbreak , China build Xiaotangshan Hospital on the outskirt of Beijing in just seven day out of prefabricated component .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The vigorous effort seem to have work , because just a month later , on March 10 , Chinese President Xi Jinping declare that the disease have be `` basically curb '' in Wuhan and it province , Hubei .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the request of Chinese health official , his design allow the hospital to easily isolate any part of the hospital in the event of an infectious disease outbreak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In February , China pull off an impressive construction feat that catch the world 's attention : Amid surge case of COVID-19 , China build two hospital in the pandemic 's epicenter , Wuhan , in under two week to isolate and treat COVID-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Jan. 23 , worker start build the Huoshenshan hospital for COVID-19 patient in Wuhan , China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Jan. 23 , worker start build the Huoshenshan hospital for COVID-19 patient in Wuhan , China .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A worker walk past bed frame a worker demolish installation at Wuhan 's first makeshift hospital build to treat patient infect with COVID-19 in China 's central Hubei province in August .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A worker walk past bed frame a worker demolish installation at Wuhan 's first makeshift hospital build to treat patient infect with COVID-19 in China 's central Hubei province in August .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Government official say there be no plan to demolish the hospital yet , and they can be `` reactivate at any time '' if a second wave of infection hit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2011 , Pan win an award for his design of Shunde Hospital of Southern Medical University in China , locate where the first outbreak of SARS happen in 2003 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Five day later , it sister hospital , Leishenshan ( mean Thunder God Mountain ) , open with another 1,500 bed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The 1,000-bed Huoshenshan Hospital ( mean Fire God Mountain ) open it door on Feb. 3 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Aug. 1 , Hong Kong open it first makeshift hospital at a convention center .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2010 , the government announce that the facility would be demolish , but apparently , it be n't `` completely demolish , '' because in January 2020 , renovation begin to revitalize Xiaotangshan for COVID-19 patient .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://newsus.cgtn.com/news/2020-09-09/How-China-built-a-hospital-in-10-days-TDfbimzQ4M/index.html",
+            "content": "Tens of thousand of construction worker and volunteer be task to work around the clock to build them in 10 day . The Huo shenshan hospital and the Lei shenshan hospital be build to treat the most serious case .",
+            "domain": "newsus.cgtn.com",
+            "tokenized": [
+                {
+                    "sent": "Tens of thousand of construction worker and volunteer be task to work around the clock to build them in 10 day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Huo shenshan hospital and the Lei shenshan hospital be build to treat the most serious case .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.architecturaldigest.com/story/china-building-hospital-10-days-what-design-must-get-right",
+            "content": "But what they plan to do now—complete a 1,000-bed hospital in a mere 10 days—might be among their most ambitious feat to date . The design of the new hospital will be base on that of Xiaotangshan Hospital , which be erect within a week in Beijing during the SARS outbreak of 2003 ( SARS infect more than 8,000 people and kill nearly 800 ) . As with Xiaotangshan , the Wuhan Huoshenshan Hospital be be build with prefabricated material . `` The hospital be intend to isolate people with the coronavirus , '' say James Crispino , global health and wellness practice area leader and principal at Gensler . Trucks queue to enter the construction site of a new hospital in Wuhan . In Wuhan ( the epicenter of the virus ) , dozen of crane be currently dig a 269,000-square-foot plot of land that will soon become a hospital .",
+            "domain": "www.architecturaldigest.com",
+            "tokenized": [
+                {
+                    "sent": "But what they plan to do now—complete a 1,000-bed hospital in a mere 10 days—might be among their most ambitious feat to date .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The design of the new hospital will be base on that of Xiaotangshan Hospital , which be erect within a week in Beijing during the SARS outbreak of 2003 ( SARS infect more than 8,000 people and kill nearly 800 ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As with Xiaotangshan , the Wuhan Huoshenshan Hospital be be build with prefabricated material .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` The hospital be intend to isolate people with the coronavirus , '' say James Crispino , global health and wellness practice area leader and principal at Gensler .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trucks queue to enter the construction site of a new hospital in Wuhan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Wuhan ( the epicenter of the virus ) , dozen of crane be currently dig a 269,000-square-foot plot of land that will soon become a hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.scmp.com/news/china/society/article/3049381/chinese-hospital-pharmacist-28-dies-after-10-straight-days",
+            "content": "China add new symptom to coronavirus diagnostic list\nTaiwan halt visa from Hong Kong , Macau a global coronavirus death hit 565\nOn Saturday , health official Zhang Hui die of a heart attack at the age of 56 during his work help to monitor how hospital and screen checkpoint be cop across the province .",
+            "domain": "www.scmp.com",
+            "tokenized": [
+                {
+                    "sent": "China add new symptom to coronavirus diagnostic list\nTaiwan halt visa from Hong Kong , Macau a global coronavirus death hit 565\nOn Saturday , health official Zhang Hui die of a heart attack at the age of 56 during his work help to monitor how hospital and screen checkpoint be cop across the province .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

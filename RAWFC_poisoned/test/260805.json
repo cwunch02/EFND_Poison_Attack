@@ -1,0 +1,710 @@
+{
+    "event_id": "260805",
+    "claim": "Democratic presidential candidate Joe Biden said U.S. taxpayers have an obligation to fund health care for 11 million \"illegal immigrants.\"",
+    "original_label": "Mostly False",
+    "label": "false",
+    "explain": "In June and July 2020, ahead of the presidential elections, Democratic candidate Joe Biden’s various policy platforms were picked apart and in some cases misrepresented by critics, including U.S. President Donald Trump. One particular statement Biden made about health care for so-called “undocumented” immigrants was misreported and presented without context as his policy.\nSnopes readers asked us if Biden had ever said that U.S. taxpayers had an “obligation” to pay for the health care of 11 million “illegal immigrants.” We found that Biden was misquoted, and his actual platform said something very different.\n\nThe quote appeared to originate from a clip shared by right-wing media organization BlazeTV, in May 2019. The video carried the title, “Joe Biden Says U.S. Obligated to Give Free Healthcare to ‘Undocumented’ Immigrants.”\nIn the clip, a reporter asked Biden, “Do you think the undocumented immigrants…[that] are law abiding, should be entitled to federal benefits, Medicare, Medicaid for example?” Biden responded:\n“Look I think that anyone who is in a situation where they’re in need of healthcare, regardless of whether they’re documented or undocumented, we have an obligation to see that they’re cared for. That’s why I think we need more clinics around the country.”\nBiden echoed this in the June 2019 Democratic presidential debates. And in a December 2019 interview with Telemundo, he laid out the caveats in his plan: “They can buy into the system like everyone else” under the Affordable Care Act (ACA). \nOn July 14, 2020, in a rambling speech, Trump misrepresented Biden’s policy after it was presented by the Biden-Sanders Unity Task Forces. Trump said: “They want government health care for all illegal aliens.”\nBut here’s what the task force actually recommended:\n“To ensure that people living and working across the country have health care access, the Task Force recommends extending Affordable Care Act coverage to DACA recipients, allowing undocumented immigrants to purchase unsubsidized coverage in the ACA marketplaces …”\nUnder this proposal, taxpayers would not be paying for undocumented immigrants’ health care, rather undocumented immigrants could have the option to pay out-of-pocket for health coverage through the ACA exchange marketplace, but without access to the government subsidies that are available to others.\nIn 2019 Brookings estimated that there are 10.5 to 12 million undocumented immigrants in the U.S. Currently, they cannot enroll in Medicaid, the Children’s Health Insurance Program (CHIP), or purchase insurance through the ACA marketplace. Some state-funded or locally-funded health programs provide coverage regardless of immigration status. Emergency health services and safety-net clinics are already available to undocumented immigrants, which Biden had advocated for before. \nIn summary, even though Biden did state that the U.S. had an obligation to ensure immigrants received health care, his views were largely misrepresented and did not reflect his current policy. While he would extend health care access to undocumented immigrants through the marketplace, it was far from the government-subsidized, taxpayer-funded plan it was made out to be by Trump. We thus rate this claim as “Mostly False.”",
+    "reports": [
+        {
+            "link": "https://www.fox5dc.com/news/joe-biden-backs-health-care-for-illegal-immigrants-says-we-have-an-obligation-to-provide-it",
+            "content": "( FOX NEWS ) - Leading 2020 presidential candidate Joe Biden say this week that the U.S. must provide health care to everyone in the country , `` regardless of whether they be document or undocumented . '' `` Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for , '' Biden say in response to whether illegal immigrant `` should be entitle to federal benefit like Medicare , Medicaid . ''",
+            "domain": "www.fox5dc.com",
+            "tokenized": [
+                {
+                    "sent": "( FOX NEWS ) - Leading 2020 presidential candidate Joe Biden say this week that the U.S. must provide health care to everyone in the country , `` regardless of whether they be document or undocumented . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for , '' Biden say in response to whether illegal immigrant `` should be entitle to federal benefit like Medicare , Medicaid . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2019/07/05/joe-biden-vows-to-bring-back-obamacare-individual-mandate-penalty.html",
+            "content": "Joe Biden , former vice president and 2020 Democratic presidential hopeful , say Friday he would bring back the individual mandate , the penalty for not have health insurance , which be a pillar of the Affordable Care Act . Biden also take a nuanced approach Friday , say he support provide emergency health care for undocumented immigrant in the U.S . `` All Democrats just raise their hand for give million of illegal alien unlimited healthcare , '' Trump say . Biden say provide health care to people who be sick `` be just common decency . '' ''\nProviding wide access to health care would prove to be contentious , with many poll say Americans do not support coverage for undocumented immigrant . `` If you provide an option for anybody who in fact want to buy into Medicare for All , they can buy in , '' the Democratic presidential front-runner say . `` I think undocumented people need to have a mean by which they can be cover when they 're sick , '' Biden say . Biden on CNN be thread the needle on the issue , talk about take care of the health need of undocumented immigrant in emergency .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden , former vice president and 2020 Democratic presidential hopeful , say Friday he would bring back the individual mandate , the penalty for not have health insurance , which be a pillar of the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden also take a nuanced approach Friday , say he support provide emergency health care for undocumented immigrant in the U.S .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` All Democrats just raise their hand for give million of illegal alien unlimited healthcare , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden say provide health care to people who be sick `` be just common decency . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "''\nProviding wide access to health care would prove to be contentious , with many poll say Americans do not support coverage for undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If you provide an option for anybody who in fact want to buy into Medicare for All , they can buy in , '' the Democratic presidential front-runner say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I think undocumented people need to have a mean by which they can be cover when they 're sick , '' Biden say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden on CNN be thread the needle on the issue , talk about take care of the health need of undocumented immigrant in emergency .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-says-we-have-obligation-to-provide-health-care-to-illegal-immigrants",
+            "content": "Leading 2020 presidential candidate Joe Biden say this week that the U.S. must provide health care to everyone in the country , “ regardless of whether they be document or undocumented . ”\n“ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for , ” Biden say in response to whether illegal immigrant “ should be entitle to federal benefit like Medicare , Medicaid . Former Vice President Joe Biden , consider one of the more centrist member of the Democratic presidential primary field , call for a controversial new entitlement ; Peter Doocy report . ”\n“ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Leading 2020 presidential candidate Joe Biden say this week that the U.S. must provide health care to everyone in the country , “ regardless of whether they be document or undocumented .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for , ” Biden say in response to whether illegal immigrant “ should be entitle to federal benefit like Medicare , Medicaid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Former Vice President Joe Biden , consider one of the more centrist member of the Democratic presidential primary field , call for a controversial new entitlement ; Peter Doocy report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/graphics/politics/policy-2020/medicare-for-all/undocumented-immigrant-health-care/",
+            "content": "Some government health-care plan call for the federal government to fund the health insurance of the approximately 11 million undocumented people live in the United States . “ In this way we already pay for health care for undocumented immigrant . `` Undocumented immigrant who register for the path to citizenship would be eligible to participate in the health plan at some additional cost to them , '' Yang tell The Post . “ I would support a public/private sector approach to achieve this goal a it relate to undocumented resident , include continue federal partnership with state that provide coverage for low-income child and prenatal care regardless of status , and enable undocumented immigrant to have access to state health exchange . Bloomberg believe that undocumented immigrant who register to begin the path to citizenship lay out in his plan should be cover under a government-run health plan , a campaign spokesperson tell The Post . “ You can not let people who be sick , no matter where they come from , no matter what their status , go uncovered , ” Biden say during the first Democratic debate . See our other question on health care :\nThe Washington Post send a detailed questionnaire to every Democratic campaign ask whether they support various health-care policy . “ Undocumented immigrant should have the option of purchase health insurance on the exchange , ” Bennet tell The Post . My universal health care plan would cover tax pay legal permanent resident , ” Delaney tell the Post . In January 2019 , de Blasio announce an “ NYC Care ” plan to guarantee insurance to the city 's undocumented immigrant . “ Comprehensive immigration reform that protect our border , help the Dreamers who have know no other home than ours , and provide legal status and a path to citizenship for immigrant who have be part of the fabric of our country for many year be the best way to address health coverage for people who want to become American citizen , ” Bullock tell The Post .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Some government health-care plan call for the federal government to fund the health insurance of the approximately 11 million undocumented people live in the United States .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ In this way we already pay for health care for undocumented immigrant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Undocumented immigrant who register for the path to citizenship would be eligible to participate in the health plan at some additional cost to them , '' Yang tell The Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I would support a public/private sector approach to achieve this goal a it relate to undocumented resident , include continue federal partnership with state that provide coverage for low-income child and prenatal care regardless of status , and enable undocumented immigrant to have access to state health exchange .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Bloomberg believe that undocumented immigrant who register to begin the path to citizenship lay out in his plan should be cover under a government-run health plan , a campaign spokesperson tell The Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ You can not let people who be sick , no matter where they come from , no matter what their status , go uncovered , ” Biden say during the first Democratic debate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "See our other question on health care :\nThe Washington Post send a detailed questionnaire to every Democratic campaign ask whether they support various health-care policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Undocumented immigrant should have the option of purchase health insurance on the exchange , ” Bennet tell The Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "My universal health care plan would cover tax pay legal permanent resident , ” Delaney tell the Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In January 2019 , de Blasio announce an “ NYC Care ” plan to guarantee insurance to the city 's undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Comprehensive immigration reform that protect our border , help the Dreamers who have know no other home than ours , and provide legal status and a path to citizenship for immigrant who have be part of the fabric of our country for many year be the best way to address health coverage for people who want to become American citizen , ” Bullock tell The Post .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/451737-biden-on-health-care-for-undocumented-migrants-how-do-you-say-im-gonna-let",
+            "content": "''\nBiden on healthcare for undocumented immigrant : Joe Biden say undocumented migrant should have health care : `` How do you say 'You 're undocumented , I 'm gon na let you die , man ? ' ''\nBiden 's comment follow previous statement during the first Democratic debate last week in which Biden be among several contender who call for undocumented immigrant to have health care . Undocumented immigrant should have access to healthcare , former Vice President Joe BidenJoe BidenPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE say in a CNN interview release Friday . But it 's not entirely clear what healthcare benefit Biden would want to provide to immigrant in the country illegally .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "''\nBiden on healthcare for undocumented immigrant : Joe Biden say undocumented migrant should have health care : `` How do you say 'You 're undocumented , I 'm gon na let you die , man ? '",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "''\nBiden 's comment follow previous statement during the first Democratic debate last week in which Biden be among several contender who call for undocumented immigrant to have health care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Undocumented immigrant should have access to healthcare , former Vice President Joe BidenJoe BidenPompeo : Reentering Iran deal would make Middle East 'less secure ' DNC gear up for midterm push Biden struggle to unravel web of Trump immigration rule MORE say in a CNN interview release Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it 's not entirely clear what healthcare benefit Biden would want to provide to immigrant in the country illegally .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.donaldjtrump.com/media/1-year-ago-today-joe-biden-pledged-to-give-free-health-care-to-illegal-aliens/",
+            "content": "One year ago today at the first Democrat debate , Joe Biden proudly raise his hand in support of give free health care to illegal alien . As President Trump say , `` As president , I will never allow the Democrats to take away your health care dollar and give them to people that be in our country illegally . '' This extreme proposal would encourage more illegal immigration and make our health care system even more expensive .",
+            "domain": "www.donaldjtrump.com",
+            "tokenized": [
+                {
+                    "sent": "One year ago today at the first Democrat debate , Joe Biden proudly raise his hand in support of give free health care to illegal alien .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As President Trump say , `` As president , I will never allow the Democrats to take away your health care dollar and give them to people that be in our country illegally . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This extreme proposal would encourage more illegal immigration and make our health care system even more expensive .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonexaminer.com/opinion/joe-biden-reverses-his-position-on-government-healthcare-for-illegal-immigrants",
+            "content": "Biden say in the interview that illegal immigrant “ need to have a mean by which they can be cover when they ’ re sick , ” which apparently should not at all be confuse with “ health insurance. ”\nOh , so Biden ’ s position be that illegal immigrant who need urgent care should be able to visit the emergency room , otherwise know a -- exactly what the law already be today . All the Democrats on stage at the second Democratic debate last week , include Biden , raise their hand to affirm that their healthcare plan “ would provide coverage ” for illegal immigrant . ”\nChris Cuomo tell Biden what he presumably already know , which be that nearly 60 % of Americans oppose government healthcare for illegal immigrant . But in an interview that air Friday on CNN , Biden try desperately to pretend that ’ s not his position , while still maintain that there would be free health care for illegal immigrant ( though he ’ d rather not call it that ) . ” He far clarify that the government should be “ build more clinic around the country ” so that illegal immigrant can be care for “ when they ’ re sick , when they ’ re ill . It ’ s call the Emergency Medical Treatment And Labor Act , which “ require hospital emergency department to medically screen every patient who seek emergency care and to stabilize or transfer those with medical emergency , regardless of health insurance status or ability to pay .",
+            "domain": "www.washingtonexaminer.com",
+            "tokenized": [
+                {
+                    "sent": "Biden say in the interview that illegal immigrant “ need to have a mean by which they can be cover when they ’ re sick , ” which apparently should not at all be confuse with “ health insurance.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nOh , so Biden ’ s position be that illegal immigrant who need urgent care should be able to visit the emergency room , otherwise know a -- exactly what the law already be today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All the Democrats on stage at the second Democratic debate last week , include Biden , raise their hand to affirm that their healthcare plan “ would provide coverage ” for illegal immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nChris Cuomo tell Biden what he presumably already know , which be that nearly 60 % of Americans oppose government healthcare for illegal immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in an interview that air Friday on CNN , Biden try desperately to pretend that ’ s not his position , while still maintain that there would be free health care for illegal immigrant ( though he ’ d rather not call it that ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He far clarify that the government should be “ build more clinic around the country ” so that illegal immigrant can be care for “ when they ’ re sick , when they ’ re ill .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s call the Emergency Medical Treatment And Labor Act , which “ require hospital emergency department to medically screen every patient who seek emergency care and to stabilize or transfer those with medical emergency , regardless of health insurance status or ability to pay .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nationalreview.com/corner/kamala-harris-backs-publicly-funded-health-care-for-illegal-immigrants/",
+            "content": "But Biden be specifically ask about Medicare and Medicaid last June , and he say , “ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for . ” His campaign later claim that Biden mean only that undocumented immigrant could purchase health insurance via Obamacare . ” This would , of course , wipe out all private health insurer , a Joe Biden frankly admit in his New York Times editorial board interview , because no private company would be able to compete with the federal system . ” Joe Biden ’ s position on the same matter have be murky : Like all of the other Democrats on stage he raise his hand when Savannah Guthrie ask , “ Raise your hand if your government plan would provide coverage for undocumented immigrants.",
+            "domain": "www.nationalreview.com",
+            "tokenized": [
+                {
+                    "sent": "But Biden be specifically ask about Medicare and Medicaid last June , and he say , “ Look , I think that anyone who be in a situation where they be in need of health care , regardless of whether they be document or undocumented , we have an obligation to see that they be care for .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” His campaign later claim that Biden mean only that undocumented immigrant could purchase health insurance via Obamacare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” This would , of course , wipe out all private health insurer , a Joe Biden frankly admit in his New York Times editorial board interview , because no private company would be able to compete with the federal system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Joe Biden ’ s position on the same matter have be murky : Like all of the other Democrats on stage he raise his hand when Savannah Guthrie ask , “ Raise your hand if your government plan would provide coverage for undocumented immigrants.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/07/20/743248732/radical-or-incremental-whats-really-in-joe-bidens-health-plan",
+            "content": "The headline about presidential candidate Joe Biden 's new health care plan call it `` a nod to the past '' and `` Affordable Care Act 2.0 . '' Opponents run to Joe Biden 's left say his health plan for America merely `` tinker around the edge '' of the Affordable Care Act . Opponents run to Joe Biden 's left say his health plan for America merely `` tinker around the edge '' of the Affordable Care Act . shout from Rep. Joe Wilson , R-S.C..\nToday , all the Democratic candidate say they would provide coverage to undocumented resident . Here be some of the more controversial piece of the Biden health plan :\nAlthough many of the Democratic presidential candidate have express vary degree of support for a Medicare for All plan , nearly all have also endorse create a government-sponsored health plan , know colloquially a a `` public option , '' that would be available to people who buy their own health insurance . When Obama say in a speech to Congress in September 2009 that people not in the U.S. legally would be ineligible for federal help with their purchase of health insurance under the ACA , it prompt the infamous `` You lie ! '' Still , in his speech unveil the plan at an AARP-sponsored candidate forum in Iowa , Biden do not address this issue of immigrant ' health care . `` I would call it radically incremental , '' say Chris Jennings , a political health strategist who work for Presidents Bill Clinton and Barack Obama and who have consult with several of the current Democratic candidate . He say only that his plan would expand funding for community health center , which serve patient regardless of their ability to pay or their immigration status , and that people in the U.S. without legal authority would be able to obtain coverage in emergency . Jennings , the Democratic health strategist , argue that extra charge to state that previously expand Medicaid would be unavoidable under Biden 's plan , because people with low income in state that have n't expand Medicaid need coverage most . Among Biden 's proposal be a provision that would `` uncap '' federal help to pay for health insurance premium — assistance now available only to those with income that be 400 % of the poverty level , or about $ 50,000 for an individual . Sen. Bernie Sanders , one of Biden 's opponent in the primary race and the key proponent of the Medicare for All option , have criticize Biden 's proposal , complain that it be just `` tinker around the edge '' of a broken health care system . There be no mention of them specifically in the plan post on Biden 's website , although a Biden campaign official tell Politico this week that people in the U.S. who be undocumented would be able to purchase plan on the health insurance exchange , but would not qualify for subsidy . The Biden plan call for eliminate the `` Hyde Amendment , '' an annual rider to the spending bill for the Department of Health and Human Services that forbid the use of federal fund to pay for most abortion .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "The headline about presidential candidate Joe Biden 's new health care plan call it `` a nod to the past '' and `` Affordable Care Act 2.0 . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Opponents run to Joe Biden 's left say his health plan for America merely `` tinker around the edge '' of the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Opponents run to Joe Biden 's left say his health plan for America merely `` tinker around the edge '' of the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "shout from Rep. Joe Wilson , R-S.C..\nToday , all the Democratic candidate say they would provide coverage to undocumented resident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here be some of the more controversial piece of the Biden health plan :\nAlthough many of the Democratic presidential candidate have express vary degree of support for a Medicare for All plan , nearly all have also endorse create a government-sponsored health plan , know colloquially a a `` public option , '' that would be available to people who buy their own health insurance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Obama say in a speech to Congress in September 2009 that people not in the U.S. legally would be ineligible for federal help with their purchase of health insurance under the ACA , it prompt the infamous `` You lie ! ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Still , in his speech unveil the plan at an AARP-sponsored candidate forum in Iowa , Biden do not address this issue of immigrant ' health care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I would call it radically incremental , '' say Chris Jennings , a political health strategist who work for Presidents Bill Clinton and Barack Obama and who have consult with several of the current Democratic candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say only that his plan would expand funding for community health center , which serve patient regardless of their ability to pay or their immigration status , and that people in the U.S. without legal authority would be able to obtain coverage in emergency .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Jennings , the Democratic health strategist , argue that extra charge to state that previously expand Medicaid would be unavoidable under Biden 's plan , because people with low income in state that have n't expand Medicaid need coverage most .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Among Biden 's proposal be a provision that would `` uncap '' federal help to pay for health insurance premium — assistance now available only to those with income that be 400 % of the poverty level , or about $ 50,000 for an individual .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sen. Bernie Sanders , one of Biden 's opponent in the primary race and the key proponent of the Medicare for All option , have criticize Biden 's proposal , complain that it be just `` tinker around the edge '' of a broken health care system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no mention of them specifically in the plan post on Biden 's website , although a Biden campaign official tell Politico this week that people in the U.S. who be undocumented would be able to purchase plan on the health insurance exchange , but would not qualify for subsidy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden plan call for eliminate the `` Hyde Amendment , '' an annual rider to the spending bill for the Department of Health and Human Services that forbid the use of federal fund to pay for most abortion .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://finance.yahoo.com/news/democrats-keep-explaining-their-position-on-undocumented-immigrants-and-health-care-132943662.html",
+            "content": "From the debate stage he emphasize , “ this be not about a handout , ” add “ we do ourselves no favor by have 11 million undocumented people in our country be unable to access health care . “ Raise your hand if your government plan would provide [ health care ] coverage for undocumented immigrant , ” say moderator Savannah Guthrie on the second night of the Democratic debate last month . This Democrat say corporation need a 'social mission '\nHere ’ s why the public option keep come up with presidential candidate\nThe third round of stimulus check will start hit bank account for eligible Americans as early a this weekend , the IRS say late Friday . It be , of course , far from the end of the race , but it ’ s a position that some candidate have be compel to clarify and follow up on , particularly a critic argue against provide health care to undocumented immigrant a 13.7 % of U.S. adult lack insurance coverage . ( Biden release detail of his broad health care plan on Monday , which would create a public option that would let anyone to sign up for a government-run health plan like Medicare , and allow more people to get subsidy . ) He and his fellow executive , without admit or deny the allegation , pay $ 11 million to the Securities and Exchange Commission in December 2000 , include $ 1 million in fines. The infamous moment when Rep. Joe Wilson yell “ You lie ” during a 2009 address to a joint session of Congress be at the moment when President Obama be make the ( truthful ) point that illegal immigrant would not be cover . “ When you only allow people to get health care through an emergency room when they 're in crisis , it 's the most expensive health care in the world , ” she say . All 10 candidate – include former Vice President Joe Biden and Sen. Bernie Sanders – signal that their answer be yes .",
+            "domain": "finance.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "From the debate stage he emphasize , “ this be not about a handout , ” add “ we do ourselves no favor by have 11 million undocumented people in our country be unable to access health care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Raise your hand if your government plan would provide [ health care ] coverage for undocumented immigrant , ” say moderator Savannah Guthrie on the second night of the Democratic debate last month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This Democrat say corporation need a 'social mission '\nHere ’ s why the public option keep come up with presidential candidate\nThe third round of stimulus check will start hit bank account for eligible Americans as early a this weekend , the IRS say late Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be , of course , far from the end of the race , but it ’ s a position that some candidate have be compel to clarify and follow up on , particularly a critic argue against provide health care to undocumented immigrant a 13.7 % of U.S. adult lack insurance coverage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Biden release detail of his broad health care plan on Monday , which would create a public option that would let anyone to sign up for a government-run health plan like Medicare , and allow more people to get subsidy . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He and his fellow executive , without admit or deny the allegation , pay $ 11 million to the Securities and Exchange Commission in December 2000 , include $ 1 million in fines.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The infamous moment when Rep. Joe Wilson yell “ You lie ” during a 2009 address to a joint session of Congress be at the moment when President Obama be make the ( truthful ) point that illegal immigrant would not be cover .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When you only allow people to get health care through an emergency room when they 're in crisis , it 's the most expensive health care in the world , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All 10 candidate – include former Vice President Joe Biden and Sen. Bernie Sanders – signal that their answer be yes .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/politics/archive/2019/07/2020-democrats-undocumented-health-care/593761/",
+            "content": "Anxiety spike among many centrist Democrats when all 10 presidential candidate at a recent debate raise their hand , a if pledging allegiance , to declare they would support provide health care to undocumented immigrant . The Kaiser Family Foundation , use census data , have estimate that 47 percent of the country ’ s roughly 11 million undocumented immigrant be uninsured , compare with one-fourth of legally present immigrant and about one-tenth of American citizen . Biden , in his CNN interview , put great emphasis on expand federally fund community-health clinic a a mean of deliver more health care to undocumented immigrant than he have on offer them insurance . Read : Obamacare bar illegal immigrants—and stick hospital with the bill\n“ If we be say that we can put them into the pool and they can buy on the exchange , I don ’ t think voter be go to flip out on that because there be no subsidy , ” say Matt Bennett , the executive vice president for public affair at Third Way , a lead organization of Democratic centrist . In a recent CNN survey , Americans by a solid 3–2 margin say that “ health insurance provide by the government ” should not be available to immigrant here illegally . The actual language of the bill be less definitive : It say that while “ every individual who be a resident of the United States be entitle to benefit for health care service under this Act , ” the federal government will promulgate regulation for “ determine residency for eligibility purposes. Anthony Wright , the executive director of the advocacy group Health Access California , which help pass the law , say the state argue that open up the exchange make sense because as many a 70 percent of undocumented Californians be in “ blend ” family that include American citizen . ” But he note that when California offer it coverage proposal to the Obama administration , his group estimate that probably few than 30,000 of the estimate 1.5 to 2 million uninsured undocumented immigrant in California could afford to buy coverage . Similarly , the Urban Institute place the number of uninsured undocumented immigrant at nearly 4.9 million , or about one-sixth of the total population of uninsured people in America .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "Anxiety spike among many centrist Democrats when all 10 presidential candidate at a recent debate raise their hand , a if pledging allegiance , to declare they would support provide health care to undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Kaiser Family Foundation , use census data , have estimate that 47 percent of the country ’ s roughly 11 million undocumented immigrant be uninsured , compare with one-fourth of legally present immigrant and about one-tenth of American citizen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden , in his CNN interview , put great emphasis on expand federally fund community-health clinic a a mean of deliver more health care to undocumented immigrant than he have on offer them insurance .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Read : Obamacare bar illegal immigrants—and stick hospital with the bill\n“ If we be say that we can put them into the pool and they can buy on the exchange , I don ’ t think voter be go to flip out on that because there be no subsidy , ” say Matt Bennett , the executive vice president for public affair at Third Way , a lead organization of Democratic centrist .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a recent CNN survey , Americans by a solid 3–2 margin say that “ health insurance provide by the government ” should not be available to immigrant here illegally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The actual language of the bill be less definitive : It say that while “ every individual who be a resident of the United States be entitle to benefit for health care service under this Act , ” the federal government will promulgate regulation for “ determine residency for eligibility purposes.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anthony Wright , the executive director of the advocacy group Health Access California , which help pass the law , say the state argue that open up the exchange make sense because as many a 70 percent of undocumented Californians be in “ blend ” family that include American citizen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” But he note that when California offer it coverage proposal to the Obama administration , his group estimate that probably few than 30,000 of the estimate 1.5 to 2 million uninsured undocumented immigrant in California could afford to buy coverage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Similarly , the Urban Institute place the number of uninsured undocumented immigrant at nearly 4.9 million , or about one-sixth of the total population of uninsured people in America .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2019/07/15/joe-biden-health-care-plan-1415850",
+            "content": "| Sean Rayford/Getty Images\nDemocratic front-runner Joe Biden on Monday unveil a health plan that ’ s intend to preserve the most popular part of Obamacare — from Medicaid expansion to protection for patient with preexisting condition — and build on them with a new government-run public insurance option . `` Vice President Biden ’ s proposal for a new government insurance system through a 'public option ' would undermine the progress our nation have make and ultimately lead our nation down the path of a one-size-fits-all health care system run by Washington , '' say Lauren Crawford Shaver , executive director of the Partnership for America ’ s Health Care Future , in a statement release Monday morning . Biden would also empower Medicare to directly negotiate drug price , allow the importation of prescription drug from abroad and extend tax credit to help ten of million of Americans buy lower-priced health insurance . But incremental improvement to the ACA would leave “ an inefficient and costly health care system in place , ” Levitt add , preserve high price and high deductible for the roughly 160 million Americans with employer-based health coverage . Campaign staff say Biden would soon announce additional proposal to combat gun violence , improve rural health and address other health care initiative . “ Building on the ACA be the quick way to get more people insured and improve affordability , while not take on any powerful health industry group or disrupting coverage for those who already have it , ” say Larry Levitt , executive vice president of health policy for the Kaiser Family Foundation . “ We ’ re start with the Affordable Care Act a the base and go to insist on the element that we seek last time , ” say a senior Biden campaign official . The plan — which the campaign say will cost $ 750 billion over a decade , to be pay for by reverse some of the Trump administration ’ s tax cut — be less transformative than the “ Medicare for All ” proposal advance by Sen. Bernie Sanders ( I-Vt. ) and support by some other Democrats , which would effectively do away with private insurance and shift all Americans to government-run health coverage . On a call with reporter on Sunday , campaign staff stress that Biden wouldn ’ t settle for a watered-down compromise a president and that his plan would help 97 percent of Americans get health coverage . Health policy expert say that Biden ’ s coverage plan appear to be more politically feasible than Sanders ’ proposal . Biden also would double investment in community health center , argue that the center help reach underserved population . Undocumented immigrant would be newly allow to purchase coverage in the ACA marketplace , although they would n't be eligible for federal subsidy , a campaign official say . Meanwhile , Biden would seek to expand access to abortion and contraception , reiterate his recent call — like those of other Democratic candidate — to enshrine Roe v. Wade in federal law and restore federal funding for Planned Parenthood .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "| Sean Rayford/Getty Images\nDemocratic front-runner Joe Biden on Monday unveil a health plan that ’ s intend to preserve the most popular part of Obamacare — from Medicaid expansion to protection for patient with preexisting condition — and build on them with a new government-run public insurance option .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Vice President Biden ’ s proposal for a new government insurance system through a 'public option ' would undermine the progress our nation have make and ultimately lead our nation down the path of a one-size-fits-all health care system run by Washington , '' say Lauren Crawford Shaver , executive director of the Partnership for America ’ s Health Care Future , in a statement release Monday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden would also empower Medicare to directly negotiate drug price , allow the importation of prescription drug from abroad and extend tax credit to help ten of million of Americans buy lower-priced health insurance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But incremental improvement to the ACA would leave “ an inefficient and costly health care system in place , ” Levitt add , preserve high price and high deductible for the roughly 160 million Americans with employer-based health coverage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Campaign staff say Biden would soon announce additional proposal to combat gun violence , improve rural health and address other health care initiative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Building on the ACA be the quick way to get more people insured and improve affordability , while not take on any powerful health industry group or disrupting coverage for those who already have it , ” say Larry Levitt , executive vice president of health policy for the Kaiser Family Foundation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We ’ re start with the Affordable Care Act a the base and go to insist on the element that we seek last time , ” say a senior Biden campaign official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The plan — which the campaign say will cost $ 750 billion over a decade , to be pay for by reverse some of the Trump administration ’ s tax cut — be less transformative than the “ Medicare for All ” proposal advance by Sen. Bernie Sanders ( I-Vt. ) and support by some other Democrats , which would effectively do away with private insurance and shift all Americans to government-run health coverage .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On a call with reporter on Sunday , campaign staff stress that Biden wouldn ’ t settle for a watered-down compromise a president and that his plan would help 97 percent of Americans get health coverage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Health policy expert say that Biden ’ s coverage plan appear to be more politically feasible than Sanders ’ proposal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden also would double investment in community health center , argue that the center help reach underserved population .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Undocumented immigrant would be newly allow to purchase coverage in the ACA marketplace , although they would n't be eligible for federal subsidy , a campaign official say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Meanwhile , Biden would seek to expand access to abortion and contraception , reiterate his recent call — like those of other Democratic candidate — to enshrine Roe v. Wade in federal law and restore federal funding for Planned Parenthood .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/brucejapsen/2019/07/06/bidens-healthcare-idea-for-undocumented-immigrants-already-exists/",
+            "content": "“ Whatever their situation under the law , the 11.3 million undocumented immigrant currently in the United States still need , and sometimes get , health care , ” Dr. Alan Taylor Kelley , of the University of Michigan Institute for Healthcare Policy & Innovation write in a recent column discussing undocumented care for immigrant . Everybody should , ” former vice president Joe Biden tell CNN ’ s Chris Cuomo Friday , clarify his position on just how much healthcare undocumented immigrant should be allow under U.S. law . ( Photo by Joshua Lott/Getty Images )\nFormer vice president Joe Biden ’ s support of emergency healthcare service for undocumented immigrant be an idea already woven into U.S. health policy and offer voluntarily by nonprofit hospital . ”\nStates also have vary degree of health coverage under locally administer program for undocumented immigrant and hospital voluntarily include such care for the undocumented a uncompensated expense when they justify their tax-exemptions . But emergency care and treatment at hospital as well a federally-subsidized community health center be already available and provide to undocumented immigrant . “ These payment cover cost for emergency care for lawfully present immigrant who remain ineligible for Medicaid as well a undocumented immigrant . “ Medicaid payment for emergency service may be make on behalf of individual who be otherwise eligible for Medicaid but for their immigration status , ” The Kaiser Family Foundation say in a report on healthcare coverage for immigrant publish in February . ”\nUndocumented immigrant be also receive support from Medicaid for poor Americans and the Children ’ s Health Insurance Program . ''\nJust how much healthcare undocumented immigrant should receive have be grab headline lately among Democrats seek their party ’ s nomination in 2020 for the U.S. Presidency . I 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the Hawkeye state talk health reform and the economy . I 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the…\nI 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the\nI 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the Hawkeye state talk health reform and the economy . “ Even if they don ’ t have health insurance , federal law require hospital to care for them in emergency , ” Kelley say .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "“ Whatever their situation under the law , the 11.3 million undocumented immigrant currently in the United States still need , and sometimes get , health care , ” Dr. Alan Taylor Kelley , of the University of Michigan Institute for Healthcare Policy & Innovation write in a recent column discussing undocumented care for immigrant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Everybody should , ” former vice president Joe Biden tell CNN ’ s Chris Cuomo Friday , clarify his position on just how much healthcare undocumented immigrant should be allow under U.S. law .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Photo by Joshua Lott/Getty Images )\nFormer vice president Joe Biden ’ s support of emergency healthcare service for undocumented immigrant be an idea already woven into U.S. health policy and offer voluntarily by nonprofit hospital .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nStates also have vary degree of health coverage under locally administer program for undocumented immigrant and hospital voluntarily include such care for the undocumented a uncompensated expense when they justify their tax-exemptions .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But emergency care and treatment at hospital as well a federally-subsidized community health center be already available and provide to undocumented immigrant .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ These payment cover cost for emergency care for lawfully present immigrant who remain ineligible for Medicaid as well a undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Medicaid payment for emergency service may be make on behalf of individual who be otherwise eligible for Medicaid but for their immigration status , ” The Kaiser Family Foundation say in a report on healthcare coverage for immigrant publish in February .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nUndocumented immigrant be also receive support from Medicaid for poor Americans and the Children ’ s Health Insurance Program . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Just how much healthcare undocumented immigrant should receive have be grab headline lately among Democrats seek their party ’ s nomination in 2020 for the U.S. Presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the Hawkeye state talk health reform and the economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the…\nI 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the\nI 've write about health care for three decade , start from my native Iowa where I cover the presidential campaign bus ride of Bill and Hillary Clinton through the Hawkeye state talk health reform and the economy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Even if they don ’ t have health insurance , federal law require hospital to care for them in emergency , ” Kelley say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-immigration-factbox/trump-and-biden-take-sharply-different-paths-on-immigration-idUSKBN2611VD",
+            "content": "He say he would make Dreamers eligible for federal student aid for college , and would back legislation that provide a path to citizenship for them a part of effort to do so for all of the estimate 11 million immigrant live in the country illegally , include those who do not arrive a child . Trump have dramatically curtail immigration and travel into the United States during the coronavirus pandemic , argue the step be need for health reason and to protect job for U.S. worker in the face of high unemployment .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "He say he would make Dreamers eligible for federal student aid for college , and would back legislation that provide a path to citizenship for them a part of effort to do so for all of the estimate 11 million immigrant live in the country illegally , include those who do not arrive a child .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have dramatically curtail immigration and travel into the United States during the coronavirus pandemic , argue the step be need for health reason and to protect job for U.S. worker in the face of high unemployment .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/10/16/921237845/trumps-and-biden-s-plans-for-health-care",
+            "content": "Biden also pledge to invest in further health care employment , train 35,000 worker on how to aid Americans suffer from opioid addiction and add `` ten of thousand '' of new job care for veteran . Biden also call for the creation of a public health job corp , which would employ more than 100,000 Americans a health care worker in medically underserved community to work in disease prevention . Though not explicitly mention in his proposal , Biden have say that undocumented immigrant would be able to buy into the public option plan and receive unsubsidized coverage — an option currently not allow under the Affordable Care Act . In term of lower cost on the individual health insurance marketplace , his proposal would do away with the `` income cap '' — which currently stand at 400 % of the federal poverty line — that enable eligibility to receive a tax credit to help pay for premium .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Biden also pledge to invest in further health care employment , train 35,000 worker on how to aid Americans suffer from opioid addiction and add `` ten of thousand '' of new job care for veteran .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden also call for the creation of a public health job corp , which would employ more than 100,000 Americans a health care worker in medically underserved community to work in disease prevention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though not explicitly mention in his proposal , Biden have say that undocumented immigrant would be able to buy into the public option plan and receive unsubsidized coverage — an option currently not allow under the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In term of lower cost on the individual health insurance marketplace , his proposal would do away with the `` income cap '' — which currently stand at 400 % of the federal poverty line — that enable eligibility to receive a tax credit to help pay for premium .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.elle.com/culture/career-politics/a27210533/joe-biden-presidential-election-2020-issues/",
+            "content": "His site read , “ Joe Biden understand the pain felt by every family across the U.S. that have have a love one remove from the country , include under the Obama-Biden Administration , and he believe we must do good to uphold our law humanely and preserve the dignity of immigrant family , refugee , and asylum-seekers . This August , Joe Biden become the official Democratic presidential candidate , go up against President Trump during , what have quickly become , a watershed moment in American history . And by that standard , 11 million undocumented alien be already Americans , in my view . ”\nBack in 2014 , Biden also speak out about undocumented immigrant , say he believe “ they ’ re already American citizens. Much of Biden 's rhetoric be about support the middle class , and he 's say previously he 's for a progressive tax code that benefit worker . Now , accord to Biden ’ s campaign website , he plan to “ build on the Affordable Care Act by give Americans more choice , reduce health care cost , and make our health care system less complex to navigate.",
+            "domain": "www.elle.com",
+            "tokenized": [
+                {
+                    "sent": "His site read , “ Joe Biden understand the pain felt by every family across the U.S. that have have a love one remove from the country , include under the Obama-Biden Administration , and he believe we must do good to uphold our law humanely and preserve the dignity of immigrant family , refugee , and asylum-seekers .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This August , Joe Biden become the official Democratic presidential candidate , go up against President Trump during , what have quickly become , a watershed moment in American history .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And by that standard , 11 million undocumented alien be already Americans , in my view .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBack in 2014 , Biden also speak out about undocumented immigrant , say he believe “ they ’ re already American citizens.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Much of Biden 's rhetoric be about support the middle class , and he 's say previously he 's for a progressive tax code that benefit worker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , accord to Biden ’ s campaign website , he plan to “ build on the Affordable Care Act by give Americans more choice , reduce health care cost , and make our health care system less complex to navigate.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1030086",
+            "content": "Considering undocumented immigrant in his health care plan show just how progressive the Democratic Party have come on the issue in just a decade . DES MOINES , Iowa — Former Vice President Joe Biden unveil his anticipated health care plan on Monday , frame it a a more achievable way to expand coverage than those propose by some of his progressive rival by build on what he have call the “ crown jewel ” of the Obama administration — the Affordable Care Act . Biden ’ s health care plan rollout coincides with the increase of critique he have recently launch against his Democratic opponent who support scrap the Affordable Care Act and transition to a primarily government-run system like Medicare-for-All . In a video tout his new plan , Steyer tout his work in California — and the million he spend there — to advance ballot measure that lead to high tax on cigarette to fund health care , an oil extraction tax , and the closing of `` corporate loophole '' in the tax code . WASHINGTON — Liberal billionaire and newly declare Democratic presidential candidate Tom Steyer on Thursday say that a president he would let voter make law directly through regular national referendum . Biden have repeatedly say since the Democratic debate that he would oppose any Republican or Democrat who want to get rid of the Affordable Care Act . The Biden plan would change provision in the Affordable Care Act to improve access to health care by eliminate the 400 percent income cap on tax credit eligibility , base tax credit on gold plan rather than silver one and ensure that those buy insurance in the individual marketplace spend 8.5 percent of their income on insurance , which be down from the previous 9.86 percent cap . A Biden campaign official add that a president , Biden would use a combination of executive order to undo the change the Trump administration have do to weaken exist health care law . ”\nBiden ’ s plan allow for consumer to buy into the individual marketplace and choose their health care provider of choice . Biden plan to unveil his health care plan publicly at several stop in Iowa this week , start at the AARP forum on Monday and hold a billed “ rural health care event ” Tuesday .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Considering undocumented immigrant in his health care plan show just how progressive the Democratic Party have come on the issue in just a decade .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DES MOINES , Iowa — Former Vice President Joe Biden unveil his anticipated health care plan on Monday , frame it a a more achievable way to expand coverage than those propose by some of his progressive rival by build on what he have call the “ crown jewel ” of the Obama administration — the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden ’ s health care plan rollout coincides with the increase of critique he have recently launch against his Democratic opponent who support scrap the Affordable Care Act and transition to a primarily government-run system like Medicare-for-All .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a video tout his new plan , Steyer tout his work in California — and the million he spend there — to advance ballot measure that lead to high tax on cigarette to fund health care , an oil extraction tax , and the closing of `` corporate loophole '' in the tax code .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON — Liberal billionaire and newly declare Democratic presidential candidate Tom Steyer on Thursday say that a president he would let voter make law directly through regular national referendum .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have repeatedly say since the Democratic debate that he would oppose any Republican or Democrat who want to get rid of the Affordable Care Act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Biden plan would change provision in the Affordable Care Act to improve access to health care by eliminate the 400 percent income cap on tax credit eligibility , base tax credit on gold plan rather than silver one and ensure that those buy insurance in the individual marketplace spend 8.5 percent of their income on insurance , which be down from the previous 9.86 percent cap .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A Biden campaign official add that a president , Biden would use a combination of executive order to undo the change the Trump administration have do to weaken exist health care law .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden ’ s plan allow for consumer to buy into the individual marketplace and choose their health care provider of choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden plan to unveil his health care plan publicly at several stop in Iowa this week , start at the AARP forum on Monday and hold a billed “ rural health care event ” Tuesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.commonwealthfund.org/blog/2020/health-care-2020-presidential-election-equity-ensuring-protections-people-color",
+            "content": "To assess the implication of the candidate ’ approach to equity in health care , the public might consider the following question :\nTrump : Uninsured rate among Hispanic people have rise during the Trump administration . Below we outline each presidential candidate ’ s approach to address the long-standing inequity in the U.S. health care system . President Trump ’ s commitment to repeal the ACA could reverse gain in health equity , while former Vice President Biden ’ s proposal could expand access and coverage for community of color\nPresident Trump have advance policy that would jeopardize coverage and care for immigrant and LGBTQ individual and family , whereas Biden have vow to reverse these action and provide additional protection\nHealth care in the United States have long be mark by racism and discrimination result in vast disparity in access to care and health outcome . Immigrant health : Biden would extend ACA coverage to DREAMers — that be , people who come to the U.S. a child and continue to live here without official authorization — and would eliminate the five-year waiting period for lawfully present immigrant to be eligible for Medicaid and the Children ’ s Health Insurance Program ( CHIP ) . Biden : Biden ’ s plan could increase coverage option and make health care more affordable by extend ACA coverage option to DREAMers , lift the five-year waiting period for low-income immigrant to access Medicaid and CHIP , and withdraw the Trump administration ’ s public charge rule .",
+            "domain": "www.commonwealthfund.org",
+            "tokenized": [
+                {
+                    "sent": "To assess the implication of the candidate ’ approach to equity in health care , the public might consider the following question :\nTrump : Uninsured rate among Hispanic people have rise during the Trump administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Below we outline each presidential candidate ’ s approach to address the long-standing inequity in the U.S. health care system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump ’ s commitment to repeal the ACA could reverse gain in health equity , while former Vice President Biden ’ s proposal could expand access and coverage for community of color\nPresident Trump have advance policy that would jeopardize coverage and care for immigrant and LGBTQ individual and family , whereas Biden have vow to reverse these action and provide additional protection\nHealth care in the United States have long be mark by racism and discrimination result in vast disparity in access to care and health outcome .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Immigrant health : Biden would extend ACA coverage to DREAMers — that be , people who come to the U.S. a child and continue to live here without official authorization — and would eliminate the five-year waiting period for lawfully present immigrant to be eligible for Medicaid and the Children ’ s Health Insurance Program ( CHIP ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden : Biden ’ s plan could increase coverage option and make health care more affordable by extend ACA coverage option to DREAMers , lift the five-year waiting period for low-income immigrant to access Medicaid and CHIP , and withdraw the Trump administration ’ s public charge rule .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.latimes.com/politics/story/2020-03-15/joe-biden-bernie-sanders-deportations-coronavirus-healthcare",
+            "content": "Joe Biden commit to halt deportation of nearly all immigrant in the country illegally . The two Democratic presidential candidate also agree that they would ensure people who be in the country illegally feel comfortable go to the doctor if they be experience symptom of the coronavirus . ”\nSanders note that his “ Medicare for all ” plan be criticize for include medical coverage for immigrant in the U.S. illegally .",
+            "domain": "www.latimes.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden commit to halt deportation of nearly all immigrant in the country illegally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The two Democratic presidential candidate also agree that they would ensure people who be in the country illegally feel comfortable go to the doctor if they be experience symptom of the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nSanders note that his “ Medicare for all ” plan be criticize for include medical coverage for immigrant in the U.S. illegally .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.medicalnewstoday.com/articles/us-election-2020-undocumented-status-and-mental-healthcare-access",
+            "content": "The U.S. electorate include more than 23 million U.S. immigrant who will be eligible to vote in the 2020 presidential election . Although the Democratic National Committee do not explicitly include undocumented immigrant a potential beneficiary of these propose mental health resource , the expansion of health coverage to undocumented immigrant — in combination with increase recognition of the contribution of undocumented immigrant — may result in expand mental healthcare access to undocumented community .",
+            "domain": "www.medicalnewstoday.com",
+            "tokenized": [
+                {
+                    "sent": "The U.S. electorate include more than 23 million U.S. immigrant who will be eligible to vote in the 2020 presidential election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although the Democratic National Committee do not explicitly include undocumented immigrant a potential beneficiary of these propose mental health resource , the expansion of health coverage to undocumented immigrant — in combination with increase recognition of the contribution of undocumented immigrant — may result in expand mental healthcare access to undocumented community .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        }
+    ]
+}

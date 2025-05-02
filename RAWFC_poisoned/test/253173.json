@@ -1,0 +1,757 @@
+{
+    "event_id": "253173",
+    "claim": "U.S. President Donald Trump coined the nickname \"Mad Dog\" for retired Marine Corps General James Mattis. ",
+    "original_label": "false",
+    "label": "false",
+    "explain": "U.S. President Donald Trump tweeted this claim on June 3, 2020. \nIt’s false. Trump did not coin the nickname “Mad Dog” for retired Marine Corps General and former Secretary of Defense James Mattis. The general, who reportedly hates this nickname, has been referred to as “Mad Dog Mattis” in public reports since at least 2004. Los Angeles Times reported that the nickname originated with Mattis’ troops:\n\nTrump’s claim that he and former President Barack Obama both fired Mattis has a little more truth to it.\nMattis served as the Commander of the United States Central Command under Obama until he was removed from the position in 2013 over his “hawkish” views on Iran. Mattis served as the U.S. Secretary of Defense under Trump, but he resigned in 2018 over Trump’s decision to pull troops from Syria. Trump subsequently accelerated Mattis’ resignation and now claims that the general was fired. \nAdditional context: Trump sent the above-displayed tweet the day following the publication of an op-ed by Mattis in which the general wrote: “Donald Trump is the first president in my lifetime who does not try to unite the American people — does not even pretend to try. Instead, he tries to divide us.”\nSources: Politico / The New York Times / CBC / The Atlantic / Los Angles Times / Twitter",
+    "reports": [
+        {
+            "link": "https://www.reuters.com/article/us-usa-trump-defense/trump-to-nominate-retired-general-mattis-for-pentagon-idUSKBN13Q5RU",
+            "content": "WASHINGTON ( Reuters ) - U.S. President-elect Donald Trump say on Thursday night he would nominate retired Marine Corps General James Mattis , know a “ Mad Dog ” and renowned for his tough talk and battlefield experience in Iraq and Afghanistan , to lead the Pentagon . Trump have describe Mattis a “ a true general ’ s general . Trump have give the job of national security adviser to Michael Flynn , a retired three-star Army general who be push out of the top job at the Defense Intelligence Agency in 2014 by Obama ’ s administration . ”\nMattis would be the first former U.S. general to become defense secretary since George C. Marshall take the job in 1950 . ”\nIn one famous line in 2003 attribute to Mattis , the general told Marines in Iraq : “ Be polite , be professional , but have a plan to kill everybody you meet . Having two Marine general in those top job would be highly unusual for a service that pride itself on be the most elite U.S. fighting force .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - U.S. President-elect Donald Trump say on Thursday night he would nominate retired Marine Corps General James Mattis , know a “ Mad Dog ” and renowned for his tough talk and battlefield experience in Iraq and Afghanistan , to lead the Pentagon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have describe Mattis a “ a true general ’ s general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have give the job of national security adviser to Michael Flynn , a retired three-star Army general who be push out of the top job at the Defense Intelligence Agency in 2014 by Obama ’ s administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nMattis would be the first former U.S. general to become defense secretary since George C. Marshall take the job in 1950 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn one famous line in 2003 attribute to Mattis , the general told Marines in Iraq : “ Be polite , be professional , but have a plan to kill everybody you meet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Having two Marine general in those top job would be highly unusual for a service that pride itself on be the most elite U.S. fighting force .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.militarytimes.com/news/pentagon-congress/2019/03/03/trump-claims-he-coined-the-nickname-mad-dog-mattis/",
+            "content": "WASHINGTON — President Donald Trump incorrectly claim to have coin former Defense Secretary Jim Mattis ’ well-known “ Mad Dog ” nickname because “ Chaos ” be not a good enough one for the four-star Marine Corps general . Mattis address his `` Mad Dog '' nickname at his Senate confirmation hearing for defense secretary in January 2017 . Trump do give Mattis an original nickname last fall , label him a “ moderate dog ” a tension between the two men grow . ’\nBut news report refer to Mattis by the moniker — which he have publicly say he do not like — a far back a 2004 , when he be command general of the 1st Marine Division . The comment come just two day after the popular former Marine Corps general be force out of his Defense Department leadership post . “ Mattis acquire the nickname ‘ Mad Dog ’ — a moniker that be not use by people who know him , friend say — after he make comment such a ‘ be polite , be professional , but have a plan to kill everybody you meet ’ and ‘ a good soldier follow order , but a true warrior wear his enemy ’ s skin like a poncho , ’ `` CNN report . Trump be speak on the military ’ s involvement in the Middle East when he say Defense Department general “ be perfect people ” and he want to make more of them famous . So we change it to ‘ Mad Dog .",
+            "domain": "www.militarytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Donald Trump incorrectly claim to have coin former Defense Secretary Jim Mattis ’ well-known “ Mad Dog ” nickname because “ Chaos ” be not a good enough one for the four-star Marine Corps general .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mattis address his `` Mad Dog '' nickname at his Senate confirmation hearing for defense secretary in January 2017 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump do give Mattis an original nickname last fall , label him a “ moderate dog ” a tension between the two men grow .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’\nBut news report refer to Mattis by the moniker — which he have publicly say he do not like — a far back a 2004 , when he be command general of the 1st Marine Division .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The comment come just two day after the popular former Marine Corps general be force out of his Defense Department leadership post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Mattis acquire the nickname ‘ Mad Dog ’ — a moniker that be not use by people who know him , friend say — after he make comment such a ‘ be polite , be professional , but have a plan to kill everybody you meet ’ and ‘ a good soldier follow order , but a true warrior wear his enemy ’ s skin like a poncho , ’ `` CNN report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be speak on the military ’ s involvement in the Middle East when he say Defense Department general “ be perfect people ” and he want to make more of them famous .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So we change it to ‘ Mad Dog .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/opinion/articles/2016-11-20/why-trump-s-washington-loves-mad-dog-mattis",
+            "content": "It say something about Donald Trump that a retired Marine general nickname `` Mad Dog '' be unite the divide swamp the next president have promise to drain .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "It say something about Donald Trump that a retired Marine general nickname `` Mad Dog '' be unite the divide swamp the next president have promise to drain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2016/12/james-mattis-trump-defense-secretary-232077",
+            "content": "“ We be go to appoint 'Mad Dog ' Mattis a our secretary of defense , '' Donald Trump say of retired Marine Gen. James Mattis Thursday . | AP Photo\nPresident-elect Donald Trump have pick retired Marine Gen. James Mattis to be his secretary of defense , tap yet another outspoken ex-military leader who butt head with the Obama administration to shape and carry out his national security strategy . At a rally in Cincinnati on Thursday , President-elect Donald Trump announce that he pick retired Marine Gen. James Mattis to be his secretary of defense . `` Waivers be waiver , '' say retired Army Lt. Gen. Mick Bednarek , who until last year be the top U.S. military adviser in Iraq . ”\nMattis , 66 , so nickname for his salty language and obsessive dedication to the military , be the top U.S. commander in Iraq and Afghanistan from 2010 to 2013 . Mattis would be only the second retired general to become the civilian leader of the military .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "“ We be go to appoint 'Mad Dog ' Mattis a our secretary of defense , '' Donald Trump say of retired Marine Gen. James Mattis Thursday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "| AP Photo\nPresident-elect Donald Trump have pick retired Marine Gen. James Mattis to be his secretary of defense , tap yet another outspoken ex-military leader who butt head with the Obama administration to shape and carry out his national security strategy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At a rally in Cincinnati on Thursday , President-elect Donald Trump announce that he pick retired Marine Gen. James Mattis to be his secretary of defense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Waivers be waiver , '' say retired Army Lt. Gen. Mick Bednarek , who until last year be the top U.S. military adviser in Iraq .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMattis , 66 , so nickname for his salty language and obsessive dedication to the military , be the top U.S. commander in Iraq and Afghanistan from 2010 to 2013 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis would be only the second retired general to become the civilian leader of the military .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.seattletimes.com/seattle-news/northwest/james-mad-dog-mattis-trumps-defense-pick-always-comes-home-to-richland-this-town-that-formed-me/",
+            "content": "RICHLAND , Benton County — James Mattis , the retired Marine Corps general President-elect Donald Trump plan to nominate for defense secretary , come of age in a cloistered community create by the federal government at the dawn of the nuclear age . While a lieutenant general , talk on a 2005 panel in San Diego , he offer this view of fight the Taliban :\nThose comment stir controversy for the general who acquire the nickname “ Mad Dog ” in Iraq and a commander ’ s admonition to choose his word more carefully . Mattis would stick with the Marines for more than 40 year , achieve the rank of four-star general . Mattis say he would be comfortable with whomever the American people elect a commander in chief , and would strive to carry out that president ’ s order .",
+            "domain": "www.seattletimes.com",
+            "tokenized": [
+                {
+                    "sent": "RICHLAND , Benton County — James Mattis , the retired Marine Corps general President-elect Donald Trump plan to nominate for defense secretary , come of age in a cloistered community create by the federal government at the dawn of the nuclear age .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While a lieutenant general , talk on a 2005 panel in San Diego , he offer this view of fight the Taliban :\nThose comment stir controversy for the general who acquire the nickname “ Mad Dog ” in Iraq and a commander ’ s admonition to choose his word more carefully .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis would stick with the Marines for more than 40 year , achieve the rank of four-star general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis say he would be comfortable with whomever the American people elect a commander in chief , and would strive to carry out that president ’ s order .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/news/morning-mix/wp/2016/12/02/trumps-pick-for-secretary-of-defense-is-known-as-mad-dog-heres-the-history-of-the-nickname/",
+            "content": "The Mad Dog in question be retire Marine Gen. James N. Mattis , who for more than 40 year serve in the Marine Corps . Here ’ s the Los Angeles Times , in a profile about the “ confident , jaunty ” general in April 2004 , a few month before the battle : “ Behind his back , troop call him ‘ Mad Dog Mattis , ’ high praise in Marine culture . ”\nAnd if the nickname Mad Dog give you pause , well , the retired general do not like it much either , accord to NBC . Sports player give the nickname Mad Dog may earn it through their athletic intensity but also because their surname include “ mad , ” such a the Los Angeles Lakers ’ Mark Madsen , Canadian hockey player John Madden , MLB pitcher Gregory Maddux and New Zealand rugby winger Joe Maddock . ( In late 16th century pub , a strong brew be a “ mad dog. The nickname stuck to Mattis follow the second battle of Fallujah , the hard fight of the Iraq War . ( For his part , Trump seem fond of it , also use the name in his sole tweet about Mattis . )",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The Mad Dog in question be retire Marine Gen. James N. Mattis , who for more than 40 year serve in the Marine Corps .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here ’ s the Los Angeles Times , in a profile about the “ confident , jaunty ” general in April 2004 , a few month before the battle : “ Behind his back , troop call him ‘ Mad Dog Mattis , ’ high praise in Marine culture .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAnd if the nickname Mad Dog give you pause , well , the retired general do not like it much either , accord to NBC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sports player give the nickname Mad Dog may earn it through their athletic intensity but also because their surname include “ mad , ” such a the Los Angeles Lakers ’ Mark Madsen , Canadian hockey player John Madden , MLB pitcher Gregory Maddux and New Zealand rugby winger Joe Maddock .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( In late 16th century pub , a strong brew be a “ mad dog.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The nickname stuck to Mattis follow the second battle of Fallujah , the hard fight of the Iraq War .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( For his part , Trump seem fond of it , also use the name in his sole tweet about Mattis . )",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2016/dec/01/james-mattis-secretary-of-defense-donald-trump",
+            "content": "The retired marine general , know for his blunt approach toward the US military and Middle East conflict , raise establishment hope that he can rein in Trump\nDonald Trump have select the retired marine general James Mattis to serve a his first Pentagon chief , the first of his national-security appointment that will reassure the establishment defense circle Trump scorn on the campaign trail . The retired marine general apparently wasn ’ t Trump ’ s first choice . ”\nThe retired general decline to talk to the medium at the time , but Trump praise him . I will not tell you that one of our great great general , don ’ t let it outside , we be go to appoint Mad Dog Mattis a our secretary of defense and we ’ re not announce it until Monday so don ’ t tell it to anybody . “ He ’ s a visionary , and yet he ’ s mold out of the same grit a [ legendary world war two marine ] Chesty Puller , ” the former chairman of the Joint Chiefs of Staff , Martin Dempsey , once reflect about Mattis . Keane , an architect of the surge in Iraq who be close to McCain , say he instead recommend both Mattis and his army protege , Petraeus , whom Trump be consider for secretary of state . “ Mad Dog ” Mattis ’ s highly quotable blend of wit and bluntness have earn him esteem within the military – and even a hashtag , # Mattisisms . A now-famous quote have Mattis , then the senior marine in the volatile Iraqi province of Anbar , inform a local interlocutor : “ I come in peace .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "The retired marine general , know for his blunt approach toward the US military and Middle East conflict , raise establishment hope that he can rein in Trump\nDonald Trump have select the retired marine general James Mattis to serve a his first Pentagon chief , the first of his national-security appointment that will reassure the establishment defense circle Trump scorn on the campaign trail .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The retired marine general apparently wasn ’ t Trump ’ s first choice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe retired general decline to talk to the medium at the time , but Trump praise him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I will not tell you that one of our great great general , don ’ t let it outside , we be go to appoint Mad Dog Mattis a our secretary of defense and we ’ re not announce it until Monday so don ’ t tell it to anybody .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ He ’ s a visionary , and yet he ’ s mold out of the same grit a [ legendary world war two marine ] Chesty Puller , ” the former chairman of the Joint Chiefs of Staff , Martin Dempsey , once reflect about Mattis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Keane , an architect of the surge in Iraq who be close to McCain , say he instead recommend both Mattis and his army protege , Petraeus , whom Trump be consider for secretary of state .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Mad Dog ” Mattis ’ s highly quotable blend of wit and bluntness have earn him esteem within the military – and even a hashtag , # Mattisisms .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A now-famous quote have Mattis , then the senior marine in the volatile Iraqi province of Anbar , inform a local interlocutor : “ I come in peace .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/politics/archive/2020/06/james-mattis-denounces-trump-protests-militarization/612640/",
+            "content": "James Mattis , the esteemed Marine general who resign a secretary of defense in December 2018 to protest Donald Trump ’ s Syria policy , have , ever since , keep studiously silent about Trump ’ s performance a president . Eliot A. Cohen : America ’ s general must stand up to Trump\nDonald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try . “ Donald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try . But he have now break his silence , write an extraordinary broadside in which he denounce the president for divide the nation , and accuse him of order the U.S. military to violate the constitutional right of American citizen . ”\nMattis ’ s dissatisfaction with Trump be no secret inside the Pentagon . ”\nIn his j ’ accuse , Mattis excoriate the president for set Americans against one another .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "James Mattis , the esteemed Marine general who resign a secretary of defense in December 2018 to protest Donald Trump ’ s Syria policy , have , ever since , keep studiously silent about Trump ’ s performance a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eliot A. Cohen : America ’ s general must stand up to Trump\nDonald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Donald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But he have now break his silence , write an extraordinary broadside in which he denounce the president for divide the nation , and accuse him of order the U.S. military to violate the constitutional right of American citizen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMattis ’ s dissatisfaction with Trump be no secret inside the Pentagon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn his j ’ accuse , Mattis excoriate the president for set Americans against one another .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.lowyinstitute.org/the-interpreter/james-mattis-mad-dog-warrior-monk-and-defence-sec-nominee",
+            "content": "He also liken retired Marine General James Mattis to Trump ’ s own military hero , General George Patton whose World War II exploit a an aggressive armour warfare commander be capture in the movie Patton , star George C Scott . Mattis will join retired general and designated national security adviser Michael Flynn in the Trump security team , along with other military retiree in the high echelon of a new administration . On the face of it , a president-elect ’ s choice of a retired general with recent service in the Middle East a his defence secretary might add to concern about a militarisation of a Trump administration . Mattis ’ s circumstance be be compare with those of general George C Marshall who become defence secretary under president Harry Truman and before that a Secretary of State be author , among other achievement , of the Marshall Plan that enable Europe ’ s emergence from the rubble of World War II . Like the Iraq war commander and former Central Intelligence Agency head general David Petraeus ( also under consideration for an administration post ) Mattis have distinguish himself a a cerebral general , altogether more complex than his cartoonish reputation .",
+            "domain": "www.lowyinstitute.org",
+            "tokenized": [
+                {
+                    "sent": "He also liken retired Marine General James Mattis to Trump ’ s own military hero , General George Patton whose World War II exploit a an aggressive armour warfare commander be capture in the movie Patton , star George C Scott .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis will join retired general and designated national security adviser Michael Flynn in the Trump security team , along with other military retiree in the high echelon of a new administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the face of it , a president-elect ’ s choice of a retired general with recent service in the Middle East a his defence secretary might add to concern about a militarisation of a Trump administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mattis ’ s circumstance be be compare with those of general George C Marshall who become defence secretary under president Harry Truman and before that a Secretary of State be author , among other achievement , of the Marshall Plan that enable Europe ’ s emergence from the rubble of World War II .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like the Iraq war commander and former Central Intelligence Agency head general David Petraeus ( also under consideration for an administration post ) Mattis have distinguish himself a a cerebral general , altogether more complex than his cartoonish reputation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Jim_Mattis",
+            "content": "[ 4 ] [ 5 ] But in 2016 , when President-elect Trump ask Mattis if his nickname be indeed `` Mad Dog , '' Mattis reply , `` No , sir , '' say that his actual nickname be `` Chaos . [ 187 ] The Trump transition team 's formal biography of Mattis describe him a `` the living embodiment of the Marine Corps motto , Semper Fidelis . James Norman Mattis ( born September 8 , 1950 ) be a retired United States Marine Corps four-star general who serve a the 26th US secretary of defense from January 2017 to January 2019 . `` [ 49 ]\nAs a major general , Mattis command the 1st Marine Division during the 2003 invasion of Iraq and the Iraq War . [ 64 ]\nIn early 2010 Mattis be report to be on the list of general be consider to replace James T. Conway a the commandant of the US Marine Corps . `` [ 146 ] Mick Mulroy , the former deputy assistant secretary of defense and a retired Marine , say that Mattis `` exemplify the ethos of service before self and the principle that military officer should be apolitical . '' [ 144 ]\nMattis write that Trump be `` the first president in my lifetime who do not try to unite the American people '' and that America be `` witness the consequence of three year without mature leadership '' . He say Trump must be confuse or mistake , and that `` Jim Mattis be an honorable man . [ 16 ] On June 3 , 2020 , during the protest follow George Floyd 's killing , Mattis publicly criticize Trump , call him `` the first president in my lifetime who do not try to unite the American people—does not even pretend to try . [ 50 ]\nAfter be promote to lieutenant general , Mattis take command of Marine Corps Combat Development Command . `` [ 40 ]\nMattis lead the 1st Marine Expeditionary Brigade a it command officer upon promotion to brigadier general . [ 63 ] On September 11 , 2007 , Secretary of Defense Robert Gates announce that President George W. Bush have nominate Mattis for appointment to the rank of general to command US Joint Forces Command in Norfolk , Virginia . `` [ 17 ]\nMattis enlist in the Marine Corps Reserve in 1969 . `` [ citation need ] Mattis 's remark spark controversy ; General Michael Hagee , commandant of the Marine Corps , issue a statement suggest Mattis should have choose his word more carefully but would not be discipline . [ 6 ]\nMattis be nominate a secretary of defense by president-elect Donald Trump , and confirm by the Senate on January 20 , 2017 . [ 37 ] According to an article publish in 2004 by the Los Angeles Times it be his concern for the enlisted rank along with his energy and enthusiasm that garner him the nickname `` Mad Dog '' . [ 120 ] On June 29 Mattis say the Obama administration `` may have pull our troop out too rapidly '' and that he intend to submit a new Afghanistan strategy to Trump upon his return to Washington , D.C. [ 121 ]\nJohn F. Kelly , Trump 's chief of staff when Mattis leave his position , deny that Trump fire Mattis or ask for his resignation . [ 13 ] [ 14 ] Mattis also dissuade Trump from attempt to assassinate Bashar al-Assad , the President of Syria . I 'm honor to be consider that by Donald Trump , because he also call Meryl Streep an overrated actress . [ 62 ]\nThe Pentagon announce on May 31 , 2006 , that Mattis have be choose to take command of the I Marine Expeditionary Force , base out of Marine Corps Base Camp Pendleton . [ 31 ] Robert H. Scales , a retired United States Army major general , call him `` one of the most urbane and polished men I have know . `` [ 32 ] As a lieutenant , Mattis be assign a a rifle and weapon platoon commander in the 3rd Marine Division . On September 28 , 2007 , the United States Senate confirm Mattis 's nomination , and he relinquish command of the I MEF on November 5 , 2007 , to Lieutenant General Samuel Helland . [ 41 ] It be a a regimental commander that he earn his nickname and call sign , `` CHAOS '' , an acronym for `` Colonel Has Another Outstanding Suggestion '' , which be initially somewhat tongue-in-cheek . [ 42 ]\nDuring the initial planning for the War in Afghanistan , Mattis lead Task Force 58 in operation in the southern part of the country begin in November 2001 , [ 43 ] become the first Marine Corps officer to command a Naval Task Force in combat . `` [ 48 ] A young Marine officer , Nathaniel Fick , say he witness Mattis in a fighting hole talk with a sergeant and lance corporal : `` No one would have question Mattis if he 'd sleep eight hour each night in a private room , to be wake each morning by an aide who iron his uniform and heat his MREs . [ 152 ]\nOn June 3 , 2020 , Mattis issue a statement to The Atlantic in which he criticize Trump and his policy during the George Floyd protest . During his 44 year in the Marine Corps , he command force in the Persian Gulf War , the War in Afghanistan , and the Iraq War . He berate Trump for deliberately try to cause division among the American people and advocate military action to `` dominate '' the country 's protest . A career Marine , he gain a reputation among his peer for `` intellectualism '' and eventually advance to the rank of general . [ 75 ]\nAs Mattis retire from the military in 2013 , his nomination require a waiver of the National Security Act of 1947 , which require a seven-year waiting period before retired military personnel can assume the role of secretary of defense . Mattis be commission in the Marine Corps through the Naval Reserve Officers ' Training Corps after graduate from Central Washington University . [ 23 ] He be nickname `` The Warrior Monk '' because of his bachelorhood and lifelong devotion to the study of war . [ 15 ] On December 20 , 2018 , after fail to convince Trump to reconsider his decision to withdraw all American troop from Syria , Mattis announce his resignation effective the end of February 2019 , but after Mattis 's resignation generate significant medium coverage , Trump abruptly accelerate Mattis departure date to January 1 , state that he have essentially fire Mattis .",
+            "domain": "en.wikipedia.org",
+            "tokenized": [
+                {
+                    "sent": "[ 4 ] [ 5 ] But in 2016 , when President-elect Trump ask Mattis if his nickname be indeed `` Mad Dog , '' Mattis reply , `` No , sir , '' say that his actual nickname be `` Chaos .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 187 ] The Trump transition team 's formal biography of Mattis describe him a `` the living embodiment of the Marine Corps motto , Semper Fidelis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "James Norman Mattis ( born September 8 , 1950 ) be a retired United States Marine Corps four-star general who serve a the 26th US secretary of defense from January 2017 to January 2019 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 49 ]\nAs a major general , Mattis command the 1st Marine Division during the 2003 invasion of Iraq and the Iraq War .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 64 ]\nIn early 2010 Mattis be report to be on the list of general be consider to replace James T. Conway a the commandant of the US Marine Corps .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 146 ] Mick Mulroy , the former deputy assistant secretary of defense and a retired Marine , say that Mattis `` exemplify the ethos of service before self and the principle that military officer should be apolitical . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 144 ]\nMattis write that Trump be `` the first president in my lifetime who do not try to unite the American people '' and that America be `` witness the consequence of three year without mature leadership '' .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He say Trump must be confuse or mistake , and that `` Jim Mattis be an honorable man .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 16 ] On June 3 , 2020 , during the protest follow George Floyd 's killing , Mattis publicly criticize Trump , call him `` the first president in my lifetime who do not try to unite the American people—does not even pretend to try .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "[ 50 ]\nAfter be promote to lieutenant general , Mattis take command of Marine Corps Combat Development Command .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 40 ]\nMattis lead the 1st Marine Expeditionary Brigade a it command officer upon promotion to brigadier general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 63 ] On September 11 , 2007 , Secretary of Defense Robert Gates announce that President George W. Bush have nominate Mattis for appointment to the rank of general to command US Joint Forces Command in Norfolk , Virginia .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 17 ]\nMattis enlist in the Marine Corps Reserve in 1969 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ citation need ] Mattis 's remark spark controversy ; General Michael Hagee , commandant of the Marine Corps , issue a statement suggest Mattis should have choose his word more carefully but would not be discipline .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 6 ]\nMattis be nominate a secretary of defense by president-elect Donald Trump , and confirm by the Senate on January 20 , 2017 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "[ 37 ] According to an article publish in 2004 by the Los Angeles Times it be his concern for the enlisted rank along with his energy and enthusiasm that garner him the nickname `` Mad Dog '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 120 ] On June 29 Mattis say the Obama administration `` may have pull our troop out too rapidly '' and that he intend to submit a new Afghanistan strategy to Trump upon his return to Washington , D.C. [ 121 ]\nJohn F. Kelly , Trump 's chief of staff when Mattis leave his position , deny that Trump fire Mattis or ask for his resignation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 13 ] [ 14 ] Mattis also dissuade Trump from attempt to assassinate Bashar al-Assad , the President of Syria .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 'm honor to be consider that by Donald Trump , because he also call Meryl Streep an overrated actress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 62 ]\nThe Pentagon announce on May 31 , 2006 , that Mattis have be choose to take command of the I Marine Expeditionary Force , base out of Marine Corps Base Camp Pendleton .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 31 ] Robert H. Scales , a retired United States Army major general , call him `` one of the most urbane and polished men I have know .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 32 ] As a lieutenant , Mattis be assign a a rifle and weapon platoon commander in the 3rd Marine Division .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On September 28 , 2007 , the United States Senate confirm Mattis 's nomination , and he relinquish command of the I MEF on November 5 , 2007 , to Lieutenant General Samuel Helland .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 41 ] It be a a regimental commander that he earn his nickname and call sign , `` CHAOS '' , an acronym for `` Colonel Has Another Outstanding Suggestion '' , which be initially somewhat tongue-in-cheek .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 42 ]\nDuring the initial planning for the War in Afghanistan , Mattis lead Task Force 58 in operation in the southern part of the country begin in November 2001 , [ 43 ] become the first Marine Corps officer to command a Naval Task Force in combat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` [ 48 ] A young Marine officer , Nathaniel Fick , say he witness Mattis in a fighting hole talk with a sergeant and lance corporal : `` No one would have question Mattis if he 'd sleep eight hour each night in a private room , to be wake each morning by an aide who iron his uniform and heat his MREs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 152 ]\nOn June 3 , 2020 , Mattis issue a statement to The Atlantic in which he criticize Trump and his policy during the George Floyd protest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During his 44 year in the Marine Corps , he command force in the Persian Gulf War , the War in Afghanistan , and the Iraq War .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He berate Trump for deliberately try to cause division among the American people and advocate military action to `` dominate '' the country 's protest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A career Marine , he gain a reputation among his peer for `` intellectualism '' and eventually advance to the rank of general .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 75 ]\nAs Mattis retire from the military in 2013 , his nomination require a waiver of the National Security Act of 1947 , which require a seven-year waiting period before retired military personnel can assume the role of secretary of defense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis be commission in the Marine Corps through the Naval Reserve Officers ' Training Corps after graduate from Central Washington University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 23 ] He be nickname `` The Warrior Monk '' because of his bachelorhood and lifelong devotion to the study of war .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ 15 ] On December 20 , 2018 , after fail to convince Trump to reconsider his decision to withdraw all American troop from Syria , Mattis announce his resignation effective the end of February 2019 , but after Mattis 's resignation generate significant medium coverage , Trump abruptly accelerate Mattis departure date to January 1 , state that he have essentially fire Mattis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.newyorker.com/news/john-cassidy/the-senate-places-its-faith-in-mad-dog-mattis",
+            "content": "When Donald Trump pick Mattis , a sixty-six-year-old ex-Marine who go by the nickname Mad Dog , to run the Pentagon , some observer predict that his nomination could run into opposition from the Senate Armed Services Committee , which oversee the Pentagon and the rule govern it—including one that preclude ex-officers from serve a Secretary of Defense until they have be out of uniform for seven year .",
+            "domain": "www.newyorker.com",
+            "tokenized": [
+                {
+                    "sent": "When Donald Trump pick Mattis , a sixty-six-year-old ex-Marine who go by the nickname Mad Dog , to run the Pentagon , some observer predict that his nomination could run into opposition from the Senate Armed Services Committee , which oversee the Pentagon and the rule govern it—including one that preclude ex-officers from serve a Secretary of Defense until they have be out of uniform for seven year .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.rollingstone.com/politics/political-commentary/james-mattis-trump-mullen-allen-protests-white-house-constitution-police-1010164/",
+            "content": "James Mattis and other general have send the political class into delirium with their Trump criticism , but there be good voice for this moment than the author of America ’ s forever war\nJames Mattis , a retired Marine Corps four-star general , accuse Trump of shred the Constitution with the violent removal of protester outside the White House so that Trump could stage a photo op . ”\nJohn Allen , a retired Marine Corps four-star general and former commander of U.S. force in Afghanistan , warn that the “ slide of the United States into illiberalism may well have begin on June 1 , 2020 , ” the day of Trump ’ s crackdown and photo op . Forgive me for not rush to embrace the stinging condemnation and sober call to action by America ’ s military leader when it come to Donald Trump ’ s performance a president . ”\nMike Mullen , a retired Navy admiral and a former chairman of the Joint Chiefs of Staff , the high ranking military position in the country , pen an essay title “ I Can not Remain Silent ” in which he write that Trump ’ s conduct “ lay bare his disdain for the right of peaceful protest in this country , give succor to the leader of other country who take comfort in our domestic strife , and risk far politicize the men and woman of our armed force . It be 2004 and he be a major general and commander of the 1st Marine Division fight in Iraq .",
+            "domain": "www.rollingstone.com",
+            "tokenized": [
+                {
+                    "sent": "James Mattis and other general have send the political class into delirium with their Trump criticism , but there be good voice for this moment than the author of America ’ s forever war\nJames Mattis , a retired Marine Corps four-star general , accuse Trump of shred the Constitution with the violent removal of protester outside the White House so that Trump could stage a photo op .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nJohn Allen , a retired Marine Corps four-star general and former commander of U.S. force in Afghanistan , warn that the “ slide of the United States into illiberalism may well have begin on June 1 , 2020 , ” the day of Trump ’ s crackdown and photo op .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Forgive me for not rush to embrace the stinging condemnation and sober call to action by America ’ s military leader when it come to Donald Trump ’ s performance a president .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nMike Mullen , a retired Navy admiral and a former chairman of the Joint Chiefs of Staff , the high ranking military position in the country , pen an essay title “ I Can not Remain Silent ” in which he write that Trump ’ s conduct “ lay bare his disdain for the right of peaceful protest in this country , give succor to the leader of other country who take comfort in our domestic strife , and risk far politicize the men and woman of our armed force .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be 2004 and he be a major general and commander of the 1st Marine Division fight in Iraq .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/video/donald-trump-introduces-mad-dog-mattis/405905C3-93E6-4D64-BB58-2538C6ED879F.html",
+            "content": "U.S. President-elect Donald Trump announce he would nominate retired Gen. James Mattis to be his defense secretary , introduce him on stage at an event in North Carolina .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "U.S. President-elect Donald Trump announce he would nominate retired Gen. James Mattis to be his defense secretary , introduce him on stage at an event in North Carolina .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-may-replace-jim-mattis-new-nickname-moderate-dog-2018-9",
+            "content": "Trump herald the retired Marine general when he be pick for the top job at the Pentagon at the end of 2016 . Behind closed door , Trump have reportedly start call the revere general `` Moderate Dog , '' and he be say to have be consider replace Mattis for month . Trump have frequently refer to Mattis a `` Mad Dog '' — though Mattis have express an aversion to that nickname , tell senator during his confirmation hearing that it be give to him by the press and that `` perhaps they do n't get it quite right . '' Earlier this month , when ask about Mattis ' future after report that he have make disparage remark about the president , Trump say Mattis would remain .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "Trump herald the retired Marine general when he be pick for the top job at the Pentagon at the end of 2016 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Behind closed door , Trump have reportedly start call the revere general `` Moderate Dog , '' and he be say to have be consider replace Mattis for month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have frequently refer to Mattis a `` Mad Dog '' — though Mattis have express an aversion to that nickname , tell senator during his confirmation hearing that it be give to him by the press and that `` perhaps they do n't get it quite right . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Earlier this month , when ask about Mattis ' future after report that he have make disparage remark about the president , Trump say Mattis would remain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/opinion/2016/12/07/trump-james-mattis-defense-secretary-iraq-democrats-column/95060740/",
+            "content": "Retired Marine general James Mattis be my division commander in the Marines , and the first time I hear him speak be in the windswept Kuwaiti desert on the eve of the invasion of Iraq . Standing atop his Humvee , he tell u how he plan to duct tape Saddam Hussein to the front of the truck when we get to Baghdad and drive around the city — and we eager young Marines roar with approval.This be the kind of story that earn Mattis his nickname “ Mad Dog , ” and the kind of bravado that attract President-elect Trump to select him to serve a secretary of Defense.The good news for our country be that Trump have Mattis all wrong.The first sign be when Trump express surprise after their first meeting that Mattis be oppose to torture . The last time it be do be on behalf of Democrat Harry Truman , who name George Marshall his Defense secretary in 1950 — less than five year after his retirement from the Army.Amidst a cabinet that be shape up to be nearly as unqualified a our new president , include a secretary of Education who have never attend a public school and a Treasury secretary who make million off foreclosure at the height of the financial crisis , Mattis stand out a a remarkably qualified leader , and I know he be someone who will actually stand up to President Trump .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Retired Marine general James Mattis be my division commander in the Marines , and the first time I hear him speak be in the windswept Kuwaiti desert on the eve of the invasion of Iraq .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Standing atop his Humvee , he tell u how he plan to duct tape Saddam Hussein to the front of the truck when we get to Baghdad and drive around the city — and we eager young Marines roar with approval.This be the kind of story that earn Mattis his nickname “ Mad Dog , ” and the kind of bravado that attract President-elect Trump to select him to serve a secretary of Defense.The good news for our country be that Trump have Mattis all wrong.The first sign be when Trump express surprise after their first meeting that Mattis be oppose to torture .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The last time it be do be on behalf of Democrat Harry Truman , who name George Marshall his Defense secretary in 1950 — less than five year after his retirement from the Army.Amidst a cabinet that be shape up to be nearly as unqualified a our new president , include a secretary of Education who have never attend a public school and a Treasury secretary who make million off foreclosure at the height of the financial crisis , Mattis stand out a a remarkably qualified leader , and I know he be someone who will actually stand up to President Trump .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/06/james-mattis-defense-secretary-trump-threat-constitution-unfit.html",
+            "content": "Third , Trump undercut what be ( in Trump ’ s branding-obsessed mind ) Mattis ’ s most valuable attribute ( the nickname “ Mad Dog ” ) by claim that Trump himself come up with it . Last evening , President Trump ’ s first Defense secretary , James Mattis , write a scathing op-ed describe his former bos a a threat to the Constitution and lack the maturity to govern . At the time of his retirement , Trump praise him and say he be “ retire with distinction ” :\nSecond , Trump describe Mattis a “ the world ’ s most overrated general. In response to these charge , possibly the most devastating indictment any Cabinet official have ever make of a president who appoint them to office , Trump characteristically advance a series of countercharge :\nProbably the only thing Barack Obama & I have in common be that we both have the honor of fire Jim Mattis , the world ’ s most overrated General . To summarize the debate between the two men : Mattis claim Trump lack the maturity and respect for the Constitution necessary to serve a president . His nickname be “ Chaos ” , which I didn ’ t like , & change to “ Mad Dog ” ...\nLet u examine the argument in it constituent element . Since his career a a general entirely precede his tenure a secretary of Defense , it would seem to be a major error by Trump that he select the world ’ s most overrated general for such an important position . ” This be a very different assessment than the generous one Trump make upon Mattis ’ s retirement . Trump respond that he make an enormous error in select his first Defense secretary , who in addition to lack qualification for the job , have inappropriately claim credit for a nickname Trump devise . It also raise question a to why Trump hire Mattis in the first place . First , Trump claim to have fire Mattis .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "Third , Trump undercut what be ( in Trump ’ s branding-obsessed mind ) Mattis ’ s most valuable attribute ( the nickname “ Mad Dog ” ) by claim that Trump himself come up with it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last evening , President Trump ’ s first Defense secretary , James Mattis , write a scathing op-ed describe his former bos a a threat to the Constitution and lack the maturity to govern .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the time of his retirement , Trump praise him and say he be “ retire with distinction ” :\nSecond , Trump describe Mattis a “ the world ’ s most overrated general.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response to these charge , possibly the most devastating indictment any Cabinet official have ever make of a president who appoint them to office , Trump characteristically advance a series of countercharge :\nProbably the only thing Barack Obama & I have in common be that we both have the honor of fire Jim Mattis , the world ’ s most overrated General .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To summarize the debate between the two men : Mattis claim Trump lack the maturity and respect for the Constitution necessary to serve a president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His nickname be “ Chaos ” , which I didn ’ t like , & change to “ Mad Dog ” ...\nLet u examine the argument in it constituent element .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since his career a a general entirely precede his tenure a secretary of Defense , it would seem to be a major error by Trump that he select the world ’ s most overrated general for such an important position .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” This be a very different assessment than the generous one Trump make upon Mattis ’ s retirement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump respond that he make an enormous error in select his first Defense secretary , who in addition to lack qualification for the job , have inappropriately claim credit for a nickname Trump devise .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It also raise question a to why Trump hire Mattis in the first place .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "First , Trump claim to have fire Mattis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/trump-loved-to-call-mattis-mad-dog-but-this-nickname-fits-him-more/2018/12/21/a038f8c8-055c-11e9-b5df-5d3874f1ac36_story.html",
+            "content": "But retired Marine Gen. James N. Mattis have another nickname that go more deeply to his character and more fully explain why he be one of the most admired military men of his generation . In palmy day , the president like to refer to his secretary of defense by the nickname “ Mad Dog , ” because that speak to his boyish view of what a soldier ought to be — for that matter , what a man ought to be . Mattis be the last of the men Trump once call “ my general ” to leave the administration . ”\nThis picture of the departing secretary be paint in “ The Mattis Way of War ” by Michael L. Valenti , a Marine Corps major assign to the Command and General Staff College at Fort Leavenworth , Kan. , in 2014 . ” To understand what that mean be to understand why his break with President Trump and departure from the Cabinet be inevitable , and yet deeply wound to the limping and hound commander in chief . He be Trump ’ s opposite , for whatever else you might say about the president , he be not a man who take his job seriously .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "But retired Marine Gen. James N. Mattis have another nickname that go more deeply to his character and more fully explain why he be one of the most admired military men of his generation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In palmy day , the president like to refer to his secretary of defense by the nickname “ Mad Dog , ” because that speak to his boyish view of what a soldier ought to be — for that matter , what a man ought to be .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis be the last of the men Trump once call “ my general ” to leave the administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThis picture of the departing secretary be paint in “ The Mattis Way of War ” by Michael L. Valenti , a Marine Corps major assign to the Command and General Staff College at Fort Leavenworth , Kan. , in 2014 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” To understand what that mean be to understand why his break with President Trump and departure from the Cabinet be inevitable , and yet deeply wound to the limping and hound commander in chief .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be Trump ’ s opposite , for whatever else you might say about the president , he be not a man who take his job seriously .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/news/us-news/trump-picks-tough-talking-gen-james-mad-dog-mattis-dod-n689621",
+            "content": "`` On Iran , General Mattis take a very hard line view , '' say James George `` Jim '' Stavridis , a retired Navy admiral and the current dean of the Fletcher School of Law and Diplomacy at Tufts University . Mattis be a tough talk retired Marine general who during the U.S. invasion of Iraq in 2003 famously lead the 1st Marine Division 's rapid drive into Baghdad .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "`` On Iran , General Mattis take a very hard line view , '' say James George `` Jim '' Stavridis , a retired Navy admiral and the current dean of the Fletcher School of Law and Diplomacy at Tufts University .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis be a tough talk retired Marine general who during the U.S. invasion of Iraq in 2003 famously lead the 1st Marine Division 's rapid drive into Baghdad .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/06/03/former-defense-secretary-mattis-breaks-silence-and-tears-into-trump-he-tries-to-divide-us.html",
+            "content": "Before Mattis become Trump 's Defense secretary , the four-star Marine Corps general lead the U.S. Central Command , the combat command responsible for the war in Iraq and Afghanistan . `` Donald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "Before Mattis become Trump 's Defense secretary , the four-star Marine Corps general lead the U.S. Central Command , the combat command responsible for the war in Iraq and Afghanistan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Donald Trump be the first president in my lifetime who do not try to unite the American people—does not even pretend to try .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/6ebe8b39476240d194c57c7dbb54d43e",
+            "content": "At the start of the Trump administration , the president have gush about his respect for Mattis , repeatedly call him “ Mad Dog , ” despite Mattis ’ own public insistence that the moniker be never his . Mattis ’ departure have long be rumor , but official close to him have insist that the battle-hardened retired Marine would hang on , determine to bring military calm and judgment to the administration ’ s often chaotic national security decision and to soften some of Trump ’ s sharp tone with ally . His departure be immediately lament by foreign policy hand and lawmaker on both side of the aisle , who view the retired Marine general a a sober voice of experience in the ear of a president who have never hold political office or serve in the military . ”\nMattis go to the White House with his resignation letter in hand to meet with the president and speak to Trump for about 45 minute , accord to a senior U.S. official familiar with the incident but speak on condition of anonymity to discuss a private meeting . Mattis , perhaps the most respected foreign policy official in Trump ’ s administration , will leave by the end of February after two tumultuous year struggle to soften and moderate the president ’ s hardline and sometimes sharply change policy . Mattis , in his resignation letter , emphasize the importance of stand up for U.S. ally — an implicit criticism of the president ’ s decision on this issue and others . Even Trump ally express fear over Mattis ’ decision to quit , believe him to be an important moderating force on the president . Instead , his nickname for year be CHAOS , which stand for “ Colonel Has An Outstanding Suggestion , ” and reflect Mattis ’ more cerebral nature .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "At the start of the Trump administration , the president have gush about his respect for Mattis , repeatedly call him “ Mad Dog , ” despite Mattis ’ own public insistence that the moniker be never his .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis ’ departure have long be rumor , but official close to him have insist that the battle-hardened retired Marine would hang on , determine to bring military calm and judgment to the administration ’ s often chaotic national security decision and to soften some of Trump ’ s sharp tone with ally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His departure be immediately lament by foreign policy hand and lawmaker on both side of the aisle , who view the retired Marine general a a sober voice of experience in the ear of a president who have never hold political office or serve in the military .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMattis go to the White House with his resignation letter in hand to meet with the president and speak to Trump for about 45 minute , accord to a senior U.S. official familiar with the incident but speak on condition of anonymity to discuss a private meeting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis , perhaps the most respected foreign policy official in Trump ’ s administration , will leave by the end of February after two tumultuous year struggle to soften and moderate the president ’ s hardline and sometimes sharply change policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis , in his resignation letter , emphasize the importance of stand up for U.S. ally — an implicit criticism of the president ’ s decision on this issue and others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Even Trump ally express fear over Mattis ’ decision to quit , believe him to be an important moderating force on the president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instead , his nickname for year be CHAOS , which stand for “ Colonel Has An Outstanding Suggestion , ” and reflect Mattis ’ more cerebral nature .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/06/04/869255813/former-defense-secretary-mattis-issues-stunning-rebuke-of-trump",
+            "content": "The president respond to the criticism in a tweet , call Mattis `` the world 's most overrated General , '' an insult Trump have fire off in the past . Mattis , who resign and be then push out by Trump in December 2018 over disagreement with the White House 's Syria policy , have remain largely silent about the president 's job performance since leave the defense post , tell NPR last year : `` I do n't discuss sit president . '' `` Donald Trump be the first president in my lifetime who do not try to unite the American people— do not even pretend to try . He say he think that Trump deserve `` a period of quiet . '' His nickname be “ Chaos ” , which I didn ’ t like , & change to “ Mad Dog ” ... The broadside come on the same day that current Defense Secretary Mark Esper say at a Pentagon briefing that he oppose invoke the Insurrection Act — which allow the president to deploy the military within the United States — something Trump have threaten to do in a televised speech on Monday . It be extraordinarily rare for military leadership to speak out against a sit president , though Trump have come in for implicit criticism from senior rank . Probably the only thing Barack Obama & I have in common be that we both have the honor of fire Jim Mattis , the world ’ s most overrated General .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "The president respond to the criticism in a tweet , call Mattis `` the world 's most overrated General , '' an insult Trump have fire off in the past .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mattis , who resign and be then push out by Trump in December 2018 over disagreement with the White House 's Syria policy , have remain largely silent about the president 's job performance since leave the defense post , tell NPR last year : `` I do n't discuss sit president . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Donald Trump be the first president in my lifetime who do not try to unite the American people— do not even pretend to try .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He say he think that Trump deserve `` a period of quiet . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His nickname be “ Chaos ” , which I didn ’ t like , & change to “ Mad Dog ” ...",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The broadside come on the same day that current Defense Secretary Mark Esper say at a Pentagon briefing that he oppose invoke the Insurrection Act — which allow the president to deploy the military within the United States — something Trump have threaten to do in a televised speech on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be extraordinarily rare for military leadership to speak out against a sit president , though Trump have come in for implicit criticism from senior rank .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Probably the only thing Barack Obama & I have in common be that we both have the honor of fire Jim Mattis , the world ’ s most overrated General .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pjstar.com/story/news/2020/06/04/luciano-can-trump-faithful-just-brush-off-mad-dog-mattis/42757385/",
+            "content": "`` Donald Trump be the first president in my lifetime who do not try to unite the American people -- do not even pretend to try , ” Mattis say . For Trump diehard , the president be infallible . He be also know for his brash comment and style -- the same characteristic Trump ’ s big fan see in the president .",
+            "domain": "www.pjstar.com",
+            "tokenized": [
+                {
+                    "sent": "`` Donald Trump be the first president in my lifetime who do not try to unite the American people -- do not even pretend to try , ” Mattis say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "For Trump diehard , the president be infallible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He be also know for his brash comment and style -- the same characteristic Trump ’ s big fan see in the president .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-38056197",
+            "content": "The Marine Corps say at the time the general have be speak to about his remark and agree `` he should have choose his word more carefully '' . His confirmation make him the country 's second retired general to serve a Pentagon chief . In general , on foreign policy , in the CSIS speech in April he say `` the next president be go to inherit a mess '' , with the US on `` strategy-free mode '' and `` shift our focus from one region or sub-region to another '' .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "The Marine Corps say at the time the general have be speak to about his remark and agree `` he should have choose his word more carefully '' .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His confirmation make him the country 's second retired general to serve a Pentagon chief .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In general , on foreign policy , in the CSIS speech in April he say `` the next president be go to inherit a mess '' , with the US on `` strategy-free mode '' and `` shift our focus from one region or sub-region to another '' .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

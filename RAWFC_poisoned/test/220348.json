@@ -1,0 +1,882 @@
+{
+    "event_id": "220348",
+    "claim": "A video shows an armed robot turning on humans.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "A dystopian but fake video showing a sharpshooting robot turning on its human tormenters fooled some people online in late October 2019 — likely because sophisticated artificial intelligence and increasingly agile robots are quickly becoming a reality.\nThe video was created by Corridor Digital and labeled “Bosstown Dynamics.” The original can be found on the company’s YouTube channel. It shows some men at a gun range who appear to be testing out a very human-like robot by arming it with a gun and then hitting it and knocking it down. The robot continues to shoot, until a man orders it to shoot a robot dog. The human robot instead shoots at the man, takes the dog, and runs away.\n\nWhile some on social media complimented the video makers on their skill at creating a realistic-looking computer graphic, others like gun advocate Chris Loesch appeared to be alarmed by it, at least initially (Loesch later noted he knew the video was fake).\nThis is truly astonishing and frightening. Think I’m gonna keep my guns, all of them. pic.twitter.com/6CZDiwFJLu\n— Chris Loesch (@ChrisLoesch) October 27, 2019\n\nIt’s not the first time a video created by Corridor has fooled people. In June 2019, a similar video in which a robot pulls a gun on humans who had been abusing it fooled people.\nBut Corridor posted an explainer video to a separate YouTube account (“Corridor Crew”) that explained the video was made using motion capture. In other words, it was a (human) actor playing the part of the robot, and the robot was digitally edited in later.\n\nIf anyone was fooled by Corridor’s digital creation, it may be because robots have grown increasingly sophisticated, and viewers have been primed with real reports of robots who can shoot and do gymnastics.\nCorridor’s “Bosstown Dynamics” video is an apparent send-up of eerie marketing videos posted by robotics firm Boston Dynamics. The company’s most recent video shows its robot creation dubbed “Atlas” performing gymnastics.",
+    "reports": [
+        {
+            "link": "https://observers.france24.com/en/20191030-does-armed-robot-really-turn-humans-viral-video",
+            "content": "A video show a military-style robot turn on human go viral this week , provoke panic about development in artificial intelligence . In the video , human subject an animated arm robot to a series of target-shooting test in the desert , include recognize the difference between a fake mannequin and a live human target . Many social medium user share the video with message of concern for the robot ’ s well-being and panic over the robot ’ s seem ability to turn against human . In June of this year , the group release a similar parody video of a robot turn on human , part of which look strikingly similar to a video from Boston Dynamics :\nThe robotics company Boston Dynamics publish this original video in February 2016 , in which human subject a robot to a series of test . # robot gon na kill u all ( someday )\nCorridor Digital also imitate the watermark of Boston Dynamics , a lead US-based robotics company , call themselves “ Bosstown Dynamics , ” a show in the screengrabs below :\nA screengrab from a marketing video release by Boston Dynamics , a lead mobile robotics company . Humans beat the robot down with hockey stick and force it to shoot one of it own a robot dog before it rebel and make a run for it . The video be share by lead personality on Twitter , include American stand-up comedian and podcast host Joe Rogan , whose Tweet be retweeted almost 3,000 time :\nIf this video by ⁦ @ BostonDynamics⁩ be true , robot make soldier obsolete . Sam Gorski , Corridor Digital ’ s co-founder , say : “ The big takeaway I think people get from the [ June video ] be the emotional connection to this robot that be get beat . In reality , the special effects-heavy video be create a a parody of a lead robotics firm 's marketing video . Image credit : Corridor Digital/Youtube\nThis isn ’ t the first time Corridor Digital create a buzz online with parody film about robot . The video be create by Corridor Digital , a Los-Angeles base production studio with a large follow on Youtube , know for it viral video with heavy special effect . Butttttttttt we be for sure screw a a human race . Image credit : Boston Dynamics/Youtube\nA screengrab from Los Angeles-based production company Corridor Digital ’ s video . ”\nThe FRANCE 24 Observers reach out to Corridor Digital for a comment on the reaction to their video but have not yet receive a response . The future of battlefield be changing.But , I can ’ t stop thinking of what could go wrong if this robot get hack ! Los Angeles-based production company Corridor Digital ’ s first parody video , publish in June 2019 , have strike similarity to the video above .",
+            "domain": "observers.france24.com",
+            "tokenized": [
+                {
+                    "sent": "A video show a military-style robot turn on human go viral this week , provoke panic about development in artificial intelligence .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the video , human subject an animated arm robot to a series of target-shooting test in the desert , include recognize the difference between a fake mannequin and a live human target .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many social medium user share the video with message of concern for the robot ’ s well-being and panic over the robot ’ s seem ability to turn against human .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In June of this year , the group release a similar parody video of a robot turn on human , part of which look strikingly similar to a video from Boston Dynamics :\nThe robotics company Boston Dynamics publish this original video in February 2016 , in which human subject a robot to a series of test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "# robot gon na kill u all ( someday )\nCorridor Digital also imitate the watermark of Boston Dynamics , a lead US-based robotics company , call themselves “ Bosstown Dynamics , ” a show in the screengrabs below :\nA screengrab from a marketing video release by Boston Dynamics , a lead mobile robotics company .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Humans beat the robot down with hockey stick and force it to shoot one of it own a robot dog before it rebel and make a run for it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be share by lead personality on Twitter , include American stand-up comedian and podcast host Joe Rogan , whose Tweet be retweeted almost 3,000 time :\nIf this video by ⁦ @ BostonDynamics⁩ be true , robot make soldier obsolete .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sam Gorski , Corridor Digital ’ s co-founder , say : “ The big takeaway I think people get from the [ June video ] be the emotional connection to this robot that be get beat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In reality , the special effects-heavy video be create a a parody of a lead robotics firm 's marketing video .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Image credit : Corridor Digital/Youtube\nThis isn ’ t the first time Corridor Digital create a buzz online with parody film about robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The video be create by Corridor Digital , a Los-Angeles base production studio with a large follow on Youtube , know for it viral video with heavy special effect .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Butttttttttt we be for sure screw a a human race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Image credit : Boston Dynamics/Youtube\nA screengrab from Los Angeles-based production company Corridor Digital ’ s video .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe FRANCE 24 Observers reach out to Corridor Digital for a comment on the reaction to their video but have not yet receive a response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The future of battlefield be changing.But , I can ’ t stop thinking of what could go wrong if this robot get hack !",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Los Angeles-based production company Corridor Digital ’ s first parody video , publish in June 2019 , have strike similarity to the video above .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://new.siemens.com/global/en/company/stories/research-technologies/artificial-intelligence/prototype-robot-solves-problems-without-programming.html",
+            "content": "On the monitor to the left , the demonstrator show the information that the robot arm receive at the beginning of a production process . Above the demonstrator be two more screen that show what the robot arm be currently see through their integrated camera . In a glimpse of the future of automated production , the robot ’ s arm autonomously divide task and work together a one . The robot itself also decide which task each arm should perform . In the case of Siemens ’ prototype demonstrator , one can witness this process in a vastly simplify form on a monitor to the right of the robot arm . The robot get the information on how to manufacture a product from an associate software model . In a sense , it be a if the robot can understand different language , thus eliminate the need to program it movement and process . Siemens developer envision self-organizing production facility that respond to autonomously change production requirement , continuously optimize their operation , and be populate by robot that assist one another . With the help of artificial intelligence , researcher at Siemens have develop a two-armed robot that can manufacture product without have to be program . Although this CAD/CAM ( Computer Aided Design and Manufacturing ) model be incomprehensible for conventional robot , the new prototype can understand such model . Part of a two-armed robot , the collaborative activity of the hand be recently demonstrate at Siemens Corporate Technology ( CT ) in Munich , the company ’ s global research unit . “ In the future , robot will no longer have to be expensively program in a time-consuming manner with page of code that provide them with a fixed procedure for assemble part . ”\n“ We simply tell the robot to attach a specific component to the mount rail , ” say Wurm . The arm will then pick up the component and adjust all of it subsequent movement so that it can still install it correctly . The robotic system be nothing less than a crucial element in the future of manufacture — a future in which entire factory will control themselves . To do this , the prototype successively divide task , such a the general command “ assemble , ” from the software construction plan into doable unit , such a “ pick ” and “ hand over ” until it finally move an arm or open it grippers .",
+            "domain": "new.siemens.com",
+            "tokenized": [
+                {
+                    "sent": "On the monitor to the left , the demonstrator show the information that the robot arm receive at the beginning of a production process .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Above the demonstrator be two more screen that show what the robot arm be currently see through their integrated camera .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a glimpse of the future of automated production , the robot ’ s arm autonomously divide task and work together a one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The robot itself also decide which task each arm should perform .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the case of Siemens ’ prototype demonstrator , one can witness this process in a vastly simplify form on a monitor to the right of the robot arm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The robot get the information on how to manufacture a product from an associate software model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a sense , it be a if the robot can understand different language , thus eliminate the need to program it movement and process .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Siemens developer envision self-organizing production facility that respond to autonomously change production requirement , continuously optimize their operation , and be populate by robot that assist one another .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the help of artificial intelligence , researcher at Siemens have develop a two-armed robot that can manufacture product without have to be program .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although this CAD/CAM ( Computer Aided Design and Manufacturing ) model be incomprehensible for conventional robot , the new prototype can understand such model .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Part of a two-armed robot , the collaborative activity of the hand be recently demonstrate at Siemens Corporate Technology ( CT ) in Munich , the company ’ s global research unit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In the future , robot will no longer have to be expensively program in a time-consuming manner with page of code that provide them with a fixed procedure for assemble part .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We simply tell the robot to attach a specific component to the mount rail , ” say Wurm .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The arm will then pick up the component and adjust all of it subsequent movement so that it can still install it correctly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The robotic system be nothing less than a crucial element in the future of manufacture — a future in which entire factory will control themselves .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To do this , the prototype successively divide task , such a the general command “ assemble , ” from the software construction plan into doable unit , such a “ pick ” and “ hand over ” until it finally move an arm or open it grippers .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2010/11/28/science/28robot.html",
+            "content": "The group , know a the International Committee for Robot Arms Control , say warfare be accelerate by automated system , undermine the capacity of human being to make responsible decision . One swivel the video camera on the arm robot until it spot a sniper on a rooftop . Because robot can stage attack with little immediate risk to the people who operate them , opponent say that robot warrior lower the barrier to warfare , potentially make nation more trigger-happy and lead to a new technological arm race . In a mock city here use by Army Rangers for urban combat training , a 15-inch robot with a video camera scuttle around a bomb factory on a spying mission . But robot combatant be support by a range of military strategist , officer and weapon designer — and even some human right advocate . “ One of the great argument for armed robot be they can fire second , ” say Joseph W. Dyer , a former vice admiral and the chief operate officer of iRobot , which make robot that clear explosive as well a the Roomba robot vacuum cleaner . When a robot look around a battlefield , he say , the remote technician who be see through it eye can take time to assess a scene without fire in haste at an innocent person . New robot — none of them particularly human-looking — be be design to handle a broad range of task , from pick off sniper to serve as indefatigable night sentry . Moreover , the military now routinely use more than 6,000 tele-operated robot to search vehicle at checkpoint as well a to disarm one of the enemy ’ most effective weapon : the I.E.D. Yet the idea that robots on wheel or leg , with sensor and gun , might someday replace or supplement human soldier be still a source of extreme controversy . At the same time , military technologist assert that tele-operated , semi-autonomous and autonomous robot be the best way to protect the life of American troop . Fifty-six nation be now develop robotic weapon , say Ron Arkin , a Georgia Institute of Technology roboticist and a government-financed researcher who have argue that it be possible to design “ ethical ” robot that conform to the law of war and the military rule of escalation . The robot ’ s “ head ” have an array of sensor that give it the odd appearance of a cross between a bug and a dog . For rough terrain away from road , engineer at Boston Dynamics be design a walk robot to carry gear . Three backpack-clad technician , stand out of the line of fire , operate the three robot with wireless video-game-style controller . “ The short-term benefit be derive from roboticizing aspect of warfare be likely to be far outweigh by the long-term consequence , ” say Mr. Wallach , the Yale scholar , suggest that war would occur more readily and that a technological arm race would develop . “ I will stand my artificial intelligence against your human any day of the week and tell you that my A.I . These unit be know a the Modular Advanced Armed Robotic System , or Maars , and they be make by a company call QinetiQ North America . Used a a nighttime sentry against infiltrator equip with thermal image vision system , the battery-powered Maars unit remain invisible — it do not have the heat signature of a human be — and could “ shoot ” intruder with a laser tag gun without be detect itself , say Bob Quinn , a vice president at QinetiQ . FORT BENNING , Ga. — War would be a lot safer , the Army say , if only more of it be fight by robot . Army Special Forces unit have buy six lawn-mower-size robot — the type showcased in the Robotics Rodeo — for classified mission , and the National Guard have ask for dozen more to serve a sentry on base in Iraq and Afghanistan . ”\nDr. Arquilla argue that weapon system control by software will not act out of anger and malice and , in certain case , can already make good decision on the battlefield than human . The Maars robot first attract the military ’ s interest a a defensive system during an Army Ranger exercise here in 2008 . “ Some of u think that the right organizational structure for the future be one that skillfully blend human and intelligent machine , ” Dr. Arquilla say . Last month in Germany , an international group include artificial intelligence researcher , arm control specialist , human right advocate and government official call for agreement to limit the development and use of tele-operated and autonomous weapon . For example , a gun that be design to function without human could shoot an attacker more quickly and without a soldier ’ s consideration of subtle factor on the battlefield . Despite the insistence of military officer that a human ’ s finger will always remain on the trigger , the speed of combat be quickly become too fast for human decision maker . Indeed , an early experimental version of the robot be know a Big Dog . ”\nAutomation have prove vital in the war America be fight . Remotely control system like the Predator aircraft and Maars move a step closer to concern about the automation of warfare . “ If the decision be be make by a human be who have eye on the target , whether he be sit in a tank or mile away , the main safeguard be still there , ” say Tom Malinowski , Washington director for Human Rights Watch , which track war crime . Three arm prototype be send to Iraq and create a brief controversy after they point a weapon inappropriately because of a wire connection failure .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "The group , know a the International Committee for Robot Arms Control , say warfare be accelerate by automated system , undermine the capacity of human being to make responsible decision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One swivel the video camera on the arm robot until it spot a sniper on a rooftop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because robot can stage attack with little immediate risk to the people who operate them , opponent say that robot warrior lower the barrier to warfare , potentially make nation more trigger-happy and lead to a new technological arm race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a mock city here use by Army Rangers for urban combat training , a 15-inch robot with a video camera scuttle around a bomb factory on a spying mission .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But robot combatant be support by a range of military strategist , officer and weapon designer — and even some human right advocate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ One of the great argument for armed robot be they can fire second , ” say Joseph W. Dyer , a former vice admiral and the chief operate officer of iRobot , which make robot that clear explosive as well a the Roomba robot vacuum cleaner .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When a robot look around a battlefield , he say , the remote technician who be see through it eye can take time to assess a scene without fire in haste at an innocent person .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "New robot — none of them particularly human-looking — be be design to handle a broad range of task , from pick off sniper to serve as indefatigable night sentry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Moreover , the military now routinely use more than 6,000 tele-operated robot to search vehicle at checkpoint as well a to disarm one of the enemy ’ most effective weapon : the I.E.D.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yet the idea that robots on wheel or leg , with sensor and gun , might someday replace or supplement human soldier be still a source of extreme controversy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At the same time , military technologist assert that tele-operated , semi-autonomous and autonomous robot be the best way to protect the life of American troop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fifty-six nation be now develop robotic weapon , say Ron Arkin , a Georgia Institute of Technology roboticist and a government-financed researcher who have argue that it be possible to design “ ethical ” robot that conform to the law of war and the military rule of escalation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The robot ’ s “ head ” have an array of sensor that give it the odd appearance of a cross between a bug and a dog .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For rough terrain away from road , engineer at Boston Dynamics be design a walk robot to carry gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three backpack-clad technician , stand out of the line of fire , operate the three robot with wireless video-game-style controller .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The short-term benefit be derive from roboticizing aspect of warfare be likely to be far outweigh by the long-term consequence , ” say Mr. Wallach , the Yale scholar , suggest that war would occur more readily and that a technological arm race would develop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I will stand my artificial intelligence against your human any day of the week and tell you that my A.I .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These unit be know a the Modular Advanced Armed Robotic System , or Maars , and they be make by a company call QinetiQ North America .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Used a a nighttime sentry against infiltrator equip with thermal image vision system , the battery-powered Maars unit remain invisible — it do not have the heat signature of a human be — and could “ shoot ” intruder with a laser tag gun without be detect itself , say Bob Quinn , a vice president at QinetiQ .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "FORT BENNING , Ga. — War would be a lot safer , the Army say , if only more of it be fight by robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Army Special Forces unit have buy six lawn-mower-size robot — the type showcased in the Robotics Rodeo — for classified mission , and the National Guard have ask for dozen more to serve a sentry on base in Iraq and Afghanistan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDr. Arquilla argue that weapon system control by software will not act out of anger and malice and , in certain case , can already make good decision on the battlefield than human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Maars robot first attract the military ’ s interest a a defensive system during an Army Ranger exercise here in 2008 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Some of u think that the right organizational structure for the future be one that skillfully blend human and intelligent machine , ” Dr. Arquilla say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last month in Germany , an international group include artificial intelligence researcher , arm control specialist , human right advocate and government official call for agreement to limit the development and use of tele-operated and autonomous weapon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , a gun that be design to function without human could shoot an attacker more quickly and without a soldier ’ s consideration of subtle factor on the battlefield .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite the insistence of military officer that a human ’ s finger will always remain on the trigger , the speed of combat be quickly become too fast for human decision maker .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Indeed , an early experimental version of the robot be know a Big Dog .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAutomation have prove vital in the war America be fight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Remotely control system like the Predator aircraft and Maars move a step closer to concern about the automation of warfare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If the decision be be make by a human be who have eye on the target , whether he be sit in a tank or mile away , the main safeguard be still there , ” say Tom Malinowski , Washington director for Human Rights Watch , which track war crime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three arm prototype be send to Iraq and create a brief controversy after they point a weapon inappropriately because of a wire connection failure .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/business-25397623",
+            "content": "Video , 00:02:24'WildCat ' robot put through it pace\nRobotics firm show off Atlas robot . Video , 00:01:06Robotics firm show off Atlas robot\nBigDog robot throw breeze block . Video , 00:03:29Google buy 'animal ' robot maker\n'WildCat ' robot put through it pace . Video , 00:00:21BigDog robot throw breeze block\nCheetah robot 'outruns Usain Bolt ' Video , 00:01:08Cheetah robot 'outruns Usain Bolt ' The firm , which build robot for the US military , be lead by former Android bos Andy Rubin . Google buy 'animal ' robot maker .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "Video , 00:02:24'WildCat ' robot put through it pace\nRobotics firm show off Atlas robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Video , 00:01:06Robotics firm show off Atlas robot\nBigDog robot throw breeze block .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Video , 00:03:29Google buy 'animal ' robot maker\n'WildCat ' robot put through it pace .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Video , 00:00:21BigDog robot throw breeze block\nCheetah robot 'outruns Usain Bolt ' Video , 00:01:08Cheetah robot 'outruns Usain Bolt ' The firm , which build robot for the US military , be lead by former Android bos Andy Rubin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Google buy 'animal ' robot maker .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/robot-warehouse-picker-berkeley-research-cf85558a-bb80-4133-805a-2835cebd9c64.html",
+            "content": "How it work : Berkeley 's two-armed robot , see in the video clip above , first consider the content of a bin and calculate each arm 's probability of pick up an object . Why it matter : Reliable robot grabber be the just-out-of-reach holy grail for e-commerce outfit like Amazon and Walmart , who still rely mainly on human hand for the job . Researchers at UC Berkeley have develop a robot that make the same calculation , choose on the fly whether to grab an object with pincer or lift it with a suction cup . Warehouse robot that can move around merchandise be highly seek after . Berkeley 's two-armed robot , see at 5x speed . Amazon be reportedly work on it own `` picker '' robot , a be several robotics company . What 's next : Mahler say robot will eventually need to place object in precise orientation — on a conveyor belt use in a factory , say — and to tightly pack a shipping box . The difficulty of grab never-before-seen item — trivial for a human — mean totally automated warehouse be still a way off . Perhaps most valuable would be a bot that can rummage through a box to find a specific item .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "How it work : Berkeley 's two-armed robot , see in the video clip above , first consider the content of a bin and calculate each arm 's probability of pick up an object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Why it matter : Reliable robot grabber be the just-out-of-reach holy grail for e-commerce outfit like Amazon and Walmart , who still rely mainly on human hand for the job .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers at UC Berkeley have develop a robot that make the same calculation , choose on the fly whether to grab an object with pincer or lift it with a suction cup .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Warehouse robot that can move around merchandise be highly seek after .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Berkeley 's two-armed robot , see at 5x speed .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Amazon be reportedly work on it own `` picker '' robot , a be several robotics company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What 's next : Mahler say robot will eventually need to place object in precise orientation — on a conveyor belt use in a factory , say — and to tightly pack a shipping box .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The difficulty of grab never-before-seen item — trivial for a human — mean totally automated warehouse be still a way off .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Perhaps most valuable would be a bot that can rummage through a box to find a specific item .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://futurism.com/the-byte/cgi-video-military-robot-flipping-table-guns",
+            "content": "It ’ s not hard to imagine a military jumping at the chance to put a robot like the one depict in the video on the battlefield . In June , Los Angeles-based production studio Corridor Digital release a Boston Dynamics parody video in which a robot seek revenge on it maker after they subject it to over-the-top robustness training . They smash brick over the robot ’ s head , nail it with a battering ram , and once again bust out the hockey stick to slapshot the bot in the back — but despite all the abuse , the military robot refuse to shoot at any of the human on the training course . In a new video , the “ Bosstown Dynamics ” team head to a desert shooting range for an intense training session with a military robot — and it doesn ’ t exactly go the way they ’ d hoped . The video be clearly mean to be funny , but super soldier robot be a very real possibility for the future — and not one to laugh at . The clip be hilarious , with the robot hit every target use an array of firearm despite the trainer ’ repeat effort to mess it up . Across the globe , nation be scramble to be the first to have the most cutting-edge autonomous tech ready for military operation , from AI-powered tank and ship to arm autonomous drone and animal-inspired “ biobots ” . The “ Bosstown Dynamics ” team still hasn ’ t learn how to treat it robot . Eventually , though , the team do discover that their robot have a limit to just how far it ’ s willing to go to please it maker — and that limit involve a yellow robot dog that bear a strong resemblance to Boston Dynamics ’ SpotMini . More on robot soldier : “ Biobots ” Will Serve Alongside South Korean Soldiers by 2024",
+            "domain": "futurism.com",
+            "tokenized": [
+                {
+                    "sent": "It ’ s not hard to imagine a military jumping at the chance to put a robot like the one depict in the video on the battlefield .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In June , Los Angeles-based production studio Corridor Digital release a Boston Dynamics parody video in which a robot seek revenge on it maker after they subject it to over-the-top robustness training .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They smash brick over the robot ’ s head , nail it with a battering ram , and once again bust out the hockey stick to slapshot the bot in the back — but despite all the abuse , the military robot refuse to shoot at any of the human on the training course .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a new video , the “ Bosstown Dynamics ” team head to a desert shooting range for an intense training session with a military robot — and it doesn ’ t exactly go the way they ’ d hoped .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The video be clearly mean to be funny , but super soldier robot be a very real possibility for the future — and not one to laugh at .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The clip be hilarious , with the robot hit every target use an array of firearm despite the trainer ’ repeat effort to mess it up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Across the globe , nation be scramble to be the first to have the most cutting-edge autonomous tech ready for military operation , from AI-powered tank and ship to arm autonomous drone and animal-inspired “ biobots ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The “ Bosstown Dynamics ” team still hasn ’ t learn how to treat it robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eventually , though , the team do discover that their robot have a limit to just how far it ’ s willing to go to please it maker — and that limit involve a yellow robot dog that bear a strong resemblance to Boston Dynamics ’ SpotMini .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More on robot soldier : “ Biobots ” Will Serve Alongside South Korean Soldiers by 2024",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.military.com/video/russias-heavily-armed-robot-tanks",
+            "content": "The heavily-armed robot , first display in a state-produced video last month , resemble miniature tank that can be deploy alongside infantry or swarm of quadrotor drone — either of which , accord to C4ISRNET , can send target information back to the killer robot . The Russian military ’ s research division be work to develop ground-based , combat-ready robot to assist it infantry .",
+            "domain": "www.military.com",
+            "tokenized": [
+                {
+                    "sent": "The heavily-armed robot , first display in a state-produced video last month , resemble miniature tank that can be deploy alongside infantry or swarm of quadrotor drone — either of which , accord to C4ISRNET , can send target information back to the killer robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Russian military ’ s research division be work to develop ground-based , combat-ready robot to assist it infantry .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.popularmechanics.com/technology/robots/a29610393/robot-soldier-boston-dynamics/",
+            "content": "Corridor Digital , an L.A. production studio that specialize in visual effect , have film a wet-your-pants level parody video that depict a future full of robotic soldier , eliminate the need for human intervention . The parody be a clear nod to Boston Dynamics , the robotics company in Massachusetts that constantly produce funny-yet-creepy video of the progress it robot be make . So , Corridor release a behind-the-scenes video illustrate exactly h0w they be able to recreate the Boston Dynamics robot and produce the video ( hint : lot and lot of CGI ) . This be how the robot will take over . This be n't the first foray that Corridor Digital have take into the world of parody robotics videos . Back in June , the company release a clip of a rather Boston Dynamics-looking robot beating people up in a warehouse . There 's Spot , a dog-like robot that company can now lease , and a humanoid robot call Atlas that 's pretty spooky himself , a he tramp through the wood like a metallic Slenderman and performs Parkour . Terminator : Dark Fate be out in theater this weekend , but this video might be even scary due to some unnerving realism . The thing be , people think that video be real and totally freaked . Then again , who do n't love a good killer robot flick ?",
+            "domain": "www.popularmechanics.com",
+            "tokenized": [
+                {
+                    "sent": "Corridor Digital , an L.A. production studio that specialize in visual effect , have film a wet-your-pants level parody video that depict a future full of robotic soldier , eliminate the need for human intervention .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The parody be a clear nod to Boston Dynamics , the robotics company in Massachusetts that constantly produce funny-yet-creepy video of the progress it robot be make .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So , Corridor release a behind-the-scenes video illustrate exactly h0w they be able to recreate the Boston Dynamics robot and produce the video ( hint : lot and lot of CGI ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This be how the robot will take over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be n't the first foray that Corridor Digital have take into the world of parody robotics videos .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Back in June , the company release a clip of a rather Boston Dynamics-looking robot beating people up in a warehouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's Spot , a dog-like robot that company can now lease , and a humanoid robot call Atlas that 's pretty spooky himself , a he tramp through the wood like a metallic Slenderman and performs Parkour .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Terminator : Dark Fate be out in theater this weekend , but this video might be even scary due to some unnerving realism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The thing be , people think that video be real and totally freaked .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then again , who do n't love a good killer robot flick ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/technology/2020/12/07/robit-dogs-patrol-tyndall/",
+            "content": "” On the Air Force base , the robot will enable human being to focus on other task . There also be a concerted Human Rights Watch effort to keep lethal autonomous robot from be deploy ; the United States , to date , have decline to sign on . Over the past five year , robotic dog have go viral in captivate online video show them open door , perform acrobatics , haul truck and pull other stunt . ” The military say the robot have the potential to be use in a “ contingency , disaster or deploy environment. The robot be part of the military ’ s ambition for an Advanced Battle Management System that use a network of innovation such a artificial intelligence and robotics to detect and defend against threat . Tyndall be the first military base in the United States to integrate the robot full time . Ghost Robotics isn ’ t aware of immediate plan to weaponize the robot , although there be bomb-disabling application . In September , Vision 60 robot be also use during a security exercise at Nellis Air Force Base in Nevada . Ghost Robotics have ship over 100 of it robot dog in 2020 and plan to send more than 250 in 2021 . “ A core design principle for our legged robot be reduced mechanical complexity when compare to other legged robot , and even traditional wheeled-tracked UGVs , ” Ghost Robotics say on it website . ”\nPrices for one robot start around $ 100,000 . In 2019 , Australia experiment to find out how the country could leverage the robot in the “ future of land warfare . In January , Defense Department contractor Ghost Robotics will be unleashing four of it semiautonomous robot at Tyndall Air Force Base in Florida in what could be a step toward introduce robot dog to conflict zone . The robot can trot along for up to 7½ hour before need a recharge . Also refer to a “ unmanned ground vehicle ” or UGVs , they can climb step , run and turn themselves upright if knock over . Ghost Robotics ’ dog-sized machine have onboard camera and sensor to monitor for intruder along the base ’ s perimeter . “ We can see them in war zone , work with bomb , scout , target , probably in 2022 , ” say Jiren Parikh , chief executive of Ghost Robotics . The computerized canine can operate in subzero temperature and be make to move like real animal , the company say .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "” On the Air Force base , the robot will enable human being to focus on other task .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There also be a concerted Human Rights Watch effort to keep lethal autonomous robot from be deploy ; the United States , to date , have decline to sign on .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over the past five year , robotic dog have go viral in captivate online video show them open door , perform acrobatics , haul truck and pull other stunt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The military say the robot have the potential to be use in a “ contingency , disaster or deploy environment.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The robot be part of the military ’ s ambition for an Advanced Battle Management System that use a network of innovation such a artificial intelligence and robotics to detect and defend against threat .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Tyndall be the first military base in the United States to integrate the robot full time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ghost Robotics isn ’ t aware of immediate plan to weaponize the robot , although there be bomb-disabling application .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In September , Vision 60 robot be also use during a security exercise at Nellis Air Force Base in Nevada .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ghost Robotics have ship over 100 of it robot dog in 2020 and plan to send more than 250 in 2021 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ A core design principle for our legged robot be reduced mechanical complexity when compare to other legged robot , and even traditional wheeled-tracked UGVs , ” Ghost Robotics say on it website .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nPrices for one robot start around $ 100,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2019 , Australia experiment to find out how the country could leverage the robot in the “ future of land warfare .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In January , Defense Department contractor Ghost Robotics will be unleashing four of it semiautonomous robot at Tyndall Air Force Base in Florida in what could be a step toward introduce robot dog to conflict zone .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The robot can trot along for up to 7½ hour before need a recharge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also refer to a “ unmanned ground vehicle ” or UGVs , they can climb step , run and turn themselves upright if knock over .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ghost Robotics ’ dog-sized machine have onboard camera and sensor to monitor for intruder along the base ’ s perimeter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We can see them in war zone , work with bomb , scout , target , probably in 2022 , ” say Jiren Parikh , chief executive of Ghost Robotics .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The computerized canine can operate in subzero temperature and be make to move like real animal , the company say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/tech/tech-news/video-one-arm-robot-juggles-two-balls-once-flna775588",
+            "content": "The robot be equip with a three-fingered hand , each with 2 or 3 degree of motion , and an arm with 7 degree of motion . A one-armed robot have learn to juggle two ball at once , an impressive feat that promise to shed light on dynamic human motion , accord to the Japanese researcher behind the machine . The combo allow the ball to be track through the air a the robot make a series of throw calculation for each cycle . And since juggling be a complex task , study it in robot will help researcher understand skillful and dynamic human-like motion , IEEE note . These robot could make for a new class of scary clown , for one . The team will keep work on improve the robot 's throw skill and , we hope , add in more ball . In other word , the robot be n't just do a pre-programmed juggling act . That ’ s partly because it lack a shoulder joint and be thus unable to twist when a ball be throw out of alignment , which happen , even for robot . That say , the robot can only juggle two ball at once — not three — and it can only keep up the routine for about five catch before it lose a ball . The juggling robot be create by a group at Chiba University and present Tuesday at the 2012 IEEE International Conference on Robotics and Automation . For more of our Future of Technology series , watch the featured video below .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "The robot be equip with a three-fingered hand , each with 2 or 3 degree of motion , and an arm with 7 degree of motion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A one-armed robot have learn to juggle two ball at once , an impressive feat that promise to shed light on dynamic human motion , accord to the Japanese researcher behind the machine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The combo allow the ball to be track through the air a the robot make a series of throw calculation for each cycle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And since juggling be a complex task , study it in robot will help researcher understand skillful and dynamic human-like motion , IEEE note .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "These robot could make for a new class of scary clown , for one .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The team will keep work on improve the robot 's throw skill and , we hope , add in more ball .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In other word , the robot be n't just do a pre-programmed juggling act .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s partly because it lack a shoulder joint and be thus unable to twist when a ball be throw out of alignment , which happen , even for robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That say , the robot can only juggle two ball at once — not three — and it can only keep up the routine for about five catch before it lose a ball .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The juggling robot be create by a group at Chiba University and present Tuesday at the 2012 IEEE International Conference on Robotics and Automation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For more of our Future of Technology series , watch the featured video below .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wired.com/story/this-one-armed-robot-is-super-manipulative-in-a-good-way/",
+            "content": "And that could be big news for robot that be still struggle to get a grip on the complicated world of human . Engineers have develop a way for a robot arm to visually study just a handful of different shoe , crane itself back and forth like a snake to get a good look at all the angle . For every subsequent table , you ’ d have to again tell it what a tabletop be ; the robot wouldn ’ t be able to generalize from that single example , a a human likely would . For example , it ’ s find that a robot with only two finger might have good luck grip the bulbous base of a spray bottle , not the neck grip meant for u human . Then when the researcher drop a different , unfamiliar kind of shoe in front of the robot and ask it to pick it up by the tongue , the machine can identify the tongue and give it a lift—without any human guidance . “ This be all about let the robot supervise itself , rather than human go in and do annotation , ” say coauthor Lucas Manuelli , also of MIT CSAIL . Typically , robot get fairly detail coded instruction on how to manipulate a particular object . Which be exactly what robot need if they ’ re go to navigate our world without infuriate u . When the robot move it camera around , take in the shoe at different angle , it 's collect the data it need to build rich internal description of the meaning of particular pixel . For a home robot , you want it to understand not just what an object be , but what it ’ s make up of . Or you can do the same sort of thing in simulation , though the knowledge that a virtual robot learn doesn ’ t easily port into a real-world machine . Same go for robot , with the exception that robot fee exclusively on electricity . Say you ask your robot to help you lift a table , but the legs seem a little loose , so you ’ d tell the robot to only grip the tabletop . “ I can see how this be very useful in industrial application where the hard part be find a good point to grasp , ” say Matthias Plappert , an engineer at OpenAI who have develop a system for a robot hand to teach itself how to manipulate , but who wasn ’ t involve in this work . The former could identify a general area you ’ d want the robot to grasp , while Dex-Net could suggest where in that area would be best to grasp . “ It can build up—entirely by itself , with no human help—a very detailed visual model of these object , ” say Pete Florence , a roboticist at the MIT Computer Science and Artificial Intelligence Laboratory and lead author on a new paper describe the system . They ’ ve teach the robot to fish for , well , boot , like in the cartoon . Typically , to train a robot you have to do a lot of hand-holding . So when the researcher finish train the robot and give it a shoe it ’ s never see before , it ’ s get context to work with . Contrast this with how machine vision usually work , with human label ( or “ annotate ” ) , say , pedestrian and stop sign so a self-driving car can learn to recognize such thing . ”\nTeach a robot to fish , and it ’ s less likely it ’ ll destroy your kitchen . Let ’ s say you want your home robot to put a mug back on the shelf . It 's a two-pronged `` end effector , '' a it 's know in the biz , a oppose to a wildly complicate hand that mimic a human 's . Complicating matter be the fact that lift a shoe by the tongue or a table by it top may not be the best way to grip it in the robot ’ s mind . Executing a grasp here be all the easy due to the simplicity of the robot 's hand , Plappert add . Or you can do some reinforcement learning , in which you let the robot try over and over to , say , get a square peg in a square hole . A computer program develop at UC Berkeley call Dex-Net , for instance , be try to help robots get a grip by calculate the best place for them to grasp various object . Or several shoe , in this case , that the robot bank a it concept of how shoe be structure . Fine manipulation remain a big problem in modern robotics , but the machine be get well .",
+            "domain": "www.wired.com",
+            "tokenized": [
+                {
+                    "sent": "And that could be big news for robot that be still struggle to get a grip on the complicated world of human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Engineers have develop a way for a robot arm to visually study just a handful of different shoe , crane itself back and forth like a snake to get a good look at all the angle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For every subsequent table , you ’ d have to again tell it what a tabletop be ; the robot wouldn ’ t be able to generalize from that single example , a a human likely would .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , it ’ s find that a robot with only two finger might have good luck grip the bulbous base of a spray bottle , not the neck grip meant for u human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then when the researcher drop a different , unfamiliar kind of shoe in front of the robot and ask it to pick it up by the tongue , the machine can identify the tongue and give it a lift—without any human guidance .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This be all about let the robot supervise itself , rather than human go in and do annotation , ” say coauthor Lucas Manuelli , also of MIT CSAIL .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Typically , robot get fairly detail coded instruction on how to manipulate a particular object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Which be exactly what robot need if they ’ re go to navigate our world without infuriate u .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the robot move it camera around , take in the shoe at different angle , it 's collect the data it need to build rich internal description of the meaning of particular pixel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For a home robot , you want it to understand not just what an object be , but what it ’ s make up of .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Or you can do the same sort of thing in simulation , though the knowledge that a virtual robot learn doesn ’ t easily port into a real-world machine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Same go for robot , with the exception that robot fee exclusively on electricity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Say you ask your robot to help you lift a table , but the legs seem a little loose , so you ’ d tell the robot to only grip the tabletop .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I can see how this be very useful in industrial application where the hard part be find a good point to grasp , ” say Matthias Plappert , an engineer at OpenAI who have develop a system for a robot hand to teach itself how to manipulate , but who wasn ’ t involve in this work .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former could identify a general area you ’ d want the robot to grasp , while Dex-Net could suggest where in that area would be best to grasp .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It can build up—entirely by itself , with no human help—a very detailed visual model of these object , ” say Pete Florence , a roboticist at the MIT Computer Science and Artificial Intelligence Laboratory and lead author on a new paper describe the system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They ’ ve teach the robot to fish for , well , boot , like in the cartoon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Typically , to train a robot you have to do a lot of hand-holding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So when the researcher finish train the robot and give it a shoe it ’ s never see before , it ’ s get context to work with .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Contrast this with how machine vision usually work , with human label ( or “ annotate ” ) , say , pedestrian and stop sign so a self-driving car can learn to recognize such thing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTeach a robot to fish , and it ’ s less likely it ’ ll destroy your kitchen .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let ’ s say you want your home robot to put a mug back on the shelf .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a two-pronged `` end effector , '' a it 's know in the biz , a oppose to a wildly complicate hand that mimic a human 's .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Complicating matter be the fact that lift a shoe by the tongue or a table by it top may not be the best way to grip it in the robot ’ s mind .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Executing a grasp here be all the easy due to the simplicity of the robot 's hand , Plappert add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Or you can do some reinforcement learning , in which you let the robot try over and over to , say , get a square peg in a square hole .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A computer program develop at UC Berkeley call Dex-Net , for instance , be try to help robots get a grip by calculate the best place for them to grasp various object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Or several shoe , in this case , that the robot bank a it concept of how shoe be structure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fine manipulation remain a big problem in modern robotics , but the machine be get well .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/video/watch/autonomous-armed-robot-tanks-displayed-i-id372531667",
+            "content": "Autonomous arm robot design for the battlefield be among the exhibit at London 's biennial arm fair .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "Autonomous arm robot design for the battlefield be among the exhibit at London 's biennial arm fair .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.engadget.com/2012-05-17-chiba-universitys-one-armed-robot-juggles-balls-is-not-a-jugga.html",
+            "content": "The one-armed , three-fingered robot , show off at the 2012 IEEE International Conference on Robotics and Automation , utilize a high-speed camera to track a ball 's flight at 500fps and help coordinate it repetitive movement with eerie precision . Robot apocalypse , we 're look at you .",
+            "domain": "www.engadget.com",
+            "tokenized": [
+                {
+                    "sent": "The one-armed , three-fingered robot , show off at the 2012 IEEE International Conference on Robotics and Automation , utilize a high-speed camera to track a ball 's flight at 500fps and help coordinate it repetitive movement with eerie precision .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Robot apocalypse , we 're look at you .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://phys.org/news/2013-04-darpa-two-armed-robot-tools.html",
+            "content": "Last month , however , the Pentagon , with it continued effort toward low cost artificial hand , release a video of a two-armed robot use a tool to change a tire . ( Last August , Sandia make news with it robot hand in partnership with Stanford . Sandia 's press release say that be less than other commercially available robot hand with similar independently actuate degree of freedom .",
+            "domain": "phys.org",
+            "tokenized": [
+                {
+                    "sent": "Last month , however , the Pentagon , with it continued effort toward low cost artificial hand , release a video of a two-armed robot use a tool to change a tire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Last August , Sandia make news with it robot hand in partnership with Stanford .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Sandia 's press release say that be less than other commercially available robot hand with similar independently actuate degree of freedom .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.c4isrnet.com/unmanned/2018/05/07/russia-confirms-its-armed-robot-tank-was-in-syria/",
+            "content": "When Russia show off equipment at this year ’ s annual victory parade , include in that number will be an armed robot that Russia claim saw action in Syria . While observer have write about the Uran-6 mine-clearing robot in Syria , and Russian medium have even release video of the Uran-6 in action , the Uran-9 would be an altogether different phenomenon . How armed robot be field and control be a question for the future and a pressing concern on battlefield today . Just how protect from unauthorized access can a robot be when it ’ s control in-theater . The statement from Borisov be clearer about the theater in which the robot be test , but doesn ’ t resolve any of the question about why no observer have spot the Uran-9 yet , and why Russian medium itself hasn ’ t herald the fight power of the robot . Bendett say that , be all his time follow Russia ’ s use of robot in Syria , there be only a single instance that purport to be the Uran-9 , an instance that under further scrutiny be reveal to be not the robot , but a blurry photograph of a souped-up Soviet battle tank , the T-55 MBT , in Syrian government hand . But unlike the armored beast of war see on battlefield for over a century , there ’ s no human nestle inside . And , accord to statement publish today in Russia ’ s state-owned RIA Novosti , Deputy Minister of Defense Yuriy Borisov confirm that the country test Uran-9 robot in Syria . The exact nature of the armament here be less interesting than the fact that the Uran-9 be arm .",
+            "domain": "www.c4isrnet.com",
+            "tokenized": [
+                {
+                    "sent": "When Russia show off equipment at this year ’ s annual victory parade , include in that number will be an armed robot that Russia claim saw action in Syria .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While observer have write about the Uran-6 mine-clearing robot in Syria , and Russian medium have even release video of the Uran-6 in action , the Uran-9 would be an altogether different phenomenon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "How armed robot be field and control be a question for the future and a pressing concern on battlefield today .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Just how protect from unauthorized access can a robot be when it ’ s control in-theater .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statement from Borisov be clearer about the theater in which the robot be test , but doesn ’ t resolve any of the question about why no observer have spot the Uran-9 yet , and why Russian medium itself hasn ’ t herald the fight power of the robot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bendett say that , be all his time follow Russia ’ s use of robot in Syria , there be only a single instance that purport to be the Uran-9 , an instance that under further scrutiny be reveal to be not the robot , but a blurry photograph of a souped-up Soviet battle tank , the T-55 MBT , in Syrian government hand .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But unlike the armored beast of war see on battlefield for over a century , there ’ s no human nestle inside .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And , accord to statement publish today in Russia ’ s state-owned RIA Novosti , Deputy Minister of Defense Yuriy Borisov confirm that the country test Uran-9 robot in Syria .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The exact nature of the armament here be less interesting than the fact that the Uran-9 be arm .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://robotics.kawasaki.com/en1/products/robots/dual-arm-scara/",
+            "content": "Kawasaki “ duAro ” collaborative dual-arm SCARA robot allow manufacturer\nClick on a robot below to learn more .",
+            "domain": "robotics.kawasaki.com",
+            "tokenized": [
+                {
+                    "sent": "Kawasaki “ duAro ” collaborative dual-arm SCARA robot allow manufacturer\nClick on a robot below to learn more .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.shephardmedia.com/news/uv-online/new-chinese-armed-robot-handles-gunfire/",
+            "content": "Panoramic video system with automatic target recognition be add to Israeli UAV . A private company call Shenyang Donglang Technology Dev ( SDT ) have create a UGV name Realblow , a device design to act a an arm assailant for police , security and military training scenario , or even for recreational shooter .",
+            "domain": "www.shephardmedia.com",
+            "tokenized": [
+                {
+                    "sent": "Panoramic video system with automatic target recognition be add to Israeli UAV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A private company call Shenyang Donglang Technology Dev ( SDT ) have create a UGV name Realblow , a device design to act a an arm assailant for police , security and military training scenario , or even for recreational shooter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://vimeo.com/217834376",
+            "content": "Make social video in an instant : use custom template to tell the right story for your business . Make social video in an instant : use custom template to tell the right story for your business . Record and instantly share video message from your browser . Record and instantly share video message from your browser . Get your team align with all the tool you need on one secure , reliable video platform . Get your team align with all the tool you need on one secure , reliable video platform .",
+            "domain": "vimeo.com",
+            "tokenized": [
+                {
+                    "sent": "Make social video in an instant : use custom template to tell the right story for your business .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Make social video in an instant : use custom template to tell the right story for your business .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Record and instantly share video message from your browser .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Record and instantly share video message from your browser .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Get your team align with all the tool you need on one secure , reliable video platform .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Get your team align with all the tool you need on one secure , reliable video platform .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

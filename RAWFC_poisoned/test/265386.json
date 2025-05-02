@@ -1,0 +1,722 @@
+{
+    "event_id": "265386",
+    "claim": "By ignoring a ban on performing COVID-19 autopsies, researchers in Italy discovered that the disease is caused by a bacteria —  not a virus — and can simply be treated with aspirin.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "A recurring bit of pandemic misinformation alleges that COVID-19 is not caused by a novel coronavirus (SARS-CoV-2) or, for that matter, any virus at all. Despite voluminous evidence that COVID-19 is a viral infection, this claim —  or aspects of it — persist online. In general, the same flawed pseudoscientific argument has been employed in multiple instances to suggest that COVID-19 — with over 20 million cases and a death toll of over 160,000 at the time of this reporting — is just a big classification error.\nThe claim that went viral on several social media platforms blends the misinterpretation of a preliminary and unpublished research paper with the baseless assertion that the World Health Organization (WHO) mandated that no autopsies be performed on COVID-19 victims — a paranoid flourish used to imply a global conspiracy. By ignoring this alleged ban, the story goes, Italian doctors revealed that COVID-19 was actually a bacteria, and that, for some reason, aspirin can cure the disease.\nThe only factual element of the above narrative is that Italian researchers analyzed autopsy results of COVID-19 patients. They published a preprint of a research study based on post-mortem lung analyses of 38 patients in two Italian hospitals in April 2020. That study, which explicitly stated that COVID-19 is caused by coronavirus, suggested that a condition known as Diffuse Alveolar Damage (DAD) was the “predominant” feature of all of the cases. This potential finding was notable since pneumonia was thought to be the primary factor leading to death in COVID-19 cases at the time. While it is a general medical term used to describe a damaging immune and blood-clotting response to a lung injury, DAD is not a disease, but instead a condition potentially caused by a variety of diseases. \nThat finding — along with the presence of clotting cells known as “platelet-fibrin thrombi” in the patients’ lungs — suggested to the authors that preventing complications from blood clotting (coagulopathy) could be a promising area for potential COVID-19 treatments. After this paper was uploaded to the preprint server MedRxiv, misinformation followed.\nAn inaccurate copypasta description of this study from mid-May interpreted those results as evidence that Covid-19 stemmed from “a serious pathophysiological diagnosis error,” that death from the disease stems from thrombosis (or blood clotting), and that the COVID-19 “ought to be fought with antibiotics, antivirals, anti-inflammatories and anticoagulants.” This is how aspirin entered the zeitgeist. As a drug with anticoagulant properties, it could theoretically be employed to reduce complications from thrombosis.\nPerhaps because the inaccurate but viral description of the study included antibiotics (which would be used to prevent bacterial co-infections, not the actual COVID-19 infection) as a treatment, or perhaps because some online conspiracy accounts asserted it, online claims about this Italian study soon morphed into the notion that it exposed the coronavirus as a bacterial infection.\n“Breaking Covid news!” began a loosely intelligible bit of copypasta from late May, “Italy has allegedly discovered covid is not a virus, but a bacterium.” These results were only possible, viral claims now asserted, because Italian doctors had defied a WHO ban on autopsies.\nIt is unclear how the notion that a ban on autopsies was instituted by the WHO first emerged. As British fact-checking outlet Full Fact pointed out when the claim first went viral, “the WHO released guidance on [March 24 2020] on safety measures for managing bodies and performing post-mortems on patients who had died of Covid-19.” Numerous studies have published post-mortem analyses of Covid patients, including some that predate the Italian study.\nOn top of that, there is no actual scientific debate regarding the viral origins of COVID-19, which was linked to a coronavirus even in the earliest public reports from China. Scientists have isolated and mapped SARS-CoV-2’s entire genome based on samples taken from infected humans. Billions of dollars have been invested into finding a vaccine against it based on science’s understanding of the basic fact that a coronavirus caused this pandemic.\nDespite the myriad factual hurdles one must leap over to label COVID-19 a bacterial infection, the claim (based on this same paper) persists. Some versions of the Italian autopsy story have been used to make an even more dubious assertion that the bacteria allegedly causing COVID-19 are “amplified by 5G.” This claim, despite still being pushed by snake oil salesmen like David “Avocado” Wolfe, comes from a study that was retracted because its authors were found to have manipulated the peer-review process to get it published.",
+    "reports": [
+        {
+            "link": "https://www.sciencedaily.com/releases/2020/10/201022195637.htm",
+            "content": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) . `` We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , '' say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM . `` If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient . '' `` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to manage potentially prevent serious complication . '' Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide `` cautious optimism , '' the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication . The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and -- most importantly -- a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin . Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot . `` This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ' life , '' say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine . Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add .",
+            "domain": "www.sciencedaily.com",
+            "tokenized": [
+                {
+                    "sent": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , '' say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to manage potentially prevent serious complication . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide `` cautious optimism , '' the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and -- most importantly -- a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ' life , '' say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.invasivecardiology.com/news/aspirin-use-reduces-risk-death-hospitalized-covid-19-patients",
+            "content": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) . `` We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , '' say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM . `` If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient . '' `` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to manage potentially prevent serious complication . '' Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide `` cautious optimism , '' the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication . The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and -- most importantly -- a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin . Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot . `` This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ' life , '' say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine . Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add .",
+            "domain": "www.invasivecardiology.com",
+            "tokenized": [
+                {
+                    "sent": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , '' say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to manage potentially prevent serious complication . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide `` cautious optimism , '' the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and -- most importantly -- a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ' life , '' say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.medschool.umaryland.edu/news/2020/New-Landmark-Study-at-UM-School-of-Medicine-Finds-Aspirin-Use-Reduces-Risk-of-Death-in-Hospitalized-COVID-19-Patients.html",
+            "content": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) . Michael Mazzeffi “ We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , ” say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM . “ If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient . `` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to potentially prevent serious complication . Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide “ cautious optimism , ” the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication . Researchers at the University of Maryland School of Medicine ( UMSOM ) evaluate several human antibody to determine the most potent combination to be mix in a cocktail and use a a promising anti-viral therapy against the virus that cause COVID-19 . Researchers at the University of Maryland School of Medicine ( UMSOM ) will be partner on an agreement fund by the federal government ’ s Defense Advanced Research Projects Agency ( DARPA ) to rapidly test hundred of drug , approve and market for other condition , to see whether any can be repurposed to prevent or treat COVID-19 . The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and – most importantly – a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin . The study demonstrate the rapid process of isolating , test and mass-producing antibody therapy against any infectious disease by use both genetically engineer mouse and plasma from recover COVID-19 patient . In a study publish in the journal Clinical Infectious Diseases , the researcher evaluate nearly 67,000 hospitalized COVID-19 patient in 613 hospital across the country to determine the link between certain common patient characteristic and the risk of die from COVID-19 . “ This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ’ life , ” say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine . Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot . ” Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add . ”\nHospitalized COVID-19 patient have a great risk of die if they be men or if they be obese or have complication from diabetes or hypertension , accord to a new study conduct by University of Maryland School of Medicine ( UMSOM ) researcher . “ Patients diagnose with COVID-19 may want to consider take a daily aspirin as long a they check with their doctor first.",
+            "domain": "www.medschool.umaryland.edu",
+            "tokenized": [
+                {
+                    "sent": "Hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin , accord to a new study lead by researcher at the University of Maryland School of Medicine ( UMSOM ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michael Mazzeffi “ We believe that the blood thin effect of aspirin provide benefit for COVID-19 patient by prevent microclot formation , ” say study co-author Michael A. Mazzeffi , MD , Associate Professor of Anesthesiology at UMSOM .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If our finding be confirm , it would make aspirin the first widely available , over-the-counter medication to reduce mortality in COVID-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` While confirmatory study be need to prove that aspirin use lead to well outcome in COVID-19 , the evidence thus far suggest that patient may want to discuss with their doctor whether it be safe for them to take aspirin to potentially prevent serious complication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Aspirin taker be less likely to be place in the intensive care unit ( ICU ) or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin , The study , publish today in the journal Anesthesia and Analgesia , provide “ cautious optimism , ” the researcher say , for an inexpensive , accessible medication with a well-known safety profile that could help prevent severe complication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers at the University of Maryland School of Medicine ( UMSOM ) evaluate several human antibody to determine the most potent combination to be mix in a cocktail and use a a promising anti-viral therapy against the virus that cause COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers at the University of Maryland School of Medicine ( UMSOM ) will be partner on an agreement fund by the federal government ’ s Defense Advanced Research Projects Agency ( DARPA ) to rapidly test hundred of drug , approve and market for other condition , to see whether any can be repurposed to prevent or treat COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher find aspirin use be associate with a 44 percent reduction in the risk of be put on a mechanical ventilator , a 43 percent decrease in the risk of ICU admission and – most importantly – a 47 percent decrease in the risk of die in the hospital compare to those who be not take aspirin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The study demonstrate the rapid process of isolating , test and mass-producing antibody therapy against any infectious disease by use both genetically engineer mouse and plasma from recover COVID-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a study publish in the journal Clinical Infectious Diseases , the researcher evaluate nearly 67,000 hospitalized COVID-19 patient in 613 hospital across the country to determine the link between certain common patient characteristic and the risk of die from COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This study add to the tremendous work our researcher be do in the School of Medicine to help find new treatment against COVID-19 and save patient ’ life , ” say E. Albert Reece , MD , PhD , MBA , Executive Vice President for Medical Affairs , UM Baltimore , and the John Z. and Akiko K. Bowers Distinguished Professor and Dean , University of Maryland School of Medicine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Doctors often recommend a daily low-dose aspirin for patient who have previously have a heart attack or stroke cause by a blood clot to prevent future blood clot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Those at increase bleeding risk due to chronic kidney disease , for example , or because they regularly use certain medication , like steroid or blood thinner , may not be able to safely take aspirin , he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHospitalized COVID-19 patient have a great risk of die if they be men or if they be obese or have complication from diabetes or hypertension , accord to a new study conduct by University of Maryland School of Medicine ( UMSOM ) researcher .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Patients diagnose with COVID-19 may want to consider take a daily aspirin as long a they check with their doctor first.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://elemental.medium.com/aspirin-may-treat-severe-covid-19-disease-and-that-tells-us-something-important-fb486dfe3298",
+            "content": "Together , these anti-clotting and anti-inflammation benefit explain why plain old aspirin be such a widely deploy drug — and also why it may eventually prove helpful in treat Covid-19 . For a study publish on October 21 in the journal Anesthesia and Analgesia , Chow and Mazzeffi — along with a multi-university team of researcher — examine the effect of aspirin among people hospitalize with Covid-19 . Because clot seem to be a signature of severe or damaging Covid-19 disease , Chow and Mazzeffi start to discuss whether aspirin — a blood-thinning drug that can block the formation of clot — could help improve outcome . ”\nThese anti-clotting and anti-inflammation benefit explain why plain old aspirin be such a widely deploy drug — and also why it may eventually prove helpful in treat Covid-19 . Both his research and the aspirin study support the idea that — contrary to early assumption — Covid-19 may be best characterize a a blood-vessel disease . Also , his study didn ’ t look at the effect of aspirin among child with SARS-CoV-2 — a group that already seem to be at low risk for severe Covid-19-related complication . Like the aspirin study that would follow a few month later , Nadkarni ’ s study find that anticoagulant significantly reduce the risk of death among certain group of people with Covid-19 . But Nadkarni say that the idea that a blood-thinning drug like aspirin could protect people from Covid-19 be credible . By mid-summer , autopsy of people who have die from Covid-19 reveal that their vasculature and organ be often suffuse with clot and coagulate blood . Many common and lethal illness — include diabetes , heart disease , and several others that be associate with a heighten risk for severe Covid-19 disease — also promote blood coagulation and clotting , Nadkarni say . “ If someone become ill [ with SARS-CoV-2 ] and their doctor say it ’ s safe for them to take aspirin , I think it ’ s reasonable for them to take it . “ If someone become ill [ with SARS-CoV-2 ] and their doctor say it ’ s safe for them to take aspirin , I think it ’ s reasonable for them to take it , ” Mazzeffi say . But that ’ s turn out to be an oversimplification — especially for those who develop severe Covid-19 disease or symptom that persist long after the initial infection have pass . While aspirin shuts off the clot-forming activity of platelet , anticoagulant drug act on clot factor , which be protein in the blood that help control the rate of bleeding . In July , Nadkarni and colleague publish a study in the Journal of the American College of Cardiology that look at the effect of anticoagulant drug on outcome among hospitalized Covid-19 patient . “ Aspirin and anticoagulant drug both prevent clot , albeit in slightly different way , ” he explain .",
+            "domain": "elemental.medium.com",
+            "tokenized": [
+                {
+                    "sent": "Together , these anti-clotting and anti-inflammation benefit explain why plain old aspirin be such a widely deploy drug — and also why it may eventually prove helpful in treat Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For a study publish on October 21 in the journal Anesthesia and Analgesia , Chow and Mazzeffi — along with a multi-university team of researcher — examine the effect of aspirin among people hospitalize with Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because clot seem to be a signature of severe or damaging Covid-19 disease , Chow and Mazzeffi start to discuss whether aspirin — a blood-thinning drug that can block the formation of clot — could help improve outcome .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThese anti-clotting and anti-inflammation benefit explain why plain old aspirin be such a widely deploy drug — and also why it may eventually prove helpful in treat Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both his research and the aspirin study support the idea that — contrary to early assumption — Covid-19 may be best characterize a a blood-vessel disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Also , his study didn ’ t look at the effect of aspirin among child with SARS-CoV-2 — a group that already seem to be at low risk for severe Covid-19-related complication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Like the aspirin study that would follow a few month later , Nadkarni ’ s study find that anticoagulant significantly reduce the risk of death among certain group of people with Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Nadkarni say that the idea that a blood-thinning drug like aspirin could protect people from Covid-19 be credible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By mid-summer , autopsy of people who have die from Covid-19 reveal that their vasculature and organ be often suffuse with clot and coagulate blood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many common and lethal illness — include diabetes , heart disease , and several others that be associate with a heighten risk for severe Covid-19 disease — also promote blood coagulation and clotting , Nadkarni say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If someone become ill [ with SARS-CoV-2 ] and their doctor say it ’ s safe for them to take aspirin , I think it ’ s reasonable for them to take it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ If someone become ill [ with SARS-CoV-2 ] and their doctor say it ’ s safe for them to take aspirin , I think it ’ s reasonable for them to take it , ” Mazzeffi say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But that ’ s turn out to be an oversimplification — especially for those who develop severe Covid-19 disease or symptom that persist long after the initial infection have pass .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While aspirin shuts off the clot-forming activity of platelet , anticoagulant drug act on clot factor , which be protein in the blood that help control the rate of bleeding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In July , Nadkarni and colleague publish a study in the Journal of the American College of Cardiology that look at the effect of anticoagulant drug on outcome among hospitalized Covid-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Aspirin and anticoagulant drug both prevent clot , albeit in slightly different way , ” he explain .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://baltimore.cbslocal.com/2020/10/22/university-of-maryland-school-of-medicine-study-aspirin-coronavirus-latest/",
+            "content": "BALTIMORE ( WJZ ) — A new landmark study at the University of Maryland School of Medicine find that COVID-19 patient take a daily , low-dose aspirin to protect against cardiovascular disease significantly lower the risk of death and complication from COVID-19 . He add that researcher be cautiously optimistic about the finding of this study , but they still need to finish a randomized control trial to prove that aspirin decrease death in COVID-19 patient . Doctors say because the virus increase the risk of blood clot , it make sense that aspirin would help infected patient . “ When you have a disease like COVID that lead to increase formation of blood clot , and then you have a medication like aspirin which thin your blood and prevents those blood clot from form , it make clinical sense that it would work , ” Dr. Chow say . The study find that COVID-19 patient take aspirin be nearly 50 % less likely to die in the hospital and much less likely to be admit to the ICU and put on a ventilator .",
+            "domain": "baltimore.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "BALTIMORE ( WJZ ) — A new landmark study at the University of Maryland School of Medicine find that COVID-19 patient take a daily , low-dose aspirin to protect against cardiovascular disease significantly lower the risk of death and complication from COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He add that researcher be cautiously optimistic about the finding of this study , but they still need to finish a randomized control trial to prove that aspirin decrease death in COVID-19 patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctors say because the virus increase the risk of blood clot , it make sense that aspirin would help infected patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When you have a disease like COVID that lead to increase formation of blood clot , and then you have a medication like aspirin which thin your blood and prevents those blood clot from form , it make clinical sense that it would work , ” Dr. Chow say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The study find that COVID-19 patient take aspirin be nearly 50 % less likely to die in the hospital and much less likely to be admit to the ICU and put on a ventilator .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://greekcitytimes.com/2020/11/01/aspirin-may-help-covid-19-patients/",
+            "content": "Patients receive aspirin be more likely to have a history of hypertension , type 2 diabetes , coronary heart disease , and kidney disease , and the proportion of those receive treatment for COVID-19 do not differ between group . The study publish in the medical journal Anesthesia & Analgesia claim that aspirin , although a “ simple , affordable and widely available drug , ” have play a beneficial role in the treatment of hospitalized COVID-19 patient , and be likely to reduce the chance of a patient be admit to an intensive care unit ( ICU ) . A recent study by a team of professor from the Medical School of the National and Kapodistrian University of Athens , find that aspirin be associate with reduced risk of intubation and death among patient diagnose with COVID-19 . However , the study clarify that so far there be no scientific proof that COVID-19 mortality rate can be decrease thanks to aspirin , and similarly , the Greek professor emphasize to the public that no research have prove whether aspirin can help prevent or reduce the chance of COVID-19 infection . Additionally , no difference be observe in bleeding or clinically evident thrombosis among those take aspirin and those not , which make aspirin a safe choice – for the most part – for infected patient to use . Out of these patient , 314 do not receive aspirin at all .",
+            "domain": "greekcitytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Patients receive aspirin be more likely to have a history of hypertension , type 2 diabetes , coronary heart disease , and kidney disease , and the proportion of those receive treatment for COVID-19 do not differ between group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The study publish in the medical journal Anesthesia & Analgesia claim that aspirin , although a “ simple , affordable and widely available drug , ” have play a beneficial role in the treatment of hospitalized COVID-19 patient , and be likely to reduce the chance of a patient be admit to an intensive care unit ( ICU ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A recent study by a team of professor from the Medical School of the National and Kapodistrian University of Athens , find that aspirin be associate with reduced risk of intubation and death among patient diagnose with COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , the study clarify that so far there be no scientific proof that COVID-19 mortality rate can be decrease thanks to aspirin , and similarly , the Greek professor emphasize to the public that no research have prove whether aspirin can help prevent or reduce the chance of COVID-19 infection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Additionally , no difference be observe in bleeding or clinically evident thrombosis among those take aspirin and those not , which make aspirin a safe choice – for the most part – for infected patient to use .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Out of these patient , 314 do not receive aspirin at all .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://clinicaltrials.gov/ct2/show/NCT04365309",
+            "content": "In summary , the early use of aspirin in covid-19 patient , which have the effect of inhibit virus replication , anti-platelet aggregation , anti-inflammatory and anti-lung injury , be expect to reduce the incidence of severe and critical patient , shorten the length of hospital duration and reduce the incidence of cardiovascular complication . The early use of aspirin in covid-19 patient , which also have the effect of inhibit virus replication , anti-platelet aggregation , anti-inflammatory and anti-lung injury , be expect to reduce the incidence of severe and critical patient , shorten the length of hospital duration and reduce the incidence of cardiovascular complication . The main cause of death of covid-19 be currently think to be acute respiratory failure , `` immune factor storm '' and coagulation dysfunction cause by lung dysfunction , but heart injury can not be ignore . Aspirin have the triple effect of inhibit virus replication , anticoagulant and anti-inflammatory , but it have not receive attention in the treatment and prevention of NCP . However , one study publish in Immunity in 2014 , have confirm that aspirin can inhibit virus replication by inhibit prostaglandin E2 ( PGE2 ) in macrophage and upregulation of type I interferon production [ 5 ] . Moreover , one study have confirm that aspirin can inhibit virus replication by inhibit prostaglandin E2 ( PGE2 ) in macrophage and upregulation of type I interferon production . In addition , prevention and treatment strategy for myocardial injury in COVID-19 patient have not be put on the agenda . This project be base on important clinical issue , combine with the late international research progress , to explore the early use of aspirin enteric-coated tablet in covid-19 patient on the treatment of covid-19 and the prevention of cardiovascular complication , to contribute to the prevention and control of the epidemic , undoubtedly have important theoretical and application value . A recent article publish in the Lancet by professor Bin Cao 's team from china-japan friendship hospital analyze a total of 41 patient diagnose with covid-19 , include 6 ( 15 % ) patient with hypertension , 6 ( 15 % ) patient with cardiovascular disease , and 5 ( 12 % ) patient with acute myocardial injury after infection [ 1 ] . COVID-19 have a high infection rate and mortality , and serious complication such a heart injury can not be ignore . COVID-19 have a high infection rate and mortality , and serious complication such a heart injury can not be ignore .",
+            "domain": "clinicaltrials.gov",
+            "tokenized": [
+                {
+                    "sent": "In summary , the early use of aspirin in covid-19 patient , which have the effect of inhibit virus replication , anti-platelet aggregation , anti-inflammatory and anti-lung injury , be expect to reduce the incidence of severe and critical patient , shorten the length of hospital duration and reduce the incidence of cardiovascular complication .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The early use of aspirin in covid-19 patient , which also have the effect of inhibit virus replication , anti-platelet aggregation , anti-inflammatory and anti-lung injury , be expect to reduce the incidence of severe and critical patient , shorten the length of hospital duration and reduce the incidence of cardiovascular complication .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The main cause of death of covid-19 be currently think to be acute respiratory failure , `` immune factor storm '' and coagulation dysfunction cause by lung dysfunction , but heart injury can not be ignore .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Aspirin have the triple effect of inhibit virus replication , anticoagulant and anti-inflammatory , but it have not receive attention in the treatment and prevention of NCP .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , one study publish in Immunity in 2014 , have confirm that aspirin can inhibit virus replication by inhibit prostaglandin E2 ( PGE2 ) in macrophage and upregulation of type I interferon production [ 5 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Moreover , one study have confirm that aspirin can inhibit virus replication by inhibit prostaglandin E2 ( PGE2 ) in macrophage and upregulation of type I interferon production .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In addition , prevention and treatment strategy for myocardial injury in COVID-19 patient have not be put on the agenda .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This project be base on important clinical issue , combine with the late international research progress , to explore the early use of aspirin enteric-coated tablet in covid-19 patient on the treatment of covid-19 and the prevention of cardiovascular complication , to contribute to the prevention and control of the epidemic , undoubtedly have important theoretical and application value .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A recent article publish in the Lancet by professor Bin Cao 's team from china-japan friendship hospital analyze a total of 41 patient diagnose with covid-19 , include 6 ( 15 % ) patient with hypertension , 6 ( 15 % ) patient with cardiovascular disease , and 5 ( 12 % ) patient with acute myocardial injury after infection [ 1 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "COVID-19 have a high infection rate and mortality , and serious complication such a heart injury can not be ignore .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "COVID-19 have a high infection rate and mortality , and serious complication such a heart injury can not be ignore .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.healthyfood.com/ask-the-experts/can-taking-aspirin-help-prevent-covid-19-strokes/",
+            "content": "”\nThere be no evidence , yet , that aspirin have any benefit for COVID-19 , but there be evidence daily aspirin can , in some case , cause dangerous bleeding . Dr Selak be an expert on aspirin and wouldn ’ t recommend daily aspirin to prevent possible complication of COVID-19 for two reason :\n“ First , there be no evidence of the benefit of use daily aspirin for COVID-19 . The incidence of stroke in COVID-19 patient be so small , the risk of take aspirin be great than any unproven benefit to the population . Q Would take a daily low-dose aspirin be advisable , to help prevent the chance of stroke in the event of COVID-19 infection ? A US report of unusual blood clotting and severe stroke in a small number of patient with the novel coronavirus have be alarm for some , but self-medicating with daily aspirin be not recommend . aspirin , aspirin for coronavirus , blood clotting , coronavirus , COVID-19 , COVID19 , stroke",
+            "domain": "www.healthyfood.com",
+            "tokenized": [
+                {
+                    "sent": "”\nThere be no evidence , yet , that aspirin have any benefit for COVID-19 , but there be evidence daily aspirin can , in some case , cause dangerous bleeding .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dr Selak be an expert on aspirin and wouldn ’ t recommend daily aspirin to prevent possible complication of COVID-19 for two reason :\n“ First , there be no evidence of the benefit of use daily aspirin for COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The incidence of stroke in COVID-19 patient be so small , the risk of take aspirin be great than any unproven benefit to the population .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Q Would take a daily low-dose aspirin be advisable , to help prevent the chance of stroke in the event of COVID-19 infection ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A US report of unusual blood clotting and severe stroke in a small number of patient with the novel coronavirus have be alarm for some , but self-medicating with daily aspirin be not recommend .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "aspirin , aspirin for coronavirus , blood clotting , coronavirus , COVID-19 , COVID19 , stroke",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/aspirin-to-be-investigated-as-potential-treatment-for-covid-19-11604672055",
+            "content": "Aspirin , the cheap over-the-counter drug , will be investigate a a possible treatment for patient hospitalize with COVID-19 in the world ’ s large study into a range of potential treatment for the disease . Researchers at the University of Maryland School of Medicine ( UMSOM ) find that hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin . The decision to add aspirin to the RECOVERY trial be make by the University of Oxford researcher lead the trial in conjunction with the chief medical officer , follow a recommendation by the UK COVID-19 Therapeutics Advisory Panel . Since aspirin be an antiplatelet agent , it may reduce the risk of blood clot in patient with COVID-19 , the Randomised Evaluation of COVid-19 thERapY ( RECOVERY ) trial say on it website say on Friday . Researchers around the world be test a mix of already available therapy as well a new experimental drug to figure out how to best treat COVID-19 infection . mg dos of aspirin daily and result will be compare with at least 2,000\nwhich be use to treat U.S. President Donald Trump ’ s COVID-19 symptom . “ We be look for medicine for COVID-19 that can be use immediately by anyone , anywhere in the world . It find aspirin taker be less likely to be place in the intensive care unit or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "Aspirin , the cheap over-the-counter drug , will be investigate a a possible treatment for patient hospitalize with COVID-19 in the world ’ s large study into a range of potential treatment for the disease .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Researchers at the University of Maryland School of Medicine ( UMSOM ) find that hospitalized COVID-19 patient who be take a daily low-dose aspirin to protect against cardiovascular disease have a significantly low risk of complication and death compare to those who be not take aspirin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The decision to add aspirin to the RECOVERY trial be make by the University of Oxford researcher lead the trial in conjunction with the chief medical officer , follow a recommendation by the UK COVID-19 Therapeutics Advisory Panel .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since aspirin be an antiplatelet agent , it may reduce the risk of blood clot in patient with COVID-19 , the Randomised Evaluation of COVid-19 thERapY ( RECOVERY ) trial say on it website say on Friday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Researchers around the world be test a mix of already available therapy as well a new experimental drug to figure out how to best treat COVID-19 infection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "mg dos of aspirin daily and result will be compare with at least 2,000\nwhich be use to treat U.S. President Donald Trump ’ s COVID-19 symptom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be look for medicine for COVID-19 that can be use immediately by anyone , anywhere in the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It find aspirin taker be less likely to be place in the intensive care unit or hook up to a mechanical ventilator , and they be more likely to survive the infection compare to hospitalize patient who be not take aspirin .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/uk-health-coronavirus-recovery-aspirin/aspirin-to-be-tested-as-potential-covid-19-drug-in-uk-study-idUSKBN27M1C2",
+            "content": "( Reuters ) - Painkiller aspirin will be evaluate a a possible treatment for COVID-19 in one of Britain ’ s big trial , which will assess whether it might reduce the risk of blood clot in people with the disease . Unlike Gilead ’ s remdesivir , which have be approve a a COVID-19 treatment in the United States but have show poor result in a large World Health Organization trial , aspirin be a generic drug , make it much cheap . It also show that the anti-malarial drug hydroxychloroquine , once tout by Trump , be of no benefit in treat COVID-19 patient . Data from those patient will be compare with at least 2,000 other patient who receive the standard COVID-19 treatment on it own , the website show .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "( Reuters ) - Painkiller aspirin will be evaluate a a possible treatment for COVID-19 in one of Britain ’ s big trial , which will assess whether it might reduce the risk of blood clot in people with the disease .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Unlike Gilead ’ s remdesivir , which have be approve a a COVID-19 treatment in the United States but have show poor result in a large World Health Organization trial , aspirin be a generic drug , make it much cheap .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It also show that the anti-malarial drug hydroxychloroquine , once tout by Trump , be of no benefit in treat COVID-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Data from those patient will be compare with at least 2,000 other patient who receive the standard COVID-19 treatment on it own , the website show .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.healthline.com/health-news/aspirin-may-help-prevent-serious-covid-19-complications-heres-why",
+            "content": "”\n“ There ’ s no question that aspirin be probably one of the more important drug that we have in term of treating and reduce secondary event , ” Dr. Dean Winslow , an infectious disease specialist at Stanford University in California , tell Healthline . All the expert who speak with Healthline emphasize that although the result of this small study be promise and warrant further investigation , aspirin will not be a silver bullet that will protect the population from develop COVID-19 . The researcher also report that those who take aspirin have a 47 percent decrease in risk of die from COVID-19 when compare with those study who be not take a daily dose of aspirin . “ Our analysis suggest that aspirin use may have beneficial effect in patient with COVID-19 , ” the study author write in their study . A daily dose of aspirin may help reduce the risk of serious complication from COVID-19 . “ It have nothing to do , we ’ re sure , with inhibit the virus itself , and that ’ s the phase one of the illness . Winslow say more research be need before aspirin be regularly use in people with COVID-19 . “ The result of our study be intrigue , especially because aspirin have be thoroughly study in chronic cardiovascular disease , have a well-described safety profile , and be readily available throughout the world , ” they add . “ I certainly wouldn ’ t recommend that everybody just start take aspirin , because if you look at people who be otherwise healthy , you may end up with more complication , include gastrointestinal bleeding and other thing like that .",
+            "domain": "www.healthline.com",
+            "tokenized": [
+                {
+                    "sent": "”\n“ There ’ s no question that aspirin be probably one of the more important drug that we have in term of treating and reduce secondary event , ” Dr. Dean Winslow , an infectious disease specialist at Stanford University in California , tell Healthline .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "All the expert who speak with Healthline emphasize that although the result of this small study be promise and warrant further investigation , aspirin will not be a silver bullet that will protect the population from develop COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher also report that those who take aspirin have a 47 percent decrease in risk of die from COVID-19 when compare with those study who be not take a daily dose of aspirin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Our analysis suggest that aspirin use may have beneficial effect in patient with COVID-19 , ” the study author write in their study .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A daily dose of aspirin may help reduce the risk of serious complication from COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ It have nothing to do , we ’ re sure , with inhibit the virus itself , and that ’ s the phase one of the illness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Winslow say more research be need before aspirin be regularly use in people with COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The result of our study be intrigue , especially because aspirin have be thoroughly study in chronic cardiovascular disease , have a well-described safety profile , and be readily available throughout the world , ” they add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I certainly wouldn ’ t recommend that everybody just start take aspirin , because if you look at people who be otherwise healthy , you may end up with more complication , include gastrointestinal bleeding and other thing like that .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/brucelee/2020/10/25/can-aspirin-reduce-risk-of-death-from-covid-19-coronavirus-what-this-study-really-said/",
+            "content": "While the result from this study be encourage , don ’ t go aspire aspirin to be the magical miracle treatment for Covid-19 . Well , a study just publish the journal Anesthesia and Analgesia be suggest that take low-dose aspirin could potentially , possibly , maybe have a benefit when it come to severe Covid-19 coronavirus infection . However , take aspirin win ’ t allow you to skip all those thing that you should be do to prevent the transmission and spread of the Covid-19 coronavirus such a social distancing and wear face mask . As the follow CBS This Morning segment show , study have find that patient with severe Covid-19 may develop blood clot that can cause problem such a stroke :\nThis be where aspirin , otherwise know a acetylsalicylic acid ( ASA ) if you want to use more syllable and vowel , could possibly help . According to a new study , take aspirin may be associate with reduced risk of bad outcome when ... [ + ] you have a severe Covid-19 coronavirus infection . Nevertheless , don ’ t treat aspirin a you would trail mix . That be say , there be reason why aspirin could be helpful when you have more severe Covid-19 , a cover in a publication in the journal Drugs . So routinely give aspirin to patient admit to the hospital for Covid-19 may not be as big a deal . Don ’ t start take aspirin just because you think it can kill the Covid-19 coronavirus .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "While the result from this study be encourage , don ’ t go aspire aspirin to be the magical miracle treatment for Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well , a study just publish the journal Anesthesia and Analgesia be suggest that take low-dose aspirin could potentially , possibly , maybe have a benefit when it come to severe Covid-19 coronavirus infection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , take aspirin win ’ t allow you to skip all those thing that you should be do to prevent the transmission and spread of the Covid-19 coronavirus such a social distancing and wear face mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the follow CBS This Morning segment show , study have find that patient with severe Covid-19 may develop blood clot that can cause problem such a stroke :\nThis be where aspirin , otherwise know a acetylsalicylic acid ( ASA ) if you want to use more syllable and vowel , could possibly help .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "According to a new study , take aspirin may be associate with reduced risk of bad outcome when ... [ + ] you have a severe Covid-19 coronavirus infection .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nevertheless , don ’ t treat aspirin a you would trail mix .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That be say , there be reason why aspirin could be helpful when you have more severe Covid-19 , a cover in a publication in the journal Drugs .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So routinely give aspirin to patient admit to the hospital for Covid-19 may not be as big a deal .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Don ’ t start take aspirin just because you think it can kill the Covid-19 coronavirus .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.news-medical.net/news/20201109/Aspirin-to-be-tested-as-a-potential-COVID-19-treatment-as-part-of-RECOVERY-trial.aspx",
+            "content": "News-Medical speaks to Dr. Keiko Ishii about her research effort during the COVID-19 pandemic and how speaking whilst infect can cause the virus to spread , and why wear mask be so important . Now , in new research , the everyday painkiller aspirin will be evaluate a a potential treatment for COVID-19 in one of the United Kingdom ’ s most significant trial , aim to evaluate whether it can reduce the risk of blood clot in infected people . The researcher note that it might take several month before there be adequate evidence to conclude whether Aspirin could benefit COVID-19 patient .",
+            "domain": "www.news-medical.net",
+            "tokenized": [
+                {
+                    "sent": "News-Medical speaks to Dr. Keiko Ishii about her research effort during the COVID-19 pandemic and how speaking whilst infect can cause the virus to spread , and why wear mask be so important .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , in new research , the everyday painkiller aspirin will be evaluate a a potential treatment for COVID-19 in one of the United Kingdom ’ s most significant trial , aim to evaluate whether it can reduce the risk of blood clot in infected people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The researcher note that it might take several month before there be adequate evidence to conclude whether Aspirin could benefit COVID-19 patient .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.who.int/news-room/commentaries/detail/the-use-of-non-steroidal-anti-inflammatory-drugs-(nsaids)-in-patients-with-covid-19",
+            "content": "All study be concern with acute viral respiratory infection or condition commonly cause by respiratory virus , but none specifically address COVID-19 , SARS , or MERS . At present there be no evidence of severe adverse event , acute health care utilization , long-term survival , or quality of life in patient with COVID-19 , a a result of the use of NSAIDs .",
+            "domain": "www.who.int",
+            "tokenized": [
+                {
+                    "sent": "All study be concern with acute viral respiratory infection or condition commonly cause by respiratory virus , but none specifically address COVID-19 , SARS , or MERS .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At present there be no evidence of severe adverse event , acute health care utilization , long-term survival , or quality of life in patient with COVID-19 , a a result of the use of NSAIDs .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ti.ubc.ca/2020/03/18/acetaminophen-vs-nsaids-during-covid-19-pandemic/",
+            "content": "There be no clear evidence that ibuprofen or other NSAIDs be dangerous in COVID-19 infection , but for various reason acetaminophen/paracetamol be generally the safe alternative to treat symptomatic fever or for mild pain . No scientific evidence that ibuprofen worsens COVID-19 symptom\nHealth Canada be aware of report , include on social medium , that reference safety issue with the use of ibuprofen in COVID-19 case . There be no scientific evidence that establish a link between ibuprofen , or other non-steroidal anti-inflammatory drug ( NSAIDs ) , and the worsening of COVID-19 symptom .",
+            "domain": "www.ti.ubc.ca",
+            "tokenized": [
+                {
+                    "sent": "There be no clear evidence that ibuprofen or other NSAIDs be dangerous in COVID-19 infection , but for various reason acetaminophen/paracetamol be generally the safe alternative to treat symptomatic fever or for mild pain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No scientific evidence that ibuprofen worsens COVID-19 symptom\nHealth Canada be aware of report , include on social medium , that reference safety issue with the use of ibuprofen in COVID-19 case .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be no scientific evidence that establish a link between ibuprofen , or other non-steroidal anti-inflammatory drug ( NSAIDs ) , and the worsening of COVID-19 symptom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nebraskamed.com/patients/covid19/symptoms-treatment",
+            "content": "There be not enough evidence at this time to definitively say nonsteroidal anti-inflammatory medication ( NSAIDs like ibuprofen , aspirin or naproxen ) make COVID-19 symptom bad . It be previously test in human with Ebola and have show promise in animal model for treat MERS and SARS , which be cause by other coronaviruses . The National Institutes of Health ( NIH ) announce the launch of a clinical trial to evaluate the safety and effectiveness of an antiviral to help treat people hospitalize with a COVID-19 infection .",
+            "domain": "www.nebraskamed.com",
+            "tokenized": [
+                {
+                    "sent": "There be not enough evidence at this time to definitively say nonsteroidal anti-inflammatory medication ( NSAIDs like ibuprofen , aspirin or naproxen ) make COVID-19 symptom bad .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be previously test in human with Ebola and have show promise in animal model for treat MERS and SARS , which be cause by other coronaviruses .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The National Institutes of Health ( NIH ) announce the launch of a clinical trial to evaluate the safety and effectiveness of an antiviral to help treat people hospitalize with a COVID-19 infection .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.medpagetoday.com/infectiousdisease/covid19/85422",
+            "content": "This week 's topic include a COVID-19 update , measles outbreak in New York , appropriate oxygenation in people with ARDS , and aspirin and liver cancer .",
+            "domain": "www.medpagetoday.com",
+            "tokenized": [
+                {
+                    "sent": "This week 's topic include a COVID-19 update , measles outbreak in New York , appropriate oxygenation in people with ARDS , and aspirin and liver cancer .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://link.springer.com/article/10.1007/s40265-020-01365-1",
+            "content": "Kwiatkowski S , Borowski D , Kajdi A , Poon LC , Rokita W , Wielgos M. Why we should not stop give aspirin to pregnant woman during the COVID-19 pandemic . COVID-19 and thrombotic or thromboembolic disease : implication for prevention , antithrombotic therapy , and follow-up : JACC State-of-the-Art Review . In patient with COVID-19 , the infectious virus have be document in the respiratory tract , where active viral replication and diffuse alveolar damage occur [ 2 , 3 ] . Empirical multidrug therapeutic approach to treat COVID-19 be currently use with extremely uncertain outcome , and many others be be test in clinical trial . Gavillet M , Rolnik DL , Hoffman MK , Panchaud A , Baud D. Should we stop aspirin prophylaxis in pregnant woman diagnose with COVID-19 ? Due to the similarity between the different coronavirus ( CoV ) -mediated disease , these result might also suggest the presence of increased platelet activity and aggregability in patient with COVID-19 . Currently , there be no specific pharmacological recommendation for the treatment of COVID-19 , though antiviral , immune-modulatory , anti-inflammatory , and antithrombotic agent be currently use and other drug be be test in clinical trial [ 39,40,41,42 ] . Yin P , Zhang L. Aspirin inhibit hepatitis C virus entry by downregulating claudin-1 . Although COVID-19 be generally a mild disease in child and infant , in some case it may manifest in young age group a a multisystem inflammatory syndrome with Kawasaki ’ s disease-like feature ( e.g. Antithrombotic Trialists ' ( ATT ) Collaboration , Baigent C , Blackwell L , Collins R , Emberson J , Godwin J , Peto R , Buring J , Hennekens C , Kearney P , Meade T , Patrono C , Roncaglioni MC , Zanchetti A. Aspirin in the primary and secondary prevention of vascular disease : collaborative meta-analysis of individual participant data from randomised trial . Clerkin KJ , Fried JA , Raikhelkar J , Sayer G , Griffin JM , Masoumi A , Jain SS , Burkhoff D , Kumaraiah D , Rabbani L , Schwartz A , Uriel N. Coronavirus Disease 2019 ( COVID-19 ) and cardiovascular disease .",
+            "domain": "link.springer.com",
+            "tokenized": [
+                {
+                    "sent": "Kwiatkowski S , Borowski D , Kajdi A , Poon LC , Rokita W , Wielgos M. Why we should not stop give aspirin to pregnant woman during the COVID-19 pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "COVID-19 and thrombotic or thromboembolic disease : implication for prevention , antithrombotic therapy , and follow-up : JACC State-of-the-Art Review .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In patient with COVID-19 , the infectious virus have be document in the respiratory tract , where active viral replication and diffuse alveolar damage occur [ 2 , 3 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Empirical multidrug therapeutic approach to treat COVID-19 be currently use with extremely uncertain outcome , and many others be be test in clinical trial .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Gavillet M , Rolnik DL , Hoffman MK , Panchaud A , Baud D. Should we stop aspirin prophylaxis in pregnant woman diagnose with COVID-19 ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Due to the similarity between the different coronavirus ( CoV ) -mediated disease , these result might also suggest the presence of increased platelet activity and aggregability in patient with COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Currently , there be no specific pharmacological recommendation for the treatment of COVID-19 , though antiviral , immune-modulatory , anti-inflammatory , and antithrombotic agent be currently use and other drug be be test in clinical trial [ 39,40,41,42 ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yin P , Zhang L. Aspirin inhibit hepatitis C virus entry by downregulating claudin-1 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Although COVID-19 be generally a mild disease in child and infant , in some case it may manifest in young age group a a multisystem inflammatory syndrome with Kawasaki ’ s disease-like feature ( e.g.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Antithrombotic Trialists ' ( ATT ) Collaboration , Baigent C , Blackwell L , Collins R , Emberson J , Godwin J , Peto R , Buring J , Hennekens C , Kearney P , Meade T , Patrono C , Roncaglioni MC , Zanchetti A. Aspirin in the primary and secondary prevention of vascular disease : collaborative meta-analysis of individual participant data from randomised trial .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Clerkin KJ , Fried JA , Raikhelkar J , Sayer G , Griffin JM , Masoumi A , Jain SS , Burkhoff D , Kumaraiah D , Rabbani L , Schwartz A , Uriel N. Coronavirus Disease 2019 ( COVID-19 ) and cardiovascular disease .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mskcc.org/cancer-care/patient-education/managing-covid-19-home",
+            "content": "These device may spread the virus that cause COVID-19 .",
+            "domain": "www.mskcc.org",
+            "tokenized": [
+                {
+                    "sent": "These device may spread the virus that cause COVID-19 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://news.vumc.org/2020/03/18/ibuprofen-and-covid-19%E2%80%88a-doctors-guidance/",
+            "content": "Following a previous outbreak cause by the SARS-CoV , which erupt in 2002 , investigator make the surprising discovery that one NSAID , call indomethacin , could impair viral replication in the lab and result in enhanced clearance of the virus from infected animal that receive the NSAID compare to those that do not . Mild case of COVID-19 , the illness cause by SARS-CoV-2 , seem to last about two week ; long for more severe symptom . However , because NSAIDs can cause kidney damage and stomach ulceration in some patient , it be a good idea to avoid their use in critically ill patient or sick person who have pre-existing kidney dysfunction or stomach ulcer disease . However , in that study NSAIDs other than indometh-acin , such a aspirin , do not show the same result , suggest a unique feature of indomethacin .",
+            "domain": "news.vumc.org",
+            "tokenized": [
+                {
+                    "sent": "Following a previous outbreak cause by the SARS-CoV , which erupt in 2002 , investigator make the surprising discovery that one NSAID , call indomethacin , could impair viral replication in the lab and result in enhanced clearance of the virus from infected animal that receive the NSAID compare to those that do not .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Mild case of COVID-19 , the illness cause by SARS-CoV-2 , seem to last about two week ; long for more severe symptom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , because NSAIDs can cause kidney damage and stomach ulceration in some patient , it be a good idea to avoid their use in critically ill patient or sick person who have pre-existing kidney dysfunction or stomach ulcer disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , in that study NSAIDs other than indometh-acin , such a aspirin , do not show the same result , suggest a unique feature of indomethacin .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.medrxiv.org/content/10.1101/2020.09.10.20191619v1",
+            "content": "IDEA protocol appear to be a useful alternative to prevent disease progression of COVID-19 when apply to mild case and to decrease mortality in patient at all stage of the disease with a favorable risk-benefit ratio .",
+            "domain": "www.medrxiv.org",
+            "tokenized": [
+                {
+                    "sent": "IDEA protocol appear to be a useful alternative to prevent disease progression of COVID-19 when apply to mild case and to decrease mortality in patient at all stage of the disease with a favorable risk-benefit ratio .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,880 @@
+{
+    "event_id": "245264",
+    "claim": "U.S. President Donald Trump's name will appear on COVID-19 stimulus checks. ",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In April 2020, millions of Americans who lost income due to circumstances related to the COVID-19 pandemic were waiting on promised relief payments from the United States government. So when news broke that U.S. President Donald Trump was making the “unprecedented” move of having his name added to these stimulus checks, a decision that could potentially delay the arrival of these checks by several days, many citizens took to social media to voice their displeasure, as in the example below:\n\nTrump’s name is truly being added to the COVID-19 stimulus checks, otherwise known as Economic Impact Payments. As of this writing, however, officials at the U.S. Treasury Department insist this will not result in any delays. \nThe Washington Post first reported on Trump’s decision on April 14, 2020. According to the news outlet, Trump’s name is expected to appear in the memo line of the check, not as the payment’s official signatory, and that this will be the “first time that a president’s name appears on an IRS disbursement”:\nThe Treasury Department has ordered President Trump’s name printed on stimulus checks the Internal Revenue Service is rushing to send to tens of millions of Americans, a process that could slow their delivery by a few days, senior IRS officials said.\nThe unprecedented decision, finalized late Monday, means that when recipients open the $1,200 paper checks the IRS is scheduled to begin sending to 70 million Americans in coming days, “President Donald J. Trump” will appear on the left side of the payment.\nIt will be the first time a president’s name appears on an IRS disbursement, whether a routine refund or one of the handful of checks the government has issued to taxpayers in recent decades either to stimulate a down economy or share the dividends of a strong one.\nTreasury officials disputed that the checks would be delayed.\nWhile Trump’s name will appear on these stimulus checks, we can’t predict whether these payments will be delayed or go out on time. A Treasury Department official said in a statement that “absolutely no delay whatsoever” would occur: \n“Economic Impact Payment checks are scheduled to go out on time and exactly as planned — there is absolutely no delay whatsoever … In fact, we expect the first checks to be in the mail early next week which is well in advance of when the first checks went out in 2008 and well in advance of initial estimates.”\nIt should also be noted that many Americans will be receiving their stimulus payments via a direct deposit. It’s unclear how many people will receive hard paper checks bearing Trump’s name and how many will receive a digital payment. \nAn IRS official told Fox News that the number of people who will receive paper checks was subject to a “number of variables, including how much info the IRS obtains through the Non-Filers Enter Payment Info web portal and the Get My Payment portal launching [April 15] at IRS.gov.“\nThese Economic Impact Payments were included in the $2.2 trillion stimulus package that Trump signed in late March 2020. According to the IRS, direct-deposit payments had already started going out as of the second week in April. Those waiting on a paper check, however, may not see their payments for several weeks. (If you’re waiting on a payment, you can check the status of your check on a recently launched web app from the IRS.)\nTo sum up: It is true that in April 2020, the U.S. government made the unprecedented move of adding the president’s name to stimulus checks issued by the IRS in response to the COVID-19 pandemic. Although an IRS official said this could slow the process and delay the delivery of checks, Treasury officials insisted that the checks would still go out on schedule. ",
+    "reports": [
+        {
+            "link": "https://www.politico.com/news/2020/12/21/what-to-know-about-stimulus-payments-449749",
+            "content": "President Donald Trump 's name be see on a stimulus check issue earlier this year to help combat the adverse economic effect of the Covid-19 outbreak . One of the big question surround this batch of payment be how quickly they might be distribute , with some wonder if many might not go out until after President Donald Trump have leave office — leave a President Joe Biden to preside over ( and perhaps enjoy credit for ) them .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump 's name be see on a stimulus check issue earlier this year to help combat the adverse economic effect of the Covid-19 outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One of the big question surround this batch of payment be how quickly they might be distribute , with some wonder if many might not go out until after President Donald Trump have leave office — leave a President Joe Biden to preside over ( and perhaps enjoy credit for ) them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbtv.com/2020/04/20/heres-what-stimulus-check-with-trumps-name-it-looks-like/",
+            "content": "WASHINGTON ( CNN ) – The federal government be out with what appear to be a mock-up of the paper stimulus check with President Donald Trump ’ s name on them . This mark the first time in history a president 's name appear on an IRS check .",
+            "domain": "www.wbtv.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( CNN ) – The federal government be out with what appear to be a mock-up of the paper stimulus check with President Donald Trump ’ s name on them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This mark the first time in history a president 's name appear on an IRS check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/14/politics/trump-name-checks-coronavirus/index.html",
+            "content": "( CNN ) President Donald Trump 's name will appear on check send to million of Americans to combat the economic effect of the coronavirus in a last-minute Treasury Department order , a senior administration official confirm to CNN on Tuesday .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) President Donald Trump 's name will appear on check send to million of Americans to combat the economic effect of the coronavirus in a last-minute Treasury Department order , a senior administration official confirm to CNN on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.fox61.com/article/money/trump-name-on-stimulus-checks-irs/520-06ea5d98-1a61-4488-8bff-55d0b23f387a",
+            "content": "Citing senior agency official , the Post report that the word `` President Donald J. Trump '' would appear in the memo line on the left side of the check -- mark the first time a president 's write name be feature on an IRS check . WASHINGTON — President Donald Trump 's name will appear on check send to million of Americans to combat the economic effect of the coronavirus in a last-minute Treasury Department order , a senior administration official confirm to CNN on Tuesday . The plan for Trump 's name to appear on the check have be underway for week , a Treasury official tell the Post . The President 's name will be on all paper check send to people who be receive stimulus payment . The decision to add Trump 's name will not result in a delay for Americans receive those check , the senior administration official say . The two official warn of a delay tell the Post that computer code change and system test be now require to incorporate Trump 's name . Trump have confidentially ask Treasury Secretary Steven Mnuchin if he could officially sign the check , three administration official tell the Post . Trump have previously deny want to sign the check during a briefing earlier this month .",
+            "domain": "www.fox61.com",
+            "tokenized": [
+                {
+                    "sent": "Citing senior agency official , the Post report that the word `` President Donald J. Trump '' would appear in the memo line on the left side of the check -- mark the first time a president 's write name be feature on an IRS check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON — President Donald Trump 's name will appear on check send to million of Americans to combat the economic effect of the coronavirus in a last-minute Treasury Department order , a senior administration official confirm to CNN on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The plan for Trump 's name to appear on the check have be underway for week , a Treasury official tell the Post .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The President 's name will be on all paper check send to people who be receive stimulus payment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The decision to add Trump 's name will not result in a delay for Americans receive those check , the senior administration official say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The two official warn of a delay tell the Post that computer code change and system test be now require to incorporate Trump 's name .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have confidentially ask Treasury Secretary Steven Mnuchin if he could officially sign the check , three administration official tell the Post .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have previously deny want to sign the check during a briefing earlier this month .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.axios.com/coronavirus-stimulus-checks-what-do-they-look-like-7bc96a55-12b8-4a44-bbeb-c40d6ea688c0.html",
+            "content": "The Secret Service provide a first look at the physical coronavirus stimulus check bear President Trump 's name on Monday . It cite Trump 's name a a `` genuine security feature , '' together with watermark and microprinting . The big picture : A Treasury spokesperson tell USA Today that include Trump 's name would not delay delivery of the check . What they 're say : Treasury Secretary Steven Mnuchin tell CNN 's `` State of the Union '' Sunday that it be his idea to put the president 's name on the check .",
+            "domain": "www.axios.com",
+            "tokenized": [
+                {
+                    "sent": "The Secret Service provide a first look at the physical coronavirus stimulus check bear President Trump 's name on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It cite Trump 's name a a `` genuine security feature , '' together with watermark and microprinting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The big picture : A Treasury spokesperson tell USA Today that include Trump 's name would not delay delivery of the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "What they 're say : Treasury Secretary Steven Mnuchin tell CNN 's `` State of the Union '' Sunday that it be his idea to put the president 's name on the check .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wsj.com/articles/trumps-name-will-appear-on-stimulus-paper-checks-11586959563",
+            "content": "WASHINGTON—President Trump ’ s name will appear in the memo line of stimulus check be send to U.S. household over the next few month , accord to an Internal Revenue Service official . President Trump say he doesn ’ t know “ too much about ” why his name be on the stimulus check . The Washington Post first report late Tuesday that the president ’ s name will appear on the check . “ I ’ m sure people will be very happy to get a big , fat , beautiful check , and my name be on it , ” Mr. Trump say at a White House news brief Wednesday evening . The paper check will go to ten of million of household in the month before Mr. Trump appear on the ballot for re-election . The Wall Street Journal report last month that the president be tell people he want his signature on the check .",
+            "domain": "www.wsj.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON—President Trump ’ s name will appear in the memo line of stimulus check be send to U.S. household over the next few month , accord to an Internal Revenue Service official .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Trump say he doesn ’ t know “ too much about ” why his name be on the stimulus check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Washington Post first report late Tuesday that the president ’ s name will appear on the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I ’ m sure people will be very happy to get a big , fat , beautiful check , and my name be on it , ” Mr. Trump say at a White House news brief Wednesday evening .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The paper check will go to ten of million of household in the month before Mr. Trump appear on the ballot for re-election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Wall Street Journal report last month that the president be tell people he want his signature on the check .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/apparently-unprecedented-move-treasury-includes-trumps-coronavirus-stimulus/story?id=70162533",
+            "content": "In a step expert call unprecedented , President Donald Trump ’ s name will appear on the paper stimulus check expect to start be issue via mail “ early next week , ” a Treasury Department spokeswoman confirm to ABC News Wednesday , while deny add his name would delay check from go out . Rudalevige also say that Trump ’ s name on the check could forever tie the president to the coronavirus crisis . `` President Donald J. Trump '' will appear on the memo line in the bottom-left corner of the $ 1,200 check send out to 70 million Americans to help deal with the pandemic , but not his signature . Rep. Raja Krishnamoorthi , the Illinois Democrat who chair the House committee that oversee the IRS , be call on the Treasury Department to officially explain if stimulus check be be delay due to add Trump 's name . While the Washington Post report that add `` President Donald J. Trump '' to the check -- under a line that say `` Economic Impact Payment '' -- will slow the pace of the disbursement , the Treasury spokeswoman tell ABC News , “ Economic Impact Payment check be schedule to go out on time and exactly a planned—there be absolutely no delay whatsoever. Both Kettl and Rudalevige argue that while the president could politically benefit from his name appear on the check , it could also backfire . Donald Kettl , a professor at the LBJ School of Public Affairs at the University of Texas at Austin , tell ABC News that Trump “ just do n't have the legal authority to sign the check . Experts believe it 's the first time a president ’ s name will appear on a payment from the IRS , an agency that have often seek to maintain it independence from partisan politics . Neither Presidents George W. Bush nor Barack Obama put their name on those check . “ Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , ” House Speaker Nancy Pelosi say in a statement respond to news report .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "In a step expert call unprecedented , President Donald Trump ’ s name will appear on the paper stimulus check expect to start be issue via mail “ early next week , ” a Treasury Department spokeswoman confirm to ABC News Wednesday , while deny add his name would delay check from go out .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Rudalevige also say that Trump ’ s name on the check could forever tie the president to the coronavirus crisis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` President Donald J. Trump '' will appear on the memo line in the bottom-left corner of the $ 1,200 check send out to 70 million Americans to help deal with the pandemic , but not his signature .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Rep. Raja Krishnamoorthi , the Illinois Democrat who chair the House committee that oversee the IRS , be call on the Treasury Department to officially explain if stimulus check be be delay due to add Trump 's name .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While the Washington Post report that add `` President Donald J. Trump '' to the check -- under a line that say `` Economic Impact Payment '' -- will slow the pace of the disbursement , the Treasury spokeswoman tell ABC News , “ Economic Impact Payment check be schedule to go out on time and exactly a planned—there be absolutely no delay whatsoever.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Both Kettl and Rudalevige argue that while the president could politically benefit from his name appear on the check , it could also backfire .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Donald Kettl , a professor at the LBJ School of Public Affairs at the University of Texas at Austin , tell ABC News that Trump “ just do n't have the legal authority to sign the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Experts believe it 's the first time a president ’ s name will appear on a payment from the IRS , an agency that have often seek to maintain it independence from partisan politics .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Neither Presidents George W. Bush nor Barack Obama put their name on those check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , ” House Speaker Nancy Pelosi say in a statement respond to news report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/newshour/economy/trumps-name-to-be-printed-on-stimulus-checks",
+            "content": "“ President Donald J. Trump ” will appear on the left side in the memo section of the paper check , the official say . WASHINGTON — President Donald Trump ’ s name will be print on the stimulus check that the Internal Revenue Service will be send to ten of million of Americans around the country , in an unprecedented move finalize this week , two administration official say Wednesday . It would be the first time a president ’ s name appear on an IRS check , annual refund check or other stimulus check distribute by the government . Earlier this month , Trump deny want to sign the check when he be ask about publish report state the opposite .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "“ President Donald J. Trump ” will appear on the left side in the memo section of the paper check , the official say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON — President Donald Trump ’ s name will be print on the stimulus check that the Internal Revenue Service will be send to ten of million of Americans around the country , in an unprecedented move finalize this week , two administration official say Wednesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It would be the first time a president ’ s name appear on an IRS check , annual refund check or other stimulus check distribute by the government .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Earlier this month , Trump deny want to sign the check when he be ask about publish report state the opposite .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/04/14/us/politics/stimulus-check-trump-signature.html",
+            "content": "WASHINGTON — President Trump ’ s name will appear on the economic stimulus check that will be mail to million of Americans in the coming week , the Treasury Department confirm on Tuesday . The president ’ s name will appear in the “ memo ” section of the check because Mr. Trump be not legally authorize to sign such disbursement . The decision to have President Trump ’ s name appear on the check be a break in protocol . A memo that House Democrats draft after the briefing make no mention of Mr. Trump ’ s name appear on the paper check . The decision to have Mr. Trump ’ s name on the check , a break in protocol , be make by the Treasury Department after Mr. Trump suggest the idea to Steven Mnuchin , the Treasury secretary , accord to a department official . ”\nSenator Ron Wyden of Oregon , the top Democrat on the Finance Committee , criticize the Trump administration ’ s move to include the president ’ s name on the relief money . “ Donald Trump be further delay cash payment to million of Americans struggle to pay the rent and put food on the table to fee his ego , ” Mr. Wyden say .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Trump ’ s name will appear on the economic stimulus check that will be mail to million of Americans in the coming week , the Treasury Department confirm on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president ’ s name will appear in the “ memo ” section of the check because Mr. Trump be not legally authorize to sign such disbursement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The decision to have President Trump ’ s name appear on the check be a break in protocol .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A memo that House Democrats draft after the briefing make no mention of Mr. Trump ’ s name appear on the paper check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The decision to have Mr. Trump ’ s name on the check , a break in protocol , be make by the Treasury Department after Mr. Trump suggest the idea to Steven Mnuchin , the Treasury secretary , accord to a department official .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nSenator Ron Wyden of Oregon , the top Democrat on the Finance Committee , criticize the Trump administration ’ s move to include the president ’ s name on the relief money .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Donald Trump be further delay cash payment to million of Americans struggle to pay the rent and put food on the table to fee his ego , ” Mr. Wyden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/8eafb90e92a676278a5644a2b72b734c",
+            "content": "”\nTwo administration official tell The Associated Press that “ President Donald J. Trump ” will appear on the left side in the memo section of the check . WASHINGTON ( AP ) — President Donald Trump ’ s name will be print on the stimulus check that the IRS will be send to ten of million of Americans around the country , an unprecedented move finalize this week . The Washington Post , which first report that Trump ’ s name would appear on the check , say the name would be below a line that read , “ Economic Impact Payment . It mark the first time a president ’ s name have appear on any IRS payment , whether refund check or other stimulus check that have be mail during past economic crisis . “ I ’ m sure people will be very happy to get a big , fat , beautiful check and my name be on it , ” Trump say before cut off the reporter from ask a follow-up question . Treasury say that the decision to add Trump ’ s name will not delay issuance of the paper check , which will be mail to people who be not set up to receive direct deposit payment from the IRS . Earlier this month , Trump deny want to sign the check when he be ask about publish report state the opposite .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nTwo administration official tell The Associated Press that “ President Donald J. Trump ” will appear on the left side in the memo section of the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON ( AP ) — President Donald Trump ’ s name will be print on the stimulus check that the IRS will be send to ten of million of Americans around the country , an unprecedented move finalize this week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Washington Post , which first report that Trump ’ s name would appear on the check , say the name would be below a line that read , “ Economic Impact Payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It mark the first time a president ’ s name have appear on any IRS payment , whether refund check or other stimulus check that have be mail during past economic crisis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ m sure people will be very happy to get a big , fat , beautiful check and my name be on it , ” Trump say before cut off the reporter from ask a follow-up question .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Treasury say that the decision to add Trump ’ s name will not delay issuance of the paper check , which will be mail to people who be not set up to receive direct deposit payment from the IRS .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Earlier this month , Trump deny want to sign the check when he be ask about publish report state the opposite .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2020-05-03/is-donald-trumps-name-on-stimulus-checks-worth-arguing-about-utak",
+            "content": "I ’ m go to spell it out for the Oceanside reader who brush off perceived worry -- his word -- about stimulus check bear the name of Donald J. Trump . ”\nThe issue here be that our President Donald Trump have 1,000 other thing to worry about during this pandemic , but rather than pay attention to them , he demand that extra time and money be waste print up check with his name on them . It ’ s simply be note that our self-centered president want check recipient to connect his name with government munificence .",
+            "domain": "www.sandiegouniontribune.com",
+            "tokenized": [
+                {
+                    "sent": "I ’ m go to spell it out for the Oceanside reader who brush off perceived worry -- his word -- about stimulus check bear the name of Donald J. Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe issue here be that our President Donald Trump have 1,000 other thing to worry about during this pandemic , but rather than pay attention to them , he demand that extra time and money be waste print up check with his name on them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s simply be note that our self-centered president want check recipient to connect his name with government munificence .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/2020/04/15/835105999/report-adding-trumps-name-to-checks-will-delay-them-irs-says-they-re-on-schedule",
+            "content": "The agency 's statement come after The Washington Post report that President Trump 's name would be include on the check , an unprecedented step . However , the statement do not reference the Post 's story or the inclusion of Trump 's name on the check .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "The agency 's statement come after The Washington Post report that President Trump 's name would be include on the check , an unprecedented step .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , the statement do not reference the Post 's story or the inclusion of Trump 's name on the check .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/04/19/mnuchin-idea-add-trump-name-coronavirus-rescue-checks/5161835002/",
+            "content": "WASHINGTON – Last week , President Donald Trump 's critic decry an unprecedented move to add his name to the $ 1,200 relief check send to taxpayer a part of the more than $ 2 trillion coronavirus rescue package . Unprecedented : Trump 's name to be print on $ 1,200 coronavirus stimulus check go out to Americans\nThe Post report that the addition of Trump 's name slow the check go out , but a Treasury Department spokeswoman say in a statement , `` There be absolutely no delay whatsoever . '' `` We do put the president 's name on the check , '' Mnuchin tell CNN 's `` State of the Union . '' Trump 's printed name be on the memo line on the left side of the check because he be not authorize to sign Treasury Department check . During a White House news conference Wednesday , Trump say he `` do n't know too much about '' his name be add to the check . The Washington Post , which first report the story , say Trump ask Treasury Secretary Steven Mnuchin to add his signature to the check . Last week , House Speaker Nancy Pelosi , D-Calif. , say include the president 's name on the check be '' another shameful example of President Trump 's catastrophic failure to treat this crisis with the urgency it demand . ''",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON – Last week , President Donald Trump 's critic decry an unprecedented move to add his name to the $ 1,200 relief check send to taxpayer a part of the more than $ 2 trillion coronavirus rescue package .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Unprecedented : Trump 's name to be print on $ 1,200 coronavirus stimulus check go out to Americans\nThe Post report that the addition of Trump 's name slow the check go out , but a Treasury Department spokeswoman say in a statement , `` There be absolutely no delay whatsoever . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` We do put the president 's name on the check , '' Mnuchin tell CNN 's `` State of the Union . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump 's printed name be on the memo line on the left side of the check because he be not authorize to sign Treasury Department check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "During a White House news conference Wednesday , Trump say he `` do n't know too much about '' his name be add to the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Washington Post , which first report the story , say Trump ask Treasury Secretary Steven Mnuchin to add his signature to the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last week , House Speaker Nancy Pelosi , D-Calif. , say include the president 's name on the check be '' another shameful example of President Trump 's catastrophic failure to treat this crisis with the urgency it demand . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/10/07/trump-calls-for-congress-to-approve-second-1200-stimulus-checks.html",
+            "content": "President Donald Trump be call for Congress to move on approve a second round $ 1,200 stimulus check to million of Americans . One key reason : Pelosi and the Democrats be not likely to approve check with Trump 's name on them right before the election , he say .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump be call for Congress to move on approve a second round $ 1,200 stimulus check to million of Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One key reason : Pelosi and the Democrats be not likely to approve check with Trump 's name on them right before the election , he say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.voanews.com/usa/us-politics/3-top-lawyers-say-trump-name-stimulus-checks-may-be-illegal",
+            "content": "Three of the country ’ s best-known lawyer be ask the U.S. Justice Department to investigate whether President Donald Trump break the law when the Treasury Department put his name on coronavirus relief check for Americans . ”\nTreasury Secretary Steven Mnuchin say it be his idea to put Trump ’ s name on the check . “ President Trump be actively seek re-election . The signature of President Trump on United States Treasury check be superfluous to their value , legality or authenticity . “ It do serve Mr. Trump ’ s 2020 re-election campaign by make it appear that he be responsible for a monetary windfall to ten of million of voter . Some congressional Democrats call the Trump signature a political stunt , while Republicans say they agree with the president in believe it ’ s no big deal .",
+            "domain": "www.voanews.com",
+            "tokenized": [
+                {
+                    "sent": "Three of the country ’ s best-known lawyer be ask the U.S. Justice Department to investigate whether President Donald Trump break the law when the Treasury Department put his name on coronavirus relief check for Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTreasury Secretary Steven Mnuchin say it be his idea to put Trump ’ s name on the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ President Trump be actively seek re-election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The signature of President Trump on United States Treasury check be superfluous to their value , legality or authenticity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It do serve Mr. Trump ’ s 2020 re-election campaign by make it appear that he be responsible for a monetary windfall to ten of million of voter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Some congressional Democrats call the Trump signature a political stunt , while Republicans say they agree with the president in believe it ’ s no big deal .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://finance.yahoo.com/news/how-trumps-name-on-coronavirus-stimulus-checks-could-become-a-2020-campaign-issue-180201780.html",
+            "content": "On Tuesday night , the Washington Post publish a story that have be bubble for week : The Trump administration be order that the president ’ s name appear on the memo line of the paper coronavirus stimulus check set to be distribute soon . ”\nCoronavirus stimulus check : Trump signature scramble could delay first batch\nCoronavirus stimulus check : New IRS tool track your payment — but it 's down for many\nAid and stimulus guide for U.S. individual and business\n( Bloomberg ) -- The U.K. government sell part of it stake in NatWest Group Plc for 1.13 billion pound ( $ 1.6 billion ) , reduce it holding for the first time in almost three years.The Treasury sell 590.7 million share to the bank at the closing price of 190.50 penny on Thursday , accord to a statement Friday . Speaking about Americans in precarious financial situation , Sen. Gary Peters ( D-MI ) tell Yahoo Finance in an interview that “ I hope they realize the reason that the check be go to take so long for them to get be because President Trump want his name on it . ”\nOn April 3 , Trump be ask if he want to sign the stimulus check himself . U.S. President Joe Biden 's $ 1.9 trillion COVID Relief Bill have pass congress and stimulus check be soon to be distribute . So Trump be delay the stimulus check so his signature can be print on each one . In addition to question about the appropriateness of the president ’ s name appear on the check , Democrats be focus on how any disbursement glitch will play with average voter .",
+            "domain": "finance.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "On Tuesday night , the Washington Post publish a story that have be bubble for week : The Trump administration be order that the president ’ s name appear on the memo line of the paper coronavirus stimulus check set to be distribute soon .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nCoronavirus stimulus check : Trump signature scramble could delay first batch\nCoronavirus stimulus check : New IRS tool track your payment — but it 's down for many\nAid and stimulus guide for U.S. individual and business\n( Bloomberg ) -- The U.K. government sell part of it stake in NatWest Group Plc for 1.13 billion pound ( $ 1.6 billion ) , reduce it holding for the first time in almost three years.The Treasury sell 590.7 million share to the bank at the closing price of 190.50 penny on Thursday , accord to a statement Friday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Speaking about Americans in precarious financial situation , Sen. Gary Peters ( D-MI ) tell Yahoo Finance in an interview that “ I hope they realize the reason that the check be go to take so long for them to get be because President Trump want his name on it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nOn April 3 , Trump be ask if he want to sign the stimulus check himself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "U.S. President Joe Biden 's $ 1.9 trillion COVID Relief Bill have pass congress and stimulus check be soon to be distribute .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "So Trump be delay the stimulus check so his signature can be print on each one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In addition to question about the appropriateness of the president ’ s name appear on the check , Democrats be focus on how any disbursement glitch will play with average voter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/04/27/schumer-no-pr-act-trump-coroavirus-check-signature/3031735001/",
+            "content": "'It 's a terrific symbol ' : Mnuchin take credit for add Trump 's name to coronavirus stimulus check\nThe Treasury Department insist there be `` absolutely no delay whatsoever '' in get out the check , which include up to $ 1,200 per American taxpayer a part of a $ 2 trillion stimulus package pass in March known a the CARES Act . Senate Minority Leader Chuck Schumer be not pleased that President Donald Trump 's name will appear on stimulus check be send out to million of Americans – and he be plan to put forward legislation to stop it from happen again . That statement come after The Washington Post – which first report Trump 's name would be include on the check – cite senior IRS official who believe add the president 's moniker be sure to slow the process down . Trump tell reporter he `` do n't know too much about '' his name be add to the check but he be `` sure people will be very happy to get a big , fat , beautiful check , and my name be on it . '' Because Trump be not authorize to endorse check from the Treasury , his name be be add to the memo line of the check . `` President Trump unfortunately appear to see the pandemic a just another opportunity to promote his own political interest . The Post report that Trump have urge Mnuchin to let him sign the check , but last week Mnuchin tell CNN it have be his initiative . The No Politics in Pandemic Recovery Act , or No PR Act , propose by Schumer would prohibit the use of any taxpayer fund `` for any publicity or promotional activity that include the name , likeness , or signature '' of Trump or Vice President Mike Pence .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "'It 's a terrific symbol ' : Mnuchin take credit for add Trump 's name to coronavirus stimulus check\nThe Treasury Department insist there be `` absolutely no delay whatsoever '' in get out the check , which include up to $ 1,200 per American taxpayer a part of a $ 2 trillion stimulus package pass in March known a the CARES Act .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Senate Minority Leader Chuck Schumer be not pleased that President Donald Trump 's name will appear on stimulus check be send out to million of Americans – and he be plan to put forward legislation to stop it from happen again .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That statement come after The Washington Post – which first report Trump 's name would be include on the check – cite senior IRS official who believe add the president 's moniker be sure to slow the process down .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump tell reporter he `` do n't know too much about '' his name be add to the check but he be `` sure people will be very happy to get a big , fat , beautiful check , and my name be on it . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Because Trump be not authorize to endorse check from the Treasury , his name be be add to the memo line of the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` President Trump unfortunately appear to see the pandemic a just another opportunity to promote his own political interest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Post report that Trump have urge Mnuchin to let him sign the check , but last week Mnuchin tell CNN it have be his initiative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The No Politics in Pandemic Recovery Act , or No PR Act , propose by Schumer would prohibit the use of any taxpayer fund `` for any publicity or promotional activity that include the name , likeness , or signature '' of Trump or Vice President Mike Pence .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/04/15/trumps-name-printed-on-coronavirus-stimulus-checks/5135921002/",
+            "content": "Asked about his name appear on the check , Trump say Wednesday he do n't think it 's a `` big deal . '' The Treasury Department confirm to USA TODAY on Wednesday that Trump 's name would be on the check , but claim that affix it would not delay delivery of the payment . WASHINGTON – When Americans receive their anxiously await check from the federal government , which be be send out to help mitigate the economic hardship cause by the coronavirus outbreak , they may notice the word `` President Donald J. Trump '' have be add at the bottom . Rather than endorse the check with his signature , the president 's name will appear on the memo line of the check , the Treasury Department confirm . Trump 's name will not appear on any of those deposit . Trump suggest to Treasury Secretary Steve Mnuchin the idea of add his signature to the $ 1,200 paper check , and the department agree Monday to add his print name ( but not his actual autograph ) . `` So Trump be delay the stimulus check so his signature can be print on each one . Warren endorse Biden : Elizabeth Warren endorse Joe Biden for president\nThis will mark the first time that a president 's name have be print on a stimulus check , Elke Asen , a policy analyst for the nonprofit Tax Foundation tell USA TODAY . Trump be hold it up so he can add his signature on the check . When ask at an April 3 news conference if he be consider it , Trump say , `` There 's million of check . Walter Dillinger , a law professor emeritus at Duke University and former head of the Office of Legal Counsel under President say Trump 's `` unnecessary , unwarranted , unprecedented '' addition of his name be a misuse of `` government resource for personal , political gain . '' Trump have previously deny wanting to add his signature to the check . The decision to add the president 's name to the check be deride a self-serving and politically motivate by congressional Democrats , most of whom vote to approve the $ 2.2 trillion rescue package that include the direct payment to taxpayer . : Here 's a new way to find out\n`` Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , '' House Speaker Nancy Pelosi , D-Calif. , say in a statement . CARES check : Not everyone be get a $ 1,200 coronavirus stimulus check .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Asked about his name appear on the check , Trump say Wednesday he do n't think it 's a `` big deal . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Treasury Department confirm to USA TODAY on Wednesday that Trump 's name would be on the check , but claim that affix it would not delay delivery of the payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "WASHINGTON – When Americans receive their anxiously await check from the federal government , which be be send out to help mitigate the economic hardship cause by the coronavirus outbreak , they may notice the word `` President Donald J. Trump '' have be add at the bottom .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Rather than endorse the check with his signature , the president 's name will appear on the memo line of the check , the Treasury Department confirm .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's name will not appear on any of those deposit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump suggest to Treasury Secretary Steve Mnuchin the idea of add his signature to the $ 1,200 paper check , and the department agree Monday to add his print name ( but not his actual autograph ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` So Trump be delay the stimulus check so his signature can be print on each one .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Warren endorse Biden : Elizabeth Warren endorse Joe Biden for president\nThis will mark the first time that a president 's name have be print on a stimulus check , Elke Asen , a policy analyst for the nonprofit Tax Foundation tell USA TODAY .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be hold it up so he can add his signature on the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask at an April 3 news conference if he be consider it , Trump say , `` There 's million of check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Walter Dillinger , a law professor emeritus at Duke University and former head of the Office of Legal Counsel under President say Trump 's `` unnecessary , unwarranted , unprecedented '' addition of his name be a misuse of `` government resource for personal , political gain . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have previously deny wanting to add his signature to the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The decision to add the president 's name to the check be deride a self-serving and politically motivate by congressional Democrats , most of whom vote to approve the $ 2.2 trillion rescue package that include the direct payment to taxpayer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": ": Here 's a new way to find out\n`` Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , '' House Speaker Nancy Pelosi , D-Calif. , say in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "CARES check : Not everyone be get a $ 1,200 coronavirus stimulus check .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/arielshapiro/2020/04/19/mnuchin-says-putting-trumps-name-on-stimulus-irs-checks-was-his-idea/",
+            "content": "Treasury Secretary Steven Mnuchin take credit for put President Donald Trump ’ s name on stimulus check , a widely-criticized decision that reportedly could delay their distribution . US Secretary of the Treasury Steve Mnuchin speaks while US president Donald Trump listen during the ... [ + ] daily brief on the novel coronavirus , COVID-19 , in the Brady Briefing Room at the White House on April 2 , 2020 , in Washington , DC . Mnuchin say in a Sunday interview with CNN ’ s Jake Tapper that the check have not go out yet because the administration be encourage Americans to sign up for direct deposit on the IRS website , not because of the choice to put Trump ’ s name on the check . The Treasury Secretary note that Trump could have be authorize to sign each individual check , but choose not to for fear of slow down the process . Trump ’ s name aside , there have be other problem distribute the relief funding . ( Photo by MANDEL NGAN / AFP ) ( Photo by MANDEL NGAN/AFP via Getty Images )\nA Washington Post report on Tuesday say that the $ 1,200 check could be delay because of the additional step the IRS would have to take to print the president ’ s name on them .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "Treasury Secretary Steven Mnuchin take credit for put President Donald Trump ’ s name on stimulus check , a widely-criticized decision that reportedly could delay their distribution .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "US Secretary of the Treasury Steve Mnuchin speaks while US president Donald Trump listen during the ... [ + ] daily brief on the novel coronavirus , COVID-19 , in the Brady Briefing Room at the White House on April 2 , 2020 , in Washington , DC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mnuchin say in a Sunday interview with CNN ’ s Jake Tapper that the check have not go out yet because the administration be encourage Americans to sign up for direct deposit on the IRS website , not because of the choice to put Trump ’ s name on the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Treasury Secretary note that Trump could have be authorize to sign each individual check , but choose not to for fear of slow down the process .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump ’ s name aside , there have be other problem distribute the relief funding .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Photo by MANDEL NGAN / AFP ) ( Photo by MANDEL NGAN/AFP via Getty Images )\nA Washington Post report on Tuesday say that the $ 1,200 check could be delay because of the additional step the IRS would have to take to print the president ’ s name on them .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/coming-to-your-1200-relief-check-donald-j-trumps-name/2020/04/14/071016c2-7e82-11ea-8013-1b6da0e4a2b7_story.html",
+            "content": "The unprecedented decision , finalize late Monday , mean that when recipient open the $ 1,200 paper check the IRS be schedule to begin send to 70 million Americans in coming day , “ President Donald J. Trump ” will appear on the left side of the payment . While some people receive the check — the centerpiece of the U.S. government ’ s economic relief package to stave of the effect of the coronavirus pandemic — may not care , or observe , whose name appear on them , the decision be another sign of Trump ’ s effort to cast his response to the pandemic in political term . The check will instead bear Trump ’ s name in the memo line , below a line that read , “ Economic Impact Payment , ” the administration official say . The decision to have the paper check bear Trump ’ s name , in the work for week , accord to a Treasury official , be announce early Tuesday to the IRS ’ s information technology team . The Treasury Department have order President Trump ’ s name print on stimulus check the Internal Revenue Service be rush to send to ten of million of Americans , a process that could slow their delivery by a few day , senior IRS official say . The check to individual taxpayer be not originally Trump ’ s idea , but he embrace them after Sens . Those payment do not include Trump ’ s name . ”\nHouse Speaker Nancy Pelosi ( D-Calif. ) have dismiss suggestion about Trump sign check or have his name attach . But to critic and some IRS employee , many of whom start to learn of the decision on Tuesday , the presence of Trump ’ s name on the check reek of partisanship in a corner of the government that touch all Americans and have , since the Nixon era , steadfastly steer clear of politics .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The unprecedented decision , finalize late Monday , mean that when recipient open the $ 1,200 paper check the IRS be schedule to begin send to 70 million Americans in coming day , “ President Donald J. Trump ” will appear on the left side of the payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While some people receive the check — the centerpiece of the U.S. government ’ s economic relief package to stave of the effect of the coronavirus pandemic — may not care , or observe , whose name appear on them , the decision be another sign of Trump ’ s effort to cast his response to the pandemic in political term .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The check will instead bear Trump ’ s name in the memo line , below a line that read , “ Economic Impact Payment , ” the administration official say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The decision to have the paper check bear Trump ’ s name , in the work for week , accord to a Treasury official , be announce early Tuesday to the IRS ’ s information technology team .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Treasury Department have order President Trump ’ s name print on stimulus check the Internal Revenue Service be rush to send to ten of million of Americans , a process that could slow their delivery by a few day , senior IRS official say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The check to individual taxpayer be not originally Trump ’ s idea , but he embrace them after Sens .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those payment do not include Trump ’ s name .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHouse Speaker Nancy Pelosi ( D-Calif. ) have dismiss suggestion about Trump sign check or have his name attach .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But to critic and some IRS employee , many of whom start to learn of the decision on Tuesday , the presence of Trump ’ s name on the check reek of partisanship in a corner of the government that touch all Americans and have , since the Nixon era , steadfastly steer clear of politics .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/these-lawyers-say-donald-j-trumps-name-should-not-be-on-stimulus-checks/2020/04/29/086ac1bc-88cc-11ea-9759-6d20ba0f2c0e_story.html",
+            "content": "”\nTrump deny he want his name on stimulus check . Trump ’ s print name or his signature “ on the CARES check in the middle of his 2020 presidential campaign , ” the lawyer write , “ be a prominent symbol that benefit his re-election by make it appear that he have alleviate the financial plight of ten of million of voter . After Treasury Secretary Steven Mnuchin tell CNN it be his idea to put Trump ’ s name on the check , Sen. Ron Wyden ( Ore. ) , the top Democrat on the Senate Finance Committee , ask in a letter to Mnuchin whether “ the decision to gratuitously affix the president ’ s name . ”\nTrump ’ s name , not his signature , be print on the low left side of the check . Is President Trump guilty of a crime because he have his name on the coronavirus relief check ? ”\nRein report that “ Trump have privately suggest to Treasury Secretary Steven Mnuchin , who oversee the IRS , that he allow the president to formally sign the check . Directing a “ Treasury employee to place [ Trump ’ s name ] on Cares check for the purpose of affect the 2020 presidential election , ” Fein say , be a violation of federal law that prohibit the “ use of official authority or influence for the purpose . The signature of President Trump on United States Treasury check be superfluous to their value , legality , or authenticity . “ President Trump be actively seek re-election . ”\nNader , Fisher and Fein request a special counsel to investigate Trump ’ s name on the check because it would be a conflict for Barr ’ s staff to investigate his bos . “ President Trump unfortunately appear to see the pandemic a just another opportunity to promote his own political interest , ” Schumer say in a statement . Trump should be investigate , their letter say , “ for allegedly command a federal employee to engage in political activity , the unprecedented , gratuitous placement of Mr. Trump ’ s signature on the memo line of ten of million of United States Treasury check disburse to eligible citizen under the Coronavirus Aid , Relief , and Economic Security Act ( CARES ) . “ It do serve Mr. Trump ’ s 2020 re-election campaign by make it appear that he be responsible for a monetary windfall to ten of million of voter .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "”\nTrump deny he want his name on stimulus check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump ’ s print name or his signature “ on the CARES check in the middle of his 2020 presidential campaign , ” the lawyer write , “ be a prominent symbol that benefit his re-election by make it appear that he have alleviate the financial plight of ten of million of voter .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After Treasury Secretary Steven Mnuchin tell CNN it be his idea to put Trump ’ s name on the check , Sen. Ron Wyden ( Ore. ) , the top Democrat on the Senate Finance Committee , ask in a letter to Mnuchin whether “ the decision to gratuitously affix the president ’ s name .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTrump ’ s name , not his signature , be print on the low left side of the check .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Is President Trump guilty of a crime because he have his name on the coronavirus relief check ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nRein report that “ Trump have privately suggest to Treasury Secretary Steven Mnuchin , who oversee the IRS , that he allow the president to formally sign the check .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Directing a “ Treasury employee to place [ Trump ’ s name ] on Cares check for the purpose of affect the 2020 presidential election , ” Fein say , be a violation of federal law that prohibit the “ use of official authority or influence for the purpose .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The signature of President Trump on United States Treasury check be superfluous to their value , legality , or authenticity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ President Trump be actively seek re-election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nNader , Fisher and Fein request a special counsel to investigate Trump ’ s name on the check because it would be a conflict for Barr ’ s staff to investigate his bos .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ President Trump unfortunately appear to see the pandemic a just another opportunity to promote his own political interest , ” Schumer say in a statement .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump should be investigate , their letter say , “ for allegedly command a federal employee to engage in political activity , the unprecedented , gratuitous placement of Mr. Trump ’ s signature on the memo line of ten of million of United States Treasury check disburse to eligible citizen under the Coronavirus Aid , Relief , and Economic Security Act ( CARES ) .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ It do serve Mr. Trump ’ s 2020 re-election campaign by make it appear that he be responsible for a monetary windfall to ten of million of voter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/administration/493606-mnuchin-says-it-was-his-idea-to-put-trumps-name-on-stimulus-checks-a",
+            "content": "“ We do put the president 's name on the check , ” he say during an appearance on CNN ’ s “ State of The Union , ” add : “ That be my idea . Trump be the first president to have his name appear on disbursement from the IRS . Treasury Secretary Steven MnuchinSteven MnuchinYellen provide signature for paper currency Biden 's name will not appear on stimulus check , White House say Newsmax anchor Greg Kelly to host New York radio show MORE say on Sunday that it be his idea to put President TrumpDonald TrumpIllinois House pass resolution condemn state rep. for 'standing with insurrectionist ' Florida Democrats call for election redo after former state senator allegedly tamper with race Biden and Harris discuss vote right with Stacey Abrams in Atlanta MORE's name on the stimulus check be send to Americans during the coronavirus pandemic . Trump also deny know `` too much about ” the decision to have his name print on the paper check during a briefing last week . However , during his appearance on CNN on Sunday , Mnuchin say that Trump `` could have be authorize to sign the check . '' The story have also report that two senior agency official with the IRS have claim the move to print Trump ’ s name on the check would cause delay for some payment . Question : `` Did the president personally suggest [ his name on stimulus check ] ? ”\nEarlier this month , Trump brush off report that he have be interested in sign the stimulus check be send to Americans , say then at a press briefing : `` Me sign ?",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "“ We do put the president 's name on the check , ” he say during an appearance on CNN ’ s “ State of The Union , ” add : “ That be my idea .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump be the first president to have his name appear on disbursement from the IRS .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Treasury Secretary Steven MnuchinSteven MnuchinYellen provide signature for paper currency Biden 's name will not appear on stimulus check , White House say Newsmax anchor Greg Kelly to host New York radio show MORE say on Sunday that it be his idea to put President TrumpDonald TrumpIllinois House pass resolution condemn state rep. for 'standing with insurrectionist ' Florida Democrats call for election redo after former state senator allegedly tamper with race Biden and Harris discuss vote right with Stacey Abrams in Atlanta MORE's name on the stimulus check be send to Americans during the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump also deny know `` too much about ” the decision to have his name print on the paper check during a briefing last week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "However , during his appearance on CNN on Sunday , Mnuchin say that Trump `` could have be authorize to sign the check . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The story have also report that two senior agency official with the IRS have claim the move to print Trump ’ s name on the check would cause delay for some payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Question : `` Did the president personally suggest [ his name on stimulus check ] ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nEarlier this month , Trump brush off report that he have be interested in sign the stimulus check be send to Americans , say then at a press briefing : `` Me sign ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/policy-and-politics/2020/4/15/21222046/trump-name-stimulus-checks-delays",
+            "content": "In order to add Trump ’ s name — which will appear in typeface rather than a a signature give the check be from the Treasury rather than from the president — the code in the IRS ’ s computer must be tweak and subsequently test . Between the multiple Trump Towers , Trump Plazas , Trump International Resorts , and the now-defunct Trump Steaks , it ’ s clear President Donald Trump have a penchant for put his name on thing . The Treasury Department on Monday order that Trump ’ s name appear on the paper check be rush to million of people by the IRS . They argue this move be a blatantly political attempt to tie the president to the popular stimulus check , even though Trump have initially push for a payroll tax cut rather than direct stimulus . Trump have long argue that put his name on thing be important branding , remark on a tour of George Washington ’ s estate early in his presidency , “ You ’ ve get to put your name on stuff . Regardless of whether the stimulus will work or if Congress will need to authorize more spending , Trump seem determine to grab whatever political credit come from it . As a result , the president ’ s name will appear in the memo line , just below a note say “ Economic Impact Payment , ” accord to administration official . “ Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , ” she say in a statement Wednesday . The president reportedly initially push to have his name appear on the signature line ; however , president be not authorized signer for legal disbursement from the Treasury Department .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "In order to add Trump ’ s name — which will appear in typeface rather than a a signature give the check be from the Treasury rather than from the president — the code in the IRS ’ s computer must be tweak and subsequently test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Between the multiple Trump Towers , Trump Plazas , Trump International Resorts , and the now-defunct Trump Steaks , it ’ s clear President Donald Trump have a penchant for put his name on thing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Treasury Department on Monday order that Trump ’ s name appear on the paper check be rush to million of people by the IRS .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They argue this move be a blatantly political attempt to tie the president to the popular stimulus check , even though Trump have initially push for a payroll tax cut rather than direct stimulus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump have long argue that put his name on thing be important branding , remark on a tour of George Washington ’ s estate early in his presidency , “ You ’ ve get to put your name on stuff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Regardless of whether the stimulus will work or if Congress will need to authorize more spending , Trump seem determine to grab whatever political credit come from it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As a result , the president ’ s name will appear in the memo line , just below a note say “ Economic Impact Payment , ” accord to administration official .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Delaying direct payment to vulnerable family just to print his name on the check be another shameful example of President Trump ’ s catastrophic failure to treat this crisis with the urgency it demand , ” she say in a statement Wednesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president reportedly initially push to have his name appear on the signature line ; however , president be not authorized signer for legal disbursement from the Treasury Department .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-usa-checks/trumps-name-to-be-on-stimulus-checks-going-to-americans-washington-post-idUSKCN21X079",
+            "content": "WASHINGTON ( Reuters ) - The U.S. Treasury Department have order President Donald Trump ’ s name to be print on check the Internal Revenue Service be plan to send to ten of million of Americans , a decision that will slow their delivery by several day , the Washington Post report on Tuesday . Citing unnamed administration official , the Post say the $ 1,200 check to be send a part of a $ 2.3 trillion package enact last month to cushion the economic blow from the novel coronavirus outbreak will “ bear Trump ’ s name in the memo line , below a line that read , ‘ Economic Impact Payment . ’ ”\nThe Post say the decision to include Trump ’ s name be announce to the IRS information technology team on Tuesday .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - The U.S. Treasury Department have order President Donald Trump ’ s name to be print on check the Internal Revenue Service be plan to send to ten of million of Americans , a decision that will slow their delivery by several day , the Washington Post report on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Citing unnamed administration official , the Post say the $ 1,200 check to be send a part of a $ 2.3 trillion package enact last month to cushion the economic blow from the novel coronavirus outbreak will “ bear Trump ’ s name in the memo line , below a line that read , ‘ Economic Impact Payment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "’ ”\nThe Post say the decision to include Trump ’ s name be announce to the IRS information technology team on Tuesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.taxpolicycenter.org/taxvox/did-adding-trumps-name-slow-down-mailing-stimulus-checks-course-it-did",
+            "content": "Did the Treasury Department ’ s decision to put President Trump ’ s name on the coronavirus stimulus check slow the mailing of those check ? The decision surround Trump ’ s name trigger a series of time-consuming step .",
+            "domain": "www.taxpolicycenter.org",
+            "tokenized": [
+                {
+                    "sent": "Did the Treasury Department ’ s decision to put President Trump ’ s name on the coronavirus stimulus check slow the mailing of those check ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The decision surround Trump ’ s name trigger a series of time-consuming step .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,691 @@
+{
+    "event_id": "242574",
+    "claim": "Former President Barack Obama's administration was to blame for the shortage of protective equipment like N95 respirator masks in the early months of the 2020 COVID-19 pandemic.",
+    "original_label": "mixture",
+    "label": "half",
+    "explain": "In late March 2020, amid a widening COVID-19 pandemic, U.S. President Donald Trump sought to blame previous administrations for the fact that frontline medical workers facing a spike in cases were reporting urgent shortages in personal protective equipment (PPE), notably N95 respirator masks that filter out particles in the air.\n“So, many administrations preceded me. For the most part, they did very little, in terms of what you’re talking about,” Trump stated during a March 21 press conference when asked by a reporter about protective medical gear shortages.\nRight-leaning media outlets followed suit, focusing the blame more narrowly on the administration of former President Barack Obama in particular. “Report: Obama Admin Depleted Stockpile of N95 Masks, Never Restored,” a Breitbart.com headline read. “Los Angeles Times and Bloomberg News: Federal stockpile of N95 masks was depleted under Obama and never restocked,” Washington Examiner reported. Readers asked Snopes.com to verify the claim that the Obama administration was directly responsible for the shortage of equipment.\nThe reports on pro-Trump websites relied on selectively culled facts from other sources to weave a somewhat misleading narrative. It’s true that both Bloomberg and Los Angeles Times, for example, reported that the national stockpile of N95 masks was largely depleted under the Obama administration during the swine flu epidemic, and that the depletion was not corrected.\nFrom the Times’ report on March 20, 2020:\nAfter the swine flu epidemic in 2009, a safety-equipment industry association and a federally sponsored task force both recommended that depleted supplies of N95 respirator masks, which filter out airborne particles, be replenished by the stockpile, which is maintained by the U.S. Department of Health and Human Services.\nThat didn’t happen, according to Charles Johnson, president of the International Safety Equipment Assn.\nBut both the Times and Bloomberg pointed out that Congress and the Trump administration bore some responsibility for the current medical equipment shortages as well.\nBloomberg reported that Trump’s Secretary of Health and Human Services Alex Azar told Congress in February 2020 that the Strategic National Stockpile (SNS), a reserve of emergency medical supplies, contained “30 million surgical masks and 12 million of the more protective N95 masks. He said there were an additional 5 million N95 masks that may have passed their expiration date” in the stockpile, which at that time had not yet been tapped to deal with COVID-19. \nBut as far back as 2015, government scientists had estimated that “a severe flu outbreak infecting 20 to 30 percent of the population would require at least 1.7 billion of the N95 respirators.” The SNS didn’t have that quantity on hand, even before the swine flu broke out (in 2009 the SNS distributed 85 million N95 respirators).\nThe Times also reported that the Trump administration, which is currently in its third year, ignored alarms raised by various government agencies early on that the U.S. was not prepared for a pandemic:\nAs the current crisis has widened, President Trump has attempted to deflect responsibility for his administration’s poor planning, suggesting the coronavirus outbreak was inconceivable.\n“Nobody knew there would be a pandemic or epidemic of this proportion,” the president said Thursday.\nThe opposite is true. The [Government Accountability Office], public health experts and others issued a steady drumbeat of warnings that America would sooner or later face a widespread infectious disease outbreak or a major bioterrorism attack and was woefully unprepared.\nIn both 2018 and 2019, U.S. intelligence agencies issued insistent warnings in their annual Worldwide Threat Assessment.\n“We assess that the United States and the world will remain vulnerable to the next flu pandemic or large-scale outbreak of a contagious disease that could lead to massive rates of death and disability, severely affect the world economy, strain international resources, and increase calls on the United States for support,” the 2019 report noted.\nIt’s true, as reported by Bloomberg and the Los Angeles Times, and the partisan websites that borrowed from their reporting, that the supply of protective masks in the Strategic National Stockpile was largely depleted during the Obama administration, which then failed to restock the supply. But it’s also true that the Trump administration ignored indications that the SNS remained understocked and the country was ill-prepared for a pandemic in the years leading up to the COVID-19 outbreak.\nThe claim that the Obama administration “caused” or was solely responsible for the current shortage of medical equipment such as N95 protective face masks omits that wider context. We therefore rate this claim “Mixture.”",
+    "reports": [
+        {
+            "link": "https://nypost.com/2020/05/14/trump-officials-blame-mask-shortage-on-obama-h1n1-response/",
+            "content": "WASHINGTON — Senior Trump administration official on Thursday blame a shortfall of N95 mask early in the coronavirus pandemic on mismanagement after the 2009 swine flu pandemic under former President Barack Obama . He work at the agency since 2010 and acknowledge to lawmaker that for year , include each year of Obama ’ s administration , there be too few protective mask for a pandemic . “ We understand America would face a shortage of N95 respirator for pandemic response in 2007 . Bright say he be fire last month after resist pressure to boost use of hydroxychloroquine to alleviate COVID-19 symptom , though in his testimony he allege a broad failure to prepare by the Trump administration . It be [ evaluate ] even as late as early a 2019 — August , in [ virus simulation ] Crimson Contagion — that we would need 3.5 billion N95 respirator in our stockpile to protect our health care worker from a pandemic , ” he say . Bright say when he warn federal health official about a possible shortage of mask early in the coronavirus outbreak , “ they indicate if we notice there be a shortage that we will simply change the CDC guideline to well inform people who should not be wear those mask so that would save those mass for health care workers. Pushing back specifically on N95 mask , which filter 95 percent of particle from the air , a senior administration official tell reporter the federal stockpile shortfall date to a failure to replenish supply after H1N1 , echo Trump ’ s frequent contention that he inherit bare shelf three year ago . ” Early in the pandemic , official include Surgeon General Jerome Adams claim mask be ineffective at prevent the public from catch the virus . Testifying before the health subcommittee of the House Committee on Energy and Commerce , Bright charge that the US Department of Health and Human Services act too slowly on the crisis , include by not buy more N95 mask . “ I watch him , and he look like an angry , disgruntled employee , who , frankly , accord to some people , didn ’ t do a very good job , ” Trump tell reporter at the White House a he depart for a tour of a mask distribution center in Pennsylvania . “ So even our doctor and nurse in the hospital today be wear N95-marked mask from other country that be not provide the sufficient protection that a US standard N95 mask would provide them .",
+            "domain": "nypost.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — Senior Trump administration official on Thursday blame a shortfall of N95 mask early in the coronavirus pandemic on mismanagement after the 2009 swine flu pandemic under former President Barack Obama .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He work at the agency since 2010 and acknowledge to lawmaker that for year , include each year of Obama ’ s administration , there be too few protective mask for a pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We understand America would face a shortage of N95 respirator for pandemic response in 2007 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bright say he be fire last month after resist pressure to boost use of hydroxychloroquine to alleviate COVID-19 symptom , though in his testimony he allege a broad failure to prepare by the Trump administration .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It be [ evaluate ] even as late as early a 2019 — August , in [ virus simulation ] Crimson Contagion — that we would need 3.5 billion N95 respirator in our stockpile to protect our health care worker from a pandemic , ” he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Bright say when he warn federal health official about a possible shortage of mask early in the coronavirus outbreak , “ they indicate if we notice there be a shortage that we will simply change the CDC guideline to well inform people who should not be wear those mask so that would save those mass for health care workers.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pushing back specifically on N95 mask , which filter 95 percent of particle from the air , a senior administration official tell reporter the federal stockpile shortfall date to a failure to replenish supply after H1N1 , echo Trump ’ s frequent contention that he inherit bare shelf three year ago .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Early in the pandemic , official include Surgeon General Jerome Adams claim mask be ineffective at prevent the public from catch the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Testifying before the health subcommittee of the House Committee on Energy and Commerce , Bright charge that the US Department of Health and Human Services act too slowly on the crisis , include by not buy more N95 mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I watch him , and he look like an angry , disgruntled employee , who , frankly , accord to some people , didn ’ t do a very good job , ” Trump tell reporter at the White House a he depart for a tour of a mask distribution center in Pennsylvania .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ So even our doctor and nurse in the hospital today be wear N95-marked mask from other country that be not provide the sufficient protection that a US standard N95 mask would provide them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/US/biden-obama-reunite-socially-distanced-conversation-slam-trumps/story?id=71914983",
+            "content": "Showcasing the online campaign tactic that be likely to dominate the final month of the 2020 presidential race , former Vice President Joe Biden and his old bos , former President Barack Obama team up for a socially distant conversation to discuss the ongoing COVID-19 pandemic , the step they believe need to be take to right the American economy and the nationwide push for racial justice in the wake of the death of George Floyd . An aide to the former president say that while the bulk of Obama ’ s campaigning , both on the presidential level and down the ballot , be expect to happen after Labor Day , the video with Biden be a way to take advantage of the chemistry between the two men in a way that still model best behavior to stop the spread of COVID-19 , which continue to rage in many state across the country . Without mention him by name , President Obama take aim at his successor ’ s handling of the current coronavirus pandemic while express his optimism that his former vice president could help the country recover if elect . The in-person discussion , film last week at the Obama Foundation ’ s office in Washington , D.C. feature both Obama and Biden clad in black face mask a they arrive for the conversation , a the two discuss their incredulity at President Donald Trump 's handling of coronavirus . The pair also discuss their administration ’ s signature legislation , the Affordable Care Act ( ACA ) , lament the president ’ s attempt to do away with the law during the coronavirus pandemic , and defend their work a a starting point for health care coverage in the United States .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Showcasing the online campaign tactic that be likely to dominate the final month of the 2020 presidential race , former Vice President Joe Biden and his old bos , former President Barack Obama team up for a socially distant conversation to discuss the ongoing COVID-19 pandemic , the step they believe need to be take to right the American economy and the nationwide push for racial justice in the wake of the death of George Floyd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An aide to the former president say that while the bulk of Obama ’ s campaigning , both on the presidential level and down the ballot , be expect to happen after Labor Day , the video with Biden be a way to take advantage of the chemistry between the two men in a way that still model best behavior to stop the spread of COVID-19 , which continue to rage in many state across the country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Without mention him by name , President Obama take aim at his successor ’ s handling of the current coronavirus pandemic while express his optimism that his former vice president could help the country recover if elect .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The in-person discussion , film last week at the Obama Foundation ’ s office in Washington , D.C. feature both Obama and Biden clad in black face mask a they arrive for the conversation , a the two discuss their incredulity at President Donald Trump 's handling of coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The pair also discuss their administration ’ s signature legislation , the Affordable Care Act ( ACA ) , lament the president ’ s attempt to do away with the law during the coronavirus pandemic , and defend their work a a starting point for health care coverage in the United States .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/policy-and-politics/2020/3/27/21194402/coronavirus-masks-n95-respirators-personal-protective-equipment-ppe",
+            "content": "As of early this month , the US have 12 million N95 respirator and 30 million surgical mask in it Strategic National Stockpile — which official acknowledge be just 1 percent of what the country need in a full-blown pandemic . While work in President Barack Obama ’ s administration at the time , Konyndyk quickly realize that America — and much of the world — be simply not ready for a major disease outbreak . If the US be well prepare for pandemic , it could have avoid the shortage of mask and other protective gear . ”\nHealth care professional and expert say we now have a shortage of mask , gown , glove , and other personal protective equipment ( PPE ) for doctor , nurse , and other medical staff . ”\nDespite recent government action , expert and medical professional warn that the protective equipment shortage be far from resolve . It ’ s these concern that lead the Obama administration , after the Ebola outbreak , to attempt to scale up preparedness by establish a White House office dedicate solely to the issue and produce a 69-page playbook in case of an outbreak . The risk be big : If those health care worker get sick and be unable to care for people , more patient be likely go to suffer and die — and not just from Covid-19 , but just about any other medical issue , from heart attack to car crash , that we ’ ll need health care worker for in the next few month . Doctors and nurse be now cry out for mask and other personal protective equipment a they ’ re force to wear bandana and scarf for mask , trash bag for gown , and reuse all sort of medical equipment — heighten the risk of coronavirus infection and possibly death a we all rely on these health care worker now more than ever to stem the outbreak . “ Every serious look at US pandemic readiness and global pandemic readiness have identify PPE shortage a a major issue , ” Jeremy Konyndyk , senior policy fellow at the Center for Global Development , tell me . ”\nThe Trump administration could have start to do more in January when it become clear that Covid-19 could pose a threat to the entire world . The result , now , be a shortage that not only threaten doctor , nurse , and other medical professional at the front line of the coronavirus pandemic , but also put u all at serious risk , since we ’ re rely on these same health care worker to literally save u if we get sick . ”\nAnd in hospital , the lack of preparedness translates to a shortage of mask , gown , and other PPE , among other problem . As health care facility expect bed to overflow in the next few week of the pandemic , the shortage threaten to undermine how many doctor and nurse will be there to treat patient .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "As of early this month , the US have 12 million N95 respirator and 30 million surgical mask in it Strategic National Stockpile — which official acknowledge be just 1 percent of what the country need in a full-blown pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "While work in President Barack Obama ’ s administration at the time , Konyndyk quickly realize that America — and much of the world — be simply not ready for a major disease outbreak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If the US be well prepare for pandemic , it could have avoid the shortage of mask and other protective gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHealth care professional and expert say we now have a shortage of mask , gown , glove , and other personal protective equipment ( PPE ) for doctor , nurse , and other medical staff .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDespite recent government action , expert and medical professional warn that the protective equipment shortage be far from resolve .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s these concern that lead the Obama administration , after the Ebola outbreak , to attempt to scale up preparedness by establish a White House office dedicate solely to the issue and produce a 69-page playbook in case of an outbreak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The risk be big : If those health care worker get sick and be unable to care for people , more patient be likely go to suffer and die — and not just from Covid-19 , but just about any other medical issue , from heart attack to car crash , that we ’ ll need health care worker for in the next few month .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Doctors and nurse be now cry out for mask and other personal protective equipment a they ’ re force to wear bandana and scarf for mask , trash bag for gown , and reuse all sort of medical equipment — heighten the risk of coronavirus infection and possibly death a we all rely on these health care worker now more than ever to stem the outbreak .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Every serious look at US pandemic readiness and global pandemic readiness have identify PPE shortage a a major issue , ” Jeremy Konyndyk , senior policy fellow at the Center for Global Development , tell me .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe Trump administration could have start to do more in January when it become clear that Covid-19 could pose a threat to the entire world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The result , now , be a shortage that not only threaten doctor , nurse , and other medical professional at the front line of the coronavirus pandemic , but also put u all at serious risk , since we ’ re rely on these same health care worker to literally save u if we get sick .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAnd in hospital , the lack of preparedness translates to a shortage of mask , gown , and other PPE , among other problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As health care facility expect bed to overflow in the next few week of the pandemic , the shortage threaten to undermine how many doctor and nurse will be there to treat patient .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/live/2020/may/17/coronavirus-us-live-donald-trump-barack-obama-criticism-speech-covid-19-response-latest-news-updates",
+            "content": "Donald Trump have give his first public response to Barack Obama ’ s criticism of the current administration ’ s handling of the Covid-19 pandemic . Democratic House speaker Nancy Pelosi be rather more measured than Barack Obama when she give a commencement speech at Smith College on Saturday , although she do reference the Covid-19 pandemic . Peter Navarro , a top economic adviser to Donald Trump , have criticize Barack Obama after the former president say the country be suffer from a vacuum of leadership on the coronavirus crisis . The simple fact be that President Trump ignore the threat of the coronavirus for month and have mishandle the response at every step since — destroy the strong economy he inherit from the Obama-Biden administration and lead to countless unnecessary death . In a speech bill a an address to graduate on Saturday , Obama say “ more than anything , this pandemic have fully , finally tear back the curtain that so many of the folk in charge know what they ’ re do . An uptick in racist attack against Asian Americans in the United States have coincide with the Trump administration ’ s message blame China for Covid-19 . It be rare for a former president to rebuke a successor , but Obama do so during an online speech to graduate yesterday , although he do not name Trump . ”\nNavarro respond that Obama ’ s administration “ be a kumbaya of incompetence ” . Shkreli call the pharmaceutical industry ’ s response to the pandemic ‘ inadequate ’ and claim that his background a a successful two-time biopharma entrepreneur would make him a valuable asset in the Covid-19 fight .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Donald Trump have give his first public response to Barack Obama ’ s criticism of the current administration ’ s handling of the Covid-19 pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Democratic House speaker Nancy Pelosi be rather more measured than Barack Obama when she give a commencement speech at Smith College on Saturday , although she do reference the Covid-19 pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Peter Navarro , a top economic adviser to Donald Trump , have criticize Barack Obama after the former president say the country be suffer from a vacuum of leadership on the coronavirus crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The simple fact be that President Trump ignore the threat of the coronavirus for month and have mishandle the response at every step since — destroy the strong economy he inherit from the Obama-Biden administration and lead to countless unnecessary death .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a speech bill a an address to graduate on Saturday , Obama say “ more than anything , this pandemic have fully , finally tear back the curtain that so many of the folk in charge know what they ’ re do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "An uptick in racist attack against Asian Americans in the United States have coincide with the Trump administration ’ s message blame China for Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be rare for a former president to rebuke a successor , but Obama do so during an online speech to graduate yesterday , although he do not name Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nNavarro respond that Obama ’ s administration “ be a kumbaya of incompetence ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Shkreli call the pharmaceutical industry ’ s response to the pandemic ‘ inadequate ’ and claim that his background a a successful two-time biopharma entrepreneur would make him a valuable asset in the Covid-19 fight .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/a-tricky-balance-obama-seeks-to-inform-and-reassure-the-public-on-coronavirus-while-avoiding-confrontation-with-trump/2020/03/31/e1f12b7a-7368-11ea-87da-77a8136c1a6d_story.html",
+            "content": "For week , former president Barack Obama have choose not to respond to the taunt a President Trump seek to deflect responsibility for the widespread coronavirus outbreak in the United States by shift some blame to his predecessor . This month , Trump deflect criticism of his handling of the pandemic by criticize Obama and Biden for their response to the H1N1 virus in 2009 and falsely accuse their administration of impose burdensome regulation on the ability of private industry to create virus test kit . “ As much a former president Obama have an enormous microphone and people still look to hear what he have to say , he also , especially at a time of global crisis , do not want to create a moment that ’ s perceive a political — a battle between a former Democratic president and a sitting Republican president , even if President Trump be completely mishandle this . People close to Obama , who speak on the condition of anonymity to describe his view , say he also make clear he be not interested in get suck into a political catfight with Trump , leave it to his former aide — most prominently Ron Klain , who serve a Ebola czar in the Obama administration — to parry Trump ’ s partisan attack and correct the public record over misinformation put out by the Trump White House . Linking to a news article about the Trump administration ’ s rollback of Obama-era rule to curb auto emission , Obama add : “ We can ’ t afford any more consequence of climate denial . Obama have mount public defense against the Trump administration ’ s bid to unwind the Affordable Care Act , the Paris climate accord , the Iran nuclear deal and a deferred action program for young undocumented immigrant . sarcastically suggest that Obama be call for “ the overwhelming electoral defeat of Joe Biden & Nancy Pelosi ” — the Democratic presidential delegate leader and Democratic House speaker — because they “ opposed & demagogued Trump ’ s China travel ban , which help slow the coronavirus pandemic . ”\nThough people close to the 44th president say the political nature of his message be aim at hold a broad group of Republican politician accountable for dismiss climate science , Obama ’ s decision to step into the political arena amid the lethal spread of the novel coronavirus represent a slight shift in his strategy over the past several week in which he have focus on play a more neutral public role . ”\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair . On Monday , Obama tweet a link to a local news story about 7-year-old Zohaib Begg of Loudoun County , Va. , who have win praise for collect donation from hotel of shower cap , glove and face mask that could be use a protective gear by medical worker .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "For week , former president Barack Obama have choose not to respond to the taunt a President Trump seek to deflect responsibility for the widespread coronavirus outbreak in the United States by shift some blame to his predecessor .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This month , Trump deflect criticism of his handling of the pandemic by criticize Obama and Biden for their response to the H1N1 virus in 2009 and falsely accuse their administration of impose burdensome regulation on the ability of private industry to create virus test kit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ As much a former president Obama have an enormous microphone and people still look to hear what he have to say , he also , especially at a time of global crisis , do not want to create a moment that ’ s perceive a political — a battle between a former Democratic president and a sitting Republican president , even if President Trump be completely mishandle this .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "People close to Obama , who speak on the condition of anonymity to describe his view , say he also make clear he be not interested in get suck into a political catfight with Trump , leave it to his former aide — most prominently Ron Klain , who serve a Ebola czar in the Obama administration — to parry Trump ’ s partisan attack and correct the public record over misinformation put out by the Trump White House .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Linking to a news article about the Trump administration ’ s rollback of Obama-era rule to curb auto emission , Obama add : “ We can ’ t afford any more consequence of climate denial .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Obama have mount public defense against the Trump administration ’ s bid to unwind the Affordable Care Act , the Paris climate accord , the Iran nuclear deal and a deferred action program for young undocumented immigrant .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "sarcastically suggest that Obama be call for “ the overwhelming electoral defeat of Joe Biden & Nancy Pelosi ” — the Democratic presidential delegate leader and Democratic House speaker — because they “ opposed & demagogued Trump ’ s China travel ban , which help slow the coronavirus pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThough people close to the 44th president say the political nature of his message be aim at hold a broad group of Republican politician accountable for dismiss climate science , Obama ’ s decision to step into the political arena amid the lethal spread of the novel coronavirus represent a slight shift in his strategy over the past several week in which he have focus on play a more neutral public role .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Monday , Obama tweet a link to a local news story about 7-year-old Zohaib Begg of Loudoun County , Va. , who have win praise for collect donation from hotel of shower cap , glove and face mask that could be use a protective gear by medical worker .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2020/05/16/coronavirus-update-us/",
+            "content": "Meanwhile , former president Barack Obama speak at two virtual commencement ceremony on Saturday and say the nation ’ s leader bungle their handling of the pandemic , accuse them of not “ even pretend ” to be in charge . But Obama ’ s comment echoed criticism of the Trump administration that the former president level last month in a video endorsement of former vice president Joe Biden . “ More than anything , this pandemic have fully , finally tear back the curtain on the idea that so many of the folk in charge know what they ’ re do , ” Obama tell college and university graduate on Saturday . The black community here , like African American community in city nationwide , be be hit especially hard by the novel coronavirus pandemic .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Meanwhile , former president Barack Obama speak at two virtual commencement ceremony on Saturday and say the nation ’ s leader bungle their handling of the pandemic , accuse them of not “ even pretend ” to be in charge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Obama ’ s comment echoed criticism of the Trump administration that the former president level last month in a video endorsement of former vice president Joe Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ More than anything , this pandemic have fully , finally tear back the curtain on the idea that so many of the folk in charge know what they ’ re do , ” Obama tell college and university graduate on Saturday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The black community here , like African American community in city nationwide , be be hit especially hard by the novel coronavirus pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/investigations/federal-government-spent-millions-to-ramp-up-mask-readiness-but-that-isnt-helping-now/2020/04/03/d62dda5c-74fa-11ea-a9bd-9f8b593300d0_story.html",
+            "content": "In September 2018 , the Trump administration receive detailed plan for a new machine design to churn out million of protective respirator mask at high speed during a pandemic . The inside story of the CPAC scare : When the coronavirus pass within a handshake of the president , no public health agency take charge\nFace mask in national stockpile of medical equipment have not be substantially replenish since 2009\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair . “ Given the potential duration of a pandemic , even stepped-up production and stockpiling of disposable medical mask and N95 respirator may not be sufficient to meet demand , ” the committee warn . The Obama administration and medical firm Halyard Health of Alpharetta , Ga. , announce the project to develop a rapid pandemic mask production line in December 2015 . Medical personnel tackle the coronavirus outbreak have say that because of shortage , they have have no choice but to reuse their conventional N95 mask , a practice that manufacturer warn could diminish the mask ’ effectiveness . Face mask in national medical supply stockpile be not sufficiently replenish since 2009\nWhen the pandemic mask project launch in 2015 , Halyard be face legal action over some of it protective medical gear . The project be one of two N95 mask venture — total $ 9.8 million — that the federal government embark on over the past five year to good prepare for pandemic . In September 2017 , the Trump administration contract with Applied Research Associates of Albuquerque to create a prototype of a “ next-generation respirator , ” a the mask be call , that could be sanitize and reuse during public health emergency . “ The Halyard contract be part of an explicit strategy to ensure we could surge mask production in the next crisis , ” say Nicole Lurie , who be the HHS assistant secretary for preparedness and response under Barack Obama . “ Pandemic preparedness in the United States be imperative to protect health and save life , and respirator manufacturing capacity remain a critical gap in that preparedness , ” Robin Robinson , then the director of BARDA , say in a statement at the time . Inside America ’ s mask crunch : A slow government reaction and an industry wary of liability\n“ Unfortunately , if the pandemic would have happen next year , we ’ d have be in much good shape , ” say Brian Heimbuch , principal investigator on the project for Applied Research Associates . Officials have long assume that a public health emergency would one day create a huge demand for the respirator mask know a N95s . Brief mention in HHS budget request to Congress for 2020 and 2021 note the department be “ support effort at Halyard Health to develop high-speed manufacturing for surge production ” of N95 mask . ”\nAmid the current crisis , the design remain under consideration , accord to the spokesperson , who say , “ Implementing this design along with use of more proven mask manufacturing technique be be consider by a supply chain task force to reduce N95 shortage .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "In September 2018 , the Trump administration receive detailed plan for a new machine design to churn out million of protective respirator mask at high speed during a pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The inside story of the CPAC scare : When the coronavirus pass within a handshake of the president , no public health agency take charge\nFace mask in national stockpile of medical equipment have not be substantially replenish since 2009\nA pandemic year : How future generation will judge humanity ’ s performance against the coronavirus | What it felt like to lose time — and all other thing coronavirus take away | A viral tsunami : How the underestimated coronavirus take over the world | Sorrow and stamen , defiance and despair .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ Given the potential duration of a pandemic , even stepped-up production and stockpiling of disposable medical mask and N95 respirator may not be sufficient to meet demand , ” the committee warn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Obama administration and medical firm Halyard Health of Alpharetta , Ga. , announce the project to develop a rapid pandemic mask production line in December 2015 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Medical personnel tackle the coronavirus outbreak have say that because of shortage , they have have no choice but to reuse their conventional N95 mask , a practice that manufacturer warn could diminish the mask ’ effectiveness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Face mask in national medical supply stockpile be not sufficiently replenish since 2009\nWhen the pandemic mask project launch in 2015 , Halyard be face legal action over some of it protective medical gear .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The project be one of two N95 mask venture — total $ 9.8 million — that the federal government embark on over the past five year to good prepare for pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In September 2017 , the Trump administration contract with Applied Research Associates of Albuquerque to create a prototype of a “ next-generation respirator , ” a the mask be call , that could be sanitize and reuse during public health emergency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The Halyard contract be part of an explicit strategy to ensure we could surge mask production in the next crisis , ” say Nicole Lurie , who be the HHS assistant secretary for preparedness and response under Barack Obama .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Pandemic preparedness in the United States be imperative to protect health and save life , and respirator manufacturing capacity remain a critical gap in that preparedness , ” Robin Robinson , then the director of BARDA , say in a statement at the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Inside America ’ s mask crunch : A slow government reaction and an industry wary of liability\n“ Unfortunately , if the pandemic would have happen next year , we ’ d have be in much good shape , ” say Brian Heimbuch , principal investigator on the project for Applied Research Associates .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officials have long assume that a public health emergency would one day create a huge demand for the respirator mask know a N95s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brief mention in HHS budget request to Congress for 2020 and 2021 note the department be “ support effort at Halyard Health to develop high-speed manufacturing for surge production ” of N95 mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAmid the current crisis , the design remain under consideration , accord to the spokesperson , who say , “ Implementing this design along with use of more proven mask manufacturing technique be be consider by a supply chain task force to reduce N95 shortage .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.livemint.com/news/world/obama-on-coronavirus-skip-the-masks-stay-calm-11583377440796.html",
+            "content": "Let 's stay calm , listen to the expert , and follow the science , ' tweet ObamaThe death toll in the US from the virus rise to 11 on Wednesday\nWashington : Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask . The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . '' Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+            "domain": "www.livemint.com",
+            "tokenized": [
+                {
+                    "sent": "Let 's stay calm , listen to the expert , and follow the science , ' tweet ObamaThe death toll in the US from the virus rise to 11 on Wednesday\nWashington : Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.thejakartapost.com/news/2020/03/05/obama-on-coronavirus-skip-the-masks-stay-calm.html",
+            "content": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask . The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . '' Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+            "domain": "www.thejakartapost.com",
+            "tokenized": [
+                {
+                    "sent": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.ndtv.com/world-news/former-us-president-barack-obama-on-coronavirus-skip-the-masks-stay-calm-2190075",
+            "content": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask . The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . '' Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+            "domain": "www.ndtv.com",
+            "tokenized": [
+                {
+                    "sent": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.business-standard.com/article/pti-stories/obama-on-coronavirus-skip-the-masks-stay-calm-120030500092_1.html",
+            "content": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask . The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . '' Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+            "domain": "www.business-standard.com",
+            "tokenized": [
+                {
+                    "sent": "Former US president Barack Obama call Wednesday for people to take `` common sense precaution '' over the coronavirus outbreak -- advise them to follow hand-washing guideline but not to wear mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The World Health Organization have say mask , goggles and other protective equipment use by health worker be in short supply due to `` rise demand , hoard and misuse . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Let 's stay calm , listen to the expert , and follow the science , '' tweet Obama , who have keep a low public profile since leave office in 2017 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/blogs/blog-briefing-room/news/515264-obama-encourages-social-distancing-mask-wearing-over-labor-day",
+            "content": "Former President Obama on Saturday encourage Americans to remember the coronavirus pandemic this holiday weekend , say everyone should still wear a mask and practice social distancing . President TrumpDonald TrumpIllinois House pass resolution condemn state rep. for 'standing with insurrectionist ' Florida Democrats call for election redo after former state senator allegedly tamper with race Biden and Harris discuss vote right with Stacey Abrams in Atlanta MORE also implore Americans to “ remain vigilant ” over the holiday week . “ It might be Labor Day weekend , but let ’ s all remember that we 're still in the middle of a pandemic , ” Obama write on Twitter .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Former President Obama on Saturday encourage Americans to remember the coronavirus pandemic this holiday weekend , say everyone should still wear a mask and practice social distancing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President TrumpDonald TrumpIllinois House pass resolution condemn state rep. for 'standing with insurrectionist ' Florida Democrats call for election redo after former state senator allegedly tamper with race Biden and Harris discuss vote right with Stacey Abrams in Atlanta MORE also implore Americans to “ remain vigilant ” over the holiday week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It might be Labor Day weekend , but let ’ s all remember that we 're still in the middle of a pandemic , ” Obama write on Twitter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/03/04/us/politics/coronavirus-trump-obama.html",
+            "content": "WASHINGTON — President Trump seek on Wednesday to deflect criticism of his administration ’ s response to the coronavirus onto his predecessor , complain that a federal agency decision under President Barack Obama have make it hard to quickly enact widespread test for the virus . Health expert and veteran of the government during Mr. Obama ’ s presidency say they be unaware of any policy or rule change during the last administration that would have affect the way the Food and Drug Administration approve test during the current crisis . Mr. Trump appear intent on focus attention on the Obama administration at a time when his own handling of the outbreak have come under intense criticism . “ The Obama administration make a decision on test that turn out to be very detrimental to what we ’ re do , and we undo that decision a few day ago so that the testing can take place in a much more accurate and rapid fashion , ” Mr. Trump say . ”\nDr. Luciana Borio , who oversee public health preparedness for the National Security Council in Mr. Trump ’ s White House and be previously the acting chief scientist at the Food and Drug Administration under Mr. Obama , also say she be unaware of any such rule change during the last administration . Separately , during the Obama administration , the Food and Drug Administration first start propose the regulation of lab-developed test , but that be to apply outside of emergency situation . But health expert and former Obama official say they be unaware of any policy or rule change that would have affect the F.D.A.",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — President Trump seek on Wednesday to deflect criticism of his administration ’ s response to the coronavirus onto his predecessor , complain that a federal agency decision under President Barack Obama have make it hard to quickly enact widespread test for the virus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Health expert and veteran of the government during Mr. Obama ’ s presidency say they be unaware of any policy or rule change during the last administration that would have affect the way the Food and Drug Administration approve test during the current crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump appear intent on focus attention on the Obama administration at a time when his own handling of the outbreak have come under intense criticism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The Obama administration make a decision on test that turn out to be very detrimental to what we ’ re do , and we undo that decision a few day ago so that the testing can take place in a much more accurate and rapid fashion , ” Mr. Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDr. Luciana Borio , who oversee public health preparedness for the National Security Council in Mr. Trump ’ s White House and be previously the acting chief scientist at the Food and Drug Administration under Mr. Obama , also say she be unaware of any such rule change during the last administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Separately , during the Obama administration , the Food and Drug Administration first start propose the regulation of lab-developed test , but that be to apply outside of emergency situation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But health expert and former Obama official say they be unaware of any policy or rule change that would have affect the F.D.A.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/health/2020/12/03/covid-news-cdc-warning-us-hospitalizations-100-k-california-arizona/3795997001/",
+            "content": "Former Presidents Barack Obama , George W. Bush and Bill Clinton be volunteer to get inoculate on camera once COVID-19 vaccine win FDA approval . But President Donald Trump sideline him at point during the year after Fauci ’ s stark warning about the importance of wear mask , social distancing and halt large-scale gathering . The nation 's one-day toll of coronavirus death surpass 3,000 for the first time Wednesday and on Thursday the U.S. record it 14 millionth COVID-19 case , milestone show the pandemic continue to race out of control . Participants in a trial of Moderna 's candidate vaccine appear to be protect from the virus for at least three month , the vaccine maker announce Thursday , mark the first indication of how long a COVID-19 vaccine might last .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "Former Presidents Barack Obama , George W. Bush and Bill Clinton be volunteer to get inoculate on camera once COVID-19 vaccine win FDA approval .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But President Donald Trump sideline him at point during the year after Fauci ’ s stark warning about the importance of wear mask , social distancing and halt large-scale gathering .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The nation 's one-day toll of coronavirus death surpass 3,000 for the first time Wednesday and on Thursday the U.S. record it 14 millionth COVID-19 case , milestone show the pandemic continue to race out of control .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Participants in a trial of Moderna 's candidate vaccine appear to be protect from the virus for at least three month , the vaccine maker announce Thursday , mark the first indication of how long a COVID-19 vaccine might last .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election-biden-policy-factbox/factbox-biden-could-change-these-key-policies-on-day-one-in-the-white-house-idUSKBN27N0W2",
+            "content": "In addition to leave the Paris agreement , Trump reverse a number of other environmental policy under Democratic former President Barack Obama that Biden be set to restore . Biden have say that on his first day he would rescind Trump ’ s decision to abandon the World Health Organization - a move widely criticize internationally amid the pandemic - and quickly rejoin the Paris climate accord , a signature achievement of the Obama-Biden administration .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "In addition to leave the Paris agreement , Trump reverse a number of other environmental policy under Democratic former President Barack Obama that Biden be set to restore .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have say that on his first day he would rescind Trump ’ s decision to abandon the World Health Organization - a move widely criticize internationally amid the pandemic - and quickly rejoin the Paris climate accord , a signature achievement of the Obama-Biden administration .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/investigations/face-masks-in-national-stockpile-have-not-been-substantially-replenished-since-2009/2020/03/10/57e57316-60c9-11ea-8baf-519cedb6ccd9_story.html",
+            "content": "’ ”\nThe Department of Health and Human Services say last week that the stockpile have about 12 million N95 respirator and 30 million surgical mask —a scant 1 percent of the estimate 3.5 billion mask the nation would need in a severe pandemic . The International Safety Equipment Association warn of “ significant shortage ” if another pandemic cause demand for mask to surge . Much of the protective equipment for the 2009 flu pandemic be purchase with billion of dollar in additional funding approve by Congress . The trade group for manufacturer of personal protective equipment in mid-2009 urge “ immediate action ” to restock N95 mask . Charles Johnson , president of the ISEA trade group , say the organization “ be unaware of a significant restock ” of personal protective equipment since 2009 . “ Facemasks be an acceptable alternative when the supply chain of respirator can not meet the demand , ” the CDC say in a statement that be expect to unsettle health care worker who have be train to use the more protective gear during contagion . HHS announce last week that it plan to buy 500 million N95 mask over the next 18 month . Delaware a of Tuesday afternoon have no confirmed case of the disease cause by coronavirus but have already put in a request for a 120-day supply of N95 mask , say Steven Blessing , one of state ’ s top public health official .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "’ ”\nThe Department of Health and Human Services say last week that the stockpile have about 12 million N95 respirator and 30 million surgical mask —a scant 1 percent of the estimate 3.5 billion mask the nation would need in a severe pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The International Safety Equipment Association warn of “ significant shortage ” if another pandemic cause demand for mask to surge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Much of the protective equipment for the 2009 flu pandemic be purchase with billion of dollar in additional funding approve by Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The trade group for manufacturer of personal protective equipment in mid-2009 urge “ immediate action ” to restock N95 mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Charles Johnson , president of the ISEA trade group , say the organization “ be unaware of a significant restock ” of personal protective equipment since 2009 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Facemasks be an acceptable alternative when the supply chain of respirator can not meet the demand , ” the CDC say in a statement that be expect to unsettle health care worker who have be train to use the more protective gear during contagion .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "HHS announce last week that it plan to buy 500 million N95 mask over the next 18 month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Delaware a of Tuesday afternoon have no confirmed case of the disease cause by coronavirus but have already put in a request for a 120-day supply of N95 mask , say Steven Blessing , one of state ’ s top public health official .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.propublica.org/article/us-emergency-medical-stockpile-funding-unprepared-coronavirus",
+            "content": "Responding to swine flu , which the CDC estimate kill more than 12,000 people in the United States over the course of a year , have require the large deployment in the stockpile ’ s history , include nearly 20 million piece of personal protective equipment and more than 85 million N95 mask , accord to a 2016 report publish by the National Academies of Sciences , Engineering and Medicine . Fiscal restraint impose by Republicans in Congress in the early year of the Obama administration leave the U.S. less prepared to respond to the coronavirus pandemic today . By late February , the stockpile held just 12 million N95 respirator mask , a small fraction of what government official say be need for a severe pandemic . Dire shortage of vital medical equipment in the Strategic National Stockpile that be now hamper the coronavirus response trace back to the budget war of the Obama year , when congressional Republicans elect on the Tea Party wave force the White House to accept sweeping cut to federal spending . Masks and other protective equipment be in normal time widely available and thus may not have be prioritize for purchase , they say . After use up the swine flu emergency fund , the Obama administration try to replenish the stockpile in 2011 by ask Congress to provide $ 655 million , up from the previous year ’ s budget of less than $ 600 million . And in 2016 , Congress grant emergency funding to respond to the Zika virus , but it give the CDC less than half of what the Obama administration request . There be , in fact , warning at the time : A 2010 Centers for Disease Control and Prevention-funded report by the Association of State and Territorial Health Officials urge the federal government to treat public health preparedness “ on par with federal and state funding for other national security response capability , ” and say that it store of N95 mask should be “ replenish for future event . ”\nThe next year , the administration again propose cut the stockpile ’ s funding from the 2012 funding level , but it warn that reduce funding could result in “ few people receive treatment during an influenza pandemic . Among the victim of those partisan fight be the effort to keep adequate supply of mask , ventilator , pharmaceutical and other medical equipment on hand to respond to a public health crisis .",
+            "domain": "www.propublica.org",
+            "tokenized": [
+                {
+                    "sent": "Responding to swine flu , which the CDC estimate kill more than 12,000 people in the United States over the course of a year , have require the large deployment in the stockpile ’ s history , include nearly 20 million piece of personal protective equipment and more than 85 million N95 mask , accord to a 2016 report publish by the National Academies of Sciences , Engineering and Medicine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Fiscal restraint impose by Republicans in Congress in the early year of the Obama administration leave the U.S. less prepared to respond to the coronavirus pandemic today .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By late February , the stockpile held just 12 million N95 respirator mask , a small fraction of what government official say be need for a severe pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dire shortage of vital medical equipment in the Strategic National Stockpile that be now hamper the coronavirus response trace back to the budget war of the Obama year , when congressional Republicans elect on the Tea Party wave force the White House to accept sweeping cut to federal spending .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Masks and other protective equipment be in normal time widely available and thus may not have be prioritize for purchase , they say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After use up the swine flu emergency fund , the Obama administration try to replenish the stockpile in 2011 by ask Congress to provide $ 655 million , up from the previous year ’ s budget of less than $ 600 million .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And in 2016 , Congress grant emergency funding to respond to the Zika virus , but it give the CDC less than half of what the Obama administration request .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There be , in fact , warning at the time : A 2010 Centers for Disease Control and Prevention-funded report by the Association of State and Territorial Health Officials urge the federal government to treat public health preparedness “ on par with federal and state funding for other national security response capability , ” and say that it store of N95 mask should be “ replenish for future event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe next year , the administration again propose cut the stockpile ’ s funding from the 2012 funding level , but it warn that reduce funding could result in “ few people receive treatment during an influenza pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Among the victim of those partisan fight be the effort to keep adequate supply of mask , ventilator , pharmaceutical and other medical equipment on hand to respond to a public health crisis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/joe-bidens-pandemic-plan-2020-11-07",
+            "content": "He previously express fear that a U.S. Supreme Court conservative 6-3 majority , make possible by newly confirm Justice Amy Coney Barrett , could finally dismantle former President Barack Obama ’ s Affordable Care Act , and deprive million of people of health-care coverage . Dr. Megan Ranney , an emergency physician at Brown University , express optimism about Biden 's pandemic plan to CNN on Sunday , but say she be concern about the burden on the health-care system : “ We ’ re about to see all of these little epidemic across the country , cross and mixed , and it ’ s go to be an awful lot like pour gasoline on a fire , ” she say . ”\nco-founder Bill Gates recently tell a “ Fox News Sunday ” interview that the president ’ s partial travel ban on China and , later , other country may have actually create a situation where people be rush to get back to the U.S. and make the pandemic worse . “ In August , IDSA begin call for a national mask mandate , a compel scientific data indicate that mask significantly reduce the risk of COVID-19 transmission , ” she say . Biden will have to persuade state governor to mandate their own mask-wearing policy , some political analyst say , and even then it will be a tough ask to get everyone to wear mask , particularly those in Republican state and area loyal to President Trump , who himself have make a point of appear in public more often than not without a mask . President-elect Biden ’ s goal of strengthen the workforce need to respond to COVID-19 and prepare for future pandemic be laudable , and this workforce must include public health professional , clinician and scientists.",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "He previously express fear that a U.S. Supreme Court conservative 6-3 majority , make possible by newly confirm Justice Amy Coney Barrett , could finally dismantle former President Barack Obama ’ s Affordable Care Act , and deprive million of people of health-care coverage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Megan Ranney , an emergency physician at Brown University , express optimism about Biden 's pandemic plan to CNN on Sunday , but say she be concern about the burden on the health-care system : “ We ’ re about to see all of these little epidemic across the country , cross and mixed , and it ’ s go to be an awful lot like pour gasoline on a fire , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nco-founder Bill Gates recently tell a “ Fox News Sunday ” interview that the president ’ s partial travel ban on China and , later , other country may have actually create a situation where people be rush to get back to the U.S. and make the pandemic worse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In August , IDSA begin call for a national mask mandate , a compel scientific data indicate that mask significantly reduce the risk of COVID-19 transmission , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden will have to persuade state governor to mandate their own mask-wearing policy , some political analyst say , and even then it will be a tough ask to get everyone to wear mask , particularly those in Republican state and area loyal to President Trump , who himself have make a point of appear in public more often than not without a mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President-elect Biden ’ s goal of strengthen the workforce need to respond to COVID-19 and prepare for future pandemic be laudable , and this workforce must include public health professional , clinician and scientists.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/03/trump-coronavirus-hospital-masks-blames-obama-ppe.html",
+            "content": "Shortly before Trump ’ s inauguration , the Obama administration hold a high-level briefing with incoming Trump official to prepare them for a pandemic . Trump blame his tardiness on the Obama administration . Suppose Obama do nothing to help Trump prepare for a pandemic . And Trump ’ s attempt to blame a president who leave office more than three year ago for his failure to act two month ago might be his most pathetic blame-shirking yet . After Trump boast of his work fill the equipment shortage , CNN ’ s Jeremy Diamond read complaint from doctor about shortage , and ask why he didn ’ t act week ago .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "Shortly before Trump ’ s inauguration , the Obama administration hold a high-level briefing with incoming Trump official to prepare them for a pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump blame his tardiness on the Obama administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Suppose Obama do nothing to help Trump prepare for a pandemic .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And Trump ’ s attempt to blame a president who leave office more than three year ago for his failure to act two month ago might be his most pathetic blame-shirking yet .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "After Trump boast of his work fill the equipment shortage , CNN ’ s Jeremy Diamond read complaint from doctor about shortage , and ask why he didn ’ t act week ago .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/now/julia-roberts-wears-barack-obama-face-mask-190516971.html",
+            "content": "The 52-year-old actress be photograph on Thursday at the Malibu Country Mart wear a mask with Barack Obama 's face on it .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "The 52-year-old actress be photograph on Thursday at the Malibu Country Mart wear a mask with Barack Obama 's face on it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/07/03/jason-furman-mailing-americans-a-mask-is-an-efficient-stimulus.html",
+            "content": "`` There 's really not a lot monetary or fiscal policy can do in the face of an out-of-control virus , '' say Furman , chairman of the Council of Economic Advisers in the Obama administration . Greg Abbott order Thursday that people in most Texas county wear a mask in public , follow the state 's steep rise in Covid-19 case and hospitalization .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "`` There 's really not a lot monetary or fiscal policy can do in the face of an out-of-control virus , '' say Furman , chairman of the Council of Economic Advisers in the Obama administration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Greg Abbott order Thursday that people in most Texas county wear a mask in public , follow the state 's steep rise in Covid-19 case and hospitalization .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.tmz.com/2020/05/29/julia-roberts-wears-barack-obama-face-mask-shopping/",
+            "content": "Julia Roberts be make a political statement with her face mask -- one that 's sure to irk President Trump ... on so many level .",
+            "domain": "www.tmz.com",
+            "tokenized": [
+                {
+                    "sent": "Julia Roberts be make a political statement with her face mask -- one that 's sure to irk President Trump ... on so many level .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

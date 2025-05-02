@@ -1,0 +1,930 @@
+{
+    "event_id": "254377",
+    "claim": "A photograph shows a statue of Christopher Columbus that was \"beheaded.\"",
+    "original_label": "true",
+    "label": "true",
+    "explain": "A photograph supposedly showing a statue of Christopher Columbus that had been “beheaded” by anti-police-brutality protesters was circulated on social media in June 2020:\n A Christopher Columbus statue in Boston was beheaded. from      pics \n \nThis is a genuine photograph that was taken in Boston’s North End in the wake of protests spurred by the police in-custody death of an unarmed Black man in Minneapolis.\nThe picture was captured by photographer Mark Garfinkel (@pictureboston on Twitter) and shared by NBC 10 Boston on June 10, 2020. The news outlet reported that the vandalism occurred overnight and that Columbus’ head was found nearby:\nThe head of a statue of Christopher Columbus in Boston’s North End has been removed and now the entire statue is going to be put in storage amid rising calls for an end to racism nationwide.\nThe vandalism occurred at some point overnight. A call was received by the Boston Police Department around 12:30 a.m. Wednesday.\nThe head was found near the rest of the still-standing structure.\nA video from the news outlet provided other pictures of the beheaded statue.\nThis was at least the second statue of Columbus to be vandalized in the same week. Another statue of the explorer was thrown into a lake in Virginia. The Guardian reported:\nNative American advocates have also long pressed states to change Columbus Day to Indigenous Peoples Day over concerns that Columbus spurred centuries of genocide against indigenous populations in the Americas.\nIn Richmond, activist Chelsea Higgs-Wise and other protesters spoke to a crowd gathered at Byrd Park about the struggles of indigenous people and African Americans in America. “We have to start where it all began,” Higgs-Wise said during her speech. “We have to start with the people who stood first on this land.”",
+    "reports": [
+        {
+            "link": "https://www.nbcnewyork.com/news/local/christopher-columbus-statue-park-beheaded-yonkers-new-york-chartlottesville-protests/261832/",
+            "content": "A statue of celebrated explorer Christopher Columbus be find behead in a Yonkers park . The head to the bronze-colored statue be find discard next to a plastic bag in Columbus Memorial Park , a mile north of the Bronx . Those protest have lead to call for more public tribute to be remove , include a push in New York City to remove the Columbus Circle statue in light of the figure ’ s oppression of Native Americans . One woman believe the statue should have be remove .",
+            "domain": "www.nbcnewyork.com",
+            "tokenized": [
+                {
+                    "sent": "A statue of celebrated explorer Christopher Columbus be find behead in a Yonkers park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The head to the bronze-colored statue be find discard next to a plastic bag in Columbus Memorial Park , a mile north of the Bronx .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those protest have lead to call for more public tribute to be remove , include a push in New York City to remove the Columbus Circle statue in light of the figure ’ s oppression of Native Americans .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "One woman believe the statue should have be remove .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bostonmagazine.com/news/2020/06/10/christopher-columbus-statue-beheaded/",
+            "content": "# BREAKING : overnight Christopher Columbus statue in Boston ’ s North End vandalize , find behead . A decapitated statue of Christopher Columbus be view at Christopher Columbus Park in Boston Massachusetts on June 10 , 2020 Photo by Joseph Prezioso / AFP / Getty Images\nAs anti-racist protester in city around the world have take their anger out on monument to trouble historical figure , the 40-year-old marble statue honor the 15th Century explorer , kidnapper , and genocidal maniac on the North End Waterfront have once again be deface . Renewed call for the statue ’ s removal have spring up across social medium in Boston recently , and then by Wednesday morning , it happen : Where there once stand the face of a serene-looking Columbus gazing over Boston Harbor , all that be leave be a bare metal spike poke out of it torso . The statue be spar the fate of another Columbus statue in Richmond , Virginia , which protesters spray paint , set on fire , and toss in a lake last night . Police say a report that Columbus have his head bonk off come in at around 12:30 a.m. Wednesday . ⁦ @ pictureboston⁩\nAnd in the meantime , Boston Mayor Marty Walsh say what ’ s left of the statue be slat to be remove from the park . In some case the statue-removers be elect official : Last week , Philly Mayor Jim Kenney order the removal of a statue honor it proudly racist ex-mayor Frank Rizzo . It be only a matter of time before the controversial North End statue get sweep up in the moment . “ We ’ re go to be take the statue down this morning and put it into storage to assess the damage to the statue . Columbus ’ head also come tumble down in 2006 , and go miss for nearly a week before it be recover . That same year , the Boston Globe report that the statue be target so frequently by vandals—spray paint , coat in lipstick , or otherwise mutilated—it sometimes cost thousand of dollar a year to repair it .",
+            "domain": "www.bostonmagazine.com",
+            "tokenized": [
+                {
+                    "sent": "# BREAKING : overnight Christopher Columbus statue in Boston ’ s North End vandalize , find behead .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A decapitated statue of Christopher Columbus be view at Christopher Columbus Park in Boston Massachusetts on June 10 , 2020 Photo by Joseph Prezioso / AFP / Getty Images\nAs anti-racist protester in city around the world have take their anger out on monument to trouble historical figure , the 40-year-old marble statue honor the 15th Century explorer , kidnapper , and genocidal maniac on the North End Waterfront have once again be deface .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Renewed call for the statue ’ s removal have spring up across social medium in Boston recently , and then by Wednesday morning , it happen : Where there once stand the face of a serene-looking Columbus gazing over Boston Harbor , all that be leave be a bare metal spike poke out of it torso .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The statue be spar the fate of another Columbus statue in Richmond , Virginia , which protesters spray paint , set on fire , and toss in a lake last night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Police say a report that Columbus have his head bonk off come in at around 12:30 a.m. Wednesday .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "⁦ @ pictureboston⁩\nAnd in the meantime , Boston Mayor Marty Walsh say what ’ s left of the statue be slat to be remove from the park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In some case the statue-removers be elect official : Last week , Philly Mayor Jim Kenney order the removal of a statue honor it proudly racist ex-mayor Frank Rizzo .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be only a matter of time before the controversial North End statue get sweep up in the moment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We ’ re go to be take the statue down this morning and put it into storage to assess the damage to the statue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Columbus ’ head also come tumble down in 2006 , and go miss for nearly a week before it be recover .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That same year , the Boston Globe report that the statue be target so frequently by vandals—spray paint , coat in lipstick , or otherwise mutilated—it sometimes cost thousand of dollar a year to repair it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873724383/amid-protests-christopher-columbus-statues-take-flak-in-richmond-boston",
+            "content": "# BREAKING : overnight Christopher Columbus statue in Boston ’ s North End vandalize , find behead . Even a statue of Confederate soldier fall across the country , either by official decree or under less formal circumstance , another key figure from American history be be quite literally knock from his pedestal : Christopher Columbus . More than 500 mile north , in Boston , police report a beheaded Columbus statue overnight . ⁦ @ pictureboston⁩\nBoston protester , perhaps , manage to produce the more shocking visual , lop off the head of a Columbus statue in a park name in his honor . A statue of Christopher Columbus sit in the water after people pull the memorial down Tuesday night in Richmond , Va . A statue of Christopher Columbus sit in the water after people pull the memorial down Tuesday night in Richmond , Va . Still , Columbus represent a distinct case from the broad conversation around Confederate statue . Less than a half-hour 's walk from Byrd Park , where the Columbus statue be tear down , controversy have rise around a massive memorial to Confederate Gen. Robert E. Lee . The navigator have be venerate in the U.S. , not only with statue but also city name and a federal holiday . It be far from the first time a statue in the Virginia capital — and capital of the former Confederacy — have inspire outrage and attempt at removal . City worker remove the statue from the water Wednesday . In Richmond , the Columbus statue stand at the focal point of a protest Tuesday night , which begin with a peaceful march and end a couple of hour later with it toppling .",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "# BREAKING : overnight Christopher Columbus statue in Boston ’ s North End vandalize , find behead .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "Even a statue of Confederate soldier fall across the country , either by official decree or under less formal circumstance , another key figure from American history be be quite literally knock from his pedestal : Christopher Columbus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More than 500 mile north , in Boston , police report a beheaded Columbus statue overnight .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "⁦ @ pictureboston⁩\nBoston protester , perhaps , manage to produce the more shocking visual , lop off the head of a Columbus statue in a park name in his honor .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of Christopher Columbus sit in the water after people pull the memorial down Tuesday night in Richmond , Va .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of Christopher Columbus sit in the water after people pull the memorial down Tuesday night in Richmond , Va .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Still , Columbus represent a distinct case from the broad conversation around Confederate statue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Less than a half-hour 's walk from Byrd Park , where the Columbus statue be tear down , controversy have rise around a massive memorial to Confederate Gen. Robert E. Lee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The navigator have be venerate in the U.S. , not only with statue but also city name and a federal holiday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be far from the first time a statue in the Virginia capital — and capital of the former Confederacy — have inspire outrage and attempt at removal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "City worker remove the statue from the water Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Richmond , the Columbus statue stand at the focal point of a protest Tuesday night , which begin with a peaceful march and end a couple of hour later with it toppling .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbsnews.com/news/christopher-columbus-statue-boston-beheaded-confederate-monuments-torn-down/",
+            "content": "A Christopher Columbus statue in Boston have be take down by the city after it be behead by protester — and it be not the only monument of the controversial figure to be topple this week . In Boston 's Christopher Columbus Park , the damage statue be surround by crime scene tape on Wednesday morning a the head lay on the ground , CBS Boston report . The head of the Boston statue be also cut off in 2006 and in 2015 , and the word `` Black Lives Matter '' be paint across the statue , which be also douse with red paint . In Richmond 's Byrd Park , the Christopher Columbus statue be cover in paint , tear down and throw in the park 's lake on Tuesday night . A Columbus statue in Virginia be also vandalize , tear down and throw in a lake on Tuesday night . The toppling of the monument come day after protester take down the statue of Confederate General Williams Carter Wickham in Monroe Park . Thursday morning , the statue be remove by city worker and take into storage . Birmingham remove a Confederate monument , Robert E. Lee be take down in front of a school in Montgomery , and in Mobile , another statue be vandalize . `` This particular statue have be subject to repeat vandalism here in Boston , and give the conversation that we 're certainly have right now in our city of Boston and throughout the country , we 're also go to take time to assess the historic meaning of this action , '' Mayor Marty Walsh say Wednesday .",
+            "domain": "www.cbsnews.com",
+            "tokenized": [
+                {
+                    "sent": "A Christopher Columbus statue in Boston have be take down by the city after it be behead by protester — and it be not the only monument of the controversial figure to be topple this week .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In Boston 's Christopher Columbus Park , the damage statue be surround by crime scene tape on Wednesday morning a the head lay on the ground , CBS Boston report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The head of the Boston statue be also cut off in 2006 and in 2015 , and the word `` Black Lives Matter '' be paint across the statue , which be also douse with red paint .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Richmond 's Byrd Park , the Christopher Columbus statue be cover in paint , tear down and throw in the park 's lake on Tuesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A Columbus statue in Virginia be also vandalize , tear down and throw in a lake on Tuesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The toppling of the monument come day after protester take down the statue of Confederate General Williams Carter Wickham in Monroe Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Thursday morning , the statue be remove by city worker and take into storage .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Birmingham remove a Confederate monument , Robert E. Lee be take down in front of a school in Montgomery , and in Mobile , another statue be vandalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This particular statue have be subject to repeat vandalism here in Boston , and give the conversation that we 're certainly have right now in our city of Boston and throughout the country , we 're also go to take time to assess the historic meaning of this action , '' Mayor Marty Walsh say Wednesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://boston.cbslocal.com/2020/10/05/christopher-columbus-statue-vandalized-moved-boston-north-end/",
+            "content": "BOSTON ( CBS ) – The statue of Christopher Columbus that be behead earlier this year in the North End will not be return to it original location . A statue of Christopher Columbus be behead on June 10 , 2020 in Boston , ( Photo by Tim Bradbury/Getty Images )\nThe city will repair the statue before give it to the Knights of Columbus . ”\nThe Christopher Columbus statue be vandalize in June 2015 . ( Photo credit : NorthEndWaterfront.com )\nThe statue in Columbus Park have be the target of vandal in the past . ”\nWalsh say the city will work with the community on create a new statue for Columbus Park . It will now be house in a new development be build by the Knights of Columbus . When the statue be behead this summer , Mayor Walsh say there would be conversation about the “ historic mean ” of the incident and whether the statue would ever go back up . The statue be douse with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base .",
+            "domain": "boston.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "BOSTON ( CBS ) – The statue of Christopher Columbus that be behead earlier this year in the North End will not be return to it original location .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of Christopher Columbus be behead on June 10 , 2020 in Boston , ( Photo by Tim Bradbury/Getty Images )\nThe city will repair the statue before give it to the Knights of Columbus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThe Christopher Columbus statue be vandalize in June 2015 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Photo credit : NorthEndWaterfront.com )\nThe statue in Columbus Park have be the target of vandal in the past .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWalsh say the city will work with the community on create a new statue for Columbus Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will now be house in a new development be build by the Knights of Columbus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When the statue be behead this summer , Mayor Walsh say there would be conversation about the “ historic mean ” of the incident and whether the statue would ever go back up .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue be douse with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcconnecticut.com/news/local/man-who-beheaded-christopher-columbus-statue-in-waterbury-turns-himself-into-police/2303499/",
+            "content": "The man who allegedly behead the Christopher Columbus statue in Waterbury , Conn. have turn himself into police . Officers find the head of the Columbus statue be break off and on the ground . Brandon Ambrose , 22 , of Port Chester , New York behead the statue on July 4 , accord to police . Police say Ambrose be see in surveillance video hit the head on the statue with an unknown object . Through their investigation , police determine it be Ambrose who behead the statue and try to sell the statue 's nose . Protesters have be ask for the removal of the statue that stand outside of Waterbury 's City Hall .",
+            "domain": "www.nbcconnecticut.com",
+            "tokenized": [
+                {
+                    "sent": "The man who allegedly behead the Christopher Columbus statue in Waterbury , Conn. have turn himself into police .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Officers find the head of the Columbus statue be break off and on the ground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Brandon Ambrose , 22 , of Port Chester , New York behead the statue on July 4 , accord to police .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Police say Ambrose be see in surveillance video hit the head on the statue with an unknown object .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Through their investigation , police determine it be Ambrose who behead the statue and try to sell the statue 's nose .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Protesters have be ask for the removal of the statue that stand outside of Waterbury 's City Hall .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/isabeltogoh/2020/06/10/christopher-columbus-statue-in-boston-beheaded-overnight/",
+            "content": "The statue in Boston ’ s Christopher Columbus Waterfront Park lose it head in the early hour of Wednesday , with image show the head lie on the ground next to the monument . Police be investigate after a statue of Christoper Columbus on Boston ’ s Atlantic Avenue be behead overnight , a a movement to remove statue commemorate slaver and colonizer continue to sweep across the world . The memorial statue of Christopher Columbus in Christopher Columbus Waterfront Park on March 1 , ... [ + ] 2016 , in Boston . It come after protester in Virginia tear down a Columbus statue , set it on fire and toss it into one of Richmond ’ s Byrd Park lakes on Tuesday night . London Mayor Sadiq Khan remove a statue of slaver Robert Milligan from outside the Museum of London Docklands and have order a review into London ’ s statue and street name to remove any with link to slavery . The same statue have “ Black Lives Matter ” spray-painted on it base in 2015 . A statue of King Leopold II—who reportedly oversee mass killing of Congolese people in the lat 19th and early 20th century—was remove from Antwerp Square in Belgium this week by the government after be target by protester .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "The statue in Boston ’ s Christopher Columbus Waterfront Park lose it head in the early hour of Wednesday , with image show the head lie on the ground next to the monument .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Police be investigate after a statue of Christoper Columbus on Boston ’ s Atlantic Avenue be behead overnight , a a movement to remove statue commemorate slaver and colonizer continue to sweep across the world .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The memorial statue of Christopher Columbus in Christopher Columbus Waterfront Park on March 1 , ... [ + ] 2016 , in Boston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It come after protester in Virginia tear down a Columbus statue , set it on fire and toss it into one of Richmond ’ s Byrd Park lakes on Tuesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "London Mayor Sadiq Khan remove a statue of slaver Robert Milligan from outside the Museum of London Docklands and have order a review into London ’ s statue and street name to remove any with link to slavery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The same statue have “ Black Lives Matter ” spray-painted on it base in 2015 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of King Leopold II—who reportedly oversee mass killing of Congolese people in the lat 19th and early 20th century—was remove from Antwerp Square in Belgium this week by the government after be target by protester .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.pbs.org/newshour/nation/boston-to-reassess-columbus-statue-after-it-was-found-beheaded",
+            "content": "BOSTON ( AP ) — The city of Boston will reassess the significance of a Christopher Columbus statue that be find behead Wednesday morning . The head of a statue of Christopher Columbus be pull off overnight amid protest against racial inequality in the aftermath of the death in Minneapolis police custody of George Floyd , in Boston , Massachusetts , U.S. , June 10 , 2020 .",
+            "domain": "www.pbs.org",
+            "tokenized": [
+                {
+                    "sent": "BOSTON ( AP ) — The city of Boston will reassess the significance of a Christopher Columbus statue that be find behead Wednesday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The head of a statue of Christopher Columbus be pull off overnight amid protest against racial inequality in the aftermath of the death in Minneapolis police custody of George Floyd , in Boston , Massachusetts , U.S. , June 10 , 2020 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://boston.cbslocal.com/2020/06/10/christopher-columbus-statue-beheaded-boston-massachusetts/",
+            "content": "The Christopher Columbus statue in the North End be behead , June 10 , 2020 . The Christopher Columbus statue in the North End be behead , June 10 , 2020 . BOSTON ( CBS ) – The Christopher Columbus statue in Boston ’ s North End will be remove after it be behead early Wednesday morning . The statue in Christopher Columbus Park on Atlantic Avenue be surround by crime scene tape a the head lay on the ground next to the base . A statue of Christopher Columbus be behead on June 10 , 2020 in Boston , ( Photo by Tim Bradbury/Getty Images ) The Christopher Columbus statue be vandalize in June 2015 . ( Photo credit : NorthEndWaterfront.com )\n“ We ’ ve be ask for year that this statue come down and that Columbus no longer be celebrate , ” Mahtowin Munro say . ”\nIn Richmond , Virginia Tuesday night , protester tear down a Columbus statue and throw it into a lake . ( WBZ-TV )\nNow , a police investigate how it happen , local indigenous group be call on the mayor to remove the statue for good . The statue be douse with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base . ”\n“ We be go to be take the statue down this morning and put it into storage to assess the damage to the statue , ” Walsh say .",
+            "domain": "boston.cbslocal.com",
+            "tokenized": [
+                {
+                    "sent": "The Christopher Columbus statue in the North End be behead , June 10 , 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Christopher Columbus statue in the North End be behead , June 10 , 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BOSTON ( CBS ) – The Christopher Columbus statue in Boston ’ s North End will be remove after it be behead early Wednesday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue in Christopher Columbus Park on Atlantic Avenue be surround by crime scene tape a the head lay on the ground next to the base .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of Christopher Columbus be behead on June 10 , 2020 in Boston , ( Photo by Tim Bradbury/Getty Images ) The Christopher Columbus statue be vandalize in June 2015 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( Photo credit : NorthEndWaterfront.com )\n“ We ’ ve be ask for year that this statue come down and that Columbus no longer be celebrate , ” Mahtowin Munro say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn Richmond , Virginia Tuesday night , protester tear down a Columbus statue and throw it into a lake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( WBZ-TV )\nNow , a police investigate how it happen , local indigenous group be call on the mayor to remove the statue for good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue be douse with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We be go to be take the statue down this morning and put it into storage to assess the damage to the statue , ” Walsh say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/nation/2020/06/11/confederate-statues-monuments-removed-christoper-columbus-beheaded/5340691002/",
+            "content": "A statue of Christopher Columbus be decapitate in Boston with it head find nearby early Wednesday . The day prior , protester eye a statue of Christopher Columbus in Byrd Park . On Wednesday , protester throw a rope around the bronze statue of Christopher Columbus outside the Minnesota State Capitol in St. Paul and pull it down . The group use rope and place a sign on the statue that read , `` Columbus represent genocide '' a the statue be spray paint . Stoney say he would begin the process as soon a a new law give control of the fate of Confederate statue to locality take effect July 1 , and Northam say the state-owned statue of Robert E. Lee would come down `` as soon a possible . '' The statue , which have be spray-painted and behead before , will be fully take down by city official and place into storage a it future be determine , Mayor Marty Walsh say . The memorial include a statue of Confederate President Jefferson Davis topple in Richmond , Virginia , on Wednesday night and a brass cast of Charles Linn , a captain in the Confederate Navy , rip from it base in Birmingham , Alabama , among others . A tow rope be use to topple one of the statue , but a man be hit on the head a it fell , the newspaper report . Ralph Northam and Richmond Mayor Levar Stoney vow last week that the Confederate statue on Monument Avenue would come down . On Saturday night , a statue of Confederate Gen. Williams Carter Wickham in Monroe Park meet a similar fate . At one point , the rope snap , and the group hurl brick and work to dismantle one of the statue , the Pilot report . The removal of the Lee statue be face a legal challenge . The statue of Jefferson Davis be pull from it pedestal late Wednesday . Four statue at a Confederate memorial in Portsmouth , Virginia , just outside of Norfolk , have their head remove by a group of protester Wednesday night , the Virginian-Pilot report . A statue of Edward Carmack , who be know for write editorial attack fellow journalist Ida B .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "A statue of Christopher Columbus be decapitate in Boston with it head find nearby early Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The day prior , protester eye a statue of Christopher Columbus in Byrd Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Wednesday , protester throw a rope around the bronze statue of Christopher Columbus outside the Minnesota State Capitol in St. Paul and pull it down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The group use rope and place a sign on the statue that read , `` Columbus represent genocide '' a the statue be spray paint .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Stoney say he would begin the process as soon a a new law give control of the fate of Confederate statue to locality take effect July 1 , and Northam say the state-owned statue of Robert E. Lee would come down `` as soon a possible . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue , which have be spray-painted and behead before , will be fully take down by city official and place into storage a it future be determine , Mayor Marty Walsh say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The memorial include a statue of Confederate President Jefferson Davis topple in Richmond , Virginia , on Wednesday night and a brass cast of Charles Linn , a captain in the Confederate Navy , rip from it base in Birmingham , Alabama , among others .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A tow rope be use to topple one of the statue , but a man be hit on the head a it fell , the newspaper report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ralph Northam and Richmond Mayor Levar Stoney vow last week that the Confederate statue on Monument Avenue would come down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Saturday night , a statue of Confederate Gen. Williams Carter Wickham in Monroe Park meet a similar fate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "At one point , the rope snap , and the group hurl brick and work to dismantle one of the statue , the Pilot report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The removal of the Lee statue be face a legal challenge .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue of Jefferson Davis be pull from it pedestal late Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Four statue at a Confederate memorial in Portsmouth , Virginia , just outside of Norfolk , have their head remove by a group of protester Wednesday night , the Virginian-Pilot report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A statue of Edward Carmack , who be know for write editorial attack fellow journalist Ida B .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.boston25news.com/news/local/city-removes-christopher-columbus-statue-after-vandalism/JFFXA3MBLZDLZKF5DBADAHZRMA/",
+            "content": "Statue behead Boston police be investigate after the city ’ s Christopher Columbus statue be vandalize overnight . The head of the statue be knock off and leave at it base in the North End ’ s Christopher Columbus Park . BOSTON — Boston Mayor Marty Walsh say the city will temporarily remove the Christopher Columbus statue in the North End after it be behead Tuesday night . BREAKING OVERNIGHT : @ bostonpolice be investigate after Christopher Columbus statue in # ChristopherColumbus Park be beheaded.Details start at 5 a.m. on @ boston25 : @ MParkBoston25\nEdwards say she ’ s angry at whoever tear the head off the statue . On Tuesday in Richmond , Virginia a Christopher Columbus statue be tear down and throw into a river . To many people , Christopher Columbus represent slavery and the mass genocide of indigenous people . Right now there ’ s a movement to remove these statue for good . “ We be go to be take the statue down this morning and put it into storage to assess the damage of the statue . In 2006 someone steal the head of the statue . Edwards say the mayor didn ’ t consult with the city council before order the statue be temporarily take down . It come a protestors throughout the country be tear down similar statue . This particular statue have be subject to repeat vandalism here in Boston . ( Boston25News.com )\nThere have be no timeline yet for repair to the statue , which will remain in storage while the damage be be assess .",
+            "domain": "www.boston25news.com",
+            "tokenized": [
+                {
+                    "sent": "Statue behead Boston police be investigate after the city ’ s Christopher Columbus statue be vandalize overnight .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The head of the statue be knock off and leave at it base in the North End ’ s Christopher Columbus Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BOSTON — Boston Mayor Marty Walsh say the city will temporarily remove the Christopher Columbus statue in the North End after it be behead Tuesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "BREAKING OVERNIGHT : @ bostonpolice be investigate after Christopher Columbus statue in # ChristopherColumbus Park be beheaded.Details start at 5 a.m. on @ boston25 : @ MParkBoston25\nEdwards say she ’ s angry at whoever tear the head off the statue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "On Tuesday in Richmond , Virginia a Christopher Columbus statue be tear down and throw into a river .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To many people , Christopher Columbus represent slavery and the mass genocide of indigenous people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Right now there ’ s a movement to remove these statue for good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be go to be take the statue down this morning and put it into storage to assess the damage of the statue .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In 2006 someone steal the head of the statue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Edwards say the mayor didn ’ t consult with the city council before order the statue be temporarily take down .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It come a protestors throughout the country be tear down similar statue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This particular statue have be subject to repeat vandalism here in Boston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( Boston25News.com )\nThere have be no timeline yet for repair to the statue , which will remain in storage while the damage be be assess .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.dw.com/en/columbus-statue-beheaded-in-boston-another-toppled-in-richmond/a-53770328",
+            "content": "Another Columbus statue be behead in Boston . Authorities in Boston , Massachusetts , launch a probe on Wednesday after the statue of Columbus be behead . They also place a sign read `` Columbus represent genocide '' on the pedestal . Anti-racism protester in Virginia topple a Christopher Columbus statue , set it on fire , and then throw into a lake , decry the explorer a a symbol of genocide . Two statue of Christopher Columbus , the explorer whose journey to the Americas link Europe with the New World , be attack amid wide-spread anti-racism protest across the US . Hours before , protester in Richmond , Virginia tear down a different statue of Christopher Columbus , set it on fire , and eventually throw into into a lake . In 2004 , the statue be mark with red paint and the word `` murderer '' , while the slogan `` Black Lives Matter '' and red paint appear on it in 2015 , accord to the Boston Globe newspaper . The head of the marble statue be find near the monument , in the Boston park that be name after the historical figure . The official would take time to `` assess the historic meaning of the statue '' in light of the racism debate , Walsh tell reporter , refer to the outrage spark by the killing of African-American George Floyd . However , he also say the authority would remove the statue from the park and store it while review possible restoration .",
+            "domain": "www.dw.com",
+            "tokenized": [
+                {
+                    "sent": "Another Columbus statue be behead in Boston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Authorities in Boston , Massachusetts , launch a probe on Wednesday after the statue of Columbus be behead .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They also place a sign read `` Columbus represent genocide '' on the pedestal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Anti-racism protester in Virginia topple a Christopher Columbus statue , set it on fire , and then throw into a lake , decry the explorer a a symbol of genocide .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two statue of Christopher Columbus , the explorer whose journey to the Americas link Europe with the New World , be attack amid wide-spread anti-racism protest across the US .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hours before , protester in Richmond , Virginia tear down a different statue of Christopher Columbus , set it on fire , and eventually throw into into a lake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2004 , the statue be mark with red paint and the word `` murderer '' , while the slogan `` Black Lives Matter '' and red paint appear on it in 2015 , accord to the Boston Globe newspaper .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The head of the marble statue be find near the monument , in the Boston park that be name after the historical figure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The official would take time to `` assess the historic meaning of the statue '' in light of the racism debate , Walsh tell reporter , refer to the outrage spark by the killing of African-American George Floyd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , he also say the authority would remove the statue from the park and store it while review possible restoration .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.masslive.com/boston/2020/10/beheaded-christopher-columbus-statue-not-returning-to-north-end-will-move-to-new-boston-location.html",
+            "content": "A statue depict Christopher Columbus have it head remove at Christopher Columbus Waterfront Park in Boston on June 10.Tim Bradbury | Getty Images\nA hotly debate statue of Christopher Columbus in Boston that be behead this summer in the wake of protest against systemic racism be expect to be move to a new location in the city , news outlet report . The beheading of the Columbus statue come less than a month after the killing of George Floyd in Minneapolis . Monuments dedicate to Columbus have be deface or take down throughout the U.S. and Massachusetts , with statue in Springfield and Worcester also vandalize . `` It will be visible for everyone who want to see it , ” Walsh say about the repaired Columbus statue , accord to WBZ . In a virtual meeting with the North End/Waterfront Council on Monday , it be announce the statue will be repair and move to a new development be build by the Knights of Columbus , WBZ report . ”\nDuring the meeting , Walsh note the city will work with resident to create a new statue for Columbus Park , the original location of the statue . Boston ’ s statue in the North End have be damage multiple time in recent year . In 2015 , it be dose in red paint with “ Black Lives Matter ” spray paint onto it base , and in 2006 , Columbus ’ s head be remove and remain miss for several day . It be put into storage so official could assess the damage and “ take time to discuss the historic meaning of the statue , '' Boston Mayor Marty Walsh say at the time . The statue in the North End be remove in June after police discover it head have be take off . In August , the Boston Arts Commission vote to continue study the controversial legacy of the Columbus statue in the North End and establish a group to determine an appropriate review process , gather input from the public .",
+            "domain": "www.masslive.com",
+            "tokenized": [
+                {
+                    "sent": "A statue depict Christopher Columbus have it head remove at Christopher Columbus Waterfront Park in Boston on June 10.Tim Bradbury | Getty Images\nA hotly debate statue of Christopher Columbus in Boston that be behead this summer in the wake of protest against systemic racism be expect to be move to a new location in the city , news outlet report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The beheading of the Columbus statue come less than a month after the killing of George Floyd in Minneapolis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Monuments dedicate to Columbus have be deface or take down throughout the U.S. and Massachusetts , with statue in Springfield and Worcester also vandalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` It will be visible for everyone who want to see it , ” Walsh say about the repaired Columbus statue , accord to WBZ .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In a virtual meeting with the North End/Waterfront Council on Monday , it be announce the statue will be repair and move to a new development be build by the Knights of Columbus , WBZ report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDuring the meeting , Walsh note the city will work with resident to create a new statue for Columbus Park , the original location of the statue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Boston ’ s statue in the North End have be damage multiple time in recent year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2015 , it be dose in red paint with “ Black Lives Matter ” spray paint onto it base , and in 2006 , Columbus ’ s head be remove and remain miss for several day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be put into storage so official could assess the damage and “ take time to discuss the historic meaning of the statue , '' Boston Mayor Marty Walsh say at the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue in the North End be remove in June after police discover it head have be take off .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In August , the Boston Arts Commission vote to continue study the controversial legacy of the Columbus statue in the North End and establish a group to determine an appropriate review process , gather input from the public .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.courant.com/news/connecticut/hc-news-waterbury-columbus-statue-beheaded-20200704-cnxqmzryhjce5ar2kjqbyhxhnu-story.html",
+            "content": "Someone smash the head off of the Christopher Columbus statue that have stand in front of Waterbury ’ s city hall on Grand Street for many year . “ I be deeply disappointed and disturb by the destruction inflict upon the Christopher Columbus statue today , ” Waterbury Mayor Neil M. O ’ Leary say . New London , New Haven and Hartford have remove Christopher Columbus statute . In Hartford , city crew remove the Columbus statue from a small park near the state Capitol and the Supreme Court without incident by begin work early in the morning Monday . That be the case in New Haven , where the statue in Wooster Square be put up in 1892 to mark the 400th anniversary of Columbus ’ voyage west . Columbus statue across Connecticut be typically erect by Italian-American organization to boost the pride of a community that also endure prejudice . The decapitated statue be discover Saturday morning and police be investigate . In New Haven , protester clash a city crew remove a statue from Wooster Square Park . ”\nThe statue be the scene of a protest Thursday .",
+            "domain": "www.courant.com",
+            "tokenized": [
+                {
+                    "sent": "Someone smash the head off of the Christopher Columbus statue that have stand in front of Waterbury ’ s city hall on Grand Street for many year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I be deeply disappointed and disturb by the destruction inflict upon the Christopher Columbus statue today , ” Waterbury Mayor Neil M. O ’ Leary say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "New London , New Haven and Hartford have remove Christopher Columbus statute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Hartford , city crew remove the Columbus statue from a small park near the state Capitol and the Supreme Court without incident by begin work early in the morning Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That be the case in New Haven , where the statue in Wooster Square be put up in 1892 to mark the 400th anniversary of Columbus ’ voyage west .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Columbus statue across Connecticut be typically erect by Italian-American organization to boost the pride of a community that also endure prejudice .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The decapitated statue be discover Saturday morning and police be investigate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In New Haven , protester clash a city crew remove a statue from Wooster Square Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe statue be the scene of a protest Thursday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcboston.com/news/local/columbus-statue-defaced-in-north-end/2140321/",
+            "content": "Last Columbus Day in Providence , a Columbus statue be paint red with a sign place under it read `` stop celebrate genocide . '' The head of a statue of Christopher Columbus in Boston 's North End have be remove and now the entire statue be go to be put in storage amid rise call for an end to racism nationwide . The head of the statue be similarly remove in 2006 , while in 2015 , the statue be splatter in red paint , and the word `` Black Lives Matter '' be spray paint on it . In the aftermath of the violent death of George Floyd at the hand of a Minneapolis police officer , city in other state have also see Columbus statue vandalize . City official will also `` take time to assess the historic meaning of this statue . '' In Richmond , Virginia , a statue be tear down , spray paint , set on fire and toss in a lake .",
+            "domain": "www.nbcboston.com",
+            "tokenized": [
+                {
+                    "sent": "Last Columbus Day in Providence , a Columbus statue be paint red with a sign place under it read `` stop celebrate genocide . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The head of a statue of Christopher Columbus in Boston 's North End have be remove and now the entire statue be go to be put in storage amid rise call for an end to racism nationwide .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The head of the statue be similarly remove in 2006 , while in 2015 , the statue be splatter in red paint , and the word `` Black Lives Matter '' be spray paint on it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the aftermath of the violent death of George Floyd at the hand of a Minneapolis police officer , city in other state have also see Columbus statue vandalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "City official will also `` take time to assess the historic meaning of this statue . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Richmond , Virginia , a statue be tear down , spray paint , set on fire and toss in a lake .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/news/picture/christopher-columbus-statues-burned-behe-idUSRTS3CG9J",
+            "content": "The head of a statue of Christopher Columbus remove and break in the early hour of Wednesday in Boston , Massachusetts . Instagram/ @ Videoguns\nState Patrol officer stand guard a employee of Twin Cities Transport and Recovery work to clear the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota . REUTERS/Nicholas Pfosi\nThe vandalized base of the statue of Christopher Columbus after the statue be pull down by protester in Richmond , Virginia , June 9 . REUTERS/Marco Bello\nThe head of a statue of Christopher Columbus remove and break in the early hour of Wednesday in Boston , Massachusetts . Instagram/ @ Videoguns\nState Patrol officer stand guard a employee of Twin Cities Transport and Recovery work to clear the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 . Michael Forcia , Chairman of the American Indian Movement in the Twin Cities , hold up the rope use to topple the statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 . REUTERS/Nicholas Pfosi\nGraffiti be see on a vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , Florida , June 10 . REUTERS/Brian Snyder\nA vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , Florida , June 10 . A group of protester pull down the statue ... more\nA vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , June 10 . Instagram/ @ Michaelahatton + @ 804RRJA\nThe statue of Christopher Columbus be see in a lake after it be pull down by protester in Richmond , Virginia on Tuesday . Native American activist have long object to honor Columbus , say that his expedition to the Americas lead to the ... more\nThe statue of Christopher Columbus after it be pull down by protester in Richmond , Virginia on Tuesday . Demonstrators drum and sing a employee of Twin Cities Transport and Recovery drive off with the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "The head of a statue of Christopher Columbus remove and break in the early hour of Wednesday in Boston , Massachusetts .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instagram/ @ Videoguns\nState Patrol officer stand guard a employee of Twin Cities Transport and Recovery work to clear the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Nicholas Pfosi\nThe vandalized base of the statue of Christopher Columbus after the statue be pull down by protester in Richmond , Virginia , June 9 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Marco Bello\nThe head of a statue of Christopher Columbus remove and break in the early hour of Wednesday in Boston , Massachusetts .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instagram/ @ Videoguns\nState Patrol officer stand guard a employee of Twin Cities Transport and Recovery work to clear the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michael Forcia , Chairman of the American Indian Movement in the Twin Cities , hold up the rope use to topple the statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Nicholas Pfosi\nGraffiti be see on a vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , Florida , June 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "REUTERS/Brian Snyder\nA vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , Florida , June 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A group of protester pull down the statue ... more\nA vandalized statue of Christopher Columbus at the Bayside Marketplace in Downtown Miami , June 10 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Instagram/ @ Michaelahatton + @ 804RRJA\nThe statue of Christopher Columbus be see in a lake after it be pull down by protester in Richmond , Virginia on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Native American activist have long object to honor Columbus , say that his expedition to the Americas lead to the ... more\nThe statue of Christopher Columbus after it be pull down by protester in Richmond , Virginia on Tuesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Demonstrators drum and sing a employee of Twin Cities Transport and Recovery drive off with the toppled statue of Christopher Columbus on the Minnesota State Capitol Grounds in St Paul , Minnesota , June 10 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/83f867f0d1f270a9732f1f419a919426",
+            "content": "BOSTON ( AP ) — The city will reassess the significance of a Christopher Columbus statue in Boston that be find behead Wednesday morning , Mayor Marty Walsh say . A Columbus statue in Richmond , Virginia be topple and throw into a lake on Tuesday night . It be instal in what be now know a Christopher Columbus Park in 1979 . The statue will be take down and place in storage for the time be , Walsh say . ”\nThe statue be splash with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "BOSTON ( AP ) — The city will reassess the significance of a Christopher Columbus statue in Boston that be find behead Wednesday morning , Mayor Marty Walsh say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A Columbus statue in Richmond , Virginia be topple and throw into a lake on Tuesday night .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be instal in what be now know a Christopher Columbus Park in 1979 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue will be take down and place in storage for the time be , Walsh say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe statue be splash with red paint in June 2015 with the word “ Black Lives Matter ” spray-painted on the base .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wbur.org/news/2020/06/10/police-north-end-columbus-statue-beheaded",
+            "content": "Boston police be investigate the vandalism of a Christopher Columbus statue in the North End . The same Columbus statue be vandalize five year ago , douse in red paint with the phrase `` Black Lives Matter '' spray paint onto it . Police say just after midnight Wednesday , they find the head of the statue have be remove . He say the city will take down the statue and place it into storage to assess the damage .",
+            "domain": "www.wbur.org",
+            "tokenized": [
+                {
+                    "sent": "Boston police be investigate the vandalism of a Christopher Columbus statue in the North End .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The same Columbus statue be vandalize five year ago , douse in red paint with the phrase `` Black Lives Matter '' spray paint onto it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Police say just after midnight Wednesday , they find the head of the statue have be remove .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say the city will take down the statue and place it into storage to assess the damage .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/edfc9eaaa6874158595d8cdf948bd1b8",
+            "content": "BOSTON ( AP ) — The body of a beheaded Christopher Columbus statue be remove Thursday from a park in Boston ’ s historically Italian North End a the city continue to grapple with controversial landmark throw into the spotlight anew during a national reckoning over racism trigger by the killing of George Floyd . ”\nBut Native American group cheer Walsh ’ s decision to take down the statue , and say they ’ d strongly oppose effort to return it to Christopher Columbus Park . The statue , which be find behead early Wednesday , will be place in storage a the city reassess it significance , Democratic Mayor Marty Walsh have say .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "BOSTON ( AP ) — The body of a beheaded Christopher Columbus statue be remove Thursday from a park in Boston ’ s historically Italian North End a the city continue to grapple with controversial landmark throw into the spotlight anew during a national reckoning over racism trigger by the killing of George Floyd .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut Native American group cheer Walsh ’ s decision to take down the statue , and say they ’ d strongly oppose effort to return it to Christopher Columbus Park .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The statue , which be find behead early Wednesday , will be place in storage a the city reassess it significance , Democratic Mayor Marty Walsh have say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://news.harvard.edu/gazette/story/2020/10/pondering-putting-an-end-to-columbus-day-and-a-look-at-what-could-follow/",
+            "content": "In June , a damage Christopher Columbus statue in Boston 's North End neighborhood be remove . This year , amid a national reckoning on racial injustice , protester have topple and behead statue of Columbus in various city , while pressure grow to abolish the national holiday and replace it with one that celebrate the people who populate the Americas long before the explorer “ sail the ocean blue. Celebrated by Italian immigrant in the United States since 1792 , Columbus Day become a federal holiday in 1937 to commemorate the “ arrival of Christopher Columbus in the Americas. In this light , public observance of Columbus Day must end . One consequence have be a radical rethinking of who we choose to publicly commemorate through statue , monument , and celebration .",
+            "domain": "news.harvard.edu",
+            "tokenized": [
+                {
+                    "sent": "In June , a damage Christopher Columbus statue in Boston 's North End neighborhood be remove .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This year , amid a national reckoning on racial injustice , protester have topple and behead statue of Columbus in various city , while pressure grow to abolish the national holiday and replace it with one that celebrate the people who populate the Americas long before the explorer “ sail the ocean blue.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Celebrated by Italian immigrant in the United States since 1792 , Columbus Day become a federal holiday in 1937 to commemorate the “ arrival of Christopher Columbus in the Americas.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In this light , public observance of Columbus Day must end .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "One consequence have be a radical rethinking of who we choose to publicly commemorate through statue , monument , and celebration .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/news/us-news/boston-christopher-columbus-statue-beheaded-richmond-statue-thrown-lake-n1229201",
+            "content": "Two Christopher Columbus statue in different city be vandalized overnight a call mount for the contentious monument to be take down . In Boston , the head of a Christopher Columbus statue in the city 's North End be lop off at some point before 12:30 a.m. Wednesday , when police receive a call , NBC Boston report . That head be also remove in 2006 , and in 2015 the statue be splatter in red paint and spray-painted with the word `` Black Lives Matter . ''",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Two Christopher Columbus statue in different city be vandalized overnight a call mount for the contentious monument to be take down .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In Boston , the head of a Christopher Columbus statue in the city 's North End be lop off at some point before 12:30 a.m. Wednesday , when police receive a call , NBC Boston report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "That head be also remove in 2006 , and in 2015 the statue be splatter in red paint and spray-painted with the word `` Black Lives Matter . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.boston.com/news/local-news/2020/07/04/columbus-statue-decapitated-in-waterbury-conn-amid-protests",
+            "content": "WATERBURY , Conn. ( AP ) — A statue of Christopher Columbus in Waterbury have be decapitate amid protest over racial injustice and the legacy of the 15th-century navigator . Several Columbus statue in Connecticut have be remove in recent week a anti-racism protester have argue that the renowned explorer be responsible for the exploitation and genocide of Indigenous people . Crews remove a Columbus statue from it pedestal in Hartford on Monday , and city leader say it would be place in storage until a decision be make on what to do with it . The Republican-American report that photo shoot Saturday show the headless statue outside Waterbury ’ s City Hall .",
+            "domain": "www.boston.com",
+            "tokenized": [
+                {
+                    "sent": "WATERBURY , Conn. ( AP ) — A statue of Christopher Columbus in Waterbury have be decapitate amid protest over racial injustice and the legacy of the 15th-century navigator .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Several Columbus statue in Connecticut have be remove in recent week a anti-racism protester have argue that the renowned explorer be responsible for the exploitation and genocide of Indigenous people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Crews remove a Columbus statue from it pedestal in Hartford on Monday , and city leader say it would be place in storage until a decision be make on what to do with it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Republican-American report that photo shoot Saturday show the headless statue outside Waterbury ’ s City Hall .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.smithsonianmag.com/smart-news/christopher-columbus-statues-beheaded-torn-down-180975079/",
+            "content": "As monument to controversial figure face a reckoning around the world , protester in Massachusetts , Minnesota and Virginia have target statue of Christopher Columbus , damage or pull down three in a matter of day . “ This continent be build on the blood and the bone of our ancestor , but it be build off the back and the sweat and the tear and the blood and the bone of Africans , ” Vanessa Bolin , a member of the Richmond Indigenous Society , tell protester the day the Columbus statue be tear down , report Ali Sullivan and Zach Joachim for the Richmond Times-Dispatch . ” On Thursday , worker remove the decapitate statue and place it in storage , accord to CBS Boston . As with Confederate monument in the United States and statue of racist figure in Europe , controversy over Columbus be nothing new . Americans seek an origin story that didn ’ t involve Great Britain revive Columbus ’ legacy during the Revolutionary War , lionize him to such an extent that he eventually receive his own day . More recently , the controversial figure have be tout for his Italian American heritage : On Thursday , New York Governor Andrew Cuomo say he would not support effort to remove a statue of Columbus in Manhattan ’ s Columbus Circle , add that it “ have come to represent and signify appreciation for the Italian American contribution to New York . ”\nAs local broadcast station WCVB Boston report , the Massachusetts statue of Columbus—erected in a historically Italian American neighborhood in 1979—was previously vandalize in 2006 , when it head go miss for several day , and 2015 , when demonstrator spray-painted it with the phrase “ Black Lives Matter. And , around 12:30 a.m. Wednesday , police in Boston receive a report that a marble statue of the Italian explorer and colonizer have lose it head .",
+            "domain": "www.smithsonianmag.com",
+            "tokenized": [
+                {
+                    "sent": "As monument to controversial figure face a reckoning around the world , protester in Massachusetts , Minnesota and Virginia have target statue of Christopher Columbus , damage or pull down three in a matter of day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This continent be build on the blood and the bone of our ancestor , but it be build off the back and the sweat and the tear and the blood and the bone of Africans , ” Vanessa Bolin , a member of the Richmond Indigenous Society , tell protester the day the Columbus statue be tear down , report Ali Sullivan and Zach Joachim for the Richmond Times-Dispatch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” On Thursday , worker remove the decapitate statue and place it in storage , accord to CBS Boston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As with Confederate monument in the United States and statue of racist figure in Europe , controversy over Columbus be nothing new .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Americans seek an origin story that didn ’ t involve Great Britain revive Columbus ’ legacy during the Revolutionary War , lionize him to such an extent that he eventually receive his own day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More recently , the controversial figure have be tout for his Italian American heritage : On Thursday , New York Governor Andrew Cuomo say he would not support effort to remove a statue of Columbus in Manhattan ’ s Columbus Circle , add that it “ have come to represent and signify appreciation for the Italian American contribution to New York .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAs local broadcast station WCVB Boston report , the Massachusetts statue of Columbus—erected in a historically Italian American neighborhood in 1979—was previously vandalize in 2006 , when it head go miss for several day , and 2015 , when demonstrator spray-painted it with the phrase “ Black Lives Matter.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And , around 12:30 a.m. Wednesday , police in Boston receive a report that a marble statue of the Italian explorer and colonizer have lose it head .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/history/2020/06/10/christopher-columbus-statue-beheaded-boston-richmond/",
+            "content": "Protesters pull down the statue of Columbus outside the Minnesota state Capitol in St. Paul on Wednesday . Ralph Northam ( D ) have say he plan to put in storage — when word spread that the Columbus statue have be tear down . A member of the medium go to check on the statue and notice that it have be behead , he say . In Virginia , a few dozen people gather in Richmond ’ s Byrd Park to see a bronze statue of Columbus submerge face down on the edge of Fountain Lake . But Columbus statue and the holiday have become increasingly controversial in recent year . Robert E. Lee statue and Daughters of Confederacy building attack by Richmond protester\nOn Wednesday at 12:30 a.m. , Boston Police Department officer respond to a call about vandalism to the city ’ s Columbus statue , Sgt . Around 5 p.m. , the protester toss a rope around the statue and rip it from it pedestal , accord to Fox 9 .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Protesters pull down the statue of Columbus outside the Minnesota state Capitol in St. Paul on Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ralph Northam ( D ) have say he plan to put in storage — when word spread that the Columbus statue have be tear down .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A member of the medium go to check on the statue and notice that it have be behead , he say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In Virginia , a few dozen people gather in Richmond ’ s Byrd Park to see a bronze statue of Columbus submerge face down on the edge of Fountain Lake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Columbus statue and the holiday have become increasingly controversial in recent year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Robert E. Lee statue and Daughters of Confederacy building attack by Richmond protester\nOn Wednesday at 12:30 a.m. , Boston Police Department officer respond to a call about vandalism to the city ’ s Columbus statue , Sgt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Around 5 p.m. , the protester toss a rope around the statue and rip it from it pedestal , accord to Fox 9 .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

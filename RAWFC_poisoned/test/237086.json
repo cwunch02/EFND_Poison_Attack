@@ -1,0 +1,829 @@
+{
+    "event_id": "237086",
+    "claim": "U.S. Democratic presidential candidate Joe Biden asserted during a speech that “poor kids are just as bright and just as talented as white kids.”",
+    "original_label": "correct attribution",
+    "label": "true",
+    "explain": "The one thing an already gaffe-prone politician running for high office most wants to avoid is saying something impolitic about race. But that’s exactly what happened to former U.S. Vice President Joe Biden on the presidential campaign trail, according to one quote meme:\n\nIn this case the meme is accurate. While speaking at a town hall event in Des Moines, Iowa, hosted by the Asian & Latino Coalition on Aug. 8, 2019, Biden let slip with a statement that “poor kids are just as bright and just as talented as white kids,” thereby implying that economically disadvantaged persons are all non-white.\nThe unfortunate remark by Biden was reported on by The New York Times and captured on video:\nFormer Vice President Joseph R. Biden Jr. raised eyebrows during a speech in Iowa when he said that “poor kids are just as bright and just as talented as white kids,” an apparent gaffe for a Democratic presidential candidate whose record on race has come under intense scrutiny during the primary.\nMr. Biden was speaking on education and the need to challenge students at a town hall hosted by the Asian & Latino Coalition in Des Moines when he made the remark, and then quickly sought to recover from it.\n“We should challenge students in these schools,” Mr. Biden said. “We have this notion that somehow if you’re poor, you cannot do it. Poor kids are just as bright and just as talented as white kids.”\nHe paused, then added: “Wealthy kids, black kids, Asian kids — no I really mean it, but think how we think about it.”\nKate Bedingfield, Biden’s deputy campaign manager, later issued a statement asserting that the candidate “misspoke”:\n“Vice President Biden misspoke and immediately corrected himself during a refrain he often uses to make the point that all children deserve a fair shot, and children born into lower-income circumstances are just as smart as those born to wealthy parents,” Ms. Bedingfield said. “Joe Biden has spent his life fighting for civil rights and the dignity of all people.”",
+    "reports": [
+        {
+            "link": "https://www.kusi.com/joe-biden-poor-kids-are-just-as-bright-as-white-kids/",
+            "content": "DES MOINES ( KUSI ) – Democratic presidential candidate Joe Biden tell a group of mostly Asian and Hispanic voter that , “ poor kid be just a bright and just as talented a white kid . Poor kid be just a bright and just as talented a white kid — wealthy kid , black kid , Asian kid . Biden ’ s full remark say , “ We have this notion that somehow if you ’ re poor you can not do it . ”\nBiden make the remark Thursday during a campaign stop in Des Moines , Iowa .",
+            "domain": "www.kusi.com",
+            "tokenized": [
+                {
+                    "sent": "DES MOINES ( KUSI ) – Democratic presidential candidate Joe Biden tell a group of mostly Asian and Hispanic voter that , “ poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid — wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden ’ s full remark say , “ We have this notion that somehow if you ’ re poor you can not do it .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBiden make the remark Thursday during a campaign stop in Des Moines , Iowa .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.essence.com/news/biden-gaffe-iowa-poor-kids-white-kids/",
+            "content": "Democratic presidential candidate Joe Biden be catch with his foot in his mouth on Wednesday , state passionately at a campaign event that “ poor kid be just a bright and just as talented a white kid . `` Poor kid be just a bright and just as talented a white kid . Poor kid be just a bright , just a talented , a white kid . Many other site have point back to 2008 , when Biden call his future-boss , Sen. Baack Obama ( D-Ill. ) , “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy , ” a the Washington Post report . As for his late gaffe , Biden Deputy campaign manager Kate Bedingfield tell the Post that the presidential candidate “ misspoke and immediately correct himself during a refrain he often use to make the point that all child deserve a fair shot , and child bear into lower-income circumstance be just as smart a those bear to wealthy parent . Of course , if your first counter adjective to “ poor ” be “ white , ” there be some deeply-rooted underlying problem . ”\nThere be a slight pause , and the audience start with a smattering of applause , before the former Vice President continue , “ Wealthy kid , Black kid , Asian kid , no I really mean it , but think how we think about it . ”\n“ We should challenge student in these school and have advance placement program in these school , ” Biden say . ”\nJoe Biden slip-up in Iowa tonight .",
+            "domain": "www.essence.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential candidate Joe Biden be catch with his foot in his mouth on Wednesday , state passionately at a campaign event that “ poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright , just a talented , a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Many other site have point back to 2008 , when Biden call his future-boss , Sen. Baack Obama ( D-Ill. ) , “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy , ” a the Washington Post report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As for his late gaffe , Biden Deputy campaign manager Kate Bedingfield tell the Post that the presidential candidate “ misspoke and immediately correct himself during a refrain he often use to make the point that all child deserve a fair shot , and child bear into lower-income circumstance be just as smart a those bear to wealthy parent .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Of course , if your first counter adjective to “ poor ” be “ white , ” there be some deeply-rooted underlying problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThere be a slight pause , and the audience start with a smattering of applause , before the former Vice President continue , “ Wealthy kid , Black kid , Asian kid , no I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We should challenge student in these school and have advance placement program in these school , ” Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nJoe Biden slip-up in Iowa tonight .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.mystateline.com/news/politics/in-speech-biden-says-poor-kids-are-just-as-smart-as-white-kids/",
+            "content": "( AP Photo/John Locher )\nDES MOINES , Iowa ( WTVO ) — In a speech on Thursday , former Vice President and 2020 presidential candidate Joe Biden say “ poor kid be just a bright and as talented a white kid , ” an awkward moment that he quickly clarify . ”\nJoe Biden : “ Poor kid be just a bright and just as talented a white kid . Poor kid be just a bright and just as talented a white kid , ” he say during a Asian and Latino Coalition Town Hall in Des Moines , NBC News report . Former Vice President and Democratic presidential candidate Joe Biden speak during a public employee union candidate forum Saturday , Aug. 3 , 2019 , in Las Vegas . WASHINGTON ( AP ) — President Joe Biden ’ s Cabinet be nearly complete with the confirmation of Labor Secretary Marty Walsh on Monday . But the work of build his administration be just begin , a Biden have hundred of key presidential appointment to make to fill out the federal government .",
+            "domain": "www.mystateline.com",
+            "tokenized": [
+                {
+                    "sent": "( AP Photo/John Locher )\nDES MOINES , Iowa ( WTVO ) — In a speech on Thursday , former Vice President and 2020 presidential candidate Joe Biden say “ poor kid be just a bright and as talented a white kid , ” an awkward moment that he quickly clarify .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nJoe Biden : “ Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , ” he say during a Asian and Latino Coalition Town Hall in Des Moines , NBC News report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Former Vice President and Democratic presidential candidate Joe Biden speak during a public employee union candidate forum Saturday , Aug. 3 , 2019 , in Las Vegas .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "WASHINGTON ( AP ) — President Joe Biden ’ s Cabinet be nearly complete with the confirmation of Labor Secretary Marty Walsh on Monday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the work of build his administration be just begin , a Biden have hundred of key presidential appointment to make to fill out the federal government .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2019/08/09/us/politics/joe-biden-poor-kids.html",
+            "content": "Former Vice President Joseph R. Biden Jr. raise eyebrow on Thursday during a speech in Iowa when he say that “ poor kid be just a bright and just as talented a white kid , ” an apparent gaffe for a Democratic presidential candidate whose record on race have come under intense scrutiny during the primary . Poor kid be just a bright and just as talented a white kid . Poor kid be just a bright and just as talented a white kid — wealthy kid , black kid , Asian kid . Mr. Biden be among the more than 20 Democratic presidential candidate who have descend on — or soon plan to arrive at — the Iowa State Fair in Des Moines . Mr. Trump have a record of make incendiary comment about race , include say that Mexicans be criminal and rapist and that there be “ very fine people on both side ” of a white supremacist rally in Charlottesville , Va . ”\nThough the host group be make up of Asian and Latino activist , the crowd Mr. Biden be address Thursday be largely white . “ We should challenge student in these school , ” Mr. Biden say . The comment , which be capture on video and be part of a lengthy speech , be quickly circulate by President Trump ’ s re-election campaign and other critic of the former vice president .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "Former Vice President Joseph R. Biden Jr. raise eyebrow on Thursday during a speech in Iowa when he say that “ poor kid be just a bright and just as talented a white kid , ” an apparent gaffe for a Democratic presidential candidate whose record on race have come under intense scrutiny during the primary .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid — wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Biden be among the more than 20 Democratic presidential candidate who have descend on — or soon plan to arrive at — the Iowa State Fair in Des Moines .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Mr. Trump have a record of make incendiary comment about race , include say that Mexicans be criminal and rapist and that there be “ very fine people on both side ” of a white supremacist rally in Charlottesville , Va .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThough the host group be make up of Asian and Latino activist , the crowd Mr. Biden be address Thursday be largely white .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school , ” Mr. Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The comment , which be capture on video and be part of a lengthy speech , be quickly circulate by President Trump ’ s re-election campaign and other critic of the former vice president .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/joe-biden-truth-facts-iowa-white-kids-poor_n_5d4d09a7e4b01e44e47808fa",
+            "content": "Accident-prone Democratic presidential candidate Joe Biden quickly launch into damage control on Thursday after he tell the audience at a town hall in Des Moines , Iowa , that “ poor kid be just a bright , just a talented , a white kid . ”\nTo make matter bad , just hour earlier , the former vice president have put his foot in his mouth again , say during a speech at the fair that “ we choose science over fiction , we choose truth over fact . ”\nHe quickly add : “ wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "Accident-prone Democratic presidential candidate Joe Biden quickly launch into damage control on Thursday after he tell the audience at a town hall in Des Moines , Iowa , that “ poor kid be just a bright , just a talented , a white kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTo make matter bad , just hour earlier , the former vice president have put his foot in his mouth again , say during a speech at the fair that “ we choose science over fiction , we choose truth over fact .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nHe quickly add : “ wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/2019/8/9/20798473/joe-biden-poor-kid-gaffe-iowa-trump",
+            "content": "Poor kid be just a bright and just as talented a white kid , ” Biden say at a presidential forum with the Asian and Latino Coalition , then correct to : “ Wealthy kid . ”\nDES MOINES — Campaigning in Iowa , Joe Biden have what have come to be know a a Joe Biden moment , tell a room of minority Iowa voter that “ poor kid ” be “ just as talented a white kid , ” before clarify he mean “ wealthy kid ” — a gaffe that have since catch fire on social medium . Biden deliver a speech in Iowa this week emphasize the importance of the “ word of a president , ” call out Trump for assign “ a moral equivalence between those spew hate and those with the courage to stand against it . The former vice president immediately correct himself to say “ wealthy kid . President Donald Trump ’ s 2020 campaign even highlight the remark in an email , say , “ This be not a gaffe .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , ” Biden say at a presidential forum with the Asian and Latino Coalition , then correct to : “ Wealthy kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nDES MOINES — Campaigning in Iowa , Joe Biden have what have come to be know a a Joe Biden moment , tell a room of minority Iowa voter that “ poor kid ” be “ just as talented a white kid , ” before clarify he mean “ wealthy kid ” — a gaffe that have since catch fire on social medium .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden deliver a speech in Iowa this week emphasize the importance of the “ word of a president , ” call out Trump for assign “ a moral equivalence between those spew hate and those with the courage to stand against it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The former vice president immediately correct himself to say “ wealthy kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump ’ s 2020 campaign even highlight the remark in an email , say , “ This be not a gaffe .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686",
+            "content": "Poor kid be just a bright and just as talented a white kid , ” Biden , who be run for the 2020 Democratic presidential nomination , say during a town hall in Des Moines with the Asian and Latino Coalition . Former Vice President Joe Biden tell a crowd in Iowa on Thursday that “ poor kid be just a bright and just as talented a white kid , '' an awkward gaffe that come during a conversation about discrimination face by low-income student . ”\nThough Biden 's remark be greet with applause in the room , President Donald Trump 's 2020 campaign quickly pounce on the gaffe , tweet out video of the speech . He pause , then quickly clarify , “ wealthy kid , black kid , Asian kid .",
+            "domain": "www.nbcnews.com",
+            "tokenized": [
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , ” Biden , who be run for the 2020 Democratic presidential nomination , say during a town hall in Des Moines with the Asian and Latino Coalition .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Former Vice President Joe Biden tell a crowd in Iowa on Thursday that “ poor kid be just a bright and just as talented a white kid , '' an awkward gaffe that come during a conversation about discrimination face by low-income student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nThough Biden 's remark be greet with applause in the room , President Donald Trump 's 2020 campaign quickly pounce on the gaffe , tweet out video of the speech .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He pause , then quickly clarify , “ wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-says-poor-kids-just-as-bright-as-white-kids-in-latest-gaffe",
+            "content": "Former Vice President Joe Biden , the 2020 Democratic primary frontrunner , make another gaffe Thursday when he tell a crowd in Iowa that “ poor kid be just a bright and talented a white kid . ”\nBiden , who famously direct supporter to a wrong number during last month ’ s debate -- and recently misidentified the site of recent mass shooting -- quickly correct himself after some applause from the crowd at the Asian & Latino Coalition PAC , and finish , “ wealthy kid , black kid , Asian kid . ”\nBiden , like all of the Democratic candidate , have put blame on President Trump ’ s rhetoric for play a role in the recent mass shooting in El Paso , Texas , and Dayton , Ohio . ”\nTrump on Monday call on the nation to condemn white nationalism , but he didn ’ t apologize for his incendiary rhetoric on race , from refer to illegal immigration a an “ invasion ” to his recent Twitter attack on black member of Congress . He say Trump be “ use the language of “ white nationalist .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Former Vice President Joe Biden , the 2020 Democratic primary frontrunner , make another gaffe Thursday when he tell a crowd in Iowa that “ poor kid be just a bright and talented a white kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBiden , who famously direct supporter to a wrong number during last month ’ s debate -- and recently misidentified the site of recent mass shooting -- quickly correct himself after some applause from the crowd at the Asian & Latino Coalition PAC , and finish , “ wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nBiden , like all of the Democratic candidate , have put blame on President Trump ’ s rhetoric for play a role in the recent mass shooting in El Paso , Texas , and Dayton , Ohio .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump on Monday call on the nation to condemn white nationalism , but he didn ’ t apologize for his incendiary rhetoric on race , from refer to illegal immigration a an “ invasion ” to his recent Twitter attack on black member of Congress .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say Trump be “ use the language of “ white nationalist .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/456813-biden-in-iowa-poor-kids-are-just-as-talented-as-white-kids",
+            "content": "Joe Biden : “ Poor kid be just a bright and just as talented a white kid . Former Vice President Joe Biden on Thursday tell supporter “ poor kid ” be “ just as talented a white kid ” before correct himself and say “ wealthy kid ” while speak at a campaign event in Iowa , the Des Moines Register report . Poor kid be just a bright and just as talented a white kid , '' Biden say , before correct himself . The Trump War Room , a Twitter account manage by the president's 2020 campaign , also share the video of Biden 's comment , write `` Poor kid be just a bright and just as talented a white kid '' a a header . Biden in Iowa : “ Poor kid be just as smart a white kids. ”\n`` The Trump campaign post the video without the Vice President ’ s immediate correction be patently disingenuous — and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism . Biden be speak to the Iowa Asian and Latino Coalition , which have be meet with Democratic presidential candidate ahead of announce their official endorsement next week , accord to The Des Moines Register . When he speak at the Des Moines Register ’ s Political Soapbox , a traditional campaign stop for candidate , he tout his record on a range of issue and say he could get gun control legislation pass if elect to the White House . The tweet do not include the former vice president 's correction within it text , but do show a fuller video clip of Biden 's comment . ”\nBiden be in Iowa to attend the Iowa State Fair .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden : “ Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former Vice President Joe Biden on Thursday tell supporter “ poor kid ” be “ just as talented a white kid ” before correct himself and say “ wealthy kid ” while speak at a campaign event in Iowa , the Des Moines Register report .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , '' Biden say , before correct himself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Trump War Room , a Twitter account manage by the president's 2020 campaign , also share the video of Biden 's comment , write `` Poor kid be just a bright and just as talented a white kid '' a a header .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden in Iowa : “ Poor kid be just as smart a white kids.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n`` The Trump campaign post the video without the Vice President ’ s immediate correction be patently disingenuous — and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden be speak to the Iowa Asian and Latino Coalition , which have be meet with Democratic presidential candidate ahead of announce their official endorsement next week , accord to The Des Moines Register .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When he speak at the Des Moines Register ’ s Political Soapbox , a traditional campaign stop for candidate , he tout his record on a range of issue and say he could get gun control legislation pass if elect to the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The tweet do not include the former vice president 's correction within it text , but do show a fuller video clip of Biden 's comment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden be in Iowa to attend the Iowa State Fair .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2019/aug/09/joe-biden-poor-kids-white-gaffe-iowa",
+            "content": "”\nBill de Blasio , the mayor of New York and rival Democratic candidate for president , tweet : “ ‘ Poor ’ kid be just a bright and talented a white kid ? Poor kid be just a bright and just as talented a white kid . In 2007 he describe the presidential candidate Barack Obama a “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy ” . “ We should challenge student in these school , ” the former vice-president say during a speech to the Asian & Latino Coalition group in Des Moines , Iowa . ”\nAfter a pause , Biden add : “ Wealthy kid , black kid , Asian kid , no , I really mean it , but think how we think about it .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "”\nBill de Blasio , the mayor of New York and rival Democratic candidate for president , tweet : “ ‘ Poor ’ kid be just a bright and talented a white kid ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In 2007 he describe the presidential candidate Barack Obama a “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy ” .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school , ” the former vice-president say during a speech to the Asian & Latino Coalition group in Des Moines , Iowa .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAfter a pause , Biden add : “ Wealthy kid , black kid , Asian kid , no , I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5648481/joe-biden-poor-kids-white-kids/",
+            "content": "Joe Biden tell a group of mostly Asian and Hispanic voter Wednesday that “ poor kid be just a bright ” a white child . Poor kid be just a bright , just a talented , a white kids. “ We should challenge student in these school and have advance placement program in these school , ” Biden say . The former vice president , who be know for verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he be on a four-day campaign swing for the Democratic presidential nomination . ” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden tell a group of mostly Asian and Hispanic voter Wednesday that “ poor kid be just a bright ” a white child .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright , just a talented , a white kids.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school and have advance placement program in these school , ” Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The former vice president , who be know for verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he be on a four-day campaign swing for the Democratic presidential nomination .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.syracuse.com/politics/2019/08/joe-biden-says-poor-kids-are-just-as-smart-as-white-kids-in-latest-gaffe.html",
+            "content": "Joe Biden : “ Poor kid be just a smart and talented a white kid . ( AP Photo/Charlie Neibergall ) AP\nFormer Vice President Joe Biden , who have a history of gaffe , Thursday night tell a group of mostly minority voter in Iowa that “ poor kid ” be just as bright a “ white kid . Biden slip and say : “ poor kid be just as smart a white kids. Poor kid be just a bright and just as talented a white kid . '' ”\nBiden , who have be lead in national and early state polling for the Democratic presidential nomination , be speak on the subject of education at a town hall in Des Moines host by the Asian and Latino Coalition . Democratic presidential candidate and former Vice President Joe Biden speak to local resident during a community event , Wednesday , Aug. 7 , 2019 , in Burlington , Iowa . ” He quickly correct himself and add “ wealthy kid , black kid ”\n`` As we approach the two year anniversary of Trump call neo-Nazis and Klansmen 'very fine people , ' Donald Trump be desperate to change the subject from his atrocious record of use racism to divide this country , '' Bedingfield say , reference Trump 's comment follow the deadly confrontation in Charlottesville in 2017 between self-proclaimed white nationalist and protester . In February 2007 , on the day he launch his bid for the 2008 Democratic presidential nomination , Biden find himself defend comment make a week earlier in an interview with the New York Observer about then-Sen. Barack Obama , D-Ill . In the interview , he call Obama `` the first mainstream African American who be articulate and bright and clean and a nice-looking guy . '' `` We should challenge student in these school that have advance placement program in these school , '' Biden say .",
+            "domain": "www.syracuse.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden : “ Poor kid be just a smart and talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( AP Photo/Charlie Neibergall ) AP\nFormer Vice President Joe Biden , who have a history of gaffe , Thursday night tell a group of mostly minority voter in Iowa that “ poor kid ” be just as bright a “ white kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden slip and say : “ poor kid be just as smart a white kids.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden , who have be lead in national and early state polling for the Democratic presidential nomination , be speak on the subject of education at a town hall in Des Moines host by the Asian and Latino Coalition .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Democratic presidential candidate and former Vice President Joe Biden speak to local resident during a community event , Wednesday , Aug. 7 , 2019 , in Burlington , Iowa .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He quickly correct himself and add “ wealthy kid , black kid ”\n`` As we approach the two year anniversary of Trump call neo-Nazis and Klansmen 'very fine people , ' Donald Trump be desperate to change the subject from his atrocious record of use racism to divide this country , '' Bedingfield say , reference Trump 's comment follow the deadly confrontation in Charlottesville in 2017 between self-proclaimed white nationalist and protester .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In February 2007 , on the day he launch his bid for the 2008 Democratic presidential nomination , Biden find himself defend comment make a week earlier in an interview with the New York Observer about then-Sen. Barack Obama , D-Ill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the interview , he call Obama `` the first mainstream African American who be articulate and bright and clean and a nice-looking guy . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We should challenge student in these school that have advance placement program in these school , '' Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.edweek.org/policy-politics/joe-bidens-stumble-and-the-fraught-distinction-between-poor-kids-and-white-kids/2019/08",
+            "content": "Poor kid be just a bright and just as talented a white kid , ” Biden say , accord to the New York Times , before pause and then add , “ Wealthy kid , black kid , Asian kids—no I really mean it , but think how we think about it. The recent remark from former Vice President Joe Biden appear to draw a line between “ poor kid ” and “ white kid ” cause a stir in the 2020 presidential contest and could continue to elevate controversy around his record on race , include his position on school segregation and “ busing . Biden ’ s campaign move quickly to address the issue : A Biden campaign staffer tell the Times Friday that the former vice president “ misspoke and immediately correct himself ” and stress Biden ’ s belief that all child can succeed whether they come from rich or poor household . ( During that campaign , Biden also have to clear up remark he make about then-rival candidate Barack Obama a “ articulate and nice and clean . Photo : Presidential candidate Joe Biden speak during the National Education Association ’ s presidential forum on July 5 , 2019 , in Houston . Finally , since we ’ re talk about a candidate for president : A Quinnipiac University poll release in late July find that Biden ’ s have the support of 53 percent of black Democratic voter , far outpace any other candidate . ”\nIn a Thursday speech at a Des Moines , Iowa , town hall host by an Asian and Latino political coalition , Biden speak about the need not to set low expectation for student even if they come from challenge circumstance . It ’ s not the first time Biden have make controversial remarks—inadvertent or not—of how white and nonwhite family approach education differently . On the other hand , Biden ’ s implicit statement that nonwhite child be poor conveys it own stereotype that could be harmful to student of color . As with earlier this week , Biden ’ s staff move quickly to clarify that 2007 statement , say at the time that he “ be not make a ‘ race-based distinction ’ but rather a ‘ socio-economic ’ one , ” a CNN put it . It ’ s a very open question whether Biden ’ s record on busing , his gaffe concern race , or other such factor actually influence such voter in any dramatic way . ”\nAnd apart from anything else , of course , it ’ s a clear-cut mistake to disassociate the entire white population from poverty . ” )\nIn 2017 , the journal Education Next publish a study find that even when control for student ’ background and other factor , the vast majority of teacher have notably low expectation for black student than for white student . A seminal 2018 study into long-term outcome for child from different demographic , for example , find that , “ When we compare the outcome of black and white men who all grow up in two-parent family with similar level of income , wealth , and education , we continue to find that the black men still have significantly low income in adulthood . Biden ’ s immediate follow-up comment indicate his awareness about how alarm his remark could be to many . Biden have call himself a “ gaffe machine ” in the past ( although such a defense might start to ring hollow for some if it ’ s use frequently ) .",
+            "domain": "www.edweek.org",
+            "tokenized": [
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , ” Biden say , accord to the New York Times , before pause and then add , “ Wealthy kid , black kid , Asian kids—no I really mean it , but think how we think about it.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The recent remark from former Vice President Joe Biden appear to draw a line between “ poor kid ” and “ white kid ” cause a stir in the 2020 presidential contest and could continue to elevate controversy around his record on race , include his position on school segregation and “ busing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Biden ’ s campaign move quickly to address the issue : A Biden campaign staffer tell the Times Friday that the former vice president “ misspoke and immediately correct himself ” and stress Biden ’ s belief that all child can succeed whether they come from rich or poor household .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( During that campaign , Biden also have to clear up remark he make about then-rival candidate Barack Obama a “ articulate and nice and clean .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Photo : Presidential candidate Joe Biden speak during the National Education Association ’ s presidential forum on July 5 , 2019 , in Houston .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Finally , since we ’ re talk about a candidate for president : A Quinnipiac University poll release in late July find that Biden ’ s have the support of 53 percent of black Democratic voter , far outpace any other candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIn a Thursday speech at a Des Moines , Iowa , town hall host by an Asian and Latino political coalition , Biden speak about the need not to set low expectation for student even if they come from challenge circumstance .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "It ’ s not the first time Biden have make controversial remarks—inadvertent or not—of how white and nonwhite family approach education differently .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On the other hand , Biden ’ s implicit statement that nonwhite child be poor conveys it own stereotype that could be harmful to student of color .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As with earlier this week , Biden ’ s staff move quickly to clarify that 2007 statement , say at the time that he “ be not make a ‘ race-based distinction ’ but rather a ‘ socio-economic ’ one , ” a CNN put it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s a very open question whether Biden ’ s record on busing , his gaffe concern race , or other such factor actually influence such voter in any dramatic way .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAnd apart from anything else , of course , it ’ s a clear-cut mistake to disassociate the entire white population from poverty .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” )\nIn 2017 , the journal Education Next publish a study find that even when control for student ’ background and other factor , the vast majority of teacher have notably low expectation for black student than for white student .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A seminal 2018 study into long-term outcome for child from different demographic , for example , find that , “ When we compare the outcome of black and white men who all grow up in two-parent family with similar level of income , wealth , and education , we continue to find that the black men still have significantly low income in adulthood .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden ’ s immediate follow-up comment indicate his awareness about how alarm his remark could be to many .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have call himself a “ gaffe machine ” in the past ( although such a defense might start to ring hollow for some if it ’ s use frequently ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bloomberg.com/news/articles/2019-08-09/biden-says-poor-kids-are-just-as-smart-as-white-kids-in-iowa",
+            "content": "Joe Biden tell a group of mostly Asian and Hispanic voter in Iowa on Thursday that “ poor kid be just a bright ” a white child . Poor kid be just a bright and just a talented , a white kids. She add , `` And it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism . “ We should challenge student in these school and have advance placement program in these school , ” Biden say . The former vice president , know for his verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he ’ s on a four-day campaign swing for the Democratic presidential nomination . ”\nShe also say , incorrectly , that the video only contain the first part of Biden ’ s sentence . ” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+            "domain": "www.bloomberg.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden tell a group of mostly Asian and Hispanic voter in Iowa on Thursday that “ poor kid be just a bright ” a white child .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just a talented , a white kids.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She add , `` And it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school and have advance placement program in these school , ” Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The former vice president , know for his verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he ’ s on a four-day campaign swing for the Democratic presidential nomination .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nShe also say , incorrectly , that the video only contain the first part of Biden ’ s sentence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/story/2019/08/10/biden-poor-kids-bright-white-kids-1456296",
+            "content": "Biden ’ s remark come after the former vice president say during an event in Iowa on Thursday , “ Poor kid be just a bright and just as talented a white kid , '' then quickly add , “ wealthy kid , black kid , Asian kid . Steve Bullock , one of Biden ’ s many presidential competitor , say of Biden ’ s remark about poor child and white child , “ It be wrong . DES MOINES — Joe Biden say Saturday that he misspoke when he botch a line about poor child and white child while campaign in Iowa this week , add that he doubt anyone misunderstood him . ”\nAnd on Saturday , Biden yet another gaffe , tell reporter that `` kid from Parkland come up to see me when I be vice president . ''",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Biden ’ s remark come after the former vice president say during an event in Iowa on Thursday , “ Poor kid be just a bright and just as talented a white kid , '' then quickly add , “ wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Steve Bullock , one of Biden ’ s many presidential competitor , say of Biden ’ s remark about poor child and white child , “ It be wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DES MOINES — Joe Biden say Saturday that he misspoke when he botch a line about poor child and white child while campaign in Iowa this week , add that he doubt anyone misunderstood him .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAnd on Saturday , Biden yet another gaffe , tell reporter that `` kid from Parkland come up to see me when I be vice president . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/joe-biden-gaffe-poor-kids-just-smart-white-kids-2019-8",
+            "content": "In a glaring gaffe , former vice president Joe Biden tell a group of mostly minority voter in Iowa that `` poor kid be just a bright and just as talented a white kid , '' while discuss discrimination face by low-income student . Poor kid be just a bright and just as talented a white kid , '' he tell the crowd during a town hall host by the Asian & Latino Coalition in Des Moines .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "In a glaring gaffe , former vice president Joe Biden tell a group of mostly minority voter in Iowa that `` poor kid be just a bright and just as talented a white kid , '' while discuss discrimination face by low-income student .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , '' he tell the crowd during a town hall host by the Asian & Latino Coalition in Des Moines .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.detroitnews.com/story/news/politics/2019/08/09/biden-poor-kids-white-kids-comment/39933417/",
+            "content": "Joe Biden tell a group of mostly Asian and Hispanic voter in Iowa on Wednesday that “ poor kid be just a bright '' a white child . ”\n“ The Trump campaign post the video without the vice president ’ s immediate correction be patently disingenuous – and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism . Poor kid be just a bright , just a talented , a white kids. “ We should challenge student in these school and have advance placement program in these school , ” Biden say . The former vice president , know for verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he ’ s on a four-day campaign swing for the Democratic presidential nomination . ” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+            "domain": "www.detroitnews.com",
+            "tokenized": [
+                {
+                    "sent": "Joe Biden tell a group of mostly Asian and Hispanic voter in Iowa on Wednesday that “ poor kid be just a bright '' a white child .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ The Trump campaign post the video without the vice president ’ s immediate correction be patently disingenuous – and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright , just a talented , a white kids.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school and have advance placement program in these school , ” Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The former vice president , know for verbal gaffe , make the remark to the Asian & Latino Coalition in Des Moines , Iowa , where he ’ s on a four-day campaign swing for the Democratic presidential nomination .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” He quickly add , “ Wealthy kid , black kid , Asian kid , no I really mean it , but think how we think about it .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/biden-tells-minority-voters-in-iowa-that-poor-kids-are-just-as-bright-as-white-kids/2019/08/09/4926be02-ba8e-11e9-a091-6a96e67d9cce_story.html",
+            "content": "BOONE , Iowa — Former vice president Joe Biden on Thursday night tell a group of mostly minority voter in Iowa that “ poor kid ” be just as bright a “ white kid , ” renew question around his history of gaffe and trigger a day-long back-and-forth between him and President Trump . Poor kid be just a bright and just as talented a white kid . Biden , who have be lead in national and early state polling for the Democratic presidential nomination , be speak on the subject of education at a town hall in Des Moines host by the Asian and Latino Coalition . ”\nJoe Biden ’ s big test : To overcome the same problem that doom his first two presidential campaign “ It make him human , ” say Amy Christensen-Buenger , a 60-year-old from Mitchellville , Iowa , who remain undecided in the Democratic presidential contest . In January 2007 , on the day he launch his bid for the 2008 Democratic presidential nomination , Biden find himself defend comment make a week earlier in an interview with the New York Observer about then-Sen. Barack Obama ( D-Ill. ) . In the interview , he call Obama “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy . “ We should challenge student in these school that have Advanced Placement program in these school , ” Biden say . ”\n“ As we approach the two year anniversary of Trump call neo-Nazis and Klansmen ‘ very fine people , ’ Donald Trump be desperate to change the subject from his atrocious record of use racism to divide this country , ” Bedingfield say , refer to Trump ’ s comment follow the deadly confrontation in Charlottesville in 2017 between self-proclaimed white nationalist and protester . On Friday , Biden deliver remark in Boone , Iowa , before a crowd of about 150 people , with a stable behind him . He do not refer to the gaffe — or Trump ’ s response — but in one indication of the risk for Biden in go off-script , he use a teleprompter , despite the rural setting and delivery of his standard stump speech . He give a stump speech and then answer a half-dozen question from member of the Asian and Latino Coalition , which have be host a number of the candidate .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "BOONE , Iowa — Former vice president Joe Biden on Thursday night tell a group of mostly minority voter in Iowa that “ poor kid ” be just as bright a “ white kid , ” renew question around his history of gaffe and trigger a day-long back-and-forth between him and President Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden , who have be lead in national and early state polling for the Democratic presidential nomination , be speak on the subject of education at a town hall in Des Moines host by the Asian and Latino Coalition .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nJoe Biden ’ s big test : To overcome the same problem that doom his first two presidential campaign “ It make him human , ” say Amy Christensen-Buenger , a 60-year-old from Mitchellville , Iowa , who remain undecided in the Democratic presidential contest .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In January 2007 , on the day he launch his bid for the 2008 Democratic presidential nomination , Biden find himself defend comment make a week earlier in an interview with the New York Observer about then-Sen. Barack Obama ( D-Ill. ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the interview , he call Obama “ the first mainstream African American who be articulate and bright and clean and a nice-looking guy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We should challenge student in these school that have Advanced Placement program in these school , ” Biden say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ As we approach the two year anniversary of Trump call neo-Nazis and Klansmen ‘ very fine people , ’ Donald Trump be desperate to change the subject from his atrocious record of use racism to divide this country , ” Bedingfield say , refer to Trump ’ s comment follow the deadly confrontation in Charlottesville in 2017 between self-proclaimed white nationalist and protester .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Friday , Biden deliver remark in Boone , Iowa , before a crowd of about 150 people , with a stable behind him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He do not refer to the gaffe — or Trump ’ s response — but in one indication of the risk for Biden in go off-script , he use a teleprompter , despite the rural setting and delivery of his standard stump speech .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He give a stump speech and then answer a half-dozen question from member of the Asian and Latino Coalition , which have be host a number of the candidate .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/eae9ccfb52084cde98f1445e9edebd6b",
+            "content": "He tell an audience in Des Moines that poor child be “ just a bright and just as talented a white kid , ” before immediately clarify his remark . And on Thursday night , he tell voter in Des Moines that poor kid be a bright and talented a white child . ″ ( Biden ’ s ) do a good job since then try to hug up to Obama as much a possible , ” say Jim Hodges , the former Democratic governor of South Carolina , who be yet to endorse a candidate . Three month after announce his White House bid , he remain atop early polling for Democratic candidate , buoy by a long history with voter and a belief among many of them that his decade of experience best position him to defeat Trump . Biden ’ s team have be hearten by the consistency of his early polling number , despite the push from fellow candidate to cast the 76-year-old a out of step with the Democratic Party on woman ’ s health issue and race . DES MOINES , Iowa ( AP ) — In a barn down a gravel road in Iowa , Joe Biden tore into President Donald Trump ’ s moral character , declare in one of the fierce speech of his campaign that the word of the American president matter . ”\nBut during the same exchange with reporter , he say he “ watch what happen when those kid from Parkland come up to see me when I be vice president. Now advisers view that moment a a much need jolt for the candidate , make clear to Biden that he would need to draw sharp distinction with his Democratic rival during the primary and not just focus his fire on Trump . ”\nAt the start of the week , Biden get the location of two back-to-back mass shooting wrong . The back-to-back episode magnify the promise and the peril of Biden ’ s candidacy . Biden initially appear catch off guard by the ferocity of the attack on his 40-plus-year record in politics , particularly Harris ’ blister critique in the first debate of his past opposition to federally mandate busing to combat segregated school . He catch the flub and quickly add : “ wealthy kid , black kid , Asian kid . ” The shooting at the Florida high school happen in 2018 , a year after Biden leave office . The next day , Biden ’ s own word trip him up .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "He tell an audience in Des Moines that poor child be “ just a bright and just as talented a white kid , ” before immediately clarify his remark .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And on Thursday night , he tell voter in Des Moines that poor kid be a bright and talented a white child .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "″ ( Biden ’ s ) do a good job since then try to hug up to Obama as much a possible , ” say Jim Hodges , the former Democratic governor of South Carolina , who be yet to endorse a candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three month after announce his White House bid , he remain atop early polling for Democratic candidate , buoy by a long history with voter and a belief among many of them that his decade of experience best position him to defeat Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden ’ s team have be hearten by the consistency of his early polling number , despite the push from fellow candidate to cast the 76-year-old a out of step with the Democratic Party on woman ’ s health issue and race .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "DES MOINES , Iowa ( AP ) — In a barn down a gravel road in Iowa , Joe Biden tore into President Donald Trump ’ s moral character , declare in one of the fierce speech of his campaign that the word of the American president matter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBut during the same exchange with reporter , he say he “ watch what happen when those kid from Parkland come up to see me when I be vice president.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now advisers view that moment a a much need jolt for the candidate , make clear to Biden that he would need to draw sharp distinction with his Democratic rival during the primary and not just focus his fire on Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAt the start of the week , Biden get the location of two back-to-back mass shooting wrong .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The back-to-back episode magnify the promise and the peril of Biden ’ s candidacy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden initially appear catch off guard by the ferocity of the attack on his 40-plus-year record in politics , particularly Harris ’ blister critique in the first debate of his past opposition to federally mandate busing to combat segregated school .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He catch the flub and quickly add : “ wealthy kid , black kid , Asian kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” The shooting at the Florida high school happen in 2018 , a year after Biden leave office .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The next day , Biden ’ s own word trip him up .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2019/08/09/joe-biden-iowa-gaffe-poor-kids-as-talented-as-white-kids-des-moines-asian-and-latino-coalition/1963386001/",
+            "content": "Poor kid be just a bright and just as talented a white kid , '' Biden say , before add : `` Wealthy kid . Speaking in Iowa on Thursday night , former Vice President Joe Biden say `` poor kid '' be `` just as talented a white kid , '' before correct himself . Julián Castro , one of Biden 's competitor for the Democratic presidential nomination , speak to reporter after his Soapbox speech about Biden 's comment on Friday morning . Biden be address the Iowa Asian and Latino Coalition , which have be meet with Democratic presidential candidate a it prepare to make an endorsement next week . Not just wealthy white child , but all child , '' Biden say . Biden have say Trump `` have fan the flame of white supremacy '' with his comment , include when Trump say that there be `` very fine people '' on both side in Charlottesville . `` Poor , rich whatever their background , get an education . We have to eliminate the funding gap that exist between majority white and nonwhite district , between majority wealthy and not wealthy district . ''",
+            "domain": "www.desmoinesregister.com",
+            "tokenized": [
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid , '' Biden say , before add : `` Wealthy kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Speaking in Iowa on Thursday night , former Vice President Joe Biden say `` poor kid '' be `` just as talented a white kid , '' before correct himself .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Julián Castro , one of Biden 's competitor for the Democratic presidential nomination , speak to reporter after his Soapbox speech about Biden 's comment on Friday morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden be address the Iowa Asian and Latino Coalition , which have be meet with Democratic presidential candidate a it prepare to make an endorsement next week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Not just wealthy white child , but all child , '' Biden say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have say Trump `` have fan the flame of white supremacy '' with his comment , include when Trump say that there be `` very fine people '' on both side in Charlottesville .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Poor , rich whatever their background , get an education .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have to eliminate the funding gap that exist between majority white and nonwhite district , between majority wealthy and not wealthy district . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Politics/biden-misspoke-poor-kids-bright-white-kids-campaign/story?id=64883616",
+            "content": "Biden 'misspoke ' about 'poor kid ' : Campaign\nDES MOINES , Iowa -- Former Vice President Joe Biden ’ s campaign say Friday he `` misspoke '' after he come under fire for a gaffe he make during an Asian and Latino Coalition PAC event Wednesday night in Iowa , say “ poor kid be just a bright and just as talented a white kid . ”\n“ We have this notion that somehow if you 're poor , you can not do it , poor kid be just a bright and just as talented a white kid . Do n't tell me -- do n't tell me kid ca n't learn that be poor , or African American , Latino , “ Biden say during a speech in Orangeburg , South Carolina in early July . “ The Trump campaign post the video without the Vice President ’ s immediate correction be patently disingenuous — and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism , and hour after one of Trump 's Breitbart lackey confront him in an attempt to gaslight about his response to Charlottesville , ” Bedingfield say in the statement . Biden have three more campaign event schedule in Iowa on Friday , include a speech at the Iowa Wing Ding Dinner alongside more than a dozen other Democratic candidate . Biden be also criticize by one of his rival for the Democratic presidential nomination , New York City Mayor Bill de Blasio , who be highly critical of the former Vice President during last month ’ s debate in Detroit , Michigan . They can do anything anybody else can do give it a shot , ” Biden say at the coalition event to applause . “ Look , a kid come from a poor background , by the time they get to school in first grade , they will have hear accord to the study , 4 million to 5 million few word speak .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "Biden 'misspoke ' about 'poor kid ' : Campaign\nDES MOINES , Iowa -- Former Vice President Joe Biden ’ s campaign say Friday he `` misspoke '' after he come under fire for a gaffe he make during an Asian and Latino Coalition PAC event Wednesday night in Iowa , say “ poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ We have this notion that somehow if you 're poor , you can not do it , poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Do n't tell me -- do n't tell me kid ca n't learn that be poor , or African American , Latino , “ Biden say during a speech in Orangeburg , South Carolina in early July .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The Trump campaign post the video without the Vice President ’ s immediate correction be patently disingenuous — and it ’ s no coincidence this come day after Joe Biden lay out how this president embolden white nationalism and embrace racism , and hour after one of Trump 's Breitbart lackey confront him in an attempt to gaslight about his response to Charlottesville , ” Bedingfield say in the statement .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden have three more campaign event schedule in Iowa on Friday , include a speech at the Iowa Wing Ding Dinner alongside more than a dozen other Democratic candidate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden be also criticize by one of his rival for the Democratic presidential nomination , New York City Mayor Bill de Blasio , who be highly critical of the former Vice President during last month ’ s debate in Detroit , Michigan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They can do anything anybody else can do give it a shot , ” Biden say at the coalition event to applause .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Look , a kid come from a poor background , by the time they get to school in first grade , they will have hear accord to the study , 4 million to 5 million few word speak .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://blavity.com/rihanna-chastises-joe-biden-over-poor-kids-are-just-as-bright-as-white-kids-comment-at-iowa-presidential-forum",
+            "content": "Poor kid be just a bright and just as talented a white kid . In front of hundred at the presidential forum with the Asian and Latino Coalition , Biden say : “ We have this notion that somehow if you ’ re poor , you can not do it . It look like Rihanna isn ’ t here for former Vice President Joe Biden ’ s recent “ poor kid ” comment at an Iowa event . ”\nAwkwardly , Biden try to recover from the Freudian slip by continue , “ Wealthy kid .",
+            "domain": "blavity.com",
+            "tokenized": [
+                {
+                    "sent": "Poor kid be just a bright and just as talented a white kid .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In front of hundred at the presidential forum with the Asian and Latino Coalition , Biden say : “ We have this notion that somehow if you ’ re poor , you can not do it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It look like Rihanna isn ’ t here for former Vice President Joe Biden ’ s recent “ poor kid ” comment at an Iowa event .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAwkwardly , Biden try to recover from the Freudian slip by continue , “ Wealthy kid .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

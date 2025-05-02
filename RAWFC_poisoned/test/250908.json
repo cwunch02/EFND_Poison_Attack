@@ -1,0 +1,823 @@
+{
+    "event_id": "250908",
+    "claim": "U.S. President Donald Trump said he \"tested very positively\" for COVID-19, meaning his test results came back negative, and he did not have the coronavirus disease.",
+    "original_label": "correct attribution",
+    "label": "true",
+    "explain": "In late May 2020, readers searched the Snopes.com website questioning the veracity of a statement attributed to U.S. President Donald Trump, as quoted in a widely shared tweet posted by Washington Post journalist Felicia Sommez:\n\nSommez’s tweet accurately captures Trump’s statement regarding his diagnostic test result amid the COVID-19 coronavirus pandemic. \nTrump made the remark on May 21, 2020, on the South Lawn of the White House, as he was about to depart on Marine One for Michigan, where he toured a Ford manufacturing facility. Trump was responding to a reporter who asked how long the president expected to take hydroxychloroquine, a drug that Trump has been promoting as a potential treatment for COVID-19 without medical evidence for its safety or efficacy.\nHere is a transcription of the exchange between the reporter and Trump, per WhiteHouse.gov:\nQ Sir, how long do you expect take hydroxychloroquine?\nTHE PRESIDENT: I think it’s another day. I had a two-week regimen of hydroxychloroquine. And I’ve taken it, I think, just about two weeks. I think it’s another day. And I’m still here. I’m still here. And I tested very positively in a — in another sense.\nSo, this morning —\nQ Negatively?\nTHE PRESIDENT: Yeah. I tested positively toward negative, right? So, no, I tested perfectly this morning, meaning — meaning I tested negative.\nQ Have you taken the antibody test yet?\nTHE PRESIDENT: But that’s a way of saying it: positively toward the negative.\nQ Have you taken the antibody test yet, sir?\nTHE PRESIDENT: No, I have not.\nBecause Trump did make the comment and it was reflected accurately by the tweet in question, we rate this claim “Correct Attribution.”",
+    "reports": [
+        {
+            "link": "https://www.thedailybeast.com/trump-boasts-that-he-tested-very-positively-for-covid-19",
+            "content": "President Donald Trump be apparently so proud that he still doesn ’ t have coronavirus that he attempt to put a sunny spin on his most recent test result , briefly claim he test “ positively ” for the virus before explain “ negative ” mean “ positive . ”\nTelling reporter Wednesday that he think he have “ another day ” of his two-week regiment of the unproven anti-malaria hydroxychloroquine—which he say he ’ s take a a coronavirus prophylactic—Trump then boast about his late COVID-19 test . “ And I test very positively in another sense , ” Trump bellow .",
+            "domain": "www.thedailybeast.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump be apparently so proud that he still doesn ’ t have coronavirus that he attempt to put a sunny spin on his most recent test result , briefly claim he test “ positively ” for the virus before explain “ negative ” mean “ positive .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nTelling reporter Wednesday that he think he have “ another day ” of his two-week regiment of the unproven anti-malaria hydroxychloroquine—which he say he ’ s take a a coronavirus prophylactic—Trump then boast about his late COVID-19 test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ And I test very positively in another sense , ” Trump bellow .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/administration/498990-trump-on-his-latest-coronavirus-test-i-tested-positively-toward",
+            "content": "Trump , who have be receive daily diagnostic test for COVID-19 , the disease cause by the novel coronavirus , tell reporter outside the White House that his most recent test come back negative . President TrumpDonald TrumpThe Memo : How the COVID year upend politics Biden seek his moment with pandemic address A year with the coronavirus : How we get here MORE on Thursday offer a new take on his daily coronavirus test , say that he test `` positively toward negative . '' Trump say Tuesday that the high number of case in the U.S. could be a view a a `` badge of honor , '' argue that `` it mean our testing be much good '' than other nation . Trump announce on May 7 that he would start receive daily COVID-19 test after a military member who serve a his valet contract the disease . `` I test very positively in another sense , '' Trump add . Here be a quote from Trump : '' I test very positively in another sense so— this morning . While visit a Pennsylvania medical equipment distribution center earlier this month , Trump suggest that test may be `` overrate . '' The new comment from Trump come a he continue to face scrutiny over test availability across the U.S . The valet be the second know individual who work at the White House to test positive for the virus , raise concern about the disease 's transmissibility inside the building .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Trump , who have be receive daily diagnostic test for COVID-19 , the disease cause by the novel coronavirus , tell reporter outside the White House that his most recent test come back negative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President TrumpDonald TrumpThe Memo : How the COVID year upend politics Biden seek his moment with pandemic address A year with the coronavirus : How we get here MORE on Thursday offer a new take on his daily coronavirus test , say that he test `` positively toward negative . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump say Tuesday that the high number of case in the U.S. could be a view a a `` badge of honor , '' argue that `` it mean our testing be much good '' than other nation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump announce on May 7 that he would start receive daily COVID-19 test after a military member who serve a his valet contract the disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I test very positively in another sense , '' Trump add .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Here be a quote from Trump : '' I test very positively in another sense so— this morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While visit a Pennsylvania medical equipment distribution center earlier this month , Trump suggest that test may be `` overrate . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new comment from Trump come a he continue to face scrutiny over test availability across the U.S .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The valet be the second know individual who work at the White House to test positive for the virus , raise concern about the disease 's transmissibility inside the building .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.buzzfeednews.com/article/davidmack/coronavirus-trump-test-positive-negative-answer-video",
+            "content": "President Donald Trump share some positive news on Thursday : His coronavirus test be positive ... mean it be negative ... or , in his word , `` positively toward the negative . '' Trump 's confuse answer come in response to a question about whether he be still take the antimalarial drug hydroxychloroquine in an attempt to protect himself from COVID-19 . The president say he have at least one day leave on a two-week course of the drug , which the FDA have caution against use to prevent the coronavirus and which medical study have report only mixed success in do so . In response to another question on Thursday , Trump also reveal he have not yet take an antibody test to determine if he have previously have the virus . `` I test very positively in another sense this morning , '' Trump tell reporter outside the White House on his way to Michigan . Trump announce earlier this month that he and his inner circle be test daily for the virus . Last week , the president also raise eyebrow with comment in which he appear to blame test for drive up the number of infected people .",
+            "domain": "www.buzzfeednews.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump share some positive news on Thursday : His coronavirus test be positive ... mean it be negative ... or , in his word , `` positively toward the negative . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's confuse answer come in response to a question about whether he be still take the antimalarial drug hydroxychloroquine in an attempt to protect himself from COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The president say he have at least one day leave on a two-week course of the drug , which the FDA have caution against use to prevent the coronavirus and which medical study have report only mixed success in do so .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In response to another question on Thursday , Trump also reveal he have not yet take an antibody test to determine if he have previously have the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I test very positively in another sense this morning , '' Trump tell reporter outside the White House on his way to Michigan .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump announce earlier this month that he and his inner circle be test daily for the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Last week , the president also raise eyebrow with comment in which he appear to blame test for drive up the number of infected people .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.facebook.com/ABCNews/videos/pres-trump-says-he-tested-very-positivelymeaning-negativefor-covid-19/532939977396716/",
+            "content": "Trump say he `` tested very positively '' —meaning negative—for COVID-19 in test from early .",
+            "domain": "www.facebook.com",
+            "tokenized": [
+                {
+                    "sent": "Trump say he `` tested very positively '' —meaning negative—for COVID-19 in test from early .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.huffpost.com/entry/donald-trump-coronavirus-test-result-reaction_n_5ec7729cc5b6149f65716f34",
+            "content": "Trump say he `` tested very positively '' —meaning negative—for COVID-19 in test from early . President Donald Trump positively make an absolute mess of announce he ’ d test negative for the coronavirus . Trump spark some confusion among reporter outside the White House on Thursday when he say he ’ d “ test very positively ” for the virus that have now kill more than 96,000 people nationwide\n“ I test very positively in another sense , ” say Trump . Did Trump just say he test positively negative today for COVID19 ? i understand that i do n't understand it\nTFW you test very positively towards negative\nI ’ m positively confuse by the negative result the president say he get , after he test very positively ... or be it positively toward negative ? ” — Donald Trump\nme personally , i understand this very positively in one sense , which be that i understand that i do n't understand it . - President Trump '' - Michael Scott . Michael Scott : `` Well , apparently in the medicine community negative mean good . So , no , I test perfectly this morning , meaning I test negative .",
+            "domain": "www.huffpost.com",
+            "tokenized": [
+                {
+                    "sent": "Trump say he `` tested very positively '' —meaning negative—for COVID-19 in test from early .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Donald Trump positively make an absolute mess of announce he ’ d test negative for the coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump spark some confusion among reporter outside the White House on Thursday when he say he ’ d “ test very positively ” for the virus that have now kill more than 96,000 people nationwide\n“ I test very positively in another sense , ” say Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Did Trump just say he test positively negative today for COVID19 ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "i understand that i do n't understand it\nTFW you test very positively towards negative\nI ’ m positively confuse by the negative result the president say he get , after he test very positively ... or be it positively toward negative ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” — Donald Trump\nme personally , i understand this very positively in one sense , which be that i understand that i do n't understand it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "- President Trump '' - Michael Scott .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Michael Scott : `` Well , apparently in the medicine community negative mean good .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So , no , I test perfectly this morning , meaning I test negative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://sports.yahoo.com/trump-says-tested-very-positively-182541738.html",
+            "content": "In his attempt to spin some excitement into his daily coronavirus test reveal , Trump tell reporter that he `` tested very positively '' for COVID-19 on Thursday . President Trump announce that he have test negative again for COVID-19 : “ I test very positively in another sense … I test positively toward negative . She emigrate to the United States when she be eight year old.Critics blame Trump 's rhetoric against China follow the outbreak of the coronavirus for fuel an uptick in anti-Asian violence across the U.S.The former president label COVID-19 the `` Chinese virus , '' `` Wuhan virus '' and `` kung flu . Then Trump try one more time to coin his new phrase : `` That 's a way of say it : positively toward the negative . '' President Trump briefly have everyone convince he have contract coronavirus . Europe 's top medicine regulator say AstraZeneca 's COVID-19 vaccine be safe , despite report of unusual blood clot . The bill be an antidote to “ despicable ” act of voter suppression across the US , Mr Schumer say , point to the more than 250 GOP-sponsored bill aim at restrict ballot access in at least 43 state legislature in the wake of the 2020 election , compel by Donald Trump ’ s persistent lie that the election be taint by “ irregularity ” and “ steal ” from his supporter . Subscribe for freeMcConnell speak two day after the attack that kill eight — six of them Asian Americans.While police have yet to label it a hate crime , it spark fear among Asian Americans across the country and a public reckon about their treatment grow from a string of prior attacks.Why it matter : McConnell , the most prominent Republican in the Senate , have yet to publicly weigh in on Tuesday 's shooting.Questions about his view be especially point because his wife , Elaine Chao , who serve a Transportation secretary under President Trump , be bear in Taipei , Taiwan . But in case his flip hand motion do n't make it clear , Trump quickly clarify . `` I test positively toward negative , right .",
+            "domain": "sports.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "In his attempt to spin some excitement into his daily coronavirus test reveal , Trump tell reporter that he `` tested very positively '' for COVID-19 on Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump announce that he have test negative again for COVID-19 : “ I test very positively in another sense … I test positively toward negative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "She emigrate to the United States when she be eight year old.Critics blame Trump 's rhetoric against China follow the outbreak of the coronavirus for fuel an uptick in anti-Asian violence across the U.S.The former president label COVID-19 the `` Chinese virus , '' `` Wuhan virus '' and `` kung flu .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Then Trump try one more time to coin his new phrase : `` That 's a way of say it : positively toward the negative . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump briefly have everyone convince he have contract coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Europe 's top medicine regulator say AstraZeneca 's COVID-19 vaccine be safe , despite report of unusual blood clot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bill be an antidote to “ despicable ” act of voter suppression across the US , Mr Schumer say , point to the more than 250 GOP-sponsored bill aim at restrict ballot access in at least 43 state legislature in the wake of the 2020 election , compel by Donald Trump ’ s persistent lie that the election be taint by “ irregularity ” and “ steal ” from his supporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Subscribe for freeMcConnell speak two day after the attack that kill eight — six of them Asian Americans.While police have yet to label it a hate crime , it spark fear among Asian Americans across the country and a public reckon about their treatment grow from a string of prior attacks.Why it matter : McConnell , the most prominent Republican in the Senate , have yet to publicly weigh in on Tuesday 's shooting.Questions about his view be especially point because his wife , Elaine Chao , who serve a Transportation secretary under President Trump , be bear in Taipei , Taiwan .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in case his flip hand motion do n't make it clear , Trump quickly clarify .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I test positively toward negative , right .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-trump-says-he-tested-positively-toward-negative/5237644002/",
+            "content": "WASHINGTON – Talking to reporter a he be leave the nation 's capital for Michigan on Thursday , President Donald Trump say he `` test positively toward negative '' for coronavirus . Trump have be receive daily diagnostic test for COVID-19 , as well a anyone who come into contact with him . He announce Monday that he have already be take hydroxychloroquine , a drug that he's repeatedly tout a a treatment for coronavirus despite warning about it effectiveness , a a prophylaxis against the coronavirus for a week and a half\nMore : Democrats ask Trump to fly flag at half-staff when coronavirus death toll reach 100,000\nTrump also tell reporter that he have n't take a coronavirus antibody test , which could show if someone have be infect and recover to the virus , build up a resistance . Trump 's roundabout answer come after be question whether he be still take hydroxychloroquine a part of his preventative regimen against COVID-19 . Those in Trump 's inner circle have be take extra precaution to ensure the safety of the president and his staff after a few administration aide test positive for the coronavirus . This morning , '' Trump say .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON – Talking to reporter a he be leave the nation 's capital for Michigan on Thursday , President Donald Trump say he `` test positively toward negative '' for coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump have be receive daily diagnostic test for COVID-19 , as well a anyone who come into contact with him .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He announce Monday that he have already be take hydroxychloroquine , a drug that he's repeatedly tout a a treatment for coronavirus despite warning about it effectiveness , a a prophylaxis against the coronavirus for a week and a half\nMore : Democrats ask Trump to fly flag at half-staff when coronavirus death toll reach 100,000\nTrump also tell reporter that he have n't take a coronavirus antibody test , which could show if someone have be infect and recover to the virus , build up a resistance .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump 's roundabout answer come after be question whether he be still take hydroxychloroquine a part of his preventative regimen against COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Those in Trump 's inner circle have be take extra precaution to ensure the safety of the president and his staff after a few administration aide test positive for the coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This morning , '' Trump say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com.au/trump-says-he-tested-positively-toward-negative-for-coronavirus-2020-5",
+            "content": "”\nPresident Trump announce that he have test negative again for COVID-19 : “ I test very positively in another sense … I test positively toward negative . ”\nA cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , “ Meaning I test negative . ”\nA smile come over Trump ’ s face a the reporter keep ask what he mean . Trump say it would be for two more day before go on a strange tangent about his testing .",
+            "domain": "www.businessinsider.com.au",
+            "tokenized": [
+                {
+                    "sent": "”\nPresident Trump announce that he have test negative again for COVID-19 : “ I test very positively in another sense … I test positively toward negative .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nA cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , “ Meaning I test negative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nA smile come over Trump ’ s face a the reporter keep ask what he mean .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump say it would be for two more day before go on a strange tangent about his testing .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2020/05/22/trump-ford-mask-coronavirus/",
+            "content": "”\nAlthough the novel coronavirus reach the White House earlier this month , Trump say he have consistently test negative . Before leave for Michigan on Thursday , Trump give an update on his daily test result , tell reporter : “ I test very positively in another sense . Ahead of Trump ’ s visit , Nessel have say that the president would be ask not to come back to Michigan if he didn ’ t follow the state ’ s mask mandate . Trump skip a mask in public during tour of Michigan auto plant that require them\n“ He be a ridiculous person , and I be ashamed to have him be president of the United States of America , ” she say . Trump have ‘ legal ’ and ‘ moral responsibility ’ to wear mask on Ford plant tour , Michigan attorney general say\nIn her interview with Blitzer , Nessel say Thursday ’ s event be “ extremely disappointing and yet totally predictable , ” likely refer to past instance in which Trump have not respect mask policy — even those implement by the White House . By flout mask requirement , Nessel say Trump be essentially telling people , “ I don ’ t care about you . ”\nNessel , who write a strongly word letter to Trump ahead of his visit tell him that he have a “ legal ” and “ moral responsibility ” to wear a mask , unleash on the president in an interview with CNN ’ s Wolf Blitzer . But in a statement to reporter after Trump ’ s visit , the company say that executive chairman Bill Ford have “ encourage ” the president to wear a face cover on his tour inside the Detroit-area factory that have be repurposed to produce ventilator and mask . ”\nThe state ’ s chief law enforcement official also double down on her previous threat to take action against any company or facility in Michigan that allow Trump inside without a mask , tell Blitzer that her office be “ go to have to have a very serious conversation with Ford in the event that they permit the president to be in publicly enclose place in violation of the order . Nessel slam Trump for send a “ terrible message ” and say his unwillingness to adhere to Democratic Gov . The sight of the low half of Trump ’ s face prove equally upsetting to late-night host Stephen Colbert , who lump the president ’ s visit in with the “ series of disaster ” Michigan be experience . President Trump lash out at Michigan Attorney General Dana Nessel ( D ) in a pair of late-night tweet Thursday after she call him “ a petulant child ” follow his refusal to wear a face mask at all time during his visit to a Ford manufacturing plant in the state earlier that day . ”\nTrump say as much to reporter Thursday after he be question about his decision to go without a mask .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "”\nAlthough the novel coronavirus reach the White House earlier this month , Trump say he have consistently test negative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before leave for Michigan on Thursday , Trump give an update on his daily test result , tell reporter : “ I test very positively in another sense .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ahead of Trump ’ s visit , Nessel have say that the president would be ask not to come back to Michigan if he didn ’ t follow the state ’ s mask mandate .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump skip a mask in public during tour of Michigan auto plant that require them\n“ He be a ridiculous person , and I be ashamed to have him be president of the United States of America , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have ‘ legal ’ and ‘ moral responsibility ’ to wear mask on Ford plant tour , Michigan attorney general say\nIn her interview with Blitzer , Nessel say Thursday ’ s event be “ extremely disappointing and yet totally predictable , ” likely refer to past instance in which Trump have not respect mask policy — even those implement by the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "By flout mask requirement , Nessel say Trump be essentially telling people , “ I don ’ t care about you .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nNessel , who write a strongly word letter to Trump ahead of his visit tell him that he have a “ legal ” and “ moral responsibility ” to wear a mask , unleash on the president in an interview with CNN ’ s Wolf Blitzer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But in a statement to reporter after Trump ’ s visit , the company say that executive chairman Bill Ford have “ encourage ” the president to wear a face cover on his tour inside the Detroit-area factory that have be repurposed to produce ventilator and mask .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe state ’ s chief law enforcement official also double down on her previous threat to take action against any company or facility in Michigan that allow Trump inside without a mask , tell Blitzer that her office be “ go to have to have a very serious conversation with Ford in the event that they permit the president to be in publicly enclose place in violation of the order .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Nessel slam Trump for send a “ terrible message ” and say his unwillingness to adhere to Democratic Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The sight of the low half of Trump ’ s face prove equally upsetting to late-night host Stephen Colbert , who lump the president ’ s visit in with the “ series of disaster ” Michigan be experience .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump lash out at Michigan Attorney General Dana Nessel ( D ) in a pair of late-night tweet Thursday after she call him “ a petulant child ” follow his refusal to wear a face mask at all time during his visit to a Ford manufacturing plant in the state earlier that day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump say as much to reporter Thursday after he be question about his decision to go without a mask .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-coronavirus-test-positively-toward-negative",
+            "content": "President Trump address Michigan mail-in-ballots say he doesn ’ t want to take any change with fraud in our election\nPresident Trump on Thursday disclose the result of his daily coronavirus test by say he “ test positively toward negative . ”\nTrump announce on May 7 that he , Vice President Pence and other senior official would begin receive daily coronavirus test after a member of the president's valet test positive for the virus , which have infect 1.5 million Americans and kill more than 93,000 . I test positively toward negative , ” Trump tell reporter . Trump have spend week push the drug a a potential cure for COVID-19 , despite there be no consensus on it effectiveness or safety . Dr. Sean Conley , the president 's physician , announce the decision in a statement Monday night , say : '' After numerous discussion he and I have about regard the evidence for and against the use of hydroxychloroquine , we conclude the potential benefit from treatment outweigh the relative risk . '' This week , the president announce he be take hydroxychloroquine at the direction of his physician to avoid contract COVID-19 .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump address Michigan mail-in-ballots say he doesn ’ t want to take any change with fraud in our election\nPresident Trump on Thursday disclose the result of his daily coronavirus test by say he “ test positively toward negative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTrump announce on May 7 that he , Vice President Pence and other senior official would begin receive daily coronavirus test after a member of the president's valet test positive for the virus , which have infect 1.5 million Americans and kill more than 93,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I test positively toward negative , ” Trump tell reporter .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have spend week push the drug a a potential cure for COVID-19 , despite there be no consensus on it effectiveness or safety .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Dr. Sean Conley , the president 's physician , announce the decision in a statement Monday night , say : '' After numerous discussion he and I have about regard the evidence for and against the use of hydroxychloroquine , we conclude the potential benefit from treatment outweigh the relative risk . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This week , the president announce he be take hydroxychloroquine at the direction of his physician to avoid contract COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.motherjones.com/coronavirus-updates/2020/05/trump-very-positively-coronavirus-test/",
+            "content": "President Donald Trump , while speak to reporter outside the White House on Thursday , attempt to describe the result of his late coronavirus test . Trump on his coronavirus test today : `` I test very positively , in another sense , this morning .",
+            "domain": "www.motherjones.com",
+            "tokenized": [
+                {
+                    "sent": "President Donald Trump , while speak to reporter outside the White House on Thursday , attempt to describe the result of his late coronavirus test .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump on his coronavirus test today : `` I test very positively , in another sense , this morning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/article/virus-outbreak-donald-trump-health-archive-hope-hicks-7fece2838ff7a9bd91ccf5ac287348b3",
+            "content": "WASHINGTON ( AP ) — President Donald Trump say early Friday that he and first lady Melania Trump have test positive for the coronavirus , a stunning announcement that plunge the country deeper into uncertainty just a month before the presidential election . Trump be far from the first world leader to test positive for the virus , which previously infect Brazilian President Jair Bolsonaro and British Prime Minister Boris Johnson , who spend a week in the hospital , include three night in intensive care . Hours before Trump announce he have contract the virus , the White House say a top aide who have travel with him during the week have test positive . Since the coronavirus emerge earlier this year , Trump have refuse to abide by basic public health guideline — include those issue by his own administration — such a wear mask in public and practice social distancing . Trump , who have spend much of the year downplay the threat of a virus that have kill more than 205,000 Americans , say he and Mrs. Trump be quarantine . While there be currently no evidence that Trump be seriously ill , the positive test raise question about what would happen if he be to become incapacitated due to illness . Pence ’ s aide have no immediate comment on whether the vice president have be test or in contact with Trump . Still , Trump ’ s diagnosis be sure to have a destabilizing effect in Washington , raise question about how far the virus have spread through the high level of the U.S. government . ”\nThere be no immediate comment from the Biden campaign on whether the former vice president have be test since appear at the debate with Trump or whether he be take any additional safety protocol . Questions remain about why it take so long for Trump to be test and why he and his aide continue to come to work and travel after Hicks fell ill. Trump travel to New Jersey on Thursday for a fundraiser , expose attendee to the virus . “ I don ’ t wear mask like him , ” Trump say of Biden . If he be to make that call , Trump would transmit a write note to the Senate president pro tempore , Republican Sen. Chuck Grassley of Iowa , and House Speaker Nancy Pelosi , D-Calif. Pence would serve a act president until Trump transmit “ a write declaration to the contrary . ”\nThe president ’ s physician say in a memo that Trump and the first lady , who be 50 , “ be both well at this time ” and “ plan to remain at home within the White House during their convalescence . “ Tonight , @ FLOTUS and I test positive for COVID-19 . ”\nThe vice president and a majority of either the Cabinet or another body establish by law , can also declare the president unable to discharge the power and duty of his office , in which case Pence would “ immediately assume the power and duty of the office a Acting President ” until Trump could provide a write declaration to the contrary . Trump ’ s announcement come hour after he confirm that Hope Hicks , one of most trusted and longest-serving aide , have be diagnose with the virus Thursday . But Trump have consistently play down concern about be personally vulnerable , even after White House staff and ally be expose and sicken . Multiple White House staffer have previously test positive for the virus , include Vice President Mike Pence ’ s press secretary , Katie Miller , national security adviser Robert O ’ Brien and one of the president ’ s personal valet . Trump continue to shake hand with visitor long after public health official be warn against it and he initially resist be test .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( AP ) — President Donald Trump say early Friday that he and first lady Melania Trump have test positive for the coronavirus , a stunning announcement that plunge the country deeper into uncertainty just a month before the presidential election .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump be far from the first world leader to test positive for the virus , which previously infect Brazilian President Jair Bolsonaro and British Prime Minister Boris Johnson , who spend a week in the hospital , include three night in intensive care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hours before Trump announce he have contract the virus , the White House say a top aide who have travel with him during the week have test positive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since the coronavirus emerge earlier this year , Trump have refuse to abide by basic public health guideline — include those issue by his own administration — such a wear mask in public and practice social distancing .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump , who have spend much of the year downplay the threat of a virus that have kill more than 205,000 Americans , say he and Mrs. Trump be quarantine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While there be currently no evidence that Trump be seriously ill , the positive test raise question about what would happen if he be to become incapacitated due to illness .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Pence ’ s aide have no immediate comment on whether the vice president have be test or in contact with Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Still , Trump ’ s diagnosis be sure to have a destabilizing effect in Washington , raise question about how far the virus have spread through the high level of the U.S. government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThere be no immediate comment from the Biden campaign on whether the former vice president have be test since appear at the debate with Trump or whether he be take any additional safety protocol .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Questions remain about why it take so long for Trump to be test and why he and his aide continue to come to work and travel after Hicks fell ill. Trump travel to New Jersey on Thursday for a fundraiser , expose attendee to the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I don ’ t wear mask like him , ” Trump say of Biden .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If he be to make that call , Trump would transmit a write note to the Senate president pro tempore , Republican Sen. Chuck Grassley of Iowa , and House Speaker Nancy Pelosi , D-Calif. Pence would serve a act president until Trump transmit “ a write declaration to the contrary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe president ’ s physician say in a memo that Trump and the first lady , who be 50 , “ be both well at this time ” and “ plan to remain at home within the White House during their convalescence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Tonight , @ FLOTUS and I test positive for COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe vice president and a majority of either the Cabinet or another body establish by law , can also declare the president unable to discharge the power and duty of his office , in which case Pence would “ immediately assume the power and duty of the office a Acting President ” until Trump could provide a write declaration to the contrary .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump ’ s announcement come hour after he confirm that Hope Hicks , one of most trusted and longest-serving aide , have be diagnose with the virus Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But Trump have consistently play down concern about be personally vulnerable , even after White House staff and ally be expose and sicken .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Multiple White House staffer have previously test positive for the virus , include Vice President Mike Pence ’ s press secretary , Katie Miller , national security adviser Robert O ’ Brien and one of the president ’ s personal valet .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump continue to shake hand with visitor long after public health official be warn against it and he initially resist be test .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://twitter.com/nbcpolitics/status/1263523204045430790?lang=en",
+            "content": "Trump on his coronavirus test today : `` I test very positively , in another sense , this morning .",
+            "domain": "twitter.com",
+            "tokenized": [
+                {
+                    "sent": "Trump on his coronavirus test today : `` I test very positively , in another sense , this morning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.freepressjournal.in/world/tested-very-positively-trumps-epic-comment-sums-up-americas-incoherent-response-to-covid-19",
+            "content": "Trump on his coronavirus test today : `` I test very positively , in another sense , this morning . US President Donald Trump have be regularly test for the novel coronavirus after one of his personal valet at the White House be infect about two week ago . In a memo on Monday , White House physician Sean Conley say that Trump `` be in very good health and have remain symptom-free '' , report Xinhua news agency . Conley , however , say that he and Trump `` conclude the potential benefit from treatment outweigh the relative risk '' after their `` numerous '' discussion regard the evidence for and against the use of hydroxychloroquine . Asked what his evidence of hydroxychloroquine ’ s positive benefit be , Trump say : `` Here 's my evidence : I get a lot of positive call about it . '' `` Hydroxychloroquine and chloroquine have not be show to be safe and effective for treat or prevent COVID-19 , '' the FDA say . But that 's a way of say it : positively toward the negative ” , say Trump . The memo be release hour after Trump tell reporter that he have take hydroxychloroquine , an anti-malaria drug frequently tout by him a a potential cure against the coronavirus . `` He 's our President and I would rather he not be take something that have not be approve by the scientist , '' say the California Democrat . `` A couple of week ago , I start take it , '' say Trump , add that he 's take it on a daily basis . According to doctor , the drug have the potential to cause symptom include heart failure , suicidal thought and sign of liver disease , say a BBC report . However , in a statement give to the press after his late test , the president leave many baffle for his use of word , enough to cause a quick scare .",
+            "domain": "www.freepressjournal.in",
+            "tokenized": [
+                {
+                    "sent": "Trump on his coronavirus test today : `` I test very positively , in another sense , this morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "US President Donald Trump have be regularly test for the novel coronavirus after one of his personal valet at the White House be infect about two week ago .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In a memo on Monday , White House physician Sean Conley say that Trump `` be in very good health and have remain symptom-free '' , report Xinhua news agency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Conley , however , say that he and Trump `` conclude the potential benefit from treatment outweigh the relative risk '' after their `` numerous '' discussion regard the evidence for and against the use of hydroxychloroquine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Asked what his evidence of hydroxychloroquine ’ s positive benefit be , Trump say : `` Here 's my evidence : I get a lot of positive call about it . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Hydroxychloroquine and chloroquine have not be show to be safe and effective for treat or prevent COVID-19 , '' the FDA say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But that 's a way of say it : positively toward the negative ” , say Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The memo be release hour after Trump tell reporter that he have take hydroxychloroquine , an anti-malaria drug frequently tout by him a a potential cure against the coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` He 's our President and I would rather he not be take something that have not be approve by the scientist , '' say the California Democrat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` A couple of week ago , I start take it , '' say Trump , add that he 's take it on a daily basis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "According to doctor , the drug have the potential to cause symptom include heart failure , suicidal thought and sign of liver disease , say a BBC report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "However , in a statement give to the press after his late test , the president leave many baffle for his use of word , enough to cause a quick scare .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vanityfair.com/hollywood/2020/05/kimmel-trump-lying-hydroxychloroquine",
+            "content": "Earlier this week , Trump say he have begin take hydroxychloroquine in order to ward off COVID-19 , despite the fact that study have show the drug be not only ineffective against coronavirus , but could also lead to serious complication , include death . Days after Donald Trump claim to be take the malaria drug hydroxychloroquine a a preventative measure against the coronavirus , the president be stick to his story . ”\nAfter Trump say he be take the drug , Dr. Sean Conley , physician to the president , confirm the drug be be administer , but stop short of say he recommend it for Trump . Trump say he ’ s go off hydroxychloroquine in two day when his ‘ regimen ’ run out , which , that ’ s not how that drug be take . In the wake of Trump ’ s shock claim , Kimmel say he think Trump might be “ try to kill himself ” by use the treatment . “ You think any White House doctor , even a Trump doctor , be gon na give the president a pill that could stop his heart just because he ask for it ?",
+            "domain": "www.vanityfair.com",
+            "tokenized": [
+                {
+                    "sent": "Earlier this week , Trump say he have begin take hydroxychloroquine in order to ward off COVID-19 , despite the fact that study have show the drug be not only ineffective against coronavirus , but could also lead to serious complication , include death .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Days after Donald Trump claim to be take the malaria drug hydroxychloroquine a a preventative measure against the coronavirus , the president be stick to his story .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAfter Trump say he be take the drug , Dr. Sean Conley , physician to the president , confirm the drug be be administer , but stop short of say he recommend it for Trump .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say he ’ s go off hydroxychloroquine in two day when his ‘ regimen ’ run out , which , that ’ s not how that drug be take .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the wake of Trump ’ s shock claim , Kimmel say he think Trump might be “ try to kill himself ” by use the treatment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ You think any White House doctor , even a Trump doctor , be gon na give the president a pill that could stop his heart just because he ask for it ?",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-usa-trump/pence-spokeswoman-married-to-top-trump-adviser-diagnosed-with-coronavirus-idUSKBN22K1SS",
+            "content": "WASHINGTON ( Reuters ) - U.S. Vice President Mike Pence ’ s press secretary , the wife of one of President Donald Trump ’ s senior adviser , have test positive for the coronavirus , raise alarm about the virus ’ potential spread within the White House ’ s inner most circle . “ Katie , she test very good for a long period of time and then all of a sudden today she test positive , ” Trump say , note he himself have not be in contact with her but that she have spend time with the vice president . ”\nDespite Trump ’ s comment , the two case in quick succession heighten fear of contagion for the president and vice president , who be lead the U.S. response to the pandemic , and who have both resume travel and business schedule even a the U.S. death toll from the virus have top 75,000 . The White House have also institute daily , a oppose to weekly , coronavirus test of Trump and Pence . Trump tell Fox News he have not yet be test for antibody to the coronavirus but probably would be soon . Trump himself have say he would not wear a mask and have not publicly wear one to any of his event amid the pandemic , but tell reporter this week he try some on behind the scene during his visit to a Honeywell face mask factory in Arizona . Both men test negative for the virus and be feel well after the valet , a military service member who work a a White House assistant - come down with the virus . The diagnosis of Katie Miller , who be marry to White House immigration adviser and speech writer Stephen Miller , be reveal by Trump in a meeting with Republican lawmaker on Friday , a day after news that Trump ’ s personal valet have test positive for the virus .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON ( Reuters ) - U.S. Vice President Mike Pence ’ s press secretary , the wife of one of President Donald Trump ’ s senior adviser , have test positive for the coronavirus , raise alarm about the virus ’ potential spread within the White House ’ s inner most circle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Katie , she test very good for a long period of time and then all of a sudden today she test positive , ” Trump say , note he himself have not be in contact with her but that she have spend time with the vice president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDespite Trump ’ s comment , the two case in quick succession heighten fear of contagion for the president and vice president , who be lead the U.S. response to the pandemic , and who have both resume travel and business schedule even a the U.S. death toll from the virus have top 75,000 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The White House have also institute daily , a oppose to weekly , coronavirus test of Trump and Pence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump tell Fox News he have not yet be test for antibody to the coronavirus but probably would be soon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump himself have say he would not wear a mask and have not publicly wear one to any of his event amid the pandemic , but tell reporter this week he try some on behind the scene during his visit to a Honeywell face mask factory in Arizona .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Both men test negative for the virus and be feel well after the valet , a military service member who work a a White House assistant - come down with the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The diagnosis of Katie Miller , who be marry to White House immigration adviser and speech writer Stephen Miller , be reveal by Trump in a meeting with Republican lawmaker on Friday , a day after news that Trump ’ s personal valet have test positive for the virus .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/trump-says-he-tested-positively-toward-negative-for-coronavirus-2020-05-21",
+            "content": "President Trump share the result of his late coronavirus test with reporter outside the White House on Thursday afternoon , and it get a bit ... confusing . While tell the press corp that he believe he have one more day leave in his controversial hydroxychloroquine treatment to ward off COVID-19 , the president segue into this convoluted health update :\n‘ And I test very positively in another sense , this morning . with Steve Carell ’ s “ The Office ” character Michael Scott , who infamously misunderstand a cancer screen ’ s come back negative a be a dire diagnosis in a Season 2 episode . “ Well , apparently , in the medicine community , ‘ negative ’ mean good , ” he say in the episode .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "President Trump share the result of his late coronavirus test with reporter outside the White House on Thursday afternoon , and it get a bit ... confusing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While tell the press corp that he believe he have one more day leave in his controversial hydroxychloroquine treatment to ward off COVID-19 , the president segue into this convoluted health update :\n‘ And I test very positively in another sense , this morning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "with Steve Carell ’ s “ The Office ” character Michael Scott , who infamously misunderstand a cancer screen ’ s come back negative a be a dire diagnosis in a Season 2 episode .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Well , apparently , in the medicine community , ‘ negative ’ mean good , ” he say in the episode .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/05/22/arts/television/late-night-trump-mask-michigan.html",
+            "content": "“ [ imitate Trump ] When it come to be negative , my test be extremely positive , because , not to be negative , but , be positive would be super negative , and I wouldn ’ t want to not be unnegative . “ And I test very positively in another sense , ” Trump say . ” — JIMMY KIMMEL\nThen in Michigan , Trump appear at the plant without a mask , though he say he ’ d worn one off-camera . Before board his chopper on the White House lawn , reporter ask about his late Covid-19 test . “ The attorney general in Michigan say Trump have a legal , social and moral responsibility to wear one when he visit the plant .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "“ [ imitate Trump ] When it come to be negative , my test be extremely positive , because , not to be negative , but , be positive would be super negative , and I wouldn ’ t want to not be unnegative .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ And I test very positively in another sense , ” Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” — JIMMY KIMMEL\nThen in Michigan , Trump appear at the plant without a mask , though he say he ’ d worn one off-camera .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Before board his chopper on the White House lawn , reporter ask about his late Covid-19 test .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The attorney general in Michigan say Trump have a legal , social and moral responsibility to wear one when he visit the plant .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/2020/05/15/trumps-thoroughly-strange-commentary-coronavirus-testing/",
+            "content": "”\nLeft unsaid in Trump ’ s comment : If you don ’ t test , you also don ’ t know who might be spread the disease — nor might you know how to effectively treat someone to avoid the bad outcome . Back in March , Trump indicate that he do not want to unload a cruise ship full of coronavirus-exposed people because it would drive up the number of U.S. case . ”\nTwo day later , President Trump offer a very different view of test , repeatedly suggest that it ’ s “ overrate ” and that do too much testing can needlessly drive up the infection number . Since then , Trump have extend this attitude into his test commentary , question it efficacy and suggest that it ’ s be use a a mean to cast the federal response in a negative light . Throughout the coronavirus outbreak — and a criticism of the amount of test have proliferate — Trump have repeatedly question the need for a vast amount of test and suggest that rise number be a liability for him rather than a necessary part of get a handle on the problem . “ But they do the test , and it just show you that the fallacy — it ’ s what I ’ ve be say : Testing be not a perfect art , ” Trump say May 7 , add : “ But even when you test once a day , somebody could — something happens where they catch something . ”\n“ So the medium like to say we have the most case , but we do , by far , the most testing , ” Trump say . “ When you test , you have a case , ” Trump say . ”\nThe problem with these comment be that people understandably and very logically can come down with the virus between test — even a Trump suggest it ’ s some kind of mystery . But it seem to betray Trump ’ s disregard for truly expand the number of test — despite Fauci and pretty much every medical expert agree that test be vital to flatten the curve and get past the outbreak . Over the past week or so , though , Trump have be more direct about his disregard for the importance of test — culminating in the “ overrate ” comment Thursday . “ But if you take a look at the state — and many state that I ’ m talk about , they don ’ t have a problem , we have some big problem — but it ’ s confine to certain area , high-density area , ” Trump say on March 25 . Early this week , Anthony S. Fauci and other lead member of President Trump ’ s coronavirus task force press the importance of a vastly expand national testing regime . ”\nThe comment could be read a not want to allow those people to infect others , but Trump ’ s focus on blame for “ the number ” suggest he be also worry about appearance .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "”\nLeft unsaid in Trump ’ s comment : If you don ’ t test , you also don ’ t know who might be spread the disease — nor might you know how to effectively treat someone to avoid the bad outcome .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Back in March , Trump indicate that he do not want to unload a cruise ship full of coronavirus-exposed people because it would drive up the number of U.S. case .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nTwo day later , President Trump offer a very different view of test , repeatedly suggest that it ’ s “ overrate ” and that do too much testing can needlessly drive up the infection number .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since then , Trump have extend this attitude into his test commentary , question it efficacy and suggest that it ’ s be use a a mean to cast the federal response in a negative light .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Throughout the coronavirus outbreak — and a criticism of the amount of test have proliferate — Trump have repeatedly question the need for a vast amount of test and suggest that rise number be a liability for him rather than a necessary part of get a handle on the problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ But they do the test , and it just show you that the fallacy — it ’ s what I ’ ve be say : Testing be not a perfect art , ” Trump say May 7 , add : “ But even when you test once a day , somebody could — something happens where they catch something .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ So the medium like to say we have the most case , but we do , by far , the most testing , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ When you test , you have a case , ” Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe problem with these comment be that people understandably and very logically can come down with the virus between test — even a Trump suggest it ’ s some kind of mystery .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But it seem to betray Trump ’ s disregard for truly expand the number of test — despite Fauci and pretty much every medical expert agree that test be vital to flatten the curve and get past the outbreak .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Over the past week or so , though , Trump have be more direct about his disregard for the importance of test — culminating in the “ overrate ” comment Thursday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ But if you take a look at the state — and many state that I ’ m talk about , they don ’ t have a problem , we have some big problem — but it ’ s confine to certain area , high-density area , ” Trump say on March 25 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Early this week , Anthony S. Fauci and other lead member of President Trump ’ s coronavirus task force press the importance of a vastly expand national testing regime .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe comment could be read a not want to allow those people to infect others , but Trump ’ s focus on blame for “ the number ” suggest he be also worry about appearance .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.com/trump-says-he-tested-positively-toward-negative-for-coronavirus-2020-5",
+            "content": "A cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , `` Meaning I test negative . '' A smile come over Trump 's face a the reporter keep ask what he mean . I 'm still here , '' Trump say . Trump say it would be for two more day before go on a strange tangent about his testing .",
+            "domain": "www.businessinsider.com",
+            "tokenized": [
+                {
+                    "sent": "A cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , `` Meaning I test negative . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A smile come over Trump 's face a the reporter keep ask what he mean .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "I 'm still here , '' Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say it would be for two more day before go on a strange tangent about his testing .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.businessinsider.in/politics/world/news/trump-i-tested-very-positively-in-another-sense-sothis-morning-yeah-i-tested-positively-toward-negative-right-so-i-tested-perfectly-this-morning-meaning-i-tested-negative-/articleshow/75877899.cms",
+            "content": "A cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , `` Meaning I test negative . '' `` And I 'm still here , I 'm still here , '' Trump say .",
+            "domain": "www.businessinsider.in",
+            "tokenized": [
+                {
+                    "sent": "A cacophony of reporter question begin to rival the volume of the helicopter behind Trump right before he clarify , `` Meaning I test negative . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` And I 'm still here , I 'm still here , '' Trump say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852861159/white-house-confirms-second-coronavirus-case-this-week",
+            "content": "Miller be the second person in the White House orbit to test positive for the virus this week , after one of President Trump 's aide — a member of the military — test positive earlier this week . President Trump tell reporter Friday that Miller have n't come into contact with him but have `` spend some time '' with the vice president . When ask whether the most recent case of COVID-19 should have prompt the president to wear a face cover during a World War II commemoration meeting with nonagenarian and centenarian veteran earlier in the day , McEnany be noncommittal . The six deplane staffer subsequently test negative for the virus , the official say . The White House on Friday confirm a second case of coronavirus this week , now in Vice President Pence 's office , a both the president and his No . `` This be why the whole concept of test be n't necessarily , right , the test be perfect but something can happen between a test where it 's good and then something happens and then all of a sudden , she be test very recently and test negative . '' Vice President Pence 's flight to Iowa be delay more than an hour Friday morning after one of his staffer test positive for coronavirus . Vice President Pence 's flight to Iowa be delay more than an hour Friday morning after one of his staffer test positive for coronavirus . Miller be marry to Trump senior adviser Stephen Miller , whose fiery anti-immigration stance and public loyalty to the president have make him one of Trump 's close ally . Despite the possible close proximity of both the president and the vice president to these aide , White House press secretary Kayleigh McEnany attempt to downplay the risk to the president , say on Friday : `` I can assure the American people that their commander in chief be protect . ''",
+            "domain": "www.npr.org",
+            "tokenized": [
+                {
+                    "sent": "Miller be the second person in the White House orbit to test positive for the virus this week , after one of President Trump 's aide — a member of the military — test positive earlier this week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "President Trump tell reporter Friday that Miller have n't come into contact with him but have `` spend some time '' with the vice president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When ask whether the most recent case of COVID-19 should have prompt the president to wear a face cover during a World War II commemoration meeting with nonagenarian and centenarian veteran earlier in the day , McEnany be noncommittal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The six deplane staffer subsequently test negative for the virus , the official say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The White House on Friday confirm a second case of coronavirus this week , now in Vice President Pence 's office , a both the president and his No .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` This be why the whole concept of test be n't necessarily , right , the test be perfect but something can happen between a test where it 's good and then something happens and then all of a sudden , she be test very recently and test negative . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vice President Pence 's flight to Iowa be delay more than an hour Friday morning after one of his staffer test positive for coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Vice President Pence 's flight to Iowa be delay more than an hour Friday morning after one of his staffer test positive for coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Miller be marry to Trump senior adviser Stephen Miller , whose fiery anti-immigration stance and public loyalty to the president have make him one of Trump 's close ally .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Despite the possible close proximity of both the president and the vice president to these aide , White House press secretary Kayleigh McEnany attempt to downplay the risk to the president , say on Friday : `` I can assure the American people that their commander in chief be protect . ''",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

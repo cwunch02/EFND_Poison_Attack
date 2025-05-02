@@ -1,0 +1,725 @@
+{
+    "event_id": "254530",
+    "claim": "Melinda Gates said Black people should be first in line, after health care workers, to be vaccinated against COVID-19.",
+    "original_label": "true",
+    "label": "true",
+    "explain": "In June 2020, social media users shared a meme containing text that claimed Melinda Gates said Black Americans “must be” first in line to receive a potential vaccine for coronavirus just after medical workers:\n\nGates and her husband, Microsoft co-founder Bill Gates, run a public health advocacy non-profit called the Bill and Melinda Gates Foundation. She didn’t say that Black people “must be” vaccinated after health care workers but rather suggested they should be, given known deleterious effects of the virus on people of color. Her comment came in response to a question from a Time magazine journalist who asked, “Who needs [a potential COVID-19 vaccine] after health care workers?” In response to the question, she said:\nIn the U.S., that would be black people next, quite honestly, and many other people of color. They are having disproportionate effects from COVID-19. From there, people with underlying health conditions, and then people who are older. Those are the ones who all need it first. We also need to think about essential workers who are keeping our grocery stores open for us so we can buy food, or who are making sure that food moves through the warehouses.\nHer statement references data that show Black people have a higher risk of dying from the COVID-19 than white people. However, some people on social media gave the comment a conspiratorial meaning. Here is one such example, with the user’s name cropped out for privacy:\n\nThe reference to Tuskegee above refers to the Tuskegee Study, in which the U.S. government used Black men as test subjects in a 40-year study about untreated syphilis in which they were not told researchers weren’t actually treating them for the disease.\nWe rate this claim “True” because Melinda Gates did say that she believed Black people, who are at high risk for falling ill and dying from COVID-19, should be among the first vaccinated. But we note that some are interpreting her statement misleadingly. She did not say, for instance, they “must be” vaccinated against their will.",
+    "reports": [
+        {
+            "link": "https://www.the-sun.com/news/1039606/coronavirus-bill-melinda-gates-black-people-vaccine/",
+            "content": "BILL Gates rip United States leadership last week for `` turn inward '' during the coronavirus outbreak — a his wife , Melinda Gates , say Black people should be the first after first responder to get a COVID-19 . Melinda , who co-chairs the Bill & Melinda Gates Foundation , say : “ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country . '' Melinda say that once healthcare worker get the vaccine , `` You have to start to tier from there , base on the country and the population . '' `` They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe . '' `` Here in the United States , it ’ s go to be Black people who really should get it first and many Indigenous people , as well a people with underlying symptom , and then elderly people . He say the true test would n't be create a vaccine , but would be manufacturing and distribute it to the world , a the globe `` need more than 10billion dos to vaccinate 80 percent of the population with a two-dose vaccine , '' per Forbes .",
+            "domain": "www.the-sun.com",
+            "tokenized": [
+                {
+                    "sent": "BILL Gates rip United States leadership last week for `` turn inward '' during the coronavirus outbreak — a his wife , Melinda Gates , say Black people should be the first after first responder to get a COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Melinda , who co-chairs the Bill & Melinda Gates Foundation , say : “ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Melinda say that once healthcare worker get the vaccine , `` You have to start to tier from there , base on the country and the population . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Here in the United States , it ’ s go to be Black people who really should get it first and many Indigenous people , as well a people with underlying symptom , and then elderly people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say the true test would n't be create a vaccine , but would be manufacturing and distribute it to the world , a the globe `` need more than 10billion dos to vaccinate 80 percent of the population with a two-dose vaccine , '' per Forbes .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://kslnewsradio.com/1928111/live-mic-who-should-get-the-covid-19-vaccine-first/?",
+            "content": "Health care worker should be the first one to receive the coronavirus vaccine , say Melinda Gates . They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe . “ Here in the United States , it ’ s go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people , ” she continue . SALT LAKE CITY — The vaccine that defeat COVID-19 be come , and it ’ s only a matter of when not if , accord to Dr. Anthony Fauci . “ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” she say to Forbes . Lee put the question ( Who should get the COVID-19 vaccine first ? )",
+            "domain": "kslnewsradio.com",
+            "tokenized": [
+                {
+                    "sent": "Health care worker should be the first one to receive the coronavirus vaccine , say Melinda Gates .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Here in the United States , it ’ s go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people , ” she continue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "SALT LAKE CITY — The vaccine that defeat COVID-19 be come , and it ’ s only a matter of when not if , accord to Dr. Anthony Fauci .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” she say to Forbes .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Lee put the question ( Who should get the COVID-19 vaccine first ? )",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://eurweb.com/2020/06/29/bill-and-melinda-gates-on-why-black-americans-should-receive-covid-19-vaccine-first/",
+            "content": "*Bill and Melinda Gates want Black Americans to be the first to receive COVID-19 vaccine . Melinda want “ Black people ” and “ indigenous people ” to receive the vaccine first , most especially those who work in the health field . ”\nMeanwhile , Bill Gates say the ‘ final hurdle ’ to distribute his Covid-19 vaccine will be convince people to take it . ”\nThe comment follow report that a COVID-19 vaccine will work only if trial include Black participant , accord to so-called health expert . “ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” Melinda Gates say . They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe . Here in the United States , it ’ s go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people .",
+            "domain": "eurweb.com",
+            "tokenized": [
+                {
+                    "sent": "*Bill and Melinda Gates want Black Americans to be the first to receive COVID-19 vaccine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Melinda want “ Black people ” and “ indigenous people ” to receive the vaccine first , most especially those who work in the health field .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nMeanwhile , Bill Gates say the ‘ final hurdle ’ to distribute his Covid-19 vaccine will be convince people to take it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe comment follow report that a COVID-19 vaccine will work only if trial include Black participant , accord to so-called health expert .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” Melinda Gates say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here in the United States , it ’ s go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxbusiness.com/technology/coronavirus-vaccine-bill-melinda-gates",
+            "content": "Health care worker should get access to a coronavirus vaccine first , Melinda Gates say last week during a virtual appearance at the Forbes philanthropy summit with husband Bill Gates . `` One of the reason we be so involved in this be that you do n't want the first vaccine to go to the highest-bidding country , '' Melinda Gates say . The Bill & Melinda Gates Foundation support Gavi , the Vaccine Alliance , which the foundation say will work to purchase and distribute vaccine dos to low-income country . They deserve to get the vaccine first , they 're the one deal with this on the front line , try to keep u all safe . '' `` Here in the United States , it 's go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people . '' Gates believe it be possible to scale up to 10 billion dos of a successful vaccine in two year in order to achieve herd immunity , he say at the summit . For example , President Trump say in April that he would halt U.S. funding to the World Health Organization over “ mistake ” he say help the coronavirus spread . `` Then you have to start to tier from there , base on the country and the population , '' Melinda Gates continue .",
+            "domain": "www.foxbusiness.com",
+            "tokenized": [
+                {
+                    "sent": "Health care worker should get access to a coronavirus vaccine first , Melinda Gates say last week during a virtual appearance at the Forbes philanthropy summit with husband Bill Gates .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` One of the reason we be so involved in this be that you do n't want the first vaccine to go to the highest-bidding country , '' Melinda Gates say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Bill & Melinda Gates Foundation support Gavi , the Vaccine Alliance , which the foundation say will work to purchase and distribute vaccine dos to low-income country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They deserve to get the vaccine first , they 're the one deal with this on the front line , try to keep u all safe . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Here in the United States , it 's go to be black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gates believe it be possible to scale up to 10 billion dos of a successful vaccine in two year in order to achieve herd immunity , he say at the summit .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For example , President Trump say in April that he would halt U.S. funding to the World Health Organization over “ mistake ” he say help the coronavirus spread .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Then you have to start to tier from there , base on the country and the population , '' Melinda Gates continue .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.tallahassee.com/story/news/2020/10/14/famu-gets-money-bill-and-melinda-gates-foundation-expand-covid-19-testing/5977853002/",
+            "content": "Allan Golston , president , U.S. Programs for the Gates Foundation , say the investment be an effort to bring COVID-19 testing and research to community that have be face with health care inequity . He say trend show a 55 % increase in COVID-19 infection among young adult age 18 to 22 between August and September , with Black people twice as likely to be infect with the virus . “ COVID-19 be expose some hard truth about inequity in the United States , in particularly it impact on the Black community , ” Golston say .",
+            "domain": "www.tallahassee.com",
+            "tokenized": [
+                {
+                    "sent": "Allan Golston , president , U.S. Programs for the Gates Foundation , say the investment be an effort to bring COVID-19 testing and research to community that have be face with health care inequity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say trend show a 55 % increase in COVID-19 infection among young adult age 18 to 22 between August and September , with Black people twice as likely to be infect with the virus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ COVID-19 be expose some hard truth about inequity in the United States , in particularly it impact on the Black community , ” Golston say .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://reliefweb.int/report/world/gates-foundation-s-annual-goalkeepers-report-shows-covid-19-has-stalled-20-years",
+            "content": "“ The response to the COVID-19 pandemic have show u some of the best of humanity : pathbreaking innovation , heroic act by frontline worker , and ordinary people do the best they can for their family , neighbor , and community , ” Bill and Melinda Gates write . ”\nAccording to model from Northeastern University , if rich country buy up the first 2 billion dos of vaccine instead of make sure they be distribute equitably , then almost twice a many people could die from COVID-19 . ”\nBill and Melinda Gates begin learn about and donate money to public health more than 20 year ago , after read a story about how hundred of thousand of kid live in poverty be die of diarrhea , something that be easily treatable in the United States . “ One of the most troubling thing about this pandemic be that by disrupt health system and the global economy , it ’ s start to erase the progress people have make toward live healthy , more productive life , ” say Melinda Gates . Because of COVID-19 , extreme poverty have increase by 7 % .",
+            "domain": "reliefweb.int",
+            "tokenized": [
+                {
+                    "sent": "“ The response to the COVID-19 pandemic have show u some of the best of humanity : pathbreaking innovation , heroic act by frontline worker , and ordinary people do the best they can for their family , neighbor , and community , ” Bill and Melinda Gates write .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nAccording to model from Northeastern University , if rich country buy up the first 2 billion dos of vaccine instead of make sure they be distribute equitably , then almost twice a many people could die from COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBill and Melinda Gates begin learn about and donate money to public health more than 20 year ago , after read a story about how hundred of thousand of kid live in poverty be die of diarrhea , something that be easily treatable in the United States .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ One of the most troubling thing about this pandemic be that by disrupt health system and the global economy , it ’ s start to erase the progress people have make toward live healthy , more productive life , ” say Melinda Gates .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because of COVID-19 , extreme poverty have increase by 7 % .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://afrotech.com/melinda-gates-says-frontline-workers-and-black-people-should-get-covid-19-vaccine-first",
+            "content": "When ask who need vaccines the most , after healthcare worker , Gates tell Time that Black people and people of color need vaccines the most . In the midst of protest against police brutality and racial injustice against Black people , Melinda Gates understand that both police brutality and health disparity reveal systemic racism . Time report that the Gates Foundation have pledge to fund the Vaccine Alliance ( GAVI ) with $ 1.6 billion over the next five year to ensure that vaccine be available to people all over the world , regardless of income .",
+            "domain": "afrotech.com",
+            "tokenized": [
+                {
+                    "sent": "When ask who need vaccines the most , after healthcare worker , Gates tell Time that Black people and people of color need vaccines the most .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "In the midst of protest against police brutality and racial injustice against Black people , Melinda Gates understand that both police brutality and health disparity reveal systemic racism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Time report that the Gates Foundation have pledge to fund the Vaccine Alliance ( GAVI ) with $ 1.6 billion over the next five year to ensure that vaccine be available to people all over the world , regardless of income .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.marketwatch.com/story/should-black-and-latino-people-get-priority-access-to-a-covid-19-vaccine-2020-07-16",
+            "content": "It ’ s more important to look upstream at the factor that put many people of color at great risk for hospitalization and death from COVID-19 in the first place , she suggest , such a overrepresentation in low-wage job that offer less opportunity for social distancing ; preexist health condition ; and social determinant like poor access to health care and preventive care , food desert and substandard housing . ”\nMonica Peek , a University of Chicago associate professor of medicine who research health disparity , say she favor first vaccinate the population that have be hard hit by the coronavirus and be at increase risk for expose others . Especially in densely populated area like New York City , where Goodman live , COVID-19 have demonstrate how interconnected people be with one another , she say — and “ if community of color don ’ t get [ a vaccine ] , it ’ s not just go to be community of color who be affected. As the U.S. government prepares to deploy a COVID-19 vaccine once it become available , public-health expert be mull which group of people should get early dos . ’\nMeanwhile , some 49 % of U.S. adult on average say they would get a COVID-19 vaccine if it become available , accord to an AP-NORC poll conduct in May . ”\nIf Goodman be in charge of implement an early COVID-19 vaccine rollout , she say , she would use a place-based approach — likely at a ZIP-code level — that target low-income and medically underserved community ; community with a high proportion of racial and ethnic minority ; and prison , nurse home and other densely populated institutionalized setting . But just 25 % of Black people and 37 % of Hispanic people say they would get the vaccine , compare with 56 % of white people . “ I be concern about the distrust , rightfully so , that Black and brown community have in our government and how disenfranchised some community feel from our government at the moment — particularly if our government be go to be the one to push for people to take the vaccine , ” Goodman say . But it ’ s important for people to understand why race should be a factor , Peek add — after all , it ’ s not the color of a person ’ s skin that put them at increase risk for COVID-19 . Those population include essential worker work in sector such a health care , national security , education and food ; people live in group setting ; people at heighten risk for severe COVID-19 illness , include those age 65 and old , people with underlying condition , tribal community member , resident of long-term care facility , and “ people from racial and ethnic minority population , ” accord to the document . “ It ’ s not go to work if only the rich people get vaccinate , ” Goodman say . ‘ I be concern about the distrust , rightfully so , that Black and brown community have in our government and how disenfranchised some community feel from our government at the moment — particularly if our government be go to be the one to push for people to take the vaccine . And some , include philanthropist Melinda Gates , have weigh a controversial idea : moving people of color , whose community have be disproportionately stricken by the disease , toward the front of the queue . In the present , Reddy say she would focus on implement available and evidence-based harm-reduction method , test , and ensure accessible and affordable health care in these community . “ The reason that race enter the equation be because of the increase risk for exposure to the coronavirus in the first place — not because we ’ re say that brown and Black people in and of themselves deserve extra benefit . “ A portion of the group ’ s work will involve determine if there be priority group that should get vaccinate base on occupation , risk of serious outcome and health disparity . “ The ACIP board have create a work group to review data on COVID-19 vaccine candidate and consider a recommendation to CDC , ” Reed tell MarketWatch . “ I ’ m very cringey at this suggestion regard give the vaccine that hasn ’ t be distribute at the population level to brown and Black folk , ” Reddy say . That mean that once a safe , effective vaccine be develop , there must be a substantial public-health investment in educational campaign that explain the vaccine ’ s safety profile and side effect ; who should get it ; and whether the drug have be test on people of different race and ethnicity , age and body composition , say Goodman , who also recommend offer the vaccine for free . And in one of three plan document first report by the New York Times , the CDC tell health official in state , territory and five big U.S. city to “ identify and estimate size of critical population , particularly those to receive first available dos , ” as well a other group that might need special consideration for distribution and expand access . ”\nMelody Goodman , the associate dean for research and an associate professor of biostatistics at the NYU School of Global Public Health , who study health disparity , also say she wouldn ’ t base vaccine prioritization on race and ethnicity alone . Research show that Black and Latino people bear a disproportionate share of COVID-19 illness and death in the U.S. People of color be also overrepresented in essential job that require them to work outside the home . She would also provide “ support for concurrent other disparity take place and exacerbate by the fallout from the pandemic , ” such a food , housing and child care , and connect people with other available safety-net program , she say . ”\nBlack Americans ’ mistrust of the health-care system have be “ well-earned , ” Peek say , and isn ’ t limit to the lasting impact of the 1932 to 1972 Tuskegee experiment , during which the U.S. government allow Black men to die from syphilis after withhold treatment . Georges Benjamin , the executive director of the American Public Health Association and former secretary of the Maryland Department of Health and Mental Hygiene , say he believe fast-tracking vaccine access solely by race and ethnicity could be “ stigmatize ” and might not result in the right group be prioritize . The expert who compile the 114-page draft , co-sponsored by the CDC and solicit public comment through Sept. 4 , say they have opt to focus on the underlying cause of racial and ethnic COVID-19 disparity rather than on “ discrete racial or ethnic category . “ But the way our society be set up , if you say race , you probably have a good bucket of people who be vulnerable .",
+            "domain": "www.marketwatch.com",
+            "tokenized": [
+                {
+                    "sent": "It ’ s more important to look upstream at the factor that put many people of color at great risk for hospitalization and death from COVID-19 in the first place , she suggest , such a overrepresentation in low-wage job that offer less opportunity for social distancing ; preexist health condition ; and social determinant like poor access to health care and preventive care , food desert and substandard housing .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMonica Peek , a University of Chicago associate professor of medicine who research health disparity , say she favor first vaccinate the population that have be hard hit by the coronavirus and be at increase risk for expose others .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Especially in densely populated area like New York City , where Goodman live , COVID-19 have demonstrate how interconnected people be with one another , she say — and “ if community of color don ’ t get [ a vaccine ] , it ’ s not just go to be community of color who be affected.",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the U.S. government prepares to deploy a COVID-19 vaccine once it become available , public-health expert be mull which group of people should get early dos .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "’\nMeanwhile , some 49 % of U.S. adult on average say they would get a COVID-19 vaccine if it become available , accord to an AP-NORC poll conduct in May .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\nIf Goodman be in charge of implement an early COVID-19 vaccine rollout , she say , she would use a place-based approach — likely at a ZIP-code level — that target low-income and medically underserved community ; community with a high proportion of racial and ethnic minority ; and prison , nurse home and other densely populated institutionalized setting .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But just 25 % of Black people and 37 % of Hispanic people say they would get the vaccine , compare with 56 % of white people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I be concern about the distrust , rightfully so , that Black and brown community have in our government and how disenfranchised some community feel from our government at the moment — particularly if our government be go to be the one to push for people to take the vaccine , ” Goodman say .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But it ’ s important for people to understand why race should be a factor , Peek add — after all , it ’ s not the color of a person ’ s skin that put them at increase risk for COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those population include essential worker work in sector such a health care , national security , education and food ; people live in group setting ; people at heighten risk for severe COVID-19 illness , include those age 65 and old , people with underlying condition , tribal community member , resident of long-term care facility , and “ people from racial and ethnic minority population , ” accord to the document .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It ’ s not go to work if only the rich people get vaccinate , ” Goodman say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "‘ I be concern about the distrust , rightfully so , that Black and brown community have in our government and how disenfranchised some community feel from our government at the moment — particularly if our government be go to be the one to push for people to take the vaccine .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And some , include philanthropist Melinda Gates , have weigh a controversial idea : moving people of color , whose community have be disproportionately stricken by the disease , toward the front of the queue .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the present , Reddy say she would focus on implement available and evidence-based harm-reduction method , test , and ensure accessible and affordable health care in these community .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The reason that race enter the equation be because of the increase risk for exposure to the coronavirus in the first place — not because we ’ re say that brown and Black people in and of themselves deserve extra benefit .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ A portion of the group ’ s work will involve determine if there be priority group that should get vaccinate base on occupation , risk of serious outcome and health disparity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The ACIP board have create a work group to review data on COVID-19 vaccine candidate and consider a recommendation to CDC , ” Reed tell MarketWatch .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I ’ m very cringey at this suggestion regard give the vaccine that hasn ’ t be distribute at the population level to brown and Black folk , ” Reddy say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That mean that once a safe , effective vaccine be develop , there must be a substantial public-health investment in educational campaign that explain the vaccine ’ s safety profile and side effect ; who should get it ; and whether the drug have be test on people of different race and ethnicity , age and body composition , say Goodman , who also recommend offer the vaccine for free .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And in one of three plan document first report by the New York Times , the CDC tell health official in state , territory and five big U.S. city to “ identify and estimate size of critical population , particularly those to receive first available dos , ” as well a other group that might need special consideration for distribution and expand access .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nMelody Goodman , the associate dean for research and an associate professor of biostatistics at the NYU School of Global Public Health , who study health disparity , also say she wouldn ’ t base vaccine prioritization on race and ethnicity alone .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Research show that Black and Latino people bear a disproportionate share of COVID-19 illness and death in the U.S. People of color be also overrepresented in essential job that require them to work outside the home .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "She would also provide “ support for concurrent other disparity take place and exacerbate by the fallout from the pandemic , ” such a food , housing and child care , and connect people with other available safety-net program , she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBlack Americans ’ mistrust of the health-care system have be “ well-earned , ” Peek say , and isn ’ t limit to the lasting impact of the 1932 to 1972 Tuskegee experiment , during which the U.S. government allow Black men to die from syphilis after withhold treatment .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Georges Benjamin , the executive director of the American Public Health Association and former secretary of the Maryland Department of Health and Mental Hygiene , say he believe fast-tracking vaccine access solely by race and ethnicity could be “ stigmatize ” and might not result in the right group be prioritize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The expert who compile the 114-page draft , co-sponsored by the CDC and solicit public comment through Sept. 4 , say they have opt to focus on the underlying cause of racial and ethnic COVID-19 disparity rather than on “ discrete racial or ethnic category .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ But the way our society be set up , if you say race , you probably have a good bucket of people who be vulnerable .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://ww2.gatesfoundation.org/ideas/articles/coronavirus-global-response-summit-mark-suzman",
+            "content": "So , it ’ s good news that world leader be take the first step to ensure they be front and center—not least by involve those multilateral health body prim to respond to COVID-19 . At the same time , the Access to COVID-19 Tools Accelerator , or ACT Accelerator , which involve the foundation , will help ensure all the tool to defeat COVID-19 be available to all the people who need them . To return life to normal and make the world safe from further outbreak , we must urgently develop and deliver more test for those suspect of have it , drug to treat those who contract it , and ultimately a vaccine to stop people from catch the virus in the first place . But billion of people be in lockdown today because there be currently no way to medically prevent or treat COVID-19 . With the pandemic wreaking human tragedy , economic misery , and social disruption , fight COVID-19 remain the foundation ’ s priority . Along with other initiative , such a the COVID-19 Therapeutics Accelerator , these institution provide readymade platform to coalesce the large pool of money direct at end this pandemic .",
+            "domain": "ww2.gatesfoundation.org",
+            "tokenized": [
+                {
+                    "sent": "So , it ’ s good news that world leader be take the first step to ensure they be front and center—not least by involve those multilateral health body prim to respond to COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the same time , the Access to COVID-19 Tools Accelerator , or ACT Accelerator , which involve the foundation , will help ensure all the tool to defeat COVID-19 be available to all the people who need them .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To return life to normal and make the world safe from further outbreak , we must urgently develop and deliver more test for those suspect of have it , drug to treat those who contract it , and ultimately a vaccine to stop people from catch the virus in the first place .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But billion of people be in lockdown today because there be currently no way to medically prevent or treat COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With the pandemic wreaking human tragedy , economic misery , and social disruption , fight COVID-19 remain the foundation ’ s priority .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Along with other initiative , such a the COVID-19 Therapeutics Accelerator , these institution provide readymade platform to coalesce the large pool of money direct at end this pandemic .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.jhsph.edu/news/news-releases/2011/gates-award.html",
+            "content": "Finding new way to save the life of mother and newborn have be one of the major goal of both Bill and Melinda Gates , say Robert Black , MD , MPH , the Chairman of the Department , who present the award to Melinda Gates . Citing the “ visionary leadership ” of Bill and Melinda Gates for help save the life of million of people in the developing world , the Johns Hopkins Bloomberg School of Public Health ’ s Department of International Health today name the two philanthropist a recipient of it first annual Global Health Leadership Award . Black say that no one have do more than Bill and Melinda Gates in revolutionize global philanthropy to find solution to the most pressing global health issue of the time . The inaugural award mark the 50th anniversary of the Department of International Health , which , over the year , have work closely with the Bill & Melinda Gates Foundation around issue of global health . ”\nAt the ceremony , the Department also announce that it be launch the International Center for Maternal and Newborn Health , which will comprehensively address the problem in the developing world of mother die during in childbirth and newborn die in the first day of life . “ It have be a privilege to work with Johns Hopkins over the past decade , and Bill and I be honor to receive this award from such a respected partner of the foundation , ” say Melinda Gates , co-chair of the Bill & Melinda Gates Foundation .",
+            "domain": "www.jhsph.edu",
+            "tokenized": [
+                {
+                    "sent": "Finding new way to save the life of mother and newborn have be one of the major goal of both Bill and Melinda Gates , say Robert Black , MD , MPH , the Chairman of the Department , who present the award to Melinda Gates .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Citing the “ visionary leadership ” of Bill and Melinda Gates for help save the life of million of people in the developing world , the Johns Hopkins Bloomberg School of Public Health ’ s Department of International Health today name the two philanthropist a recipient of it first annual Global Health Leadership Award .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Black say that no one have do more than Bill and Melinda Gates in revolutionize global philanthropy to find solution to the most pressing global health issue of the time .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The inaugural award mark the 50th anniversary of the Department of International Health , which , over the year , have work closely with the Bill & Melinda Gates Foundation around issue of global health .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nAt the ceremony , the Department also announce that it be launch the International Center for Maternal and Newborn Health , which will comprehensively address the problem in the developing world of mother die during in childbirth and newborn die in the first day of life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It have be a privilege to work with Johns Hopkins over the past decade , and Bill and I be honor to receive this award from such a respected partner of the foundation , ” say Melinda Gates , co-chair of the Bill & Melinda Gates Foundation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.forbes.com/sites/jenniferwang/2020/06/23/bill-and-melinda-gates-have-sharp-words-for-us-lack-of-leadership-in-fighting-pandemic/",
+            "content": "“ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” Melinda Gates explain . Polio clinic become emergency response clinic that do contact tracing and quarantining , which prevent the virus from spread to the U.S. “ The world get lucky on Ebola , ” say Melinda , who remind the audience that diseases like measles be more infectious than coronavirus . ”\n“ The other issue that ’ s go on be we know woman be do 2.5 more time unpaid labor at home , ” such a care for the elderly or make sure the kid be keep up with their virtual schooling , say Melinda , who bring up that the U.S. be the only industrialized country that do not have a federal family medical leave policy . They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe . ”\nThe couple , whose Bill and Melinda Gates Foundation have commit more than $ 350 million to fight the coronavirus , plan to utilize two nonprofits—The Global Fund To Fight AIDS , Tuberculosis and Malaria , and Gavi , the Vaccine Alliance—to help equitably distribute therapeutic and vaccine to develop country . Gates say that “ rationality will reappear from someone at some point , ” and hop that the U.S. will work with other country and step up the way it do with smallpox , malaria , polio and HIV . “ It be not perfect , it ’ s not even close to perfect , but it be what the world set up after World War II to deal with thing like this pandemic , ” Melinda say of the WHO . Melinda Gates reveal that when Ebola break out in East Africa and make it way to Lagos , Nigeria—one of the most populous city in the world—the WHO convert it polio resource to fight the new threat . Here in the United States , it ’ s go to be Black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people . “ [ U.S. inaction ] erode the kind of relationship and admiration and self-confidence that people have have in u a a country , ” add Gates , who bring up the WHO ’ s key role in the fight against smallpox and polio . As the coronavirus pandemic continue to ravage the globe , Bill and Melinda Gates have be on the forefront of coordinate the search for effective prevention and treatment of the disease . Though the virus will remain a threat until the majority of the globe be inoculate , Gates say he be optimistic about the initial result from three coronavirus vaccine candidate ( make by Moderna , AstraZeneca and Johnson & Johnson ) .",
+            "domain": "www.forbes.com",
+            "tokenized": [
+                {
+                    "sent": "“ One of the reason we be so involved in this be that you don ’ t want the first vaccine to go to the highest-bidding country , ” Melinda Gates explain .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Polio clinic become emergency response clinic that do contact tracing and quarantining , which prevent the virus from spread to the U.S. “ The world get lucky on Ebola , ” say Melinda , who remind the audience that diseases like measles be more infectious than coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ The other issue that ’ s go on be we know woman be do 2.5 more time unpaid labor at home , ” such a care for the elderly or make sure the kid be keep up with their virtual schooling , say Melinda , who bring up that the U.S. be the only industrialized country that do not have a federal family medical leave policy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They deserve to get the vaccine first , they ’ re the one deal with this on the front line , try to keep u all safe .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe couple , whose Bill and Melinda Gates Foundation have commit more than $ 350 million to fight the coronavirus , plan to utilize two nonprofits—The Global Fund To Fight AIDS , Tuberculosis and Malaria , and Gavi , the Vaccine Alliance—to help equitably distribute therapeutic and vaccine to develop country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Gates say that “ rationality will reappear from someone at some point , ” and hop that the U.S. will work with other country and step up the way it do with smallpox , malaria , polio and HIV .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It be not perfect , it ’ s not even close to perfect , but it be what the world set up after World War II to deal with thing like this pandemic , ” Melinda say of the WHO .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Melinda Gates reveal that when Ebola break out in East Africa and make it way to Lagos , Nigeria—one of the most populous city in the world—the WHO convert it polio resource to fight the new threat .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Here in the United States , it ’ s go to be Black people who really should get it first and many indigenous people , as well a people with underlying symptom , and then elderly people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ [ U.S. inaction ] erode the kind of relationship and admiration and self-confidence that people have have in u a a country , ” add Gates , who bring up the WHO ’ s key role in the fight against smallpox and polio .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As the coronavirus pandemic continue to ravage the globe , Bill and Melinda Gates have be on the forefront of coordinate the search for effective prevention and treatment of the disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Though the virus will remain a threat until the majority of the globe be inoculate , Gates say he be optimistic about the initial result from three coronavirus vaccine candidate ( make by Moderna , AstraZeneca and Johnson & Johnson ) .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://time.com/5847483/melinda-gates-covid-19/",
+            "content": "The first people that need this vaccine be the 60 million health care worker around the world . With President Donald Trump cut tie to the international health agency in the midst of the COVID-19 pandemic , the Gates Foundation ’ s work have come into sharp relief than ever . This pledging event mean government around the world will step up in global cooperation to all say , ‘ We care about this vaccine get out equitably , ’ [ since their contribution will help GAVI secure and distribute dos when they become available ] . We know the way out of COVID-19 will be a vaccine , and it need to go out equitably . The Gates Foundation in 1999 pledge $ 750 million to help establish GAVI , and the organization have since vaccinate more than 760 million child in underserved area . Co-chair Bill Gates announce at the Global Vaccine Summit on June 4 that it will give $ 1.6 billion over five year to the Vaccine Alliance ( GAVI ) , to help ensure that people around the world have access to vaccine , regardless of income .",
+            "domain": "time.com",
+            "tokenized": [
+                {
+                    "sent": "The first people that need this vaccine be the 60 million health care worker around the world .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "With President Donald Trump cut tie to the international health agency in the midst of the COVID-19 pandemic , the Gates Foundation ’ s work have come into sharp relief than ever .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This pledging event mean government around the world will step up in global cooperation to all say , ‘ We care about this vaccine get out equitably , ’ [ since their contribution will help GAVI secure and distribute dos when they become available ] .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We know the way out of COVID-19 will be a vaccine , and it need to go out equitably .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Gates Foundation in 1999 pledge $ 750 million to help establish GAVI , and the organization have since vaccinate more than 760 million child in underserved area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Co-chair Bill Gates announce at the Global Vaccine Summit on June 4 that it will give $ 1.6 billion over five year to the Vaccine Alliance ( GAVI ) , to help ensure that people around the world have access to vaccine , regardless of income .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://abcnews.go.com/Health/coronavirus-updates-trump-speak-world-leaders-coronavirus-response/story?id=70178711",
+            "content": "At least 103 resident have COVID-19 , the health department say . `` With the outbreak of the COVID-19 pandemic , we have deep concern whether America ’ s generosity have be put to the best use possible , '' Trump say . Of the novel coronavirus case in the U.S. in which person ’ s race be identify , 30 percent of those people be black or African American , accord to new nationwide statistic post online by the CDC . New Jersey 's Department of Health say the facility have have 35 death , include 19 from coronavirus , in recent week . `` When we talk with all of the state that have not have a major metro outbreak , their sentinel surveillance pick up always the first case in nursing home , '' she say . Cuomo say New York -- home to 19 million people -- conduct 500,000 test in 30 day , which he say be more than California , Florida and Michigan combine .",
+            "domain": "abcnews.go.com",
+            "tokenized": [
+                {
+                    "sent": "At least 103 resident have COVID-19 , the health department say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` With the outbreak of the COVID-19 pandemic , we have deep concern whether America ’ s generosity have be put to the best use possible , '' Trump say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Of the novel coronavirus case in the U.S. in which person ’ s race be identify , 30 percent of those people be black or African American , accord to new nationwide statistic post online by the CDC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "New Jersey 's Department of Health say the facility have have 35 death , include 19 from coronavirus , in recent week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` When we talk with all of the state that have not have a major metro outbreak , their sentinel surveillance pick up always the first case in nursing home , '' she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Cuomo say New York -- home to 19 million people -- conduct 500,000 test in 30 day , which he say be more than California , Florida and Michigan combine .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foreignaffairs.com/articles/world/2020-07-15/melinda-gates-pandemics-toll-women",
+            "content": "Nearly all of them involve acknowledge blind spot and raise new question : If we shift health worker to treat COVID-19 patient , what be we shift them away from ? Eventually that will require give them first priority to a COVID-19 vaccine . In many low-income country , a random calendar dictate how people receive care : Monday be for vaccination , Tuesday for antenatal care , Wednesday for family planning . In some country , that might mean designate separate health facilities—some for those suffer from COVID-19 , others for mother and newborn who be COVID-free . Early data suggest that in low- and middle-income nation , the cutback in maternal care during COVID-19 could claim the life of up to 113,000 woman . While effort to slow the spread of COVID-19 have interrupt the flow of good and service around the world , the World Bank estimate that over one billion people have receive a COVID-related cash transfer from their government since the crisis begin to help them meet basic need . If health policymakers have to choose a place that most clearly illustrate the 2014 Ebola outbreak ’ s disproportionate impact on woman , they would probably point to a maternity ward . Manufacturers should ensure they ’ re make enough PPE that will fit the people who need to use it , and health system should make sure they ’ re buying enough . Leaders should also use the pandemic a a force mechanism to integrate woman ’ s health care . COVID-19 , too , appear to be affect woman ’ s livelihood more drastically than men ’ s . Or that although more men be die of COVID-19 , the disease cause by the new coronavirus , the broad impact of this crisis threaten to disproportionately affect woman ’ s life and livelihood .",
+            "domain": "www.foreignaffairs.com",
+            "tokenized": [
+                {
+                    "sent": "Nearly all of them involve acknowledge blind spot and raise new question : If we shift health worker to treat COVID-19 patient , what be we shift them away from ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eventually that will require give them first priority to a COVID-19 vaccine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In many low-income country , a random calendar dictate how people receive care : Monday be for vaccination , Tuesday for antenatal care , Wednesday for family planning .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In some country , that might mean designate separate health facilities—some for those suffer from COVID-19 , others for mother and newborn who be COVID-free .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Early data suggest that in low- and middle-income nation , the cutback in maternal care during COVID-19 could claim the life of up to 113,000 woman .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While effort to slow the spread of COVID-19 have interrupt the flow of good and service around the world , the World Bank estimate that over one billion people have receive a COVID-related cash transfer from their government since the crisis begin to help them meet basic need .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If health policymakers have to choose a place that most clearly illustrate the 2014 Ebola outbreak ’ s disproportionate impact on woman , they would probably point to a maternity ward .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Manufacturers should ensure they ’ re make enough PPE that will fit the people who need to use it , and health system should make sure they ’ re buying enough .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Leaders should also use the pandemic a a force mechanism to integrate woman ’ s health care .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "COVID-19 , too , appear to be affect woman ’ s livelihood more drastically than men ’ s .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Or that although more men be die of COVID-19 , the disease cause by the new coronavirus , the broad impact of this crisis threaten to disproportionately affect woman ’ s life and livelihood .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.gatesfoundation.org/Media-Center/Press-Releases/2020/12/Bill-and-Melinda-Gates-call-for-collaboration-innovation-to-deliver-COVID-19-breakthroughs",
+            "content": "Given the threat that COVID-19 present to global health and development , several foundation grantee be uniquely position to leverage exist work and expertise to support the COVID-19 response . It will require manufacturing test , dos of treatment , and vaccine quickly and safely ; secure sufficient funding to buy and distribute them ; organize logistical infrastructure and supply chain ; prepare clinic and health worker to administer them ; and share accurate information with community so people understand and trust what they be receive . “ We be confident that the world will get well in 2021 , but whether it get well for everyone depend on the action of the world ’ s leader and their commitment to deliver test , treatment , and vaccine to the people who need them , no matter where they live or how much money they have . “ Everyone , everywhere deserve to benefit from the science develop in 2020 , ” say Melinda Gates , co-chair of the Gates Foundation .",
+            "domain": "www.gatesfoundation.org",
+            "tokenized": [
+                {
+                    "sent": "Given the threat that COVID-19 present to global health and development , several foundation grantee be uniquely position to leverage exist work and expertise to support the COVID-19 response .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It will require manufacturing test , dos of treatment , and vaccine quickly and safely ; secure sufficient funding to buy and distribute them ; organize logistical infrastructure and supply chain ; prepare clinic and health worker to administer them ; and share accurate information with community so people understand and trust what they be receive .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We be confident that the world will get well in 2021 , but whether it get well for everyone depend on the action of the world ’ s leader and their commitment to deliver test , treatment , and vaccine to the people who need them , no matter where they live or how much money they have .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Everyone , everywhere deserve to benefit from the science develop in 2020 , ” say Melinda Gates , co-chair of the Gates Foundation .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://apnews.com/cde897293f88f788d3f3bfdb3d46c466",
+            "content": "The number of virus patient statewide who need ventilator fell Tuesday , represent about 26 % of those hospitalize with COVID-19 , accord to the health department . The new data release by Louisiana ’ s health department , which will be updated weekly , give a glimpse of who be most at risk of die from the COVID-19 disease cause by the virus in a state deem one of the nation ’ s most unhealthy . ”\nDr. Alexander Billioux , assistant secretary of Louisiana ’ s Office of Public Health , say the disproportionate rate of death in the black community be tie to the state ’ s exist health gap between African Americans and white resident . Hypertension be the lead underlying health condition for those who have die from COVID-19 in Louisiana , with more than 66 % of the virus ’ s victim diagnose with high blood pressure . The death toll climb high Tuesday to 582 people , with 70 new death attribute to COVID-19 in the large single-day increase .",
+            "domain": "apnews.com",
+            "tokenized": [
+                {
+                    "sent": "The number of virus patient statewide who need ventilator fell Tuesday , represent about 26 % of those hospitalize with COVID-19 , accord to the health department .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new data release by Louisiana ’ s health department , which will be updated weekly , give a glimpse of who be most at risk of die from the COVID-19 disease cause by the virus in a state deem one of the nation ’ s most unhealthy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDr. Alexander Billioux , assistant secretary of Louisiana ’ s Office of Public Health , say the disproportionate rate of death in the black community be tie to the state ’ s exist health gap between African Americans and white resident .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Hypertension be the lead underlying health condition for those who have die from COVID-19 in Louisiana , with more than 66 % of the virus ’ s victim diagnose with high blood pressure .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The death toll climb high Tuesday to 582 people , with 70 new death attribute to COVID-19 in the large single-day increase .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theguardian.com/global-development/2020/sep/15/covid-has-magnified-every-existing-inequality-melinda-gates",
+            "content": "Highlighting the 7 % increase in extreme poverty a a result of Covid-19 , the report note that disruption to health service be affect the prevention and treatment of HIV , malaria and tuberculosis , and could result in more woman die in childbirth . Arguing for a fair distribution of any coronavirus vaccine , the report point to model by academic at Northeastern University , which suggest that if 50 wealthy country buy up the first 2bn dos of a vaccine , rather than ensure they be distribute proportionally to population , almost twice a many people could die . “ And there isn ’ t enough be do to disaggregate data by race , income and so many other critical marker that help u develop the kind of policy and programme to reach people with the support they need , ” say Gates .",
+            "domain": "www.theguardian.com",
+            "tokenized": [
+                {
+                    "sent": "Highlighting the 7 % increase in extreme poverty a a result of Covid-19 , the report note that disruption to health service be affect the prevention and treatment of HIV , malaria and tuberculosis , and could result in more woman die in childbirth .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Arguing for a fair distribution of any coronavirus vaccine , the report point to model by academic at Northeastern University , which suggest that if 50 wealthy country buy up the first 2bn dos of a vaccine , rather than ensure they be distribute proportionally to population , almost twice a many people could die .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ And there isn ’ t enough be do to disaggregate data by race , income and so many other critical marker that help u develop the kind of policy and programme to reach people with the support they need , ” say Gates .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.c-span.org/video/?473341-1/bill-melinda-gates-covid-19",
+            "content": "Melinda Gates say she be hopeful a vaccine would be available by 2021 . They talk about the role their foundation be play in develop a vaccine to prevent the spread of COVID-19 .",
+            "domain": "www.c-span.org",
+            "tokenized": [
+                {
+                    "sent": "Melinda Gates say she be hopeful a vaccine would be available by 2021 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They talk about the role their foundation be play in develop a vaccine to prevent the spread of COVID-19 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/10/28/opinion/virtual-school-racism.html",
+            "content": "”\nIt be little wonder that about 20 percent of the Black parent who respond to her survey say that if virtual learning be an option after the pandemic be over , they would choose it over a return to brick-and-mortar school . Eighty-nine percent saw return to school a a large or moderate risk , compare with 64 percent of white parent — at a time when Black and Hispanic child and teenager account for 74 percent of Covid-19 death in people under the age of 21 . Theresa Chapple-McGruder , a Black maternal and child health epidemiologist , immediately saw positive change in her second grader when her Washington , D.C.-area school district go all virtual . Awo Okaikor Aryee-Price , a Black mother of two who live in Florham Park , N.J. , initially laugh off the pronouncement her 13-year-old make in March after the Covid-19 pandemic close the state ’ s school . As school district across the country have grapple with whether to reopen school building or continue to hold class remotely , national polling show Black parent be the most wary of the risk to their health and the well-being of their child that come with in-person learning .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "”\nIt be little wonder that about 20 percent of the Black parent who respond to her survey say that if virtual learning be an option after the pandemic be over , they would choose it over a return to brick-and-mortar school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Eighty-nine percent saw return to school a a large or moderate risk , compare with 64 percent of white parent — at a time when Black and Hispanic child and teenager account for 74 percent of Covid-19 death in people under the age of 21 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Theresa Chapple-McGruder , a Black maternal and child health epidemiologist , immediately saw positive change in her second grader when her Washington , D.C.-area school district go all virtual .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Awo Okaikor Aryee-Price , a Black mother of two who live in Florham Park , N.J. , initially laugh off the pronouncement her 13-year-old make in March after the Covid-19 pandemic close the state ’ s school .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As school district across the country have grapple with whether to reopen school building or continue to hold class remotely , national polling show Black parent be the most wary of the risk to their health and the well-being of their child that come with in-person learning .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/opinions/melinda-gates-broken-caregiving-system/2020/12/02/7c0dd9ae-34d1-11eb-8d38-6aea1adb3839_story.html",
+            "content": "Elizabeth Warren : What a Biden-Harris administration should prioritize on it first day\nVaccine tracker : See how many people have receive one or both dos in your state\nWhat you need to know : Guidance for vaccinated people | Variants | Symptoms guide | Masks FAQ | Your life at home | Personal finance guide | Follow all of our coverage and sign up for our free newsletter\nAre you plan a long-awaited reunion after you get vaccinate ?",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Elizabeth Warren : What a Biden-Harris administration should prioritize on it first day\nVaccine tracker : See how many people have receive one or both dos in your state\nWhat you need to know : Guidance for vaccinated people | Variants | Symptoms guide | Masks FAQ | Your life at home | Personal finance guide | Follow all of our coverage and sign up for our free newsletter\nAre you plan a long-awaited reunion after you get vaccinate ?",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/local/education/hbcus-gates-foundation-coronavirus-testing/2020/10/13/33713fc6-0d74-11eb-8a35-237ef1eb2ef7_story.html",
+            "content": "“ The college and university will continue to need access to diagnostic testing and test processing until vaccine and therapeutic be universally available and accessible , ” say Toni Hoover , the director of strategy planning and management for global health for the foundation , add that the gift will enable school “ to strengthen their lab capability and research capacity .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "“ The college and university will continue to need access to diagnostic testing and test processing until vaccine and therapeutic be universally available and accessible , ” say Toni Hoover , the director of strategy planning and management for global health for the foundation , add that the gift will enable school “ to strengthen their lab capability and research capacity .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/education/2020/04/21/no-bill-gates-did-not-engineer-covid-19-pandemic-other-lessons-fake-news/",
+            "content": "Xenophobic incident , racism and attack on Asian Americans — base on false narrative that covid-19 come from the “ other ” — be sadly predictable , say Roy Peter Clark , senior scholar at the Poynter Institute , a journalism education and advocacy organization in St. Petersburg , Fla .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Xenophobic incident , racism and attack on Asian Americans — base on false narrative that covid-19 come from the “ other ” — be sadly predictable , say Roy Peter Clark , senior scholar at the Poynter Institute , a journalism education and advocacy organization in St. Petersburg , Fla .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

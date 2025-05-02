@@ -1,0 +1,837 @@
+{
+    "event_id": "265016",
+    "claim": "A graphic shows contradictory CNN articles about hydroxychloroquine, published three months apart and co-authored by the same person.",
+    "original_label": "false",
+    "label": "false",
+    "explain": "One of the many political controversies surrounding the COVID-19 pandemic of 2020 was U.S. President Donald Trump’s repeated touting of the malaria drug hydroxychloroquine for treatment of the coronavirus disease, despite a lack of scientific studies and evidence demonstrating its effectiveness for that purpose.\nOne item that circulated on social media played on that controversy by purporting to show two seemingly contradictory CNN articles about hydroxychloroquine, published three months apart and co-authored by the same person. One criticized Trump for being “wrong” about hydroxychloroquine, and the other acknowledged that a study had found hydroxychloroquine helpful in treating coronavirus patients:\n\nHowever, these articles were not contradictory in content, and they were presented in a misleading manner in the above example to make them seem so.\nThe first article, published on April 11, 2020, and written by Elizabeth Cohen and Dr. Minali Nigam, was headlined “President Trump is wrong in so many ways about hydroxychloroquine studies. Here are the facts.” This article did not assert that hydroxychloroquine had no value whatsoever as a treatment for the coronavirus disease. Rather, it pointed out four specific ways in which Trump had made claims about hydroxychloroquine studies that were contrary to what doctors were expressing about the subject at the time:\n1) How soon until we know if hydroxychloroquine works against coronavirus? Trump says “days.” Doctors say weeks or months.\n2) French researchers have already done a clinical study showing hydroxychloroquine works as a treatment for coronavirus. Doesn’t that tell us something? Trump says yes. Doctors say the study was terrible, so no.\n3) Have some people tried to delay hydroxychloroquine clinical trials? Trump says yes, and he came to the rescue. Doctors say they have no idea what he’s talking about.\n4) Is hydroxychloroquine safe for coronavirus patients? Trump says yes. Doctors say the drug can have serious side effects.\nThe second article, published on July 3 2020, and written by Maggie Fox, Andrea Kane, and Elizabeth Cohen, had its headline deceptively truncated in the above example to remove the skepticism it expressed about a recent hydroxychloroquine study. The full headline read “Study finds hydroxychloroquine may have boosted survival, but other researchers have doubts,” and the text of the article detailed the dispute over the study’s findings:\nA surprising new study found the controversial antimalarial drug hydroxychloroquine helped patients better survive in the hospital. But the findings, like the federal government’s use of the drug itself, were disputed.\nA team at Henry Ford Health System in southeast Michigan said their study of 2,541 hospitalized patients found that those given hydroxychloroquine were much less likely to die.\nt’s a surprising finding because several other studies have found no benefit from hydroxychloroquine, a drug originally developed to treat and prevent malaria. President Donald Trump touted the drug heavily, but later studies found not only did patients not do better if they got the drug, they were more likely to suffer cardiac side effects.\nResearchers not involved in the Henry Ford study pointed out it wasn’t of the same quality of the studies showing hydroxychloroquine did not help patients, and said other treatments, such as the use of the steroid dexamethasone, might have accounted for the better survival of some patients … They noted that the Henry Ford team did not randomly treat patients but selected them for various treatments based on certain criteria.\n[Eli Rosenberg, associate professor of epidemiology at the University at Albany School of Public Health] also pointed out that the Detroit paper excluded 267 patients — nearly 10% of the study population — who had not yet been discharged from the hospital.\nHe said this might have skewed the results to make hydroxychloroquine look better than it really was. Those patients might have still been in the hospital because they were very sick, and if they died, excluding them from the study made hydroxychloroquine look like more of a lifesaver than it really was.\n“There’s a little bit of loosey-goosiness here in all this,” he told CNN.\nOther analyst likewise found the hydroxychloroquine study referenced by CNN to be dubious, for similar reasons:\nThe study that sparked the latest controversy was anything but randomized. Not only was it not randomized, outside experts noted, but patients who received hydroxychloroquine were also more likely to get steroids, which appear to help very sick patients with Covid-19. That is likely to have influenced the central finding of the Henry Ford study: that death rates were 50% lower among patients in hospitals treated with hydroxychloroquine.\nEvidence that hydroxychloroquine does not help hospitalized patients — the use in its original emergency use authorization, which was designed to allow doctors to access a national stockpile of the drug — is mounting.\nSaid [Steven Nissen, a cardiologist at the Cleveland Clinic and a longtime clinical trialist]: “The sooner we stop talking about hydroxychloroquine, the sooner we can focus attention on more promising therapies.”\nIn short, information about hydroxychloroquine as a treatment for the COVID-19 coronavirus disease, published by CNN in two articles in April and July of 2020, was neither contradictory nor inaccurate — despite deceptive attempts to make it look that way.",
+    "reports": [
+        {
+            "link": "https://www.salon.com/2020/08/06/youre-an-economist-not-a-scientist-cnn-host-slams-trump-advisor-for-pushing-hydroxychloroquine_partner/",
+            "content": "This article originally appear on Raw Story\nOn Wednesday , CNN 's Erin Burnett clash with White House trade adviser Peter Navarro , who once again make unproven claim about the discredited treatment of COVID-19 with the anti-malaria drug hydroxychloroquine . This material may not be publish , broadcast , rewrite or redistribute . `` Peter , first of all , you 're an economist , not a scientist … there 's many million of doctor in this country , there 's five peer review study that show it not to be true , there 's Dr. Birx , Dr . `` Deborah Birx have not come out against hydroxychloroquine , '' shot back Navarro . `` And on thing like , for example , the hydroxychloroquine , he have a strong point of view . There 's just disagreement , '' say Navarro . Associated Press article : Copyright © 2016 The Associated Press . But there be n't a many doctor on the other side , '' say Burnett . `` I get involve with this because a a Defense Production Act coordinator I 'm literally sit on 63 million tablet , 63 million tablet , of hydroxychloroquine that would help possibly 4 million Americans stay alive .",
+            "domain": "www.salon.com",
+            "tokenized": [
+                {
+                    "sent": "This article originally appear on Raw Story\nOn Wednesday , CNN 's Erin Burnett clash with White House trade adviser Peter Navarro , who once again make unproven claim about the discredited treatment of COVID-19 with the anti-malaria drug hydroxychloroquine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This material may not be publish , broadcast , rewrite or redistribute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Peter , first of all , you 're an economist , not a scientist … there 's many million of doctor in this country , there 's five peer review study that show it not to be true , there 's Dr. Birx , Dr .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` Deborah Birx have not come out against hydroxychloroquine , '' shot back Navarro .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` And on thing like , for example , the hydroxychloroquine , he have a strong point of view .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's just disagreement , '' say Navarro .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Associated Press article : Copyright © 2016 The Associated Press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But there be n't a many doctor on the other side , '' say Burnett .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` I get involve with this because a a Defense Production Act coordinator I 'm literally sit on 63 million tablet , 63 million tablet , of hydroxychloroquine that would help possibly 4 million Americans stay alive .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/media/risch-cnn-anchor-berman-hydroxychloroquine",
+            "content": "“ None of those study that you just cite be random placebo-controlled trial , what Dr. Fauci refers to a the gold standard , ” Berman say , a the CNN on-screen chyron state “ Growing body of evidence show hydroxychloroquine be ineffective . This material may not be publish , broadcast , rewritten ,\nYale epidemiology professor Dr. Harvey Risch and CNN host John Berman bicker over hydroxychloroquine on Monday during a heated discussion about the polarizing drug , which the president have hail a a possible treatment for COVID-19 . ”\n“ What CNN's @ JohnBerman 's do now w/ a Yale prof who ’ s write on hydroxychloroquine ’ s benefit for Covid be not report , nor journalism . ”\nCNN ’ s on-screen graphic , which have grow notoriously snarky , side with Berman , who continue to disagree with Risch . Risch cite various study that back up his pro-hydroxychloroquine stance , but the host of CNN 's `` New Day '' disagreed . Risch recently write an op-ed in support of hydroxychloroquine , but Dr. Anthony Fauci , Dr. Deborah Birx and other expert have dismiss the anti-malarial drug be use to combat coronavirus . When Risch be allow to respond , he tell Berman that he make “ three or four wrong statement ” during the segment and the two continue to bicker over the detail of the trial – some of which Berman consider to be “ sketchy . “ Yale epidemiologist insists , against evidence , hydroxychloroquine work , ” the chyron say . This material may not be publish , broadcast , rewrite , or redistribute . ©2021 FOX News Network , LLC . ”\n“ Again , the question be , ” a frustrated Berman continue , “ Why haven ’ t any random , placebo-controlled trial show benefit ? He ’ s just venting , ” Elliot tweet .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "“ None of those study that you just cite be random placebo-controlled trial , what Dr. Fauci refers to a the gold standard , ” Berman say , a the CNN on-screen chyron state “ Growing body of evidence show hydroxychloroquine be ineffective .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This material may not be publish , broadcast , rewritten ,\nYale epidemiology professor Dr. Harvey Risch and CNN host John Berman bicker over hydroxychloroquine on Monday during a heated discussion about the polarizing drug , which the president have hail a a possible treatment for COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "”\n“ What CNN's @ JohnBerman 's do now w/ a Yale prof who ’ s write on hydroxychloroquine ’ s benefit for Covid be not report , nor journalism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nCNN ’ s on-screen graphic , which have grow notoriously snarky , side with Berman , who continue to disagree with Risch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Risch cite various study that back up his pro-hydroxychloroquine stance , but the host of CNN 's `` New Day '' disagreed .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Risch recently write an op-ed in support of hydroxychloroquine , but Dr. Anthony Fauci , Dr. Deborah Birx and other expert have dismiss the anti-malarial drug be use to combat coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "When Risch be allow to respond , he tell Berman that he make “ three or four wrong statement ” during the segment and the two continue to bicker over the detail of the trial – some of which Berman consider to be “ sketchy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Yale epidemiologist insists , against evidence , hydroxychloroquine work , ” the chyron say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This material may not be publish , broadcast , rewrite , or redistribute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "©2021 FOX News Network , LLC .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ Again , the question be , ” a frustrated Berman continue , “ Why haven ’ t any random , placebo-controlled trial show benefit ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He ’ s just venting , ” Elliot tweet .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://trialsitenews.com/more-evidence-for-hydroxychloroquine-as-a-life-saver-cnn-casts-doubts/",
+            "content": "”\nIn a July 2 article CNN say that while , “ A surprising new study [ Henry Ford ] find the controversial antimalarial drug hydroxychloroquine help patient well survive , ” “ the finding , like the federal government ’ s use of the drug itself , be disputed. Published online July 3 and title , “ COVID-19 Outpatients – Early Risk-Stratified Treatment with Zinc Plus Low Dose Hydroxychloroquine and Azithromycin : A Retrospective Case Series Study , ” the paper look at 141 severe COVID-19 patient who receive “ the triple therapy ” : zinc , low-dose HCQ , and azithromycin . Other issue be raise , and an expert tell CNN , “ There ’ s a little bit of loosey-goosiness here in all this. The very first one , dr Raoult of France , state right in his first of three very successful study , that the drug , a any drug , must be use within the first few day of symptom . As we report July 3 , a Henry Ford Health System retrospective find a significant reduction in death for those treat with hydroxychloroquine over a non-treated group . Method problem in the Ford study be point out : concurrent steroid use could account for the finding , and person with heart problem be screen out . His study on over 4,000 people show the very same result a dr Zelenko , Hundreds of thousand of people around the world have die needlessly because of the false coverage of this medication . In sum , CNN note legitimate concern about HCQ research . The FDA , CDC And the press all politicize this medication from the very begin . Yet , with that network ’ s constant anti-Trump content in mind , perhaps we act too early in pull the plug on widespread HCQ research and treatment . study publish in the Lancet be not credible on several front base on my read of the paper . The Conclusion note that “ treatment of COVID-19 outpatient as early a possible after symptom onset with the used triple therapy , include the combination of zinc with low dose hydroxychloroquine , be associate with significantly less hospitalization and 5 time less all-cause death . Another recent study , not yet peer reviewed , be find on PrePrints . ” As an afterthought , CNN note that Tumps ’ s trade advisor Peter Navarro have praise the Henry Ford team study . There ’ s be zero coverage of the double blind clinical trial by mt Sinai in New York where 100 percent of those treat early with Hydroxychloroquine do not progress to severe disease . Yes , there be some question about the study , but these result should be take seriously .",
+            "domain": "trialsitenews.com",
+            "tokenized": [
+                {
+                    "sent": "”\nIn a July 2 article CNN say that while , “ A surprising new study [ Henry Ford ] find the controversial antimalarial drug hydroxychloroquine help patient well survive , ” “ the finding , like the federal government ’ s use of the drug itself , be disputed.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Published online July 3 and title , “ COVID-19 Outpatients – Early Risk-Stratified Treatment with Zinc Plus Low Dose Hydroxychloroquine and Azithromycin : A Retrospective Case Series Study , ” the paper look at 141 severe COVID-19 patient who receive “ the triple therapy ” : zinc , low-dose HCQ , and azithromycin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Other issue be raise , and an expert tell CNN , “ There ’ s a little bit of loosey-goosiness here in all this.",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The very first one , dr Raoult of France , state right in his first of three very successful study , that the drug , a any drug , must be use within the first few day of symptom .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As we report July 3 , a Henry Ford Health System retrospective find a significant reduction in death for those treat with hydroxychloroquine over a non-treated group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Method problem in the Ford study be point out : concurrent steroid use could account for the finding , and person with heart problem be screen out .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "His study on over 4,000 people show the very same result a dr Zelenko , Hundreds of thousand of people around the world have die needlessly because of the false coverage of this medication .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In sum , CNN note legitimate concern about HCQ research .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The FDA , CDC And the press all politicize this medication from the very begin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yet , with that network ’ s constant anti-Trump content in mind , perhaps we act too early in pull the plug on widespread HCQ research and treatment .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "study publish in the Lancet be not credible on several front base on my read of the paper .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Conclusion note that “ treatment of COVID-19 outpatient as early a possible after symptom onset with the used triple therapy , include the combination of zinc with low dose hydroxychloroquine , be associate with significantly less hospitalization and 5 time less all-cause death .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Another recent study , not yet peer reviewed , be find on PrePrints .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” As an afterthought , CNN note that Tumps ’ s trade advisor Peter Navarro have praise the Henry Ford team study .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s be zero coverage of the double blind clinical trial by mt Sinai in New York where 100 percent of those treat early with Hydroxychloroquine do not progress to severe disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Yes , there be some question about the study , but these result should be take seriously .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/nation/2020/06/04/coronavirus-live-updates-us/",
+            "content": "The medical journal Lancet publish a statement from the author of a study show that hydroxychloroquine be dangerous for hospitalized covid-19 patient , say they be unable to complete an independent audit of the hospital data underpin their analysis . Three of the author of a study that find the antimalarial drug hydroxychloroquine be dangerous for hospitalized covid-19 patient retract it Thursday , say they could “ no longer vouch for the veracity of the primary data source . Federal health official announce Thursday that they will require laboratory to report race , ethnic and other information about each person test for the novel coronavirus , follow month of criticism that the Trump administration have be insensitive to the pandemic ’ s profound demographic disparity . Not long ago , her mother , Jenifer Merriam , have reason to hope , a scientist pursue three or four different approach they be confident would lead to a treatment , perhaps even a cure , for the disorder call Lafora disease . ”\nThe retraction notice be post by the medical journal Lancet , which have publish the study on May 22 . ”\nThe study , purportedly base on the health record of almost 100,000 patient around the world , find that hospitalized covid-19 patient treat with the antimalarial drug hydroxychloroquine — a drug repeatedly tout by President Trump — have a sharply high risk of death and heart-rhythm problem compare to those who do not receive the drug . The study , purportedly base on the health record of almost 100,000 patient around the world , find that hospitalized covid-19 patient treat with the antimalarial drug hydroxychloroquine — a drug repeatedly tout by President Trump — have a sharply high risk of death and heart problem compare to those who do not receive the drug . At a news conference on Wednesday , Chancellor Angela Merkel say that the new measure be a reflection of the deep economic difficulty cause by the novel coronavirus , with economic data show the country go into a recession in the first quarter of 2020 . Columbia , Ferry , Lincoln , Pend Oreille , Stevens and Wahkiakum county have be in Phase 2 for three week and be now eligible to apply to move forward . Labs must submit that data within 24 hour to a state or local health department , which must , in turn , forward it to the Centers for Disease Control and Prevention , strip off the person ’ s identity when send to the government . The director of the Centers for Disease Control and Prevention tell a House panel Thursday that demonstrator protest racial injustice need to get test for the coronavirus , and that crowd at a Missouri tourist hot spot and the SpaceX launch show that public health message about mask and social distancing be not resonate with the public . The Dutch government have say they believe the mink initially catch the virus from worker on the farm but last month Dutch authority say that in at least two case , infect mink may have transmit the virus to human . The state of Washington have six county apply for the third phase of a four-stage reopening plan , accord to the Associated Press . Now , thanks to the virus , his reflection show a man alone in a single room in Santa Fe , out of work , look outside and wonder what the neighbor be think when the food bank delivers his meal . The Robert Garcia that Robert Garcia always saw in the mirror be the Marine who jump out of helicopter , the guy who build house , ride a Harley and have plenty of buddy . The study be “ observational , ” which be less rigorous that a randomized , placebo-controlled clinical trial . For the Merriam family , it ’ s an especially cruel turn . “ The governor , state official and legislator in [ Southern ] state have spearhead effort to expand access to voting by mail to protect the health of their citizen during the pandemic . “ In this time of the worldwide COVID-19 pandemic and it contagion in gathering of people , almost all state — both Republican and Democrat — be provide their citizen the health protection of a voting by mail option , ” Davidson County Chancellor Ellen Hobbs Lyle write , accord to the Tennessean .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "The medical journal Lancet publish a statement from the author of a study show that hydroxychloroquine be dangerous for hospitalized covid-19 patient , say they be unable to complete an independent audit of the hospital data underpin their analysis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Three of the author of a study that find the antimalarial drug hydroxychloroquine be dangerous for hospitalized covid-19 patient retract it Thursday , say they could “ no longer vouch for the veracity of the primary data source .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Federal health official announce Thursday that they will require laboratory to report race , ethnic and other information about each person test for the novel coronavirus , follow month of criticism that the Trump administration have be insensitive to the pandemic ’ s profound demographic disparity .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Not long ago , her mother , Jenifer Merriam , have reason to hope , a scientist pursue three or four different approach they be confident would lead to a treatment , perhaps even a cure , for the disorder call Lafora disease .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe retraction notice be post by the medical journal Lancet , which have publish the study on May 22 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe study , purportedly base on the health record of almost 100,000 patient around the world , find that hospitalized covid-19 patient treat with the antimalarial drug hydroxychloroquine — a drug repeatedly tout by President Trump — have a sharply high risk of death and heart-rhythm problem compare to those who do not receive the drug .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The study , purportedly base on the health record of almost 100,000 patient around the world , find that hospitalized covid-19 patient treat with the antimalarial drug hydroxychloroquine — a drug repeatedly tout by President Trump — have a sharply high risk of death and heart problem compare to those who do not receive the drug .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At a news conference on Wednesday , Chancellor Angela Merkel say that the new measure be a reflection of the deep economic difficulty cause by the novel coronavirus , with economic data show the country go into a recession in the first quarter of 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Columbia , Ferry , Lincoln , Pend Oreille , Stevens and Wahkiakum county have be in Phase 2 for three week and be now eligible to apply to move forward .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Labs must submit that data within 24 hour to a state or local health department , which must , in turn , forward it to the Centers for Disease Control and Prevention , strip off the person ’ s identity when send to the government .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The director of the Centers for Disease Control and Prevention tell a House panel Thursday that demonstrator protest racial injustice need to get test for the coronavirus , and that crowd at a Missouri tourist hot spot and the SpaceX launch show that public health message about mask and social distancing be not resonate with the public .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Dutch government have say they believe the mink initially catch the virus from worker on the farm but last month Dutch authority say that in at least two case , infect mink may have transmit the virus to human .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The state of Washington have six county apply for the third phase of a four-stage reopening plan , accord to the Associated Press .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Now , thanks to the virus , his reflection show a man alone in a single room in Santa Fe , out of work , look outside and wonder what the neighbor be think when the food bank delivers his meal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Robert Garcia that Robert Garcia always saw in the mirror be the Marine who jump out of helicopter , the guy who build house , ride a Harley and have plenty of buddy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The study be “ observational , ” which be less rigorous that a randomized , placebo-controlled clinical trial .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For the Merriam family , it ’ s an especially cruel turn .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ The governor , state official and legislator in [ Southern ] state have spearhead effort to expand access to voting by mail to protect the health of their citizen during the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ In this time of the worldwide COVID-19 pandemic and it contagion in gathering of people , almost all state — both Republican and Democrat — be provide their citizen the health protection of a voting by mail option , ” Davidson County Chancellor Ellen Hobbs Lyle write , accord to the Tennessean .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/31/health/hydroxychloroquine-study-henry-ford-letters/index.html",
+            "content": "That study , publish earlier this month in the International Journal of Infectious Diseases , claim to show that hydroxychloroquine save life . ( CNN ) Researchers on Wednesday publish scathing critique of a study President Trump repeatedly tout on Twitter .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "That study , publish earlier this month in the International Journal of Infectious Diseases , claim to show that hydroxychloroquine save life .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( CNN ) Researchers on Wednesday publish scathing critique of a study President Trump repeatedly tout on Twitter .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/11/health/hydroxychloroquine-doesnt-work-coronavirus/index.html",
+            "content": "( CNN ) A new study -- the large of it kind -- show that hydroxychloroquine , the drug tout by President Trump , do not work against Covid-19 and could cause heart problem .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) A new study -- the large of it kind -- show that hydroxychloroquine , the drug tout by President Trump , do not work against Covid-19 and could cause heart problem .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/08/health/drug-hydroxychloroquine-french-study/index.html",
+            "content": "( CNN ) President Trump have be a cheerleader for the drug hydroxychloroquine , point in a tweet and in person to a French study a evidence that one particular drug combination might be `` one of the big game changer in the history of medicine . ''",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) President Trump have be a cheerleader for the drug hydroxychloroquine , point in a tweet and in person to a French study a evidence that one particular drug combination might be `` one of the big game changer in the history of medicine . ''",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.allsides.com/news/2020-06-05-0717/cnn-gave-over-90-minutes-one-day-now-retracted-hydroxychloroquine-study",
+            "content": "Such be the case on May 22 when CNN show spend 90 minute and 54 second herald a now-debunked study that originally claim take hydroxychloroquine while battle COVID-19 could be fatal . ” Last month would have be ...\nNearly halfway through President Biden 's first 100 day , data show that Americans be learn to wean themselves off of news — and especially politics ... . Over on MSNBC , the total clock out at a small but still sizable total of 19 minute and 19 second .",
+            "domain": "www.allsides.com",
+            "tokenized": [
+                {
+                    "sent": "Such be the case on May 22 when CNN show spend 90 minute and 54 second herald a now-debunked study that originally claim take hydroxychloroquine while battle COVID-19 could be fatal .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Last month would have be ...\nNearly halfway through President Biden 's first 100 day , data show that Americans be learn to wean themselves off of news — and especially politics ... .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Over on MSNBC , the total clock out at a small but still sizable total of 19 minute and 19 second .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://outkick.com/cnn-surprised-by-success-of-hydroxychloroquine-drug-originally-suggested-by-trump/",
+            "content": "CNN slip a tweet into the public record early Friday morning that be get plenty of attention after the network news channel spend considerable amount of time drag President Trump for tout an antimalarial drug , Hydroxychloroquine , a a possible game-changer in the fight against coronavirus . Watch : CNN be back-peddling today on 4 month of negative reporting of Hydroxychloroquine in treat Covid-19 after a new study suggest positive result . ”\nDr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug . A new study from the Henry Ford Health System find the drug “ help patient well survive in the hospital , ” accord to CNN ’ s interpretation of the report . The show host who rail against hydroxy be likely on a Long Island beach suck down margarita . For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , ” Dr. Zervos add . After spend much of the spring battle President Trump over the drug ’ s efficacy , this have to be tough pill to swallow for a network that trot out expert after expert to say Trump be wrong . A surprising new study find that the controversial antimalarial drug hydroxychloroquine help Covid-19 patient well survive in the hospital . The result of the study be publish in the International Journal of Infectious Diseases . “ A team at Henry Ford Health System in Southeast Michigan say Thursday it study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+            "domain": "outkick.com",
+            "tokenized": [
+                {
+                    "sent": "CNN slip a tweet into the public record early Friday morning that be get plenty of attention after the network news channel spend considerable amount of time drag President Trump for tout an antimalarial drug , Hydroxychloroquine , a a possible game-changer in the fight against coronavirus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Watch : CNN be back-peddling today on 4 month of negative reporting of Hydroxychloroquine in treat Covid-19 after a new study suggest positive result .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nDr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "A new study from the Henry Ford Health System find the drug “ help patient well survive in the hospital , ” accord to CNN ’ s interpretation of the report .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The show host who rail against hydroxy be likely on a Long Island beach suck down margarita .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , ” Dr. Zervos add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "After spend much of the spring battle President Trump over the drug ’ s efficacy , this have to be tough pill to swallow for a network that trot out expert after expert to say Trump be wrong .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A surprising new study find that the controversial antimalarial drug hydroxychloroquine help Covid-19 patient well survive in the hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The result of the study be publish in the International Journal of Infectious Diseases .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ A team at Henry Ford Health System in Southeast Michigan say Thursday it study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://lite.cnn.com/en/article/h_dd04f28f203e0e4f52edc0c37d8254a9",
+            "content": "`` Overall crude mortality rate be 18.1 % in the entire cohort , 13.5 % in the hydroxychloroquine alone group , 20.1 % among those receive hydroxychloroquine plus azithromycin , 22.4 % among the azithromycin alone group , and 26.4 % for neither drug , '' the team write in a report publish in the International Journal of Infectious Diseases . It 's a surprising finding because several other study have find no benefit from hydroxychloroquine , a drug originally develop to treat and prevent malaria . But patient in that New York study , publish in May in the Journal of the American Medical Association , start take hydroxychloroquine on average one day after be hospitalize . Two clinical trial on hydroxychloroquine for Covid-19 , one in the US and one in the UK , be stop early because their data suggest hydroxychloroquine be n't helpful . `` The combination of hydroxychloroquine plus azithromycin be reserve for select patient with severe COVID-19 and with minimal cardiac risk factor , '' the team write . Dr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug . Researchers not involve in the Henry Ford study point out it be n't of the same quality of the study show hydroxychloroquine do not help patient , and say other treatment , such a the use of the steroid dexamethasone , might have account for the good survival of some patient . The Henry Ford team say they believe their finding show hydroxychloroquine could be potentially useful a a treatment for coronavirus . `` Finally , concomitant steroid use in patient receive hydroxychloroquine be more than double the non-treated group . `` We have conclude that there be no beneficial effect of hydroxychloroquine in patient hospitalize with COVID-19 , '' the Oxford doctor conclude . The Henry Ford team write that 82 % of their patient receive hydroxychloroquine within the first 24 hour of admission , and 91 % within the first 48 hour of admission . The US Food and Drug Administration withdraw it emergency use authorization for the drug earlier this month and trial around the world , include trial sponsor by the World Health Organization and the National Institutes of Health , be halt . For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , '' he add . Those patient might have still be in the hospital because they be very sick , and if they die , exclude them from the study make hydroxychloroquine look like more of a lifesaver than it really be . `` Our result do differ from some other study , '' Zervos tell a news conference . `` We also want to make the point that just because our result differ from some others that may have be publish , it do n't make those study wrong or definitely a conflict . Peter Navarro , the White House trade adviser , say the study show hydroxychloroquine work if give early enough . Both the Detroit and New York study be observational : they look back at how patient do when doctor prescribe hydroxychloroquine . But the finding , like the federal government 's use of the drug itself , be dispute . President Donald Trump tout the drug heavily , but later study find not only do patient not do good if they get the drug , they be more likely to suffer cardiac side effect . A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital . He say this might have skew the result to make hydroxychloroquine look well than it really be . A team at Henry Ford Health System in southeast Michigan say Thursday their study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+            "domain": "lite.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "`` Overall crude mortality rate be 18.1 % in the entire cohort , 13.5 % in the hydroxychloroquine alone group , 20.1 % among those receive hydroxychloroquine plus azithromycin , 22.4 % among the azithromycin alone group , and 26.4 % for neither drug , '' the team write in a report publish in the International Journal of Infectious Diseases .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a surprising finding because several other study have find no benefit from hydroxychloroquine , a drug originally develop to treat and prevent malaria .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But patient in that New York study , publish in May in the Journal of the American Medical Association , start take hydroxychloroquine on average one day after be hospitalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two clinical trial on hydroxychloroquine for Covid-19 , one in the US and one in the UK , be stop early because their data suggest hydroxychloroquine be n't helpful .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` The combination of hydroxychloroquine plus azithromycin be reserve for select patient with severe COVID-19 and with minimal cardiac risk factor , '' the team write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers not involve in the Henry Ford study point out it be n't of the same quality of the study show hydroxychloroquine do not help patient , and say other treatment , such a the use of the steroid dexamethasone , might have account for the good survival of some patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Henry Ford team say they believe their finding show hydroxychloroquine could be potentially useful a a treatment for coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Finally , concomitant steroid use in patient receive hydroxychloroquine be more than double the non-treated group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have conclude that there be no beneficial effect of hydroxychloroquine in patient hospitalize with COVID-19 , '' the Oxford doctor conclude .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Henry Ford team write that 82 % of their patient receive hydroxychloroquine within the first 24 hour of admission , and 91 % within the first 48 hour of admission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The US Food and Drug Administration withdraw it emergency use authorization for the drug earlier this month and trial around the world , include trial sponsor by the World Health Organization and the National Institutes of Health , be halt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , '' he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those patient might have still be in the hospital because they be very sick , and if they die , exclude them from the study make hydroxychloroquine look like more of a lifesaver than it really be .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Our result do differ from some other study , '' Zervos tell a news conference .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We also want to make the point that just because our result differ from some others that may have be publish , it do n't make those study wrong or definitely a conflict .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Peter Navarro , the White House trade adviser , say the study show hydroxychloroquine work if give early enough .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both the Detroit and New York study be observational : they look back at how patient do when doctor prescribe hydroxychloroquine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the finding , like the federal government 's use of the drug itself , be dispute .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "President Donald Trump tout the drug heavily , but later study find not only do patient not do good if they get the drug , they be more likely to suffer cardiac side effect .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "He say this might have skew the result to make hydroxychloroquine look well than it really be .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "A team at Henry Ford Health System in southeast Michigan say Thursday their study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbs58.com/news/study-finds-hydroxychloroquine-may-have-help-coronavirus-patients-survive-better",
+            "content": "`` Overall crude mortality rate be 18.1 % in the entire cohort , 13.5 % in the hydroxychloroquine alone group , 20.1 % among those receive hydroxychloroquine plus azithromycin , 22.4 % among the azithromycin alone group , and 26.4 % for neither drug , '' the team write in a report publish in the International Journal of Infectious Diseases . It 's a surprising finding because several other study have find no benefit from hydroxychloroquine , a drug originally develop to treat and prevent malaria . But patient in that New York study , publish in May in the Journal of the American Medical Association , start take hydroxychloroquine on average one day after be hospitalize . Two clinical trial on hydroxychloroquine for Covid-19 , one in the US and one in the UK , be stop early because their data suggest hydroxychloroquine be n't helpful . `` The combination of hydroxychloroquine plus azithromycin be reserve for select patient with severe COVID-19 and with minimal cardiac risk factor , '' the team write . Dr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug . Researchers not involve in the Henry Ford study point out it be n't of the same quality of the study show hydroxychloroquine do not help patient , and say other treatment , such a the use of the steroid dexamethasone , might have account for the good survival of some patient . The Henry Ford team say they believe their finding show hydroxychloroquine could be potentially useful a a treatment for coronavirus . `` Finally , concomitant steroid use in patient receive hydroxychloroquine be more than double the non-treated group . `` We have conclude that there be no beneficial effect of hydroxychloroquine in patient hospitalize with COVID-19 , '' the Oxford doctor conclude . ( CNN ) -- A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital . The Henry Ford team write that 82 % of their patient receive hydroxychloroquine within the first 24 hour of admission , and 91 % within the first 48 hour of admission . The US Food and Drug Administration withdraw it emergency use authorization for the drug earlier this month and trial around the world , include trial sponsor by the World Health Organization and the National Institutes of Health , be halt . For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , '' he add . Those patient might have still be in the hospital because they be very sick , and if they die , exclude them from the study make hydroxychloroquine look like more of a lifesaver than it really be . `` Our result do differ from some other study , '' Zervos tell a news conference . `` We also want to make the point that just because our result differ from some others that may have be publish , it do n't make those study wrong or definitely a conflict . Peter Navarro , the White House trade adviser , say the study show hydroxychloroquine work if give early enough . Both the Detroit and New York study be observational : they look back at how patient do when doctor prescribe hydroxychloroquine . But the finding , like the federal government 's use of the drug itself , be dispute . President Donald Trump tout the drug heavily , but later study find not only do patient not do good if they get the drug , they be more likely to suffer cardiac side effect . He say this might have skew the result to make hydroxychloroquine look well than it really be . A team at Henry Ford Health System in southeast Michigan say Thursday their study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+            "domain": "www.cbs58.com",
+            "tokenized": [
+                {
+                    "sent": "`` Overall crude mortality rate be 18.1 % in the entire cohort , 13.5 % in the hydroxychloroquine alone group , 20.1 % among those receive hydroxychloroquine plus azithromycin , 22.4 % among the azithromycin alone group , and 26.4 % for neither drug , '' the team write in a report publish in the International Journal of Infectious Diseases .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a surprising finding because several other study have find no benefit from hydroxychloroquine , a drug originally develop to treat and prevent malaria .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "But patient in that New York study , publish in May in the Journal of the American Medical Association , start take hydroxychloroquine on average one day after be hospitalize .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two clinical trial on hydroxychloroquine for Covid-19 , one in the US and one in the UK , be stop early because their data suggest hydroxychloroquine be n't helpful .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` The combination of hydroxychloroquine plus azithromycin be reserve for select patient with severe COVID-19 and with minimal cardiac risk factor , '' the team write .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Dr. Marcus Zervos , division head of infectious disease for Henry Ford Health System , say 26 % of those not give hydroxychloroquine die , compare to 13 % of those who get the drug .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Researchers not involve in the Henry Ford study point out it be n't of the same quality of the study show hydroxychloroquine do not help patient , and say other treatment , such a the use of the steroid dexamethasone , might have account for the good survival of some patient .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "The Henry Ford team say they believe their finding show hydroxychloroquine could be potentially useful a a treatment for coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` Finally , concomitant steroid use in patient receive hydroxychloroquine be more than double the non-treated group .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We have conclude that there be no beneficial effect of hydroxychloroquine in patient hospitalize with COVID-19 , '' the Oxford doctor conclude .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( CNN ) -- A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "The Henry Ford team write that 82 % of their patient receive hydroxychloroquine within the first 24 hour of admission , and 91 % within the first 48 hour of admission .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The US Food and Drug Administration withdraw it emergency use authorization for the drug earlier this month and trial around the world , include trial sponsor by the World Health Organization and the National Institutes of Health , be halt .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For hydroxychloroquine to have a benefit , it need to begin before the patient begin to suffer some of the severe immune reaction that patient can have with Covid , '' he add .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Those patient might have still be in the hospital because they be very sick , and if they die , exclude them from the study make hydroxychloroquine look like more of a lifesaver than it really be .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "`` Our result do differ from some other study , '' Zervos tell a news conference .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "`` We also want to make the point that just because our result differ from some others that may have be publish , it do n't make those study wrong or definitely a conflict .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Peter Navarro , the White House trade adviser , say the study show hydroxychloroquine work if give early enough .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Both the Detroit and New York study be observational : they look back at how patient do when doctor prescribe hydroxychloroquine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But the finding , like the federal government 's use of the drug itself , be dispute .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "President Donald Trump tout the drug heavily , but later study find not only do patient not do good if they get the drug , they be more likely to suffer cardiac side effect .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "He say this might have skew the result to make hydroxychloroquine look well than it really be .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                },
+                {
+                    "sent": "A team at Henry Ford Health System in southeast Michigan say Thursday their study of 2,541 hospitalized patient find that those give hydroxychloroquine be much less likely to die .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/10/health/trump-wrong-about-hydroxychloroquine/index.html",
+            "content": "( CNN ) There be several treatment be study to prevent or treat coronavirus , but President Trump have be a cheerleader for one in particular : hydroxychloroquine , a drug currently use to treat malaria , lupus and rheumatoid arthritis .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) There be several treatment be study to prevent or treat coronavirus , but President Trump have be a cheerleader for one in particular : hydroxychloroquine , a drug currently use to treat malaria , lupus and rheumatoid arthritis .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/31/opinions/hydroxychloroquine-covid-19-and-lupus-fear-martin/index.html",
+            "content": "Not long after that , another article pop up in my Facebook feed , describe a 45-year-old woman with lupus who say she be deny a refill on her hydroxychloroquine at Kaiser because all supply have be divert for the `` critically ill with Covid-19 '' who might fill their system . Recently I read an article in ProPublica in which pharmacists describe `` unusual and fraudulent '' prescribing activity for the drug hydroxychloroquine , suggest that doctor may be hoard it in a `` just in case '' manner . ( CNN ) I be sit at my desk in a furious rage .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "Not long after that , another article pop up in my Facebook feed , describe a 45-year-old woman with lupus who say she be deny a refill on her hydroxychloroquine at Kaiser because all supply have be divert for the `` critically ill with Covid-19 '' who might fill their system .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Recently I read an article in ProPublica in which pharmacists describe `` unusual and fraudulent '' prescribing activity for the drug hydroxychloroquine , suggest that doctor may be hoard it in a `` just in case '' manner .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "( CNN ) I be sit at my desk in a furious rage .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/media/510805-cnns-burnett-presses-navarro-on-hydroxychloroquine-in-combative-interview",
+            "content": "CNN ’ s Erin Burnett press White House trade adviser Peter Navarro over his support for hydroxychloroquine a a treatment for the coronavirus despite public health expert , include several within the White House , state that the anti-malaria drug be not effective at treat COVID-19 . ” CNN ’ s @ ErinBurnett press White House trade adviser Peter Navarro on his defense of hydroxychloroquine , a drug tout by the Trump administration for the treatment of Covid-19 . There 's just disagreement on thing like , for example , hydroxychloroquine . Navarro try to shift the conversation , tell Burnett it be “ past time for u to have a debate about hydroxychloroquine , ” but Burnett say she need to discuss it because Navarro ’ s comment be “ irresponsible . Fauci for month have be dispute claim that hydroxychloroquine be an effective treatment for COVID-19 . In the combative Wednesday interview , Navarro continue to push the drug a a coronavirus treatment , dismiss contradictory comment make by the nation ’ s top public health expert and White House coronavirus task force member Anthony FauciAnthony FauciA year with the coronavirus : How we get here Experts warn of loneliness epidemic worsen alongside COVID-19 Sheila Jackson Lee say Texans who go maskless face ' a destiny of death ' MORE . There 's a many doctor on the other side , ” Navarro say on CNN ’ s “ OutFront , ” refer to Fauci . But if Giroir , Fauci and all the rest of them who say hydroxy can hurt you or do n't work , if they 're wrong in a month , then thousand of people die on their watch , ” Navarro say . ”\n“ If I 'm wrong about hydroxychloroquine and people use it , nobody be go to die if they use it under a physician 's guidance . At the time , he add that evidence show the likelihood that the drug could cause severe irregular heart rhythm .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "CNN ’ s Erin Burnett press White House trade adviser Peter Navarro over his support for hydroxychloroquine a a treatment for the coronavirus despite public health expert , include several within the White House , state that the anti-malaria drug be not effective at treat COVID-19 .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "” CNN ’ s @ ErinBurnett press White House trade adviser Peter Navarro on his defense of hydroxychloroquine , a drug tout by the Trump administration for the treatment of Covid-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's just disagreement on thing like , for example , hydroxychloroquine .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Navarro try to shift the conversation , tell Burnett it be “ past time for u to have a debate about hydroxychloroquine , ” but Burnett say she need to discuss it because Navarro ’ s comment be “ irresponsible .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Fauci for month have be dispute claim that hydroxychloroquine be an effective treatment for COVID-19 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the combative Wednesday interview , Navarro continue to push the drug a a coronavirus treatment , dismiss contradictory comment make by the nation ’ s top public health expert and White House coronavirus task force member Anthony FauciAnthony FauciA year with the coronavirus : How we get here Experts warn of loneliness epidemic worsen alongside COVID-19 Sheila Jackson Lee say Texans who go maskless face ' a destiny of death ' MORE .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There 's a many doctor on the other side , ” Navarro say on CNN ’ s “ OutFront , ” refer to Fauci .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But if Giroir , Fauci and all the rest of them who say hydroxy can hurt you or do n't work , if they 're wrong in a month , then thousand of people die on their watch , ” Navarro say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ If I 'm wrong about hydroxychloroquine and people use it , nobody be go to die if they use it under a physician 's guidance .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "At the time , he add that evidence show the likelihood that the drug could cause severe irregular heart rhythm .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.sfgate.com/politics/article/Nancy-Pelosi-Trump-morbidly-obese-malaria-drug-CNN-15279305.php",
+            "content": "During an interview on CNN 's `` Anderson Cooper 360 '' Monday night , House Speaker Nancy Pelosi express concern over President Donald Trump take the malaria drug hydroxychloroquine to protect against the coronavirus , call the president `` morbidly obese . '' Trump say his doctor do not recommend the drug to him , but he request it from White House physician Dr. Sean Conley , who say in a statement that after “ numerous discussion ” with Trump about the evidence for and against use hydroxychloroquine , “ we conclude the potential benefit from treatment outweigh the relative risk .",
+            "domain": "www.sfgate.com",
+            "tokenized": [
+                {
+                    "sent": "During an interview on CNN 's `` Anderson Cooper 360 '' Monday night , House Speaker Nancy Pelosi express concern over President Donald Trump take the malaria drug hydroxychloroquine to protect against the coronavirus , call the president `` morbidly obese . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Trump say his doctor do not recommend the drug to him , but he request it from White House physician Dr. Sean Conley , who say in a statement that after “ numerous discussion ” with Trump about the evidence for and against use hydroxychloroquine , “ we conclude the potential benefit from treatment outweigh the relative risk .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-infected-with-covid-19-touts-unproven-drug-idUSKCN24G2XR",
+            "content": "SAO PAULO/BRASILIA ( Reuters ) - Brazilian President Jair Bolsonaro on Wednesday again extol the suppose virtue of malaria drug hydroxychloroquine to fight COVID-19 , a he say that he again test positive for the coronavirus , a week after he first announce he have become infected . ”\nLike close ally U.S. President Donald Trump , Bolsonaro have be quick to sing the praise of hydroxychloroquine , despite scant scientific evidence that it work against the novel coronavirus . “ I be medicate from the begin with hydroxychloroquine , with a doctor ’ s recommendation . The right-wing president ’ s pressure to use hydroxychloroquine to treat COVID-19 in Brazil alienate two health minister , who resign in the middle of the pandemic . The ministry be currently be lead on an interim basis by an active duty army general , who appear slat to remain in the role for the time be , source tell Reuters on Wednesday .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "SAO PAULO/BRASILIA ( Reuters ) - Brazilian President Jair Bolsonaro on Wednesday again extol the suppose virtue of malaria drug hydroxychloroquine to fight COVID-19 , a he say that he again test positive for the coronavirus , a week after he first announce he have become infected .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nLike close ally U.S. President Donald Trump , Bolsonaro have be quick to sing the praise of hydroxychloroquine , despite scant scientific evidence that it work against the novel coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "“ I be medicate from the begin with hydroxychloroquine , with a doctor ’ s recommendation .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The right-wing president ’ s pressure to use hydroxychloroquine to treat COVID-19 in Brazil alienate two health minister , who resign in the middle of the pandemic .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The ministry be currently be lead on an interim basis by an active duty army general , who appear slat to remain in the role for the time be , source tell Reuters on Wednesday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.yahoo.com/now/cnn-host-spreads-bogus-hydroxychloroquine-030626884.html",
+            "content": "While most business have open in France , theatre and cinema have be close for more than three month . The new low target , which confirm an early report from Reuters , be not guarantee a it depend on a vaccine factory in Leiden run by subcontractor Halix get the regulatory approval , the internal document date March 10 show . The star say she `` panic , felt blindside [ and ] get defensive '' on her US chat show The Talk . The Anglo-Swedish drugmaker say on Friday it would try to deliver 30 million dos to the EU by the end of March , down from a contractual obligation of 90 million and a previous pledge make last month to deliver 40 million dos . “ It use to be the hub of Trump World but I can ’ t imagine who go there now , ” say Sally Quinn , a local author and journalist . ( This apply long before Covid , mind you . ) Everything you need to know about Sunday 's show , from who 's perform to potential controversy . Photograph : Anadolu Agency via Getty Images Kevin Chaffee , senior editor of Washington Life magazine , say : “ The Trump hotel have be struggle for quite a while and , without him be there , people don ’ t need to curry favour by stay there . Photograph : Mike Segar/Reuters “ The server be to hold a longneck-bottle opener by the low third of the handle in one hand and the Diet Coke , also by the low third , in the other . AstraZeneca 's new aim to supply 30 million dos of it COVID-19 vaccine to the European Union by the end of March hinge on the bloc 's drug regulator approve supply from a factory in the Netherlands , an internal document show . Corinne Masiero wear a bloodstained donkey costume before remove her clothes to reveal the word `` No culture , no future '' write across her front a she present the costume award on Friday . Beyond official duty , the 45th president be rarely see around the city , hardly ever visit museum or theatre and only ever din out at the Trump hotel itself . Once pour , the drink have to be place at the President ’ s right-hand side . The bar be a place to sit and watch multiple TV screen show sport or Fox News . ’ ” Trump always eat the same meal : shrimp cocktail , well-done steak and fry , sometimes with apple pie or chocolate cake for dessert , accord to the Washingtonian .",
+            "domain": "www.yahoo.com",
+            "tokenized": [
+                {
+                    "sent": "While most business have open in France , theatre and cinema have be close for more than three month .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The new low target , which confirm an early report from Reuters , be not guarantee a it depend on a vaccine factory in Leiden run by subcontractor Halix get the regulatory approval , the internal document date March 10 show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The star say she `` panic , felt blindside [ and ] get defensive '' on her US chat show The Talk .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Anglo-Swedish drugmaker say on Friday it would try to deliver 30 million dos to the EU by the end of March , down from a contractual obligation of 90 million and a previous pledge make last month to deliver 40 million dos .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ It use to be the hub of Trump World but I can ’ t imagine who go there now , ” say Sally Quinn , a local author and journalist .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "( This apply long before Covid , mind you . )",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Everything you need to know about Sunday 's show , from who 's perform to potential controversy .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Photograph : Anadolu Agency via Getty Images Kevin Chaffee , senior editor of Washington Life magazine , say : “ The Trump hotel have be struggle for quite a while and , without him be there , people don ’ t need to curry favour by stay there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Photograph : Mike Segar/Reuters “ The server be to hold a longneck-bottle opener by the low third of the handle in one hand and the Diet Coke , also by the low third , in the other .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "AstraZeneca 's new aim to supply 30 million dos of it COVID-19 vaccine to the European Union by the end of March hinge on the bloc 's drug regulator approve supply from a factory in the Netherlands , an internal document show .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Corinne Masiero wear a bloodstained donkey costume before remove her clothes to reveal the word `` No culture , no future '' write across her front a she present the costume award on Friday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Beyond official duty , the 45th president be rarely see around the city , hardly ever visit museum or theatre and only ever din out at the Trump hotel itself .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once pour , the drink have to be place at the President ’ s right-hand side .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The bar be a place to sit and watch multiple TV screen show sport or Fox News .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "’ ” Trump always eat the same meal : shrimp cocktail , well-done steak and fry , sometimes with apple pie or chocolate cake for dessert , accord to the Washingtonian .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/02/health/hydroxychloroquine-coronavirus-detroit-study/index.html",
+            "content": "( CNN ) A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital . But the finding , like the federal government 's use of the drug itself , be dispute .",
+            "domain": "www.cnn.com",
+            "tokenized": [
+                {
+                    "sent": "( CNN ) A surprising new study find the controversial antimalarial drug hydroxychloroquine help patient well survive in the hospital .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "But the finding , like the federal government 's use of the drug itself , be dispute .",
+                    "is_evidence": 1,
+                    "is_repeat": 1
+                }
+            ]
+        },
+        {
+            "link": "https://www.medrxiv.org/content/10.1101/2020.03.16.20037135v1",
+            "content": "Results Twenty case be treat in this study and show a significant reduction of the viral carriage at D6-post inclusion compare to control , and much low average carry duration than report of untreated patient in the literature . We evaluate the role of hydroxychloroquine on respiratory viral load . Background Chloroquine and hydroxychloroquine have be find to be efficient on SARS-CoV-2 , and report to be efficient in Chinese COV-19 patient . NOTE : Your email address be request solely to identify you a the sender of this article . Patients and method Patients be include in a single arm protocol to receive 600mg of hydroxychloroquine daily and their viral load in nasal swab be test daily . Depending on their clinical presentation , azithromycin be add to the treatment .",
+            "domain": "www.medrxiv.org",
+            "tokenized": [
+                {
+                    "sent": "Results Twenty case be treat in this study and show a significant reduction of the viral carriage at D6-post inclusion compare to control , and much low average carry duration than report of untreated patient in the literature .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We evaluate the role of hydroxychloroquine on respiratory viral load .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Background Chloroquine and hydroxychloroquine have be find to be efficient on SARS-CoV-2 , and report to be efficient in Chinese COV-19 patient .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "NOTE : Your email address be request solely to identify you a the sender of this article .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Patients and method Patients be include in a single arm protocol to receive 600mg of hydroxychloroquine daily and their viral load in nasal swab be test daily .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Depending on their clinical presentation , azithromycin be add to the treatment .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,716 @@
+{
+    "event_id": "270279",
+    "claim": "Democratic presidential nominee Joe Biden tweeted that there was less looting in Kenosha, Wisconsin, because the area had \"fewer Black people.\"",
+    "original_label": "false",
+    "label": "false",
+    "explain": "In September 2020, shortly after 2020 Democratic presidential nominee Joe Biden visited Kenosha, Wisconsin, in the wake of a series of protests in response to the police shooting of a Black man, an image supposedly showing a tweet sent by Biden started to circulate on social media:\n\nThis fake tweet read: “When I was in Kenosha, there wasn’t half the damage that @realDonaldTrunp made it out to be. He’s always gas lighting that the problems are in Democrat ran cities. What I observed in Kenosha was fewer black people than in major cities which means less looting. So he can’t just say the problems are just because who runs the cities and states.”\nThis is a fake tweet that was never posted to Biden’s account. \nFor starters, this tweet does not appear anywhere on Biden’s Twitter timeline. It also doesn’t appear in ProPublica’s database of deleted tweets.\nThe message, which is 342 characters, also exceeds Twitter’s characters limit of 280 characters. Lastly, the above-displayed image is actually a cropped version of the original fake tweet. The larger version includes the supposed date — April 9, 2020 — that it was posted to Biden’s Twitter timeline. This is impossible, of course, because Kenosha wasn’t at the center of protests until several months later when Jacob Blake was shot on Aug. 23.\n",
+    "reports": [
+        {
+            "link": "https://www.c-span.org/video/?475401-1/joe-biden-delivers-remarks-kenosha-wisconsin",
+            "content": "2020 Democratic presidential nominee Joe Biden and his wife , Jill , visit Kenosha , Wisconsin , where Jacob Blake , an unarmed Black man , be shot…\n2020 Democratic presidential nominee Joe Biden and his wife , Jill , visit Kenosha , Wisconsin , where Jacob Blake , an unarmed Black man , be shoot by police in August . close\nSenator Kamala Harris ( D-CA ) , the 2020 Democratic vice presidential nominee , talk about the coronavirus pandemic and its…\n2020 Democratic presidential nominee Joe Biden speak at a campaign event in Milwaukee , Wisconsin . The Bidens ' visit to Wisconsin include a private meeting with Mr. Blake ’ s family , which be hold before the community event at the Kenosha church . They gather with community official and activist at the Grace Lutheran Church in Kenosha , where Mr. Biden listen to a variety of people from the community talk about their concern regard systemic racism , police policy , and concern of resident and business owner in the wake of more than a week of protest that follow the shooting of Mr. Blake .",
+            "domain": "www.c-span.org",
+            "tokenized": [
+                {
+                    "sent": "2020 Democratic presidential nominee Joe Biden and his wife , Jill , visit Kenosha , Wisconsin , where Jacob Blake , an unarmed Black man , be shot…\n2020 Democratic presidential nominee Joe Biden and his wife , Jill , visit Kenosha , Wisconsin , where Jacob Blake , an unarmed Black man , be shoot by police in August .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "close\nSenator Kamala Harris ( D-CA ) , the 2020 Democratic vice presidential nominee , talk about the coronavirus pandemic and its…\n2020 Democratic presidential nominee Joe Biden speak at a campaign event in Milwaukee , Wisconsin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Bidens ' visit to Wisconsin include a private meeting with Mr. Blake ’ s family , which be hold before the community event at the Kenosha church .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They gather with community official and activist at the Grace Lutheran Church in Kenosha , where Mr. Biden listen to a variety of people from the community talk about their concern regard systemic racism , police policy , and concern of resident and business owner in the wake of more than a week of protest that follow the shooting of Mr. Blake .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.vox.com/21405407/kenosha-protests-looting-biden-trump-jacob-blake",
+            "content": "Democratic presidential nominee Joe Biden make a forceful denunciation this week of the property destruction that follow the Jacob Blake shoot in Kenosha , Wisconsin , say “ rioting be not protest . In decline to reconcile the failure of America ’ s democratic institution and in their strong denouncement of riot a political protest , elect official like Trump and Biden avoid the truth — there be no more effective force for stop riot than make a serious effort to stop police from kill Black people . As observe in the absence of guilty verdict after the killing of Elijah McClain , Rekia Boyd , Trayvon Martin , Sandra Bland , Tamir Rice , Korryn Gaines , Eric Garner , Aiyana Mo ’ Nay Stanley-Jones , Michael Brown , Eleanor Bumpurs , Freddie Gray , and many , many others , the court — a key site of democratic life — consistently fail to provide justice for Black people slay , and deterrence to police or vigilante who would unjustly slay Black folk again . Rebutting the binary politician like Bill Clinton pose last month between the legacy of nonviolent figure John Lewis and the less compromising Kwame Ture , Parker tell Vox that “ we have to understand that the Black freedom movement isn ’ t always about an either-or , or a versus . Rachel Kaadzi Ghansah remark on this selective storytelling in her GQ profile of Dylann Roof , who kill nine Black people at a church in Charleston , South Carolina , in 2015 . In absence of that , and in the presence of racial violence and discrimination , some people lose faith in democratic institution . It be political speech , at time persuasive , at time not , that be make all the more common by weak democratic institution . ”\nIf looting and riot have no place in a well-functioning democracy , then perhaps we should pause to consider that these be sign that Americans be not , in fact , in a functioning democracy .",
+            "domain": "www.vox.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe Biden make a forceful denunciation this week of the property destruction that follow the Jacob Blake shoot in Kenosha , Wisconsin , say “ rioting be not protest .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In decline to reconcile the failure of America ’ s democratic institution and in their strong denouncement of riot a political protest , elect official like Trump and Biden avoid the truth — there be no more effective force for stop riot than make a serious effort to stop police from kill Black people .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As observe in the absence of guilty verdict after the killing of Elijah McClain , Rekia Boyd , Trayvon Martin , Sandra Bland , Tamir Rice , Korryn Gaines , Eric Garner , Aiyana Mo ’ Nay Stanley-Jones , Michael Brown , Eleanor Bumpurs , Freddie Gray , and many , many others , the court — a key site of democratic life — consistently fail to provide justice for Black people slay , and deterrence to police or vigilante who would unjustly slay Black folk again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rebutting the binary politician like Bill Clinton pose last month between the legacy of nonviolent figure John Lewis and the less compromising Kwame Ture , Parker tell Vox that “ we have to understand that the Black freedom movement isn ’ t always about an either-or , or a versus .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rachel Kaadzi Ghansah remark on this selective storytelling in her GQ profile of Dylann Roof , who kill nine Black people at a church in Charleston , South Carolina , in 2015 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In absence of that , and in the presence of racial violence and discrimination , some people lose faith in democratic institution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be political speech , at time persuasive , at time not , that be make all the more common by weak democratic institution .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nIf looting and riot have no place in a well-functioning democracy , then perhaps we should pause to consider that these be sign that Americans be not , in fact , in a functioning democracy .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/news/politics/elections/2020/08/26/jacob-blake-joe-biden-speaks-out-police-shooting-kenosha/5635991002/",
+            "content": "WASHINGTON — Democratic presidential nominee Joe Biden express outrage in his first remark Wednesday on the shooting of Jacob Blake , an unarmed Black man shot multiple time in the back by a police officer in Kenosha , Wisconsin , say , `` What I saw in that video make me sick . '' `` Once again , a Black man – Jacob Blake – have be shoot by the police in broad daylight with the whole world watching , '' Biden say in a 90-second video release by his presidential campaign .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON — Democratic presidential nominee Joe Biden express outrage in his first remark Wednesday on the shooting of Jacob Blake , an unarmed Black man shot multiple time in the back by a police officer in Kenosha , Wisconsin , say , `` What I saw in that video make me sick . ''",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "`` Once again , a Black man – Jacob Blake – have be shoot by the police in broad daylight with the whole world watching , '' Biden say in a 90-second video release by his presidential campaign .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.reuters.com/article/us-usa-election/biden-speaks-with-jacob-blake-hears-from-kenosha-residents-idUSKBN25U1H8",
+            "content": "KENOSHA , Wis. ( Reuters ) - Democratic presidential nominee Joe Biden put himself squarely in the middle of U.S. tumult over racial injustice and police brutality on Thursday , visit strife-torn Kenosha , Wisconsin , and speaking by phone with the Black man shot there by police . During an evening visit to Latrobe , Pennsylvania , a swing state vital to his re-election hope , Trump send mixed message on the pandemic , urge people to wear mask over the Labor Day holiday weekend while chide Biden for wear them .",
+            "domain": "www.reuters.com",
+            "tokenized": [
+                {
+                    "sent": "KENOSHA , Wis. ( Reuters ) - Democratic presidential nominee Joe Biden put himself squarely in the middle of U.S. tumult over racial injustice and police brutality on Thursday , visit strife-torn Kenosha , Wisconsin , and speaking by phone with the Black man shot there by police .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "During an evening visit to Latrobe , Pennsylvania , a swing state vital to his re-election hope , Trump send mixed message on the pandemic , urge people to wear mask over the Labor Day holiday weekend while chide Biden for wear them .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/politics/ct-joe-biden-kenosha-visit-jacob-blake-family-20200903-3wokonihvvaclonwl5zllvyj4i-story.html",
+            "content": "KENOSHA , WIS. — Making a rare campaign trip to Wisconsin on Thursday , Democratic presidential nominee Joe Biden spoke by phone with paralyzed police shoot victim Jacob Blake and meet with his family before head to riot-torn Kenosha , where he urge the country to seize the moment and confront 400 year of institutional racism in America . As Biden make the trip to Wisconsin , his campaign debut a new one-minute ad in the state , as well a in Michigan , North Carolina and Pennsylvania , feature the candidate with run mate Sen. Kamala Harris and aim at address police violence against Black people . Among those speak to Biden be Porsche Bennett , an organizer for Black Lives Activists Kenosha . ”\n“ I think people be call for structural change , and then you can take the people of Kenosha that aren ’ t here and that you win ’ t see and that aren ’ t protesting . Seeking to contrast himself with Trump , Biden repeat the story of how he decide to get into the presidential contest after watch Trump ’ s reaction to white supremacist in Charlottesville , Virginia , in August 2017 , be confront by demonstrator , include one who be kill . ”\nBiden also seek to emphasize his support for peaceful protest versus violent looting and rioting . Rather than read from a piece of paper in her hand , she instead tell Biden , “ I have to give you the truth of the people and the truth of the matter be we be heavily angry . “ We have to let people know that we not only understand their struggle , but they understand the fact that they deserve to be treat with dignity .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "KENOSHA , WIS. — Making a rare campaign trip to Wisconsin on Thursday , Democratic presidential nominee Joe Biden spoke by phone with paralyzed police shoot victim Jacob Blake and meet with his family before head to riot-torn Kenosha , where he urge the country to seize the moment and confront 400 year of institutional racism in America .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "As Biden make the trip to Wisconsin , his campaign debut a new one-minute ad in the state , as well a in Michigan , North Carolina and Pennsylvania , feature the candidate with run mate Sen. Kamala Harris and aim at address police violence against Black people .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Among those speak to Biden be Porsche Bennett , an organizer for Black Lives Activists Kenosha .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ I think people be call for structural change , and then you can take the people of Kenosha that aren ’ t here and that you win ’ t see and that aren ’ t protesting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Seeking to contrast himself with Trump , Biden repeat the story of how he decide to get into the presidential contest after watch Trump ’ s reaction to white supremacist in Charlottesville , Virginia , in August 2017 , be confront by demonstrator , include one who be kill .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nBiden also seek to emphasize his support for peaceful protest versus violent looting and rioting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Rather than read from a piece of paper in her hand , she instead tell Biden , “ I have to give you the truth of the people and the truth of the matter be we be heavily angry .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ We have to let people know that we not only understand their struggle , but they understand the fact that they deserve to be treat with dignity .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-54017735",
+            "content": "US Democratic presidential candidate Joe Biden have speak over the phone with Jacob Blake , the black man who be shoot in the back by police in Kenosha , Wisconsin , spark big protest . And at a community event representative of law enforcement agency be present alongside activist and business owner who have fear looting and damage , illustrate the message of unity and healing that Joe Biden have be try to send . Two people protest against the shooting of Mr Blake be kill in Kenosha amid widespread looting and vandalism . Wisconsin be an important state in the upcoming presidential election .",
+            "domain": "www.bbc.com",
+            "tokenized": [
+                {
+                    "sent": "US Democratic presidential candidate Joe Biden have speak over the phone with Jacob Blake , the black man who be shoot in the back by police in Kenosha , Wisconsin , spark big protest .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "And at a community event representative of law enforcement agency be present alongside activist and business owner who have fear looting and damage , illustrate the message of unity and healing that Joe Biden have be try to send .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Two people protest against the shooting of Mr Blake be kill in Kenosha amid widespread looting and vandalism .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Wisconsin be an important state in the upcoming presidential election .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.detroitnews.com/story/news/politics/2020/08/27/kenoshas-upheaval-jolts-swing-state-politics-trump-and-biden/5645745002/",
+            "content": "Biden say on MSNBC on Thursday that “ if I be president I would be go , ” but also say he would consider go to Wisconsin a the Democratic nominee , but “ I don ’ t want to become part of the problem . To capture Wisconsin , the Democratic nominee must walk a line between mobilize his African-American and young supporter outrage by the shoot while not alienate White suburban voter concern about safety and security . When Donald Trump take the stage at the Republican convention Thursday night , the president will have a fresh example of strife to point to in make his case that people win ’ t be safe in Joe Biden ’ s America – this time in Wisconsin , a state that could decide the election . The Blake shooting and related violence be “ go to be a front-of-mind issue for people here in the state , ” say Jim Steineke , the Republican majority leader of the Wisconsin state Assembly . ”\n“ We will NOT stand for looting , arson , violence , and lawlessness on American street , ” Trump tweet Wednesday . “ These be the type of tragedy that can mobilize voter , ” say Democratic State Senator LaTonya Johnson , who represent downtown Milwaukee and one of state ’ s poor neighborhood nearby . He say that people he ’ s speak to in his district be scar about the violence that they ’ re seeing , and that ’ s his priority now rather than the election . ” Just over 6 % of the population in Wisconsin be Black , with the majority living in Milwaukee . ” I don ’ t think the president have try to exploit ” these episode , instead “ he ’ s focus on the concern of people , ” relate to law , order and safety . “ I do feel like people value safety and security over just about anything else , ” Steineke say . The late videotaped incident of police violence against an African-American man come just 10 week before the presidential election and four week before the start of mail-in balloting in Wisconsin . “ A lot of people stay home when Trump win in Wisconsin four year ago .",
+            "domain": "www.detroitnews.com",
+            "tokenized": [
+                {
+                    "sent": "Biden say on MSNBC on Thursday that “ if I be president I would be go , ” but also say he would consider go to Wisconsin a the Democratic nominee , but “ I don ’ t want to become part of the problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To capture Wisconsin , the Democratic nominee must walk a line between mobilize his African-American and young supporter outrage by the shoot while not alienate White suburban voter concern about safety and security .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "When Donald Trump take the stage at the Republican convention Thursday night , the president will have a fresh example of strife to point to in make his case that people win ’ t be safe in Joe Biden ’ s America – this time in Wisconsin , a state that could decide the election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Blake shooting and related violence be “ go to be a front-of-mind issue for people here in the state , ” say Jim Steineke , the Republican majority leader of the Wisconsin state Assembly .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ We will NOT stand for looting , arson , violence , and lawlessness on American street , ” Trump tweet Wednesday .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ These be the type of tragedy that can mobilize voter , ” say Democratic State Senator LaTonya Johnson , who represent downtown Milwaukee and one of state ’ s poor neighborhood nearby .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He say that people he ’ s speak to in his district be scar about the violence that they ’ re seeing , and that ’ s his priority now rather than the election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” Just over 6 % of the population in Wisconsin be Black , with the majority living in Milwaukee .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” I don ’ t think the president have try to exploit ” these episode , instead “ he ’ s focus on the concern of people , ” relate to law , order and safety .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I do feel like people value safety and security over just about anything else , ” Steineke say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The late videotaped incident of police violence against an African-American man come just 10 week before the presidential election and four week before the start of mail-in balloting in Wisconsin .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ A lot of people stay home when Trump win in Wisconsin four year ago .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://chicago.suntimes.com/politics/2020/9/3/21422214/biden-visit-kenosha-racism-police-misconduct-looting-wisconsin-jacob-blake",
+            "content": "Capping a week that have see two men paint starkly different portrait of a deeply divide America , Democratic presidential nominee Joe Biden visit Kenosha on Thursday , declare the reel Wisconsin city reveals “ an enormous opportunity ” for the nation to finally achieve racial equity . Trump didn ’ t address racism during his visit to Kenosha Tuesday , instead spotlight the property damage and slam “ Democrat-run city , ” include Chicago , for their handling of “ rioting , looting , arson and violence ” over the summer . The Democratic nominee hold court at Grace Lutheran Church in Kenosha , just west of the downtown area that saw day of heated protest — and night of violent unrest — follow the Aug. 23 shooting of Blake . For Biden , it be just his second trip outside a carefully control COVID-19 bubble over the last few month of a pandemic-ridden election race .",
+            "domain": "chicago.suntimes.com",
+            "tokenized": [
+                {
+                    "sent": "Capping a week that have see two men paint starkly different portrait of a deeply divide America , Democratic presidential nominee Joe Biden visit Kenosha on Thursday , declare the reel Wisconsin city reveals “ an enormous opportunity ” for the nation to finally achieve racial equity .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump didn ’ t address racism during his visit to Kenosha Tuesday , instead spotlight the property damage and slam “ Democrat-run city , ” include Chicago , for their handling of “ rioting , looting , arson and violence ” over the summer .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The Democratic nominee hold court at Grace Lutheran Church in Kenosha , just west of the downtown area that saw day of heated protest — and night of violent unrest — follow the Aug. 23 shooting of Blake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "For Biden , it be just his second trip outside a carefully control COVID-19 bubble over the last few month of a pandemic-ridden election race .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.jsonline.com/story/news/politics/analysis/2020/09/03/five-takeaways-joe-bidens-kenosha-visit-nothing-like-donald-trumps/5709175002/",
+            "content": "Democratic presidential nominee Joe Biden ’ s trip to Kenosha on Thursday be a study in contrast to President Donald Trump ’ s visit to the same beleaguered city two day earlier . While he spend a lot of time listen Thursday , Biden come to Wisconsin very much a a presidential candidate wag a campaign against the incumbent . Who would have guess that the Democratic nominee ’ s first campaign trip to Wisconsin in 2020 would come not before and not during the Democratic National Convention in Milwaukee , but week afterward ? And that it would be not in Milwaukee or Madison or Green Bay or La Crosse , but the small Democratic city of Kenosha that sit in the shadow of both Milwaukee and Chicago ? Trump reject the idea of `` systemic racism '' at his own Kenosha roundtable . Biden spend a lot of time discuss inequality and racism and poverty and heard impassioned appeal from Black resident about the way African Americans be treat by the criminal justice system .",
+            "domain": "www.jsonline.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe Biden ’ s trip to Kenosha on Thursday be a study in contrast to President Donald Trump ’ s visit to the same beleaguered city two day earlier .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "While he spend a lot of time listen Thursday , Biden come to Wisconsin very much a a presidential candidate wag a campaign against the incumbent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Who would have guess that the Democratic nominee ’ s first campaign trip to Wisconsin in 2020 would come not before and not during the Democratic National Convention in Milwaukee , but week afterward ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "And that it would be not in Milwaukee or Madison or Green Bay or La Crosse , but the small Democratic city of Kenosha that sit in the shadow of both Milwaukee and Chicago ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump reject the idea of `` systemic racism '' at his own Kenosha roundtable .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Biden spend a lot of time discuss inequality and racism and poverty and heard impassioned appeal from Black resident about the way African Americans be treat by the criminal justice system .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.washingtonpost.com/politics/biden-kenosha-jacob-blake/2020/09/03/adb60b36-edfd-11ea-b4bc-3a2098fc73d4_story.html",
+            "content": "Democratic presidential nominee Joe Biden thrust his campaign into the roil national debate over police violence and racial justice on Thursday a he travel to Kenosha , Wis. , and pointedly embrace the nation ’ s racial reckoning , vow improvement if elect president . Reflecting some of the internal debate among Democrats over the balance between animate Black voter protest in the street and try to win back White working-class voter in the industrial Midwest , Biden once again opposed looting and violence but also side with the sentiment of the street . On a related front , Biden , evoke John Lewis , the civil right icon who die in July , make his most direct appeal in Kenosha to Black voter and express worry that they would be too discourage to vote . ”\n“ He ’ s not for the Black people , he ’ s not for the community , he ’ s only for political stunt , ” say Charisse . “ As much a they say that Black Lives Matter have lose some stand since the president 's go on this rant about , you know , law and order , et cetera , ” Biden say , “ still you still have 50 percent of the American people support it . ”\nWhile Trump , in his visit , speak out against lawlessness , he do not meet with Blake ’ s family , and also have refuse to denounce Kyle Rittenhouse , a White teenager accuse of shoot and kill two people during the protest there . The protest have reignite the Democratic debate over the best path to the White House — woo young , urban voter or White voter who defect to Trump — but Biden this week seem intent on appeal to both . He have repeatedly make clear that he support peaceful protest but oppose any violence or looting , a he say Thursday .",
+            "domain": "www.washingtonpost.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe Biden thrust his campaign into the roil national debate over police violence and racial justice on Thursday a he travel to Kenosha , Wis. , and pointedly embrace the nation ’ s racial reckoning , vow improvement if elect president .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Reflecting some of the internal debate among Democrats over the balance between animate Black voter protest in the street and try to win back White working-class voter in the industrial Midwest , Biden once again opposed looting and violence but also side with the sentiment of the street .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On a related front , Biden , evoke John Lewis , the civil right icon who die in July , make his most direct appeal in Kenosha to Black voter and express worry that they would be too discourage to vote .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\n“ He ’ s not for the Black people , he ’ s not for the community , he ’ s only for political stunt , ” say Charisse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ As much a they say that Black Lives Matter have lose some stand since the president 's go on this rant about , you know , law and order , et cetera , ” Biden say , “ still you still have 50 percent of the American people support it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhile Trump , in his visit , speak out against lawlessness , he do not meet with Blake ’ s family , and also have refuse to denounce Kyle Rittenhouse , a White teenager accuse of shoot and kill two people during the protest there .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The protest have reignite the Democratic debate over the best path to the White House — woo young , urban voter or White voter who defect to Trump — but Biden this week seem intent on appeal to both .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "He have repeatedly make clear that he support peaceful protest but oppose any violence or looting , a he say Thursday .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.politico.com/news/2020/09/04/kenosha-trump-biden-what-we-learned-408790",
+            "content": "Democratic presidential nominee Joe Biden participate in a meeting with member of the community at Grace Lutheran Church on Thursday in Kenosha , Wis. | Alex Wong/Getty Images\n“ There ’ s a lot of folk who think that , well , the president ’ s make great stride with his law and order stride here , ” Biden say . Trump and Biden both visit Kenosha this week and turn the city of 100,000 in southeastern Wisconsin into the backdrop for compete vision not only about racism and crime in America , but the nature of presidential leadership in a time of crisis . ” )\nPresident Donald Trump tour an area on Tuesday damage during demonstration after a police officer shot Jacob Blake in Kenosha , Wis. | Evan Vucci/AP Photo\nPresidents don ’ t always have policy tool at their disposal , but they find other way to ease tension during a crisis . This be not Trump ’ s strength , which become clear during remark with reporter before he leave for Kenosha and on the ground tour area damage in riot and at a roundtable discussion with local leader .",
+            "domain": "www.politico.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe Biden participate in a meeting with member of the community at Grace Lutheran Church on Thursday in Kenosha , Wis. | Alex Wong/Getty Images\n“ There ’ s a lot of folk who think that , well , the president ’ s make great stride with his law and order stride here , ” Biden say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump and Biden both visit Kenosha this week and turn the city of 100,000 in southeastern Wisconsin into the backdrop for compete vision not only about racism and crime in America , but the nature of presidential leadership in a time of crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "” )\nPresident Donald Trump tour an area on Tuesday damage during demonstration after a police officer shot Jacob Blake in Kenosha , Wis. | Evan Vucci/AP Photo\nPresidents don ’ t always have policy tool at their disposal , but they find other way to ease tension during a crisis .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be not Trump ’ s strength , which become clear during remark with reporter before he leave for Kenosha and on the ground tour area damage in riot and at a roundtable discussion with local leader .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.tmj4.com/news/local-news/joe-biden-stresses-unity-in-visit-to-kenosha-meets-with-jacob-blakes-family",
+            "content": "Tony Evers say on Thursday that he do not want presidential candidate Joe Biden to visit Kenosha where he meet with family member of Jacob Blake , a Black man shot by police . “ Joe Biden make a political trip to Kenosha today – his first visit to Wisconsin – after month of say he could not travel because of the science of coronavirus . KENOSHA/MILWAUKEE — Democratic presidential candidate Joe Biden ’ s trip to southeastern Wisconsin center around send a message of unity during the aftermath of the Jacob Blake shooting . To top it off , people participate in his church meeting in Kenosha be hand script to read from during the public comment period , prove again that Biden ’ s handler don ’ t trust him in uncontrolled situation . '' ”\nWhile Biden be in Kenosha , he condemn the looting and destruction that happen early last week . “ I can ’ t understand what it ’ s like to walk out the door or send my son out the door or my daughter and worry about just because they ’ re black they may not come back , ” Biden respond .",
+            "domain": "www.tmj4.com",
+            "tokenized": [
+                {
+                    "sent": "Tony Evers say on Thursday that he do not want presidential candidate Joe Biden to visit Kenosha where he meet with family member of Jacob Blake , a Black man shot by police .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Joe Biden make a political trip to Kenosha today – his first visit to Wisconsin – after month of say he could not travel because of the science of coronavirus .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "KENOSHA/MILWAUKEE — Democratic presidential candidate Joe Biden ’ s trip to southeastern Wisconsin center around send a message of unity during the aftermath of the Jacob Blake shooting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To top it off , people participate in his church meeting in Kenosha be hand script to read from during the public comment period , prove again that Biden ’ s handler don ’ t trust him in uncontrolled situation . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWhile Biden be in Kenosha , he condemn the looting and destruction that happen early last week .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I can ’ t understand what it ’ s like to walk out the door or send my son out the door or my daughter and worry about just because they ’ re black they may not come back , ” Biden respond .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.theatlantic.com/ideas/archive/2020/08/how-biden-loses/615835/",
+            "content": "Democratic leader , from the nearly invisible mayor of Kenosha up to those on the presidential ticket , be reluctant to tarnish a just cause , amplify Republican attack , or draw the wrath of their own progressive base ( Senator Chris Murphy of Connecticut delete a tweet say that both the Blake shooting and the riot be wrong after commenters accuse him of equate the two ) . In the crude term of a presidential campaign , voter know that the Democrat mean it when he denounce police brutality , but less so when he denounce riot . On Thursday , Harris directly address the event in Kenosha , affirm that Americans “ must always defend peaceful protest and peaceful protester . To reach the public and convince it otherwise , Biden have to go beyond boilerplate and make it personal , memorable .",
+            "domain": "www.theatlantic.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic leader , from the nearly invisible mayor of Kenosha up to those on the presidential ticket , be reluctant to tarnish a just cause , amplify Republican attack , or draw the wrath of their own progressive base ( Senator Chris Murphy of Connecticut delete a tweet say that both the Blake shooting and the riot be wrong after commenters accuse him of equate the two ) .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "In the crude term of a presidential campaign , voter know that the Democrat mean it when he denounce police brutality , but less so when he denounce riot .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Thursday , Harris directly address the event in Kenosha , affirm that Americans “ must always defend peaceful protest and peaceful protester .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "To reach the public and convince it otherwise , Biden have to go beyond boilerplate and make it personal , memorable .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cnbc.com/2020/08/31/biden-trump-kenosha-violence.html",
+            "content": "WASHINGTON -- Former Vice President Joe Biden on Monday issue a stinging rebuke to President Donald Trump 's false accusation that the Democratic nominee be anti-law enforcement , or that he condone violence that have erupt in city like Kenosha , Wisconsin , and Portland , Oregon . The late police shooting of an unarmed Black man , Jacob Blake , occur in Kenosha earlier this month , spark protest and counterprotests there . Following Biden 's speech , the Trump campaign claim that Biden have `` fail to condemn the left-wing mob burning , looting , and terrorize American city . '' Property damage and clash with police in several large city have follow peaceful demonstration oppose police brutality against Black people , which be trigger by the police killing of George Floyd in Minneapolis in late May . It 's a shift drive in part by Trump 's hammering of a `` law and order '' message that distort both Biden 's position and the nature of the social justice protest this summer .",
+            "domain": "www.cnbc.com",
+            "tokenized": [
+                {
+                    "sent": "WASHINGTON -- Former Vice President Joe Biden on Monday issue a stinging rebuke to President Donald Trump 's false accusation that the Democratic nominee be anti-law enforcement , or that he condone violence that have erupt in city like Kenosha , Wisconsin , and Portland , Oregon .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The late police shooting of an unarmed Black man , Jacob Blake , occur in Kenosha earlier this month , spark protest and counterprotests there .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "Following Biden 's speech , the Trump campaign claim that Biden have `` fail to condemn the left-wing mob burning , looting , and terrorize American city . ''",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Property damage and clash with police in several large city have follow peaceful demonstration oppose police brutality against Black people , which be trigger by the police killing of George Floyd in Minneapolis in late May .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It 's a shift drive in part by Trump 's hammering of a `` law and order '' message that distort both Biden 's position and the nature of the social justice protest this summer .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://thehill.com/homenews/campaign/515019-biden-in-kenosha-trump-has-legitimized-a-dark-side-of-human-nature",
+            "content": "Democratic presidential nominee Joe BidenJoe BidenPro-Trump protestors , counter-protesters and police clash in DC after day of election demonstration Castro say 'there 's still work to do ' on Biden Cabinet diversity Robert Zoellick say human right , European relation to play key role in Biden foreign policy MORE on Thursday say President TrumpDonald TrumpOne person shot in Washington state during violent election protest Pro-Trump protestors , counter-protesters and police clash in DC after day of election demonstration COVID-19 infection spread rapidly a official race to distribute vaccine MORE have `` legitimize a dark side of human nature ” in remark at Grace Lutheran Church in Kenosha , Wis .",
+            "domain": "thehill.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe BidenJoe BidenPro-Trump protestors , counter-protesters and police clash in DC after day of election demonstration Castro say 'there 's still work to do ' on Biden Cabinet diversity Robert Zoellick say human right , European relation to play key role in Biden foreign policy MORE on Thursday say President TrumpDonald TrumpOne person shot in Washington state during violent election protest Pro-Trump protestors , counter-protesters and police clash in DC after day of election demonstration COVID-19 infection spread rapidly a official race to distribute vaccine MORE have `` legitimize a dark side of human nature ” in remark at Grace Lutheran Church in Kenosha , Wis .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.wpr.org/joe-biden-visits-kenosha-urges-optimism-and-unity-wake-unrest",
+            "content": "Republicans have be sharply critical of Biden ’ s lack of in-person appearance in Wisconsin so far this campaign season , argue he have forsake what be consider to be a key swing state in the presidential election . Democratic presidential candidate former Vice President Joe Biden speak a he meet with member of the community at Grace Lutheran Church in Kenosha , Wis. , Thursday , Sept. 3 , 2020 . Carolyn Kaster/AP Photo\nThe visit be the former vice president ’ s first appearance in Wisconsin during this presidential campaign cycle and the first time a Democratic nominee for president have be in Wisconsin since 2012 .",
+            "domain": "www.wpr.org",
+            "tokenized": [
+                {
+                    "sent": "Republicans have be sharply critical of Biden ’ s lack of in-person appearance in Wisconsin so far this campaign season , argue he have forsake what be consider to be a key swing state in the presidential election .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democratic presidential candidate former Vice President Joe Biden speak a he meet with member of the community at Grace Lutheran Church in Kenosha , Wis. , Thursday , Sept. 3 , 2020 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Carolyn Kaster/AP Photo\nThe visit be the former vice president ’ s first appearance in Wisconsin during this presidential campaign cycle and the first time a Democratic nominee for president have be in Wisconsin since 2012 .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.rev.com/blog/transcripts/joe-biden-kenosha-visit-transcript-september-3",
+            "content": "Democratic presidential nominee Joe Biden visit Kenosha on September 3 . It be a real privilege to have Vice President Joe Biden here today to listen and to seek healing and justice for u in Kenosha . But when you ’ re look at Wisconsin , which be consider the bad place in the United States for people of color , 34 % of African Americans live in poverty , 24 % of Hispanics , 28 % of Native American Indians and 18 % of people who be of Asian descent . We have all of these job that be around here , but we don ’ t have median… The median income and the difference between white family and African Americans in the State of Wisconsin be 50 % . So we pray dear God , that you , once again , continue to protect Kenosha , continue to protect Wisconsin , continue to protect this country . What I ’ d like to talk about , what ’ s occur in Wisconsin , be really something that ’ s an American issue and that ’ s about race and equality . As much a they say that Black Lives Matter have lose some standard since the president have go on this rant about law and order , et cetera , still you have over 50 % of the American people support it . But when we know the man at the top , yourself , be speak truth and speak an honest truth , you ’ re go to make our work here in Kenosha a lot well , and I ’ m look forward to that day . There ’ s not a whole lot of people that want to speak up , be the odd man out or odd woman out , no matter what outfit you work with . My mom call me , I have a 20 year old black man for a son , my mom call me shortly after the news get out about what happen because she know we live in Kenosha and her first thought be , “ Is Sean , okay ? Because a significant portion of the police be decent people , but no one , there ’ s a lot of bad folk in every organization . No one should have to pay more than 30 % of their income to be able to live and have housing , include people on the street . We ’ re very fortunate because they didn ’ t start our building on fire , like so many of them in the uptown area have be burn to the ground . That ’ s the spirit in Kenosha , and that ’ s the thing that give me hope . [ inaudible 01:05:57 ] it should give you a little bit of , confidence in the American people , they ain ’ t buy it . Well , I think , Alderman , what ’ s be unleash with a lot of people be they understand that fear doesn ’ t solve problem . But when Bull Connor , I be in grade school when Bull Connor take those fire hose and dog on those Black woman go to church in their Sunday best and little kid have the skin rip off them by these high power fire hose , he think he be put a wooden stake in the heart of the civil right movement .",
+            "domain": "www.rev.com",
+            "tokenized": [
+                {
+                    "sent": "Democratic presidential nominee Joe Biden visit Kenosha on September 3 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It be a real privilege to have Vice President Joe Biden here today to listen and to seek healing and justice for u in Kenosha .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when you ’ re look at Wisconsin , which be consider the bad place in the United States for people of color , 34 % of African Americans live in poverty , 24 % of Hispanics , 28 % of Native American Indians and 18 % of people who be of Asian descent .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We have all of these job that be around here , but we don ’ t have median… The median income and the difference between white family and African Americans in the State of Wisconsin be 50 % .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "So we pray dear God , that you , once again , continue to protect Kenosha , continue to protect Wisconsin , continue to protect this country .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "What I ’ d like to talk about , what ’ s occur in Wisconsin , be really something that ’ s an American issue and that ’ s about race and equality .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As much a they say that Black Lives Matter have lose some standard since the president have go on this rant about law and order , et cetera , still you have over 50 % of the American people support it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when we know the man at the top , yourself , be speak truth and speak an honest truth , you ’ re go to make our work here in Kenosha a lot well , and I ’ m look forward to that day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "There ’ s not a whole lot of people that want to speak up , be the odd man out or odd woman out , no matter what outfit you work with .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "My mom call me , I have a 20 year old black man for a son , my mom call me shortly after the news get out about what happen because she know we live in Kenosha and her first thought be , “ Is Sean , okay ?",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Because a significant portion of the police be decent people , but no one , there ’ s a lot of bad folk in every organization .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "No one should have to pay more than 30 % of their income to be able to live and have housing , include people on the street .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "We ’ re very fortunate because they didn ’ t start our building on fire , like so many of them in the uptown area have be burn to the ground .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "That ’ s the spirit in Kenosha , and that ’ s the thing that give me hope .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "[ inaudible 01:05:57 ] it should give you a little bit of , confidence in the American people , they ain ’ t buy it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Well , I think , Alderman , what ’ s be unleash with a lot of people be they understand that fear doesn ’ t solve problem .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "But when Bull Connor , I be in grade school when Bull Connor take those fire hose and dog on those Black woman go to church in their Sunday best and little kid have the skin rip off them by these high power fire hose , he think he be put a wooden stake in the heart of the civil right movement .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.csmonitor.com/USA/Politics/2020/0903/In-Kenosha-Biden-tries-to-thread-the-needle-on-protests-and-violence",
+            "content": "”\nSome Kenoshans say Mr. Biden actually face less of a balance act than it seem – because the majority of his supporter , outside the extreme , share the same basic goal : They want progress on racial justice , and they be oppose to violence . As President Trump cast himself a the “ law and order ” candidate , Mr. Biden be try to thread a political needle by denounce looting and violence without undermine his bona fides a a champion for racial justice and systemic change . As President Trump cast himself a the “ law and order ” candidate , Mr. Biden be try to thread a political needle by denounce looting and violence without undermine his bona fides a a champion for racial justice and systemic change . “ I don ’ t think it ’ s his place to say [ violence be ] wrong or not – and I think if he do it ’ s just go to alienate people , ” she say . “ They should have get help here right away , and that boy wouldn ’ t have shoot those people , ” she say , refer to Mr. Rittenhouse . They point approvingly to Mr. Biden ’ s speech in Pittsburgh on Monday , where he disavow rioting and looting a “ lawlessness , plain and simple.",
+            "domain": "www.csmonitor.com",
+            "tokenized": [
+                {
+                    "sent": "”\nSome Kenoshans say Mr. Biden actually face less of a balance act than it seem – because the majority of his supporter , outside the extreme , share the same basic goal : They want progress on racial justice , and they be oppose to violence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As President Trump cast himself a the “ law and order ” candidate , Mr. Biden be try to thread a political needle by denounce looting and violence without undermine his bona fides a a champion for racial justice and systemic change .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "As President Trump cast himself a the “ law and order ” candidate , Mr. Biden be try to thread a political needle by denounce looting and violence without undermine his bona fides a a champion for racial justice and systemic change .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I don ’ t think it ’ s his place to say [ violence be ] wrong or not – and I think if he do it ’ s just go to alienate people , ” she say .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ They should have get help here right away , and that boy wouldn ’ t have shoot those people , ” she say , refer to Mr. Rittenhouse .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "They point approvingly to Mr. Biden ’ s speech in Pittsburgh on Monday , where he disavow rioting and looting a “ lawlessness , plain and simple.",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.chicagotribune.com/election-2020/ct-kenosha-2020-election-wisconsin-battleground-state-20200828-v2uak3dfsjbgdb423a3x2gilfa-story.html",
+            "content": "”\nTucked in the southeast corner of Wisconsin along Lake Michigan , Kenosha County help deliver Trump the presidency in 2016 when he become the first Republican presidential candidate to carry the area in 44 year . ”\nWallner , the longtime Kenosha activist , say he be disturb not just by the killing , but by the fact that officer in the area show no apparent concern that a 17-year-old be out past the city ’ s mandatory curfew patrol the street with a rifle . The county be anchor by Kenosha , a Democrat-leaning city of 100,000 people halfway between Chicago and Milwaukee that be surround by more conservative small town and rural area . “ Those people do not have to die , and because of Tony Evers ’ action , they ’ re dead , ” Republican Assembly Speaker Robin Vos tell a local radio station in blame the governor for the shooting death of the two protester and the widespread destruction in Kenosha . Barack Obama , for example , easily win Kenosha in 2008 with 58 % of the vote and in 2012 with 55 % , but in do so collect roughly 25 % more total vote than Trump . More voter , however , participate in presidential election , and Trump and Biden be campaign for vote at a time when Wisconsin ’ s bitterly divide state politics have reach a fevered pitch . “ This be an election year , and I feel Trump and the Republican Party will benefit from the unrest , and we need to vote in people who will support u and hear our message , ” say Wallner , 30 , a lifelong Kenosha resident who work a a truck driver for a road construction company . ”\nThe president have offer such unrest a a preview of what city and town across America would look like regularly if former Vice President Joe Biden be elect — even though it have occur during his own presidency . Trump have suggest that the looting and destruction of Democratic-run city such a Chicago , Minneapolis and Portland would come to city and town all across the country if Biden and his party win the White House . Since 2016 , Wisconsin Democrats have show gradual sign of improvement , with Gov . “ I think the average Kenoshan be stand in their house , look at all this looting and say to themselves , ’ Yeah , maybe we do need a law-and-order president , ’ ” say Andrews , a self-described conservative who vote for Obama in 2012 and Republican John McCain in 2008 . If they want to bring about some order and safety and security for people , we have to start deal with the real problem underlie all these issue , ” Biden say in an interview with MSNBC .",
+            "domain": "www.chicagotribune.com",
+            "tokenized": [
+                {
+                    "sent": "”\nTucked in the southeast corner of Wisconsin along Lake Michigan , Kenosha County help deliver Trump the presidency in 2016 when he become the first Republican presidential candidate to carry the area in 44 year .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nWallner , the longtime Kenosha activist , say he be disturb not just by the killing , but by the fact that officer in the area show no apparent concern that a 17-year-old be out past the city ’ s mandatory curfew patrol the street with a rifle .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "The county be anchor by Kenosha , a Democrat-leaning city of 100,000 people halfway between Chicago and Milwaukee that be surround by more conservative small town and rural area .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ Those people do not have to die , and because of Tony Evers ’ action , they ’ re dead , ” Republican Assembly Speaker Robin Vos tell a local radio station in blame the governor for the shooting death of the two protester and the widespread destruction in Kenosha .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Barack Obama , for example , easily win Kenosha in 2008 with 58 % of the vote and in 2012 with 55 % , but in do so collect roughly 25 % more total vote than Trump .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "More voter , however , participate in presidential election , and Trump and Biden be campaign for vote at a time when Wisconsin ’ s bitterly divide state politics have reach a fevered pitch .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ This be an election year , and I feel Trump and the Republican Party will benefit from the unrest , and we need to vote in people who will support u and hear our message , ” say Wallner , 30 , a lifelong Kenosha resident who work a a truck driver for a road construction company .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "”\nThe president have offer such unrest a a preview of what city and town across America would look like regularly if former Vice President Joe Biden be elect — even though it have occur during his own presidency .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have suggest that the looting and destruction of Democratic-run city such a Chicago , Minneapolis and Portland would come to city and town all across the country if Biden and his party win the White House .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Since 2016 , Wisconsin Democrats have show gradual sign of improvement , with Gov .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "“ I think the average Kenoshan be stand in their house , look at all this looting and say to themselves , ’ Yeah , maybe we do need a law-and-order president , ’ ” say Andrews , a self-described conservative who vote for Obama in 2012 and Republican John McCain in 2008 .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If they want to bring about some order and safety and security for people , we have to start deal with the real problem underlie all these issue , ” Biden say in an interview with MSNBC .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.nytimes.com/2020/09/03/us/politics/joe-biden-kenosha.html",
+            "content": "KENOSHA , Wis. — Drawing a sharp contrast with President Trump , Joseph R. Biden Jr. on Thursday align himself strongly and sympathetically with protester of racial injustice and with Black voter during an afternoon of raw interaction with people still grapple with the police shooting of Jacob Blake . Ms. Valdez , who be white and have live in Kenosha since 2002 , say the demonstration grow so worrisome last month that she and her husband send their three young child out of the area for about a week , fear they would be hurt .",
+            "domain": "www.nytimes.com",
+            "tokenized": [
+                {
+                    "sent": "KENOSHA , Wis. — Drawing a sharp contrast with President Trump , Joseph R. Biden Jr. on Thursday align himself strongly and sympathetically with protester of racial injustice and with Black voter during an afternoon of raw interaction with people still grapple with the police shooting of Jacob Blake .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Ms. Valdez , who be white and have live in Kenosha since 2002 , say the demonstration grow so worrisome last month that she and her husband send their three young child out of the area for about a week , fear they would be hurt .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.usatoday.com/story/opinion/2020/08/31/riots-violence-erupting-turning-many-away-blm-and-protests-column/5675343002/",
+            "content": "This draw fire from Democratic Mayor Muriel Bowser , who say the performative antic do not have “ anything to do with demand for social justice , '' and encourage restaurant to call the police if it happen again . Democratic presidential nominee Joe Biden have come out against defunding , while imaginatively charge that President Trump support it . Violence erupt last week in Kenosha , Wisconsin after Jacob Blake be shoot in the back by police . This would be like report that most protester be unharmed in Kenosha even though three be shoot , two of them fatally , allegedly by a white 17-year-old who think of himself a a militia member . If Joe Biden have a concrete solution to the problem of American city in flame , he ’ s keep it to himself .",
+            "domain": "www.usatoday.com",
+            "tokenized": [
+                {
+                    "sent": "This draw fire from Democratic Mayor Muriel Bowser , who say the performative antic do not have “ anything to do with demand for social justice , '' and encourage restaurant to call the police if it happen again .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Democratic presidential nominee Joe Biden have come out against defunding , while imaginatively charge that President Trump support it .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Violence erupt last week in Kenosha , Wisconsin after Jacob Blake be shoot in the back by police .",
+                    "is_evidence": 1,
+                    "is_repeat": 0
+                },
+                {
+                    "sent": "This would be like report that most protester be unharmed in Kenosha even though three be shoot , two of them fatally , allegedly by a white 17-year-old who think of himself a a militia member .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "If Joe Biden have a concrete solution to the problem of American city in flame , he ’ s keep it to himself .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/biden-trump-kenosha-donna-brazile",
+            "content": "Incredibly , Trump have even make excuse for a White 17-year-old who come to Kenosha arm with an assault rifle and who stand accuse of kill two people at a Black Lives Matter demonstration . Former Vice President Biden , the Democratic presidential nominee , meet privately with member of the Blake family for about 90 minute . Trump have not call for needed police reform to prevent instance of police brutality that have kill or severely injured other Black people — such a George Floyd , who be kill when a White Minneapolis policeman kneel on his neck for nearly nine minute while Floyd lay on the ground helpless and handcuffed on Memorial Day . Once again , Biden make crystal clear that he strongly oppose violence , property destruction and looting . None of u want to become crime victim , any more than people of other race do . This be a widespread response by Americans that I didn ’ t see even during the 1960s civil right protest , and give me faith in the sense of justice of the American people .",
+            "domain": "www.foxnews.com",
+            "tokenized": [
+                {
+                    "sent": "Incredibly , Trump have even make excuse for a White 17-year-old who come to Kenosha arm with an assault rifle and who stand accuse of kill two people at a Black Lives Matter demonstration .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Former Vice President Biden , the Democratic presidential nominee , meet privately with member of the Blake family for about 90 minute .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Trump have not call for needed police reform to prevent instance of police brutality that have kill or severely injured other Black people — such a George Floyd , who be kill when a White Minneapolis policeman kneel on his neck for nearly nine minute while Floyd lay on the ground helpless and handcuffed on Memorial Day .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "Once again , Biden make crystal clear that he strongly oppose violence , property destruction and looting .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "None of u want to become crime victim , any more than people of other race do .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "This be a widespread response by Americans that I didn ’ t see even during the 1960s civil right protest , and give me faith in the sense of justice of the American people .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://nymag.com/intelligencer/2020/08/biden-condemns-violence-riots-looting-kenosha-jacob-blake-racism-police.html",
+            "content": "You misspell `` as long a cop keep shoot people in the back '' ( though you still might be wrong about that , too )\nOne person shot in Washington State and four people stab in D.C. during anti-election protest on Saturday\nIn some place , angry confrontation between protester and counterprotesters escalate into violence . It ’ s rare to see leftist make actual positive case for vandalism and violent protest — after all , it ’ s virtually impossible to make either a moral or a tactical case for attack the body or property of people who have nothing to do with police misconduct .",
+            "domain": "nymag.com",
+            "tokenized": [
+                {
+                    "sent": "You misspell `` as long a cop keep shoot people in the back '' ( though you still might be wrong about that , too )\nOne person shot in Washington State and four people stab in D.C. during anti-election protest on Saturday\nIn some place , angry confrontation between protester and counterprotesters escalate into violence .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "It ’ s rare to see leftist make actual positive case for vandalism and violent protest — after all , it ’ s virtually impossible to make either a moral or a tactical case for attack the body or property of people who have nothing to do with police misconduct .",
+                    "is_evidence": 0
+                }
+            ]
+        },
+        {
+            "link": "https://www.cbc.ca/news/world/kenosha-biden-trip-1.5710517",
+            "content": "Trump , meanwhile , have counter with sweeping condemnation of protester , an absolute defence of law enforcement and denial that Americans with black and brown skin face barrier that white do not — move aim at his overwhelmingly white political base . On Wednesday , Biden repeat that `` to engage in violence — burning , looting , the rest — in the name of protesting be wrong .",
+            "domain": "www.cbc.ca",
+            "tokenized": [
+                {
+                    "sent": "Trump , meanwhile , have counter with sweeping condemnation of protester , an absolute defence of law enforcement and denial that Americans with black and brown skin face barrier that white do not — move aim at his overwhelmingly white political base .",
+                    "is_evidence": 0
+                },
+                {
+                    "sent": "On Wednesday , Biden repeat that `` to engage in violence — burning , looting , the rest — in the name of protesting be wrong .",
+                    "is_evidence": 0
+                }
+            ]
+        }
+    ]
+}
